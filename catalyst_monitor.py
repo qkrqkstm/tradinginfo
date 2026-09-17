@@ -332,19 +332,22 @@ class Edgar:
         self.limiter = RateLimiter(6.0)
         self._tickers: dict[int, tuple[str, str]] | None = None
 
-    def get(self, url: str, timeout: int = 15) -> requests.Response | None:
-        self.limiter.wait()
-        try:
-            resp = self.session.get(url, timeout=timeout)
-            if resp.status_code == 200:
-                return resp
-            if resp.status_code in (403, 429):
-                log(f"!! EDGAR {resp.status_code} — UA 확인 또는 레이트리밋. 5초 대기")
-                time.sleep(5)
-            return None
-        except requests.RequestException as exc:
-            log(f"!! 요청 실패 {url}: {exc}")
-            return None
+    def get(self, url: str, timeout: int = 30) -> requests.Response | None:
+        for attempt in range(2):
+            self.limiter.wait()
+            try:
+                resp = self.session.get(url, timeout=timeout)
+                if resp.status_code == 200:
+                    return resp
+                if resp.status_code in (403, 429):
+                    log(f"!! EDGAR {resp.status_code} — UA 확인 또는 레이트리밋. 5초 대기")
+                    time.sleep(5)
+                    continue
+                return None
+            except requests.RequestException as exc:
+                log(f"!! 요청 실패({attempt + 1}/2) {url[:80]}: {exc}")
+                time.sleep(2)
+        return None
 
     # --- 티커 매핑 -------------------------------------------------------
     def tickers(self) -> dict[int, tuple[str, str]]:
@@ -722,6 +725,11 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
 
 
 def persist(state: dict) -> None:
+    sig = (len(state["alerts"]), state["alerts"][0]["id"] if state["alerts"] else "",
+           len(state["seen"]))
+    if state.get("_sig") == sig:
+        return                      # 내용 동일 — 파일 자체를 건드리지 않음
+    state["_sig"] = sig
     save_json(
         ALERTS_PATH,
         {
