@@ -1,15 +1,9 @@
 name: catalyst-monitor
 
 on:
-<<<<<<< HEAD
-  # schedule:
-  #   # GitHub cron 최소 단위는 5분. 잡 내부에서 30초 루프를 돌려 실질 주기를 맞춘다.
-  #   - cron: '*/5 * * * *'
-=======
   schedule:
     # GitHub cron 최소 단위는 5분. 잡 내부에서 30초 루프를 돌려 실질 주기를 맞춘다.
     - cron: '*/5 * * * *'
->>>>>>> 442864f (again)
   workflow_dispatch:
     inputs:
       mode:

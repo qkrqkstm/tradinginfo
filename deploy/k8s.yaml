@@ -1,0 +1,104 @@
+# 진짜 30초 주기가 필요하면 이쪽을 쓰세요. GitHub Actions cron은 최소 5분입니다.
+#
+# 사전 작업:
+#   kubectl -n catalyst create secret generic catalyst-secrets \
+#     --from-literal=TELEGRAM_BOT_TOKEN='<재발급한 토큰>' \
+#     --from-literal=TELEGRAM_CHAT_ID='-1004403452866' \
+#     --from-literal=SEC_USER_AGENT='hkpark hkpark@saraminhr.co.kr'
+#   kubectl -n catalyst create configmap catalyst-ui --from-file=docs/index.html
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: catalyst
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: catalyst-data
+  namespace: catalyst
+spec:
+  accessModes: [ReadWriteOnce]
+  resources:
+    requests:
+      storage: 1Gi
+  # storageClassName: <클러스터 기본값 아니면 지정>
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: catalyst-monitor
+  namespace: catalyst
+spec:
+  replicas: 1                     # 중복 알림 방지를 위해 반드시 1
+  strategy:
+    type: Recreate                # RWO PVC 공유 충돌 방지
+  selector:
+    matchLabels: {app: catalyst-monitor}
+  template:
+    metadata:
+      labels: {app: catalyst-monitor}
+    spec:
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 10001
+        fsGroup: 10001
+      containers:
+        - name: monitor
+          image: harbor.example.com/tools/catalyst-monitor:0.1.0
+          args: ["python", "scripts/catalyst_monitor.py", "--loop", "--interval", "30", "--max-runtime", "0"]
+          envFrom:
+            - secretRef: {name: catalyst-secrets}
+          volumeMounts:
+            - {name: data, mountPath: /app/docs/data, subPath: feed}
+            - {name: data, mountPath: /app/state,     subPath: state}
+          resources:
+            requests: {cpu: 50m,  memory: 128Mi}
+            limits:   {cpu: 500m, memory: 512Mi}
+
+        - name: web
+          image: nginxinc/nginx-unprivileged:1.27-alpine
+          ports:
+            - {containerPort: 8080, name: http}
+          volumeMounts:
+            - {name: data, mountPath: /usr/share/nginx/html/data, subPath: feed, readOnly: true}
+            - {name: ui,   mountPath: /usr/share/nginx/html/index.html, subPath: index.html, readOnly: true}
+          resources:
+            requests: {cpu: 10m, memory: 32Mi}
+            limits:   {cpu: 100m, memory: 128Mi}
+          readinessProbe:
+            httpGet: {path: /index.html, port: 8080}
+            initialDelaySeconds: 3
+      volumes:
+        - name: data
+          persistentVolumeClaim: {claimName: catalyst-data}
+        - name: ui
+          configMap: {name: catalyst-ui}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: catalyst-web
+  namespace: catalyst
+spec:
+  selector: {app: catalyst-monitor}
+  ports:
+    - {name: http, port: 80, targetPort: 8080}
+---
+# NGINX Gateway Fabric 사용 시
+apiVersion: gateway.networking.k8s.io/v1
+kind: HTTPRoute
+metadata:
+  name: catalyst-web
+  namespace: catalyst
+spec:
+  parentRefs:
+    - name: <gateway-name>
+      namespace: <gateway-namespace>
+  hostnames:
+    - catalyst.example.com
+  rules:
+    - matches:
+        - path: {type: PathPrefix, value: /}
+      backendRefs:
+        - {name: catalyst-web, port: 80}
