@@ -24,15 +24,34 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 20
 
-      - uses: actions/setup-python@v5
+      - name: 저장소 구조 확인
+        run: |
+          missing=0
+          for f in scripts/catalyst_monitor.py scripts/requirements.txt config.json \
+                   docs/data/alerts.json state/seen.json; do
+            if [ -f "$f" ]; then
+              echo "  OK   $f"
+            else
+              echo "  MISS $f"
+              missing=1
+            fi
+          done
+          if [ "$missing" = "1" ]; then
+            echo "--- 저장소 루트 실제 내용 ---"
+            ls -la
+            echo "--- 추적 중인 파일 (상위 40개) ---"
+            git ls-files | head -40
+            echo "::error::필수 파일 경로가 맞지 않습니다. 저장소 루트에 scripts/ docs/ state/ 가 바로 있어야 합니다."
+            exit 1
+          fi
+
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-          cache: pip
-          cache-dependency-path: scripts/requirements.txt
 
       - name: 의존성 설치
         run: pip install -r scripts/requirements.txt
@@ -42,7 +61,7 @@ jobs:
         run: echo "key=sec-tickers-$(date -u +%G-%V)" >> "$GITHUB_OUTPUT"
 
       - name: 티커 매핑 캐시
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: .cache
           key: ${{ steps.cachekey.outputs.key }}
