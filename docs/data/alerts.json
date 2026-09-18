@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-19T01:49:32+09:00",
- "count": 67,
+ "updated_at": "2026-09-19T01:54:35+09:00",
+ "count": 68,
  "alerts": [
+  {
+   "id": "0001654954-26-008449",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights, following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008449/0001654954-26-008449-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008449/a4553v.htm",
+   "filed_at": "2026-09-18T12:49:15-04:00",
+   "filed_kst": "2026-09-19 01:49",
+   "price": 101.39,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 101.39,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-18",
+     "close": 101.39,
+     "change": -1.41
+    },
+    {
+     "date": "2026-09-17",
+     "close": 102.84,
+     "change": 1.98
+    }
+   ],
+   "market_cap": 1741397569608.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T01:52:47+09:00"
+  },
   {
    "id": "0001213900-26-101181",
    "company": "Melar Acquisition Corp. I/Cayman",
