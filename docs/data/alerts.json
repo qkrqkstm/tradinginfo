@@ -1,7 +1,203 @@
 {
- "updated_at": "2026-09-18T18:59:26+09:00",
- "count": 49,
+ "updated_at": "2026-09-18T19:04:24+09:00",
+ "count": 53,
  "alerts": [
+  {
+   "id": "0001437749-26-030702",
+   "company": "ALTERITY THERAPEUTICS LTD",
+   "ticker": "ATHE",
+   "cik": 1131343,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "ATH434, the Company’s lead asset, has demonstrated clinically meaningful efficacy in a randomized, double-blind, placebo-controlled Phase 2 clinical trial in participants with MSA.",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926030702/0001437749-26-030702-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926030702/athe20260918_6k.htm",
+   "filed_at": "2026-09-18T06:01:58-04:00",
+   "filed_kst": "2026-09-18 19:01",
+   "price": 3.75,
+   "change": -2.6,
+   "price_history": [
+    {
+     "date": "2026-09-17",
+     "close": 3.75,
+     "change": -2.6
+    },
+    {
+     "date": "2026-09-16",
+     "close": 3.85,
+     "change": 10.0
+    },
+    {
+     "date": "2026-09-15",
+     "close": 3.5,
+     "change": -9.33
+    }
+   ],
+   "market_cap": 815658232.0,
+   "shares_outstanding": 217508862.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "MELBOURNE",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-09-18T19:03:49+09:00"
+  },
+  {
+   "id": "0001213900-26-101055",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The company recently announced that it has entered into a definitive business combination agreement (hereinafter “Business Combination”) with Inflection Point Acquisition Corp.",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026101055/0001213900-26-101055-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026101055/ea0305797-425_inflection7.htm",
+   "filed_at": "2026-09-17T18:25:43-04:00",
+   "filed_kst": "2026-09-18 07:25",
+   "price": 10.05,
+   "change": -0.1,
+   "price_history": [
+    {
+     "date": "2026-09-17",
+     "close": 10.05,
+     "change": -0.1
+    },
+    {
+     "date": "2026-09-16",
+     "close": 10.06,
+     "change": 0.1
+    },
+    {
+     "date": "2026-09-15",
+     "close": 10.05,
+     "change": 0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-18T19:02:03+09:00"
+  },
+  {
+   "id": "0001564708-26-000204",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000204/0001564708-26-000204-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000204/appendix3cclassa20260917.htm",
+   "filed_at": "2026-09-17T18:26:38-04:00",
+   "filed_kst": "2026-09-18 07:26",
+   "price": 33.37,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 33.37,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-17",
+     "close": 33.37,
+     "change": -0.21
+    },
+    {
+     "date": "2026-09-16",
+     "close": 33.44,
+     "change": -1.01
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-18T19:02:01+09:00"
+  },
+  {
+   "id": "0001292814-26-004592",
+   "company": "TIM S.A.",
+   "ticker": "TIMB",
+   "cik": 1826168,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각"
+   ],
+   "confidence": 73,
+   "summary": "6-K 1 timb20260917_6k1.htm 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 Date of Report: September 17, 2026 Commission File Number: 001-39570 TIM S.A. (",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426004592/0001292814-26-004592-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426004592/timb20260917_6k1.htm",
+   "filed_at": "2026-09-17T17:57:24-04:00",
+   "filed_kst": "2026-09-18 06:57",
+   "price": 18.98,
+   "change": -0.42,
+   "price_history": [
+    {
+     "date": "2026-09-17",
+     "close": 18.98,
+     "change": -0.42
+    },
+    {
+     "date": "2026-09-16",
+     "close": 19.06,
+     "change": 0.16
+    },
+    {
+     "date": "2026-09-15",
+     "close": 19.03,
+     "change": -0.47
+    }
+   ],
+   "market_cap": 45402549373.0,
+   "shares_outstanding": 2392125889.0,
+   "industry": "Telephone Communications (No Radiotelephone)",
+   "state_of_incorporation": "Brazil",
+   "hq": "RIO DE JANEIRO, RJ, D5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-18T19:01:18+09:00"
+  },
   {
    "id": "0001213900-26-100994",
    "company": "NewHold Investment Corp. III",
