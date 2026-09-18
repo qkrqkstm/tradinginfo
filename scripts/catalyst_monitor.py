@@ -426,8 +426,14 @@ class Edgar:
             if resp.status_code == 200:
                 data = resp.json()
                 business = (data.get("addresses") or {}).get("business") or {}
-                # category 필드에 "<br>대형가속신고인" 처럼 HTML 태그가 섞여 오는 경우가 있어 제거
-                category = re.sub(r"<[^>]+>", "", data.get("category") or "").strip()
+                # category 필드는 "Accelerated filer<br>Emerging growth company"처럼
+                # 여러 구분을 <br>로 이어붙여 오므로, 태그만 지우면 단어가 붙어버린다.
+                # <br> 기준으로 나눠 리스트로 보관하고, 화면에는 프론트에서 한글로 조합해 표시한다.
+                categories = [
+                    c.strip()
+                    for c in re.split(r"<br\s*/?>", data.get("category") or "", flags=re.I)
+                    if c.strip()
+                ]
                 hq = ", ".join(
                     x for x in [business.get("city"), business.get("stateOrCountry")] if x
                 )
@@ -435,7 +441,7 @@ class Edgar:
                     "industry": data.get("sicDescription") or None,
                     "state_of_incorporation": data.get("stateOfIncorporationDescription") or None,
                     "hq": hq or None,
-                    "entity_category": category or None,
+                    "entity_category": categories or None,
                 }
         except Exception:
             profile = None

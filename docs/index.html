@@ -83,6 +83,51 @@ button,input,select{font:inherit}.app{display:flex;min-height:100vh}
 
 <script>
 const TYPE_CLASS={"M&A":"ma","파트너십":"partnership","임상통과":"clinical","탑라인결과":"topline","FDA":"fda","자사주매입":"buyback","주식소각":"retirement","대형계약":"contract","지수편입":"index","가이던스상향":"guidance","배당":"dividend"};
+// SEC SIC 업종명 한글 번역. 목록에 없는 값은 원문(영문) 그대로 표시한다.
+const INDUSTRY_KO={
+  "Biological Products, (No Diagnostic Substances)":"생물학적 제제(진단용 제외)",
+  "Blank Checks":"백지수표회사(SPAC)",
+  "Chemicals & Allied Products":"화학제품",
+  "Cogeneration Services & Small Power Producers":"열병합·소규모 발전",
+  "Crude Petroleum & Natural Gas":"원유·천연가스",
+  "Deep Sea Foreign Transportation of  Freight":"해상화물운송(원양)",
+  "Electric Services":"전력공급업",
+  "Finance Services":"금융서비스",
+  "Food and Kindred Products":"식품 및 관련제품",
+  "General Industrial Machinery & Equipment, NEC":"일반산업기계·장비",
+  "Gold and Silver Ores":"금·은 광업",
+  "Insurance Agents, Brokers & Service":"보험대리·중개업",
+  "Investors, NEC":"투자업(기타)",
+  "Land Subdividers & Developers (No Cemeteries)":"토지개발업",
+  "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)":"비금속광물 채굴업",
+  "Motor Vehicle Parts & Accessories":"자동차 부품",
+  "Perfumes, Cosmetics & Other Toilet Preparations":"향수·화장품",
+  "Personal Credit Institutions":"개인신용대출업",
+  "Pharmaceutical Preparations":"제약",
+  "Real Estate":"부동산",
+  "Real Estate Investment Trusts":"리츠(부동산투자신탁)",
+  "Retail-Nonstore Retailers":"무점포 소매업",
+  "Savings Institution, Federally Chartered":"저축은행(연방인가)",
+  "Semiconductors & Related Devices":"반도체·관련장치",
+  "Services-Computer Programming Services":"컴퓨터 프로그래밍 서비스",
+  "Services-Educational Services":"교육서비스",
+  "Services-Miscellaneous Amusement & Recreation":"오락·레저서비스",
+  "Services-Prepackaged Software":"패키지 소프트웨어",
+  "Special Industry Machinery (No Metalworking Machinery)":"특수산업기계",
+  "Surgical & Medical Instruments & Apparatus":"의료·수술기기",
+  "Transportation Services":"운송서비스",
+  "Water Supply":"수도(상수도) 공급업",
+  "Wholesale-Hardware & Plumbing & Heating Equipment & Supplies":"배관·난방기자재 도매업",
+};
+const CATEGORY_KO={
+  "Large accelerated filer":"대형 가속신고인",
+  "Accelerated filer":"가속신고인",
+  "Non-accelerated filer":"비가속신고인",
+  "Smaller reporting company":"소규모 공시기업",
+  "Emerging growth company":"신생성장기업",
+};
+const industryKo=s=>s?(INDUSTRY_KO[s]||s):s;
+const categoryKo=arr=>(arr||[]).map(c=>CATEGORY_KO[c]||c).join(" · ");
 const ITEM_LABELS={"1.01":"중요계약 체결","1.02":"중요계약 종료","2.01":"인수완료","2.02":"실적발표","3.01":"상장규정","5.02":"임원변동","7.01":"Reg FD 공시","8.01":"기타 중요사항","9.01":"첨부문서"};
 
 let DATA=[], activeType="all", activeNav="all", query="", updatedAt=null;
@@ -187,7 +232,7 @@ function render(){
     return `<tr data-i="${i}">
       <td><div class="company"><div class="logo">${esc(initials(a.company))}</div><div><strong>${esc(a.company.slice(0,34))}</strong><span>${esc(a.form)}${a.items&&a.items.length?" · Item "+a.items[0]:""}</span></div></div></td>
       <td class="ticker">${esc(a.ticker||"–")}</td>
-      <td class="industry">${esc(a.industry||"–")}</td>
+      <td class="industry">${esc(industryKo(a.industry)||"–")}</td>
       <td class="summary">${esc(a.summary.slice(0,170))}${a.summary.length>170?"…":""}</td>
       <td><span class="badge ${cls}">${a.emoji||""} ${esc(a.primary)}</span>${extra}</td>
       <td><div class="conf"><div class="bar ${a.confidence>=80?'hi':''}"><i style="width:${a.confidence}%"></i></div><span style="font-size:12px;color:#53627a">${a.confidence}%</span></div></td>
@@ -209,7 +254,7 @@ function openModal(i){
   $("modalTitle").textContent=`${a.company}${a.ticker?" ("+a.ticker+")":""}`;
   const items=(a.items||[]).map(x=>`Item ${x}${ITEM_LABELS[x]?" "+ITEM_LABELS[x]:""}`).join(", ");
   $("modalMeta").textContent=[a.form,items,a.filed_kst+" KST"].filter(Boolean).join(" · ");
-  const companyBits=[a.industry, a.hq&&`본사 ${a.hq}`, a.state_of_incorporation&&`설립지 ${a.state_of_incorporation}`, a.entity_category].filter(Boolean);
+  const companyBits=[industryKo(a.industry), a.hq&&`본사 ${a.hq}`, a.state_of_incorporation&&`설립지 ${a.state_of_incorporation}`, categoryKo(a.entity_category)].filter(Boolean);
   $("modalCompanyInfo").textContent=companyBits.join(" · ");
   $("modalDetail").innerHTML=`<b>탐지 유형</b><br>${a.types.map(t=>`<span class="badge ${TYPE_CLASS[t]||'contract'}" style="margin:4px 4px 0 0">${esc(t)}</span>`).join("")}
     <br><br><b>공시 원문 발췌</b><br><span style="color:#3f4f68">${esc(a.summary)}</span>`;
