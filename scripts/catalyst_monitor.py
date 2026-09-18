@@ -214,6 +214,33 @@ CATALYSTS = [
     },
 ]
 
+# M&A 세부 판단: 같은 "M&A"라도 자사가 인수 주체(acquirer)인지 피인수 대상(target)인지에 따라
+# 주가 반응이 정반대다(타겟은 딜 가격으로 수렴 상승, 인수 주체는 보통 보합·하락).
+MA_ROLE_PATTERNS = {
+    "target": [
+        r"to\s+be\s+acquired\s+by",
+        r"agreed\s+to\s+be\s+acquired",
+        r"per\s+share\s+in\s+cash",
+    ],
+    "acquirer": [
+        r"(has\s+)?agreed\s+to\s+acquire",
+        r"completed\s+the\s+acquisition\s+of",
+        r"(commenc\w+|launch\w+)\s+a\s+tender\s+offer",
+    ],
+}
+MA_ROLE_RE = {role: [re.compile(p, re.I) for p in pats] for role, pats in MA_ROLE_PATTERNS.items()}
+
+# 이미 공지된 딜의 절차적 후속 공시(주주총회 표결 결과, 교환비율 조정 등)는 새 재료가 아니므로
+# "as previously announced" 같은 범용 문구는 제외하고(딜 종결 뉴스까지 걸러버릴 수 있어서),
+# 후속 절차임이 확실한 신호만 좁게 잡는다.
+MA_FOLLOWUP_PATTERNS = [
+    r"item\s*5\.07",
+    r"exchange\s+ratio\s+adjustment",
+    r"results?\s+of\s+(the\s+)?special\s+meeting",
+    r"special\s+meeting\s+.{0,30}(results|voted|approved)",
+]
+MA_FOLLOWUP_RE = [re.compile(p, re.I) for p in MA_FOLLOWUP_PATTERNS]
+
 # 하드 네거티브: 하나라도 걸리면 무조건 제외 (악재를 호재로 오탐하는 케이스 차단)
 HARD_NEGATIVE = [
     r"did\s+not\s+meet\s+(its|the)\s+primary\s+endpoint",
@@ -575,6 +602,19 @@ def classify(text: str) -> dict | None:
     score -= soft * 5
 
     primary = max(hits, key=lambda c: c["weight"])
+
+    deal_role, is_followup = None, False
+    if primary["key"] == "ma":
+        is_target = any(rx.search(text) for rx in MA_ROLE_RE["target"])
+        is_acquirer = any(rx.search(text) for rx in MA_ROLE_RE["acquirer"])
+        if is_target and not is_acquirer:
+            deal_role = "target"
+        elif is_acquirer and not is_target:
+            deal_role = "acquirer"
+        is_followup = any(rx.search(text) for rx in MA_FOLLOWUP_RE)
+        if is_followup:
+            score -= 8
+
     confidence = max(35, min(97, 45 + score))
     return {
         "blocked": False,
@@ -584,6 +624,8 @@ def classify(text: str) -> dict | None:
         "types": [c["label"] for c in hits],
         "confidence": confidence,
         "summary": pick_summary(evidence, primary["key"]),
+        "deal_role": deal_role,
+        "is_followup": is_followup,
     }
 
 
@@ -725,8 +767,9 @@ class Telegram:
     def render(a: dict) -> str:
         e = html_mod.escape
         types = " · ".join(a["types"][:3])
+        role_label = {"target": "🎯 피인수 대상", "acquirer": "🏹 인수 주체"}.get(a.get("deal_role"))
         lines = [
-            f"{a['emoji']} <b>{e(a['primary'])}</b>",
+            f"{a['emoji']} <b>{e(a['primary'])}</b>" + (f" ({role_label})" if role_label else ""),
             f"<b>{e(a['company'])}</b>"
             + (f" (<code>{e(a['ticker'])}</code>)" if a.get("ticker") else ""),
             "",
@@ -738,7 +781,8 @@ class Telegram:
             labels = [ITEM_LABELS.get(i, i) for i in a["items"]]
             meta.append("Item " + ", ".join(a["items"]) + f" ({', '.join(labels[:2])})")
         lines.append(" · ".join(meta))
-        lines.append(f"🏷 {e(types)} · 신뢰도 {a['confidence']}%")
+        followup = " · 🔁 후속공시(이미 공지된 딜)" if a.get("is_followup") else ""
+        lines.append(f"🏷 {e(types)} · 신뢰도 {a['confidence']}%{followup}")
         if a.get("price") is not None:
             sign = "▲" if a["change"] >= 0 else "▼"
             cap = f" · 시총 {format_market_cap(a['market_cap'])}" if a.get("market_cap") else ""
@@ -820,6 +864,8 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             "types": result["types"],
             "confidence": result["confidence"],
             "summary": result["summary"],
+            "deal_role": result.get("deal_role"),
+            "is_followup": result.get("is_followup", False),
             "index_url": f["index_url"],
             "doc_url": doc_urls[0] if doc_urls else f["index_url"],
             "filed_at": f["filed_at"],
