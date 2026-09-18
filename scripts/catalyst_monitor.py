@@ -804,11 +804,8 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             log(f"  · {f['company'][:30]} — 티커 없음(비상장 추정), 스킵")
             continue
         quote = fetch_quote(ticker) if (cfg.get("fetch_quotes", True) and ticker) else None
-        market_cap = None
-        if quote and quote.get("price"):
-            shares = edgar.shares_outstanding(f["cik"])
-            if shares:
-                market_cap = round(shares * quote["price"], 0)
+        shares = edgar.shares_outstanding(f["cik"])
+        market_cap = round(shares * quote["price"], 0) if (quote and quote.get("price") and shares) else None
         profile = edgar.company_profile(f["cik"]) or {}
 
         alert = {
@@ -832,6 +829,7 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             "change": quote["change"] if quote else None,
             "price_history": quote["history"] if quote else [],
             "market_cap": market_cap,
+            "shares_outstanding": shares,
             "industry": profile.get("industry"),
             "state_of_incorporation": profile.get("state_of_incorporation"),
             "hq": profile.get("hq"),
