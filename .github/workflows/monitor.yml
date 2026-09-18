@@ -1,9 +1,8 @@
 name: catalyst-monitor
 
 on:
-  schedule:
-    # GitHub cron 최소 단위는 5분. 잡 내부에서 30초 루프를 돌려 실질 주기를 맞춘다.
-    - cron: '*/5 * * * *'
+  # GitHub 자체 schedule 트리거는 부하가 높을 때 몇 시간씩 지연돼(실측 확인됨) 제거함.
+  # 대신 cron-job.org 등 외부 서비스가 5분마다 workflow_dispatch API를 호출해 실행을 트리거한다.
   workflow_dispatch:
     inputs:
       mode:

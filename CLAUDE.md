@@ -78,8 +78,14 @@ python scripts/catalyst_monitor.py --dry-run
 
 ## 운영 특성
 
-- GitHub cron 최소 단위는 5분이며 지연·누락이 발생한다. 30초는 잡 내부 루프로 근사한 것이지
-  보장되지 않는다. 진짜 30초가 필요하면 `deploy/k8s.yaml`.
+- `monitor.yml`에는 `schedule` 트리거가 없다. GitHub 자체 cron은 부하가 높을 때 실측 기준
+  몇 시간씩 지연되는 것을 확인해 제거했고, 대신 cron-job.org 같은 외부 서비스가 5분마다
+  `workflow_dispatch` API(`POST /repos/{owner}/{repo}/actions/workflows/monitor.yml/dispatches`)를
+  호출해 실행을 트리거한다. 인증용 fine-grained PAT는 해당 저장소의 `Actions: Read and write`
+  권한만 부여해 외부 cron 서비스에만 저장되어 있고, 이 저장소에는 존재하지 않는다.
+  30초는 잡 내부 루프로 근사한 것이지 보장되지 않는다. 진짜 30초가 필요하면 `deploy/k8s.yaml`.
+- 외부 cron 트리거가 끊기면(토큰 만료 등) 이 워크플로는 더 이상 자동 실행되지 않는다.
+  `workflow_dispatch`를 Actions 탭에서 수동 실행하거나 PAT를 재발급해 cron 서비스에 갱신할 것.
 - 저장소는 public이어야 한다. private이면 Actions 사용량이 월 4만 분에 달한다.
 - 알림이 0건이어도 `updated_at` 타임스탬프 때문에 매 실행 커밋이 발생한다. 하루 약 288커밋.
   줄이려면 `persist()`에서 내용 변화가 있을 때만 쓰도록 수정.
