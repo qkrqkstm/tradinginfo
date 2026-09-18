@@ -339,6 +339,7 @@ class Edgar:
         self.limiter = RateLimiter(6.0)
         self._tickers: dict[int, tuple[str, str]] | None = None
         self._shares_cache: dict[int, float | None] = {}
+        self._profile_cache: dict[int, dict | None] = {}
 
     def get(self, url: str, timeout: int = 15) -> requests.Response | None:
         self.limiter.wait()
@@ -412,6 +413,34 @@ class Edgar:
             value = None
         self._shares_cache[cik] = value
         return value
+
+    # --- 업종/회사 개요 (산업군 표시, 회사 소개용) ---------------------------
+    def company_profile(self, cik: int) -> dict | None:
+        if cik in self._profile_cache:
+            return self._profile_cache[cik]
+        url = f"https://data.sec.gov/submissions/CIK{cik:010d}.json"
+        self.limiter.wait()
+        profile = None
+        try:
+            resp = self.data_session.get(url, timeout=10)
+            if resp.status_code == 200:
+                data = resp.json()
+                business = (data.get("addresses") or {}).get("business") or {}
+                # category 필드에 "<br>대형가속신고인" 처럼 HTML 태그가 섞여 오는 경우가 있어 제거
+                category = re.sub(r"<[^>]+>", "", data.get("category") or "").strip()
+                hq = ", ".join(
+                    x for x in [business.get("city"), business.get("stateOrCountry")] if x
+                )
+                profile = {
+                    "industry": data.get("sicDescription") or None,
+                    "state_of_incorporation": data.get("stateOfIncorporationDescription") or None,
+                    "hq": hq or None,
+                    "entity_category": category or None,
+                }
+        except Exception:
+            profile = None
+        self._profile_cache[cik] = profile
+        return profile
 
     # --- 최신 공시 목록 --------------------------------------------------
     def recent(self, form_type: str, count: int = 100) -> list[dict]:
@@ -774,6 +803,7 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             shares = edgar.shares_outstanding(f["cik"])
             if shares:
                 market_cap = round(shares * quote["price"], 0)
+        profile = edgar.company_profile(f["cik"]) or {}
 
         alert = {
             "id": f["accession"],
@@ -796,6 +826,10 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             "change": quote["change"] if quote else None,
             "price_history": quote["history"] if quote else [],
             "market_cap": market_cap,
+            "industry": profile.get("industry"),
+            "state_of_incorporation": profile.get("state_of_incorporation"),
+            "hq": profile.get("hq"),
+            "entity_category": profile.get("entity_category"),
             "detected_at": datetime.now(KST).isoformat(timespec="seconds"),
         }
 
