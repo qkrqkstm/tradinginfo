@@ -1,7 +1,104 @@
 {
- "updated_at": "2026-09-19T06:19:52+09:00",
- "count": 111,
+ "updated_at": "2026-09-19T06:24:51+09:00",
+ "count": 113,
  "alerts": [
+  {
+   "id": "0001753926-26-001836",
+   "company": "Nuran Wireless Inc.",
+   "ticker": "NUR",
+   "cik": 1680637,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "The Company completed the acquisition of the Factor, whose principal assets consisted of factored receivables representing claims against the Company.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001836/0001753926-26-001836-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001836/g085959_ex99-1.htm",
+   "filed_at": "2026-09-18T17:24:16-04:00",
+   "filed_kst": "2026-09-19 06:24",
+   "price": 1.22,
+   "change": 15.09,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 1.22,
+     "change": 15.09
+    },
+    {
+     "date": "2026-09-17",
+     "close": 1.06,
+     "change": -1.85
+    },
+    {
+     "date": "2026-09-16",
+     "close": 1.08,
+     "change": -9.24
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Computer Communications Equipment",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "QUEBEC",
+   "entity_category": null,
+   "detected_at": "2026-09-19T06:24:50+09:00"
+  },
+  {
+   "id": "0001493152-26-043407",
+   "company": "Santacruz Silver Mining Ltd.",
+   "ticker": "SCZM",
+   "cik": 1548536,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "V:SCZ) (“ Santacruz ” or the “ Company ”) is pleased to announce that it has completed the acquisition of a 500-tonne-per-day (“ tpd ”) milling facility located in Bolivia, comprising two 250-tonne-per-day processing circuits, each equipped with selective flotation systems for the recovery of lead a",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1548536/000149315226043407/0001493152-26-043407-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1548536/000149315226043407/ex99-1.htm",
+   "filed_at": "2026-09-18T17:21:53-04:00",
+   "filed_kst": "2026-09-19 06:21",
+   "price": 9.53,
+   "change": 6.84,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 9.53,
+     "change": 6.84
+    },
+    {
+     "date": "2026-09-17",
+     "close": 8.92,
+     "change": 7.34
+    },
+    {
+     "date": "2026-09-16",
+     "close": 8.31,
+     "change": -3.82
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "NUEVO LEON, O5",
+   "entity_category": null,
+   "detected_at": "2026-09-19T06:22:53+09:00"
+  },
   {
    "id": "0001104659-26-108980",
    "company": "Theravance Biopharma, Inc.",
