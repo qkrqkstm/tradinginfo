@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-09-19T05:29:14+09:00",
- "count": 102,
+ "updated_at": "2026-09-19T05:34:11+09:00",
+ "count": 103,
  "alerts": [
+  {
+   "id": "0001304492-26-000053",
+   "company": "Anterix Inc.",
+   "ticker": "ATEX",
+   "cik": 1304492,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) authorized a share repurchase program (the “Share Repurchase Program”) to be effective starting September 22, 2026 following the expiration of the Company’s previous share repurchase program on September 21, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1304492/000130449226000053/0001304492-26-000053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1304492/000130449226000053/atex-20260916.htm",
+   "filed_at": "2026-09-18T16:29:37-04:00",
+   "filed_kst": "2026-09-19 05:29",
+   "price": 76.99,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 76.99,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-18",
+     "close": 76.99,
+     "change": -0.56
+    },
+    {
+     "date": "2026-09-17",
+     "close": 77.42,
+     "change": 1.57
+    }
+   ],
+   "market_cap": 1509757424.0,
+   "shares_outstanding": 19609786.0,
+   "industry": "Telephone Communications (No Radiotelephone)",
+   "state_of_incorporation": "DE",
+   "hq": "WOODLAND PARK, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-19T05:31:02+09:00"
+  },
   {
    "id": "0001214659-26-011800",
    "company": "VerifyMe, Inc.",
