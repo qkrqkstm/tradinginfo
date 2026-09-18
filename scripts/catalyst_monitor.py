@@ -756,6 +756,11 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             continue
 
         ticker, title = tickers.get(f["cik"], ("", f["company"]))
+        if not ticker and cfg.get("require_ticker", True):
+            # 상장 티커가 없는 곳(비상장 리츠, 자산유동화 트러스트, 사모 펀드 LLC 등)은
+            # 매매 자체가 불가능해 신호로서 의미가 없으므로 알림 대상에서 제외한다.
+            log(f"  · {f['company'][:30]} — 티커 없음(비상장 추정), 스킵")
+            continue
         quote = fetch_quote(ticker) if (cfg.get("fetch_quotes", True) and ticker) else None
         market_cap = None
         if quote and quote.get("price"):
