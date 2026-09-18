@@ -87,7 +87,6 @@ CATALYSTS = [
         "weight": 14,
         "patterns": [
             r"agreement\s+and\s+plan\s+of\s+merger",
-            r"definitive\s+(merger\s+)?agreement",
             r"\bmerger\s+agreement\b",
             r"(has\s+)?agreed\s+to\s+acquire",
             r"to\s+be\s+acquired\s+by",
