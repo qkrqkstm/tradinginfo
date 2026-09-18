@@ -24,7 +24,7 @@ button,input,select{font:inherit}.app{display:flex;min-height:100vh}
 .actions{display:flex;align-items:center;gap:10px}.search{width:310px;height:42px;border:1px solid var(--line);border-radius:10px;background:#fff;padding:0 14px;outline:none}.search:focus{border-color:#9bbaf7}.icon-btn{width:42px;height:42px;border:1px solid var(--line);background:#fff;border-radius:10px;cursor:pointer}
 .cards{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:25px 0 20px}.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;box-shadow:var(--shadow);min-height:112px}.card .label{color:var(--muted);font-size:12px}.card .value{font-size:24px;font-weight:800;margin:8px 0 4px}.card .sub{font-size:12px;color:var(--muted)}.up{color:var(--green)!important}.down{color:var(--red)!important}.card-icon{float:left;width:38px;height:38px;border-radius:50%;display:grid;place-items:center;margin-right:12px;font-size:18px;background:var(--primary-soft);color:var(--primary)}.card:nth-child(1) .card-icon{background:var(--green-soft);color:var(--green)}.card:nth-child(4){border-color:#c8efdc;background:#fbfffd}.card:nth-child(4) .card-icon{background:var(--green-soft);color:var(--green)}
 .toolbar{display:flex;justify-content:space-between;align-items:center;margin:10px 0;gap:14px;flex-wrap:wrap}.tabs{display:flex;gap:8px;flex-wrap:wrap}.tab{border:0;background:#eef2f8;color:#52627b;padding:9px 16px;border-radius:20px;cursor:pointer;font-size:13px}.tab.active{background:var(--primary);color:#fff}.sort{height:38px;border:1px solid var(--line);background:#fff;border-radius:9px;padding:0 12px;color:#52627b}
-.table-wrap{background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);overflow:auto}.table{width:100%;border-collapse:collapse;min-width:1080px}.table th{background:#f7f9fc;color:#52627b;font-size:12px;font-weight:700;text-align:left;padding:13px 14px;position:sticky;top:0}.table td{padding:14px;border-top:1px solid var(--line);font-size:13px;vertical-align:middle}.table tbody tr{cursor:pointer;transition:.15s}.table tbody tr:hover{background:#fafcff}.company{display:flex;align-items:center;gap:10px;min-width:170px}.logo{width:34px;height:34px;border:1px solid #dce5f2;border-radius:50%;display:grid;place-items:center;font-size:10px;font-weight:800;color:#31568f;background:#f9fbff;flex:none}.company strong{display:block;font-size:13px}.company span{display:block;color:var(--muted);font-size:11px;margin-top:3px}.ticker{font-weight:700;color:#405575}.summary{max-width:380px;line-height:1.45;color:#3f4f68}.badge{display:inline-block;padding:6px 10px;border-radius:15px;font-size:11px;font-weight:700;white-space:nowrap}
+.table-wrap{background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);overflow:auto}.table{width:100%;border-collapse:collapse;min-width:1080px}.table th{background:#f7f9fc;color:#52627b;font-size:12px;font-weight:700;text-align:left;padding:13px 14px;position:sticky;top:0}.table th.sortable-th{cursor:pointer;user-select:none;white-space:nowrap}.table th.sortable-th:hover{color:var(--primary)}.table th.sortable-th.active{color:var(--primary)}.sort-arrow{display:inline-block;margin-left:3px;font-size:10px}.table td{padding:14px;border-top:1px solid var(--line);font-size:13px;vertical-align:middle}.table tbody tr{cursor:pointer;transition:.15s}.table tbody tr:hover{background:#fafcff}.company{display:flex;align-items:center;gap:10px;min-width:170px}.logo{width:34px;height:34px;border:1px solid #dce5f2;border-radius:50%;display:grid;place-items:center;font-size:10px;font-weight:800;color:#31568f;background:#f9fbff;flex:none}.company strong{display:block;font-size:13px}.company span{display:block;color:var(--muted);font-size:11px;margin-top:3px}.ticker{font-weight:700;color:#405575}.summary{max-width:380px;line-height:1.45;color:#3f4f68}.badge{display:inline-block;padding:6px 10px;border-radius:15px;font-size:11px;font-weight:700;white-space:nowrap}
 .badge.ma{background:var(--orange-soft);color:#d86e29}.badge.partnership{background:var(--blue-soft);color:#1975cb}.badge.clinical{background:var(--green-soft);color:#139362}.badge.topline{background:var(--purple-soft);color:#6a48dc}.badge.fda{background:#eef1fb;color:#3f4fa8}.badge.buyback{background:var(--gold-soft);color:var(--gold)}.badge.retirement{background:var(--red-soft);color:#c2403f}.badge.contract{background:#eef2f8;color:#53627a}.badge.index{background:var(--teal-soft);color:var(--teal)}.badge.guidance{background:var(--green-soft);color:#139362}.badge.dividend{background:var(--gold-soft);color:var(--gold)}
 .conf{display:flex;align-items:center;gap:8px;min-width:96px}.bar{flex:1;height:6px;background:#eef2f8;border-radius:4px;overflow:hidden}.bar i{display:block;height:100%;background:var(--primary)}.bar.hi i{background:var(--green)}.price{font-weight:800}.change{font-weight:800}.time{color:#6c7b93;white-space:nowrap;font-size:12px}
 .empty{padding:45px;text-align:center;color:var(--muted);line-height:1.8}
@@ -61,11 +61,11 @@ button,input,select{font:inherit}.app{display:flex;min-height:100vh}
 
   <div class="toolbar">
     <div class="tabs" id="tabs"></div>
-    <select class="sort" id="sort"><option value="new">최신순</option><option value="conf">신뢰도순</option><option value="change">등락률순</option></select>
+    <select class="sort" id="sort"><option value="new">최신순</option><option value="conf">신뢰도순</option><option value="change">등락률순</option><option value="cap">시총순</option></select>
   </div>
 
   <div class="table-wrap">
-    <table class="table"><thead><tr><th>종목명</th><th>Ticker</th><th>공시 요약</th><th>공시 유형</th><th>신뢰도</th><th>주가</th><th>등락률</th><th>시총</th><th>발표(KST)</th></tr></thead>
+    <table class="table"><thead><tr><th>종목명</th><th>Ticker</th><th>공시 요약</th><th>공시 유형</th><th>신뢰도</th><th>주가</th><th class="sortable-th" id="thChange" data-sort="change">등락률<span class="sort-arrow"></span></th><th class="sortable-th" id="thCap" data-sort="cap">시총<span class="sort-arrow"></span></th><th>발표(KST)</th></tr></thead>
     <tbody id="tbody"></tbody></table>
     <div class="empty" id="empty" style="display:none"></div>
   </div>
@@ -86,6 +86,8 @@ const TYPE_CLASS={"M&A":"ma","파트너십":"partnership","임상통과":"clinic
 const ITEM_LABELS={"1.01":"중요계약 체결","1.02":"중요계약 종료","2.01":"인수완료","2.02":"실적발표","3.01":"상장규정","5.02":"임원변동","7.01":"Reg FD 공시","8.01":"기타 중요사항","9.01":"첨부문서"};
 
 let DATA=[], activeType="all", activeNav="all", query="", updatedAt=null;
+let sortState={key:"new", dir:"desc"};
+const SORT_FIELD={new:"filed_at", conf:"confidence", change:"change", cap:"market_cap"};
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const initials=n=>n.replace(/[^A-Za-z ]/g,"").split(/\s+/).filter(Boolean).map(x=>x[0]).slice(0,2).join("")||"··";
@@ -159,10 +161,22 @@ function render(){
     const hay=`${a.company} ${a.ticker} ${a.summary}`.toLowerCase();
     return hay.includes(query.toLowerCase());
   });
-  const sort=$("sort").value;
-  if(sort==="conf") rows.sort((a,b)=>b.confidence-a.confidence);
-  else if(sort==="change") rows.sort((a,b)=>(b.change??-999)-(a.change??-999));
-  else rows.sort((a,b)=>String(b.filed_at).localeCompare(String(a.filed_at)));
+  const field=SORT_FIELD[sortState.key], dir=sortState.dir==="asc"?1:-1;
+  rows.sort((a,b)=>{
+    let va=a[field], vb=b[field];
+    if(field==="filed_at"){ va=String(va||""); vb=String(vb||""); }
+    const aNull=va==null, bNull=vb==null;
+    if(aNull&&bNull) return 0;
+    if(aNull) return 1; // 값 없는 행은 정렬 방향과 무관하게 항상 뒤로
+    if(bNull) return -1;
+    return va<vb ? -dir : va>vb ? dir : 0;
+  });
+  document.querySelectorAll(".sortable-th").forEach(th=>{
+    const arrow=th.querySelector(".sort-arrow");
+    const active=th.dataset.sort===sortState.key;
+    th.classList.toggle("active",active);
+    arrow.textContent=active?(sortState.dir==="asc"?"▲":"▼"):"";
+  });
 
   $("tbody").innerHTML=rows.map(a=>{
     const i=DATA.indexOf(a);
@@ -211,7 +225,13 @@ $("modalClose").onclick=()=>$("modalBg").style.display="none";
 $("modalBg").onclick=e=>{if(e.target.id==="modalBg")$("modalBg").style.display="none"};
 document.addEventListener("keydown",e=>{if(e.key==="Escape")$("modalBg").style.display="none"});
 $("search").oninput=e=>{query=e.target.value;render()};
-$("sort").onchange=render;
+$("sort").onchange=e=>{sortState={key:e.target.value, dir:"desc"};render()};
+document.querySelectorAll(".sortable-th").forEach(th=>th.onclick=()=>{
+  const key=th.dataset.sort;
+  sortState = sortState.key===key ? {key, dir:sortState.dir==="asc"?"desc":"asc"} : {key, dir:"desc"};
+  $("sort").value=key;
+  render();
+});
 $("refreshBtn").onclick=async()=>{const b=$("refreshBtn");b.textContent="…";await load();b.textContent="✓";setTimeout(()=>b.textContent="↻",700)};
 document.querySelectorAll("[data-nav]").forEach(b=>b.onclick=()=>{
   document.querySelectorAll("[data-nav]").forEach(x=>x.classList.remove("active"));
