@@ -1,7 +1,106 @@
 {
- "updated_at": "2026-09-18T20:12:44+09:00",
- "count": 57,
+ "updated_at": "2026-09-18T20:21:19+09:00",
+ "count": 59,
  "alerts": [
+  {
+   "id": "0001001807-26-000062",
+   "company": "PERUSAHAAN PERSEROAN PERSERO PT TELEKOMUNIKASI INDONESIA TBK",
+   "ticker": "TLK",
+   "cik": 1001807,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "19% (nineteen point nineteen percent) of all issued and fully paid-up TDE shares owned by Telkomsigma in order to support Telkom's Unlock DC Co through the Strategic Partnership and Telkom Group' s streamlining program.",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1001807/000100180726000062/0001001807-26-000062-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1001807/000100180726000062/tmb-20260918x6k.htm",
+   "filed_at": "2026-09-18T07:16:45-04:00",
+   "filed_kst": "2026-09-18 20:16",
+   "price": 14.24,
+   "change": -2.86,
+   "price_history": [
+    {
+     "date": "2026-09-17",
+     "close": 14.24,
+     "change": -2.86
+    },
+    {
+     "date": "2026-09-16",
+     "close": 14.66,
+     "change": -2.46
+    },
+    {
+     "date": "2026-09-15",
+     "close": 15.03,
+     "change": -1.51
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Telephone Communications (No Radiotelephone)",
+   "state_of_incorporation": null,
+   "hq": "BANDUNG, K8",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-18T20:17:35+09:00"
+  },
+  {
+   "id": "0001193125-26-395031",
+   "company": "BlossomHill Therapeutics, Inc.",
+   "ticker": "BLSM",
+   "cik": 1839970,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 60,
+   "summary": "3 million initial public offering Announced FDA Fast Track designation for BH-30643 for the treatment of advanced EGFR C797S-positive NSCLC SAN DIEGO, September 18, 2026 – BlossomHill Therapeutics, Inc.",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1839970/000119312526395031/0001193125-26-395031-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1839970/000119312526395031/d266261dex991.htm",
+   "filed_at": "2026-09-18T07:15:07-04:00",
+   "filed_kst": "2026-09-18 20:15",
+   "price": 26.82,
+   "change": 2.17,
+   "price_history": [
+    {
+     "date": "2026-09-17",
+     "close": 26.82,
+     "change": 2.17
+    },
+    {
+     "date": "2026-09-16",
+     "close": 26.25,
+     "change": 18.4
+    },
+    {
+     "date": "2026-09-15",
+     "close": 22.17,
+     "change": 1.98
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-18T20:17:33+09:00"
+  },
   {
    "id": "0001628280-26-062616",
    "company": "CAVA GROUP, INC.",
