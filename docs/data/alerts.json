@@ -1,7 +1,195 @@
 {
- "updated_at": "2026-09-19T06:09:15+09:00",
- "count": 106,
+ "updated_at": "2026-09-19T06:14:47+09:00",
+ "count": 110,
  "alerts": [
+  {
+   "id": "0001193125-26-389768",
+   "company": "Translational Development Acquisition Corp.",
+   "ticker": "TDAC",
+   "cik": 1926599,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "425 1 d110544d425.htm 425 425 Filed by Prologium Holding Inc. Pursuant to Rule 425 under the Securities Act of 1933, as amended and deemed filed pursuant to Rule 14a-12 under the Securities Exchange Act of 1934, as amended Subject Company: Translational Development Acquisition Corp. Commission File ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1926599/000119312526389768/0001193125-26-389768-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1926599/000119312526389768/d110544d425.htm",
+   "filed_at": "2026-09-14T06:10:30-04:00",
+   "filed_kst": "2026-09-14 19:10",
+   "price": 10.85,
+   "change": -0.09,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 10.85,
+     "change": -0.09
+    },
+    {
+     "date": "2026-09-17",
+     "close": 10.86,
+     "change": -0.09
+    },
+    {
+     "date": "2026-09-16",
+     "close": 10.87,
+     "change": -0.28
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-19T06:13:22+09:00"
+  },
+  {
+   "id": "0001193125-26-389768",
+   "company": "Prologium Holding Inc.",
+   "ticker": "PRLG",
+   "cik": 2137754,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "425 1 d110544d425.htm 425 425 Filed by Prologium Holding Inc. Pursuant to Rule 425 under the Securities Act of 1933, as amended and deemed filed pursuant to Rule 14a-12 under the Securities Exchange Act of 1934, as amended Subject Company: Translational Development Acquisition Corp. Commission File ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526389768/0001193125-26-389768-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526389768/d110544d425.htm",
+   "filed_at": "2026-09-14T06:10:30-04:00",
+   "filed_kst": "2026-09-14 19:10",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "TAOYUAN CITY",
+   "entity_category": null,
+   "detected_at": "2026-09-19T06:13:20+09:00"
+  },
+  {
+   "id": "0001213900-26-099464",
+   "company": "Onconetix, Inc.",
+   "ticker": "ONCO",
+   "cik": 1782107,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "as a lab developed test through its license agreement with Labcorp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026099464/0001213900-26-099464-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026099464/ea0305331-425_onconetix.htm",
+   "filed_at": "2026-09-14T08:31:01-04:00",
+   "filed_kst": "2026-09-14 21:31",
+   "price": 0.64,
+   "change": -3.77,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 0.64,
+     "change": -3.77
+    },
+    {
+     "date": "2026-09-17",
+     "close": 0.66,
+     "change": 0.15
+    },
+    {
+     "date": "2026-09-16",
+     "close": 0.66,
+     "change": 2.79
+    }
+   ],
+   "market_cap": 2527428.0,
+   "shares_outstanding": 3949107.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CINCINNATI, OH",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-19T06:13:17+09:00"
+  },
+  {
+   "id": "0001493152-26-043389",
+   "company": "Glucotrack, Inc.",
+   "ticker": "GCTK",
+   "cik": 1506983,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "false 0001506983 0001506983 2026-09-14 2026-09-14 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226043389/0001493152-26-043389-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226043389/form8-k.htm",
+   "filed_at": "2026-09-18T17:10:19-04:00",
+   "filed_kst": "2026-09-19 06:10",
+   "price": 2.47,
+   "change": 3.78,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 2.47,
+     "change": 3.78
+    },
+    {
+     "date": "2026-09-17",
+     "close": 2.38,
+     "change": 6.01
+    },
+    {
+     "date": "2026-09-16",
+     "close": 2.24,
+     "change": -1.1
+    }
+   ],
+   "market_cap": 26129690.0,
+   "shares_outstanding": 10578822.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "RUTHERFORD, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-19T06:11:29+09:00"
+  },
   {
    "id": "0001193125-26-395694",
    "company": "ATOSSA THERAPEUTICS, INC.",
