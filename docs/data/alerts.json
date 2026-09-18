@@ -1,7 +1,925 @@
 {
- "updated_at": "2026-09-19T04:29:40+09:00",
- "count": 69,
+ "updated_at": "2026-09-19T04:35:41+09:00",
+ "count": 87,
  "alerts": [
+  {
+   "id": "0001213900-26-099723",
+   "company": "XCF Global, Inc.",
+   "ticker": "SAFX",
+   "cik": 2019793,
+   "form": "425",
+   "items": [
+    "1.01",
+    "3.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "1 TO THE BUSINESS COMBINATION AGREEMENT, DATED AS OF SEPTEMBER 14, 2026, BY AND AMONG XCF GLOBAL, INC.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2019793/000121390026099723/0001213900-26-099723-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019793/000121390026099723/ea030500801ex2-1.htm",
+   "filed_at": "2026-09-14T16:18:36-04:00",
+   "filed_kst": "2026-09-15 05:18",
+   "price": 0.47,
+   "change": -0.04,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 0.47,
+     "change": -0.04
+    },
+    {
+     "date": "2026-09-18",
+     "close": 0.47,
+     "change": 2.22
+    },
+    {
+     "date": "2026-09-17",
+     "close": 0.46,
+     "change": 6.48
+    }
+   ],
+   "market_cap": 193083941.0,
+   "shares_outstanding": 410816896.0,
+   "industry": "Industrial Organic Chemicals",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-19T04:35:25+09:00"
+  },
+  {
+   "id": "0001193125-26-390663",
+   "company": "DOMINION ENERGY, INC",
+   "ticker": "D",
+   "cik": 715957,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 d107020d425.htm 425 425 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): September 14, 2026 Dominion Energy, Inc. (Exact name ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526390663/0001193125-26-390663-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526390663/d107020d425.htm",
+   "filed_at": "2026-09-14T16:32:11-04:00",
+   "filed_kst": "2026-09-15 05:32",
+   "price": 63.68,
+   "change": -0.95,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 63.68,
+     "change": -0.95
+    },
+    {
+     "date": "2026-09-17",
+     "close": 64.29,
+     "change": 1.23
+    },
+    {
+     "date": "2026-09-16",
+     "close": 63.51,
+     "change": -0.56
+    }
+   ],
+   "market_cap": 56003720063.0,
+   "shares_outstanding": 879455403.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "VA",
+   "hq": "RICHMOND, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:35:23+09:00"
+  },
+  {
+   "id": "0001213900-26-099743",
+   "company": "Drugs Made In America Acquisition Corp.",
+   "ticker": "DMAA",
+   "cik": 2028614,
+   "form": "425",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 78,
+   "summary": "(d) Manner of Payment: Any indemnification payable by the PAGC Shareholders following the Closing shall be satisfied, at the election of the PAGC Shareholder concerned, in cash or by the surrender for cancellation of Domesticated DMAA Common Shares valued at the Reference Price.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2028614/000121390026099743/0001213900-26-099743-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028614/000121390026099743/ea030546101ex2-1.htm",
+   "filed_at": "2026-09-14T16:32:16-04:00",
+   "filed_kst": "2026-09-15 05:32",
+   "price": 10.84,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-17",
+     "close": 10.84,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-16",
+     "close": 10.84,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-15",
+     "close": 10.84,
+     "change": 0.09
+    }
+   ],
+   "market_cap": 263161737.0,
+   "shares_outstanding": 24276913.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-19T04:35:22+09:00"
+  },
+  {
+   "id": "0001104659-26-107546",
+   "company": "DOMINION ENERGY, INC",
+   "ticker": "D",
+   "cik": 715957,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "EX-99.1 2 tm2625368d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 NextEra Energy and Dominion Energy announce transformational Virginia benefits package that puts customers first and positions the Commonwealth as a global energy leader Enhanced package would deliver long-term residential bill relief, creat",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107546/0001104659-26-107546-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107546/tm2625368d1_ex99-1.htm",
+   "filed_at": "2026-09-14T17:06:42-04:00",
+   "filed_kst": "2026-09-15 06:06",
+   "price": 63.68,
+   "change": -0.95,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 63.68,
+     "change": -0.95
+    },
+    {
+     "date": "2026-09-17",
+     "close": 64.29,
+     "change": 1.23
+    },
+    {
+     "date": "2026-09-16",
+     "close": 63.51,
+     "change": -0.56
+    }
+   ],
+   "market_cap": 56003720063.0,
+   "shares_outstanding": 879455403.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "VA",
+   "hq": "RICHMOND, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:35:18+09:00"
+  },
+  {
+   "id": "0001104659-26-107546",
+   "company": "NEXTERA ENERGY INC",
+   "ticker": "NEE",
+   "cik": 753308,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "EX-99.1 2 tm2625368d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 NextEra Energy and Dominion Energy announce transformational Virginia benefits package that puts customers first and positions the Commonwealth as a global energy leader Enhanced package would deliver long-term residential bill relief, creat",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107546/0001104659-26-107546-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107546/tm2625368d1_ex99-1.htm",
+   "filed_at": "2026-09-14T17:06:42-04:00",
+   "filed_kst": "2026-09-15 06:06",
+   "price": 80.71,
+   "change": -0.7,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 80.71,
+     "change": -0.7
+    },
+    {
+     "date": "2026-09-17",
+     "close": 81.28,
+     "change": 1.13
+    },
+    {
+     "date": "2026-09-16",
+     "close": 80.37,
+     "change": -0.86
+    }
+   ],
+   "market_cap": 168307908914.0,
+   "shares_outstanding": 2085341456.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "FL",
+   "hq": "JUNO BEACH, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:35:16+09:00"
+  },
+  {
+   "id": "0001104659-26-107552",
+   "company": "DOMINION ENERGY, INC",
+   "ticker": "D",
+   "cik": 715957,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 tm2625368d4_425.htm 425 Filed by: NextEra Energy, Inc. Pursuant to Rule 425 under the Securities Act of 1933 Subject Company: Dominion Energy, Inc. File No. of Related Registration Statement (Form S-4): 333-297351 The following article was published by The Washington Post on September 14, 2026",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107552/0001104659-26-107552-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107552/tm2625368d4_425.htm",
+   "filed_at": "2026-09-14T17:09:20-04:00",
+   "filed_kst": "2026-09-15 06:09",
+   "price": 63.67,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 63.67,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-18",
+     "close": 63.67,
+     "change": -0.96
+    },
+    {
+     "date": "2026-09-17",
+     "close": 64.29,
+     "change": 1.23
+    }
+   ],
+   "market_cap": 55994925509.0,
+   "shares_outstanding": 879455403.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "VA",
+   "hq": "RICHMOND, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:35:15+09:00"
+  },
+  {
+   "id": "0001104659-26-107552",
+   "company": "NEXTERA ENERGY INC",
+   "ticker": "NEE",
+   "cik": 753308,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 tm2625368d4_425.htm 425 Filed by: NextEra Energy, Inc. Pursuant to Rule 425 under the Securities Act of 1933 Subject Company: Dominion Energy, Inc. File No. of Related Registration Statement (Form S-4): 333-297351 The following article was published by The Washington Post on September 14, 2026",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107552/0001104659-26-107552-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107552/tm2625368d4_425.htm",
+   "filed_at": "2026-09-14T17:09:20-04:00",
+   "filed_kst": "2026-09-15 06:09",
+   "price": 80.7,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 80.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-18",
+     "close": 80.7,
+     "change": -0.71
+    },
+    {
+     "date": "2026-09-17",
+     "close": 81.28,
+     "change": 1.13
+    }
+   ],
+   "market_cap": 168287055499.0,
+   "shares_outstanding": 2085341456.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "FL",
+   "hq": "JUNO BEACH, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:35:13+09:00"
+  },
+  {
+   "id": "0001104659-26-107559",
+   "company": "DOMINION ENERGY, INC",
+   "ticker": "D",
+   "cik": 715957,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 tm2625368d3_425.htm 425 Filed by: NextEra Energy, Inc. Pursuant to Rule 425 under the Securities Act of 1933 Subject Company: Dominion Energy, Inc. File No. of Related Registration Statement (Form S-4): 333-297351 The following communication was sent by John W. Ketchum, Chairman, President and",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107559/0001104659-26-107559-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107559/tm2625368d3_425.htm",
+   "filed_at": "2026-09-14T17:14:53-04:00",
+   "filed_kst": "2026-09-15 06:14",
+   "price": 63.65,
+   "change": -1.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 63.65,
+     "change": -1.0
+    },
+    {
+     "date": "2026-09-17",
+     "close": 64.29,
+     "change": 1.23
+    },
+    {
+     "date": "2026-09-16",
+     "close": 63.51,
+     "change": -0.56
+    }
+   ],
+   "market_cap": 55977336401.0,
+   "shares_outstanding": 879455403.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "VA",
+   "hq": "RICHMOND, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:34:52+09:00"
+  },
+  {
+   "id": "0001104659-26-107559",
+   "company": "NEXTERA ENERGY INC",
+   "ticker": "NEE",
+   "cik": 753308,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 tm2625368d3_425.htm 425 Filed by: NextEra Energy, Inc. Pursuant to Rule 425 under the Securities Act of 1933 Subject Company: Dominion Energy, Inc. File No. of Related Registration Statement (Form S-4): 333-297351 The following communication was sent by John W. Ketchum, Chairman, President and",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107559/0001104659-26-107559-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107559/tm2625368d3_425.htm",
+   "filed_at": "2026-09-14T17:14:53-04:00",
+   "filed_kst": "2026-09-15 06:14",
+   "price": 80.67,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 80.67,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-18",
+     "close": 80.68,
+     "change": -0.74
+    },
+    {
+     "date": "2026-09-17",
+     "close": 81.28,
+     "change": 1.13
+    }
+   ],
+   "market_cap": 168224495256.0,
+   "shares_outstanding": 2085341456.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "FL",
+   "hq": "JUNO BEACH, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:34:51+09:00"
+  },
+  {
+   "id": "0001104659-26-107564",
+   "company": "DOMINION ENERGY, INC",
+   "ticker": "D",
+   "cik": 715957,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 tm2625368d5_425.htm 425 Filed by: NextEra Energy, Inc. Pursuant to Rule 425 under the Securities Act of 1933 Subject Company: Dominion Energy, Inc. File No. of Related Registration Statement (Form S-4): 333-297351 NextEra Energy, Inc. posted the following webpage to its website on September 14",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107564/0001104659-26-107564-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107564/tm2625368d5_425.htm",
+   "filed_at": "2026-09-14T17:25:47-04:00",
+   "filed_kst": "2026-09-15 06:25",
+   "price": 63.65,
+   "change": -1.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 63.65,
+     "change": -1.0
+    },
+    {
+     "date": "2026-09-17",
+     "close": 64.29,
+     "change": 1.23
+    },
+    {
+     "date": "2026-09-16",
+     "close": 63.51,
+     "change": -0.56
+    }
+   ],
+   "market_cap": 55977336401.0,
+   "shares_outstanding": 879455403.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "VA",
+   "hq": "RICHMOND, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:34:49+09:00"
+  },
+  {
+   "id": "0001104659-26-107564",
+   "company": "NEXTERA ENERGY INC",
+   "ticker": "NEE",
+   "cik": 753308,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 tm2625368d5_425.htm 425 Filed by: NextEra Energy, Inc. Pursuant to Rule 425 under the Securities Act of 1933 Subject Company: Dominion Energy, Inc. File No. of Related Registration Statement (Form S-4): 333-297351 NextEra Energy, Inc. posted the following webpage to its website on September 14",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107564/0001104659-26-107564-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107564/tm2625368d5_425.htm",
+   "filed_at": "2026-09-14T17:25:47-04:00",
+   "filed_kst": "2026-09-15 06:25",
+   "price": 80.67,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 80.67,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-18",
+     "close": 80.67,
+     "change": -0.75
+    },
+    {
+     "date": "2026-09-17",
+     "close": 81.28,
+     "change": 1.13
+    }
+   ],
+   "market_cap": 168224495256.0,
+   "shares_outstanding": 2085341456.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "FL",
+   "hq": "JUNO BEACH, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:34:47+09:00"
+  },
+  {
+   "id": "0001104659-26-107567",
+   "company": "DOMINION ENERGY, INC",
+   "ticker": "D",
+   "cik": 715957,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 tm2625368d6_425.htm 425 Filed by: NextEra Energy, Inc. Pursuant to Rule 425 under the Securities Act of 1933 Subject Company: Dominion Energy, Inc. File No. of Related Registration Statement (Form S-4): 333-297351 The following article was published by Bloomberg on September 14, 2026. NextEra,",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107567/0001104659-26-107567-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107567/tm2625368d6_425.htm",
+   "filed_at": "2026-09-14T17:27:06-04:00",
+   "filed_kst": "2026-09-15 06:27",
+   "price": 63.65,
+   "change": -1.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 63.65,
+     "change": -1.0
+    },
+    {
+     "date": "2026-09-17",
+     "close": 64.29,
+     "change": 1.23
+    },
+    {
+     "date": "2026-09-16",
+     "close": 63.51,
+     "change": -0.56
+    }
+   ],
+   "market_cap": 55977336401.0,
+   "shares_outstanding": 879455403.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "VA",
+   "hq": "RICHMOND, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:34:46+09:00"
+  },
+  {
+   "id": "0001104659-26-107567",
+   "company": "NEXTERA ENERGY INC",
+   "ticker": "NEE",
+   "cik": 753308,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 tm2625368d6_425.htm 425 Filed by: NextEra Energy, Inc. Pursuant to Rule 425 under the Securities Act of 1933 Subject Company: Dominion Energy, Inc. File No. of Related Registration Statement (Form S-4): 333-297351 The following article was published by Bloomberg on September 14, 2026. NextEra,",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107567/0001104659-26-107567-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107567/tm2625368d6_425.htm",
+   "filed_at": "2026-09-14T17:27:06-04:00",
+   "filed_kst": "2026-09-15 06:27",
+   "price": 80.67,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 80.67,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-18",
+     "close": 80.67,
+     "change": -0.75
+    },
+    {
+     "date": "2026-09-17",
+     "close": 81.28,
+     "change": 1.13
+    }
+   ],
+   "market_cap": 168224495256.0,
+   "shares_outstanding": 2085341456.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "FL",
+   "hq": "JUNO BEACH, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:34:45+09:00"
+  },
+  {
+   "id": "0001104659-26-107569",
+   "company": "DOMINION ENERGY, INC",
+   "ticker": "D",
+   "cik": 715957,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Ketchum said the bill credits for residential customers would continue for four years instead of the two years that the companies proposed in their merger agreement this spring.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107569/0001104659-26-107569-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107569/tm2625368d7_425.htm",
+   "filed_at": "2026-09-14T17:28:29-04:00",
+   "filed_kst": "2026-09-15 06:28",
+   "price": 63.65,
+   "change": -1.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 63.65,
+     "change": -1.0
+    },
+    {
+     "date": "2026-09-17",
+     "close": 64.29,
+     "change": 1.23
+    },
+    {
+     "date": "2026-09-16",
+     "close": 63.51,
+     "change": -0.56
+    }
+   ],
+   "market_cap": 55977336401.0,
+   "shares_outstanding": 879455403.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "VA",
+   "hq": "RICHMOND, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:34:43+09:00"
+  },
+  {
+   "id": "0001104659-26-107569",
+   "company": "NEXTERA ENERGY INC",
+   "ticker": "NEE",
+   "cik": 753308,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Ketchum said the bill credits for residential customers would continue for four years instead of the two years that the companies proposed in their merger agreement this spring.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107569/0001104659-26-107569-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107569/tm2625368d7_425.htm",
+   "filed_at": "2026-09-14T17:28:29-04:00",
+   "filed_kst": "2026-09-15 06:28",
+   "price": 80.68,
+   "change": -0.74,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 80.68,
+     "change": -0.74
+    },
+    {
+     "date": "2026-09-17",
+     "close": 81.28,
+     "change": 1.13
+    },
+    {
+     "date": "2026-09-16",
+     "close": 80.37,
+     "change": -0.86
+    }
+   ],
+   "market_cap": 168245348670.0,
+   "shares_outstanding": 2085341456.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "FL",
+   "hq": "JUNO BEACH, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-19T04:34:42+09:00"
+  },
+  {
+   "id": "0001213900-26-099802",
+   "company": "Axiom Intelligence Acquisition Corp 1",
+   "ticker": "AXIN",
+   "cik": 2057030,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Terra Quantum has entered into a business combination agreement with Axiom Intelligence Acquisition Corp 1, an exempted company limited by shares incorporated under the laws of the Cayman Islands (“Axiom”), as further discussed in Axiom’s Current Report on Form 8-K filed with the Securities a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2057030/000121390026099802/0001213900-26-099802-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2057030/000121390026099802/ea0305477-425_axiom1.htm",
+   "filed_at": "2026-09-14T17:38:31-04:00",
+   "filed_kst": "2026-09-15 06:38",
+   "price": 10.33,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 10.33,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-17",
+     "close": 10.33,
+     "change": -0.15
+    },
+    {
+     "date": "2026-09-16",
+     "close": 10.35,
+     "change": 0.05
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GRAND CAYMAN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-19T04:34:40+09:00"
+  },
+  {
+   "id": "0001193125-26-390812",
+   "company": "Texas Ventures Acquisition III Corp",
+   "ticker": "TVA",
+   "cik": 2033991,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", distributed the below newsletter, including information relating to its recently announced business combination agreement with Texas Ventures Acquisition III Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2033991/000119312526390812/0001193125-26-390812-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2033991/000119312526390812/tvaplus_ai_425_sept_2026.htm",
+   "filed_at": "2026-09-14T17:39:16-04:00",
+   "filed_kst": "2026-09-15 06:39",
+   "price": 10.56,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 10.56,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-17",
+     "close": 10.56,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-16",
+     "close": 10.56,
+     "change": 0.05
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-19T04:34:39+09:00"
+  },
+  {
+   "id": "0001213900-26-099861",
+   "company": "XCF Global, Inc.",
+   "ticker": "SAFX",
+   "cik": 2019793,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "001-42687) September 14, 2026 XCF Global (NASDAQ: SAFX), DevvStream and Southern Energy Renewables Amend Business Combination Agreement, Increasing XCF and DevvStream Shareholder Ownership and Establishing Additional Capital Support; XCF Shareholder GL Also Investing $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2019793/000121390026099861/0001213900-26-099861-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019793/000121390026099861/ea0305486-425_xcfglobal.htm",
+   "filed_at": "2026-09-14T21:18:57-04:00",
+   "filed_kst": "2026-09-15 10:18",
+   "price": 0.47,
+   "change": -0.09,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 0.47,
+     "change": -0.09
+    },
+    {
+     "date": "2026-09-18",
+     "close": 0.47,
+     "change": 2.26
+    },
+    {
+     "date": "2026-09-17",
+     "close": 0.46,
+     "change": 6.48
+    }
+   ],
+   "market_cap": 193083941.0,
+   "shares_outstanding": 410816896.0,
+   "industry": "Industrial Organic Chemicals",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-19T04:34:36+09:00"
+  },
   {
    "id": "0001104659-26-108859",
    "company": "AMEREN CORP",
