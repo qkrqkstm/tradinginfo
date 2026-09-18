@@ -625,9 +625,16 @@ def fetch_quote(ticker: str) -> dict | None:
                 }
             )
 
+        # meta.chartPreviousClose는 저유동성 종목에서 실제 최근 종가와 어긋나는 경우가 있어
+        # (예: GFR) 상단 등락률과 히스토리 1번째 항목이 서로 다른 값을 보이는 문제가 있었다.
+        # 항상 같은 기준(히스토리 최신 항목)으로 계산해 두 값이 일치하도록 한다.
+        change = round((float(price) - float(prev)) / float(prev) * 100, 2)
+        if history:
+            change = history[0]["change"]
+
         return {
             "price": round(float(price), 2),
-            "change": round((float(price) - float(prev)) / float(prev) * 100, 2),
+            "change": change,
             "history": history[:3],
         }
     except Exception:
