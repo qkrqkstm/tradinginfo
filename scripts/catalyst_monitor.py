@@ -329,8 +329,16 @@ class Edgar:
                 "Host": "www.sec.gov",
             }
         )
+        self.data_session = requests.Session()
+        self.data_session.headers.update(
+            {
+                "User-Agent": user_agent,
+                "Accept-Encoding": "gzip, deflate",
+            }
+        )
         self.limiter = RateLimiter(6.0)
         self._tickers: dict[int, tuple[str, str]] | None = None
+        self._shares_cache: dict[int, float | None] = {}
 
     def get(self, url: str, timeout: int = 15) -> requests.Response | None:
         self.limiter.wait()
@@ -368,12 +376,42 @@ class Edgar:
         if isinstance(data, dict):
             for row in data.values():
                 try:
-                    mapping[int(row["cik_str"])] = (row["ticker"], row["title"])
+                    cik = int(row["cik_str"])
+                    ticker = row["ticker"]
+                    title = row["title"]
                 except Exception:
                     continue
+                # 한 CIK에 워런트/권리(GFR-RI)·유닛 등 파생 증권 티커가 함께 등록된 경우가 있는데
+                # 이들은 항상 본주 티커보다 길다. 마지막에 읽힌 값으로 덮어쓰면 파생 증권이 이길 수
+                # 있으므로 더 짧은(=본주) 티커를 우선한다.
+                prev = mapping.get(cik)
+                if prev is None or len(ticker) < len(prev[0]):
+                    mapping[cik] = (ticker, title)
         self._tickers = mapping
         log(f"티커 매핑 {len(mapping):,}건 로드")
         return mapping
+
+    # --- 발행주식수 (시가총액 계산용) --------------------------------------
+    def shares_outstanding(self, cik: int) -> float | None:
+        if cik in self._shares_cache:
+            return self._shares_cache[cik]
+        url = (
+            f"https://data.sec.gov/api/xbrl/companyconcept/CIK{cik:010d}"
+            "/dei/EntityCommonStockSharesOutstanding.json"
+        )
+        self.limiter.wait()
+        value = None
+        try:
+            resp = self.data_session.get(url, timeout=10)
+            if resp.status_code == 200:
+                units = resp.json().get("units", {}).get("shares", [])
+                if units:
+                    latest = max(units, key=lambda u: u.get("end", ""))
+                    value = float(latest["val"])
+        except Exception:
+            value = None
+        self._shares_cache[cik] = value
+        return value
 
     # --- 최신 공시 목록 --------------------------------------------------
     def recent(self, form_type: str, count: int = 100) -> list[dict]:
@@ -544,9 +582,10 @@ def extract_items(text: str) -> list[str]:
 def fetch_quote(ticker: str) -> dict | None:
     if not ticker:
         return None
+    # range=5d로 넉넉히 받아서 최근 최대 3거래일치 종가/등락률을 함께 산출한다.
     url = (
         f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}"
-        "?range=2d&interval=1d"
+        "?range=5d&interval=1d"
     )
     try:
         r = requests.get(
@@ -554,17 +593,51 @@ def fetch_quote(ticker: str) -> dict | None:
         )
         if r.status_code != 200:
             return None
-        meta = r.json()["chart"]["result"][0]["meta"]
+        result = r.json()["chart"]["result"][0]
+        meta = result["meta"]
         price = meta.get("regularMarketPrice")
         prev = meta.get("chartPreviousClose") or meta.get("previousClose")
         if price is None or not prev:
             return None
+
+        timestamps = result.get("timestamp") or []
+        closes = ((result.get("indicators") or {}).get("quote") or [{}])[0].get("close") or []
+        days = [
+            (datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d"), float(c))
+            for ts, c in zip(timestamps, closes)
+            if c is not None
+        ]
+        # 장중이라 당일 종가가 아직 배열에 없으면 현재가로 보정해서 넣는다
+        if not days or abs(days[-1][1] - float(price)) > 1e-6:
+            days.append((datetime.now(timezone.utc).strftime("%Y-%m-%d"), float(price)))
+
+        history = []
+        for i in range(len(days) - 1, max(len(days) - 4, 0), -1):
+            date, close = days[i]
+            prev_close = days[i - 1][1] if i > 0 else float(prev)
+            if not prev_close:
+                continue
+            history.append(
+                {
+                    "date": date,
+                    "close": round(close, 2),
+                    "change": round((close - prev_close) / prev_close * 100, 2),
+                }
+            )
+
         return {
             "price": round(float(price), 2),
             "change": round((float(price) - float(prev)) / float(prev) * 100, 2),
+            "history": history[:3],
         }
     except Exception:
         return None
+
+
+def format_market_cap(value: float) -> str:
+    if value >= 1_000_000_000:
+        return f"${value / 1_000_000_000:.2f}B"
+    return f"${value / 1_000_000:.1f}M"
 
 
 # ---------------------------------------------------------------------------
@@ -627,7 +700,8 @@ class Telegram:
         lines.append(f"🏷 {e(types)} · 신뢰도 {a['confidence']}%")
         if a.get("price") is not None:
             sign = "▲" if a["change"] >= 0 else "▼"
-            lines.append(f"💹 ${a['price']:,.2f} {sign} {abs(a['change']):.2f}% <i>(직전 종가 기준)</i>")
+            cap = f" · 시총 {format_market_cap(a['market_cap'])}" if a.get("market_cap") else ""
+            lines.append(f"💹 ${a['price']:,.2f} {sign} {abs(a['change']):.2f}%{cap} <i>(직전 종가 기준)</i>")
         lines.append(f"🕐 {a['filed_kst']} KST")
         lines.append(f"🔗 <a href=\"{a['index_url']}\">EDGAR 원문 보기</a>")
         return "\n".join(lines)
@@ -683,6 +757,11 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
 
         ticker, title = tickers.get(f["cik"], ("", f["company"]))
         quote = fetch_quote(ticker) if (cfg.get("fetch_quotes", True) and ticker) else None
+        market_cap = None
+        if quote and quote.get("price"):
+            shares = edgar.shares_outstanding(f["cik"])
+            if shares:
+                market_cap = round(shares * quote["price"], 0)
 
         alert = {
             "id": f["accession"],
@@ -703,6 +782,8 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             "filed_kst": to_kst(f["filed_at"]),
             "price": quote["price"] if quote else None,
             "change": quote["change"] if quote else None,
+            "price_history": quote["history"] if quote else [],
+            "market_cap": market_cap,
             "detected_at": datetime.now(KST).isoformat(timespec="seconds"),
         }
 
