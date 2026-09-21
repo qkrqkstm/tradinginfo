@@ -279,6 +279,16 @@ HARD_NEGATIVE = [
     r"restat\w+\s+.{0,30}financial\s+statements",
     r"fda\s+(issued\s+a\s+)?(warning\s+letter|reject|declin\w+)",
     r"did\s+not\s+achieve\s+statistical\s+significance",
+    # 계약서 본문(EX-4/EX-10/EX-21 등 첨부문서)의 "Person"/"Subsidiary" 정의 조항,
+    # 공시목록(Disclosure Schedule) 조항 제목, 사채 계약서(indenture) 약정 문구에
+    # "joint venture"가 법률 용어로만 등장해 파트너십 카테고리를 오탐시키는 사례 차단.
+    r"means\s+(any\s+)?(an?\s+)?individual,\s*(a\s+)?corporation,\s*(a\s+)?partnership",
+    r"unincorporated\s+(association|organization)[,\s]+joint\s+venture",
+    r"subsidiaries;\s+joint\s+ventures",
+    r"(is\s+not\s+(currently\s+)?(a\s+)?(party\s+to|a\s+participant\s+in\s+any)|"
+    r"does\s+not\s+have\s+any\s+commitment\s+to\s+become\s+a\s+party\s+to,?\s+any)\s+joint\s+venture",
+    r"capital\s+stock\s+of\s+(a|any)\s+joint\s+venture\s+that\s+does\s+not\s+constitute\s+a\s+subsidiary",
+    r"minority\s+interest\s+holders?\s+in\s+any\s+subsidiary\s+or\s+joint\s+venture",
 ]
 
 # 소프트 네거티브: 걸리면 감점 (촉매 근거가 2개 이상이면 통과)
