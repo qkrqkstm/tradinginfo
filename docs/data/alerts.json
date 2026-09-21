@@ -1,7 +1,107 @@
 {
- "updated_at": "2026-09-21T21:09:15+09:00",
- "count": 84,
+ "updated_at": "2026-09-21T21:14:10+09:00",
+ "count": 86,
  "alerts": [
+  {
+   "id": "0001628280-26-062810",
+   "company": "ERICSSON LM TELEPHONE CO",
+   "ticker": "ERIC",
+   "cik": 717826,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "00 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026 and which runs between April 23, 2026 and March 31, 2027, at the latest.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026062810/0001628280-26-062810-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026062810/sharebuybacksinericssondur.htm",
+   "filed_at": "2026-09-21T08:11:09-04:00",
+   "filed_kst": "2026-09-21 21:11",
+   "price": 10.17,
+   "change": -1.17,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 10.17,
+     "change": -1.17
+    },
+    {
+     "date": "2026-09-17",
+     "close": 10.29,
+     "change": 2.59
+    },
+    {
+     "date": "2026-09-16",
+     "close": 10.03,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM SWEDEN, V7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-21T21:12:19+09:00"
+  },
+  {
+   "id": "0001213900-26-101661",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "VII (f/k/a Columbus Circle Capital Corp II), a Cayman Islands exempted company (“ Inflection Point ” or the “ Company ”), entered into a Business Combination Agreement (as it may be amended, supplemented or otherwise modified from time to time in accordance with its terms, the “ Business Combination",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026101661/0001213900-26-101661-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026101661/ea030606101ex99-1.htm",
+   "filed_at": "2026-09-21T08:09:28-04:00",
+   "filed_kst": "2026-09-21 21:09",
+   "price": 10.06,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 10.06,
+     "change": 0.1
+    },
+    {
+     "date": "2026-09-17",
+     "close": 10.05,
+     "change": -0.1
+    },
+    {
+     "date": "2026-09-16",
+     "close": 10.06,
+     "change": 0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-21T21:10:35+09:00"
+  },
   {
    "id": "0001213900-26-101659",
    "company": "Inflection Point Acquisition Corp. VII",
