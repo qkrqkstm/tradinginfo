@@ -241,6 +241,28 @@ MA_FOLLOWUP_PATTERNS = [
 ]
 MA_FOLLOWUP_RE = [re.compile(p, re.I) for p in MA_FOLLOWUP_PATTERNS]
 
+# "Forward-Looking Statements" 류 면책조항 섹션은 진행 중인 딜과 무관한 회사도
+# 매 분기 실적·IR 자료마다 "리스크가 실현되면 합병계약이 종료될 수 있다" 식 상투 문구를
+# 반복해서 넣는다. 이 구간에서만 매칭되는 merger agreement 언급을 실제 M&A 발표로 오인하는
+# 것이 관찰된 가장 큰 오탐 원인이라, 분류 이전에 섹션째로 잘라낸다.
+BOILERPLATE_SECTION_RE = re.compile(
+    r"(cautionary\s+(note|statement)s?\s*(regarding|concerning|about)?\s*forward[-\s]looking\s+statements?"
+    r"|forward[-\s]looking\s+statements?"
+    r"|safe\s+harbor\s+statement)",
+    re.I,
+)
+
+
+def strip_boilerplate(text: str) -> str:
+    """문서 단위(빈 줄 기준)로 나눠 각자 면책조항 섹션 이후를 잘라낸다."""
+    chunks = text.split("\n\n")
+    trimmed = []
+    for chunk in chunks:
+        m = BOILERPLATE_SECTION_RE.search(chunk)
+        trimmed.append(chunk[: m.start()] if m else chunk)
+    return "\n\n".join(trimmed)
+
+
 # 하드 네거티브: 하나라도 걸리면 무조건 제외 (악재를 호재로 오탐하는 케이스 차단)
 HARD_NEGATIVE = [
     r"did\s+not\s+meet\s+(its|the)\s+primary\s+endpoint",
@@ -575,6 +597,10 @@ SOFT_RE = [re.compile(p, re.I) for p in SOFT_NEGATIVE]
 
 def classify(text: str) -> dict | None:
     """본문에서 촉매제를 탐지. 없으면 None."""
+    if not text or len(text) < 120:
+        return None
+
+    text = strip_boilerplate(text)
     if not text or len(text) < 120:
         return None
 
