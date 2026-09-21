@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-21T22:24:25+09:00",
- "count": 93,
+ "updated_at": "2026-09-21T22:29:06+09:00",
+ "count": 94,
  "alerts": [
+  {
+   "id": "0001650107-26-000115",
+   "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
+   "ticker": "CCEP",
+   "cik": 1650107,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "The repurchased ordinary shares will be cancelled.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000115/0001650107-26-000115-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000115/a20260921ccepform6-kweekly.htm",
+   "filed_at": "2026-09-21T09:26:51-04:00",
+   "filed_kst": "2026-09-21 22:26",
+   "price": 99.77,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 99.77,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-18",
+     "close": 99.77,
+     "change": -0.71
+    },
+    {
+     "date": "2026-09-17",
+     "close": 100.48,
+     "change": -2.19
+    }
+   ],
+   "market_cap": 44805365193.0,
+   "shares_outstanding": 449086551.0,
+   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "UXBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-21T22:27:41+09:00"
+  },
   {
    "id": "0001493152-26-043488",
    "company": "InspireMD, Inc.",
