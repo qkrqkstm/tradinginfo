@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-21T18:59:17+09:00",
- "count": 76,
+ "updated_at": "2026-09-21T19:04:28+09:00",
+ "count": 77,
  "alerts": [
+  {
+   "id": "0000895345-26-000433",
+   "company": "GRUPO TELEVISA, S.A.B.",
+   "ticker": "TV",
+   "cik": 912892,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Additionally, the Company is not aware of any transaction in the Company’s CPOs carried out by any member of its Board of Directors or any of its Relevant Officers, and it did not carry out transactions under its share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000433/0000895345-26-000433-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000433/ff6844298_6kshort-grupo.htm",
+   "filed_at": "2026-09-21T06:00:35-04:00",
+   "filed_kst": "2026-09-21 19:00",
+   "price": 2.35,
+   "change": 0.43,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 2.35,
+     "change": 0.43
+    },
+    {
+     "date": "2026-09-17",
+     "close": 2.34,
+     "change": 6.85
+    },
+    {
+     "date": "2026-09-16",
+     "close": 2.19,
+     "change": -2.67
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": null,
+   "hq": "MEXICO, D.F.",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-21T19:03:04+09:00"
+  },
   {
    "id": "0001193125-26-395743",
    "company": "BCB BANCORP INC",
