@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-09-21T19:24:51+09:00",
- "count": 78,
+ "updated_at": "2026-09-21T19:30:16+09:00",
+ "count": 79,
  "alerts": [
+  {
+   "id": "0001564708-26-000205",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000205/0001564708-26-000205-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000205/appendix3cclassa20260918.htm",
+   "filed_at": "2026-09-21T06:27:27-04:00",
+   "filed_kst": "2026-09-21 19:27",
+   "price": 32.68,
+   "change": -2.07,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 32.68,
+     "change": -2.07
+    },
+    {
+     "date": "2026-09-17",
+     "close": 33.37,
+     "change": -0.21
+    },
+    {
+     "date": "2026-09-16",
+     "close": 33.44,
+     "change": -1.01
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-21T19:28:13+09:00"
+  },
   {
    "id": "0001193125-26-396005",
    "company": "WESCO INTERNATIONAL INC",
