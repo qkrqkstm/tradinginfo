@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-09-22T05:29:11+09:00",
- "count": 111,
+ "updated_at": "2026-09-22T05:34:56+09:00",
+ "count": 113,
  "alerts": [
+  {
+   "id": "0000842517-26-000222",
+   "company": "ISABELLA BANK CORP",
+   "ticker": "ISBA",
+   "cik": 842517,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Michigan corporation (“Grand River”), entered into an Agreement and Plan of Merger (the “Merger Agreement”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842517/000084251726000222/0000842517-26-000222-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/842517/000084251726000222/isba-20260921.htm",
+   "filed_at": "2026-09-21T16:30:15-04:00",
+   "filed_kst": "2026-09-22 05:30",
+   "price": 38.2,
+   "change": -0.91,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 38.2,
+     "change": -0.91
+    },
+    {
+     "date": "2026-09-18",
+     "close": 38.55,
+     "change": -0.03
+    },
+    {
+     "date": "2026-09-17",
+     "close": 38.56,
+     "change": 1.18
+    }
+   ],
+   "market_cap": 291422949.0,
+   "shares_outstanding": 7628873.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "MI",
+   "hq": "MT PLEASANT, MI",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-22T05:31:55+09:00"
+  },
+  {
+   "id": "0001193125-26-396716",
+   "company": "NewAmsterdam Pharma Co N.V.",
+   "ticker": "NAMS",
+   "cik": 1936258,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company and Menarini are party to a licensing agreement pursuant to which Menarini holds exclusive commercialization rights for obicetrapib in Europe and is responsible for regulatory interactions and commercialization activities throughout the region.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1936258/000119312526396716/0001193125-26-396716-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1936258/000119312526396716/nams-20260921.htm",
+   "filed_at": "2026-09-21T16:30:15-04:00",
+   "filed_kst": "2026-09-22 05:30",
+   "price": 22.58,
+   "change": 0.4,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 22.58,
+     "change": 0.4
+    },
+    {
+     "date": "2026-09-18",
+     "close": 22.49,
+     "change": 2.55
+    },
+    {
+     "date": "2026-09-17",
+     "close": 21.93,
+     "change": 3.54
+    }
+   ],
+   "market_cap": 2699149276.0,
+   "shares_outstanding": 119537169.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Netherlands",
+   "hq": "NARRDEN, P7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T05:31:54+09:00"
+  },
   {
    "id": "0001654954-26-008490",
    "company": "VISIUM TECHNOLOGIES, INC.",
