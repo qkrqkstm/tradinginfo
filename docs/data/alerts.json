@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-21T19:59:09+09:00",
- "count": 79,
+ "updated_at": "2026-09-21T20:04:55+09:00",
+ "count": 80,
  "alerts": [
+  {
+   "id": "0001213900-26-101635",
+   "company": "Tiziana Life Sciences Ltd",
+   "ticker": "TLSA",
+   "cik": 1723069,
+   "form": "6-K",
+   "items": [],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "Tiziana expects to lock the database this week, and announce 12-week treatment topline data in October.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026101635/0001213900-26-101635-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026101635/ea030608701ex99-1.htm",
+   "filed_at": "2026-09-21T07:00:14-04:00",
+   "filed_kst": "2026-09-21 20:00",
+   "price": 0.91,
+   "change": -0.44,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 0.91,
+     "change": -0.44
+    },
+    {
+     "date": "2026-09-18",
+     "close": 0.91,
+     "change": -6.19
+    },
+    {
+     "date": "2026-09-17",
+     "close": 0.97,
+     "change": 25.97
+    }
+   ],
+   "market_cap": 109661735.0,
+   "shares_outstanding": 120507401.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Bermuda",
+   "hq": "LONDON, ENGLAND, X0",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-09-21T20:01:19+09:00"
+  },
   {
    "id": "0001564708-26-000205",
    "company": "NEWS CORP",
