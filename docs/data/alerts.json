@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-22T00:35:02+09:00",
- "count": 95,
+ "updated_at": "2026-09-22T00:39:26+09:00",
+ "count": 96,
  "alerts": [
+  {
+   "id": "0001648416-26-000121",
+   "company": "Ferrari N.V.",
+   "ticker": "RACE",
+   "cik": 1648416,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), September 21, 2026 – Ferrari N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000121/0001648416-26-000121-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000121/fnvbb210926prex.htm",
+   "filed_at": "2026-09-21T11:38:11-04:00",
+   "filed_kst": "2026-09-22 00:38",
+   "price": 416.99,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 416.99,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 416.99,
+     "change": 2.53
+    },
+    {
+     "date": "2026-09-18",
+     "close": 406.69,
+     "change": -1.77
+    }
+   ],
+   "market_cap": 77038022651.0,
+   "shares_outstanding": 184747890.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": "Netherlands",
+   "hq": "MARANELLO, L6",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T00:39:26+09:00"
+  },
   {
    "id": "0001171843-26-006128",
    "company": "NOVO NORDISK A S",
