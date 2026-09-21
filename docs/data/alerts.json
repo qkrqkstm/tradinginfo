@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-09-21T20:39:22+09:00",
- "count": 81,
+ "updated_at": "2026-09-21T20:44:32+09:00",
+ "count": 82,
  "alerts": [
+  {
+   "id": "0001213900-26-101651",
+   "company": "Priority Technology Holdings, Inc.",
+   "ticker": "PRTH",
+   "cik": 1653558,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The all-cash transaction represents an enterprise value of approximately $1.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/0001213900-26-101651-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/ea030604701ex99-3.htm",
+   "filed_at": "2026-09-21T07:40:34-04:00",
+   "filed_kst": "2026-09-21 20:40",
+   "price": 5.83,
+   "change": -2.02,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 5.83,
+     "change": -2.02
+    },
+    {
+     "date": "2026-09-17",
+     "close": 5.95,
+     "change": 1.02
+    },
+    {
+     "date": "2026-09-16",
+     "close": 5.89,
+     "change": -2.0
+    }
+   ],
+   "market_cap": 480627369.0,
+   "shares_outstanding": 82440372.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "ALPHARETTA, GA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-21T20:41:36+09:00"
+  },
   {
    "id": "0001654954-26-008478",
    "company": "ASTRAZENECA PLC",
