@@ -1,7 +1,119 @@
 {
- "updated_at": "2026-09-22T05:19:07+09:00",
- "count": 109,
+ "updated_at": "2026-09-22T05:24:37+09:00",
+ "count": 111,
  "alerts": [
+  {
+   "id": "0001654954-26-008490",
+   "company": "VISIUM TECHNOLOGIES, INC.",
+   "ticker": "VISM",
+   "cik": 1082733,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.01",
+    "3.02",
+    "7.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Taylor, have relationships with parties that are expected to participate in the negotiation or performance of the proposed transaction, including under a Mutual Collaboration Agreement dated March 31, 2026 between Mr.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1082733/000165495426008490/0001654954-26-008490-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1082733/000165495426008490/vism_ex991.htm",
+   "filed_at": "2026-09-21T16:20:21-04:00",
+   "filed_kst": "2026-09-22 05:20",
+   "price": 0.0,
+   "change": -14.29,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 0.0,
+     "change": -14.29
+    },
+    {
+     "date": "2026-09-18",
+     "close": 0.0,
+     "change": 4.48
+    },
+    {
+     "date": "2026-09-17",
+     "close": 0.0,
+     "change": -4.29
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 1077502919.0,
+   "industry": "Services-Computer Programming Services",
+   "state_of_incorporation": "FL",
+   "hq": "FORT LAUDERDALE, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-22T05:21:38+09:00"
+  },
+  {
+   "id": "0001193125-26-396690",
+   "company": "ANAPTYSBIO, INC",
+   "ticker": "ANAB",
+   "cik": 1370053,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 90,
+   "summary": "EX-99.1 2 anab-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 Anaptys Announces Second Quarter and Transitional Fiscal Year 2026 Financial Results and Provides Business Update • Jemperli global net sales of $644 million (£480 million) for the six months ended June 30, 2026, representing 34% year-over-year ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1370053/000119312526396690/0001193125-26-396690-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370053/000119312526396690/anab-ex99_1.htm",
+   "filed_at": "2026-09-21T16:20:00-04:00",
+   "filed_kst": "2026-09-22 05:20",
+   "price": 54.92,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 54.92,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 54.92,
+     "change": -0.51
+    },
+    {
+     "date": "2026-09-18",
+     "close": 55.2,
+     "change": 0.25
+    }
+   ],
+   "market_cap": 1598221538.0,
+   "shares_outstanding": 29100902.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-22T05:20:45+09:00"
+  },
   {
    "id": "0001193125-26-396679",
    "company": "BROWN FORMAN CORP",
