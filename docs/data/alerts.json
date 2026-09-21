@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-22T00:05:09+09:00",
- "count": 94,
+ "updated_at": "2026-09-22T00:14:10+09:00",
+ "count": 95,
  "alerts": [
+  {
+   "id": "0001171843-26-006128",
+   "company": "NOVO NORDISK A S",
+   "ticker": "NVO",
+   "cik": 353278,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 f6k_092126.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ________________ FORM 6-K ________________ REPORT OF FOREIGN PRIVATE ISSUER Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 September 21, 2026 ________________ NOVO NORDISK ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006128/0001171843-26-006128-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006128/f6k_092126.htm",
+   "filed_at": "2026-09-21T11:11:33-04:00",
+   "filed_kst": "2026-09-22 00:11",
+   "price": 39.78,
+   "change": -7.99,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 39.78,
+     "change": -7.99
+    },
+    {
+     "date": "2026-09-18",
+     "close": 43.24,
+     "change": 0.12
+    },
+    {
+     "date": "2026-09-17",
+     "close": 43.19,
+     "change": 3.55
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "BAGSVAERD DENMARK, G7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T00:12:12+09:00"
+  },
   {
    "id": "0001650107-26-000115",
    "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
