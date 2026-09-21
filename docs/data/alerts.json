@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-09-22T06:15:06+09:00",
- "count": 118,
+ "updated_at": "2026-09-22T06:19:14+09:00",
+ "count": 119,
  "alerts": [
+  {
+   "id": "0001171843-26-006140",
+   "company": "Woodward, Inc.",
+   "ticker": "WWD",
+   "cik": 108312,
+   "form": "8-K",
+   "items": [
+    "2.05",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "5 million, consisting primarily of $23 million to $29 million of employee-related costs for severance and related benefits, $10 million to $16.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/108312/000117184326006140/0001171843-26-006140-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/108312/000117184326006140/f8k_092126.htm",
+   "filed_at": "2026-09-21T17:15:15-04:00",
+   "filed_kst": "2026-09-22 06:15",
+   "price": 325.16,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 325.16,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 325.16,
+     "change": 1.06
+    },
+    {
+     "date": "2026-09-18",
+     "close": 321.74,
+     "change": 0.68
+    }
+   ],
+   "market_cap": 19199338831.0,
+   "shares_outstanding": 59045820.0,
+   "industry": "Electrical Industrial Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "FORT COLLINS, CO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T06:16:25+09:00"
+  },
   {
    "id": "0001609151-26-000105",
    "company": "Weave Communications, Inc.",
