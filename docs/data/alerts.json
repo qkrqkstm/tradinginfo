@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-22T05:49:35+09:00",
- "count": 115,
+ "updated_at": "2026-09-22T05:54:41+09:00",
+ "count": 116,
  "alerts": [
+  {
+   "id": "0001833141-26-000076",
+   "company": "CYBIN INC.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of MDD that has received Breakthrough Therapy Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000076/0001833141-26-000076-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000076/heluspsychcongress2026pres.htm",
+   "filed_at": "2026-09-21T16:52:51-04:00",
+   "filed_kst": "2026-09-22 05:52",
+   "price": 13.66,
+   "change": 10.43,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 13.66,
+     "change": 10.43
+    },
+    {
+     "date": "2026-09-18",
+     "close": 12.37,
+     "change": -11.77
+    },
+    {
+     "date": "2026-09-17",
+     "close": 14.02,
+     "change": 4.08
+    }
+   ],
+   "market_cap": 295072501.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO, A6",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-22T05:54:41+09:00"
+  },
   {
    "id": "0001628280-26-062917",
    "company": "Orion180 Insurance Group Inc.",
