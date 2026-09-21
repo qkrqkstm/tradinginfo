@@ -1,7 +1,406 @@
 {
- "updated_at": "2026-09-22T05:05:13+09:00",
- "count": 100,
+ "updated_at": "2026-09-22T05:14:59+09:00",
+ "count": 108,
  "alerts": [
+  {
+   "id": "0001104659-26-109304",
+   "company": "CVRx, Inc.",
+   "ticker": "CVRX",
+   "cik": 1235912,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "It has been certified as compliant with the EU Medical Device Regulation (MDR) and holds CE Mark approval for heart failure and resistant hypertension in the European Economic Area.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1235912/000110465926109304/0001104659-26-109304-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1235912/000110465926109304/tm2625806d1_ex99-1.htm",
+   "filed_at": "2026-09-21T16:13:13-04:00",
+   "filed_kst": "2026-09-22 05:13",
+   "price": 2.97,
+   "change": -2.3,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 2.97,
+     "change": -2.3
+    },
+    {
+     "date": "2026-09-18",
+     "close": 3.04,
+     "change": 1.33
+    },
+    {
+     "date": "2026-09-17",
+     "close": 3.0,
+     "change": -0.66
+    }
+   ],
+   "market_cap": 79125543.0,
+   "shares_outstanding": 26641597.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "MINNEAPOLIS, MN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-22T05:14:59+09:00"
+  },
+  {
+   "id": "0001956827-26-000027",
+   "company": "Abivax S.A.",
+   "ticker": "ABVX",
+   "cik": 1956827,
+   "form": "6-K",
+   "items": [],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "Anticipated Upcoming Key Dates • October 2026 – Participation at United European Gastroenterology Week (UEGW) • End of 2026 – Planned NDA submission for obefazimod in UC • Mid-2027 – Topline results from the Phase 2b ENHANCE-CD induction trial evaluating obefazimod in CD Exhibit 99.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1956827/000195682726000027/0001956827-26-000027-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1956827/000195682726000027/abvx-20260630.htm",
+   "filed_at": "2026-09-21T16:12:39-04:00",
+   "filed_kst": "2026-09-22 05:12",
+   "price": 103.45,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 103.45,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 103.45,
+     "change": -1.51
+    },
+    {
+     "date": "2026-09-18",
+     "close": 105.04,
+     "change": -1.82
+    }
+   ],
+   "market_cap": 8124591821.0,
+   "shares_outstanding": 78536412.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "France",
+   "hq": "PARIS",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-22T05:14:06+09:00"
+  },
+  {
+   "id": "0001493152-26-043560",
+   "company": "Insight Molecular Diagnostics Inc.",
+   "ticker": "IMDX",
+   "cik": 1642380,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(the “Company” or “iMDx”) entered into an Agreement and Plan of Merger dated February 2, 2021, amended February 23, 2021, and amended and restated as of April 15, 2021 (as amended and restated, the “Merger Agreement”), by and among the Company, CNI Monitor Sub, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1642380/000149315226043560/0001493152-26-043560-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1642380/000149315226043560/form8-k.htm",
+   "filed_at": "2026-09-21T16:05:37-04:00",
+   "filed_kst": "2026-09-22 05:05",
+   "price": 4.01,
+   "change": 0.25,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 4.01,
+     "change": 0.25
+    },
+    {
+     "date": "2026-09-18",
+     "close": 4.0,
+     "change": 1.27
+    },
+    {
+     "date": "2026-09-17",
+     "close": 3.95,
+     "change": 10.34
+    }
+   ],
+   "market_cap": 131224379.0,
+   "shares_outstanding": 32724284.0,
+   "industry": "In Vitro & In Vivo Diagnostic Substances",
+   "state_of_incorporation": "CA",
+   "hq": "NASHVILLE, TN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-22T05:12:03+09:00"
+  },
+  {
+   "id": "0001193125-26-396654",
+   "company": "Lantheus Holdings, Inc.",
+   "ticker": "LNTH",
+   "cik": 1521036,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Delaware corporation (“ Lantheus ” or the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) by and among the Company, Curium US Holdings LLC, a Delaware limited liability company (“ Parent ”), and Coco Merger Sub Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526396654/0001193125-26-396654-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526396654/d148743d8k.htm",
+   "filed_at": "2026-09-21T16:05:47-04:00",
+   "filed_kst": "2026-09-22 05:05",
+   "price": 100.28,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 100.28,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 100.28,
+     "change": -0.27
+    },
+    {
+     "date": "2026-09-18",
+     "close": 100.55,
+     "change": -0.25
+    }
+   ],
+   "market_cap": 6545513163.0,
+   "shares_outstanding": 65272369.0,
+   "industry": "In Vitro & In Vivo Diagnostic Substances",
+   "state_of_incorporation": "DE",
+   "hq": "BEDFORD, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T05:12:01+09:00"
+  },
+  {
+   "id": "0001628280-26-062880",
+   "company": "Bunge Global SA",
+   "ticker": "BG",
+   "cik": 1996862,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Effective as of October 2, 2026, BLFC, Bunge and the lenders under their existing unsecured $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996862/000162828026062880/0001628280-26-062880-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1996862/000162828026062880/bg-20260917.htm",
+   "filed_at": "2026-09-21T16:09:22-04:00",
+   "filed_kst": "2026-09-22 05:09",
+   "price": 112.61,
+   "change": -2.57,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 112.61,
+     "change": -2.57
+    },
+    {
+     "date": "2026-09-18",
+     "close": 115.58,
+     "change": -3.13
+    },
+    {
+     "date": "2026-09-17",
+     "close": 119.31,
+     "change": 1.86
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Fats & Oils",
+   "state_of_incorporation": "Switzerland",
+   "hq": "GENEVA, V8",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T05:11:55+09:00"
+  },
+  {
+   "id": "0001818502-26-000080",
+   "company": "OppFi Inc.",
+   "ticker": "OPFI",
+   "cik": 1818502,
+   "form": "8-K",
+   "items": [
+    "2.03",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "As previously reported, the Company entered into an Agreement and Plan of Merger, dated as of April 28, 2026 (as it may be amended from time to time, the “Merger Agreement”), with BNCC and Birch Merger Sub, LLC, a Delaware limited liability company and wholly owned subsidiary of OppFi, pursuant to w",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1818502/000181850226000080/0001818502-26-000080-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1818502/000181850226000080/opfi-20260915.htm",
+   "filed_at": "2026-09-21T16:09:43-04:00",
+   "filed_kst": "2026-09-22 05:09",
+   "price": 6.43,
+   "change": -1.53,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 6.43,
+     "change": -1.53
+    },
+    {
+     "date": "2026-09-18",
+     "close": 6.53,
+     "change": -7.24
+    },
+    {
+     "date": "2026-09-17",
+     "close": 7.04,
+     "change": 0.14
+    }
+   ],
+   "market_cap": 561378429.0,
+   "shares_outstanding": 87306132.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": null,
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-09-22T05:11:54+09:00"
+  },
+  {
+   "id": "0001213900-26-101799",
+   "company": "Constellation Acquisition Corp I",
+   "ticker": "CSTAF",
+   "cik": 1834032,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "5 million was funded upon signing of the business combination agreement and a further $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026101799/0001213900-26-101799-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026101799/ea0305944-425_constellation1.htm",
+   "filed_at": "2026-09-21T16:05:01-04:00",
+   "filed_kst": "2026-09-22 05:05",
+   "price": 13.05,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-18",
+     "close": 13.05,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-17",
+     "close": 13.05,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-16",
+     "close": 13.05,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-22T05:11:11+09:00"
+  },
+  {
+   "id": "0001213900-26-101799",
+   "company": "US Elemental Inc.",
+   "ticker": "ULIT",
+   "cik": 2134552,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "5 million was funded upon signing of the business combination agreement and a further $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026101799/0001213900-26-101799-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026101799/ea0305944-425_constellation1.htm",
+   "filed_at": "2026-09-21T16:05:01-04:00",
+   "filed_kst": "2026-09-22 05:05",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+   "state_of_incorporation": "DE",
+   "hq": "RENO, NV",
+   "entity_category": null,
+   "detected_at": "2026-09-22T05:11:09+09:00"
+  },
   {
    "id": "0000885550-26-000195",
    "company": "CREDIT ACCEPTANCE CORP",
