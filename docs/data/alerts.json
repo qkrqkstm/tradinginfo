@@ -1,7 +1,108 @@
 {
- "updated_at": "2026-09-23T06:19:13+09:00",
- "count": 171,
+ "updated_at": "2026-09-23T06:24:11+09:00",
+ "count": 173,
  "alerts": [
+  {
+   "id": "0001193125-26-398138",
+   "company": "M&T BANK CORP",
+   "ticker": "MTB",
+   "cik": 36270,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "EX-1.1 2 d181022dex11.htm EX-1.1 EX-1.1 Exhibit 1.1 M&T Bank Corporation Senior Medium-Term Notes, Series C Subordinated Medium-Term Notes, Series D Due Nine Months or More From Date of Issue DISTRIBUTION AGREEMENT September 22, 2026 RBC CAPITAL MARKETS, LLC Brookfield Place 200 Vesey Street, 8 th F",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000119312526398138/0001193125-26-398138-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/36270/000119312526398138/d181022dex11.htm",
+   "filed_at": "2026-09-22T17:22:11-04:00",
+   "filed_kst": "2026-09-23 06:22",
+   "price": 223.42,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 223.42,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-22",
+     "close": 223.42,
+     "change": -1.56
+    },
+    {
+     "date": "2026-09-21",
+     "close": 226.96,
+     "change": -0.15
+    }
+   ],
+   "market_cap": 32265481256.0,
+   "shares_outstanding": 144416262.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "NY",
+   "hq": "BUFFALO, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T06:23:27+09:00"
+  },
+  {
+   "id": "0001193125-26-398139",
+   "company": "United Parks & Resorts Inc.",
+   "ticker": "PRKS",
+   "cik": 1564902,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-3.1 2 prks-ex3_1.htm EX-3.1 EX-3.1 Exhibit 3.1 AMENDED AND RESTATED BYLAWS OF UNITED PARKS & RESORTS INC. ARTICLE I Offices SECTION 1.01 Offices . The registered office and registered agent of United Parks & Resorts Inc. (the “Corporation”) shall be as set forth in the Amended and Restated Certif",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564902/000119312526398139/0001193125-26-398139-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564902/000119312526398139/prks-ex3_1.htm",
+   "filed_at": "2026-09-22T17:22:24-04:00",
+   "filed_kst": "2026-09-23 06:22",
+   "price": 33.6,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 33.6,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-22",
+     "close": 33.6,
+     "change": -1.21
+    },
+    {
+     "date": "2026-09-21",
+     "close": 34.01,
+     "change": -0.53
+    }
+   ],
+   "market_cap": 1523467982.0,
+   "shares_outstanding": 45341309.0,
+   "industry": "Services-Miscellaneous Amusement & Recreation",
+   "state_of_incorporation": "DE",
+   "hq": "ORLANDO, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T06:23:17+09:00"
+  },
   {
    "id": "0001193125-26-398104",
    "company": "EQUITY BANCSHARES INC",
