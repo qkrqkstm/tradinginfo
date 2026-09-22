@@ -1,7 +1,109 @@
 {
- "updated_at": "2026-09-23T05:59:29+09:00",
- "count": 169,
+ "updated_at": "2026-09-23T06:04:56+09:00",
+ "count": 171,
  "alerts": [
+  {
+   "id": "0001193125-26-398104",
+   "company": "EQUITY BANCSHARES INC",
+   "ticker": "EQBK",
+   "cik": 1227500,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The final mix of merger consideration you receive will be determined in accordance with the allocation procedures set out in the merger agreement and the proxy statement/prospectus.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526398104/0001193125-26-398104-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526398104/d20635d425.htm",
+   "filed_at": "2026-09-22T17:01:28-04:00",
+   "filed_kst": "2026-09-23 06:01",
+   "price": 48.56,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 48.56,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-22",
+     "close": 48.56,
+     "change": -0.1
+    },
+    {
+     "date": "2026-09-21",
+     "close": 48.61,
+     "change": -0.86
+    }
+   ],
+   "market_cap": 999971314.0,
+   "shares_outstanding": 20592490.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "KS",
+   "hq": "WICHITA, KS",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-09-23T06:02:20+09:00"
+  },
+  {
+   "id": "0001388658-26-000080",
+   "company": "iRhythm Holdings, Inc.",
+   "ticker": "IRTC",
+   "cik": 1388658,
+   "form": "8-K",
+   "items": [
+    "7.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation (the “Target”), and Fortis Advisors LLC, a Delaware limited liability company, solely in its capacity as the representative of the stockholders of the Target, entered into an Agreement and Plan of Merger, pursuant to which Merger Sub will merge with and into the Target (the ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1388658/000138865826000080/0001388658-26-000080-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1388658/000138865826000080/irtc-20260922.htm",
+   "filed_at": "2026-09-22T17:00:18-04:00",
+   "filed_kst": "2026-09-23 06:00",
+   "price": 110.53,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 110.53,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-22",
+     "close": 110.53,
+     "change": 0.14
+    },
+    {
+     "date": "2026-09-21",
+     "close": 110.38,
+     "change": 0.96
+    }
+   ],
+   "market_cap": 3643400722.0,
+   "shares_outstanding": 32963003.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": null,
+   "hq": "San Francisco, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T06:01:43+09:00"
+  },
   {
    "id": "0001193125-26-398060",
    "company": "TALOS ENERGY INC.",
