@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-09-22T21:29:13+09:00",
- "count": 150,
+ "updated_at": "2026-09-22T21:35:13+09:00",
+ "count": 151,
  "alerts": [
+  {
+   "id": "0001171843-26-006162",
+   "company": "Compass Therapeutics, Inc.",
+   "ticker": "CMPX",
+   "cik": 1738021,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Tovecimig has received Fast Track and Orphan Drug Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1738021/000117184326006162/0001171843-26-006162-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1738021/000117184326006162/f8k_092226.htm",
+   "filed_at": "2026-09-22T08:30:16-04:00",
+   "filed_kst": "2026-09-22 21:30",
+   "price": 1.82,
+   "change": -4.21,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 1.82,
+     "change": -4.21
+    },
+    {
+     "date": "2026-09-18",
+     "close": 1.9,
+     "change": 2.7
+    },
+    {
+     "date": "2026-09-17",
+     "close": 1.85,
+     "change": 1.09
+    }
+   ],
+   "market_cap": 327760005.0,
+   "shares_outstanding": 180087915.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-22T21:31:21+09:00"
+  },
   {
    "id": "0001193125-26-397278",
    "company": "LandBridge Co LLC",
