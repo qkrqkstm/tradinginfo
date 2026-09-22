@@ -1,7 +1,118 @@
 {
- "updated_at": "2026-09-23T04:59:35+09:00",
- "count": 156,
+ "updated_at": "2026-09-23T05:04:46+09:00",
+ "count": 158,
  "alerts": [
+  {
+   "id": "0001193125-26-397870",
+   "company": "Biomea Fusion, Inc.",
+   "ticker": "BMEA",
+   "cik": 1840439,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "(the “Company”) updated the anticipated timing for topline results from the Company’s ongoing Phase I GLP-131 trial for BMF-650 in obese, otherwise healthy volunteers, which are now expected in October 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1840439/000119312526397870/0001193125-26-397870-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1840439/000119312526397870/bmea-20260922.htm",
+   "filed_at": "2026-09-22T16:01:33-04:00",
+   "filed_kst": "2026-09-23 05:01",
+   "price": 1.7,
+   "change": -0.58,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 1.7,
+     "change": -0.58
+    },
+    {
+     "date": "2026-09-21",
+     "close": 1.71,
+     "change": -6.56
+    },
+    {
+     "date": "2026-09-18",
+     "close": 1.83,
+     "change": 2.23
+    }
+   ],
+   "market_cap": 123222548.0,
+   "shares_outstanding": 72483852.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN CARLOS, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-23T05:02:21+09:00"
+  },
+  {
+   "id": "0001185185-26-004202",
+   "company": "Vogenx, Inc.",
+   "ticker": "VOGX",
+   "cik": 1903784,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Mizagliflozin has been administered to more than 500 subjects in 10 clinical studies and has shown statistically significant reductions in postprandial glucose absorption, GIP secretion, and insulin secretion.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1903784/000118518526004202/0001185185-26-004202-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1903784/000118518526004202/vogenxex99-1.htm",
+   "filed_at": "2026-09-22T16:01:01-04:00",
+   "filed_kst": "2026-09-23 05:01",
+   "price": 26.57,
+   "change": -9.93,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 26.57,
+     "change": -9.93
+    },
+    {
+     "date": "2026-09-21",
+     "close": 29.5,
+     "change": -9.23
+    },
+    {
+     "date": "2026-09-18",
+     "close": 32.5,
+     "change": -4.78
+    }
+   ],
+   "market_cap": 394699662.0,
+   "shares_outstanding": 14855087.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "RALEIGH, NC",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-23T05:01:49+09:00"
+  },
   {
    "id": "0001654954-26-008514",
    "company": "HSBC HOLDINGS PLC",
