@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-23T06:24:11+09:00",
- "count": 173,
+ "updated_at": "2026-09-23T06:29:05+09:00",
+ "count": 174,
  "alerts": [
+  {
+   "id": "0001292814-26-004670",
+   "company": "Vale S.A.",
+   "ticker": "VALE",
+   "cik": 917851,
+   "form": "6-K/A",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "00 Others ADR Cancellation of shares CANCELLATI ON OF SHARES 27 5,237,459 0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426004670/0001292814-26-004670-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426004670/vale20260922_6ka.htm",
+   "filed_at": "2026-09-22T17:26:10-04:00",
+   "filed_kst": "2026-09-23 06:26",
+   "price": 14.19,
+   "change": 0.28,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 14.19,
+     "change": 0.28
+    },
+    {
+     "date": "2026-09-21",
+     "close": 14.15,
+     "change": -0.42
+    },
+    {
+     "date": "2026-09-18",
+     "close": 14.21,
+     "change": -1.8
+    }
+   ],
+   "market_cap": 46212920400.0,
+   "shares_outstanding": 3256724482.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": null,
+   "hq": "RIO DE JANEIRO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T06:27:25+09:00"
+  },
   {
    "id": "0001193125-26-398138",
    "company": "M&T BANK CORP",
