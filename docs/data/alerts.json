@@ -1,7 +1,167 @@
 {
- "updated_at": "2026-09-22T20:04:41+09:00",
- "count": 131,
+ "updated_at": "2026-09-22T20:09:12+09:00",
+ "count": 134,
  "alerts": [
+  {
+   "id": "0000886163-26-000050",
+   "company": "LIGAND PHARMACEUTICALS INC",
+   "ticker": "LGND",
+   "cik": 886163,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Under the terms of the agreement, Ligand will pay $23 million upfront to acquire a 100% interest in certain payments and related rights under Sydnexis’s existing license agreement with Santen.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/886163/000088616326000050/0000886163-26-000050-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/886163/000088616326000050/lgnd-20260922.htm",
+   "filed_at": "2026-09-22T07:08:26-04:00",
+   "filed_kst": "2026-09-22 20:08",
+   "price": 290.07,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 290.07,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 290.07,
+     "change": 2.32
+    },
+    {
+     "date": "2026-09-18",
+     "close": 283.49,
+     "change": -0.43
+    }
+   ],
+   "market_cap": 5782722103.0,
+   "shares_outstanding": 19935609.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T20:09:11+09:00"
+  },
+  {
+   "id": "0001193125-26-397219",
+   "company": "Viking Therapeutics, Inc.",
+   "ticker": "VKTX",
+   "cik": 1607678,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "Semaglutide is a GLP-1 receptor agonist that has been approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526397219/0001193125-26-397219-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526397219/vktx-ex99_1.htm",
+   "filed_at": "2026-09-22T07:06:19-04:00",
+   "filed_kst": "2026-09-22 20:06",
+   "price": 30.11,
+   "change": 3.86,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 30.11,
+     "change": 3.86
+    },
+    {
+     "date": "2026-09-18",
+     "close": 28.99,
+     "change": -1.26
+    },
+    {
+     "date": "2026-09-17",
+     "close": 29.36,
+     "change": -0.54
+    }
+   ],
+   "market_cap": 3512419933.0,
+   "shares_outstanding": 116652937.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T20:07:33+09:00"
+  },
+  {
+   "id": "0001104659-26-109463",
+   "company": "CYPHERPUNK TECHNOLOGIES INC.",
+   "ticker": "CYPH",
+   "cik": 1509745,
+   "form": "8-K",
+   "items": [
+    "5.02"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(b) To the extent that the Company maintains an insurance policy or policies providing liability insurance for directors, officers, employees, or agents or fiduciaries of the Company or of any other corporation, partnership, joint venture, trust, employee benefit plan or other enterprise that such p",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926109463/0001104659-26-109463-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926109463/tm2625876d1_ex99-1.htm",
+   "filed_at": "2026-09-22T07:05:32-04:00",
+   "filed_kst": "2026-09-22 20:05",
+   "price": 3.4,
+   "change": -5.56,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 3.4,
+     "change": -5.56
+    },
+    {
+     "date": "2026-09-18",
+     "close": 3.6,
+     "change": 17.26
+    },
+    {
+     "date": "2026-09-17",
+     "close": 3.07,
+     "change": 25.82
+    }
+   ],
+   "market_cap": 366398899.0,
+   "shares_outstanding": 107764382.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-22T20:06:45+09:00"
+  },
   {
    "id": "0000851205-26-000071",
    "company": "COGNEX CORP",
