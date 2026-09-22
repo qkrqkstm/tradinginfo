@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-22T19:09:37+09:00",
- "count": 128,
+ "updated_at": "2026-09-22T19:14:37+09:00",
+ "count": 129,
  "alerts": [
+  {
+   "id": "0001858985-26-000021",
+   "company": "On Holding AG",
+   "ticker": "ONON",
+   "cik": 1858985,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "Share Repurchase Authorization Reflecting On’s strong balance sheet and the highly cash generative nature of its premium growth, the Company intends to return capital to shareholders as part of a disciplined capital allocation strategy.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858985/000185898526000021/0001858985-26-000021-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1858985/000185898526000021/exhibit991oninvestorday202.htm",
+   "filed_at": "2026-09-22T06:09:23-04:00",
+   "filed_kst": "2026-09-22 19:09",
+   "price": 27.32,
+   "change": 0.22,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 27.32,
+     "change": 0.22
+    },
+    {
+     "date": "2026-09-18",
+     "close": 27.26,
+     "change": -0.26
+    },
+    {
+     "date": "2026-09-17",
+     "close": 27.33,
+     "change": 0.66
+    }
+   ],
+   "market_cap": 8110580004.0,
+   "shares_outstanding": 296873353.0,
+   "industry": "Rubber & Plastics Footwear",
+   "state_of_incorporation": "Switzerland",
+   "hq": "8005 ZURICH, V8",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T19:10:43+09:00"
+  },
   {
    "id": "0001978867-26-000111",
    "company": "Cadeler A/S",
