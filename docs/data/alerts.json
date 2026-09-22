@@ -1,7 +1,117 @@
 {
- "updated_at": "2026-09-23T05:19:07+09:00",
- "count": 165,
+ "updated_at": "2026-09-23T05:24:39+09:00",
+ "count": 167,
  "alerts": [
+  {
+   "id": "0001628280-26-063046",
+   "company": "Vistagen Therapeutics, Inc.",
+   "ticker": "VTGN",
+   "cik": 1411685,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 79,
+   "summary": "The single-dose randomized portion of the study did not achieve its primary endpoint in the overall study population, as measured by the least squares mean change from baseline on the SUDS for fasedienol compared with placebo.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026063046/0001628280-26-063046-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026063046/ex99120260922.htm",
+   "filed_at": "2026-09-22T16:22:14-04:00",
+   "filed_kst": "2026-09-23 05:22",
+   "price": 0.25,
+   "change": -0.16,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 0.25,
+     "change": -0.16
+    },
+    {
+     "date": "2026-09-22",
+     "close": 0.25,
+     "change": 9.3
+    },
+    {
+     "date": "2026-09-21",
+     "close": 0.23,
+     "change": -4.17
+    }
+   ],
+   "market_cap": 11094228.0,
+   "shares_outstanding": 44376911.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "SOUTH SAN FRANCISCO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-23T05:23:04+09:00"
+  },
+  {
+   "id": "0001193125-26-397953",
+   "company": "WORTHINGTON ENTERPRISES, INC.",
+   "ticker": "WOR",
+   "cik": 108516,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "2 million, leaving 4,230,000 common shares available under the existing repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526397953/0001193125-26-397953-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526397953/wor-ex99_1.htm",
+   "filed_at": "2026-09-22T16:20:20-04:00",
+   "filed_kst": "2026-09-23 05:20",
+   "price": 58.94,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 58.94,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-22",
+     "close": 58.94,
+     "change": 1.36
+    },
+    {
+     "date": "2026-09-21",
+     "close": 58.15,
+     "change": 1.34
+    }
+   ],
+   "market_cap": 2884194479.0,
+   "shares_outstanding": 48934416.0,
+   "industry": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
+   "state_of_incorporation": "OH",
+   "hq": "COLUMBUS, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T05:21:39+09:00"
+  },
   {
    "id": "0001376474-26-000615",
    "company": "ZenaTech, Inc.",
