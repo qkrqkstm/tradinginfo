@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-09-23T05:54:39+09:00",
- "count": 168,
+ "updated_at": "2026-09-23T05:59:29+09:00",
+ "count": 169,
  "alerts": [
+  {
+   "id": "0001193125-26-398060",
+   "company": "TALOS ENERGY INC.",
+   "ticker": "TALO",
+   "cik": 1724965,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.01",
+    "7.01",
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation (“Seller”), pursuant to which the Buyers agreed to acquire certain oil and gas properties and related assets located in the Outer Continental Shelf in the Mississippi Canyon area of the Gulf of America, including interests in the Na Kika and Coulomb deepwater producing asset",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1724965/000119312526398060/0001193125-26-398060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1724965/000119312526398060/talo-ex99_1.htm",
+   "filed_at": "2026-09-22T16:54:32-04:00",
+   "filed_kst": "2026-09-23 05:54",
+   "price": 16.09,
+   "change": -2.01,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 16.09,
+     "change": -2.01
+    },
+    {
+     "date": "2026-09-21",
+     "close": 16.42,
+     "change": -3.47
+    },
+    {
+     "date": "2026-09-18",
+     "close": 17.01,
+     "change": -0.82
+    }
+   ],
+   "market_cap": 2686474380.0,
+   "shares_outstanding": 166965468.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T05:55:51+09:00"
+  },
   {
    "id": "0001753926-26-001849",
    "company": "INTERPARFUMS INC",
