@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-09-23T05:14:24+09:00",
- "count": 163,
+ "updated_at": "2026-09-23T05:19:07+09:00",
+ "count": 165,
  "alerts": [
+  {
+   "id": "0001376474-26-000615",
+   "company": "ZenaTech, Inc.",
+   "ticker": "ZENA",
+   "cik": 1997403,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (\"ZenaTech\"), a technology solution provider specializing in AI (Artificial Intelligence) drone, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, announces that it has completed the acquisition of Merritt Paul Land Surveying, LLC (Mer",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1997403/000137647426000615/0001376474-26-000615-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1997403/000137647426000615/zt_ex99z2.htm",
+   "filed_at": "2026-09-22T16:14:10-04:00",
+   "filed_kst": "2026-09-23 05:14",
+   "price": 1.54,
+   "change": 0.65,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 1.54,
+     "change": 0.65
+    },
+    {
+     "date": "2026-09-21",
+     "close": 1.53,
+     "change": 5.52
+    },
+    {
+     "date": "2026-09-18",
+     "close": 1.45,
+     "change": -3.33
+    }
+   ],
+   "market_cap": 73952163.0,
+   "shares_outstanding": 48020885.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Canada (Federal Level)",
+   "hq": "VANCOUVER, A1",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-23T05:15:55+09:00"
+  },
+  {
+   "id": "0001628280-26-063031",
+   "company": "TriSalus Life Sciences, Inc.",
+   "ticker": "TLSI",
+   "cik": 1826667,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Food and Drug Administration (“FDA”) 510(k) clearance for its TriNav Advance device.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1826667/000162828026063031/0001628280-26-063031-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826667/000162828026063031/tlsi-20260922.htm",
+   "filed_at": "2026-09-22T16:14:43-04:00",
+   "filed_kst": "2026-09-23 05:14",
+   "price": 4.93,
+   "change": -1.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 4.93,
+     "change": -1.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 4.98,
+     "change": -2.35
+    },
+    {
+     "date": "2026-09-18",
+     "close": 5.1,
+     "change": 4.08
+    }
+   ],
+   "market_cap": 303562778.0,
+   "shares_outstanding": 61574600.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "WESTMINSTER, CO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-23T05:15:42+09:00"
+  },
   {
    "id": "0001493152-26-043712",
    "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
