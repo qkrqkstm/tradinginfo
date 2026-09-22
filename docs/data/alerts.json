@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-09-22T19:59:03+09:00",
- "count": 130,
+ "updated_at": "2026-09-22T20:04:41+09:00",
+ "count": 131,
  "alerts": [
+  {
+   "id": "0000851205-26-000071",
+   "company": "COGNEX CORP",
+   "ticker": "CGNX",
+   "cik": 851205,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "01 Other Events On September 22, 2026, the Company announced that it had agreed to acquire RealSense, a leader in depth-sensing cameras and vision technology for robotic perception and physical artificial intelligence.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000071/0000851205-26-000071-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000071/cgnx-20260922.htm",
+   "filed_at": "2026-09-22T07:01:30-04:00",
+   "filed_kst": "2026-09-22 20:01",
+   "price": 61.99,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 61.99,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 61.99,
+     "change": 0.7
+    },
+    {
+     "date": "2026-09-18",
+     "close": 61.56,
+     "change": 1.17
+    }
+   ],
+   "market_cap": 10428195966.0,
+   "shares_outstanding": 168223842.0,
+   "industry": "Industrial Instruments For Measurement, Display, and Control",
+   "state_of_incorporation": "MA",
+   "hq": "NATICK, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T20:02:28+09:00"
+  },
   {
    "id": "0001876042-26-000276",
    "company": "Circle Internet Group, Inc.",
