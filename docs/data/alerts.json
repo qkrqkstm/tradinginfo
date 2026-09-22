@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-09-22T21:19:28+09:00",
- "count": 149,
+ "updated_at": "2026-09-22T21:24:38+09:00",
+ "count": 150,
  "alerts": [
+  {
+   "id": "0001193125-26-397278",
+   "company": "LandBridge Co LLC",
+   "ticker": "LB",
+   "cik": 1995807,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "8 million related to LandBridge Holdings redemption of 2,500,000 OpCo Units (together with a cancellation of a corresponding number of Class B shares), for an equivalent amount of Class A shares and $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1995807/000119312526397278/0001193125-26-397278-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1995807/000119312526397278/d126102dex992.htm",
+   "filed_at": "2026-09-22T08:19:25-04:00",
+   "filed_kst": "2026-09-22 21:19",
+   "price": 87.55,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 87.55,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 87.55,
+     "change": 1.85
+    },
+    {
+     "date": "2026-09-18",
+     "close": 85.96,
+     "change": 0.03
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Oil Royalty Traders",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T21:20:47+09:00"
+  },
   {
    "id": "0001193125-26-397255",
    "company": "Solaris Energy Infrastructure, Inc.",
