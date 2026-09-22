@@ -1,7 +1,172 @@
 {
- "updated_at": "2026-09-22T21:04:36+09:00",
- "count": 146,
+ "updated_at": "2026-09-22T21:09:27+09:00",
+ "count": 149,
  "alerts": [
+  {
+   "id": "0001193125-26-397255",
+   "company": "Solaris Energy Infrastructure, Inc.",
+   "ticker": "SEI",
+   "cik": 1697500,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "GESA Acquisition On July 1, 2026, we completed the acquisition of Global Energy Services Alliance, Inc.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1697500/000119312526397255/0001193125-26-397255-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1697500/000119312526397255/d182097dex991.htm",
+   "filed_at": "2026-09-22T08:06:16-04:00",
+   "filed_kst": "2026-09-22 21:06",
+   "price": 69.09,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 69.09,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 69.09,
+     "change": -0.82
+    },
+    {
+     "date": "2026-09-18",
+     "close": 69.66,
+     "change": 0.64
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Oil & Gas Field Machinery & Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-22T21:08:07+09:00"
+  },
+  {
+   "id": "0001140361-26-037298",
+   "company": "PDS Biotechnology Corp",
+   "ticker": "PDSB",
+   "cik": 1472091,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "대형계약"
+   ],
+   "confidence": 81,
+   "summary": "1 PDS Biotech Announces Publication of VERSATILE-002 Phase 2 Clinical Trial Results of PDS0101 with pembrolizumab in HPV16-Positive Recurrent and/or Metastatic (R/M) Head and Neck Cancer in JAMA Oncology 39.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126037298/0001140361-26-037298-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126037298/ef20082545_ex99-1.htm",
+   "filed_at": "2026-09-22T08:05:08-04:00",
+   "filed_kst": "2026-09-22 21:05",
+   "price": 0.84,
+   "change": -0.01,
+   "price_history": [
+    {
+     "date": "2026-09-22",
+     "close": 0.84,
+     "change": -0.01
+    },
+    {
+     "date": "2026-09-21",
+     "close": 0.84,
+     "change": 4.47
+    },
+    {
+     "date": "2026-09-18",
+     "close": 0.81,
+     "change": -4.28
+    }
+   ],
+   "market_cap": 47015924.0,
+   "shares_outstanding": 55971338.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PRINCETON, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-22T21:06:36+09:00"
+  },
+  {
+   "id": "0001178253-26-000035",
+   "company": "SCYNEXIS INC",
+   "ticker": "SCYX",
+   "cik": 1178253,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "SCY-770 has been granted Orphan Drug Designation by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178253/000117825326000035/0001178253-26-000035-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1178253/000117825326000035/scyx-ex99_1.htm",
+   "filed_at": "2026-09-22T08:05:19-04:00",
+   "filed_kst": "2026-09-22 21:05",
+   "price": 4.4,
+   "change": -1.35,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 4.4,
+     "change": -1.35
+    },
+    {
+     "date": "2026-09-18",
+     "close": 4.46,
+     "change": 0.22
+    },
+    {
+     "date": "2026-09-17",
+     "close": 4.45,
+     "change": 8.27
+    }
+   ],
+   "market_cap": 43778280.0,
+   "shares_outstanding": 9949609.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "JERSEY CITY, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-22T21:06:35+09:00"
+  },
   {
    "id": "0001104659-26-109485",
    "company": "Adagene Inc.",
