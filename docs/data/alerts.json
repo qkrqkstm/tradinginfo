@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-09-24T06:04:27+09:00",
- "count": 222,
+ "updated_at": "2026-09-24T06:14:19+09:00",
+ "count": 224,
  "alerts": [
+  {
+   "id": "0001628280-26-063244",
+   "company": "Sunrise Realty Trust, Inc.",
+   "ticker": "SUNS",
+   "cik": 2012706,
+   "form": "8-K",
+   "items": [
+    "5.02"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Maryland corporation (“SRT”), Sunrise Merger Sub, LLC, a Maryland limited liability company and a wholly owned subsidiary of the Company (“Merger Sub”), and, solely for the limited purposes set forth in the Merger Agreement (as defined below), Sunrise Manager LLC, a Delaware limited liability co",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012706/000162828026063244/0001628280-26-063244-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2012706/000162828026063244/suns-20260917.htm",
+   "filed_at": "2026-09-23T17:07:59-04:00",
+   "filed_kst": "2026-09-24 06:07",
+   "price": 7.35,
+   "change": 1.38,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 7.35,
+     "change": 1.38
+    },
+    {
+     "date": "2026-09-21",
+     "close": 7.25,
+     "change": -0.82
+    },
+    {
+     "date": "2026-09-18",
+     "close": 7.31,
+     "change": -2.53
+    }
+   ],
+   "market_cap": 99341505.0,
+   "shares_outstanding": 13515851.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "WEST PALM BEACH, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T06:10:45+09:00"
+  },
+  {
+   "id": "0001140361-26-037450",
+   "company": "BIO-TECHNE Corp",
+   "ticker": "TECH",
+   "cik": 842023,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "EX-99.1 2 ef20082601_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Bio-Techne Shareholders Approve Acquisition by Merck KGaA, Darmstadt, Germany MINNEAPOLIS – September 23, 2026 – Bio-Techne Corporation (NASDAQ: TECH) (“Bio-Techne”), a global provider of life science tools, reagents and diagnostic products, ",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000114036126037450/0001140361-26-037450-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/842023/000114036126037450/ef20082601_ex99-1.htm",
+   "filed_at": "2026-09-23T17:08:31-04:00",
+   "filed_kst": "2026-09-24 06:08",
+   "price": 72.52,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 72.52,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-23",
+     "close": 72.52,
+     "change": 0.07
+    },
+    {
+     "date": "2026-09-21",
+     "close": 72.47,
+     "change": 0.14
+    }
+   ],
+   "market_cap": 11372458620.0,
+   "shares_outstanding": 156818238.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "MN",
+   "hq": "MINNEAPOLIS, MN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-24T06:10:43+09:00"
+  },
   {
    "id": "0001437749-26-031072",
    "company": "INDEPENDENCE REALTY TRUST, INC.",
