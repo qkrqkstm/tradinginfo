@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-23T22:34:43+09:00",
- "count": 199,
+ "updated_at": "2026-09-23T22:39:34+09:00",
+ "count": 200,
  "alerts": [
+  {
+   "id": "0001174947-26-000894",
+   "company": "ENI SPA",
+   "ticker": "E",
+   "cik": 1002242,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "From the start on 8 May 2026 of the buyback program, Eni acquired no.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000894/0001174947-26-000894-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000894/form6k-36369_eni.htm",
+   "filed_at": "2026-09-23T09:37:04-04:00",
+   "filed_kst": "2026-09-23 22:37",
+   "price": 54.14,
+   "change": 0.19,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 54.14,
+     "change": 0.19
+    },
+    {
+     "date": "2026-09-21",
+     "close": 54.04,
+     "change": -1.06
+    },
+    {
+     "date": "2026-09-18",
+     "close": 54.62,
+     "change": -1.48
+    }
+   ],
+   "market_cap": 170365863272.0,
+   "shares_outstanding": 3146765114.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Italy",
+   "hq": "ROME ITALY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T22:38:46+09:00"
+  },
   {
    "id": "0001493152-26-043845",
    "company": "Glucotrack, Inc.",
