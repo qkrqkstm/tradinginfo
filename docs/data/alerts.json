@@ -1,7 +1,163 @@
 {
- "updated_at": "2026-09-24T05:29:18+09:00",
- "count": 213,
+ "updated_at": "2026-09-24T05:34:28+09:00",
+ "count": 216,
  "alerts": [
+  {
+   "id": "0001104659-26-110002",
+   "company": "Willdan Group, Inc.",
+   "ticker": "WLDN",
+   "cik": 1370450,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "EX-2.1 2 tm2625947d1_ex2-1.htm EXHIBIT 2.1 Exhibit 2.1 Execution Version MEMBERSHIP INTEREST PURCHASE AGREEMENT DATED AS OF SEPTEMBER 22, 2026 BY AND AMONG MANTIS NEWCO, LLC, AS SELLER AND WILLDAN ENERGY SOLUTIONS, INC. AS BUYER Table of Contents Page ARTICLE 1 Certain Definitions 1 Section 1.1 Defi",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926110002/0001104659-26-110002-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926110002/tm2625947d1_ex2-1.htm",
+   "filed_at": "2026-09-23T16:32:11-04:00",
+   "filed_kst": "2026-09-24 05:32",
+   "price": 81.36,
+   "change": 1.42,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 81.36,
+     "change": 1.42
+    },
+    {
+     "date": "2026-09-21",
+     "close": 80.22,
+     "change": 0.34
+    },
+    {
+     "date": "2026-09-18",
+     "close": 79.95,
+     "change": -0.05
+    }
+   ],
+   "market_cap": 1239282924.0,
+   "shares_outstanding": 15232091.0,
+   "industry": "Services-Engineering Services",
+   "state_of_incorporation": "DE",
+   "hq": "ANAHEIM, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-24T05:33:48+09:00"
+  },
+  {
+   "id": "0001493152-26-043936",
+   "company": "Hennessy Capital Investment Corp. VII",
+   "ticker": "HVII",
+   "cik": 1846416,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "VII, a Cayman Islands exempted company (“HVII”), and ONE Nuclear Energy, LLC, a Delaware limited liability company (“ONE Nuclear”), issued a press release announcing the closing of the business combination contemplated by the Business Combination Agreement, dated as of October 22, 2025, as amended b",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226043936/0001493152-26-043936-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226043936/ex99-2.htm",
+   "filed_at": "2026-09-23T16:30:52-04:00",
+   "filed_kst": "2026-09-24 05:30",
+   "price": 4.46,
+   "change": -59.01,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 4.46,
+     "change": -59.01
+    },
+    {
+     "date": "2026-09-21",
+     "close": 10.88,
+     "change": 8.8
+    },
+    {
+     "date": "2026-09-18",
+     "close": 10.0,
+     "change": -6.98
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Electric Services",
+   "state_of_incorporation": null,
+   "hq": "WEST PALM BEACH, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T05:32:21+09:00"
+  },
+  {
+   "id": "0001493152-26-043932",
+   "company": "GMEX Robotics Corp",
+   "ticker": "GMEX",
+   "cik": 1928581,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "This positions us optimally to consider strategic partnerships, acquisitions, or other capital market activities from a position of strength”.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1928581/000149315226043932/0001493152-26-043932-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1928581/000149315226043932/ex99-1.htm",
+   "filed_at": "2026-09-23T16:30:09-04:00",
+   "filed_kst": "2026-09-24 05:30",
+   "price": 0.43,
+   "change": -0.81,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 0.43,
+     "change": -0.81
+    },
+    {
+     "date": "2026-09-22",
+     "close": 0.43,
+     "change": 5.38
+    },
+    {
+     "date": "2026-09-21",
+     "close": 0.41,
+     "change": -2.15
+    }
+   ],
+   "market_cap": 9038857.0,
+   "shares_outstanding": 21020597.0,
+   "industry": "Sporting & Athletic Goods, NEC",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BANKSTOWN NSW 2200",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T05:31:47+09:00"
+  },
   {
    "id": "0002048951-26-000020",
    "company": "Teamshares Inc",
