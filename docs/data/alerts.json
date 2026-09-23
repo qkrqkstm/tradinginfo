@@ -1,7 +1,468 @@
 {
- "updated_at": "2026-09-23T18:59:11+09:00",
- "count": 174,
+ "updated_at": "2026-09-23T19:04:36+09:00",
+ "count": 183,
  "alerts": [
+  {
+   "id": "0001654954-26-008520",
+   "company": "ASTRAZENECA PLC",
+   "ticker": "AZN",
+   "cik": 901832,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 64,
+   "summary": "The approval by the European Commission (EC) follows the positive opinion of the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) and was based on the positive results from the KALOS and LOGOS Phase III trials.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426008520/0001654954-26-008520-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426008520/a8652v.htm",
+   "filed_at": "2026-09-23T06:01:08-04:00",
+   "filed_kst": "2026-09-23 19:01",
+   "price": 168.37,
+   "change": 0.16,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 168.37,
+     "change": 0.16
+    },
+    {
+     "date": "2026-09-21",
+     "close": 168.1,
+     "change": 1.22
+    },
+    {
+     "date": "2026-09-18",
+     "close": 166.08,
+     "change": -0.04
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "CAMBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T19:03:57+09:00"
+  },
+  {
+   "id": "0001104659-26-109755",
+   "company": "ROYAL CARIBBEAN CRUISES LTD",
+   "ticker": "RCL",
+   "cik": 884887,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Building on Sandals and Beaches Resorts’ more than four decades of leadership in Caribbean hospitality, the joint venture will create new opportunities for continued resort growth while broadening the experiences across Royal Caribbean Group’s vacation platform.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/0001104659-26-109755-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/tm2625963d1_ex99-1.htm",
+   "filed_at": "2026-09-23T06:01:38-04:00",
+   "filed_kst": "2026-09-23 19:01",
+   "price": 234.89,
+   "change": -6.14,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 234.89,
+     "change": -6.14
+    },
+    {
+     "date": "2026-09-21",
+     "close": 250.25,
+     "change": 1.81
+    },
+    {
+     "date": "2026-09-18",
+     "close": 245.81,
+     "change": -1.57
+    }
+   ],
+   "market_cap": 62821820011.0,
+   "shares_outstanding": 267452084.0,
+   "industry": "Water Transportation",
+   "state_of_incorporation": null,
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T19:03:53+09:00"
+  },
+  {
+   "id": "0001140361-26-037371",
+   "company": "IONIS PHARMACEUTICALS INC",
+   "ticker": "IONS",
+   "cik": 874015,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 64,
+   "summary": "1 Ionis announces positive interim data from partner Roche’s Phase 3 IMAgINATION study in IgA nephropathy (IgAN) – Sefaxersen demonstrated statistically significant and clinically meaningful reductions in proteinuria versus placebo at 37 weeks, showing best-in-class potential – – IgAN is a progressi",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126037371/0001140361-26-037371-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126037371/ef20082626_ex99-1.htm",
+   "filed_at": "2026-09-23T06:03:20-04:00",
+   "filed_kst": "2026-09-23 19:03",
+   "price": 45.75,
+   "change": 1.89,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 45.75,
+     "change": 1.89
+    },
+    {
+     "date": "2026-09-21",
+     "close": 44.9,
+     "change": 1.04
+    },
+    {
+     "date": "2026-09-18",
+     "close": 44.44,
+     "change": -4.94
+    }
+   ],
+   "market_cap": 7602932732.0,
+   "shares_outstanding": 166184322.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "CA",
+   "hq": "CARLSBAD, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T19:03:51+09:00"
+  },
+  {
+   "id": "0001213900-26-102326",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 80,
+   "summary": "The company recently announced that it has entered into a definitive business combination agreement with Inflection Point Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026102326/0001213900-26-102326-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026102326/ea0306343-425_inflection7.htm",
+   "filed_at": "2026-09-22T21:02:49-04:00",
+   "filed_kst": "2026-09-23 10:02",
+   "price": 10.04,
+   "change": -0.2,
+   "price_history": [
+    {
+     "date": "2026-09-21",
+     "close": 10.04,
+     "change": -0.2
+    },
+    {
+     "date": "2026-09-18",
+     "close": 10.06,
+     "change": 0.1
+    },
+    {
+     "date": "2026-09-17",
+     "close": 10.05,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-23T19:03:16+09:00"
+  },
+  {
+   "id": "0001104659-26-109720",
+   "company": "BROOKFIELD Corp /ON/",
+   "ticker": "BN",
+   "cik": 1001085,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 tm2625808d6_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Execution Version Brookfield Finance Inc. 5.650% Notes Due 2031 Underwriting Agreement New York, New York September 21, 2026 To the Representatives named in Schedule I hereto of the several Underwriters named in Schedule II hereto Ladies and",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1001085/000110465926109720/0001104659-26-109720-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1001085/000110465926109720/tm2625808d6_ex99-1.htm",
+   "filed_at": "2026-09-22T20:45:46-04:00",
+   "filed_kst": "2026-09-23 09:45",
+   "price": 37.85,
+   "change": -0.34,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 37.85,
+     "change": -0.34
+    },
+    {
+     "date": "2026-09-21",
+     "close": 37.98,
+     "change": 1.25
+    },
+    {
+     "date": "2026-09-18",
+     "close": 37.51,
+     "change": 0.86
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Opeators of  Nonresidential Buildings",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO, A6",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T19:03:14+09:00"
+  },
+  {
+   "id": "0000950103-26-014361",
+   "company": "newcleo plc",
+   "ticker": "NWCL",
+   "cik": 2131813,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "EX-99.1 2 dp253663_ex9901.htm EXHIBIT 99.1 Exhibit 99.1 new cleo Completes Business Combination, Raises $247 Million and Will Start Trading on Nasdaq Under Ticker Symbol “NWCL” on September 22, 2026 Transaction provides $247 million in gross proceeds to support newcleo’s U.S. and European growth, ad",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326014361/0000950103-26-014361-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326014361/dp253663_ex9901.htm",
+   "filed_at": "2026-09-22T21:11:34-04:00",
+   "filed_kst": "2026-09-23 10:11",
+   "price": 8.14,
+   "change": -5.73,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 8.14,
+     "change": -5.73
+    },
+    {
+     "date": "2026-09-21",
+     "close": 8.64,
+     "change": -0.35
+    },
+    {
+     "date": "2026-09-18",
+     "close": 8.67,
+     "change": -7.27
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Fabricated Plate Work (Boiler Shops)",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": null,
+   "detected_at": "2026-09-23T19:03:12+09:00"
+  },
+  {
+   "id": "0001193125-26-398192",
+   "company": "First Mining Gold Corp.",
+   "ticker": "FFMGF",
+   "cik": 1641229,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "EX-99.1 2 d32949dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 UNDERWRITING AGREEMENT September 21, 2026 First Mining Gold Corp. Suite 2070 – 1188 West Georgia Street Vancouver, BC V6E 4A2 Attention: Daniel W. Wilton Chief Executive Officer and Director Dear Mr. Wilton: The undersigned, Haywood Securities ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1641229/000119312526398192/0001193125-26-398192-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1641229/000119312526398192/d32949dex991.htm",
+   "filed_at": "2026-09-22T18:22:48-04:00",
+   "filed_kst": "2026-09-23 07:22",
+   "price": 0.6,
+   "change": -0.98,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 0.6,
+     "change": -0.98
+    },
+    {
+     "date": "2026-09-21",
+     "close": 0.61,
+     "change": -0.65
+    },
+    {
+     "date": "2026-09-18",
+     "close": 0.61,
+     "change": -4.06
+    }
+   ],
+   "market_cap": 806253097.0,
+   "shares_outstanding": 1343755162.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-23T19:01:52+09:00"
+  },
+  {
+   "id": "0001564708-26-000207",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000207/0001564708-26-000207-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000207/appendix3cclassa20260922.htm",
+   "filed_at": "2026-09-22T19:06:26-04:00",
+   "filed_kst": "2026-09-23 08:06",
+   "price": 32.38,
+   "change": -1.46,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 32.38,
+     "change": -1.46
+    },
+    {
+     "date": "2026-09-21",
+     "close": 32.86,
+     "change": 0.55
+    },
+    {
+     "date": "2026-09-18",
+     "close": 32.68,
+     "change": -2.07
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T19:01:47+09:00"
+  },
+  {
+   "id": "0001833141-26-000081",
+   "company": "CYBIN INC.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000081/0001833141-26-000081-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000081/asm2026-pressreleaseannoun.htm",
+   "filed_at": "2026-09-22T18:05:19-04:00",
+   "filed_kst": "2026-09-23 07:05",
+   "price": 13.71,
+   "change": 0.37,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 13.71,
+     "change": 0.37
+    },
+    {
+     "date": "2026-09-21",
+     "close": 13.66,
+     "change": 10.43
+    },
+    {
+     "date": "2026-09-18",
+     "close": 12.37,
+     "change": -11.77
+    }
+   ],
+   "market_cap": 296152562.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO, A6",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-23T19:01:08+09:00"
+  },
   {
    "id": "0001292814-26-004670",
    "company": "Vale S.A.",
