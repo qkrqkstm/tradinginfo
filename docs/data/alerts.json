@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-09-23T20:29:36+09:00",
- "count": 187,
+ "updated_at": "2026-09-23T20:34:37+09:00",
+ "count": 188,
  "alerts": [
+  {
+   "id": "0001104659-26-109814",
+   "company": "Cytosorbents Corp",
+   "ticker": "CTSO",
+   "cik": 1175151,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "CytoSorb has also received FDA Emergency Use Authorization in the United States for use in adult critically ill COVID-19 patients with impending or confirmed respiratory failure.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175151/000110465926109814/0001104659-26-109814-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1175151/000110465926109814/tm2625982d1_ex99-1.htm",
+   "filed_at": "2026-09-23T07:30:41-04:00",
+   "filed_kst": "2026-09-23 20:30",
+   "price": 5.32,
+   "change": -3.45,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 5.32,
+     "change": -3.45
+    },
+    {
+     "date": "2026-09-21",
+     "close": 5.51,
+     "change": -4.17
+    },
+    {
+     "date": "2026-09-18",
+     "close": 5.75,
+     "change": -0.17
+    }
+   ],
+   "market_cap": 334323419.0,
+   "shares_outstanding": 62842748.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "PRINCETON, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-23T20:31:26+09:00"
+  },
   {
    "id": "0001104659-26-109809",
    "company": "Armata Pharmaceuticals, Inc.",
