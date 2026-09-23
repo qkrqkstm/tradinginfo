@@ -1,7 +1,161 @@
 {
- "updated_at": "2026-09-23T20:59:35+09:00",
- "count": 188,
+ "updated_at": "2026-09-23T21:05:04+09:00",
+ "count": 191,
  "alerts": [
+  {
+   "id": "0001104659-26-109820",
+   "company": "MINISO Group Holding Ltd",
+   "ticker": "MNSO",
+   "cik": 1815846,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Remarks: The Company repurchased 2,451,200 ordinary shares on the Hong Kong Stock Exchange on September 18, 2026, of which 108,000 ordinary shares were repurchased pursuant to a Hong Kong automatic share repurchase plan entered by the Company.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926109820/0001104659-26-109820-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926109820/tm2625916d1_ex99-4.htm",
+   "filed_at": "2026-09-23T08:00:32-04:00",
+   "filed_kst": "2026-09-23 21:00",
+   "price": 9.08,
+   "change": 1.0,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 9.08,
+     "change": 1.0
+    },
+    {
+     "date": "2026-09-21",
+     "close": 8.99,
+     "change": 4.53
+    },
+    {
+     "date": "2026-09-18",
+     "close": 8.6,
+     "change": -2.27
+    }
+   ],
+   "market_cap": 11237082727.0,
+   "shares_outstanding": 1237564177.0,
+   "industry": "Retail-Variety Stores",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GUANGDONG PROVINCE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-23T21:02:12+09:00"
+  },
+  {
+   "id": "0001104659-26-109819",
+   "company": "ProQR Therapeutics N.V.",
+   "ticker": "PRQR",
+   "cik": 1612940,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Wolf is co-founder and Chief Science Officer of Hugging Face, which Nvidia has recently agreed to acquire.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1612940/000110465926109819/0001104659-26-109819-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1612940/000110465926109819/tm2625923d1_ex99-1.htm",
+   "filed_at": "2026-09-23T08:00:13-04:00",
+   "filed_kst": "2026-09-23 21:00",
+   "price": 1.9,
+   "change": 2.15,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 1.9,
+     "change": 2.15
+    },
+    {
+     "date": "2026-09-21",
+     "close": 1.86,
+     "change": 1.64
+    },
+    {
+     "date": "2026-09-18",
+     "close": 1.83,
+     "change": -3.17
+    }
+   ],
+   "market_cap": 200186022.0,
+   "shares_outstanding": 105361064.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Netherlands",
+   "hq": "LEIDEN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-09-23T21:01:11+09:00"
+  },
+  {
+   "id": "0001683168-26-007300",
+   "company": "Valion Bio, Inc.",
+   "ticker": "VBIO",
+   "cik": 1787740,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "The product candidate has received Fast Track and Orphan Drug designations from the FDA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007300/0001683168-26-007300-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007300/valion_ex9901.htm",
+   "filed_at": "2026-09-23T08:00:14-04:00",
+   "filed_kst": "2026-09-23 21:00",
+   "price": 2.49,
+   "change": 4.62,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 2.49,
+     "change": 4.62
+    },
+    {
+     "date": "2026-09-21",
+     "close": 2.38,
+     "change": 12.26
+    },
+    {
+     "date": "2026-09-18",
+     "close": 2.12,
+     "change": -4.93
+    }
+   ],
+   "market_cap": 55252450.0,
+   "shares_outstanding": 22189739.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-23T21:01:08+09:00"
+  },
   {
    "id": "0001104659-26-109814",
    "company": "Cytosorbents Corp",
