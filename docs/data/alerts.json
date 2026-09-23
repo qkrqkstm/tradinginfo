@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-09-24T05:09:11+09:00",
- "count": 207,
+ "updated_at": "2026-09-24T05:14:53+09:00",
+ "count": 209,
  "alerts": [
+  {
+   "id": "0001171843-26-006191",
+   "company": "OR Royalties Inc.",
+   "ticker": "OR",
+   "cik": 1627272,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(“JPG”)) – September 23, 2026 announcement regarding the formation of a strategic alliance with Solidcore Resources plc (“Solidcore”), whereby Solidcore has committed to funding $35 million on five initial areas of the JPG portfolio.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1627272/000117184326006191/0001171843-26-006191-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1627272/000117184326006191/exh_991.htm",
+   "filed_at": "2026-09-23T16:13:19-04:00",
+   "filed_kst": "2026-09-24 05:13",
+   "price": 36.04,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 36.04,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-23",
+     "close": 36.04,
+     "change": -0.2
+    },
+    {
+     "date": "2026-09-21",
+     "close": 36.11,
+     "change": -1.71
+    }
+   ],
+   "market_cap": 6744966549.0,
+   "shares_outstanding": 187152235.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "Quebec, Canada",
+   "hq": "MONTREAL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-24T05:14:00+09:00"
+  },
+  {
+   "id": "0001193805-26-001277",
+   "company": "Arcturus Therapeutics Holdings Inc.",
+   "ticker": "ARCT",
+   "cik": 1768224,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "ARCT-810 has received Orphan Medicinal Product Designation and an approved pediatric investigation plan (PIP) from the European Medicines Agency (EMA), and Orphan Drug Designation, Fast Track Designation along with Rare Pediatric Disease Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1768224/000119380526001277/0001193805-26-001277-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1768224/000119380526001277/e665798_ex99-2.htm",
+   "filed_at": "2026-09-23T16:11:34-04:00",
+   "filed_kst": "2026-09-24 05:11",
+   "price": 13.3,
+   "change": -9.46,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 13.3,
+     "change": -9.46
+    },
+    {
+     "date": "2026-09-21",
+     "close": 14.69,
+     "change": -8.36
+    },
+    {
+     "date": "2026-09-18",
+     "close": 16.03,
+     "change": -5.32
+    }
+   ],
+   "market_cap": 378026818.0,
+   "shares_outstanding": 28423069.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-24T05:13:27+09:00"
+  },
   {
    "id": "0001193125-26-399378",
    "company": "Evommune, Inc.",
