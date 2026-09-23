@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-09-23T23:09:27+09:00",
- "count": 201,
+ "updated_at": "2026-09-23T23:14:34+09:00",
+ "count": 202,
  "alerts": [
+  {
+   "id": "0001213900-26-102450",
+   "company": "Quanome Technologies, Inc.",
+   "ticker": "QNME",
+   "cik": 1996192,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Quanome Advances Its AI Cloud Business XDT with US$18.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026102450/0001213900-26-102450-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026102450/ea030638001ex99-1.htm",
+   "filed_at": "2026-09-23T10:11:08-04:00",
+   "filed_kst": "2026-09-23 23:11",
+   "price": 0.88,
+   "change": 37.34,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 0.88,
+     "change": 37.34
+    },
+    {
+     "date": "2026-09-21",
+     "close": 0.64,
+     "change": 14.7
+    },
+    {
+     "date": "2026-09-18",
+     "close": 0.56,
+     "change": 92.41
+    }
+   ],
+   "market_cap": 30296252.0,
+   "shares_outstanding": 34427559.0,
+   "industry": "Arrangement of  Transportation of  Freight & Cargo",
+   "state_of_incorporation": "NV",
+   "hq": "ITASCA, IL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-23T23:12:46+09:00"
+  },
   {
    "id": "0001213900-26-102445",
    "company": "Cuentas Inc.",
