@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-24T01:39:17+09:00",
- "count": 203,
+ "updated_at": "2026-09-24T01:44:12+09:00",
+ "count": 204,
  "alerts": [
+  {
+   "id": "0001104659-26-109893",
+   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+   "ticker": "BBVA",
+   "cik": 842180,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "37 euros, by means of the cancellation of 70,339,213 own shares of 0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926109893/0001104659-26-109893-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926109893/tm2624809d4_6k.htm",
+   "filed_at": "2026-09-23T12:40:23-04:00",
+   "filed_kst": "2026-09-24 01:40",
+   "price": 28.29,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 28.29,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-23",
+     "close": 28.29,
+     "change": -2.14
+    },
+    {
+     "date": "2026-09-21",
+     "close": 28.91,
+     "change": 1.94
+    }
+   ],
+   "market_cap": 161506724523.0,
+   "shares_outstanding": 5708968700.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": null,
+   "hq": "MADRID, U3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-24T01:41:43+09:00"
+  },
   {
    "id": "0001213900-26-102458",
    "company": "Ondas Inc.",
