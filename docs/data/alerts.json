@@ -1,7 +1,266 @@
 {
- "updated_at": "2026-09-24T18:59:54+09:00",
- "count": 227,
+ "updated_at": "2026-09-24T19:04:45+09:00",
+ "count": 232,
  "alerts": [
+  {
+   "id": "0001046179-26-000660",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "ticker": "TSM",
+   "cik": 1046179,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 tsm-monthend6kx20260924.htm 6-K Document 1934 Act Registration No. 1-14700 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 _____________________________ FORM 6-K _____________________________ REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE S",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000660/0001046179-26-000660-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000660/tsm-monthend6kx20260924.htm",
+   "filed_at": "2026-09-24T06:02:44-04:00",
+   "filed_kst": "2026-09-24 19:02",
+   "price": 446.57,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 446.57,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-23",
+     "close": 446.57,
+     "change": -1.2
+    },
+    {
+     "date": "2026-09-22",
+     "close": 452.0,
+     "change": 1.54
+    }
+   ],
+   "market_cap": 11580687475343.0,
+   "shares_outstanding": 25932524521.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": null,
+   "hq": "HSINCHU",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-24T19:03:40+09:00"
+  },
+  {
+   "id": "0001345099-26-000085",
+   "company": "MESOBLAST LTD",
+   "ticker": "MESO",
+   "cik": 1345099,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "1 exhibit991ryoncilpotency MESOBLAST RECEIVES FDA APPROVAL FOR NEW POTENCY ASSAY TO RELEASE COMMERCIAL RYONCIL PRODUCT New York, USA: September 24 and Melbourne, Australia: September 23, 2026: Mesoblast Limited (ASX:MSB; Nasdaq:MESO), global leader in allogeneic cellular medicines for inflammatory d",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000085/0001345099-26-000085-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000085/form6-kxpressreleasecoverf.htm",
+   "filed_at": "2026-09-23T21:14:27-04:00",
+   "filed_kst": "2026-09-24 10:14",
+   "price": 15.29,
+   "change": -1.23,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 15.29,
+     "change": -1.23
+    },
+    {
+     "date": "2026-09-21",
+     "close": 15.48,
+     "change": 2.31
+    },
+    {
+     "date": "2026-09-18",
+     "close": 15.13,
+     "change": 1.75
+    }
+   ],
+   "market_cap": 19829031845.0,
+   "shares_outstanding": 1296862776.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Australia",
+   "hq": "MELBOURNE, VICTORIA, C3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-24T19:02:29+09:00"
+  },
+  {
+   "id": "0001193125-26-400062",
+   "company": "Kyverna Therapeutics, Inc.",
+   "ticker": "KYTX",
+   "cik": 1994702,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Miv-cel has received three FDA Regenerative Medicine Advanced Therapy (RMAT) designations, in SPS, gMG, and non-active secondary progressive multiple sclerosis (naSPMS) based on compelling clinical data, further reinforcing the therapy's potential across neuroimmunology.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1994702/000119312526400062/0001193125-26-400062-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1994702/000119312526400062/kytx-ex99_1.htm",
+   "filed_at": "2026-09-24T06:00:27-04:00",
+   "filed_kst": "2026-09-24 19:00",
+   "price": 7.07,
+   "change": -0.7,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 7.07,
+     "change": -0.7
+    },
+    {
+     "date": "2026-09-21",
+     "close": 7.12,
+     "change": -0.14
+    },
+    {
+     "date": "2026-09-18",
+     "close": 7.13,
+     "change": 1.28
+    }
+   ],
+   "market_cap": 437233149.0,
+   "shares_outstanding": 61843444.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "EMERYVILLE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T19:02:24+09:00"
+  },
+  {
+   "id": "0001193125-26-400088",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "ticker": "GPI",
+   "cik": 1031203,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The dissolution or liquidation of Borrower or any Third Party Obligor if a corporation, partnership, joint venture or other type of entity; or Borrower or any such Third Party Obligor, or any of its directors, stockholders or members, shall take action seeking to effect the dissolution or liquidatio",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1031203/000119312526400088/0001193125-26-400088-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1031203/000119312526400088/d505528dex101.htm",
+   "filed_at": "2026-09-24T06:01:37-04:00",
+   "filed_kst": "2026-09-24 19:01",
+   "price": 247.51,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 247.51,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-23",
+     "close": 247.51,
+     "change": -1.34
+    },
+    {
+     "date": "2026-09-21",
+     "close": 250.87,
+     "change": 1.81
+    }
+   ],
+   "market_cap": 2950869910.0,
+   "shares_outstanding": 11922225.0,
+   "industry": "Retail-Auto Dealers & Gasoline Stations",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-24T19:02:21+09:00"
+  },
+  {
+   "id": "0001564708-26-000208",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000208/0001564708-26-000208-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000208/appendix3cclassa20260923.htm",
+   "filed_at": "2026-09-23T20:02:53-04:00",
+   "filed_kst": "2026-09-24 09:02",
+   "price": 31.22,
+   "change": -4.99,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 31.22,
+     "change": -4.99
+    },
+    {
+     "date": "2026-09-21",
+     "close": 32.86,
+     "change": 0.55
+    },
+    {
+     "date": "2026-09-18",
+     "close": 32.68,
+     "change": -2.07
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-24T19:01:26+09:00"
+  },
   {
    "id": "0001140361-26-037453",
    "company": "CENTERSPACE",
