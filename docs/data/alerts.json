@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-09-25T05:24:35+09:00",
- "count": 260,
+ "updated_at": "2026-09-25T05:29:30+09:00",
+ "count": 261,
  "alerts": [
+  {
+   "id": "0000842162-26-000080",
+   "company": "LEAR CORP",
+   "ticker": "LEA",
+   "cik": 842162,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 71,
+   "summary": "01 Other Events On September 24, 2026, Lear Corporation (the \"Company\") announced that its Board of Directors approved an increase to the Company's share repurchase authorization to $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842162/000084216226000080/0000842162-26-000080-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/842162/000084216226000080/lear-20260924.htm",
+   "filed_at": "2026-09-24T16:22:45-04:00",
+   "filed_kst": "2026-09-25 05:22",
+   "price": 118.25,
+   "change": -2.83,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 118.25,
+     "change": -2.83
+    },
+    {
+     "date": "2026-09-23",
+     "close": 121.69,
+     "change": 1.22
+    },
+    {
+     "date": "2026-09-21",
+     "close": 120.22,
+     "change": -0.35
+    }
+   ],
+   "market_cap": 5832653343.0,
+   "shares_outstanding": 49324764.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "SOUTHFIELD, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-25T05:27:37+09:00"
+  },
   {
    "id": "0001193125-26-401051",
    "company": "MARRIOTT INTERNATIONAL INC /MD/",
