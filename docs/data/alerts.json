@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-09-25T03:59:13+09:00",
- "count": 250,
+ "updated_at": "2026-09-25T04:04:50+09:00",
+ "count": 251,
  "alerts": [
+  {
+   "id": "0001437749-26-031135",
+   "company": "PARKE BANCORP, INC.",
+   "ticker": "PKBK",
+   "cik": 1315399,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "5.03",
+    "9.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Such transfer shall be made only on surrender for cancellation of the certificate for such shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1315399/000143774926031135/0001437749-26-031135-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1315399/000143774926031135/ex_1019295.htm",
+   "filed_at": "2026-09-24T15:02:25-04:00",
+   "filed_kst": "2026-09-25 04:02",
+   "price": 33.6,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 33.6,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-24",
+     "close": 33.6,
+     "change": 0.75
+    },
+    {
+     "date": "2026-09-23",
+     "close": 33.35,
+     "change": -1.74
+    }
+   ],
+   "market_cap": 395185392.0,
+   "shares_outstanding": 11761470.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "NJ",
+   "hq": "WASHINGTON TOWNSHIP, NJ",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-25T04:03:26+09:00"
+  },
   {
    "id": "0001654954-26-008557",
    "company": "HSBC HOLDINGS PLC",
