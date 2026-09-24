@@ -1,7 +1,472 @@
 {
- "updated_at": "2026-09-24T21:55:23+09:00",
- "count": 239,
+ "updated_at": "2026-09-24T22:04:27+09:00",
+ "count": 248,
  "alerts": [
+  {
+   "id": "0001683168-26-007355",
+   "company": "AUDDIA INC.",
+   "ticker": "AUUD",
+   "cik": 1554818,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "About the Merger to form McCarthy Finney (MCFN) Auddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007355/0001683168-26-007355-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007355/auddia_425.htm",
+   "filed_at": "2026-09-24T08:30:02-04:00",
+   "filed_kst": "2026-09-24 21:30",
+   "price": 1.31,
+   "change": -1.5,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 1.31,
+     "change": -1.5
+    },
+    {
+     "date": "2026-09-22",
+     "close": 1.33,
+     "change": -1.48
+    },
+    {
+     "date": "2026-09-21",
+     "close": 1.35,
+     "change": 29.81
+    }
+   ],
+   "market_cap": 7601996.0,
+   "shares_outstanding": 5803050.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "BOULDER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T22:03:49+09:00"
+  },
+  {
+   "id": "0001829126-26-010363",
+   "company": "Greenland Energy Co",
+   "ticker": "GLND",
+   "cik": 2093507,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "On September 24, 2026, the board of directors and management of the Company issued a press release announcing the extension and amendment of its joint venture agreement with 80 Mile concerning oil exploration licenses and drilling projects in the Jameson Land Basin in Greenland (the “Press Release”)",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2093507/000182912626010363/0001829126-26-010363-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2093507/000182912626010363/greenlandenergy_ex99-1.htm",
+   "filed_at": "2026-09-24T08:00:26-04:00",
+   "filed_kst": "2026-09-24 21:00",
+   "price": 2.91,
+   "change": 15.94,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 2.91,
+     "change": 15.94
+    },
+    {
+     "date": "2026-09-22",
+     "close": 2.51,
+     "change": -12.85
+    },
+    {
+     "date": "2026-09-21",
+     "close": 2.88,
+     "change": 140.0
+    }
+   ],
+   "market_cap": 127254865.0,
+   "shares_outstanding": 43730194.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": "TX",
+   "hq": "AUSTIN, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T22:03:13+09:00"
+  },
+  {
+   "id": "0001493152-26-044071",
+   "company": "Newton Golf Company, Inc.",
+   "ticker": "NWTG",
+   "cik": 1934245,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "1 Definitions In this Agreement, unless there is something in the context inconsistent therewith, the following words and phrases shall have the following meanings: “Affiliate” means with respect to any Party, any person, partnership, joint venture, corporation or other form of enterprise which dire",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1934245/000149315226044071/0001493152-26-044071-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1934245/000149315226044071/ex10-1.htm",
+   "filed_at": "2026-09-24T08:00:41-04:00",
+   "filed_kst": "2026-09-24 21:00",
+   "price": 1.15,
+   "change": -0.43,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 1.14,
+     "change": -0.43
+    },
+    {
+     "date": "2026-09-21",
+     "close": 1.15,
+     "change": -1.71
+    },
+    {
+     "date": "2026-09-18",
+     "close": 1.17,
+     "change": 2.63
+    }
+   ],
+   "market_cap": 6235617.0,
+   "shares_outstanding": 5422276.0,
+   "industry": "Sporting & Athletic Goods, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "CAMARILLO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T22:03:12+09:00"
+  },
+  {
+   "id": "0001731122-26-001278",
+   "company": "VisionWave Holdings, Inc.",
+   "ticker": "VWAV",
+   "cik": 2038439,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "EX-99.1 3 e7965_ex99-1.htm EXHIBIT 99.1 EXHIBIT 99.1 VisionWave Holdings Receives $20 Million Purchase Order for 200 STRATUM VARAN Unmanned Ground Vehicles, Subject to Conditions Binding purchase order represents a milestone for VisionWave’s unmanned ground vehicle platform WEST HOLLYWOOD, Calif., S",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001278/0001731122-26-001278-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001278/e7965_ex99-1.htm",
+   "filed_at": "2026-09-24T08:05:47-04:00",
+   "filed_kst": "2026-09-24 21:05",
+   "price": 5.72,
+   "change": -7.74,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 5.72,
+     "change": -7.74
+    },
+    {
+     "date": "2026-09-21",
+     "close": 6.2,
+     "change": 17.87
+    },
+    {
+     "date": "2026-09-18",
+     "close": 5.26,
+     "change": -28.14
+    }
+   ],
+   "market_cap": 164976635.0,
+   "shares_outstanding": 28842069.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "WEST HOLLYWOOD, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T22:03:08+09:00"
+  },
+  {
+   "id": "0001824502-26-000075",
+   "company": "Archer Aviation Inc.",
+   "ticker": "ACHR",
+   "cik": 1824502,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "achr-20260924 0001824502 FALSE 0001824502 2026-09-18 2026-09-18 0001824502 us-gaap:CommonClassAMember 2026-09-18 2026-09-18 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of R",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1824502/000182450226000075/0001824502-26-000075-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1824502/000182450226000075/achr-20260924.htm",
+   "filed_at": "2026-09-24T08:12:41-04:00",
+   "filed_kst": "2026-09-24 21:12",
+   "price": 5.71,
+   "change": 0.35,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 5.71,
+     "change": 0.35
+    },
+    {
+     "date": "2026-09-22",
+     "close": 5.69,
+     "change": 4.79
+    },
+    {
+     "date": "2026-09-21",
+     "close": 5.43,
+     "change": 3.23
+    }
+   ],
+   "market_cap": 4396835898.0,
+   "shares_outstanding": 770023800.0,
+   "industry": "Aircraft",
+   "state_of_incorporation": null,
+   "hq": "SAN JOSE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-24T22:03:05+09:00"
+  },
+  {
+   "id": "0001683168-26-007356",
+   "company": "AUDDIA INC.",
+   "ticker": "AUUD",
+   "cik": 1554818,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "1 About the Merger to form McCarthy Finney (MCFN) Auddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007356/0001683168-26-007356-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007356/auddia_ex9901.htm",
+   "filed_at": "2026-09-24T08:30:16-04:00",
+   "filed_kst": "2026-09-24 21:30",
+   "price": 1.31,
+   "change": -1.5,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 1.31,
+     "change": -1.5
+    },
+    {
+     "date": "2026-09-22",
+     "close": 1.33,
+     "change": -1.48
+    },
+    {
+     "date": "2026-09-21",
+     "close": 1.35,
+     "change": 29.81
+    }
+   ],
+   "market_cap": 7601996.0,
+   "shares_outstanding": 5803050.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "BOULDER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T22:03:00+09:00"
+  },
+  {
+   "id": "0001171843-26-006203",
+   "company": "Quantum Biopharma Ltd.",
+   "ticker": "QNTM",
+   "cik": 1771885,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "Rapid Improvements in Alertness : Study participants reported statistically significant improvement in alertness as soon as 30 minutes after consuming unbuzzd.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1771885/000117184326006203/0001171843-26-006203-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1771885/000117184326006203/exh_991.htm",
+   "filed_at": "2026-09-24T08:00:18-04:00",
+   "filed_kst": "2026-09-24 21:00",
+   "price": 3.88,
+   "change": 7.48,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 3.88,
+     "change": 7.48
+    },
+    {
+     "date": "2026-09-21",
+     "close": 3.61,
+     "change": -1.37
+    },
+    {
+     "date": "2026-09-18",
+     "close": 3.66,
+     "change": -1.61
+    }
+   ],
+   "market_cap": 47.0,
+   "shares_outstanding": 12.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T22:01:34+09:00"
+  },
+  {
+   "id": "0001213900-26-102847",
+   "company": "Trident Digital Tech Holdings Ltd",
+   "ticker": "TDTH",
+   "cik": 1983550,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "Through strategic partnerships, joint ventures, acquisitions, and technology-driven platform deployment, TDTH aims to establish scalable long-term digital infrastructure ecosystems serving both public and private sector markets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1983550/000121390026102847/0001213900-26-102847-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1983550/000121390026102847/ea030651601ex99-1.htm",
+   "filed_at": "2026-09-24T08:05:13-04:00",
+   "filed_kst": "2026-09-24 21:05",
+   "price": 1.87,
+   "change": 6.86,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 1.87,
+     "change": 6.86
+    },
+    {
+     "date": "2026-09-21",
+     "close": 1.75,
+     "change": 2.94
+    },
+    {
+     "date": "2026-09-18",
+     "close": 1.7,
+     "change": -7.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": null,
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T22:01:28+09:00"
+  },
+  {
+   "id": "0001104659-26-110229",
+   "company": "LIBERTY DEFENSE HOLDINGS, LTD.",
+   "ticker": "DETX",
+   "cik": 1919776,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(“ Liberty ” or the “ Company ”) ( NASDAQ: DETX; TSXV: SCAN ), a leading technology provider of AI-based, next-generation detection solutions for concealed weapons and threats, today announced the execution of a strategic, non-exclusive distribution agreement with VMI Security.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1919776/000110465926110229/0001104659-26-110229-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1919776/000110465926110229/tm2626045d1_ex99-1.htm",
+   "filed_at": "2026-09-24T08:45:06-04:00",
+   "filed_kst": "2026-09-24 21:45",
+   "price": 2.05,
+   "change": -2.84,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 2.05,
+     "change": -2.84
+    },
+    {
+     "date": "2026-09-21",
+     "close": 2.11,
+     "change": -2.76
+    },
+    {
+     "date": "2026-09-18",
+     "close": 2.17,
+     "change": -5.65
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "WILMINGTON, MA",
+   "entity_category": null,
+   "detected_at": "2026-09-24T22:01:23+09:00"
+  },
   {
    "id": "0001213900-26-102830",
    "company": "Yimutian Inc.",
