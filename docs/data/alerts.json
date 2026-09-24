@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-25T01:15:25+09:00",
- "count": 249,
+ "updated_at": "2026-09-25T01:24:43+09:00",
+ "count": 250,
  "alerts": [
+  {
+   "id": "0001654954-26-008557",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights, following the cancellation of the shares which have been repurchased on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008557/0001654954-26-008557-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008557/a2306w.htm",
+   "filed_at": "2026-09-24T12:18:58-04:00",
+   "filed_kst": "2026-09-25 01:18",
+   "price": 100.31,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 100.31,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-24",
+     "close": 100.31,
+     "change": 0.06
+    },
+    {
+     "date": "2026-09-23",
+     "close": 100.25,
+     "change": -2.87
+    }
+   ],
+   "market_cap": 1722848310557.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-25T01:21:01+09:00"
+  },
   {
    "id": "0001104659-26-110241",
    "company": "BEACON TOPCO, INC.",
