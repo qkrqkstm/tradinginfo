@@ -1,7 +1,193 @@
 {
- "updated_at": "2026-09-25T04:59:32+09:00",
- "count": 251,
+ "updated_at": "2026-09-25T05:05:03+09:00",
+ "count": 255,
  "alerts": [
+  {
+   "id": "0001213900-26-103044",
+   "company": "Yimutian Inc.",
+   "ticker": "YMT",
+   "cik": 1991605,
+   "form": "6-K/A",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "33% equity interest in the Target Company to be acquired by the Buyer in the First Phase.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026103044/0001213900-26-103044-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026103044/ea030654601ex10-1.htm",
+   "filed_at": "2026-09-24T16:01:05-04:00",
+   "filed_kst": "2026-09-25 05:01",
+   "price": 1.78,
+   "change": -3.26,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 1.78,
+     "change": -3.26
+    },
+    {
+     "date": "2026-09-23",
+     "close": 1.84,
+     "change": -9.36
+    },
+    {
+     "date": "2026-09-22",
+     "close": 2.03,
+     "change": 5.18
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BEIJING, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-25T05:02:50+09:00"
+  },
+  {
+   "id": "0001104659-26-110388",
+   "company": "InnovAge Holding Corp.",
+   "ticker": "INNV",
+   "cik": 1834376,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-1.1 2 tm2625950d3_ex1-1.htm EXHIBIT 1.1 Exhibit 1.1 10,000,000 InnovAge Holding Corp. Common Stock UNDERWRITING AGREEMENT September 22, 2026 Barclays Capital Inc. Goldman Sachs & Co. LLC Wells Fargo Securities, LLC As Representatives of the several Underwriters named in Schedule I attached hereto",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1834376/000110465926110388/0001104659-26-110388-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834376/000110465926110388/tm2625950d3_ex1-1.htm",
+   "filed_at": "2026-09-24T16:01:48-04:00",
+   "filed_kst": "2026-09-25 05:01",
+   "price": 8.84,
+   "change": -1.78,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 8.84,
+     "change": -1.78
+    },
+    {
+     "date": "2026-09-23",
+     "close": 9.0,
+     "change": -15.53
+    },
+    {
+     "date": "2026-09-22",
+     "close": 10.65,
+     "change": 0.52
+    }
+   ],
+   "market_cap": 1206230597.0,
+   "shares_outstanding": 136451425.0,
+   "industry": "Services-Health Services",
+   "state_of_incorporation": "DE",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-25T05:02:45+09:00"
+  },
+  {
+   "id": "0001193125-26-401002",
+   "company": "Translational Development Acquisition Corp.",
+   "ticker": "TDAC",
+   "cik": 1926599,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "In May 2026, ProLogium entered into a definitive business combination agreement with Translational Development Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1926599/000119312526401002/0001193125-26-401002-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1926599/000119312526401002/d170677d425.htm",
+   "filed_at": "2026-09-24T16:01:25-04:00",
+   "filed_kst": "2026-09-25 05:01",
+   "price": 10.86,
+   "change": -0.18,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 10.86,
+     "change": -0.18
+    },
+    {
+     "date": "2026-09-23",
+     "close": 10.88,
+     "change": 0.09
+    },
+    {
+     "date": "2026-09-21",
+     "close": 10.87,
+     "change": 0.18
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-25T05:02:12+09:00"
+  },
+  {
+   "id": "0001193125-26-401002",
+   "company": "Prologium Holding Inc.",
+   "ticker": "PRLG",
+   "cik": 2137754,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "In May 2026, ProLogium entered into a definitive business combination agreement with Translational Development Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526401002/0001193125-26-401002-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526401002/d170677d425.htm",
+   "filed_at": "2026-09-24T16:01:25-04:00",
+   "filed_kst": "2026-09-25 05:01",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "TAOYUAN CITY",
+   "entity_category": null,
+   "detected_at": "2026-09-25T05:02:01+09:00"
+  },
   {
    "id": "0001437749-26-031135",
    "company": "PARKE BANCORP, INC.",
