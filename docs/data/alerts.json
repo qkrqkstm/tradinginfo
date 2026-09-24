@@ -1,7 +1,108 @@
 {
- "updated_at": "2026-09-24T20:30:31+09:00",
- "count": 237,
+ "updated_at": "2026-09-24T20:39:50+09:00",
+ "count": 239,
  "alerts": [
+  {
+   "id": "0001213900-26-102830",
+   "company": "Yimutian Inc.",
+   "ticker": "YMT",
+   "cik": 1991605,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The Company completed the acquisition of control over 100% of the equity interests in Qingdao Xingongguan Holiday Hotel Co.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026102830/0001213900-26-102830-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026102830/ea0306400-6k_yimutian.htm",
+   "filed_at": "2026-09-24T07:12:57-04:00",
+   "filed_kst": "2026-09-24 20:12",
+   "price": 1.84,
+   "change": -9.36,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 1.84,
+     "change": -9.36
+    },
+    {
+     "date": "2026-09-22",
+     "close": 2.03,
+     "change": 5.18
+    },
+    {
+     "date": "2026-09-21",
+     "close": 1.93,
+     "change": -3.5
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BEIJING, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T20:37:22+09:00"
+  },
+  {
+   "id": "0001213900-26-102840",
+   "company": "Elmet Group Co.",
+   "ticker": "ELMT",
+   "cik": 2101698,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "99% ownership stake and multi-year supply agreements across key production stages Further advances the objectives of the United States Government’s $450 million committed investment announced September 14, 2026 PORTLAND, Maine — September 23, 2026 — The Elmet Group Co.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026102840/0001213900-26-102840-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026102840/ea030606701ex99-1.htm",
+   "filed_at": "2026-09-24T07:30:18-04:00",
+   "filed_kst": "2026-09-24 20:30",
+   "price": 20.58,
+   "change": -5.73,
+   "price_history": [
+    {
+     "date": "2026-09-23",
+     "close": 20.58,
+     "change": -5.73
+    },
+    {
+     "date": "2026-09-21",
+     "close": 21.83,
+     "change": -5.0
+    },
+    {
+     "date": "2026-09-18",
+     "close": 22.98,
+     "change": 4.6
+    }
+   ],
+   "market_cap": 626856469.0,
+   "shares_outstanding": 30459498.0,
+   "industry": "Miscellaneous Fabricated Metal Products",
+   "state_of_incorporation": "DE",
+   "hq": "PORTLAND, ME",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-24T20:36:48+09:00"
+  },
   {
    "id": "0001185185-26-004251",
    "company": "TJGC GROUP Ltd",
