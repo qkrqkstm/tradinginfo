@@ -1,7 +1,147 @@
 {
- "updated_at": "2026-09-26T05:05:38+09:00",
- "count": 286,
+ "updated_at": "2026-09-26T05:15:49+09:00",
+ "count": 289,
  "alerts": [
+  {
+   "id": "0001213900-26-103502",
+   "company": "GOWell Energy Technology",
+   "ticker": "GOW",
+   "cik": 2097702,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Together with the approximately $20 million private placement funded at the signing of the Business Combination Agreement in October 2025, the PIPE investments provided GOWell Energy with $70 million of gross proceeds, before deducting transaction fees and expenses, to support GOWell Energy’s growth",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2097702/000121390026103502/0001213900-26-103502-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2097702/000121390026103502/ea030671401ex99-1.htm",
+   "filed_at": "2026-09-25T16:04:25-04:00",
+   "filed_kst": "2026-09-26 05:04",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Oil & Gas Field Machinery & Equipment",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-26T05:13:41+09:00"
+  },
+  {
+   "id": "0000920522-26-000027",
+   "company": "ESSEX PROPERTY TRUST, INC.",
+   "ticker": "ESS",
+   "cik": 920522,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.03"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "(the “Operating Partnership”), entered into a $275 million Unsecured Term Loan Agreement (the “Term Loan Agreement”) with Bank of America, N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/920522/000092052226000027/0000920522-26-000027-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/920522/000092052226000027/ess-20260924.htm",
+   "filed_at": "2026-09-25T16:06:20-04:00",
+   "filed_kst": "2026-09-26 05:06",
+   "price": 271.51,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 271.51,
+     "change": -0.05
+    },
+    {
+     "date": "2026-09-24",
+     "close": 271.65,
+     "change": -0.67
+    },
+    {
+     "date": "2026-09-23",
+     "close": 273.47,
+     "change": -0.47
+    }
+   ],
+   "market_cap": 17449523873.0,
+   "shares_outstanding": 64268439.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "SAN MATEO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-26T05:12:21+09:00"
+  },
+  {
+   "id": "0001104659-26-110966",
+   "company": "BKV Corp",
+   "ticker": "BKV",
+   "cik": 1838406,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 2 tm2626119d1_ex10-1.htm EXHIBIT 10.1 Exhibit 10.1 BKV CORPORATION EXECUTIVE SEVERANCE PLAN (September 24, 2026) Article I GENERAL The provisions of this Plan will be effective as of September 24, 2026 (the “ Effective Date ”) and will remain in effect, subject to the right of the Board or t",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1838406/000110465926110966/0001104659-26-110966-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1838406/000110465926110966/tm2626119d1_ex10-1.htm",
+   "filed_at": "2026-09-25T16:07:59-04:00",
+   "filed_kst": "2026-09-26 05:07",
+   "price": 21.83,
+   "change": -5.42,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 21.83,
+     "change": -5.42
+    },
+    {
+     "date": "2026-09-24",
+     "close": 23.08,
+     "change": -0.82
+    },
+    {
+     "date": "2026-09-23",
+     "close": 23.27,
+     "change": 1.62
+    }
+   ],
+   "market_cap": 2389027829.0,
+   "shares_outstanding": 109437830.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-26T05:12:05+09:00"
+  },
   {
    "id": "0001193125-26-402803",
    "company": "WORTHINGTON ENTERPRISES, INC.",
