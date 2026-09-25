@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-09-25T19:04:53+09:00",
- "count": 271,
+ "updated_at": "2026-09-25T19:09:17+09:00",
+ "count": 272,
  "alerts": [
+  {
+   "id": "0001628280-26-063490",
+   "company": "Tamboran Resources Corp",
+   "ticker": "TBN",
+   "cik": 1997652,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "• In May 2026, Tamboran completed the acquisition of Falcon Oil & Gas Ltd.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1997652/000162828026063490/0001628280-26-063490-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1997652/000162828026063490/trc-20260925.htm",
+   "filed_at": "2026-09-25T06:06:14-04:00",
+   "filed_kst": "2026-09-25 19:06",
+   "price": 36.25,
+   "change": 1.37,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 36.25,
+     "change": 1.37
+    },
+    {
+     "date": "2026-09-23",
+     "close": 35.76,
+     "change": -2.08
+    },
+    {
+     "date": "2026-09-21",
+     "close": 36.52,
+     "change": -4.52
+    }
+   ],
+   "market_cap": 1026560451.0,
+   "shares_outstanding": 28318909.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "BARANGAROO, C3",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-25T19:07:11+09:00"
+  },
   {
    "id": "0001213900-26-103163",
    "company": "Quanome Technologies, Inc.",
