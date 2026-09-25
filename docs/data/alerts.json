@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-09-25T19:59:36+09:00",
- "count": 272,
+ "updated_at": "2026-09-25T20:04:38+09:00",
+ "count": 274,
  "alerts": [
+  {
+   "id": "0001213900-26-103215",
+   "company": "NEKTAR THERAPEUTICS",
+   "ticker": "NKTR",
+   "cik": 906709,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "District Court for the Northern District of California (the “District Court”) against Eli Lilly and Company (“Lilly”) alleging, among other claims, breach of contract and breach of the implied covenant of good faith and fair dealing in connection with the license agreement governing the parties’ pri",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906709/000121390026103215/0001213900-26-103215-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/906709/000121390026103215/ea0306370-8k_nektar.htm",
+   "filed_at": "2026-09-25T07:00:23-04:00",
+   "filed_kst": "2026-09-25 20:00",
+   "price": 59.38,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 59.38,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-24",
+     "close": 59.38,
+     "change": 2.98
+    },
+    {
+     "date": "2026-09-23",
+     "close": 57.66,
+     "change": -13.73
+    }
+   ],
+   "market_cap": 2027410984.0,
+   "shares_outstanding": 34142994.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-25T20:01:54+09:00"
+  },
+  {
+   "id": "0001171843-26-006229",
+   "company": "Legend Biotech Corp",
+   "ticker": "LEGN",
+   "cik": 1801198,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "iv In December 2017, Legend Biotech entered into an exclusive worldwide license and collaboration agreement with Janssen Biotech, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/0001171843-26-006229-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006229/exh_991.htm",
+   "filed_at": "2026-09-25T07:00:04-04:00",
+   "filed_kst": "2026-09-25 20:00",
+   "price": 19.06,
+   "change": 3.31,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 19.06,
+     "change": 3.31
+    },
+    {
+     "date": "2026-09-23",
+     "close": 18.45,
+     "change": -0.43
+    },
+    {
+     "date": "2026-09-21",
+     "close": 18.53,
+     "change": 5.22
+    }
+   ],
+   "market_cap": 7050034193.0,
+   "shares_outstanding": 369886369.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SOMERSET, NJ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-25T20:01:04+09:00"
+  },
   {
    "id": "0001628280-26-063490",
    "company": "Tamboran Resources Corp",
