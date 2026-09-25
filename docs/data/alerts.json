@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-26T02:09:21+09:00",
- "count": 282,
+ "updated_at": "2026-09-26T02:14:23+09:00",
+ "count": 283,
  "alerts": [
+  {
+   "id": "0001654954-26-008573",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights, following the cancellation of the shares which have been repurchased on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008573/0001654954-26-008573-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008573/a4252w.htm",
+   "filed_at": "2026-09-25T13:11:20-04:00",
+   "filed_kst": "2026-09-26 02:11",
+   "price": 100.83,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 100.83,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-25",
+     "close": 100.83,
+     "change": 0.66
+    },
+    {
+     "date": "2026-09-24",
+     "close": 100.17,
+     "change": -0.08
+    }
+   ],
+   "market_cap": 1731779435285.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-26T02:12:33+09:00"
+  },
   {
    "id": "0001213900-26-103368",
    "company": "Pinnacle Acquisition Corp",
