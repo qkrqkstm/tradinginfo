@@ -1,7 +1,115 @@
 {
- "updated_at": "2026-09-25T21:04:38+09:00",
- "count": 277,
+ "updated_at": "2026-09-25T21:09:11+09:00",
+ "count": 279,
  "alerts": [
+  {
+   "id": "0000825313-26-000060",
+   "company": "ALLIANCEBERNSTEIN HOLDING L.P.",
+   "ticker": "AB",
+   "cik": 825313,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Additionally, Bernstein oversaw structural improvements in the firm’s profitability by leading AB’s headquarter relocation to Nashville, the creation and buildout of AB India and the transition of Bernstein Research into a joint venture with Societe Generale.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/825313/000082531326000060/0000825313-26-000060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/825313/000082531326000060/ex9901ableadershipchanges9.htm",
+   "filed_at": "2026-09-25T08:04:18-04:00",
+   "filed_kst": "2026-09-25 21:04",
+   "price": 35.41,
+   "change": -1.14,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 35.41,
+     "change": -1.14
+    },
+    {
+     "date": "2026-09-23",
+     "close": 35.82,
+     "change": -1.51
+    },
+    {
+     "date": "2026-09-21",
+     "close": 36.37,
+     "change": 0.17
+    }
+   ],
+   "market_cap": 3295793505.0,
+   "shares_outstanding": 93075219.0,
+   "industry": "Investment Advice",
+   "state_of_incorporation": "DE",
+   "hq": "NASHVILLE, TN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-25T21:05:45+09:00"
+  },
+  {
+   "id": "0001819989-26-000043",
+   "company": "Cipher Digital Inc.",
+   "ticker": "CIFR",
+   "cik": 1819989,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Cipher Digital Expands Barber Lake Lease Term to 20 Years, Increasing Revenue to Over $9 Billion Additional 10-Year Term adds ~$5.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998926000043/0001819989-26-000043-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998926000043/cifr-20260924.htm",
+   "filed_at": "2026-09-25T08:04:27-04:00",
+   "filed_kst": "2026-09-25 21:04",
+   "price": 18.1,
+   "change": -1.36,
+   "price_history": [
+    {
+     "date": "2026-09-24",
+     "close": 18.1,
+     "change": -1.36
+    },
+    {
+     "date": "2026-09-23",
+     "close": 18.35,
+     "change": -3.88
+    },
+    {
+     "date": "2026-09-22",
+     "close": 19.09,
+     "change": 1.01
+    }
+   ],
+   "market_cap": 7512056068.0,
+   "shares_outstanding": 415030722.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-25T21:05:43+09:00"
+  },
   {
    "id": "0001213900-26-103239",
    "company": "Arbe Robotics Ltd.",
