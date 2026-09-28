@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-09-28T20:29:35+09:00",
+ "updated_at": "2026-09-28T20:35:04+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-111154",
+   "company": "Hut 8 Corp.",
+   "ticker": "HUT",
+   "cik": 1964789,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 64,
+   "summary": "Notwithstanding the preceding paragraph or any provision of Section 13d-3 of the Exchange Act, (i) a Person or group shall not be deemed ‎to beneficially own Equity Interests subject to a stock or asset purchase agreement, merger agreement, option agreement, warrant ‎agreement or similar agreement (",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465926111154/0001104659-26-111154-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465926111154/tm2625691d1_ex99-1.htm",
+   "filed_at": "2026-09-28T07:30:28-04:00",
+   "filed_kst": "2026-09-28 20:30",
+   "price": 96.82,
+   "change": -4.65,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 96.82,
+     "change": -4.65
+    },
+    {
+     "date": "2026-09-24",
+     "close": 101.54,
+     "change": -0.9
+    },
+    {
+     "date": "2026-09-23",
+     "close": 102.46,
+     "change": -3.89
+    }
+   ],
+   "market_cap": 11933981692.0,
+   "shares_outstanding": 123259468.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-28T20:32:16+09:00"
+  },
+  {
+   "id": "0001213900-26-103743",
+   "company": "Ramaco Resources, Inc.",
+   "ticker": "METC",
+   "cik": 1687187,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "In connection with these activities, it holds a body of more than 70 intellectual property patents, pending applications, exclusive licensing agreements and various trademarks.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687187/000121390026103743/0001213900-26-103743-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1687187/000121390026103743/ea030677501ex99-1.htm",
+   "filed_at": "2026-09-28T07:30:12-04:00",
+   "filed_kst": "2026-09-28 20:30",
+   "price": 9.02,
+   "change": -1.31,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 9.02,
+     "change": -1.31
+    },
+    {
+     "date": "2026-09-24",
+     "close": 9.14,
+     "change": -1.51
+    },
+    {
+     "date": "2026-09-23",
+     "close": 9.28,
+     "change": -4.33
+    }
+   ],
+   "market_cap": 400615047.0,
+   "shares_outstanding": 44414085.0,
+   "industry": "Silver Ores",
+   "state_of_incorporation": "DE",
+   "hq": "LEXINGTON, KY",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-09-28T20:31:09+09:00"
+  },
   {
    "id": "0001104659-26-111144",
    "company": "Brixmor Property Group Inc.",
@@ -15341,108 +15446,6 @@
     "Emerging growth company"
    ],
    "shares_outstanding": null,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0000933267-26-000059",
-   "company": "IRSA INVESTMENTS & REPRESENTATIONS INC",
-   "ticker": "IRS",
-   "cik": 933267,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "CONSIDERATION OF THE PRELIMINARY MERGER AGREEMENT BY ABSORPTION.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/933267/000093326726000059/0000933267-26-000059-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/933267/000093326726000059/form6k.htm",
-   "filed_at": "2026-09-17T14:40:23-04:00",
-   "filed_kst": "2026-09-18 03:40",
-   "price": 16.02,
-   "change": 4.03,
-   "detected_at": "2026-09-18T05:38:26+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 16.02,
-     "change": 4.03
-    },
-    {
-     "date": "2026-09-16",
-     "close": 15.4,
-     "change": 0.26
-    },
-    {
-     "date": "2026-09-15",
-     "close": 15.36,
-     "change": 0.66
-    }
-   ],
-   "market_cap": 12215583104.0,
-   "industry": "Land Subdividers & Developers (No Cemeteries)",
-   "state_of_incorporation": null,
-   "hq": "BUENOS AIRES, C1",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "shares_outstanding": 762520793.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001140361-26-036994",
-   "company": "AES CORP",
-   "ticker": "AES",
-   "cik": 874761,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously announced, on March 1, 2026, The AES Corporation (the “ Company ”) entered into an Agreement and Plan of Merger (as it may be amended from time to time, the “ Merger Agreement ”), by and among the Company, Horizon Parent, L.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126036994/0001140361-26-036994-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126036994/ef20082051_8k.htm",
-   "filed_at": "2026-09-17T16:37:13-04:00",
-   "filed_kst": "2026-09-18 05:37",
-   "price": 14.85,
-   "change": 0.27,
-   "detected_at": "2026-09-18T05:38:23+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 14.85,
-     "change": 0.27
-    },
-    {
-     "date": "2026-09-16",
-     "close": 14.81,
-     "change": 0.07
-    },
-    {
-     "date": "2026-09-15",
-     "close": 14.8,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 10594563656.0,
-   "industry": "Cogeneration Services & Small Power Producers",
-   "state_of_incorporation": "DE",
-   "hq": "ARLINGTON, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "shares_outstanding": 713438630.0,
    "deal_role": null,
    "is_followup": false
   }
