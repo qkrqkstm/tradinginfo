@@ -1,7 +1,164 @@
 {
- "updated_at": "2026-09-28T18:59:15+09:00",
+ "updated_at": "2026-09-28T19:05:01+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-103658",
+   "company": "Crown Reserve Acquisition Corp. I",
+   "ticker": "CRAC",
+   "cik": 2070887,
+   "form": "425",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Second Amendment to Business Combination Agreement On September 23, 2026, Crown Reserve Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2070887/000121390026103658/0001213900-26-103658-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2070887/000121390026103658/ea0306690-8k425_crown1.htm",
+   "filed_at": "2026-09-25T19:46:50-04:00",
+   "filed_kst": "2026-09-26 08:46",
+   "price": 10.24,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 10.24,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-24",
+     "close": 10.24,
+     "change": 0.1
+    },
+    {
+     "date": "2026-09-23",
+     "close": 10.23,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GRAND CAYMAN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-28T19:03:14+09:00"
+  },
+  {
+   "id": "0001292814-26-004720",
+   "company": "TIM S.A.",
+   "ticker": "TIMB",
+   "cik": 1826168,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각"
+   ],
+   "confidence": 73,
+   "summary": "It was emphasized that the current share repurchase plan remains in effect, subject to the established limits.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426004720/0001292814-26-004720-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426004720/timb20260925_6k1.htm",
+   "filed_at": "2026-09-25T20:19:40-04:00",
+   "filed_kst": "2026-09-26 09:19",
+   "price": 18.16,
+   "change": -0.93,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 18.16,
+     "change": -0.93
+    },
+    {
+     "date": "2026-09-24",
+     "close": 18.33,
+     "change": -0.05
+    },
+    {
+     "date": "2026-09-23",
+     "close": 18.34,
+     "change": -3.17
+    }
+   ],
+   "market_cap": 43441006144.0,
+   "shares_outstanding": 2392125889.0,
+   "industry": "Telephone Communications (No Radiotelephone)",
+   "state_of_incorporation": "Brazil",
+   "hq": "RIO DE JANEIRO, RJ, D5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-28T19:02:42+09:00"
+  },
+  {
+   "id": "0001213900-26-103656",
+   "company": "Crown Reserve Acquisition Corp. I",
+   "ticker": "CRAC",
+   "cik": 2070887,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Second Amendment to Business Combination Agreement On September 23, 2026, Crown Reserve Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2070887/000121390026103656/0001213900-26-103656-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2070887/000121390026103656/ea0306690-8k425_crown1.htm",
+   "filed_at": "2026-09-25T19:43:29-04:00",
+   "filed_kst": "2026-09-26 08:43",
+   "price": 10.24,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 10.24,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-24",
+     "close": 10.24,
+     "change": 0.1
+    },
+    {
+     "date": "2026-09-23",
+     "close": 10.23,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GRAND CAYMAN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-28T19:02:40+09:00"
+  },
   {
    "id": "0002071876-26-000217",
    "company": "United States Brent Oil Fund, LP",
@@ -15292,162 +15449,6 @@
     "Large accelerated filer"
    ],
    "shares_outstanding": 32025781.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001552781-26-000493",
-   "company": "Essential Utilities, Inc.",
-   "ticker": "WTRG",
-   "cik": 78128,
-   "form": "425",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(“Essential Utilities”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), providing for the proposed merger of Merger Sub with and into Essential Utilities (the “Merger”), with Essential Utilities surviving the Merger as a wholly owned subsidiary of American Water.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000493/0001552781-26-000493-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000493/e26385_wtrg-8k.htm",
-   "filed_at": "2026-09-17T10:50:29-04:00",
-   "filed_kst": "2026-09-17 23:50",
-   "price": 41.62,
-   "change": 0.6,
-   "detected_at": "2026-09-18T02:45:30+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 41.62,
-     "change": 0.6
-    },
-    {
-     "date": "2026-09-16",
-     "close": 41.37,
-     "change": -0.27
-    },
-    {
-     "date": "2026-09-15",
-     "close": 41.48,
-     "change": -0.31
-    }
-   ],
-   "market_cap": 11810865540.0,
-   "industry": "Water Supply",
-   "state_of_incorporation": "PA",
-   "hq": "BRYN MAWR, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "shares_outstanding": 283778605.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001410636-26-000144",
-   "company": "Essential Utilities, Inc.",
-   "ticker": "WTRG",
-   "cik": 78128,
-   "form": "425",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(“Essential Utilities”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), providing for the proposed merger of Merger Sub with and into Essential Utilities (the “Merger”), with Essential Utilities surviving the Merger as a wholly owned subsidiary of American Water.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/78128/000141063626000144/0001410636-26-000144-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/78128/000141063626000144/a425filing-jointpetitionfi.htm",
-   "filed_at": "2026-09-17T10:54:42-04:00",
-   "filed_kst": "2026-09-17 23:54",
-   "price": 41.62,
-   "change": 0.6,
-   "detected_at": "2026-09-18T02:45:29+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 41.62,
-     "change": 0.6
-    },
-    {
-     "date": "2026-09-16",
-     "close": 41.37,
-     "change": -0.27
-    },
-    {
-     "date": "2026-09-15",
-     "close": 41.48,
-     "change": -0.31
-    }
-   ],
-   "market_cap": 11810865540.0,
-   "industry": "Water Supply",
-   "state_of_incorporation": "PA",
-   "hq": "BRYN MAWR, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "shares_outstanding": 283778605.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001410636-26-000144",
-   "company": "American Water Works Company, Inc.",
-   "ticker": "AWK",
-   "cik": 1410636,
-   "form": "425",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(“Essential Utilities”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), providing for the proposed merger of Merger Sub with and into Essential Utilities (the “Merger”), with Essential Utilities surviving the Merger as a wholly owned subsidiary of American Water.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1410636/000141063626000144/0001410636-26-000144-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1410636/000141063626000144/a425filing-jointpetitionfi.htm",
-   "filed_at": "2026-09-17T10:54:42-04:00",
-   "filed_kst": "2026-09-17 23:54",
-   "price": 138.24,
-   "change": 0.35,
-   "detected_at": "2026-09-18T02:45:27+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 138.24,
-     "change": 0.35
-    },
-    {
-     "date": "2026-09-16",
-     "close": 137.76,
-     "change": -0.19
-    },
-    {
-     "date": "2026-09-15",
-     "close": 138.02,
-     "change": -0.65
-    }
-   ],
-   "market_cap": 27472295439.0,
-   "industry": "Water Supply",
-   "state_of_incorporation": "DE",
-   "hq": "CAMDEN, NJ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "shares_outstanding": 198728989.0,
    "deal_role": null,
    "is_followup": false
   }
