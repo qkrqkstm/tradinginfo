@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-09-28T22:29:22+09:00",
+ "updated_at": "2026-09-28T22:34:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001129928-26-000057",
+   "company": "ONCOLYTICS BIOTECH INC",
+   "ticker": "ONCY",
+   "cik": 1129928,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "The Company is advancing pelareorep in combination with chemotherapy and/or checkpoint inhibitors in metastatic gastrointestinal cancers, where pelareorep has received Fast Track designation from the FDA for colorectal, anal, and pancreatic cancer.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000057/0001129928-26-000057-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000057/oncy-20260928.htm",
+   "filed_at": "2026-09-28T09:32:06-04:00",
+   "filed_kst": "2026-09-28 22:32",
+   "price": 0.69,
+   "change": 0.74,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 0.69,
+     "change": 0.74
+    },
+    {
+     "date": "2026-09-25",
+     "close": 0.68,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-24",
+     "close": 0.68,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 87982248.0,
+   "shares_outstanding": 127510505.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-28T22:33:29+09:00"
+  },
   {
    "id": "0001193125-26-403481",
    "company": "Kodiak Sciences Inc.",
@@ -15400,56 +15455,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-18T20:08:55+09:00",
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001062993-26-005010",
-   "company": "Americas Gold & Silver Corp",
-   "ticker": "USAS",
-   "cik": 1286973,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through a 51/49 joint venture, the Company is developing a fully integrated domestic antimony supply chain-from mine to finished product-to help strengthen America's critical mineral independence.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005010/0001062993-26-005010-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005010/exhibit99-1.htm",
-   "filed_at": "2026-09-18T06:31:12-04:00",
-   "filed_kst": "2026-09-18 19:31",
-   "price": 5.06,
-   "change": 10.48,
-   "price_history": [
-    {
-     "date": "2026-09-17",
-     "close": 5.06,
-     "change": 10.48
-    },
-    {
-     "date": "2026-09-16",
-     "close": 4.58,
-     "change": -2.35
-    },
-    {
-     "date": "2026-09-15",
-     "close": 4.69,
-     "change": -2.49
-    }
-   ],
-   "market_cap": 1621319037.0,
-   "shares_outstanding": 320418782.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-18T19:32:09+09:00",
    "deal_role": null,
    "is_followup": false
   }
