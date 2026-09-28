@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-09-28T21:14:53+09:00",
+ "updated_at": "2026-09-28T21:19:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001720580-26-000060",
+   "company": "Adicet Bio, Inc.",
+   "ticker": "ACET",
+   "cik": 1720580,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "ADI-001 was granted Fast Track Designation by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1720580/000172058026000060/0001720580-26-000060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1720580/000172058026000060/acet-ex99_2.htm",
+   "filed_at": "2026-09-28T08:15:31-04:00",
+   "filed_kst": "2026-09-28 21:15",
+   "price": 9.02,
+   "change": 9.07,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 9.02,
+     "change": 9.07
+    },
+    {
+     "date": "2026-09-24",
+     "close": 8.27,
+     "change": -2.59
+    },
+    {
+     "date": "2026-09-23",
+     "close": 8.49,
+     "change": -7.16
+    }
+   ],
+   "market_cap": 84440640.0,
+   "shares_outstanding": 9361490.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-28T21:17:59+09:00"
+  },
+  {
+   "id": "0001213900-26-103756",
+   "company": "Zhibao Technology Inc.",
+   "ticker": "ZBAO",
+   "cik": 1966750,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "No unearned shares are issued or placed in escrow, and no cancellation of unissued shares is required.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1966750/000121390026103756/0001213900-26-103756-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1966750/000121390026103756/ea030683701ex99-2.htm",
+   "filed_at": "2026-09-28T08:15:17-04:00",
+   "filed_kst": "2026-09-28 21:15",
+   "price": 0.09,
+   "change": -0.22,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 0.09,
+     "change": -0.22
+    },
+    {
+     "date": "2026-09-25",
+     "close": 0.09,
+     "change": -1.08
+    },
+    {
+     "date": "2026-09-24",
+     "close": 0.09,
+     "change": -4.12
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Insurance Agents, Brokers & Service",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-28T21:17:07+09:00"
+  },
   {
    "id": "0001193125-26-403429",
    "company": "FATE THERAPEUTICS INC",
@@ -15340,109 +15446,6 @@
    "shares_outstanding": 53112708.0,
    "deal_role": null,
    "is_followup": true
-  },
-  {
-   "id": "0001213900-26-101042",
-   "company": "Greenfire Resources Ltd.",
-   "ticker": "GFR",
-   "cik": 1966287,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "As the Rights Offering was fully subscribed, the Corporation did not utilize the previously announced standby commitment whereby certain limited partnerships comprising Waterous Energy Fund agreed to acquire any Common Shares not subscribed for under the Rights Offering.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1966287/000121390026101042/0001213900-26-101042-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1966287/000121390026101042/ea030591301ex99-1.htm",
-   "filed_at": "2026-09-17T17:29:05-04:00",
-   "filed_kst": "2026-09-18 06:29",
-   "price": 6.66,
-   "change": 2.62,
-   "detected_at": "2026-09-18T08:04:58+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 6.66,
-     "change": 2.62
-    },
-    {
-     "date": "2026-09-16",
-     "close": 6.49,
-     "change": -6.35
-    },
-    {
-     "date": "2026-09-15",
-     "close": 6.93,
-     "change": 4.68
-    }
-   ],
-   "market_cap": 835212298.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "Alberta, Canada",
-   "hq": "CALGARY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "shares_outstanding": 125407252.0,
-   "deal_role": "acquirer",
-   "is_followup": false
-  },
-  {
-   "id": "0001628280-26-062535",
-   "company": "CENTRUS ENERGY CORP",
-   "ticker": "LEU",
-   "cik": 1065059,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 ex991_centrusandantaress Centrus and Antares Sign Multi-Year HALEU Supply Contract September 17, 2026 Production will be \"unobligated\" that can support national security missions Adds another HALEU customer to Centrus' backlog and includes prepayments to advance domestic enrichment capacity buildo",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026062535/0001628280-26-062535-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026062535/ex991_centrusandantaress.htm",
-   "filed_at": "2026-09-17T16:39:52-04:00",
-   "filed_kst": "2026-09-18 05:39",
-   "price": 149.85,
-   "change": 7.8,
-   "detected_at": "2026-09-18T08:04:56+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 149.85,
-     "change": 7.8
-    },
-    {
-     "date": "2026-09-16",
-     "close": 139.01,
-     "change": -2.19
-    },
-    {
-     "date": "2026-09-15",
-     "close": 142.12,
-     "change": -2.82
-    }
-   ],
-   "market_cap": 2049038860.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "DE",
-   "hq": "BETHESDA, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "shares_outstanding": 13673933.0,
-   "deal_role": null,
-   "is_followup": false
   }
  ]
 }
