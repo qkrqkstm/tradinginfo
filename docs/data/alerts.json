@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-28T21:49:29+09:00",
+ "updated_at": "2026-09-28T21:54:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-111204",
+   "company": "Amber International Holding Ltd",
+   "ticker": "AMBR",
+   "cik": 1697818,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "At AMBR, she has played an instrumental role in driving both business growth and the Company’s broader market presence, shaping its commercial strategy and market positioning, with responsibilities spanning sales, strategic partnerships, marketing, and investor engagement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1697818/000110465926111204/0001104659-26-111204-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1697818/000110465926111204/tm2626466d1_ex99-2.htm",
+   "filed_at": "2026-09-28T08:52:14-04:00",
+   "filed_kst": "2026-09-28 21:52",
+   "price": 1.86,
+   "change": -1.06,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 1.86,
+     "change": -1.06
+    },
+    {
+     "date": "2026-09-24",
+     "close": 1.88,
+     "change": -2.08
+    },
+    {
+     "date": "2026-09-23",
+     "close": 1.92,
+     "change": 1.59
+    }
+   ],
+   "market_cap": 876759838.0,
+   "shares_outstanding": 471376257.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": null,
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-09-28T21:53:30+09:00"
+  },
   {
    "id": "0001178913-26-004628",
    "company": "Silexion Therapeutics Corp",
@@ -15394,61 +15444,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-18T19:26:33+09:00",
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001493152-26-043212",
-   "company": "Paradium.AI, Inc.",
-   "ticker": "PAAI",
-   "cik": 894871,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 73,
-   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 Exhibit 99.1 Paradium.AI Signs 10-Year Strategic Platform Agreement with Roundtable (Nasdaq: RTB) Agreement Subject to Closing Conditions New York, NY – September 17, 2026 – Paradium.AI, Inc. (“ Paradium.AI ” or “Paradium”) (NYSE American: PAAI) , a technology leader in ",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/894871/000149315226043212/0001493152-26-043212-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/894871/000149315226043212/ex99-1.htm",
-   "filed_at": "2026-09-18T06:04:53-04:00",
-   "filed_kst": "2026-09-18 19:04",
-   "price": 3.34,
-   "change": 271.11,
-   "price_history": [
-    {
-     "date": "2026-09-17",
-     "close": 3.34,
-     "change": 271.11
-    },
-    {
-     "date": "2026-09-16",
-     "close": 0.9,
-     "change": -3.23
-    },
-    {
-     "date": "2026-09-15",
-     "close": 0.93,
-     "change": -1.06
-    }
-   ],
-   "market_cap": 159019581.0,
-   "shares_outstanding": 47610653.0,
-   "industry": "Cable & Other Pay Television Services",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-18T19:05:26+09:00",
    "deal_role": null,
    "is_followup": false
   }
