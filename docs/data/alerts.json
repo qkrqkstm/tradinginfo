@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-09-28T21:54:22+09:00",
+ "updated_at": "2026-09-28T21:59:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-403481",
+   "company": "Kodiak Sciences Inc.",
+   "ticker": "KOD",
+   "cik": 1468748,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "가이던스상향"
+   ],
+   "confidence": 92,
+   "summary": "• Zenkuda (tarcocimab tedromer) met the primary endpoint (p-value of 0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468748/000119312526403481/0001193125-26-403481-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468748/000119312526403481/d185059dex991.htm",
+   "filed_at": "2026-09-28T08:53:56-04:00",
+   "filed_kst": "2026-09-28 21:53",
+   "price": 32.35,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 32.35,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-25",
+     "close": 32.35,
+     "change": -2.62
+    },
+    {
+     "date": "2026-09-24",
+     "close": 33.22,
+     "change": 5.39
+    }
+   ],
+   "market_cap": 2033179934.0,
+   "shares_outstanding": 62849457.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-28T21:56:34+09:00"
+  },
   {
    "id": "0001104659-26-111204",
    "company": "Amber International Holding Ltd",
@@ -15394,56 +15450,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-18T19:32:09+09:00",
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001575872-26-000657",
-   "company": "DR REDDYS LABORATORIES LTD",
-   "ticker": "RDY",
-   "cik": 1135951,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "” Complementary strengths to amplify impact In preparation for the anticipated availability of the vaccine in India in the first half of 2027, the strategic collaboration brings together Takeda’s and Dr.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1135951/000157587226000657/0001575872-26-000657-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1135951/000157587226000657/rdy0942_ex99-1.htm",
-   "filed_at": "2026-09-18T06:24:35-04:00",
-   "filed_kst": "2026-09-18 19:24",
-   "price": 12.19,
-   "change": 4.37,
-   "price_history": [
-    {
-     "date": "2026-09-17",
-     "close": 12.19,
-     "change": 4.37
-    },
-    {
-     "date": "2026-09-16",
-     "close": 11.68,
-     "change": 1.13
-    },
-    {
-     "date": "2026-09-15",
-     "close": 11.55,
-     "change": -3.02
-    }
-   ],
-   "market_cap": 10174468464.0,
-   "shares_outstanding": 834656970.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "India",
-   "hq": "HYDERABAD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-18T19:26:33+09:00",
    "deal_role": null,
    "is_followup": false
   }
