@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-29T00:24:23+09:00",
+ "updated_at": "2026-09-29T00:29:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006248",
+   "company": "NOVO NORDISK A S",
+   "ticker": "NVO",
+   "cik": 353278,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 f6k_092826.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ________________ FORM 6-K ________________ REPORT OF FOREIGN PRIVATE ISSUER Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 September 28, 2026 ________________ NOVO NORDISK ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006248/0001171843-26-006248-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006248/f6k_092826.htm",
+   "filed_at": "2026-09-28T11:23:38-04:00",
+   "filed_kst": "2026-09-29 00:23",
+   "price": 38.41,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 38.41,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-28",
+     "close": 38.4,
+     "change": -1.02
+    },
+    {
+     "date": "2026-09-25",
+     "close": 38.8,
+     "change": 0.47
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "BAGSVAERD DENMARK, G7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T00:26:54+09:00"
+  },
   {
    "id": "0001628280-26-063680",
    "company": "ERICSSON LM TELEPHONE CO",
@@ -15399,59 +15449,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-18T20:17:35+09:00",
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001193125-26-395031",
-   "company": "BlossomHill Therapeutics, Inc.",
-   "ticker": "BLSM",
-   "cik": 1839970,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 60,
-   "summary": "3 million initial public offering Announced FDA Fast Track designation for BH-30643 for the treatment of advanced EGFR C797S-positive NSCLC SAN DIEGO, September 18, 2026 – BlossomHill Therapeutics, Inc.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1839970/000119312526395031/0001193125-26-395031-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1839970/000119312526395031/d266261dex991.htm",
-   "filed_at": "2026-09-18T07:15:07-04:00",
-   "filed_kst": "2026-09-18 20:15",
-   "price": 26.82,
-   "change": 2.17,
-   "price_history": [
-    {
-     "date": "2026-09-17",
-     "close": 26.82,
-     "change": 2.17
-    },
-    {
-     "date": "2026-09-16",
-     "close": 26.25,
-     "change": 18.4
-    },
-    {
-     "date": "2026-09-15",
-     "close": 22.17,
-     "change": 1.98
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-18T20:17:33+09:00",
    "deal_role": null,
    "is_followup": false
   }
