@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-09-28T21:04:59+09:00",
+ "updated_at": "2026-09-28T21:09:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-044456",
+   "company": "Volato Group, Inc.",
+   "ticker": "SOAR",
+   "cik": 1853070,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Volato Group’s Alignment Engine Subsidiary Signs $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226044456/0001493152-26-044456-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226044456/ex99-1.htm",
+   "filed_at": "2026-09-28T08:05:27-04:00",
+   "filed_kst": "2026-09-28 21:05",
+   "price": 0.18,
+   "change": -0.28,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 0.18,
+     "change": -0.28
+    },
+    {
+     "date": "2026-09-25",
+     "close": 0.18,
+     "change": -2.17
+    },
+    {
+     "date": "2026-09-24",
+     "close": 0.18,
+     "change": 0.55
+    }
+   ],
+   "market_cap": 9653985.0,
+   "shares_outstanding": 53633248.0,
+   "industry": "Air Transportation, Nonscheduled",
+   "state_of_incorporation": "DE",
+   "hq": "CHAMBLEE, GA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-28T21:06:46+09:00"
+  },
+  {
+   "id": "0001193125-26-403424",
+   "company": "4D Molecular Therapeutics, Inc.",
+   "ticker": "FDMT",
+   "cik": 1650648,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Food and Drug Administration (“FDA”) Regenerative Medicine Advanced Therapy designation, and the Company has alignment with the FDA and the European Medicines Agency on potential Biologics License Application and marketing authorization application filings with the single 4SIGHT Phase 3 DME trial",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650648/000119312526403424/0001193125-26-403424-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650648/000119312526403424/d147828d8k.htm",
+   "filed_at": "2026-09-28T08:05:05-04:00",
+   "filed_kst": "2026-09-28 21:05",
+   "price": 14.47,
+   "change": -1.63,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 14.47,
+     "change": -1.63
+    },
+    {
+     "date": "2026-09-24",
+     "close": 14.71,
+     "change": -1.93
+    },
+    {
+     "date": "2026-09-23",
+     "close": 15.0,
+     "change": -5.54
+    }
+   ],
+   "market_cap": 720289498.0,
+   "shares_outstanding": 49778127.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "EMERYVILLE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-28T21:05:52+09:00"
+  },
   {
    "id": "0001759425-26-000049",
    "company": "Mirum Pharmaceuticals, Inc.",
@@ -15331,114 +15438,6 @@
     "Emerging growth company"
    ],
    "shares_outstanding": null,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001213900-26-101011",
-   "company": "SpringBig Holdings, Inc.",
-   "ticker": "SBIG",
-   "cik": 1801602,
-   "form": "8-K",
-   "items": [
-    "3.03",
-    "5.02",
-    "5.03",
-    "9.01"
-   ],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "In the event any shares of Series A Preferred Stock are redeemed or otherwise acquired by the Company, such shares will be cancelled and will return to the status of authorized and unissued preferred stock of the Company of no designated class.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1801602/000121390026101011/0001213900-26-101011-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1801602/000121390026101011/ea0305872-8k_sbighold.htm",
-   "filed_at": "2026-09-17T16:53:35-04:00",
-   "filed_kst": "2026-09-18 05:53",
-   "price": 0.01,
-   "change": 0.78,
-   "detected_at": "2026-09-18T08:04:48+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 0.01,
-     "change": 0.78
-    },
-    {
-     "date": "2026-09-17",
-     "close": 0.01,
-     "change": 29.0
-    },
-    {
-     "date": "2026-09-16",
-     "close": 0.01,
-     "change": -47.37
-    }
-   ],
-   "market_cap": 487953.0,
-   "industry": "Services-Computer Programming Services",
-   "state_of_incorporation": "DE",
-   "hq": "BOCA RATON, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "shares_outstanding": 48795266.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001104659-26-108606",
-   "company": "CION Investment Corp",
-   "ticker": "CION",
-   "cik": 1534254,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "On September 17, 2026, CĪON Investment Corporation (“CION”) entered into an Amended and Restated Limited Liability Company Agreement (the “LLC Agreement”) of Senior Loan Fund Partners, LLC (the “Joint Venture”), a newly formed Delaware limited liability company, with certain institutional investors ",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926108606/0001104659-26-108606-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926108606/tm2625585d1_8k.htm",
-   "filed_at": "2026-09-17T17:00:23-04:00",
-   "filed_kst": "2026-09-18 06:00",
-   "price": 7.26,
-   "change": 2.11,
-   "detected_at": "2026-09-18T08:04:40+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 7.26,
-     "change": 2.11
-    },
-    {
-     "date": "2026-09-16",
-     "close": 7.11,
-     "change": 0.28
-    },
-    {
-     "date": "2026-09-15",
-     "close": 7.09,
-     "change": -0.28
-    }
-   ],
-   "market_cap": 357211631.0,
-   "industry": null,
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "shares_outstanding": 49202704.0,
    "deal_role": null,
    "is_followup": false
   }
