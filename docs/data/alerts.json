@@ -1,7 +1,213 @@
 {
- "updated_at": "2026-09-29T05:14:18+09:00",
+ "updated_at": "2026-09-29T05:19:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000002488-26-000182",
+   "company": "ADVANCED MICRO DEVICES INC",
+   "ticker": "AMD",
+   "cik": 2488,
+   "form": "8-K",
+   "items": [
+    "3.02"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) to acquire all of the equity interests in World Labs Technologies, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000182/0000002488-26-000182-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000182/amd-20260926.htm",
+   "filed_at": "2026-09-28T16:16:47-04:00",
+   "filed_kst": "2026-09-29 05:16",
+   "price": 607.87,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 607.87,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-28",
+     "close": 607.87,
+     "change": -3.61
+    },
+    {
+     "date": "2026-09-25",
+     "close": 630.63,
+     "change": 0.22
+    }
+   ],
+   "market_cap": 992332603781.0,
+   "shares_outstanding": 1632475042.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "SANTA CLARA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T05:19:28+09:00"
+  },
+  {
+   "id": "0001062993-26-005085",
+   "company": "Lithium Argentina AG",
+   "ticker": "LAR",
+   "cik": 1440972,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 73,
+   "summary": "EX-99.2 3 exhibit99-2.htm EXHIBIT 99.2 Lithium Argentina AG: Exhibit 99.2 - Filed by newsfilecorp.com LITHIUM ARGENTINA AG CONVERTIBLE DEBENTURE Issuance Date: September 15, 2026 Original Principal Amount: US$180,000,000 FOR VALUE RECEIVED , Lithium Argentina AG, a corporation existing under the law",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1440972/000106299326005085/0001062993-26-005085-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1440972/000106299326005085/exhibit99-2.htm",
+   "filed_at": "2026-09-28T16:14:34-04:00",
+   "filed_kst": "2026-09-29 05:14",
+   "price": 5.41,
+   "change": -1.99,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 5.41,
+     "change": -1.99
+    },
+    {
+     "date": "2026-09-25",
+     "close": 5.52,
+     "change": -2.82
+    },
+    {
+     "date": "2026-09-24",
+     "close": 5.68,
+     "change": -1.73
+    }
+   ],
+   "market_cap": 878621351.0,
+   "shares_outstanding": 162406904.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "Switzerland",
+   "hq": "ZUG",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-09-29T05:17:16+09:00"
+  },
+  {
+   "id": "0001213900-26-104044",
+   "company": "TOYO Co., Ltd",
+   "ticker": "TOYO",
+   "cik": 1985273,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "htm PRESS RELEASE DATED SEPTEMBER 28, 2026 - TOYO ANNOUNCES APPROXIMATELY $240 MILLION IN BINDING U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1985273/000121390026104044/0001213900-26-104044-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1985273/000121390026104044/ea030680401ex99-2.htm",
+   "filed_at": "2026-09-28T16:15:02-04:00",
+   "filed_kst": "2026-09-29 05:15",
+   "price": 4.21,
+   "change": -5.82,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 4.21,
+     "change": -5.82
+    },
+    {
+     "date": "2026-09-25",
+     "close": 4.47,
+     "change": 2.76
+    },
+    {
+     "date": "2026-09-24",
+     "close": 4.35,
+     "change": 0.23
+    }
+   ],
+   "market_cap": 158965377.0,
+   "shares_outstanding": 37758997.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "TOKYO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-29T05:17:13+09:00"
+  },
+  {
+   "id": "0000318300-26-000202",
+   "company": "PEOPLES BANCORP INC",
+   "ticker": "PEBO",
+   "cik": 318300,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "The Agreement and Plan of Merger dated as of April 20, 2026, by and between Peoples and Citizens, was approved by Citizens’ shareholders on August 6, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000202/0000318300-26-000202-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000202/pebo-20260928.htm",
+   "filed_at": "2026-09-28T16:11:22-04:00",
+   "filed_kst": "2026-09-29 05:11",
+   "price": 39.11,
+   "change": -0.28,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 39.11,
+     "change": -0.28
+    },
+    {
+     "date": "2026-09-25",
+     "close": 39.22,
+     "change": 0.38
+    },
+    {
+     "date": "2026-09-24",
+     "close": 39.07,
+     "change": 1.67
+    }
+   ],
+   "market_cap": 1405703940.0,
+   "shares_outstanding": 35942315.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "OH",
+   "hq": "MARIETTA, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T05:16:15+09:00"
+  },
   {
    "id": "0001818382-26-000011",
    "company": "Humacyte, Inc.",
@@ -15261,213 +15467,6 @@
    "hq": "HOUSTON, TX",
    "entity_category": null,
    "detected_at": "2026-09-19T05:01:17+09:00"
-  },
-  {
-   "id": "0001213900-26-099723",
-   "company": "XCF Global, Inc.",
-   "ticker": "SAFX",
-   "cik": 2019793,
-   "form": "425",
-   "items": [
-    "1.01",
-    "3.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "1 TO THE BUSINESS COMBINATION AGREEMENT, DATED AS OF SEPTEMBER 14, 2026, BY AND AMONG XCF GLOBAL, INC.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2019793/000121390026099723/0001213900-26-099723-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019793/000121390026099723/ea030500801ex2-1.htm",
-   "filed_at": "2026-09-14T16:18:36-04:00",
-   "filed_kst": "2026-09-15 05:18",
-   "price": 0.47,
-   "change": -0.04,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 0.47,
-     "change": -0.04
-    },
-    {
-     "date": "2026-09-18",
-     "close": 0.47,
-     "change": 2.22
-    },
-    {
-     "date": "2026-09-17",
-     "close": 0.46,
-     "change": 6.48
-    }
-   ],
-   "market_cap": 193083941.0,
-   "shares_outstanding": 410816896.0,
-   "industry": "Industrial Organic Chemicals",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-19T04:35:25+09:00"
-  },
-  {
-   "id": "0001213900-26-099743",
-   "company": "Drugs Made In America Acquisition Corp.",
-   "ticker": "DMAA",
-   "cik": 2028614,
-   "form": "425",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 78,
-   "summary": "(d) Manner of Payment: Any indemnification payable by the PAGC Shareholders following the Closing shall be satisfied, at the election of the PAGC Shareholder concerned, in cash or by the surrender for cancellation of Domesticated DMAA Common Shares valued at the Reference Price.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2028614/000121390026099743/0001213900-26-099743-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028614/000121390026099743/ea030546101ex2-1.htm",
-   "filed_at": "2026-09-14T16:32:16-04:00",
-   "filed_kst": "2026-09-15 05:32",
-   "price": 10.84,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-17",
-     "close": 10.84,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-16",
-     "close": 10.84,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-15",
-     "close": 10.84,
-     "change": 0.09
-    }
-   ],
-   "market_cap": 263161737.0,
-   "shares_outstanding": 24276913.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-19T04:35:22+09:00"
-  },
-  {
-   "id": "0001104659-26-107569",
-   "company": "DOMINION ENERGY, INC",
-   "ticker": "D",
-   "cik": 715957,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Ketchum said the bill credits for residential customers would continue for four years instead of the two years that the companies proposed in their merger agreement this spring.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107569/0001104659-26-107569-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/715957/000110465926107569/tm2625368d7_425.htm",
-   "filed_at": "2026-09-14T17:28:29-04:00",
-   "filed_kst": "2026-09-15 06:28",
-   "price": 63.65,
-   "change": -1.0,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 63.65,
-     "change": -1.0
-    },
-    {
-     "date": "2026-09-17",
-     "close": 64.29,
-     "change": 1.23
-    },
-    {
-     "date": "2026-09-16",
-     "close": 63.51,
-     "change": -0.56
-    }
-   ],
-   "market_cap": 55977336401.0,
-   "shares_outstanding": 879455403.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "VA",
-   "hq": "RICHMOND, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-19T04:34:43+09:00"
-  },
-  {
-   "id": "0001104659-26-107569",
-   "company": "NEXTERA ENERGY INC",
-   "ticker": "NEE",
-   "cik": 753308,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Ketchum said the bill credits for residential customers would continue for four years instead of the two years that the companies proposed in their merger agreement this spring.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107569/0001104659-26-107569-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/753308/000110465926107569/tm2625368d7_425.htm",
-   "filed_at": "2026-09-14T17:28:29-04:00",
-   "filed_kst": "2026-09-15 06:28",
-   "price": 80.68,
-   "change": -0.74,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 80.68,
-     "change": -0.74
-    },
-    {
-     "date": "2026-09-17",
-     "close": 81.28,
-     "change": 1.13
-    },
-    {
-     "date": "2026-09-16",
-     "close": 80.37,
-     "change": -0.86
-    }
-   ],
-   "market_cap": 168245348670.0,
-   "shares_outstanding": 2085341456.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "FL",
-   "hq": "JUNO BEACH, FL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-19T04:34:42+09:00"
   }
  ]
 }
