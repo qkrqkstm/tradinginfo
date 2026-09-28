@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-09-29T02:09:11+09:00",
+ "updated_at": "2026-09-29T02:14:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-103899",
+   "company": "Silicon Valley Acquisition Corp.",
+   "ticker": "SVAQ",
+   "cik": 2085659,
+   "form": "425",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Amendment to the Business Combination Agreement As previously disclosed, on June 17, 2026, Silicon Valley Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026103899/0001213900-26-103899-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026103899/ea0306812-425_eigenq.htm",
+   "filed_at": "2026-09-28T13:09:17-04:00",
+   "filed_kst": "2026-09-29 02:09",
+   "price": 10.11,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 10.11,
+     "change": 0.1
+    },
+    {
+     "date": "2026-09-24",
+     "close": 10.1,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-23",
+     "close": 10.1,
+     "change": -0.2
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-29T02:11:12+09:00"
+  },
   {
    "id": "0001648416-26-000123",
    "company": "Ferrari N.V.",
@@ -15398,56 +15451,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-18T22:01:57+09:00",
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001493152-26-043258",
-   "company": "Cuprina Holdings (Cayman) LTD",
-   "ticker": "CUPR",
-   "cik": 1995704,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.3 4 ex99-3.htm EX-99.3 E xhibit 99.3 THE COMPANIES ACT (REVISED) OF THE CAYMAN ISLANDS Third Amended and restated MEMORANDUM OF ASSOCIATION OF Cuprina Holdings (Cayman) Limited An Exempted Company Limited By Shares (adopted by a Special Resolution passed on [●] ) 1 NAME 1.1 The name of the Com",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1995704/000149315226043258/0001493152-26-043258-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1995704/000149315226043258/ex99-3.htm",
-   "filed_at": "2026-09-18T09:00:00-04:00",
-   "filed_kst": "2026-09-18 22:00",
-   "price": 1.73,
-   "change": 8.12,
-   "price_history": [
-    {
-     "date": "2026-09-17",
-     "close": 1.73,
-     "change": 8.12
-    },
-    {
-     "date": "2026-09-16",
-     "close": 1.6,
-     "change": -45.39
-    },
-    {
-     "date": "2026-09-15",
-     "close": 2.93,
-     "change": -8.44
-    }
-   ],
-   "market_cap": 12741450.0,
-   "shares_outstanding": 7365000.0,
-   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE, U0",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-18T22:01:14+09:00",
    "deal_role": null,
    "is_followup": false
   }
