@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-28T19:14:50+09:00",
+ "updated_at": "2026-09-28T19:20:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006242",
+   "company": "STANDARD LITHIUM LTD.",
+   "ticker": "SLI",
+   "cik": 1537137,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Trafigura Group also comprises industrial assets and operating businesses including multi-metals producer Nyrstar, fuel storage and distribution company Puma Energy, fuel supplier and distributor Greenergy, and the Impala Terminals joint venture.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1537137/000117184326006242/0001171843-26-006242-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1537137/000117184326006242/exh_991.htm",
+   "filed_at": "2026-09-28T06:15:05-04:00",
+   "filed_kst": "2026-09-28 19:15",
+   "price": 1.86,
+   "change": -9.71,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 1.86,
+     "change": -9.71
+    },
+    {
+     "date": "2026-09-24",
+     "close": 2.06,
+     "change": -3.74
+    },
+    {
+     "date": "2026-09-23",
+     "close": 2.14,
+     "change": -3.17
+    }
+   ],
+   "market_cap": 445852362.0,
+   "shares_outstanding": 239705571.0,
+   "industry": "Chemicals & Allied Products",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-28T19:18:58+09:00"
+  },
   {
    "id": "0001104659-26-111125",
    "company": "NIO Inc.",
@@ -15393,58 +15443,6 @@
     "Large accelerated filer"
    ],
    "shares_outstanding": 222988124.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001193125-26-394393",
-   "company": "WATSCO INC",
-   "ticker": "WSO",
-   "cik": 105016,
-   "form": "8-K",
-   "items": [
-    "3.02"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Florida corporation (the “ Company ”), entered into an agreement and plan of merger (the “ Merger Agreement ”) together with GGH Cornerstone Acquisition Corp.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/105016/000119312526394393/0001193125-26-394393-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/105016/000119312526394393/wso-20260912.htm",
-   "filed_at": "2026-09-17T16:30:15-04:00",
-   "filed_kst": "2026-09-18 05:30",
-   "price": 305.36,
-   "change": 0.38,
-   "detected_at": "2026-09-18T05:35:49+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 305.36,
-     "change": 0.38
-    },
-    {
-     "date": "2026-09-16",
-     "close": 304.2,
-     "change": 0.51
-    },
-    {
-     "date": "2026-09-15",
-     "close": 302.66,
-     "change": -2.86
-    }
-   ],
-   "market_cap": null,
-   "industry": "Wholesale-Hardware & Plumbing & Heating Equipment & Supplies",
-   "state_of_incorporation": "FL",
-   "hq": "COCONUT GROVE, FL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "shares_outstanding": null,
    "deal_role": null,
    "is_followup": false
   }
