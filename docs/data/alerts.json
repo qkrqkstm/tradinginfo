@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-09-29T00:29:10+09:00",
+ "updated_at": "2026-09-29T00:34:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437958-26-000065",
+   "company": "COASTAL FINANCIAL CORP",
+   "ticker": "CCB",
+   "cik": 1437958,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(“Bluevine”), a financial technology partner of Coastal Community Bank (the “Bank”), announced that it entered into a definitive agreement to be acquired by Valley National Bancorp, the parent company of Valley Bank (the “Transaction”).",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1437958/000143795826000065/0001437958-26-000065-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1437958/000143795826000065/ck1437958-20260928.htm",
+   "filed_at": "2026-09-28T11:30:40-04:00",
+   "filed_kst": "2026-09-29 00:30",
+   "price": 38.83,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 38.83,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-28",
+     "close": 38.83,
+     "change": -13.36
+    },
+    {
+     "date": "2026-09-25",
+     "close": 44.82,
+     "change": 2.75
+    }
+   ],
+   "market_cap": 593568077.0,
+   "shares_outstanding": 15286327.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "WA",
+   "hq": "EVERETT, WA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T00:32:09+09:00"
+  },
   {
    "id": "0001171843-26-006248",
    "company": "NOVO NORDISK A S",
@@ -15399,56 +15452,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-09-18T21:31:28+09:00",
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001001807-26-000062",
-   "company": "PERUSAHAAN PERSEROAN PERSERO PT TELEKOMUNIKASI INDONESIA TBK",
-   "ticker": "TLK",
-   "cik": 1001807,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "19% (nineteen point nineteen percent) of all issued and fully paid-up TDE shares owned by Telkomsigma in order to support Telkom's Unlock DC Co through the Strategic Partnership and Telkom Group' s streamlining program.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1001807/000100180726000062/0001001807-26-000062-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1001807/000100180726000062/tmb-20260918x6k.htm",
-   "filed_at": "2026-09-18T07:16:45-04:00",
-   "filed_kst": "2026-09-18 20:16",
-   "price": 14.24,
-   "change": -2.86,
-   "price_history": [
-    {
-     "date": "2026-09-17",
-     "close": 14.24,
-     "change": -2.86
-    },
-    {
-     "date": "2026-09-16",
-     "close": 14.66,
-     "change": -2.46
-    },
-    {
-     "date": "2026-09-15",
-     "close": 15.03,
-     "change": -1.51
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": null,
-   "hq": "BANDUNG, K8",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-18T20:17:35+09:00",
    "deal_role": null,
    "is_followup": false
   }
