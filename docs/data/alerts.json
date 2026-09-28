@@ -1,7 +1,164 @@
 {
- "updated_at": "2026-09-29T04:55:40+09:00",
+ "updated_at": "2026-09-29T05:05:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-104027",
+   "company": "Yimutian Inc.",
+   "ticker": "YMT",
+   "cik": 1991605,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "On September 10, 2026, the Company completed the acquisition of control over 100% of the equity interests in Qingdao Xingongguan Holiday Hotel Co.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026104027/0001213900-26-104027-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026104027/ea0306833-6k_yimutian.htm",
+   "filed_at": "2026-09-28T16:01:21-04:00",
+   "filed_kst": "2026-09-29 05:01",
+   "price": 1.77,
+   "change": -2.21,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 1.77,
+     "change": -2.21
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1.81,
+     "change": 1.69
+    },
+    {
+     "date": "2026-09-24",
+     "close": 1.78,
+     "change": -3.26
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BEIJING, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-29T05:04:30+09:00"
+  },
+  {
+   "id": "0001104659-26-111337",
+   "company": "MATERIALISE NV",
+   "ticker": "MTLS",
+   "cik": 1091223,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "28 September 2026 – Materialise NV (Euronext: MTLS) (Nasdaq: MTLS) (“Materialise”) (“the Company”) hereby discloses certain information in relation to its share buyback program announced on 30 October 2025, in accordance with Article 8:4 of the Royal Decree of 29 April 2019 implementing the Belgian ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926111337/0001104659-26-111337-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926111337/tm2626174d1_ex99-1.htm",
+   "filed_at": "2026-09-28T16:01:42-04:00",
+   "filed_kst": "2026-09-29 05:01",
+   "price": 8.58,
+   "change": 1.78,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 8.58,
+     "change": 1.78
+    },
+    {
+     "date": "2026-09-25",
+     "close": 8.43,
+     "change": 5.24
+    },
+    {
+     "date": "2026-09-24",
+     "close": 8.01,
+     "change": 0.25
+    }
+   ],
+   "market_cap": 506796456.0,
+   "shares_outstanding": 59067186.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": null,
+   "hq": "LEVUEN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-09-29T05:04:27+09:00"
+  },
+  {
+   "id": "0001178253-26-000037",
+   "company": "SCYNEXIS INC",
+   "ticker": "SCYX",
+   "cik": 1178253,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "대형계약"
+   ],
+   "confidence": 70,
+   "summary": "SCY-247 has been granted Orphan, Qualified Infectious Disease Product (QIDP) and Fast Track designations by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178253/000117825326000037/0001178253-26-000037-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1178253/000117825326000037/scyx-ex99_1.htm",
+   "filed_at": "2026-09-28T16:01:19-04:00",
+   "filed_kst": "2026-09-29 05:01",
+   "price": 4.62,
+   "change": 5.24,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 4.62,
+     "change": 5.24
+    },
+    {
+     "date": "2026-09-25",
+     "close": 4.39,
+     "change": -1.35
+    },
+    {
+     "date": "2026-09-24",
+     "close": 4.45,
+     "change": -3.99
+    }
+   ],
+   "market_cap": 45967194.0,
+   "shares_outstanding": 9949609.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "JERSEY CITY, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-29T05:03:34+09:00"
+  },
   {
    "id": "0001213900-26-103899",
    "company": "Silicon Valley Acquisition Corp.",
@@ -15302,157 +15459,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-19T04:34:36+09:00"
-  },
-  {
-   "id": "0001104659-26-108859",
-   "company": "AMEREN CORP",
-   "ticker": "AEE",
-   "cik": 1002910,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "“ PERSON ” shall mean any individual, corporation, company, partnership, joint venture, limited liability company, association, joint-stock company, trust, unincorporated organization or government or any agent or political subdivision thereof.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926108859/0001104659-26-108859-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002910/000110465926108859/tm2625603d1_ex4-1.htm",
-   "filed_at": "2026-09-18T13:07:51-04:00",
-   "filed_kst": "2026-09-19 02:07",
-   "price": 102.73,
-   "change": -1.12,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 102.74,
-     "change": -1.12
-    },
-    {
-     "date": "2026-09-17",
-     "close": 103.9,
-     "change": 0.83
-    },
-    {
-     "date": "2026-09-16",
-     "close": 103.04,
-     "change": 0.02
-    }
-   ],
-   "market_cap": 28440107175.0,
-   "shares_outstanding": 276843251.0,
-   "industry": "Electric & Other Services Combined",
-   "state_of_incorporation": "MO",
-   "hq": "ST LOUIS, MO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-19T02:10:55+09:00"
-  },
-  {
-   "id": "0001654954-26-008449",
-   "company": "HSBC HOLDINGS PLC",
-   "ticker": "HSBC",
-   "cik": 1089113,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights, following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008449/0001654954-26-008449-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008449/a4553v.htm",
-   "filed_at": "2026-09-18T12:49:15-04:00",
-   "filed_kst": "2026-09-19 01:49",
-   "price": 101.39,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 101.39,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-18",
-     "close": 101.39,
-     "change": -1.41
-    },
-    {
-     "date": "2026-09-17",
-     "close": 102.84,
-     "change": 1.98
-    }
-   ],
-   "market_cap": 1741397569608.0,
-   "shares_outstanding": 17175239862.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-19T01:52:47+09:00"
-  },
-  {
-   "id": "0001213900-26-101162",
-   "company": "SAGTEC GLOBAL Ltd",
-   "ticker": "SAGT",
-   "cik": 2029138,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 2 ea030581501ex99-1.htm DEFINITIVE PRIVATE SUBSCRIPTION AGREEMENT, DATED SEPTEMBER 4, 2026, BETWEEN THE COMPANY AND HRH PRINCE HASSANAL OF PAHANG Exhibit 99.1 DEFINITIVE PRIVATE SUBSCRIPTION AGREEMENT Private Placement of Class A Ordinary Shares of Sagtec Global Limited This Definitive Priva",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2029138/000121390026101162/0001213900-26-101162-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2029138/000121390026101162/ea030581501ex99-1.htm",
-   "filed_at": "2026-09-18T09:00:24-04:00",
-   "filed_kst": "2026-09-18 22:00",
-   "price": 0.58,
-   "change": -2.84,
-   "price_history": [
-    {
-     "date": "2026-09-17",
-     "close": 0.58,
-     "change": -2.84
-    },
-    {
-     "date": "2026-09-16",
-     "close": 0.6,
-     "change": -4.92
-    },
-    {
-     "date": "2026-09-15",
-     "close": 0.63,
-     "change": 5.0
-    }
-   ],
-   "market_cap": 7279000.0,
-   "shares_outstanding": 12550000.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Malaysia",
-   "hq": "KUALA LUMPUR, N8",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-18T22:01:57+09:00",
-   "deal_role": null,
-   "is_followup": false
   }
  ]
 }
