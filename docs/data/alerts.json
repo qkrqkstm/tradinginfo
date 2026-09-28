@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-09-28T19:59:42+09:00",
+ "updated_at": "2026-09-28T20:04:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-111138",
+   "company": "Vestis Corp",
+   "ticker": "VSTS",
+   "cik": 1967649,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 3 tm2626111d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Vestis Appoints Russell Tiejema as Chief Financial Officer and Reiterates Fiscal Full-Year 2026 Financial Outlook Experienced public company CFO brings more than 30 years of experience and a track record of driving operational and financial ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967649/000110465926111138/0001104659-26-111138-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1967649/000110465926111138/tm2626111d1_ex99-1.htm",
+   "filed_at": "2026-09-28T07:01:28-04:00",
+   "filed_kst": "2026-09-28 20:01",
+   "price": 13.65,
+   "change": -1.37,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 13.65,
+     "change": -1.37
+    },
+    {
+     "date": "2026-09-24",
+     "close": 13.84,
+     "change": -0.22
+    },
+    {
+     "date": "2026-09-23",
+     "close": 13.87,
+     "change": -3.88
+    }
+   ],
+   "market_cap": 1803985433.0,
+   "shares_outstanding": 132160105.0,
+   "industry": "Wholesale-Miscellaneous Nondurable Goods",
+   "state_of_incorporation": "DE",
+   "hq": "ROSWELL, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-28T20:03:39+09:00"
+  },
+  {
+   "id": "0001213900-26-103733",
+   "company": "PSYENCE BIOMEDICAL LTD.",
+   "ticker": "PBM",
+   "cik": 1985062,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "3 million for the first drug candidate, an annual exclusivity fee commencing on the first anniversary of the first FDA approval and creditable against royalties, and a low single-digit percentage royalty on net sales of each drug candidate, together with a margin-sharing arrangement on any resale of",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1985062/000121390026103733/0001213900-26-103733-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1985062/000121390026103733/ea030680701ex99-1.htm",
+   "filed_at": "2026-09-28T07:00:01-04:00",
+   "filed_kst": "2026-09-28 20:00",
+   "price": 5.56,
+   "change": -5.12,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 5.56,
+     "change": -5.12
+    },
+    {
+     "date": "2026-09-24",
+     "close": 5.86,
+     "change": -7.13
+    },
+    {
+     "date": "2026-09-23",
+     "close": 6.31,
+     "change": 3.44
+    }
+   ],
+   "market_cap": 12750620.0,
+   "shares_outstanding": 2293277.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-28T20:01:33+09:00"
+  },
+  {
+   "id": "0001437749-26-031280",
+   "company": "Moleculin Biotech, Inc.",
+   "ticker": "MBRX",
+   "cik": 1659617,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "0% following treatment, with no statistically significant difference (p=0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926031280/0001437749-26-031280-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926031280/mbrx20260925_8k.htm",
+   "filed_at": "2026-09-28T07:00:14-04:00",
+   "filed_kst": "2026-09-28 20:00",
+   "price": 0.6,
+   "change": -0.07,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 0.6,
+     "change": -0.07
+    },
+    {
+     "date": "2026-09-25",
+     "close": 0.6,
+     "change": 6.17
+    },
+    {
+     "date": "2026-09-24",
+     "close": 0.57,
+     "change": 7.39
+    }
+   ],
+   "market_cap": 11686428.0,
+   "shares_outstanding": 19477380.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-28T20:01:30+09:00"
+  },
   {
    "id": "0001493152-26-044429",
    "company": "Microbot Medical Inc.",
@@ -15287,166 +15442,6 @@
     "Accelerated filer"
    ],
    "shares_outstanding": 30127603.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001515673-26-000006",
-   "company": "Ultragenyx Pharmaceutical Inc.",
-   "ticker": "RARE",
-   "cik": 1515673,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The Company received a Priority Review Voucher upon this approval.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1515673/000151567326000006/0001515673-26-000006-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1515673/000151567326000006/rare-20260917.htm",
-   "filed_at": "2026-09-17T15:55:37-04:00",
-   "filed_kst": "2026-09-18 04:55",
-   "price": 14.5,
-   "change": 12.58,
-   "detected_at": "2026-09-18T05:37:14+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 14.5,
-     "change": 12.58
-    },
-    {
-     "date": "2026-09-16",
-     "close": 12.88,
-     "change": -1.45
-    },
-    {
-     "date": "2026-09-15",
-     "close": 13.07,
-     "change": -3.97
-    }
-   ],
-   "market_cap": 1429538658.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NOVATO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "shares_outstanding": 98588873.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001104659-26-108565",
-   "company": "FENNEC PHARMACEUTICALS INC.",
-   "ticker": "FENC",
-   "cik": 1211583,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 91,
-   "summary": "Until the FDA approval of PEDMARK, there were no preventative agents for this hearing loss.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1211583/000110465926108565/0001104659-26-108565-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1211583/000110465926108565/fencf-20260917xex99d1.htm",
-   "filed_at": "2026-09-17T16:03:17-04:00",
-   "filed_kst": "2026-09-18 05:03",
-   "price": 10.78,
-   "change": 2.18,
-   "detected_at": "2026-09-18T05:37:12+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 10.78,
-     "change": 2.18
-    },
-    {
-     "date": "2026-09-16",
-     "close": 10.55,
-     "change": -0.85
-    },
-    {
-     "date": "2026-09-15",
-     "close": 10.64,
-     "change": -0.75
-    }
-   ],
-   "market_cap": 378023974.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "RESEARCH TRIANGLE PARK, NC",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "shares_outstanding": 35067159.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001193125-26-394363",
-   "company": "Armada Acquisition Corp. II",
-   "ticker": "XRPN",
-   "cik": 2044009,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The closing of the issuance of the Convertible Notes is conditioned upon, and is expected to occur concurrently with, the closing of the previously announced business combination (the “Business Combination”) contemplated by the Business Combination Agreement, dated as of October 19, 2025 (as amended",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526394363/0001193125-26-394363-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526394363/d141989d8k.htm",
-   "filed_at": "2026-09-17T16:15:39-04:00",
-   "filed_kst": "2026-09-18 05:15",
-   "price": 10.53,
-   "change": -0.19,
-   "detected_at": "2026-09-18T05:36:00+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-16",
-     "close": 10.53,
-     "change": -0.19
-    },
-    {
-     "date": "2026-09-15",
-     "close": 10.55,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-14",
-     "close": 10.55,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "CARMANA BAY, GRAND CAYMAN, E9",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "shares_outstanding": null,
    "deal_role": null,
    "is_followup": false
   }
