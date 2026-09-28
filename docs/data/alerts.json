@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-09-28T21:09:41+09:00",
+ "updated_at": "2026-09-28T21:14:53+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-403429",
+   "company": "FATE THERAPEUTICS INC",
+   "ticker": "FATE",
+   "cik": 1434316,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "대형계약"
+   ],
+   "confidence": 71,
+   "summary": "The RECLAIM-LN study was developed through interactions with the FDA under FT819 Regenerative Medicine Advanced Therapy (RMAT) designation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1434316/000119312526403429/0001193125-26-403429-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1434316/000119312526403429/fate-ex99_1.htm",
+   "filed_at": "2026-09-28T08:10:41-04:00",
+   "filed_kst": "2026-09-28 21:10",
+   "price": 2.35,
+   "change": 0.86,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 2.35,
+     "change": 0.86
+    },
+    {
+     "date": "2026-09-24",
+     "close": 2.33,
+     "change": -4.12
+    },
+    {
+     "date": "2026-09-23",
+     "close": 2.43,
+     "change": -5.81
+    }
+   ],
+   "market_cap": 281578208.0,
+   "shares_outstanding": 119820514.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": null,
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-28T21:12:46+09:00"
+  },
   {
    "id": "0001493152-26-044456",
    "company": "Volato Group, Inc.",
@@ -15386,58 +15441,6 @@
     "Large accelerated filer"
    ],
    "shares_outstanding": 13673933.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001213900-26-100998",
-   "company": "PRESIDIO PRODUCTION Co",
-   "ticker": "FTW",
-   "cik": 2083125,
-   "form": "8-K/A",
-   "items": [
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 62,
-   "summary": "), a Delaware corporation (the “Company”) consummated the previously announced business combination (the “Closing”) pursuant to the Business Combination Agreement, dated August 5, 2025 (the “Business Combination Agreement”), by and among EQV Ventures Acquisition Corp.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2083125/000121390026100998/0001213900-26-100998-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2083125/000121390026100998/ea030564101ex99-3.htm",
-   "filed_at": "2026-09-17T16:48:56-04:00",
-   "filed_kst": "2026-09-18 05:48",
-   "price": 10.25,
-   "change": 2.3,
-   "detected_at": "2026-09-18T08:04:50+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 10.25,
-     "change": 2.3
-    },
-    {
-     "date": "2026-09-16",
-     "close": 10.02,
-     "change": -1.86
-    },
-    {
-     "date": "2026-09-15",
-     "close": 10.21,
-     "change": -3.04
-    }
-   ],
-   "market_cap": null,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "PARK CITY, UT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "shares_outstanding": null,
    "deal_role": null,
    "is_followup": false
   }
