@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-09-29T05:49:20+09:00",
+ "updated_at": "2026-09-29T05:54:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-063740",
+   "company": "Camp4 Therapeutics Corp",
+   "ticker": "CAMP",
+   "cik": 1736730,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "The Company is targeting a topline data readout from the ASCEND clinical trial in the first half of 2028.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736730/000162828026063740/0001628280-26-063740-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1736730/000162828026063740/camp-20260928.htm",
+   "filed_at": "2026-09-28T16:47:56-04:00",
+   "filed_kst": "2026-09-29 05:47",
+   "price": 3.85,
+   "change": -1.79,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 3.85,
+     "change": -1.79
+    },
+    {
+     "date": "2026-09-25",
+     "close": 3.92,
+     "change": 2.08
+    },
+    {
+     "date": "2026-09-24",
+     "close": 3.84,
+     "change": 3.23
+    }
+   ],
+   "market_cap": 241599820.0,
+   "shares_outstanding": 62753200.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WATERTOWN, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-29T05:51:11+09:00"
+  },
   {
    "id": "0001213900-26-104086",
    "company": "Marwynn Holdings, Inc.",
@@ -15424,60 +15480,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-19T05:16:32+09:00"
-  },
-  {
-   "id": "0001694028-26-000050",
-   "company": "Liberty Energy Inc.",
-   "ticker": "LBRT",
-   "cik": 1694028,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 66,
-   "summary": "Software License a) All software included with the sale of the Equipment (the “Software” as defined below in Section 18(f)) shall be governed by any license agreement accompanying the sale of the Equipment that may be granted by the original equipment manufacturer (“OEM”) to Buyer or the ultimate en",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1694028/000169402826000050/0001694028-26-000050-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1694028/000169402826000050/a101-jenbachercontract.htm",
-   "filed_at": "2026-09-18T16:14:55-04:00",
-   "filed_kst": "2026-09-19 05:14",
-   "price": 19.33,
-   "change": 1.15,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 19.33,
-     "change": 1.15
-    },
-    {
-     "date": "2026-09-17",
-     "close": 19.11,
-     "change": -0.78
-    },
-    {
-     "date": "2026-09-16",
-     "close": 19.26,
-     "change": -1.08
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Oil & Gas Field Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "DENVER, CO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-19T05:15:42+09:00"
   }
  ]
 }
