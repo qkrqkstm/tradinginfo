@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-09-28T20:44:26+09:00",
+ "updated_at": "2026-09-28T20:50:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001564708-26-000210",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000210/0001564708-26-000210-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000210/appendix3cclassa20260925.htm",
+   "filed_at": "2026-09-28T07:42:24-04:00",
+   "filed_kst": "2026-09-28 20:42",
+   "price": 31.75,
+   "change": 0.6,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 31.75,
+     "change": 0.6
+    },
+    {
+     "date": "2026-09-24",
+     "close": 31.56,
+     "change": 1.09
+    },
+    {
+     "date": "2026-09-23",
+     "close": 31.22,
+     "change": -3.58
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-28T20:46:06+09:00"
+  },
   {
    "id": "0001104659-26-111154",
    "company": "Hut 8 Corp.",
@@ -15394,58 +15447,6 @@
     "Large accelerated filer"
    ],
    "shares_outstanding": 212125434.0,
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001193125-26-394370",
-   "company": "Armada Acquisition Corp. II",
-   "ticker": "XRPN",
-   "cik": 2044009,
-   "form": "425",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The closing of the issuance of the Convertible Notes is conditioned upon, and is expected to occur concurrently with, the closing of the previously announced business combination (the “Business Combination”) contemplated by the Business Combination Agreement, dated as of October 19, 2025 (as amended",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526394370/0001193125-26-394370-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526394370/d141989d425.htm",
-   "filed_at": "2026-09-17T16:18:06-04:00",
-   "filed_kst": "2026-09-18 05:18",
-   "price": 10.53,
-   "change": -0.19,
-   "detected_at": "2026-09-18T05:38:29+09:00",
-   "price_history": [
-    {
-     "date": "2026-09-16",
-     "close": 10.53,
-     "change": -0.19
-    },
-    {
-     "date": "2026-09-15",
-     "close": 10.55,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-14",
-     "close": 10.55,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "CARMANA BAY, GRAND CAYMAN, E9",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "shares_outstanding": null,
    "deal_role": null,
    "is_followup": false
   }
