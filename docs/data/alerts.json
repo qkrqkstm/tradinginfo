@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-29T00:14:31+09:00",
+ "updated_at": "2026-09-29T00:19:50+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-063680",
+   "company": "ERICSSON LM TELEPHONE CO",
+   "ticker": "ERIC",
+   "cik": 717826,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "00 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026 and which runs between April 23, 2026 and March 31, 2027, at the latest.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026063680/0001628280-26-063680-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026063680/sharebuybacksinericssondur.htm",
+   "filed_at": "2026-09-28T11:15:34-04:00",
+   "filed_kst": "2026-09-29 00:15",
+   "price": 9.4,
+   "change": -1.31,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 9.4,
+     "change": -1.31
+    },
+    {
+     "date": "2026-09-25",
+     "close": 9.53,
+     "change": 0.21
+    },
+    {
+     "date": "2026-09-24",
+     "close": 9.51,
+     "change": -2.26
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM SWEDEN, V7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T00:16:57+09:00"
+  },
   {
    "id": "0001129928-26-000057",
    "company": "ONCOLYTICS BIOTECH INC",
@@ -15402,59 +15452,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-18T20:17:33+09:00",
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001628280-26-062616",
-   "company": "CAVA GROUP, INC.",
-   "ticker": "CAVA",
-   "cik": 1639438,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "1 CAVA Announces a $100 Million Share Repurchase Program WASHINGTON, D.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1639438/000162828026062616/0001628280-26-062616-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1639438/000162828026062616/ex991sharebuybackannouncem.htm",
-   "filed_at": "2026-09-18T07:04:41-04:00",
-   "filed_kst": "2026-09-18 20:04",
-   "price": 51.21,
-   "change": 2.91,
-   "price_history": [
-    {
-     "date": "2026-09-17",
-     "close": 51.21,
-     "change": 2.91
-    },
-    {
-     "date": "2026-09-16",
-     "close": 49.76,
-     "change": -0.46
-    },
-    {
-     "date": "2026-09-15",
-     "close": 49.99,
-     "change": -8.93
-    }
-   ],
-   "market_cap": 5981645400.0,
-   "shares_outstanding": 116806198.0,
-   "industry": "Retail-Eating  Places",
-   "state_of_incorporation": "DE",
-   "hq": "WASHINGTON, DC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-18T20:08:55+09:00",
    "deal_role": null,
    "is_followup": false
   }
