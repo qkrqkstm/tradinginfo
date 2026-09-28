@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-09-29T05:54:37+09:00",
+ "updated_at": "2026-09-29T05:59:55+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001423869-26-000031",
+   "company": "PCB BANCORP",
+   "ticker": "PCB",
+   "cik": 1423869,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "On September 28, 2026, PCB Bancorp (the “Company”) issued a press release announcing the approval of a share repurchase program, as described in greater detail in Item 8.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1423869/000142386926000031/0001423869-26-000031-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1423869/000142386926000031/pcb-20260923.htm",
+   "filed_at": "2026-09-28T16:56:15-04:00",
+   "filed_kst": "2026-09-29 05:56",
+   "price": 27.59,
+   "change": -0.43,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 27.59,
+     "change": -0.43
+    },
+    {
+     "date": "2026-09-25",
+     "close": 27.71,
+     "change": 0.62
+    },
+    {
+     "date": "2026-09-24",
+     "close": 27.54,
+     "change": 1.4
+    }
+   ],
+   "market_cap": 387490569.0,
+   "shares_outstanding": 14044602.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-29T05:57:55+09:00"
+  },
   {
    "id": "0001628280-26-063740",
    "company": "Camp4 Therapeutics Corp",
@@ -15426,60 +15481,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-19T05:27:32+09:00"
-  },
-  {
-   "id": "0001493152-26-043349",
-   "company": "Bunker Hill Mining Corp.",
-   "ticker": "BHLL",
-   "cik": 1407583,
-   "form": "8-K",
-   "items": [
-    "2.03",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Ocean Partners Facility Draw On September 16, 2026, the Company drew US$4.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1407583/000149315226043349/0001493152-26-043349-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1407583/000149315226043349/form8-k.htm",
-   "filed_at": "2026-09-18T16:15:21-04:00",
-   "filed_kst": "2026-09-19 05:15",
-   "price": 3.03,
-   "change": 1.0,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 3.03,
-     "change": 1.0
-    },
-    {
-     "date": "2026-09-17",
-     "close": 3.0,
-     "change": 1.35
-    },
-    {
-     "date": "2026-09-16",
-     "close": 2.96,
-     "change": -2.95
-    }
-   ],
-   "market_cap": 143038995.0,
-   "shares_outstanding": 47207589.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "NV",
-   "hq": "KELLOGG, ID",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-19T05:16:32+09:00"
   }
  ]
 }
