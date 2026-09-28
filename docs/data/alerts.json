@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-09-28T21:34:19+09:00",
+ "updated_at": "2026-09-28T21:39:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-103769",
+   "company": "Silicon Valley Acquisition Corp.",
+   "ticker": "SVAQ",
+   "cik": 2085659,
+   "form": "425",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Amendment to the Business Combination Agreement As previously disclosed, on June 17, 2026, Silicon Valley Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026103769/0001213900-26-103769-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026103769/ea0306724-8k425_silicon.htm",
+   "filed_at": "2026-09-28T08:34:58-04:00",
+   "filed_kst": "2026-09-28 21:34",
+   "price": 10.11,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-09-25",
+     "close": 10.11,
+     "change": 0.1
+    },
+    {
+     "date": "2026-09-24",
+     "close": 10.1,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-23",
+     "close": 10.1,
+     "change": -0.2
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-28T21:36:45+09:00"
+  },
   {
    "id": "0001213900-26-103766",
    "company": "Silicon Valley Acquisition Corp.",
@@ -15390,59 +15443,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-18T19:02:03+09:00",
-   "deal_role": null,
-   "is_followup": false
-  },
-  {
-   "id": "0001564708-26-000204",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000204/0001564708-26-000204-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000204/appendix3cclassa20260917.htm",
-   "filed_at": "2026-09-17T18:26:38-04:00",
-   "filed_kst": "2026-09-18 07:26",
-   "price": 33.37,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 33.37,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-17",
-     "close": 33.37,
-     "change": -0.21
-    },
-    {
-     "date": "2026-09-16",
-     "close": 33.44,
-     "change": -1.01
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-18T19:02:01+09:00",
    "deal_role": null,
    "is_followup": false
   }
