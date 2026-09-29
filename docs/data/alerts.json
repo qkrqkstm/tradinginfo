@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-09-30T05:04:41+09:00",
- "count": 294,
+ "updated_at": "2026-09-30T05:09:27+09:00",
+ "count": 297,
  "alerts": [
+  {
+   "id": "0000911147-26-000047",
+   "company": "CENTURY CASINOS INC /CO/",
+   "ticker": "CNTY",
+   "cik": 911147,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "“ Contracts ” means all contracts, leases, deeds, mortgages, licenses, instruments, notes, commitments, undertakings, indentures, joint ventures and all other agreements, commitments and legally binding arrangements, whether written or oral.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000047/0000911147-26-000047-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000047/cnty-20260924xex99_1.htm",
+   "filed_at": "2026-09-29T16:08:01-04:00",
+   "filed_kst": "2026-09-30 05:08",
+   "price": 1.07,
+   "change": 1.9,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 1.07,
+     "change": 1.9
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1.05,
+     "change": -4.55
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1.1,
+     "change": -0.9
+    }
+   ],
+   "market_cap": 30107330.0,
+   "shares_outstanding": 28137692.0,
+   "industry": "Hotels & Motels",
+   "state_of_incorporation": "DE",
+   "hq": "COLORADO SPRINGS, CO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-30T05:08:55+09:00"
+  },
+  {
+   "id": "0001104659-26-111921",
+   "company": "Nyxoah SA",
+   "ticker": "NYXH",
+   "cik": 1857190,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "-focused commercial organization following FDA approval and the launch of Genio in the United States.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926111921/0001104659-26-111921-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926111921/tm2626577d1_ex99-1.htm",
+   "filed_at": "2026-09-29T16:05:06-04:00",
+   "filed_kst": "2026-09-30 05:05",
+   "price": 1.37,
+   "change": -13.84,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 1.37,
+     "change": -13.84
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1.59,
+     "change": 9.66
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1.45,
+     "change": 14.17
+    }
+   ],
+   "market_cap": 58946250.0,
+   "shares_outstanding": 43026460.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Belgium",
+   "hq": "MONT-SAINT-GUIBERT",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-30T05:06:11+09:00"
+  },
+  {
+   "id": "0001213900-26-104648",
+   "company": "Athena Technology Acquisition Corp. II",
+   "ticker": "ATEK",
+   "cik": 1882198,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation (“Ace Green”), entered into a waiver (the “BCA Waiver”) to the Business Combination Agreement, dated as of December 4, 2024, as amended by the First Amendment thereto, dated as of March 19, 2026, and the Second Amendment thereto, dated as of April 18, 2026 (the “BCA”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1882198/000121390026104648/0001213900-26-104648-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1882198/000121390026104648/ea0306930-8k_athena2.htm",
+   "filed_at": "2026-09-29T16:05:24-04:00",
+   "filed_kst": "2026-09-30 05:05",
+   "price": 9.5,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 9.5,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-25",
+     "close": 9.5,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-24",
+     "close": 9.5,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Hazardous Waste Management",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-30T05:06:06+09:00"
+  },
   {
    "id": "0001171843-26-006290",
    "company": "Brainsway Ltd.",
