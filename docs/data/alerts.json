@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-09-29T18:59:26+09:00",
- "count": 264,
+ "updated_at": "2026-09-29T19:04:36+09:00",
+ "count": 266,
  "alerts": [
+  {
+   "id": "0001564708-26-000211",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000211/0001564708-26-000211-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000211/appendix3cclassa20260928.htm",
+   "filed_at": "2026-09-28T19:51:22-04:00",
+   "filed_kst": "2026-09-29 08:51",
+   "price": 32.24,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 32.24,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-28",
+     "close": 32.24,
+     "change": 1.54
+    },
+    {
+     "date": "2026-09-25",
+     "close": 31.75,
+     "change": 0.6
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T19:03:29+09:00"
+  },
+  {
+   "id": "0001493152-26-044685",
+   "company": "NETSOL TECHNOLOGIES INC",
+   "ticker": "NTWK",
+   "cik": 1039280,
+   "form": "8-K",
+   "items": [
+    "2.02"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "1 NETSOL Technologies reports record fiscal 2026 revenue and full-year profitability, exceeding guidance Full-year revenue rises 12.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1039280/000149315226044685/0001493152-26-044685-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1039280/000149315226044685/ex99-1.htm",
+   "filed_at": "2026-09-28T19:18:56-04:00",
+   "filed_kst": "2026-09-29 08:18",
+   "price": 5.37,
+   "change": 9.59,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 5.37,
+     "change": 9.59
+    },
+    {
+     "date": "2026-09-25",
+     "close": 4.9,
+     "change": 3.16
+    },
+    {
+     "date": "2026-09-24",
+     "close": 4.75,
+     "change": 6.5
+    }
+   ],
+   "market_cap": 64185290.0,
+   "shares_outstanding": 11952568.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "NV",
+   "hq": "ENCINO,, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-29T19:02:56+09:00"
+  },
   {
    "id": "0001936224-26-000010",
    "company": "SURF AIR MOBILITY INC.",
