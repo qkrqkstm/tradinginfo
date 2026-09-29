@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-09-29T19:29:31+09:00",
- "count": 272,
+ "updated_at": "2026-09-29T19:34:44+09:00",
+ "count": 273,
  "alerts": [
+  {
+   "id": "0001654954-26-008613",
+   "company": "Wise Group plc",
+   "ticker": "WSE",
+   "cik": 2099039,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "3700 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/0001654954-26-008613-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/a6551w.htm",
+   "filed_at": "2026-09-29T06:30:39-04:00",
+   "filed_kst": "2026-09-29 19:30",
+   "price": 11.5,
+   "change": -0.43,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 11.5,
+     "change": -0.43
+    },
+    {
+     "date": "2026-09-25",
+     "close": 11.55,
+     "change": 2.21
+    },
+    {
+     "date": "2026-09-24",
+     "close": 11.3,
+     "change": -0.44
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Jersey",
+   "hq": "LONDON",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-09-29T19:31:09+09:00"
+  },
   {
    "id": "0001214659-26-012121",
    "company": "VerifyMe, Inc.",
