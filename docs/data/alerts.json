@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-09-30T06:19:06+09:00",
+ "updated_at": "2026-09-30T06:24:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-407823",
+   "company": "Tectonic Therapeutic, Inc.",
+   "ticker": "TECX",
+   "cik": 1681087,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "FDA has granted Fast Track designation for TX2100 in HHT and cleared the Investigational New Drug (IND) application for the TX2100 Phase 1b clinical trial in HHT patients in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1681087/000119312526407823/0001193125-26-407823-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681087/000119312526407823/d20857dex991.htm",
+   "filed_at": "2026-09-29T17:19:22-04:00",
+   "filed_kst": "2026-09-30 06:19",
+   "price": 23.34,
+   "change": -0.72,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 23.34,
+     "change": -0.72
+    },
+    {
+     "date": "2026-09-28",
+     "close": 23.51,
+     "change": -0.68
+    },
+    {
+     "date": "2026-09-25",
+     "close": 23.67,
+     "change": -1.87
+    }
+   ],
+   "market_cap": 456282202.0,
+   "shares_outstanding": 19549366.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "NY",
+   "hq": "WATERTOWN, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-30T06:20:28+09:00"
+  },
   {
    "id": "0001628280-26-063850",
    "company": "MongoDB, Inc.",
@@ -15485,57 +15540,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-21T21:01:54+09:00"
-  },
-  {
-   "id": "0001213900-26-101651",
-   "company": "Priority Technology Holdings, Inc.",
-   "ticker": "PRTH",
-   "cik": 1653558,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The all-cash transaction represents an enterprise value of approximately $1.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/0001213900-26-101651-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/ea030604701ex99-3.htm",
-   "filed_at": "2026-09-21T07:40:34-04:00",
-   "filed_kst": "2026-09-21 20:40",
-   "price": 5.83,
-   "change": -2.02,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 5.83,
-     "change": -2.02
-    },
-    {
-     "date": "2026-09-17",
-     "close": 5.95,
-     "change": 1.02
-    },
-    {
-     "date": "2026-09-16",
-     "close": 5.89,
-     "change": -2.0
-    }
-   ],
-   "market_cap": 480627369.0,
-   "shares_outstanding": 82440372.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "ALPHARETTA, GA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-21T20:41:36+09:00"
   }
  ]
 }
