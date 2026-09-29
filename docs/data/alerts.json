@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-09-30T05:19:11+09:00",
+ "updated_at": "2026-09-30T05:24:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-407555",
+   "company": "Lexeo Therapeutics, Inc.",
+   "ticker": "LXEO",
+   "cik": 1907108,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "3.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(“ Mantle ”), pursuant to the Agreement and Plan of Merger dated September 16, 2026 (the “ Merger Agreement ”) by and among the Company, Mantle and Magma Merger Sub Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1907108/000119312526407555/0001193125-26-407555-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1907108/000119312526407555/lxeo-20260929.htm",
+   "filed_at": "2026-09-29T16:20:33-04:00",
+   "filed_kst": "2026-09-30 05:20",
+   "price": 3.42,
+   "change": 8.92,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 3.42,
+     "change": 8.92
+    },
+    {
+     "date": "2026-09-28",
+     "close": 3.14,
+     "change": -5.14
+    },
+    {
+     "date": "2026-09-25",
+     "close": 3.31,
+     "change": -2.36
+    }
+   ],
+   "market_cap": 280598192.0,
+   "shares_outstanding": 82046255.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-30T05:21:07+09:00"
+  },
   {
    "id": "0001104659-26-111932",
    "company": "Bluerock Acquisition Corp. II",
@@ -15449,56 +15503,6 @@
    "hq": "TAOYUAN CITY",
    "entity_category": null,
    "detected_at": "2026-09-19T06:13:20+09:00"
-  },
-  {
-   "id": "0001213900-26-099464",
-   "company": "Onconetix, Inc.",
-   "ticker": "ONCO",
-   "cik": 1782107,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "as a lab developed test through its license agreement with Labcorp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026099464/0001213900-26-099464-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026099464/ea0305331-425_onconetix.htm",
-   "filed_at": "2026-09-14T08:31:01-04:00",
-   "filed_kst": "2026-09-14 21:31",
-   "price": 0.64,
-   "change": -3.77,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 0.64,
-     "change": -3.77
-    },
-    {
-     "date": "2026-09-17",
-     "close": 0.66,
-     "change": 0.15
-    },
-    {
-     "date": "2026-09-16",
-     "close": 0.66,
-     "change": 2.79
-    }
-   ],
-   "market_cap": 2527428.0,
-   "shares_outstanding": 3949107.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CINCINNATI, OH",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-19T06:13:17+09:00"
   }
  ]
 }
