@@ -1,7 +1,310 @@
 {
- "updated_at": "2026-09-29T19:04:36+09:00",
- "count": 266,
+ "updated_at": "2026-09-29T19:09:58+09:00",
+ "count": 272,
  "alerts": [
+  {
+   "id": "0001214659-26-012121",
+   "company": "VerifyMe, Inc.",
+   "ticker": "VRME",
+   "cik": 1104038,
+   "form": "425",
+   "items": [
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Nevada corporation (the “Company,” “VerifyMe,” “we” or “us”) entered into an Agreement and Plan of Merger (as subsequently amended, the “Merger Agreement”) with VRME Subsidiary Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012121/0001214659-26-012121-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012121/vm928261425.htm",
+   "filed_at": "2026-09-28T21:36:39-04:00",
+   "filed_kst": "2026-09-29 10:36",
+   "price": 0.99,
+   "change": 3.14,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 0.99,
+     "change": 3.14
+    },
+    {
+     "date": "2026-09-25",
+     "close": 0.96,
+     "change": -17.96
+    },
+    {
+     "date": "2026-09-24",
+     "close": 1.17,
+     "change": 1.74
+    }
+   ],
+   "market_cap": 13033544.0,
+   "shares_outstanding": 13165196.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "NV",
+   "hq": "LAKE MARY, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-29T19:06:22+09:00"
+  },
+  {
+   "id": "0001648257-26-000061",
+   "company": "HUTCHMED (China) Ltd",
+   "ticker": "HCM",
+   "cik": 1648257,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "​ On September 3, 2026, HUTCHMED Limited (a subsidiary of the Company) entered into an exclusive development and license agreement with a subsidiary of GSK plc (“GSK”), granting the GSK subsidiary worldwide rights excluding Mainland China, Hong Kong, Macau and Taiwan to develop and commercialize HMP",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000061/0001648257-26-000061-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000061/hcm-ex99d1.htm",
+   "filed_at": "2026-09-28T21:26:06-04:00",
+   "filed_kst": "2026-09-29 10:26",
+   "price": 14.13,
+   "change": 1.36,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 14.13,
+     "change": 1.36
+    },
+    {
+     "date": "2026-09-25",
+     "close": 13.94,
+     "change": 0.29
+    },
+    {
+     "date": "2026-09-24",
+     "close": 13.9,
+     "change": -3.27
+    }
+   ],
+   "market_cap": 12325989271.0,
+   "shares_outstanding": 872327620.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HONG KONG",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T19:06:20+09:00"
+  },
+  {
+   "id": "0001193125-26-405895",
+   "company": "SUMITOMO MITSUI FINANCIAL GROUP, INC.",
+   "ticker": "SMFG",
+   "cik": 1022837,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "6-K 1 d158850d6k.htm FORM 6-K Form 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of September 2026 Commission File Number 001-34919 SUMITO",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022837/000119312526405895/0001193125-26-405895-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1022837/000119312526405895/d158850d6k.htm",
+   "filed_at": "2026-09-29T06:01:22-04:00",
+   "filed_kst": "2026-09-29 19:01",
+   "price": 26.43,
+   "change": -0.68,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 26.43,
+     "change": -0.68
+    },
+    {
+     "date": "2026-09-25",
+     "close": 26.61,
+     "change": 4.31
+    },
+    {
+     "date": "2026-09-24",
+     "close": 25.51,
+     "change": -1.32
+    }
+   ],
+   "market_cap": 101160775840.0,
+   "shares_outstanding": 3827498140.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Japan",
+   "hq": "TOKYO, M0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T19:06:19+09:00"
+  },
+  {
+   "id": "0001104659-26-111508",
+   "company": "Evotec SE",
+   "ticker": "EVO",
+   "cik": 1412558,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Our offerings range from standalone services to fully integrated R&D programs and long-term strategic partnerships, combining scientific excellence with operational agility.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1412558/000110465926111508/0001104659-26-111508-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1412558/000110465926111508/tm2626558d1_ex99-1.htm",
+   "filed_at": "2026-09-29T06:01:42-04:00",
+   "filed_kst": "2026-09-29 19:01",
+   "price": 1.59,
+   "change": 1.92,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 1.59,
+     "change": 1.92
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1.56,
+     "change": 1.96
+    },
+    {
+     "date": "2026-09-24",
+     "close": 1.53,
+     "change": -0.65
+    }
+   ],
+   "market_cap": 282668462.0,
+   "shares_outstanding": 177778907.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Germany",
+   "hq": "HAMBURG",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T19:06:18+09:00"
+  },
+  {
+   "id": "0001104659-26-111514",
+   "company": "Sangoma Technologies Corp",
+   "ticker": "SANG",
+   "cik": 1753368,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "1 Sangoma Technologies Corporation Enters into Definitive Agreement to be Acquired by BRC Group Holdings, Inc.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/0001104659-26-111514-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/tm2626529d1_ex99-1.htm",
+   "filed_at": "2026-09-29T06:03:21-04:00",
+   "filed_kst": "2026-09-29 19:03",
+   "price": 3.59,
+   "change": 1.13,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 3.59,
+     "change": 1.13
+    },
+    {
+     "date": "2026-09-25",
+     "close": 3.55,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-24",
+     "close": 3.55,
+     "change": 0.57
+    }
+   ],
+   "market_cap": 119686766.0,
+   "shares_outstanding": 33338932.0,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "MARKHAM, A6",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-29T19:06:15+09:00"
+  },
+  {
+   "id": "0001648257-26-000064",
+   "company": "HUTCHMED (China) Ltd",
+   "ticker": "HCM",
+   "cik": 1648257,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 64,
+   "summary": "EX-99.1 2 hcm-ex99d1.htm EX-99.1 Exhibit 99.1 ​ ​ Press Release HUTCHMED Announces Submission of US NDA for ORPATHYS ® plus TAGRISSO ® in MET-Driven EGFR-Mutated Lung Cancer ​ — Filing seeks approval for a biomarker-directed, all-oral treatment option for patients whose tumors have MET overexpressio",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000064/0001648257-26-000064-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000064/hcm-ex99d1.htm",
+   "filed_at": "2026-09-29T06:03:35-04:00",
+   "filed_kst": "2026-09-29 19:03",
+   "price": 14.13,
+   "change": 1.36,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 14.13,
+     "change": 1.36
+    },
+    {
+     "date": "2026-09-25",
+     "close": 13.94,
+     "change": 0.29
+    },
+    {
+     "date": "2026-09-24",
+     "close": 13.9,
+     "change": -3.27
+    }
+   ],
+   "market_cap": 12325989271.0,
+   "shares_outstanding": 872327620.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HONG KONG",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T19:06:13+09:00"
+  },
   {
    "id": "0001564708-26-000211",
    "company": "NEWS CORP",
