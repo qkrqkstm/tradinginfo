@@ -1,7 +1,153 @@
 {
- "updated_at": "2026-09-30T05:09:27+09:00",
- "count": 297,
+ "updated_at": "2026-09-30T05:14:26+09:00",
+ "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-111932",
+   "company": "Bluerock Acquisition Corp. II",
+   "ticker": "BRRK",
+   "cik": 2098410,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.2 13 tm2532616d19_ex99-2.htm EXHIBIT 99.2 Exhibit 99.2 Bluerock Acquisition Corp. II Announces Closing of $172.5 Million Initial Public Offering Including Exercise of Underwriter’s Over-Allotment Option in Full NEWS PROVIDED BY Bluerock Acquisition Corp. II Sep 28, 2026, 13:36 ET NEW YORK, Sep",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2098410/000110465926111932/0001104659-26-111932-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2098410/000110465926111932/tm2532616d19_ex99-2.htm",
+   "filed_at": "2026-09-29T16:11:53-04:00",
+   "filed_kst": "2026-09-30 05:11",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-30T05:12:50+09:00"
+  },
+  {
+   "id": "0001803599-26-000147",
+   "company": "Concentrix Corp",
+   "ticker": "CNXC",
+   "cik": 1803599,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 70,
+   "summary": "\" Quarterly Dividend and Share Repurchase Program: • The Company paid a $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1803599/000180359926000147/0001803599-26-000147-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1803599/000180359926000147/exhibit991q32026.htm",
+   "filed_at": "2026-09-29T16:10:45-04:00",
+   "filed_kst": "2026-09-30 05:10",
+   "price": 24.88,
+   "change": -2.24,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 24.88,
+     "change": -2.24
+    },
+    {
+     "date": "2026-09-28",
+     "close": 25.45,
+     "change": -6.02
+    },
+    {
+     "date": "2026-09-25",
+     "close": 27.08,
+     "change": -7.86
+    }
+   ],
+   "market_cap": 1518136548.0,
+   "shares_outstanding": 61018350.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "NEWARK, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T05:11:43+09:00"
+  },
+  {
+   "id": "0001818794-26-000009",
+   "company": "Dyne Therapeutics, Inc.",
+   "ticker": "DYN",
+   "cik": 1818794,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "Z-basivarsen has been granted Breakthrough Therapy, Orphan Drug and Fast Track designations by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/0001818794-26-000009-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-ex99_1.htm",
+   "filed_at": "2026-09-29T16:10:18-04:00",
+   "filed_kst": "2026-09-30 05:10",
+   "price": 16.21,
+   "change": -0.8,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 16.21,
+     "change": -0.8
+    },
+    {
+     "date": "2026-09-28",
+     "close": 16.34,
+     "change": 1.93
+    },
+    {
+     "date": "2026-09-25",
+     "close": 16.03,
+     "change": -2.91
+    }
+   ],
+   "market_cap": 3027159647.0,
+   "shares_outstanding": 186746431.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WALTHAM, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T05:11:08+09:00"
+  },
   {
    "id": "0000911147-26-000047",
    "company": "CENTURY CASINOS INC /CO/",
