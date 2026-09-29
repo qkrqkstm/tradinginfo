@@ -1,7 +1,165 @@
 {
- "updated_at": "2026-09-29T20:04:26+09:00",
- "count": 274,
+ "updated_at": "2026-09-29T20:10:20+09:00",
+ "count": 277,
  "alerts": [
+  {
+   "id": "0001674335-26-000126",
+   "company": "JELD-WEN Holding, Inc.",
+   "ticker": "JELD",
+   "cik": 1674335,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "875% Senior Notes due 2027 (the “2027 Notes”) and its 2028 term loans (the “2028 Term Loans”) to 2031 and raise $135 million of new money debt financing.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674335/000167433526000126/0001674335-26-000126-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1674335/000167433526000126/jeld-20260929.htm",
+   "filed_at": "2026-09-29T07:09:35-04:00",
+   "filed_kst": "2026-09-29 20:09",
+   "price": 1.77,
+   "change": -3.8,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 1.77,
+     "change": -3.8
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1.84,
+     "change": 6.98
+    },
+    {
+     "date": "2026-09-24",
+     "close": 1.72,
+     "change": -4.44
+    }
+   ],
+   "market_cap": 153571186.0,
+   "shares_outstanding": 86763382.0,
+   "industry": "Millwood, Veneer, Plywood, & Structural Wood Members",
+   "state_of_incorporation": "DE",
+   "hq": "CHARLOTTE, NC",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-09-29T20:10:19+09:00"
+  },
+  {
+   "id": "0001084869-26-000033",
+   "company": "1 800 FLOWERS COM INC",
+   "ticker": "FLWS",
+   "cik": 1084869,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-2.1 2 exh21assetpurchaseagreement.htm EX-2.1 Document Exhibit 2.1 ASSET PURCHASE AGREEMENT BY AND AMONG 1-800-FLOWERS.COM, INC. 800-FLOWERS, INC. PERSONALIZATIONMALL.COM, LLC PERSONALIZATION UNIVERSE, LLC TR ACQUISITION, LLC AND PLANETART, LLC _______________________ Dated as of September 26, 202",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1084869/000108486926000033/0001084869-26-000033-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1084869/000108486926000033/exh21assetpurchaseagreement.htm",
+   "filed_at": "2026-09-29T07:05:07-04:00",
+   "filed_kst": "2026-09-29 20:05",
+   "price": 2.64,
+   "change": -1.49,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 2.64,
+     "change": -1.49
+    },
+    {
+     "date": "2026-09-25",
+     "close": 2.68,
+     "change": -4.63
+    },
+    {
+     "date": "2026-09-24",
+     "close": 2.81,
+     "change": -0.35
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Retail-Retail Stores, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "JERICHO, NY",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-29T20:06:13+09:00"
+  },
+  {
+   "id": "0001104659-26-111583",
+   "company": "IOVANCE BIOTHERAPEUTICS, INC.",
+   "ticker": "IOVA",
+   "cik": 1425205,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향"
+   ],
+   "confidence": 58,
+   "summary": "1 Iovance Biotherapeutics Raises Full Year 2026 Revenue Guidance to $410 to $420 Million New Guidance Represents an Increase of $55 Million at the Midpoint from the Prior Range of $350 to $370 Million Strong U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926111583/0001104659-26-111583-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926111583/tm2626507d1_ex99-1.htm",
+   "filed_at": "2026-09-29T07:05:31-04:00",
+   "filed_kst": "2026-09-29 20:05",
+   "price": 10.99,
+   "change": -0.09,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 10.99,
+     "change": -0.09
+    },
+    {
+     "date": "2026-09-25",
+     "close": 11.0,
+     "change": 1.85
+    },
+    {
+     "date": "2026-09-24",
+     "close": 10.8,
+     "change": 5.99
+    }
+   ],
+   "market_cap": 4978156038.0,
+   "shares_outstanding": 452971432.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "SAN CARLOS, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-09-29T20:06:12+09:00"
+  },
   {
    "id": "0001493152-26-044761",
    "company": "Immix Biopharma, Inc.",
