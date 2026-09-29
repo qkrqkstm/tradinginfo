@@ -263,6 +263,30 @@ def strip_boilerplate(text: str) -> str:
     return "\n\n".join(trimmed)
 
 
+# 계약서의 "Person"/"Subsidiary" 정의 조항, 정관·설립증서, 면책·해지 조항 등은
+# 법률 용어를 쭉 나열하는 과정에서 "joint venture"를 언급하는 경우가 많다.
+# 실제 제휴 소식이 아니라 이런 나열문 안에서만 등장하는 joint venture는
+# 앞뒤 문맥에 유사한 법률 entity 용어가 2개 이상 몰려 있는지로 판별해 마스킹한다.
+ENTITY_ENUM_RE = re.compile(
+    r"\b(corporations?|partnerships?|trusts?|associations?|firms?|foundations?|compan(?:y|ies)|"
+    r"subsidiar(?:y|ies)|affiliates?|successors?|predecessors?|"
+    r"limited\s+liability\s+compan(?:y|ies)|joint-stock\s+compan(?:y|ies)|governmental\s+(?:entity|entities|authority)|"
+    r"unincorporated\s+(?:organizations?|associations?)|employee\s+benefit\s+plans?|natural\s+persons?)\b",
+    re.I,
+)
+JV_RE = re.compile(r"joint\s+ventures?\b", re.I)
+
+
+def mask_legal_enumeration(text: str) -> str:
+    def repl(m: re.Match) -> str:
+        window = text[max(0, m.start() - 90) : m.end() + 90]
+        if len(ENTITY_ENUM_RE.findall(window)) >= 2:
+            return "[LEGAL-ENTITY-LIST]"
+        return m.group(0)
+
+    return JV_RE.sub(repl, text)
+
+
 # 하드 네거티브: 하나라도 걸리면 무조건 제외 (악재를 호재로 오탐하는 케이스 차단)
 HARD_NEGATIVE = [
     r"did\s+not\s+meet\s+(its|the)\s+primary\s+endpoint",
@@ -289,6 +313,12 @@ HARD_NEGATIVE = [
     r"does\s+not\s+have\s+any\s+commitment\s+to\s+become\s+a\s+party\s+to,?\s+any)\s+joint\s+venture",
     r"capital\s+stock\s+of\s+(a|any)\s+joint\s+venture\s+that\s+does\s+not\s+constitute\s+a\s+subsidiary",
     r"minority\s+interest\s+holders?\s+in\s+any\s+subsidiary\s+or\s+joint\s+venture",
+    # 퇴직·해임 합의서의 상호 면책 조항, SEC 서식 안내문, 계약서 잡조항 등에서
+    # partnership/joint venture가 뉴스와 무관하게 언급되는 사례.
+    r"partner,\s*joint\s+venturer,\s*employee,\s*agent,\s*consultant",
+    r"finder'?s\s+fees,\s*joint\s+ventures,\s*loan\s+or\s+option\s+arrangements",
+    r"lend,?\s+contribute\s+or\s+otherwise\s+make\s+available\s+(such\s+)?proceeds\s+to\s+any\s+(subsidiary|joint\s+venture)",
+    r"license\s+agreement\s+accompanying\s+the\s+sale\s+of\s+the\s+equipment",
 ]
 
 # 소프트 네거티브: 걸리면 감점 (촉매 근거가 2개 이상이면 통과)
@@ -614,6 +644,8 @@ def classify(text: str) -> dict | None:
     if not text or len(text) < 120:
         return None
 
+    text = mask_legal_enumeration(text)
+
     for rx in HARD_RE:
         m = rx.search(text)
         if m:
@@ -876,6 +908,13 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             log(f"  ✗ {f['company'][:30]} — 네거티브 필터({result['reason'][:40]})")
             continue
 
+        items = extract_items(text)
+        if items and set(items) <= {"5.02", "9.01"}:
+            # Item 5.02(임원변동)만 있는 공시는 새로 오는/나가는 임원의 약력 소개문에
+            # 과거 M&A·파트너십·펀드 운용 경력이 우연히 섞여 나와 오탐하는 경우가 많다.
+            log(f"  · {f['company'][:30]} — 임원변동(5.02)만 있는 공시, 스킵")
+            continue
+
         ticker, title = tickers.get(f["cik"], ("", f["company"]))
         if not ticker and cfg.get("require_ticker", True):
             # 상장 티커가 없는 곳(비상장 리츠, 자산유동화 트러스트, 사모 펀드 LLC 등)은
@@ -893,7 +932,7 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             "ticker": ticker,
             "cik": f["cik"],
             "form": f["form"],
-            "items": extract_items(text),
+            "items": items,
             "primary": result["primary"],
             "primary_key": result["primary_key"],
             "emoji": result["emoji"],
