@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-30T06:14:37+09:00",
+ "updated_at": "2026-09-30T06:19:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-063850",
+   "company": "MongoDB, Inc.",
+   "ticker": "MDB",
+   "cik": 1441816,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "0 billion in repurchases under the Company’s existing share repurchase program, bringing the aggregate authorized repurchase amount to $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026063850/0001628280-26-063850-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026063850/publishablecopy-mongodbi.htm",
+   "filed_at": "2026-09-29T17:15:25-04:00",
+   "filed_kst": "2026-09-30 06:15",
+   "price": 337.19,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 337.19,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-29",
+     "close": 337.19,
+     "change": 0.75
+    },
+    {
+     "date": "2026-09-28",
+     "close": 334.68,
+     "change": -18.46
+    }
+   ],
+   "market_cap": 27162792622.0,
+   "shares_outstanding": 80556341.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T06:16:31+09:00"
+  },
   {
    "id": "0001622536-26-000074",
    "company": "Talen Energy Corp",
@@ -15486,56 +15536,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-21T20:41:36+09:00"
-  },
-  {
-   "id": "0001654954-26-008478",
-   "company": "ASTRAZENECA PLC",
-   "ticker": "AZN",
-   "cik": 901832,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "6-K 1 a4455v.htm KLYGEFA RECOMMENDED FOR EU APPROVAL BY CHMP a4455v FORM 6-K SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Report of Foreign Issuer Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 For the month of September 2026 Commission File Number: 001-11960 A",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426008478/0001654954-26-008478-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426008478/a4455v.htm",
-   "filed_at": "2026-09-21T07:04:32-04:00",
-   "filed_kst": "2026-09-21 20:04",
-   "price": 166.08,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 166.08,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-18",
-     "close": 166.08,
-     "change": -0.04
-    },
-    {
-     "date": "2026-09-17",
-     "close": 166.14,
-     "change": 2.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "CAMBRIDGE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-21T20:05:32+09:00"
   }
  ]
 }
