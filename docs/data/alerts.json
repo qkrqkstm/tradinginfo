@@ -1,7 +1,64 @@
 {
- "updated_at": "2026-09-29T19:55:32+09:00",
- "count": 273,
+ "updated_at": "2026-09-29T20:04:26+09:00",
+ "count": 274,
  "alerts": [
+  {
+   "id": "0001493152-26-044761",
+   "company": "Immix Biopharma, Inc.",
+   "ticker": "IMMX",
+   "cik": 1873835,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 84,
+   "summary": "NXC-201 has been awarded Breakthrough Therapy Designation (BTD) and Regenerative Medicine Advanced Therapy (RMAT) by the FDA, and Orphan Drug Designation (ODD) by the US FDA and in the EU by the EMA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226044761/0001493152-26-044761-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226044761/ex99-1.htm",
+   "filed_at": "2026-09-29T07:00:21-04:00",
+   "filed_kst": "2026-09-29 20:00",
+   "price": 11.47,
+   "change": 4.56,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 11.47,
+     "change": 4.56
+    },
+    {
+     "date": "2026-09-25",
+     "close": 10.97,
+     "change": -6.24
+    },
+    {
+     "date": "2026-09-24",
+     "close": 11.7,
+     "change": -1.85
+    }
+   ],
+   "market_cap": 820555932.0,
+   "shares_outstanding": 71539314.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-29T20:01:21+09:00"
+  },
   {
    "id": "0001654954-26-008613",
    "company": "Wise Group plc",
