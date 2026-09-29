@@ -909,7 +909,7 @@ def run_cycle(edgar: Edgar, tg: Telegram, state: dict, cfg: dict) -> int:
             continue
 
         items = extract_items(text)
-        if items and set(items) <= {"5.02", "9.01"}:
+        if "5.02" in items and set(items) <= {"5.02", "9.01"}:
             # Item 5.02(임원변동)만 있는 공시는 새로 오는/나가는 임원의 약력 소개문에
             # 과거 M&A·파트너십·펀드 운용 경력이 우연히 섞여 나와 오탐하는 경우가 많다.
             log(f"  · {f['company'][:30]} — 임원변동(5.02)만 있는 공시, 스킵")
