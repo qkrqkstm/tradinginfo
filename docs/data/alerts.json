@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-09-30T05:49:10+09:00",
+ "updated_at": "2026-09-30T05:54:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002066824-26-000020",
+   "company": "VanEck BNB ETF",
+   "ticker": "VBNB",
+   "cik": 2066824,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Nothing in this Agreement shall be deemed or is intended to be deemed, nor shall it cause, Client and Custodian to be treated as partners, joint ventures, or otherwise as joint associates for profit, or either Client or Custodian to be treated as the agent of the other.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2066824/000206682426000020/0002066824-26-000020-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2066824/000206682426000020/bitgocustodystakingexhib.htm",
+   "filed_at": "2026-09-29T16:50:42-04:00",
+   "filed_kst": "2026-09-30 05:50",
+   "price": 29.3,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 29.3,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-29",
+     "close": 29.3,
+     "change": -0.96
+    },
+    {
+     "date": "2026-09-28",
+     "close": 29.58,
+     "change": -1.73
+    }
+   ],
+   "market_cap": 2637000.0,
+   "shares_outstanding": 90000.0,
+   "industry": "Commodity Contracts Brokers & Dealers",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-30T05:51:35+09:00"
+  },
   {
    "id": "0001193125-26-407696",
    "company": "Phathom Pharmaceuticals, Inc.",
@@ -15483,56 +15535,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-21T19:06:44+09:00"
-  },
-  {
-   "id": "0000895345-26-000433",
-   "company": "GRUPO TELEVISA, S.A.B.",
-   "ticker": "TV",
-   "cik": 912892,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Additionally, the Company is not aware of any transaction in the Company’s CPOs carried out by any member of its Board of Directors or any of its Relevant Officers, and it did not carry out transactions under its share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000433/0000895345-26-000433-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000433/ff6844298_6kshort-grupo.htm",
-   "filed_at": "2026-09-21T06:00:35-04:00",
-   "filed_kst": "2026-09-21 19:00",
-   "price": 2.35,
-   "change": 0.43,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 2.35,
-     "change": 0.43
-    },
-    {
-     "date": "2026-09-17",
-     "close": 2.34,
-     "change": 6.85
-    },
-    {
-     "date": "2026-09-16",
-     "close": 2.19,
-     "change": -2.67
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": null,
-   "hq": "MEXICO, D.F.",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-21T19:03:04+09:00"
   }
  ]
 }
