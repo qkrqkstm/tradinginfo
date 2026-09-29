@@ -1,7 +1,270 @@
 {
- "updated_at": "2026-09-29T20:59:30+09:00",
- "count": 280,
+ "updated_at": "2026-09-29T21:04:36+09:00",
+ "count": 285,
  "alerts": [
+  {
+   "id": "0001664710-26-000059",
+   "company": "Keros Therapeutics, Inc.",
+   "ticker": "KROS",
+   "cik": 1664710,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(the “Company”) issued a press release announcing that it will receive a $20 million development milestone payment under the terms of the license agreement of elritercept with partner Takeda Pharmaceuticals U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/0001664710-26-000059-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/kros-20260929.htm",
+   "filed_at": "2026-09-29T08:01:22-04:00",
+   "filed_kst": "2026-09-29 21:01",
+   "price": 11.28,
+   "change": -2.93,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 11.28,
+     "change": -2.93
+    },
+    {
+     "date": "2026-09-25",
+     "close": 11.62,
+     "change": 0.61
+    },
+    {
+     "date": "2026-09-24",
+     "close": 11.55,
+     "change": -0.69
+    }
+   ],
+   "market_cap": 223650681.0,
+   "shares_outstanding": 19827188.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "LEXINGTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-29T21:02:02+09:00"
+  },
+  {
+   "id": "0001104659-26-111605",
+   "company": "MINISO Group Holding Ltd",
+   "ticker": "MNSO",
+   "cik": 1815846,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Remarks: The Company repurchased 1,247,600 ordinary shares on the Hong Kong Stock Exchange on September 28, 2026, of which 100,000 ordinary shares were repurchased pursuant to a Hong Kong automatic share repurchase plan entered by the Company.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926111605/0001104659-26-111605-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926111605/tm2626467d1_ex99-9.htm",
+   "filed_at": "2026-09-29T08:00:26-04:00",
+   "filed_kst": "2026-09-29 21:00",
+   "price": 8.91,
+   "change": 1.48,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 8.91,
+     "change": 1.48
+    },
+    {
+     "date": "2026-09-25",
+     "close": 8.78,
+     "change": -1.68
+    },
+    {
+     "date": "2026-09-24",
+     "close": 8.93,
+     "change": -0.56
+    }
+   ],
+   "market_cap": 11026696817.0,
+   "shares_outstanding": 1237564177.0,
+   "industry": "Retail-Variety Stores",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GUANGDONG PROVINCE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T21:01:30+09:00"
+  },
+  {
+   "id": "0001213900-26-104317",
+   "company": "Allarity Therapeutics, Inc.",
+   "ticker": "ALLR",
+   "cik": 1860657,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "The amended protocol enrolls only platinum-resistant or platinum-ineligible patients and is designed to advance the clinical development of stenoparib toward potential FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1860657/000121390026104317/0001213900-26-104317-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1860657/000121390026104317/ea030687301ex99-1.htm",
+   "filed_at": "2026-09-29T08:00:30-04:00",
+   "filed_kst": "2026-09-29 21:00",
+   "price": 0.97,
+   "change": -6.02,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 0.97,
+     "change": -6.02
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1.03,
+     "change": -5.5
+    },
+    {
+     "date": "2026-09-24",
+     "close": 1.09,
+     "change": 4.81
+    }
+   ],
+   "market_cap": 15433402.0,
+   "shares_outstanding": 15910724.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-29T21:01:28+09:00"
+  },
+  {
+   "id": "0001193125-26-406037",
+   "company": "TransDigm Group INC",
+   "ticker": "TDG",
+   "cik": 1260221,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 73,
+   "summary": "“ Esterline Acquisition Agreement ” means the agreement and plan of merger dated as of October 9, 2018, as amended, by and among Esterline Technologies Corporation, a Delaware corporation, the Company and Thunderbird Merger Sub Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312526406037/0001193125-26-406037-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312526406037/d317756dex41.htm",
+   "filed_at": "2026-09-29T08:00:07-04:00",
+   "filed_kst": "2026-09-29 21:00",
+   "price": 1109.22,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 1109.22,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1109.22,
+     "change": -0.63
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1116.2,
+     "change": 0.99
+    }
+   ],
+   "market_cap": 61313827060.0,
+   "shares_outstanding": 55276525.0,
+   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "CLEVELAND, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-29T21:00:52+09:00"
+  },
+  {
+   "id": "0001193125-26-406036",
+   "company": "ATOSSA THERAPEUTICS, INC.",
+   "ticker": "ATOS",
+   "cik": 1488039,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "1 Atossa Therapeutics Announces Plan to Issue Stapled CVR for Shareholders Tied to Potential Rare Pediatric Disease Priority Review Voucher Shareholders would receive one CVR for each ATOS share held as of the record date or issued thereafter CVRs would entitle holders to 25% of net proceeds from mo",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1488039/000119312526406036/0001193125-26-406036-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1488039/000119312526406036/atos-ex99_1.htm",
+   "filed_at": "2026-09-29T08:00:13-04:00",
+   "filed_kst": "2026-09-29 21:00",
+   "price": 1.96,
+   "change": 3.16,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 1.96,
+     "change": 3.16
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1.9,
+     "change": -7.32
+    },
+    {
+     "date": "2026-09-24",
+     "close": 2.05,
+     "change": -5.96
+    }
+   ],
+   "market_cap": 19559424.0,
+   "shares_outstanding": 9979298.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SEATTLE, WA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-29T21:00:50+09:00"
+  },
   {
    "id": "0001493152-26-044777",
    "company": "Almonty Industries Inc.",
