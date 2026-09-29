@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-09-29T20:24:35+09:00",
- "count": 277,
+ "updated_at": "2026-09-29T20:29:30+09:00",
+ "count": 278,
  "alerts": [
+  {
+   "id": "0001193125-26-406007",
+   "company": "Invivyd, Inc.",
+   "ticker": "IVVD",
+   "cik": 1832038,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "VYD2311 leverages the same antibody backbone as pemivibart, Invivyd’s investigational mAb granted emergency use authorization in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526406007/0001193125-26-406007-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526406007/ivvd-ex99_1.htm",
+   "filed_at": "2026-09-29T07:26:46-04:00",
+   "filed_kst": "2026-09-29 20:26",
+   "price": 0.95,
+   "change": 1.71,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 0.95,
+     "change": 1.71
+    },
+    {
+     "date": "2026-09-25",
+     "close": 0.93,
+     "change": 2.3
+    },
+    {
+     "date": "2026-09-24",
+     "close": 0.91,
+     "change": -1.08
+    }
+   ],
+   "market_cap": 280020809.0,
+   "shares_outstanding": 294758746.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "NEW HAVEN, CT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-29T20:27:58+09:00"
+  },
   {
    "id": "0001674335-26-000126",
    "company": "JELD-WEN Holding, Inc.",
