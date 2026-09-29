@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-09-29T20:34:42+09:00",
- "count": 279,
+ "updated_at": "2026-09-29T20:39:32+09:00",
+ "count": 280,
  "alerts": [
+  {
+   "id": "0001493152-26-044777",
+   "company": "Almonty Industries Inc.",
+   "ticker": "ALM",
+   "cik": 1670061,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "임상통과"
+   ],
+   "confidence": 85,
+   "summary": "The same partner that helped bring Phase 1 to life will now help build its successor.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1670061/000149315226044777/0001493152-26-044777-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1670061/000149315226044777/ex99-1.htm",
+   "filed_at": "2026-09-29T07:35:18-04:00",
+   "filed_kst": "2026-09-29 20:35",
+   "price": 13.21,
+   "change": -3.72,
+   "price_history": [
+    {
+     "date": "2026-09-28",
+     "close": 13.21,
+     "change": -3.72
+    },
+    {
+     "date": "2026-09-25",
+     "close": 13.72,
+     "change": 10.65
+    },
+    {
+     "date": "2026-09-24",
+     "close": 12.4,
+     "change": -8.96
+    }
+   ],
+   "market_cap": 3471273972.0,
+   "shares_outstanding": 262776228.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "Canada (Federal Level)",
+   "hq": "DILLON, MT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-29T20:35:56+09:00"
+  },
   {
    "id": "0001453687-26-000105",
    "company": "Cartesian Therapeutics, Inc.",
