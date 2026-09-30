@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-09-30T21:19:34+09:00",
+ "updated_at": "2026-09-30T21:24:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950103-26-014831",
+   "company": "Integer Holdings Corp",
+   "ticker": "ITGR",
+   "cik": 1114483,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "As previously announced on August 3, 2026, Integer and KKR entered into a definitive merger agreement dated as of August 2, 2026 (the “Merger Agreement”) pursuant to which an affiliate of KKR will acquire all of the outstanding shares of Integer for $127 per share in cash (the “Transaction”).",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1114483/000095010326014831/0000950103-26-014831-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1114483/000095010326014831/dp254070_ex9901.htm",
+   "filed_at": "2026-09-30T08:21:58-04:00",
+   "filed_kst": "2026-09-30 21:21",
+   "price": 126.33,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 126.33,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-29",
+     "close": 126.33,
+     "change": -0.04
+    },
+    {
+     "date": "2026-09-28",
+     "close": 126.38,
+     "change": 0.03
+    }
+   ],
+   "market_cap": 4294215424.0,
+   "shares_outstanding": 33992048.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "PLANO, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T21:22:31+09:00"
+  },
   {
    "id": "0001493152-26-045030",
    "company": "RedCloud Holdings plc",
@@ -15519,57 +15572,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-22T05:54:41+09:00"
-  },
-  {
-   "id": "0001997711-26-000169",
-   "company": "Logistic Properties of the Americas",
-   "ticker": "LPA",
-   "cik": 1997711,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The all-cash transaction is structured as a direct asset transfer and remains subject to confirmatory due diligence and customary closing conditions, with its closing expected in the fourth quarter of 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1997711/000199771126000169/0001997711-26-000169-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1997711/000199771126000169/ex991craurorasalepressrele.htm",
-   "filed_at": "2026-09-21T16:37:20-04:00",
-   "filed_kst": "2026-09-22 05:37",
-   "price": 3.15,
-   "change": 0.32,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 3.15,
-     "change": 0.32
-    },
-    {
-     "date": "2026-09-18",
-     "close": 3.14,
-     "change": 1.62
-    },
-    {
-     "date": "2026-09-17",
-     "close": 3.09,
-     "change": 0.98
-    }
-   ],
-   "market_cap": 99596117.0,
-   "shares_outstanding": 31617815.0,
-   "industry": "Real Estate",
-   "state_of_incorporation": null,
-   "hq": "GRAND CAYMAN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-22T05:38:13+09:00"
   }
  ]
 }
