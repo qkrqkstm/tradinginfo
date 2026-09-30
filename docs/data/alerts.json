@@ -1,7 +1,167 @@
 {
- "updated_at": "2026-09-30T21:04:27+09:00",
+ "updated_at": "2026-09-30T21:10:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-408361",
+   "company": "PITNEY BOWES INC /DE/",
+   "ticker": "PBI",
+   "cik": 78814,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 73,
+   "summary": "EX-99.1 3 d35056dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Pitney Bowes Announces Repricing of $585 Million Term Loan B, Reducing Interest Margin by 75 Basis Points Repricing to SOFR + 300 Basis Points Lowers Annual Interest Expense by Approximately $4 Million, With No Changes to Other Terms or March 2",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78814/000119312526408361/0001193125-26-408361-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/78814/000119312526408361/d35056dex991.htm",
+   "filed_at": "2026-09-30T08:08:48-04:00",
+   "filed_kst": "2026-09-30 21:08",
+   "price": 16.29,
+   "change": -0.55,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 16.29,
+     "change": -0.55
+    },
+    {
+     "date": "2026-09-28",
+     "close": 16.38,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-25",
+     "close": 16.38,
+     "change": 0.12
+    }
+   ],
+   "market_cap": 2233199553.0,
+   "shares_outstanding": 137090212.0,
+   "industry": "Office Machines, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SHELTON, CT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T21:09:44+09:00"
+  },
+  {
+   "id": "0001213900-26-104903",
+   "company": "Iron Horse Acquisition II Corp.",
+   "ticker": "IRHO",
+   "cik": 2051985,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "1 Top News from ELECTRA AI The Starting Gun, Not the Finish Line Five months after signing our Business Combination Agreement with Iron Horse (Nasdaq: IRHO): → New customers: Mooving, Omega Seiki Mobility, Propel Industries → New frontiers: grid storage (MinTech), post-quantum security (Naoris Quant",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026104903/0001213900-26-104903-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026104903/ea030700901ex99-1.htm",
+   "filed_at": "2026-09-30T08:08:04-04:00",
+   "filed_kst": "2026-09-30 21:08",
+   "price": 10.06,
+   "change": -0.1,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 10.06,
+     "change": -0.1
+    },
+    {
+     "date": "2026-09-29",
+     "close": 10.07,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-28",
+     "close": 10.07,
+     "change": 0.1
+    }
+   ],
+   "market_cap": 294959200.0,
+   "shares_outstanding": 29320000.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": null,
+   "hq": "BOCA RATON, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-30T21:08:40+09:00"
+  },
+  {
+   "id": "0001193125-26-408353",
+   "company": "Celcuity Inc.",
+   "ticker": "CELC",
+   "cik": 1603454,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Data from this trial is the basis for FDA approval of REVTORPYK for use in adult patients with HR+/HER2- ABC without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1603454/000119312526408353/0001193125-26-408353-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1603454/000119312526408353/celc-ex99_1.htm",
+   "filed_at": "2026-09-30T08:05:14-04:00",
+   "filed_kst": "2026-09-30 21:05",
+   "price": 77.38,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 77.38,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-29",
+     "close": 77.38,
+     "change": -2.84
+    },
+    {
+     "date": "2026-09-28",
+     "close": 79.64,
+     "change": 0.15
+    }
+   ],
+   "market_cap": 3786351041.0,
+   "shares_outstanding": 48931908.0,
+   "industry": "Services-Medical Laboratories",
+   "state_of_incorporation": "DE",
+   "hq": "MINNEAPOLIS, MN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-30T21:06:34+09:00"
+  },
   {
    "id": "0001213900-26-104901",
    "company": "Iron Horse Acquisition II Corp.",
@@ -15412,170 +15572,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-22T05:31:55+09:00"
-  },
-  {
-   "id": "0001193125-26-396716",
-   "company": "NewAmsterdam Pharma Co N.V.",
-   "ticker": "NAMS",
-   "cik": 1936258,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The Company and Menarini are party to a licensing agreement pursuant to which Menarini holds exclusive commercialization rights for obicetrapib in Europe and is responsible for regulatory interactions and commercialization activities throughout the region.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1936258/000119312526396716/0001193125-26-396716-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1936258/000119312526396716/nams-20260921.htm",
-   "filed_at": "2026-09-21T16:30:15-04:00",
-   "filed_kst": "2026-09-22 05:30",
-   "price": 22.58,
-   "change": 0.4,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 22.58,
-     "change": 0.4
-    },
-    {
-     "date": "2026-09-18",
-     "close": 22.49,
-     "change": 2.55
-    },
-    {
-     "date": "2026-09-17",
-     "close": 21.93,
-     "change": 3.54
-    }
-   ],
-   "market_cap": 2699149276.0,
-   "shares_outstanding": 119537169.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Netherlands",
-   "hq": "NARRDEN, P7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-22T05:31:54+09:00"
-  },
-  {
-   "id": "0001654954-26-008490",
-   "company": "VISIUM TECHNOLOGIES, INC.",
-   "ticker": "VISM",
-   "cik": 1082733,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.01",
-    "3.02",
-    "7.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Taylor, have relationships with parties that are expected to participate in the negotiation or performance of the proposed transaction, including under a Mutual Collaboration Agreement dated March 31, 2026 between Mr.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1082733/000165495426008490/0001654954-26-008490-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1082733/000165495426008490/vism_ex991.htm",
-   "filed_at": "2026-09-21T16:20:21-04:00",
-   "filed_kst": "2026-09-22 05:20",
-   "price": 0.0,
-   "change": -14.29,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 0.0,
-     "change": -14.29
-    },
-    {
-     "date": "2026-09-18",
-     "close": 0.0,
-     "change": 4.48
-    },
-    {
-     "date": "2026-09-17",
-     "close": 0.0,
-     "change": -4.29
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": 1077502919.0,
-   "industry": "Services-Computer Programming Services",
-   "state_of_incorporation": "FL",
-   "hq": "FORT LAUDERDALE, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-22T05:21:38+09:00"
-  },
-  {
-   "id": "0001193125-26-396690",
-   "company": "ANAPTYSBIO, INC",
-   "ticker": "ANAB",
-   "cik": 1370053,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "자사주매입",
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 90,
-   "summary": "EX-99.1 2 anab-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 Anaptys Announces Second Quarter and Transitional Fiscal Year 2026 Financial Results and Provides Business Update • Jemperli global net sales of $644 million (£480 million) for the six months ended June 30, 2026, representing 34% year-over-year ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1370053/000119312526396690/0001193125-26-396690-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370053/000119312526396690/anab-ex99_1.htm",
-   "filed_at": "2026-09-21T16:20:00-04:00",
-   "filed_kst": "2026-09-22 05:20",
-   "price": 54.92,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 54.92,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-21",
-     "close": 54.92,
-     "change": -0.51
-    },
-    {
-     "date": "2026-09-18",
-     "close": 55.2,
-     "change": 0.25
-    }
-   ],
-   "market_cap": 1598221538.0,
-   "shares_outstanding": 29100902.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-22T05:20:45+09:00"
   }
  ]
 }
