@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-10-01T05:29:34+09:00",
+ "updated_at": "2026-10-01T05:34:26+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-409136",
+   "company": "TTM TECHNOLOGIES INC",
+   "ticker": "TTMI",
+   "cik": 1116942,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "Terms of the Transaction & Financing The purchase of Epiq was completed as an all-cash transaction for $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526409136/0001193125-26-409136-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526409136/d147406dex991.htm",
+   "filed_at": "2026-09-30T16:33:22-04:00",
+   "filed_kst": "2026-10-01 05:33",
+   "price": 122.84,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 122.84,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-30",
+     "close": 122.84,
+     "change": 0.03
+    },
+    {
+     "date": "2026-09-29",
+     "close": 122.8,
+     "change": -1.12
+    }
+   ],
+   "market_cap": 12941054454.0,
+   "shares_outstanding": 105348864.0,
+   "industry": "Printed Circuit Boards",
+   "state_of_incorporation": "DE",
+   "hq": "SANTA ANA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T05:34:26+09:00"
+  },
+  {
+   "id": "0001185185-26-004441",
+   "company": "Lichen International Ltd",
+   "ticker": "LICN",
+   "cik": 1876766,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "The issuance of 5,400,000 Class A Ordinary Shares and 3,600,000 Class B Ordinary Shares, the repurchase and the cancellation of HKD Shares were completed on April 28, 2021.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1876766/000118518526004441/0001185185-26-004441-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1876766/000118518526004441/licnex99-2.htm",
+   "filed_at": "2026-09-30T16:31:26-04:00",
+   "filed_kst": "2026-10-01 05:31",
+   "price": 1.02,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 1.02,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1.02,
+     "change": -0.97
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1.03,
+     "change": -0.96
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Management Consulting Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "JINJIANG CITY, FUJIAN PROVINCE, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-01T05:32:21+09:00"
+  },
+  {
+   "id": "0001628280-26-064001",
+   "company": "TAKE TWO INTERACTIVE SOFTWARE INC",
+   "ticker": "TTWO",
+   "cik": 946581,
+   "form": "8-K",
+   "items": [
+    "1.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(the “Company”) and Microsoft Corporation (“Microsoft”) entered into a new long-term XBOX Publisher License Agreement (together with all exhibits, addendums and amendments thereto, the “Agreement”), with an effective date of September 17, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026064001/0001628280-26-064001-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026064001/ttwo-20260928.htm",
+   "filed_at": "2026-09-30T16:31:36-04:00",
+   "filed_kst": "2026-10-01 05:31",
+   "price": 207.5,
+   "change": 2.33,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 207.5,
+     "change": 2.33
+    },
+    {
+     "date": "2026-09-29",
+     "close": 202.78,
+     "change": 0.21
+    },
+    {
+     "date": "2026-09-28",
+     "close": 202.35,
+     "change": 0.45
+    }
+   ],
+   "market_cap": 38798441922.0,
+   "shares_outstanding": 186980443.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T05:32:20+09:00"
+  },
   {
    "id": "0001178913-26-004678",
    "company": "RedHill Biopharma Ltd.",
@@ -15414,162 +15569,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-22T20:58:33+09:00"
-  },
-  {
-   "id": "0001213900-26-101964",
-   "company": "Iron Horse Acquisition II Corp.",
-   "ticker": "IRHO",
-   "cik": 2051985,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(Nasdaq: IRHO) Report Sustained Commercial and Strategic Momentum Since Announcing Their Proposed $250 Million+ Business Combination Agreement Growing commercial traction, expanding global partnerships, and continued progress toward the anticipated Nasdaq listing under “AIBR”.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026101964/0001213900-26-101964-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026101964/ea030611001ex99-1.htm",
-   "filed_at": "2026-09-22T07:55:48-04:00",
-   "filed_kst": "2026-09-22 20:55",
-   "price": 10.05,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 10.05,
-     "change": -0.1
-    },
-    {
-     "date": "2026-09-18",
-     "close": 10.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-17",
-     "close": 10.06,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 294666000.0,
-   "shares_outstanding": 29320000.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "BOCA RATON, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-22T20:57:01+09:00"
-  },
-  {
-   "id": "0001193125-26-397231",
-   "company": "GREENBRIER COMPANIES INC",
-   "ticker": "GBX",
-   "cik": 923120,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through its wholly-owned subsidiaries and joint ventures, Greenbrier designs, builds and markets freight railcars in North America, Europe, and Brazil.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526397231/0001193125-26-397231-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526397231/gbx-ex99_1.htm",
-   "filed_at": "2026-09-22T07:30:14-04:00",
-   "filed_kst": "2026-09-22 20:30",
-   "price": 41.96,
-   "change": 0.33,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 41.96,
-     "change": 0.33
-    },
-    {
-     "date": "2026-09-18",
-     "close": 41.82,
-     "change": -1.97
-    },
-    {
-     "date": "2026-09-17",
-     "close": 42.66,
-     "change": 0.07
-    }
-   ],
-   "market_cap": 1298229225.0,
-   "shares_outstanding": 30939686.0,
-   "industry": "Railroad Equipment",
-   "state_of_incorporation": "OR",
-   "hq": "LAKE OSWEGO, OR",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-22T20:31:34+09:00"
-  },
-  {
-   "id": "0001062993-26-005038",
-   "company": "Americas Gold & Silver Corp",
-   "ticker": "USAS",
-   "cik": 1286973,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through a 51/49 joint venture, the Company is developing a fully integrated domestic antimony supply chain-from mine to finished product-to help strengthen America's critical mineral independence.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005038/0001062993-26-005038-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005038/exhibit99-1.htm",
-   "filed_at": "2026-09-22T07:25:35-04:00",
-   "filed_kst": "2026-09-22 20:25",
-   "price": 5.02,
-   "change": -3.09,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 5.02,
-     "change": -3.09
-    },
-    {
-     "date": "2026-09-18",
-     "close": 5.18,
-     "change": 2.37
-    },
-    {
-     "date": "2026-09-17",
-     "close": 5.06,
-     "change": 10.48
-    }
-   ],
-   "market_cap": 1608502286.0,
-   "shares_outstanding": 320418782.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-22T20:26:12+09:00"
   }
  ]
 }
