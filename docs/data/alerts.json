@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-01T05:49:08+09:00",
+ "updated_at": "2026-10-01T05:54:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-112380",
+   "company": "CARRIAGE SERVICES INC",
+   "ticker": "CSV",
+   "cik": 1016281,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.2 4 tm2626597d1_ex99-2.htm EXHIBIT 99.2 Exhibit 99.2 Carriage Services Announces Capital Allocation Framework and Terminates $100 Million At-the-Market Equity Program Framework prioritizes long-term value creation per share, robust financial strength, disciplined growth and proactive capital-s",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1016281/000110465926112380/0001104659-26-112380-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1016281/000110465926112380/tm2626597d1_ex99-2.htm",
+   "filed_at": "2026-09-30T16:49:33-04:00",
+   "filed_kst": "2026-10-01 05:49",
+   "price": 31.17,
+   "change": 0.61,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 31.17,
+     "change": 0.61
+    },
+    {
+     "date": "2026-09-29",
+     "close": 30.98,
+     "change": -1.27
+    },
+    {
+     "date": "2026-09-28",
+     "close": 31.38,
+     "change": -1.75
+    }
+   ],
+   "market_cap": 495051166.0,
+   "shares_outstanding": 15882296.0,
+   "industry": "Services-Personal Services",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-01T05:50:28+09:00"
+  },
   {
    "id": "0001108426-26-000061",
    "company": "TXNM ENERGY INC",
@@ -15515,59 +15565,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-09-22T21:01:12+09:00"
-  },
-  {
-   "id": "0001193125-26-397249",
-   "company": "Jersey Mike's Subs Inc.",
-   "ticker": "JMKE",
-   "cik": 2127043,
-   "form": "8-K",
-   "items": [
-    "5.01",
-    "8.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": ", as administrative agent, and the lenders party thereto from time to time (the “Lenders”), which, together with existing margin loan agreements, provide for aggregate borrowings of approximately $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2127043/000119312526397249/0001193125-26-397249-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2127043/000119312526397249/ck0002127043-20260916.htm",
-   "filed_at": "2026-09-22T08:00:15-04:00",
-   "filed_kst": "2026-09-22 21:00",
-   "price": 19.18,
-   "change": -2.04,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 19.18,
-     "change": -2.04
-    },
-    {
-     "date": "2026-09-18",
-     "close": 19.58,
-     "change": -2.73
-    },
-    {
-     "date": "2026-09-17",
-     "close": 20.13,
-     "change": 0.3
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Retail-Eating  Places",
-   "state_of_incorporation": "DE",
-   "hq": "TINTON FALLS, NJ",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-09-22T21:01:09+09:00"
   }
  ]
 }
