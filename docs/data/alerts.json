@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-09-30T22:19:37+09:00",
+ "updated_at": "2026-09-30T22:24:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001279569-26-000934",
+   "company": "TORONTO DOMINION BANK",
+   "ticker": "TD",
+   "cik": 947263,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각"
+   ],
+   "confidence": 73,
+   "summary": "1 TD Bank Group Announces Intention to Commence a New Share Buyback Program to Repurchase up to C$10 Billion of its Common Shares TORONTO , September 30, 2026 /CNW/ - TD Bank Group (TD or the Bank) (TSX: TD) (NYSE: TD) announced today that, subject to the approval of the Office of the Superintendent",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/947263/000127956926000934/0001279569-26-000934-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/947263/000127956926000934/ex991.htm",
+   "filed_at": "2026-09-30T09:19:37-04:00",
+   "filed_kst": "2026-09-30 22:19",
+   "price": 119.0,
+   "change": -0.46,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 119.0,
+     "change": -0.46
+    },
+    {
+     "date": "2026-09-28",
+     "close": 119.55,
+     "change": -0.91
+    },
+    {
+     "date": "2026-09-25",
+     "close": 120.65,
+     "change": 1.17
+    }
+   ],
+   "market_cap": 201049965095.0,
+   "shares_outstanding": 1689495505.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO, ONTARIO, A6",
+   "entity_category": null,
+   "detected_at": "2026-09-30T22:20:35+09:00"
+  },
+  {
+   "id": "0001193125-26-408435",
+   "company": "Q32 Bio Inc.",
+   "ticker": "QTTB",
+   "cik": 1661998,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 64,
+   "summary": "Q32 Bio previously announced topline results from this trial in July 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526408435/0001193125-26-408435-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526408435/d13352dex991.htm",
+   "filed_at": "2026-09-30T09:20:10-04:00",
+   "filed_kst": "2026-09-30 22:20",
+   "price": 9.53,
+   "change": 3.25,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 9.53,
+     "change": 3.25
+    },
+    {
+     "date": "2026-09-28",
+     "close": 9.23,
+     "change": 5.25
+    },
+    {
+     "date": "2026-09-25",
+     "close": 8.77,
+     "change": -4.88
+    }
+   ],
+   "market_cap": 283703011.0,
+   "shares_outstanding": 29769466.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WALTHAM, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-30T22:20:34+09:00"
+  },
   {
    "id": "0001936224-26-000014",
    "company": "SURF AIR MOBILITY INC.",
@@ -15480,107 +15584,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-09-22T19:04:07+09:00"
-  },
-  {
-   "id": "0001104659-26-109413",
-   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
-   "ticker": "BBVA",
-   "cik": 842180,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 tm2624809d3_6k.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of September, 2026 Commission file number: 1-10110 BANCO BILBAO VIZCAY",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926109413/0001104659-26-109413-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926109413/tm2624809d3_6k.htm",
-   "filed_at": "2026-09-22T06:00:22-04:00",
-   "filed_kst": "2026-09-22 19:00",
-   "price": 28.91,
-   "change": 1.94,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 28.91,
-     "change": 1.94
-    },
-    {
-     "date": "2026-09-18",
-     "close": 28.36,
-     "change": -1.63
-    },
-    {
-     "date": "2026-09-17",
-     "close": 28.83,
-     "change": 2.6
-    }
-   ],
-   "market_cap": 165046285117.0,
-   "shares_outstanding": 5708968700.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": null,
-   "hq": "MADRID, U3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-22T19:04:05+09:00"
-  },
-  {
-   "id": "0001828316-26-000039",
-   "company": "Pharming Group N.V.",
-   "ticker": "PHAR",
-   "cik": 1828316,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 75,
-   "summary": "Results from a randomized, placebo-controlled Phase III clinical trial demonstrated statistically significant improvement in the coprimary endpoints, reflecting a favorable impact on the immune dysregulation and deficiency seen in these patients, and open label extension data has supported the safet",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000039/0001828316-26-000039-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000039/pharmingannouncespositivep.htm",
-   "filed_at": "2026-09-22T06:02:49-04:00",
-   "filed_kst": "2026-09-22 19:02",
-   "price": 10.81,
-   "change": 2.46,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 10.81,
-     "change": 2.46
-    },
-    {
-     "date": "2026-09-18",
-     "close": 10.55,
-     "change": -2.13
-    },
-    {
-     "date": "2026-09-17",
-     "close": 10.78,
-     "change": 1.7
-    }
-   ],
-   "market_cap": 7585165556.0,
-   "shares_outstanding": 701680440.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Netherlands",
-   "hq": "LEIDEN, P7",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-09-22T19:04:01+09:00"
   }
  ]
 }
