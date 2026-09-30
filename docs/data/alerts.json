@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-09-30T21:34:18+09:00",
+ "updated_at": "2026-09-30T21:39:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-104913",
+   "company": "Elmet Group Co.",
+   "ticker": "ELMT",
+   "cik": 2101698,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.1 2 ea030688201ex99-1.htm PRESS RELEASE, DATED SEPTEMBER 30, 2026 Exhibit 99.1 Elmet Technologies Awarded $36 Million Defense Logistics Agency Contract for Molybdenum and Tungsten Aerospace Materials Contract covers high-performance alloys and precision wire used in the production of jet engin",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026104913/0001213900-26-104913-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026104913/ea030688201ex99-1.htm",
+   "filed_at": "2026-09-30T08:35:29-04:00",
+   "filed_kst": "2026-09-30 21:35",
+   "price": 19.15,
+   "change": 2.74,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 19.15,
+     "change": 2.74
+    },
+    {
+     "date": "2026-09-28",
+     "close": 18.64,
+     "change": -5.09
+    },
+    {
+     "date": "2026-09-25",
+     "close": 19.64,
+     "change": -0.46
+    }
+   ],
+   "market_cap": 583299387.0,
+   "shares_outstanding": 30459498.0,
+   "industry": "Miscellaneous Fabricated Metal Products",
+   "state_of_incorporation": "DE",
+   "hq": "PORTLAND, ME",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-30T21:35:57+09:00"
+  },
   {
    "id": "0001213900-26-104912",
    "company": "Sizzle Acquisition Corp. II",
@@ -15525,60 +15578,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-22T19:01:31+09:00"
-  },
-  {
-   "id": "0001171843-26-006140",
-   "company": "Woodward, Inc.",
-   "ticker": "WWD",
-   "cik": 108312,
-   "form": "8-K",
-   "items": [
-    "2.05",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "5 million, consisting primarily of $23 million to $29 million of employee-related costs for severance and related benefits, $10 million to $16.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/108312/000117184326006140/0001171843-26-006140-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/108312/000117184326006140/f8k_092126.htm",
-   "filed_at": "2026-09-21T17:15:15-04:00",
-   "filed_kst": "2026-09-22 06:15",
-   "price": 325.16,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 325.16,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-21",
-     "close": 325.16,
-     "change": 1.06
-    },
-    {
-     "date": "2026-09-18",
-     "close": 321.74,
-     "change": 0.68
-    }
-   ],
-   "market_cap": 19199338831.0,
-   "shares_outstanding": 59045820.0,
-   "industry": "Electrical Industrial Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "FORT COLLINS, CO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-22T06:16:25+09:00"
   }
  ]
 }
