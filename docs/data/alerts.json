@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-09-30T21:49:39+09:00",
+ "updated_at": "2026-09-30T21:54:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001936224-26-000014",
+   "company": "SURF AIR MOBILITY INC.",
+   "ticker": "SRFM",
+   "cik": 1936224,
+   "form": "8-K",
+   "items": [
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(“Palantir”) pursuant to the Company’s existing software license agreement with Palantir.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1936224/000193622426000014/0001936224-26-000014-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1936224/000193622426000014/srfm-20260929.htm",
+   "filed_at": "2026-09-30T08:53:19-04:00",
+   "filed_kst": "2026-09-30 21:53",
+   "price": 1.2,
+   "change": 0.84,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 1.2,
+     "change": 0.84
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1.19,
+     "change": 7.21
+    },
+    {
+     "date": "2026-09-25",
+     "close": 1.11,
+     "change": 20.39
+    }
+   ],
+   "market_cap": 120476248.0,
+   "shares_outstanding": 100396873.0,
+   "industry": "Air Transportation, Nonscheduled",
+   "state_of_incorporation": "DE",
+   "hq": "ADDISON, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-09-30T21:54:07+09:00"
+  },
   {
    "id": "0001193125-26-408403",
    "company": "MATTEL INC /DE/",
@@ -15529,59 +15581,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-09-22T19:04:01+09:00"
-  },
-  {
-   "id": "0001564708-26-000206",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000206/0001564708-26-000206-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000206/appendix3cclassa20260921.htm",
-   "filed_at": "2026-09-21T20:23:10-04:00",
-   "filed_kst": "2026-09-22 09:23",
-   "price": 32.86,
-   "change": 0.55,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 32.86,
-     "change": 0.55
-    },
-    {
-     "date": "2026-09-18",
-     "close": 32.68,
-     "change": -2.07
-    },
-    {
-     "date": "2026-09-17",
-     "close": 33.37,
-     "change": -0.21
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-22T19:02:19+09:00"
   }
  ]
 }
