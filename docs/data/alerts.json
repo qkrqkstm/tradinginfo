@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-09-30T19:29:25+09:00",
+ "updated_at": "2026-09-30T19:34:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001214659-26-012236",
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "cik": 896493,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 2 ex10_1.htm EXHIBIT 10.1 Exhibit 10.1 EIGHTH AMENDMENT AND GUARANTOR JOINDER TO LOAN AND GUARANTY AGREEMENT This EIGHTH AMENDMENT TO LOAN AND GUARANTY AGREEMENT (“ Amendment ”) is dated as of September 29, 2026 (the “ Execution Date ”), and is entered into by and among AULT & COMPANY, INC. ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926012236/0001214659-26-012236-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926012236/ex10_1.htm",
+   "filed_at": "2026-09-30T06:30:35-04:00",
+   "filed_kst": "2026-09-30 19:30",
+   "price": 0.16,
+   "change": -0.37,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 0.16,
+     "change": -0.37
+    },
+    {
+     "date": "2026-09-29",
+     "close": 0.16,
+     "change": -5.88
+    },
+    {
+     "date": "2026-09-28",
+     "close": 0.17,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 244799.0,
+   "shares_outstanding": 1529995.0,
+   "industry": "Oil & Gas Field Machinery & Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "LAS VEGAS, NV",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-30T19:31:06+09:00"
+  },
   {
    "id": "0001193125-26-408201",
    "company": "REPLIGEN CORP",
@@ -15492,58 +15543,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-21T22:13:06+09:00"
-  },
-  {
-   "id": "0001601830-26-000112",
-   "company": "RECURSION PHARMACEUTICALS, INC.",
-   "ticker": "RXRX",
-   "cik": 1601830,
-   "form": "8-K",
-   "items": [
-    "1.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "TxFM License Agreement Also on September 15, 2026, the Company entered into an RNA Foundation Model License Agreement (the \"TxFM License Agreement\") with Tempus, pursuant to which the Company granted Tempus a non-exclusive, non-sublicensable, non-transferable, wo",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/0001601830-26-000112-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000112/rxrx-20260915.htm",
-   "filed_at": "2026-09-21T09:05:27-04:00",
-   "filed_kst": "2026-09-21 22:05",
-   "price": 3.83,
-   "change": 8.19,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 3.83,
-     "change": 8.19
-    },
-    {
-     "date": "2026-09-17",
-     "close": 3.54,
-     "change": 10.97
-    },
-    {
-     "date": "2026-09-16",
-     "close": 3.19,
-     "change": -1.54
-    }
-   ],
-   "market_cap": 2050360511.0,
-   "shares_outstanding": 535342170.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SALT LAKE CITY, UT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-21T22:06:45+09:00"
   }
  ]
 }
