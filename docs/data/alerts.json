@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-10-01T06:29:02+09:00",
+ "updated_at": "2026-10-01T06:34:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-038111",
+   "company": "STANDARD BIOTOOLS INC.",
+   "ticker": "LAB",
+   "cik": 1162194,
+   "form": "425",
+   "items": [
+    "1.01",
+    "1.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation (“Multiplex Bio”), pursuant to which Multiplex Bio agreed to acquire the mass cytometry business (the “Business”) of the Company (the “Multiplex Bio Transaction”).",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1162194/000114036126038111/0001140361-26-038111-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1162194/000114036126038111/ef20082995_425.htm",
+   "filed_at": "2026-09-30T17:28:43-04:00",
+   "filed_kst": "2026-10-01 06:28",
+   "price": 0.74,
+   "change": 4.31,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 0.74,
+     "change": 4.31
+    },
+    {
+     "date": "2026-09-29",
+     "close": 0.71,
+     "change": -2.74
+    },
+    {
+     "date": "2026-09-28",
+     "close": 0.73,
+     "change": -1.35
+    }
+   ],
+   "market_cap": 290508318.0,
+   "shares_outstanding": 392578808.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-01T06:30:36+09:00"
+  },
+  {
+   "id": "0001213900-26-105356",
+   "company": "Wisekey International Holding S.A.",
+   "ticker": "WKEY",
+   "cik": 1738699,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "On June 26, 2026, WISeKey signed a merger agreement to move the domicile of its holding company from Switzerland to the British Virgin Islands.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/0001213900-26-105356-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/ea030642301ex99-1.htm",
+   "filed_at": "2026-09-30T17:29:56-04:00",
+   "filed_kst": "2026-10-01 06:29",
+   "price": 5.86,
+   "change": -3.46,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 5.86,
+     "change": -3.46
+    },
+    {
+     "date": "2026-09-29",
+     "close": 6.07,
+     "change": 0.33
+    },
+    {
+     "date": "2026-09-28",
+     "close": 6.05,
+     "change": 1.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Switzerland",
+   "hq": "GENEVA 15, V8",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-01T06:30:33+09:00"
+  },
   {
    "id": "0001140361-26-038110",
    "company": "STANDARD BIOTOOLS INC.",
@@ -15447,109 +15553,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-23T05:01:49+09:00"
-  },
-  {
-   "id": "0001654954-26-008514",
-   "company": "HSBC HOLDINGS PLC",
-   "ticker": "HSBC",
-   "cik": 1089113,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights, following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008514/0001654954-26-008514-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008514/a8599v.htm",
-   "filed_at": "2026-09-22T13:06:46-04:00",
-   "filed_kst": "2026-09-23 02:06",
-   "price": 101.31,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 101.31,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-22",
-     "close": 101.31,
-     "change": -1.84
-    },
-    {
-     "date": "2026-09-21",
-     "close": 103.21,
-     "change": 1.36
-    }
-   ],
-   "market_cap": 1740023550419.0,
-   "shares_outstanding": 17175239862.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T02:08:07+09:00"
-  },
-  {
-   "id": "0001070235-26-000110",
-   "company": "BLACKBERRY Ltd",
-   "ticker": "BB",
-   "cik": 1070235,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 Document Press Release September 21, 2026 Coretura Selects Alloy Kore to Advance a Unique Software-Defined Vehicle Platform for Its Commercial Vehicle Customers Coretura, the Joint Venture Between Daimler Truck and Volvo Group, Selects Foundational Software Layer for Its Vehicle OS to Accelerate S",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1070235/000107023526000110/0001070235-26-000110-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1070235/000107023526000110/bbry-20260922.htm",
-   "filed_at": "2026-09-22T09:24:15-04:00",
-   "filed_kst": "2026-09-22 22:24",
-   "price": 8.53,
-   "change": 6.76,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 8.53,
-     "change": 6.76
-    },
-    {
-     "date": "2026-09-18",
-     "close": 7.99,
-     "change": 0.63
-    },
-    {
-     "date": "2026-09-17",
-     "close": 7.94,
-     "change": 3.93
-    }
-   ],
-   "market_cap": 4999436676.0,
-   "shares_outstanding": 586100431.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": null,
-   "hq": "WATERLOO, A6",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-22T22:25:41+09:00"
   }
  ]
 }
