@@ -1,7 +1,109 @@
 {
- "updated_at": "2026-10-01T05:19:18+09:00",
+ "updated_at": "2026-10-01T05:24:08+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178913-26-004678",
+   "company": "RedHill Biopharma Ltd.",
+   "ticker": "RDHL",
+   "cik": 1553846,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(“Apotex”) for an upfront payment of $18.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004678/0001178913-26-004678-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004678/zk2636177.htm",
+   "filed_at": "2026-09-30T16:23:34-04:00",
+   "filed_kst": "2026-10-01 05:23",
+   "price": 0.48,
+   "change": -0.21,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 0.48,
+     "change": -0.21
+    },
+    {
+     "date": "2026-09-29",
+     "close": 0.48,
+     "change": -4.94
+    },
+    {
+     "date": "2026-09-28",
+     "close": 0.51,
+     "change": 1.2
+    }
+   ],
+   "market_cap": 24443165280.0,
+   "shares_outstanding": 50923261000.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "TEL AVIV, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-01T05:24:07+09:00"
+  },
+  {
+   "id": "0001104659-26-112347",
+   "company": "Paramount Skydance Corp",
+   "ticker": "PSKY",
+   "cik": 2041610,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation and wholly owned subsidiary of the Company, entered into an Agreement and Plan of Merger on February 27, 2026, pursuant to which, and subject to the terms and conditions therein, at the effective time of the merger to be entered into pursuant to such agreement, Prince Sub In",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926112347/0001104659-26-112347-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926112347/tm2626659d1_8k.htm",
+   "filed_at": "2026-09-30T16:22:28-04:00",
+   "filed_kst": "2026-10-01 05:22",
+   "price": 10.33,
+   "change": 3.4,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 10.33,
+     "change": 3.4
+    },
+    {
+     "date": "2026-09-29",
+     "close": 9.99,
+     "change": -2.82
+    },
+    {
+     "date": "2026-09-28",
+     "close": 10.28,
+     "change": 3.21
+    }
+   ],
+   "market_cap": 11070319872.0,
+   "shares_outstanding": 1071666977.0,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T05:23:04+09:00"
+  },
   {
    "id": "0000950103-26-014872",
    "company": "newcleo plc",
@@ -15468,111 +15570,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-22T20:26:12+09:00"
-  },
-  {
-   "id": "0001018164-26-000078",
-   "company": "WILLIS LEASE FINANCE CORP",
-   "ticker": "WLFC",
-   "cik": 1018164,
-   "form": "8-K",
-   "items": [
-    "3.02",
-    "5.03",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "wlfc-20260916 0001018164 false 0001018164 2026-09-16 2026-09-16 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ______________________________________________________________________ FORM 8-K CURRENT REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 193",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000078/0001018164-26-000078-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000078/wlfc-20260916.htm",
-   "filed_at": "2026-09-22T07:11:44-04:00",
-   "filed_kst": "2026-09-22 20:11",
-   "price": 54.74,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 54.74,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-21",
-     "close": 54.74,
-     "change": 0.77
-    },
-    {
-     "date": "2026-09-18",
-     "close": 54.32,
-     "change": -0.77
-    }
-   ],
-   "market_cap": 1157428636.0,
-   "shares_outstanding": 21144111.0,
-   "industry": "Wholesale-Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "COCONUT CREEK, FL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-09-22T20:12:59+09:00"
-  },
-  {
-   "id": "0001031203-26-000137",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "ticker": "GPI",
-   "cik": 1031203,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "EX-10.1 2 exhibit101-92126.htm EX-10.1 Document Exhibit 10.1 STOCKHOLDER AGREEMENT This Stockholder Agreement (including any exhibits hereto, this “ Agreement ”), effective as of September 21, 2026 (the “ Effective Date ”), is entered into by and between Group 1 Automotive, Inc., a Delaware corporat",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000137/0001031203-26-000137-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000137/exhibit101-92126.htm",
-   "filed_at": "2026-09-22T07:12:05-04:00",
-   "filed_kst": "2026-09-22 20:12",
-   "price": 250.87,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 250.87,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-21",
-     "close": 250.87,
-     "change": 1.81
-    },
-    {
-     "date": "2026-09-18",
-     "close": 246.42,
-     "change": -3.35
-    }
-   ],
-   "market_cap": 2990928586.0,
-   "shares_outstanding": 11922225.0,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-22T20:12:57+09:00"
   }
  ]
 }
