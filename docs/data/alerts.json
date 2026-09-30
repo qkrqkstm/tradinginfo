@@ -1,7 +1,165 @@
 {
- "updated_at": "2026-09-30T18:59:27+09:00",
+ "updated_at": "2026-09-30T19:04:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-408052",
+   "company": "DBV Technologies S.A.",
+   "ticker": "DBVT",
+   "cik": 1613780,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "The BLA is supported by the positive results from the VITESSE Phase 3 clinical trial of the VIASKIN ® Peanut Patch in 654 children ages 4 through 7 years with peanut allergy.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1613780/000119312526408052/0001193125-26-408052-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1613780/000119312526408052/d118963dex991.htm",
+   "filed_at": "2026-09-29T21:18:49-04:00",
+   "filed_kst": "2026-09-30 10:18",
+   "price": 11.55,
+   "change": -0.77,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 11.55,
+     "change": -0.77
+    },
+    {
+     "date": "2026-09-28",
+     "close": 11.64,
+     "change": 0.69
+    },
+    {
+     "date": "2026-09-25",
+     "close": 11.56,
+     "change": -0.34
+    }
+   ],
+   "market_cap": 3419510290.0,
+   "shares_outstanding": 296061497.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "France",
+   "hq": "CHATILLON",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-09-30T19:03:58+09:00"
+  },
+  {
+   "id": "0001628280-26-063875",
+   "company": "Telix Pharmaceuticals Ltd",
+   "ticker": "TLX",
+   "cik": 2007191,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "htm 6-K Telix - 6K BiPASS Gains FDA Fast Track Designation UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2007191/000162828026063875/0001628280-26-063875-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2007191/000162828026063875/telix-6kbipassgainsfdafast.htm",
+   "filed_at": "2026-09-29T20:19:23-04:00",
+   "filed_kst": "2026-09-30 09:19",
+   "price": 11.34,
+   "change": -2.41,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 11.34,
+     "change": -2.41
+    },
+    {
+     "date": "2026-09-28",
+     "close": 11.62,
+     "change": 1.48
+    },
+    {
+     "date": "2026-09-25",
+     "close": 11.45,
+     "change": 1.24
+    }
+   ],
+   "market_cap": 3841731736.0,
+   "shares_outstanding": 338777049.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "NORTH MELBOURNE, C3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T19:03:26+09:00"
+  },
+  {
+   "id": "0001564708-26-000212",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000212/0001564708-26-000212-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000212/appendix3cclassa20260929.htm",
+   "filed_at": "2026-09-29T19:31:18-04:00",
+   "filed_kst": "2026-09-30 08:31",
+   "price": 31.5,
+   "change": -2.3,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 31.5,
+     "change": -2.3
+    },
+    {
+     "date": "2026-09-28",
+     "close": 32.24,
+     "change": 1.54
+    },
+    {
+     "date": "2026-09-25",
+     "close": 31.75,
+     "change": 0.6
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T19:02:53+09:00"
+  },
   {
    "id": "0001213900-26-104765",
    "company": "Silicon Valley Acquisition Corp.",
@@ -15390,163 +15548,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-21T21:46:19+09:00"
-  },
-  {
-   "id": "0001279569-26-000898",
-   "company": "Trilogy Metals Inc.",
-   "ticker": "TMQ",
-   "cik": 1543418,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The high-grade Arctic Copper-Zinc-Lead-Gold-Silver Project is being advanced by Ambler Metals LLC (\" Ambler Metals \"), Trilogy's 50/50 joint venture with South32 Limited (ASX, LSE, JSE: S32; ADR: SOUHY).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1543418/000127956926000898/0001279569-26-000898-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1543418/000127956926000898/ex991.htm",
-   "filed_at": "2026-09-21T08:32:05-04:00",
-   "filed_kst": "2026-09-21 21:32",
-   "price": 3.26,
-   "change": 0.62,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 3.26,
-     "change": 0.62
-    },
-    {
-     "date": "2026-09-17",
-     "close": 3.24,
-     "change": 3.85
-    },
-    {
-     "date": "2026-09-16",
-     "close": 3.12,
-     "change": -2.19
-    }
-   ],
-   "market_cap": 563150783.0,
-   "shares_outstanding": 172745639.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER, A1",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-21T21:34:18+09:00"
-  },
-  {
-   "id": "0001213900-26-101664",
-   "company": "Evolution Metals & Technologies Corp.",
-   "ticker": "EMAT",
-   "cik": 1866226,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026101664/0001213900-26-101664-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026101664/ea030607101ex99-1.htm",
-   "filed_at": "2026-09-21T08:30:52-04:00",
-   "filed_kst": "2026-09-21 21:30",
-   "price": 4.02,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 4.02,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-17",
-     "close": 4.02,
-     "change": 5.79
-    },
-    {
-     "date": "2026-09-16",
-     "close": 3.8,
-     "change": 14.8
-    }
-   ],
-   "market_cap": 2499638597.0,
-   "shares_outstanding": 621800646.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-21T21:32:00+09:00"
-  },
-  {
-   "id": "0001628280-26-062810",
-   "company": "ERICSSON LM TELEPHONE CO",
-   "ticker": "ERIC",
-   "cik": 717826,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "00 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026 and which runs between April 23, 2026 and March 31, 2027, at the latest.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026062810/0001628280-26-062810-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026062810/sharebuybacksinericssondur.htm",
-   "filed_at": "2026-09-21T08:11:09-04:00",
-   "filed_kst": "2026-09-21 21:11",
-   "price": 10.17,
-   "change": -1.17,
-   "price_history": [
-    {
-     "date": "2026-09-18",
-     "close": 10.17,
-     "change": -1.17
-    },
-    {
-     "date": "2026-09-17",
-     "close": 10.29,
-     "change": 2.59
-    },
-    {
-     "date": "2026-09-16",
-     "close": 10.03,
-     "change": -0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": "Sweden",
-   "hq": "STOCKHOLM SWEDEN, V7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-21T21:12:19+09:00"
   }
  ]
 }
