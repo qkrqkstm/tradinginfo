@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-09-30T20:14:40+09:00",
+ "updated_at": "2026-09-30T20:19:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-408289",
+   "company": "Moderna, Inc.",
+   "ticker": "MRNA",
+   "cik": 1682852,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "FDA approval of Moderna’s seasonal flu vaccine and the European Commission marketing authorization of the Company’s seasonal flu plus COVID combination vaccine.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526408289/0001193125-26-408289-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526408289/d18337dex991.htm",
+   "filed_at": "2026-09-30T07:15:20-04:00",
+   "filed_kst": "2026-09-30 20:15",
+   "price": 203.46,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 203.46,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-29",
+     "close": 203.46,
+     "change": 3.13
+    },
+    {
+     "date": "2026-09-28",
+     "close": 197.28,
+     "change": -0.8
+    }
+   ],
+   "market_cap": 81228533976.0,
+   "shares_outstanding": 399235889.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T20:15:59+09:00"
+  },
+  {
+   "id": "0001178913-26-004654",
+   "company": "Evogene Ltd.",
+   "ticker": "EVGN",
+   "cik": 1574565,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Built on this powerful technological foundation, and through strategic partnerships alongside internal product development, Evogene is focused on creating breakthrough products for the pharmaceutical and agricultural industries, driven by the integration of scientific innovation with real-world indu",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004654/0001178913-26-004654-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004654/zk2636176.htm",
+   "filed_at": "2026-09-30T07:15:06-04:00",
+   "filed_kst": "2026-09-30 20:15",
+   "price": 0.41,
+   "change": 7.89,
+   "price_history": [
+    {
+     "date": "2026-09-29",
+     "close": 0.41,
+     "change": 7.89
+    },
+    {
+     "date": "2026-09-28",
+     "close": 0.38,
+     "change": -9.52
+    },
+    {
+     "date": "2026-09-25",
+     "close": 0.42,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 3574459.0,
+   "shares_outstanding": 8718193.0,
+   "industry": "Agricultural Chemicals",
+   "state_of_incorporation": "Israel",
+   "hq": "REHOVOT, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-09-30T20:15:27+09:00"
+  },
   {
    "id": "0001477932-26-005919",
    "company": "Onar Holding Corp",
@@ -15466,88 +15571,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-22T05:11:11+09:00"
-  },
-  {
-   "id": "0001213900-26-101799",
-   "company": "US Elemental Inc.",
-   "ticker": "ULIT",
-   "cik": 2134552,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "5 million was funded upon signing of the business combination agreement and a further $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026101799/0001213900-26-101799-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026101799/ea0305944-425_constellation1.htm",
-   "filed_at": "2026-09-21T16:05:01-04:00",
-   "filed_kst": "2026-09-22 05:05",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "DE",
-   "hq": "RENO, NV",
-   "entity_category": null,
-   "detected_at": "2026-09-22T05:11:09+09:00"
-  },
-  {
-   "id": "0001104659-26-109285",
-   "company": "MATERIALISE NV",
-   "ticker": "MTLS",
-   "cik": 1091223,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "21 September 2026 – Materialise NV (Euronext: MTLS) (Nasdaq: MTLS) (“Materialise”) (“the Company”) hereby discloses certain information in relation to its share buyback program announced on 30 October 2025, in accordance with Article 8:4 of the Royal Decree of 29 April 2019 implementing the Belgian ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926109285/0001104659-26-109285-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926109285/tm2625741d1_ex99-1.htm",
-   "filed_at": "2026-09-21T16:01:29-04:00",
-   "filed_kst": "2026-09-22 05:01",
-   "price": 7.78,
-   "change": 0.13,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 7.78,
-     "change": 0.13
-    },
-    {
-     "date": "2026-09-18",
-     "close": 7.77,
-     "change": 0.78
-    },
-    {
-     "date": "2026-09-17",
-     "close": 7.71,
-     "change": 0.13
-    }
-   ],
-   "market_cap": 459542707.0,
-   "shares_outstanding": 59067186.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": null,
-   "hq": "LEVUEN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-09-22T05:02:53+09:00"
   }
  ]
 }
