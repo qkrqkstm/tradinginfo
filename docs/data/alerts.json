@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-01T03:29:27+09:00",
+ "updated_at": "2026-10-01T03:34:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-112264",
+   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+   "ticker": "BBVA",
+   "cik": 842180,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 tm2626639d1_6k.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of September, 2026 Commission file number: 1-10110 BANCO BILBAO VIZCAY",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926112264/0001104659-26-112264-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926112264/tm2626639d1_6k.htm",
+   "filed_at": "2026-09-30T14:33:51-04:00",
+   "filed_kst": "2026-10-01 03:33",
+   "price": 27.95,
+   "change": -2.39,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 27.95,
+     "change": -2.39
+    },
+    {
+     "date": "2026-09-29",
+     "close": 28.64,
+     "change": -0.56
+    },
+    {
+     "date": "2026-09-28",
+     "close": 28.8,
+     "change": -0.24
+    }
+   ],
+   "market_cap": 159565675165.0,
+   "shares_outstanding": 5708968700.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": null,
+   "hq": "MADRID, U3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T03:34:43+09:00"
+  },
   {
    "id": "0001174947-26-000909",
    "company": "ENI SPA",
@@ -15533,57 +15583,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-22T19:06:50+09:00"
-  },
-  {
-   "id": "0001654954-26-008496",
-   "company": "Wise Group plc",
-   "ticker": "WSE",
-   "cik": 2099039,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": "4950 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008496/0001654954-26-008496-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008496/a6647v.htm",
-   "filed_at": "2026-09-22T06:05:12-04:00",
-   "filed_kst": "2026-09-22 19:05",
-   "price": 11.64,
-   "change": 1.66,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 11.64,
-     "change": 1.66
-    },
-    {
-     "date": "2026-09-18",
-     "close": 11.45,
-     "change": -2.3
-    },
-    {
-     "date": "2026-09-17",
-     "close": 11.72,
-     "change": 0.09
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Jersey",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-09-22T19:06:06+09:00"
   }
  ]
 }
