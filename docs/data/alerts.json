@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-09-30T23:19:31+09:00",
+ "updated_at": "2026-09-30T23:24:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001174947-26-000909",
+   "company": "ENI SPA",
+   "ticker": "E",
+   "cik": 1002242,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "01 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000909/0001174947-26-000909-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000909/form6k-36385_eni.htm",
+   "filed_at": "2026-09-30T10:22:34-04:00",
+   "filed_kst": "2026-09-30 23:22",
+   "price": 54.63,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 54.63,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-30",
+     "close": 54.63,
+     "change": -0.03
+    },
+    {
+     "date": "2026-09-29",
+     "close": 54.65,
+     "change": -1.74
+    }
+   ],
+   "market_cap": 171907778178.0,
+   "shares_outstanding": 3146765114.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Italy",
+   "hq": "ROME ITALY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T23:23:00+09:00"
+  },
   {
    "id": "0001279569-26-000934",
    "company": "TORONTO DOMINION BANK",
@@ -15534,56 +15584,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-09-22T19:06:06+09:00"
-  },
-  {
-   "id": "0001213900-26-101907",
-   "company": "Immuron Ltd",
-   "ticker": "IMRN",
-   "cik": 1660046,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "ProIBS ® Immuron has an exclusive distribution agreement with Calmino goup AB for the territories of Australia and New Zealand for ProIBS ® .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026101907/0001213900-26-101907-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026101907/ea030616801ex99-1.htm",
-   "filed_at": "2026-09-21T21:44:32-04:00",
-   "filed_kst": "2026-09-22 10:44",
-   "price": 1.24,
-   "change": 1.64,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 1.24,
-     "change": 1.64
-    },
-    {
-     "date": "2026-09-18",
-     "close": 1.22,
-     "change": 3.39
-    },
-    {
-     "date": "2026-09-17",
-     "close": 1.18,
-     "change": -0.84
-    }
-   ],
-   "market_cap": 290109176.0,
-   "shares_outstanding": 233959013.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Australia",
-   "hq": "CARLTON, VICTORIA, C3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-09-22T19:04:07+09:00"
   }
  ]
 }
