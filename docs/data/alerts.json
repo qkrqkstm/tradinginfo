@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-09-30T20:49:33+09:00",
+ "updated_at": "2026-09-30T20:54:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001645590-26-000084",
+   "company": "Hewlett Packard Enterprise Co",
+   "ticker": "HPE",
+   "cik": 1645590,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 64,
+   "summary": "First System Order for AMD Helios™ AI Rack by HPE The company is also announcing today that it has secured a $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000084/0001645590-26-000084-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000084/hpe-20260930.htm",
+   "filed_at": "2026-09-30T07:49:26-04:00",
+   "filed_kst": "2026-09-30 20:49",
+   "price": 61.49,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 61.49,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-29",
+     "close": 61.49,
+     "change": -1.82
+    },
+    {
+     "date": "2026-09-28",
+     "close": 62.63,
+     "change": -0.49
+    }
+   ],
+   "market_cap": 81625809261.0,
+   "shares_outstanding": 1327464779.0,
+   "industry": "Computer & office Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "SPRING, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-09-30T20:50:26+09:00"
+  },
   {
    "id": "0001213900-26-104882",
    "company": "Aperture AC",
@@ -15522,58 +15576,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-22T05:12:03+09:00"
-  },
-  {
-   "id": "0001193125-26-396654",
-   "company": "Lantheus Holdings, Inc.",
-   "ticker": "LNTH",
-   "cik": 1521036,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Delaware corporation (“ Lantheus ” or the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) by and among the Company, Curium US Holdings LLC, a Delaware limited liability company (“ Parent ”), and Coco Merger Sub Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526396654/0001193125-26-396654-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526396654/d148743d8k.htm",
-   "filed_at": "2026-09-21T16:05:47-04:00",
-   "filed_kst": "2026-09-22 05:05",
-   "price": 100.28,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-21",
-     "close": 100.28,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-21",
-     "close": 100.28,
-     "change": -0.27
-    },
-    {
-     "date": "2026-09-18",
-     "close": 100.55,
-     "change": -0.25
-    }
-   ],
-   "market_cap": 6545513163.0,
-   "shares_outstanding": 65272369.0,
-   "industry": "In Vitro & In Vivo Diagnostic Substances",
-   "state_of_incorporation": "DE",
-   "hq": "BEDFORD, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-22T05:12:01+09:00"
   }
  ]
 }
