@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-02T06:14:41+09:00",
+ "updated_at": "2026-10-02T06:19:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-105899",
+   "company": "ENDRA Life Sciences Inc.",
+   "ticker": "NDRA",
+   "cik": 1681682,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "First Amendment to Agreement and Plan of Merger As previously disclosed, on June 25, 2026, ENDRA Life Sciences Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026105899/0001213900-26-105899-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026105899/ea0307011-8k425_endra.htm",
+   "filed_at": "2026-10-01T17:18:56-04:00",
+   "filed_kst": "2026-10-02 06:18",
+   "price": 5.88,
+   "change": -1.34,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 5.88,
+     "change": -1.34
+    },
+    {
+     "date": "2026-09-30",
+     "close": 5.96,
+     "change": 1.36
+    },
+    {
+     "date": "2026-09-29",
+     "close": 5.88,
+     "change": 1.38
+    }
+   ],
+   "market_cap": 8819047.0,
+   "shares_outstanding": 1499838.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "ANN ARBOR, MI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-02T06:19:39+09:00"
+  },
   {
    "id": "0001213900-26-105871",
    "company": "Sizzle Acquisition Corp. II",
@@ -15499,56 +15553,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-24T19:03:40+09:00"
-  },
-  {
-   "id": "0001345099-26-000085",
-   "company": "MESOBLAST LTD",
-   "ticker": "MESO",
-   "cik": 1345099,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "1 exhibit991ryoncilpotency MESOBLAST RECEIVES FDA APPROVAL FOR NEW POTENCY ASSAY TO RELEASE COMMERCIAL RYONCIL PRODUCT New York, USA: September 24 and Melbourne, Australia: September 23, 2026: Mesoblast Limited (ASX:MSB; Nasdaq:MESO), global leader in allogeneic cellular medicines for inflammatory d",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000085/0001345099-26-000085-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000085/form6-kxpressreleasecoverf.htm",
-   "filed_at": "2026-09-23T21:14:27-04:00",
-   "filed_kst": "2026-09-24 10:14",
-   "price": 15.29,
-   "change": -1.23,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 15.29,
-     "change": -1.23
-    },
-    {
-     "date": "2026-09-21",
-     "close": 15.48,
-     "change": 2.31
-    },
-    {
-     "date": "2026-09-18",
-     "close": 15.13,
-     "change": 1.75
-    }
-   ],
-   "market_cap": 19829031845.0,
-   "shares_outstanding": 1296862776.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Australia",
-   "hq": "MELBOURNE, VICTORIA, C3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-24T19:02:29+09:00"
   }
  ]
 }
