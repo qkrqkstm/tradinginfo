@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-02T03:49:34+09:00",
+ "updated_at": "2026-10-02T03:54:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950157-26-001055",
+   "company": "British American Tobacco p.l.c.",
+   "ticker": "BTI",
+   "cik": 1303523,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Following the purchase and cancellation of these Shares, the Company will have 2,158,978,701 ordinary shares in issue (excluding treasury shares) which carry voting rights and will hold 132,648,864 ordinary shares in treasury.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1303523/000095015726001055/0000950157-26-001055-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1303523/000095015726001055/ex99-6.htm",
+   "filed_at": "2026-10-01T14:49:21-04:00",
+   "filed_kst": "2026-10-02 03:49",
+   "price": 53.16,
+   "change": -2.28,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 53.16,
+     "change": -2.28
+    },
+    {
+     "date": "2026-09-30",
+     "close": 54.4,
+     "change": -0.82
+    },
+    {
+     "date": "2026-09-29",
+     "close": 54.85,
+     "change": -2.14
+    }
+   ],
+   "market_cap": 122930081273.0,
+   "shares_outstanding": 2312454501.0,
+   "industry": "Cigarettes",
+   "state_of_incorporation": null,
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T03:50:33+09:00"
+  },
   {
    "id": "0001683168-26-007520",
    "company": "DarkPulse, Inc.",
@@ -15498,56 +15548,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-24T01:53:22+09:00"
-  },
-  {
-   "id": "0001104659-26-109893",
-   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
-   "ticker": "BBVA",
-   "cik": 842180,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "37 euros, by means of the cancellation of 70,339,213 own shares of 0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926109893/0001104659-26-109893-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926109893/tm2624809d4_6k.htm",
-   "filed_at": "2026-09-23T12:40:23-04:00",
-   "filed_kst": "2026-09-24 01:40",
-   "price": 28.29,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 28.29,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-23",
-     "close": 28.29,
-     "change": -2.14
-    },
-    {
-     "date": "2026-09-21",
-     "close": 28.91,
-     "change": 1.94
-    }
-   ],
-   "market_cap": 161506724523.0,
-   "shares_outstanding": 5708968700.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": null,
-   "hq": "MADRID, U3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-24T01:41:43+09:00"
   }
  ]
 }
