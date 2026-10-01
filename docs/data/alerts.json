@@ -1,7 +1,147 @@
 {
- "updated_at": "2026-10-01T18:59:26+09:00",
+ "updated_at": "2026-10-01T19:04:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001564708-26-000213",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000213/0001564708-26-000213-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000213/appendix3cclassa20260930.htm",
+   "filed_at": "2026-09-30T18:45:51-04:00",
+   "filed_kst": "2026-10-01 07:45",
+   "price": 31.72,
+   "change": 0.7,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 31.72,
+     "change": 0.7
+    },
+    {
+     "date": "2026-09-29",
+     "close": 31.5,
+     "change": -2.3
+    },
+    {
+     "date": "2026-09-28",
+     "close": 32.24,
+     "change": 1.54
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T19:04:40+09:00"
+  },
+  {
+   "id": "0001493152-26-045169",
+   "company": "Plutus Financial Group Ltd",
+   "ticker": "PLUT",
+   "cik": 1933021,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "1 FOURTH AMENDMENT TO AGREEMENT AND PLAN OF MERGER THIS FOURTH AMENDMENT (this “ Fourth Amendment ”) to the Agreement and Plan of Merger dated as of July 9, 2025 (the “ Original Merger Agreement ”), is made and entered into as of September 30, 2026 by and among Plutus Financial G",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1933021/000149315226045169/0001493152-26-045169-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1933021/000149315226045169/ex10-1.htm",
+   "filed_at": "2026-09-30T17:52:35-04:00",
+   "filed_kst": "2026-10-01 06:52",
+   "price": 2.33,
+   "change": -6.8,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 2.33,
+     "change": -6.8
+    },
+    {
+     "date": "2026-09-29",
+     "close": 2.5,
+     "change": 18.48
+    },
+    {
+     "date": "2026-09-28",
+     "close": 2.11,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 35765500.0,
+   "shares_outstanding": 15350000.0,
+   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HONG KONG, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-01T19:02:34+09:00"
+  },
+  {
+   "id": "0001213900-26-105359",
+   "company": "Churchill Capital Corp XI",
+   "ticker": "CCXI",
+   "cik": 2074973,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Agility Robotics Announces New Directors for Planned Public-Company Board Technology, Business and Legal leaders bring decades of experience in global commercialization, strategic partnerships and corporate governance as Agility prepares to scale humanoid robotics SALEM, Ore.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026105359/0001213900-26-105359-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026105359/ea0307216-425_churchill11.htm",
+   "filed_at": "2026-09-30T17:38:08-04:00",
+   "filed_kst": "2026-10-01 06:38",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "General Industrial Machinery & Equipment, NEC",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-01T19:01:30+09:00"
+  },
   {
    "id": "0001140361-26-038111",
    "company": "STANDARD BIOTOOLS INC.",
@@ -15391,168 +15531,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-23T05:07:33+09:00"
-  },
-  {
-   "id": "0001493152-26-043709",
-   "company": "Pulmatrix, Inc.",
-   "ticker": "PULM",
-   "cik": 1574235,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(Nasdaq: PULM) entered into an agreement (the “Merger Agreement”) and plan of merger (the “Merger”) with Eos SENOLYTIX, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226043709/0001493152-26-043709-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226043709/form425.htm",
-   "filed_at": "2026-09-22T16:05:18-04:00",
-   "filed_kst": "2026-09-23 05:05",
-   "price": 1.7,
-   "change": 1.19,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 1.7,
-     "change": 1.19
-    },
-    {
-     "date": "2026-09-21",
-     "close": 1.68,
-     "change": 16.67
-    },
-    {
-     "date": "2026-09-18",
-     "close": 1.44,
-     "change": 0.49
-    }
-   ],
-   "market_cap": 6208884.0,
-   "shares_outstanding": 3652285.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "FRAMINGHAM, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-23T05:06:48+09:00"
-  },
-  {
-   "id": "0001193125-26-397870",
-   "company": "Biomea Fusion, Inc.",
-   "ticker": "BMEA",
-   "cik": 1840439,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "(the “Company”) updated the anticipated timing for topline results from the Company’s ongoing Phase I GLP-131 trial for BMF-650 in obese, otherwise healthy volunteers, which are now expected in October 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1840439/000119312526397870/0001193125-26-397870-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1840439/000119312526397870/bmea-20260922.htm",
-   "filed_at": "2026-09-22T16:01:33-04:00",
-   "filed_kst": "2026-09-23 05:01",
-   "price": 1.7,
-   "change": -0.58,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 1.7,
-     "change": -0.58
-    },
-    {
-     "date": "2026-09-21",
-     "close": 1.71,
-     "change": -6.56
-    },
-    {
-     "date": "2026-09-18",
-     "close": 1.83,
-     "change": 2.23
-    }
-   ],
-   "market_cap": 123222548.0,
-   "shares_outstanding": 72483852.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN CARLOS, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-23T05:02:21+09:00"
-  },
-  {
-   "id": "0001185185-26-004202",
-   "company": "Vogenx, Inc.",
-   "ticker": "VOGX",
-   "cik": 1903784,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "Mizagliflozin has been administered to more than 500 subjects in 10 clinical studies and has shown statistically significant reductions in postprandial glucose absorption, GIP secretion, and insulin secretion.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1903784/000118518526004202/0001185185-26-004202-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1903784/000118518526004202/vogenxex99-1.htm",
-   "filed_at": "2026-09-22T16:01:01-04:00",
-   "filed_kst": "2026-09-23 05:01",
-   "price": 26.57,
-   "change": -9.93,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 26.57,
-     "change": -9.93
-    },
-    {
-     "date": "2026-09-21",
-     "close": 29.5,
-     "change": -9.23
-    },
-    {
-     "date": "2026-09-18",
-     "close": 32.5,
-     "change": -4.78
-    }
-   ],
-   "market_cap": 394699662.0,
-   "shares_outstanding": 14855087.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "RALEIGH, NC",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-23T05:01:49+09:00"
   }
  ]
 }
