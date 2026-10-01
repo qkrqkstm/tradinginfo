@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-01T22:04:31+09:00",
+ "updated_at": "2026-10-01T22:09:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-045278",
+   "company": "Sintx Technologies, Inc.",
+   "ticker": "SINT",
+   "cik": 1269026,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 64,
+   "summary": "During the quarter, SINTX began shipments against the more than $3.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1269026/000149315226045278/0001493152-26-045278-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1269026/000149315226045278/ex99-1.htm",
+   "filed_at": "2026-10-01T09:05:17-04:00",
+   "filed_kst": "2026-10-01 22:05",
+   "price": 2.23,
+   "change": 9.85,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 2.23,
+     "change": 9.85
+    },
+    {
+     "date": "2026-09-29",
+     "close": 2.03,
+     "change": 2.01
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1.99,
+     "change": 5.85
+    }
+   ],
+   "market_cap": 14861911.0,
+   "shares_outstanding": 6664534.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "SALT LAKE CITY, UT",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-01T22:05:59+09:00"
+  },
   {
    "id": "0001645113-26-000071",
    "company": "NovoCure Ltd",
@@ -15505,56 +15561,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-23T21:02:12+09:00"
-  },
-  {
-   "id": "0001104659-26-109819",
-   "company": "ProQR Therapeutics N.V.",
-   "ticker": "PRQR",
-   "cik": 1612940,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Wolf is co-founder and Chief Science Officer of Hugging Face, which Nvidia has recently agreed to acquire.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1612940/000110465926109819/0001104659-26-109819-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1612940/000110465926109819/tm2625923d1_ex99-1.htm",
-   "filed_at": "2026-09-23T08:00:13-04:00",
-   "filed_kst": "2026-09-23 21:00",
-   "price": 1.9,
-   "change": 2.15,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 1.9,
-     "change": 2.15
-    },
-    {
-     "date": "2026-09-21",
-     "close": 1.86,
-     "change": 1.64
-    },
-    {
-     "date": "2026-09-18",
-     "close": 1.83,
-     "change": -3.17
-    }
-   ],
-   "market_cap": 200186022.0,
-   "shares_outstanding": 105361064.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Netherlands",
-   "hq": "LEIDEN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-09-23T21:01:11+09:00"
   }
  ]
 }
