@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-01T20:09:29+09:00",
+ "updated_at": "2026-10-01T20:14:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001185185-26-004474",
+   "company": "Newbury Street II Acquisition Corp",
+   "ticker": "NTWO",
+   "cik": 2028027,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Agility and FORT Robotics Announce Strategic Partnership to Advance Humanoid Robot Safety New Offboard Safety Bridge Extends Agility and FORT’s Safety Architecture to Digit 5 SALEM, Ore.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004474/0001185185-26-004474-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004474/ntwo2425093026.htm",
+   "filed_at": "2026-10-01T07:10:08-04:00",
+   "filed_kst": "2026-10-01 20:10",
+   "price": 10.82,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 10.82,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-29",
+     "close": 10.82,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-28",
+     "close": 10.82,
+     "change": -0.32
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-01T20:10:31+09:00"
+  },
   {
    "id": "0001628280-26-064103",
    "company": "Fervo Energy Co",
@@ -15473,56 +15523,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-23T19:01:47+09:00"
-  },
-  {
-   "id": "0001833141-26-000081",
-   "company": "CYBIN INC.",
-   "ticker": "HELP",
-   "cik": 1833141,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000081/0001833141-26-000081-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000081/asm2026-pressreleaseannoun.htm",
-   "filed_at": "2026-09-22T18:05:19-04:00",
-   "filed_kst": "2026-09-23 07:05",
-   "price": 13.71,
-   "change": 0.37,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 13.71,
-     "change": 0.37
-    },
-    {
-     "date": "2026-09-21",
-     "close": 13.66,
-     "change": 10.43
-    },
-    {
-     "date": "2026-09-18",
-     "close": 12.37,
-     "change": -11.77
-    }
-   ],
-   "market_cap": 296152562.0,
-   "shares_outstanding": 21601208.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO, A6",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-23T19:01:08+09:00"
   }
  ]
 }
