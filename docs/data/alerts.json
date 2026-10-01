@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-01T23:29:29+09:00",
+ "updated_at": "2026-10-01T23:34:46+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001159508-26-000040",
+   "company": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+   "ticker": "DB",
+   "cik": 1159508,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "0bn share buyback program at a volume-weighted average price of € 28.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1159508/000115950826000040/0001159508-26-000040-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1159508/000115950826000040/db20260930991.htm",
+   "filed_at": "2026-10-01T10:33:21-04:00",
+   "filed_kst": "2026-10-01 23:33",
+   "price": 34.88,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 34.88,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 34.88,
+     "change": -2.8
+    },
+    {
+     "date": "2026-09-30",
+     "close": 35.89,
+     "change": -0.61
+    }
+   ],
+   "market_cap": 66372219448.0,
+   "shares_outstanding": 1902873264.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T23:34:14+09:00"
+  },
   {
    "id": "0001213900-26-105496",
    "company": "Everbright Digital Holding Ltd.",
@@ -15511,56 +15561,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-23T22:22:10+09:00"
-  },
-  {
-   "id": "0001468091-26-000034",
-   "company": "VEON Ltd.",
-   "ticker": "VEON",
-   "cik": 1468091,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "This represents a share buyback program of approximately USD 200 million based on a closing price of USD 69.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000034/0001468091-26-000034-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000034/form6-ksept2026buybackanno.htm",
-   "filed_at": "2026-09-23T09:06:00-04:00",
-   "filed_kst": "2026-09-23 22:06",
-   "price": 69.37,
-   "change": -0.43,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 69.37,
-     "change": -0.43
-    },
-    {
-     "date": "2026-09-21",
-     "close": 69.67,
-     "change": 1.52
-    },
-    {
-     "date": "2026-09-18",
-     "close": 68.63,
-     "change": -0.26
-    }
-   ],
-   "market_cap": 128278356570.0,
-   "shares_outstanding": 1849190667.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": "Bermuda",
-   "hq": "DUBAI (DIFC)",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T22:07:10+09:00"
   }
  ]
 }
