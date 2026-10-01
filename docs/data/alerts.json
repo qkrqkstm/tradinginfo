@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-01T19:44:34+09:00",
+ "updated_at": "2026-10-01T19:49:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006324",
+   "company": "Costamare Inc.",
+   "ticker": "CMRE",
+   "cik": 1503584,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The Company also has 22 newbuild containerships under construction and has agreed to acquire two secondhand containerships, which together represent a total capacity of approximately 152,600 TEU.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1503584/000117184326006324/0001171843-26-006324-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1503584/000117184326006324/exh_991.htm",
+   "filed_at": "2026-10-01T06:45:41-04:00",
+   "filed_kst": "2026-10-01 19:45",
+   "price": 14.69,
+   "change": -0.41,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 14.69,
+     "change": -0.41
+    },
+    {
+     "date": "2026-09-29",
+     "close": 14.75,
+     "change": 0.2
+    },
+    {
+     "date": "2026-09-28",
+     "close": 14.72,
+     "change": 1.31
+    }
+   ],
+   "market_cap": 1794539772.0,
+   "shares_outstanding": 122160638.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "MONACO",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-01T19:45:58+09:00"
+  },
   {
    "id": "0001104659-26-112564",
    "company": "AgomAb Therapeutics NV",
@@ -15467,56 +15517,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-23T06:23:27+09:00"
-  },
-  {
-   "id": "0001193125-26-398104",
-   "company": "EQUITY BANCSHARES INC",
-   "ticker": "EQBK",
-   "cik": 1227500,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The final mix of merger consideration you receive will be determined in accordance with the allocation procedures set out in the merger agreement and the proxy statement/prospectus.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526398104/0001193125-26-398104-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526398104/d20635d425.htm",
-   "filed_at": "2026-09-22T17:01:28-04:00",
-   "filed_kst": "2026-09-23 06:01",
-   "price": 48.56,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 48.56,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-22",
-     "close": 48.56,
-     "change": -0.1
-    },
-    {
-     "date": "2026-09-21",
-     "close": 48.61,
-     "change": -0.86
-    }
-   ],
-   "market_cap": 999971314.0,
-   "shares_outstanding": 20592490.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "KS",
-   "hq": "WICHITA, KS",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-09-23T06:02:20+09:00"
   }
  ]
 }
