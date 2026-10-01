@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-10-02T05:09:10+09:00",
+ "updated_at": "2026-10-02T05:14:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-064246",
+   "company": "UL Solutions Inc.",
+   "ticker": "ULS",
+   "cik": 1901440,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) issued a press release announcing that it has completed the acquisition of the electrical and electronics business of Eurofins Scientific SE.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1901440/000162828026064246/0001628280-26-064246-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1901440/000162828026064246/uls-20261001.htm",
+   "filed_at": "2026-10-01T16:11:55-04:00",
+   "filed_kst": "2026-10-02 05:11",
+   "price": 66.5,
+   "change": 1.34,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 66.5,
+     "change": 1.34
+    },
+    {
+     "date": "2026-09-30",
+     "close": 65.62,
+     "change": 1.08
+    },
+    {
+     "date": "2026-09-29",
+     "close": 64.92,
+     "change": 0.19
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Testing Laboratories",
+   "state_of_incorporation": "DE",
+   "hq": "NORTHBROOK, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T05:12:33+09:00"
+  },
+  {
+   "id": "0001701605-26-000029",
+   "company": "Baker Hughes Co",
+   "ticker": "BKR",
+   "cik": 1701605,
+   "form": "8-K/A",
+   "items": [
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 76,
+   "summary": "3 UNAUDITED PRO FORMA COMBINED FINANCIAL STATEMENTS On July 16, 2026, Baker Hughes completed its acquisition of Chart Industries (the “Merger” or “Acquisition”) in accordance with the Merger Agreement, dated as of July 28, 2025 (as it may be amended from time to time, the “Merger Agreement”), by and",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000029/0001701605-26-000029-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000029/bkr20260110exhibit993.htm",
+   "filed_at": "2026-10-01T16:11:05-04:00",
+   "filed_kst": "2026-10-02 05:11",
+   "price": 55.62,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 55.62,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 55.62,
+     "change": 1.31
+    },
+    {
+     "date": "2026-09-30",
+     "close": 54.9,
+     "change": -1.82
+    }
+   ],
+   "market_cap": 55212531829.0,
+   "shares_outstanding": 992674071.0,
+   "industry": "Oil & Gas Field Machinery & Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T05:12:00+09:00"
+  },
   {
    "id": "0001193125-26-410662",
    "company": "LIQUIDITY SERVICES INC",
@@ -15446,96 +15552,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-24T05:21:07+09:00"
-  },
-  {
-   "id": "0001104659-26-109977",
-   "company": "ATII Holdings Inc.",
-   "ticker": "NANO",
-   "cik": 2101833,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "We will also highlight the key updates since announcing a proposed business combination in April, including commercial momentum, strategic partnerships, operational milestones, and capital support for the company's next phase of growth.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2101833/000110465926109977/0001104659-26-109977-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2101833/000110465926109977/tm264900d28_425.htm",
-   "filed_at": "2026-09-23T16:15:29-04:00",
-   "filed_kst": "2026-09-24 05:15",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Special Industry Machinery, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "CLAYMONT, DE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-24T05:20:58+09:00"
-  },
-  {
-   "id": "0001683168-26-007324",
-   "company": "NeoVolta Inc.",
-   "ticker": "NEOV",
-   "cik": 1748137,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 74,
-   "summary": "0 million) in initial funding with the potential to increase the aggregate loan commitment by up to an additional $10 million upon mutual agreement of the Company and participating lenders.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1748137/000168316826007324/0001683168-26-007324-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1748137/000168316826007324/neovolta_ex9901.htm",
-   "filed_at": "2026-09-23T16:15:36-04:00",
-   "filed_kst": "2026-09-24 05:15",
-   "price": 3.17,
-   "change": -6.76,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 3.17,
-     "change": -6.76
-    },
-    {
-     "date": "2026-09-21",
-     "close": 3.4,
-     "change": -0.29
-    },
-    {
-     "date": "2026-09-18",
-     "close": 3.41,
-     "change": -2.29
-    }
-   ],
-   "market_cap": 135394824.0,
-   "shares_outstanding": 42711301.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "NV",
-   "hq": "POWAY, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-24T05:19:20+09:00"
   }
  ]
 }
