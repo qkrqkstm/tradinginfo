@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-01T21:09:42+09:00",
+ "updated_at": "2026-10-01T21:14:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-045260",
+   "company": "Azitra, Inc.",
+   "ticker": "AZTR",
+   "cik": 1701478,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Food and Drug Administration (the “FDA”) has granted Fast Track designation to ATR04-484 for the treatment of EGFRi-associated rash, recognizing the high unmet medical need for the approximately 150,000 patients affected annually in the United States.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701478/000149315226045260/0001493152-26-045260-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701478/000149315226045260/ex99-1.htm",
+   "filed_at": "2026-10-01T08:10:36-04:00",
+   "filed_kst": "2026-10-01 21:10",
+   "price": 0.14,
+   "change": -0.29,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 0.14,
+     "change": -0.29
+    },
+    {
+     "date": "2026-09-30",
+     "close": 0.14,
+     "change": 5.34
+    },
+    {
+     "date": "2026-09-29",
+     "close": 0.13,
+     "change": -22.94
+    }
+   ],
+   "market_cap": 8484524.0,
+   "shares_outstanding": 60603742.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BRANFORD, CT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-01T21:11:32+09:00"
+  },
   {
    "id": "0001493152-26-045258",
    "company": "Aptera Motors Corp",
@@ -15479,56 +15532,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-23T19:39:12+09:00"
-  },
-  {
-   "id": "0001654954-26-008520",
-   "company": "ASTRAZENECA PLC",
-   "ticker": "AZN",
-   "cik": 901832,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "The approval by the European Commission (EC) follows the positive opinion of the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) and was based on the positive results from the KALOS and LOGOS Phase III trials.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426008520/0001654954-26-008520-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426008520/a8652v.htm",
-   "filed_at": "2026-09-23T06:01:08-04:00",
-   "filed_kst": "2026-09-23 19:01",
-   "price": 168.37,
-   "change": 0.16,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 168.37,
-     "change": 0.16
-    },
-    {
-     "date": "2026-09-21",
-     "close": 168.1,
-     "change": 1.22
-    },
-    {
-     "date": "2026-09-18",
-     "close": 166.08,
-     "change": -0.04
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "CAMBRIDGE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T19:03:57+09:00"
   }
  ]
 }
