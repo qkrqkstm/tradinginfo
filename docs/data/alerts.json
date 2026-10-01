@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-02T06:19:40+09:00",
+ "updated_at": "2026-10-02T06:24:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-105909",
+   "company": "ENDRA Life Sciences Inc.",
+   "ticker": "NDRA",
+   "cik": 1681682,
+   "form": "425",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "First Amendment to Agreement and Plan of Merger As previously disclosed, on June 25, 2026, ENDRA Life Sciences Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026105909/0001213900-26-105909-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026105909/ea0307011-8k425_endra.htm",
+   "filed_at": "2026-10-01T17:21:07-04:00",
+   "filed_kst": "2026-10-02 06:21",
+   "price": 5.88,
+   "change": -1.34,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 5.88,
+     "change": -1.34
+    },
+    {
+     "date": "2026-09-30",
+     "close": 5.96,
+     "change": 1.36
+    },
+    {
+     "date": "2026-09-29",
+     "close": 5.88,
+     "change": 1.38
+    }
+   ],
+   "market_cap": 8819047.0,
+   "shares_outstanding": 1499838.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "ANN ARBOR, MI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-02T06:21:35+09:00"
+  },
   {
    "id": "0001213900-26-105899",
    "company": "ENDRA Life Sciences Inc.",
@@ -15503,56 +15557,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-24T19:07:01+09:00"
-  },
-  {
-   "id": "0001046179-26-000660",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "ticker": "TSM",
-   "cik": 1046179,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 tsm-monthend6kx20260924.htm 6-K Document 1934 Act Registration No. 1-14700 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 _____________________________ FORM 6-K _____________________________ REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE S",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000660/0001046179-26-000660-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000660/tsm-monthend6kx20260924.htm",
-   "filed_at": "2026-09-24T06:02:44-04:00",
-   "filed_kst": "2026-09-24 19:02",
-   "price": 446.57,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-24",
-     "close": 446.57,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-23",
-     "close": 446.57,
-     "change": -1.2
-    },
-    {
-     "date": "2026-09-22",
-     "close": 452.0,
-     "change": 1.54
-    }
-   ],
-   "market_cap": 11580687475343.0,
-   "shares_outstanding": 25932524521.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": null,
-   "hq": "HSINCHU",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-24T19:03:40+09:00"
   }
  ]
 }
