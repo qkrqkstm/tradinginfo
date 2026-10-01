@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-01T22:24:39+09:00",
+ "updated_at": "2026-10-01T22:29:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-105496",
+   "company": "Everbright Digital Holding Ltd.",
+   "ticker": "EDHL",
+   "cik": 2024876,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "This includes working as an agent, consultant, employee, officer, director, partner or independent contractor or being a shareholder, member, joint venturer or equity owner in any such Business Enterprise; PROVIDED, HOWEVER, that the foregoing shall not restrict Executive from holding up to 5% of th",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2024876/000121390026105496/0001213900-26-105496-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2024876/000121390026105496/ea030732301ex10-1.htm",
+   "filed_at": "2026-10-01T09:25:01-04:00",
+   "filed_kst": "2026-10-01 22:25",
+   "price": 5.0,
+   "change": -3.85,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 5.0,
+     "change": -3.85
+    },
+    {
+     "date": "2026-09-29",
+     "close": 5.2,
+     "change": 1.17
+    },
+    {
+     "date": "2026-09-28",
+     "close": 5.14,
+     "change": 2.8
+    }
+   ],
+   "market_cap": 133300000.0,
+   "shares_outstanding": 26660000.0,
+   "industry": "Services-Advertising",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HONG KONG, K3",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-01T22:25:25+09:00"
+  },
   {
    "id": "0001213900-26-105492",
    "company": "PolyPid Ltd.",
@@ -15510,58 +15561,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-23T22:07:10+09:00"
-  },
-  {
-   "id": "0001193125-26-398606",
-   "company": "Caesars Entertainment, Inc.",
-   "ticker": "CZR",
-   "cik": 1590895,
-   "form": "8-K",
-   "items": [
-    "5.07"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": ", a Delaware corporation (“Caesars” or the “Company”), previously approved an Agreement and Plan of Merger, dated as of May 27, 2026 (as may be amended from time to time, the “Merger Agreement”), providing that Empire Merger Sub, Inc.",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1590895/000119312526398606/0001193125-26-398606-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1590895/000119312526398606/d743488d8k.htm",
-   "filed_at": "2026-09-23T09:00:06-04:00",
-   "filed_kst": "2026-09-23 22:00",
-   "price": 29.62,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 29.62,
-     "change": -0.1
-    },
-    {
-     "date": "2026-09-21",
-     "close": 29.65,
-     "change": 0.03
-    },
-    {
-     "date": "2026-09-18",
-     "close": 29.64,
-     "change": -0.1
-    }
-   ],
-   "market_cap": 6034197419.0,
-   "shares_outstanding": 203720372.0,
-   "industry": "Hotels & Motels",
-   "state_of_incorporation": "DE",
-   "hq": "RENO, NV",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T22:00:59+09:00"
   }
  ]
 }
