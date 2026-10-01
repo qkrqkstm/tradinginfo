@@ -1,7 +1,168 @@
 {
- "updated_at": "2026-10-02T05:14:05+09:00",
+ "updated_at": "2026-10-02T05:19:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-064259",
+   "company": "H2O AMERICA",
+   "ticker": "HTO",
+   "cik": 766829,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Texas limited partnership, as seller (“Quadvest Retail”) and the Company, as guarantor, pursuant to which, and subject to the terms and conditions set forth therein, Quadvest Retail agreed to sell, and TWC agreed to acquire, substantially all of the assets of Quadvest Retail related to the opera",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/766829/000162828026064259/0001628280-26-064259-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/766829/000162828026064259/sjw-20261001.htm",
+   "filed_at": "2026-10-01T16:18:50-04:00",
+   "filed_kst": "2026-10-02 05:18",
+   "price": 60.2,
+   "change": -2.32,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 60.2,
+     "change": -2.32
+    },
+    {
+     "date": "2026-09-30",
+     "close": 61.63,
+     "change": -0.03
+    },
+    {
+     "date": "2026-09-29",
+     "close": 61.65,
+     "change": 0.46
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Water Supply",
+   "state_of_incorporation": "DE",
+   "hq": "SAN JOSE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T05:19:19+09:00"
+  },
+  {
+   "id": "0001104659-26-112839",
+   "company": "Blue Bird Corp",
+   "ticker": "BLBD",
+   "cik": 1589526,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Exchangeable Shares were issued by MB ExchangeCo in connection with the Company’s acquisition, completed on April 1, 2026, of the 50% interest in the Company’s Micro Bird joint venture enterprise held by the former joint venture partner.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1589526/000110465926112839/0001104659-26-112839-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1589526/000110465926112839/tm2626711d1_8k.htm",
+   "filed_at": "2026-10-01T16:18:14-04:00",
+   "filed_kst": "2026-10-02 05:18",
+   "price": 55.6,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 55.6,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 55.6,
+     "change": 0.18
+    },
+    {
+     "date": "2026-09-30",
+     "close": 55.5,
+     "change": -1.53
+    }
+   ],
+   "market_cap": 1761187768.0,
+   "shares_outstanding": 31676039.0,
+   "industry": "Truck & Bus Bodies",
+   "state_of_incorporation": null,
+   "hq": "MACON, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T05:18:46+09:00"
+  },
+  {
+   "id": "0001808997-26-000052",
+   "company": "American Outdoor Brands, Inc.",
+   "ticker": "AOUT",
+   "cik": 1808997,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "On October 1, 2026, we announced that our Board of Directors has approved a program to repurchase up to $10.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1808997/000180899726000052/0001808997-26-000052-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1808997/000180899726000052/aout-20261001.htm",
+   "filed_at": "2026-10-01T16:17:19-04:00",
+   "filed_kst": "2026-10-02 05:17",
+   "price": 16.04,
+   "change": -0.99,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 16.04,
+     "change": -0.99
+    },
+    {
+     "date": "2026-09-30",
+     "close": 16.2,
+     "change": -4.14
+    },
+    {
+     "date": "2026-09-29",
+     "close": 16.9,
+     "change": -1.05
+    }
+   ],
+   "market_cap": 202444449.0,
+   "shares_outstanding": 12621225.0,
+   "industry": "Sporting & Athletic Goods, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "COLUMBIA, MO",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-02T05:18:13+09:00"
+  },
   {
    "id": "0001628280-26-064246",
    "company": "UL Solutions Inc.",
@@ -15395,163 +15556,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-24T05:33:48+09:00"
-  },
-  {
-   "id": "0001493152-26-043936",
-   "company": "Hennessy Capital Investment Corp. VII",
-   "ticker": "HVII",
-   "cik": 1846416,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "VII, a Cayman Islands exempted company (“HVII”), and ONE Nuclear Energy, LLC, a Delaware limited liability company (“ONE Nuclear”), issued a press release announcing the closing of the business combination contemplated by the Business Combination Agreement, dated as of October 22, 2025, as amended b",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226043936/0001493152-26-043936-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226043936/ex99-2.htm",
-   "filed_at": "2026-09-23T16:30:52-04:00",
-   "filed_kst": "2026-09-24 05:30",
-   "price": 4.46,
-   "change": -59.01,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 4.46,
-     "change": -59.01
-    },
-    {
-     "date": "2026-09-21",
-     "close": 10.88,
-     "change": 8.8
-    },
-    {
-     "date": "2026-09-18",
-     "close": 10.0,
-     "change": -6.98
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Electric Services",
-   "state_of_incorporation": null,
-   "hq": "WEST PALM BEACH, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-24T05:32:21+09:00"
-  },
-  {
-   "id": "0001493152-26-043932",
-   "company": "GMEX Robotics Corp",
-   "ticker": "GMEX",
-   "cik": 1928581,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "This positions us optimally to consider strategic partnerships, acquisitions, or other capital market activities from a position of strength”.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1928581/000149315226043932/0001493152-26-043932-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1928581/000149315226043932/ex99-1.htm",
-   "filed_at": "2026-09-23T16:30:09-04:00",
-   "filed_kst": "2026-09-24 05:30",
-   "price": 0.43,
-   "change": -0.81,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 0.43,
-     "change": -0.81
-    },
-    {
-     "date": "2026-09-22",
-     "close": 0.43,
-     "change": 5.38
-    },
-    {
-     "date": "2026-09-21",
-     "close": 0.41,
-     "change": -2.15
-    }
-   ],
-   "market_cap": 9038857.0,
-   "shares_outstanding": 21020597.0,
-   "industry": "Sporting & Athletic Goods, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BANKSTOWN NSW 2200",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-24T05:31:47+09:00"
-  },
-  {
-   "id": "0001104659-26-109977",
-   "company": "Archimedes Tech SPAC Partners II Co.",
-   "ticker": "ATII",
-   "cik": 2028516,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "We will also highlight the key updates since announcing a proposed business combination in April, including commercial momentum, strategic partnerships, operational milestones, and capital support for the company's next phase of growth.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2028516/000110465926109977/0001104659-26-109977-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028516/000110465926109977/tm264900d28_425.htm",
-   "filed_at": "2026-09-23T16:15:29-04:00",
-   "filed_kst": "2026-09-24 05:15",
-   "price": 10.68,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 10.68,
-     "change": -0.05
-    },
-    {
-     "date": "2026-09-21",
-     "close": 10.69,
-     "change": 0.14
-    },
-    {
-     "date": "2026-09-18",
-     "close": 10.67,
-     "change": 0.05
-    }
-   ],
-   "market_cap": 316021200.0,
-   "shares_outstanding": 29590000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": null,
-   "hq": "CLAYMONT, DE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-24T05:21:07+09:00"
   }
  ]
 }
