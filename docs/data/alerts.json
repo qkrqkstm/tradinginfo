@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-02T01:59:28+09:00",
+ "updated_at": "2026-10-02T02:04:52+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-410308",
+   "company": "CAMECO CORP",
+   "ticker": "CCJ",
+   "cik": 1009001,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Building upon the strategic partnership announcement between Cameco, Brookfield Asset Management and the United States Department of Commerce in October 2025 (the “Partnership”), this Framework outlines a potential funding and execution pathway for the construction of new nucle",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526410308/0001193125-26-410308-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526410308/d59652dex991.htm",
+   "filed_at": "2026-10-01T13:02:29-04:00",
+   "filed_kst": "2026-10-02 02:02",
+   "price": 85.33,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 85.33,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 85.33,
+     "change": -1.55
+    },
+    {
+     "date": "2026-09-30",
+     "close": 86.67,
+     "change": -0.24
+    }
+   ],
+   "market_cap": 37157629263.0,
+   "shares_outstanding": 435457978.0,
+   "industry": "Miscellaneous Metal Ores",
+   "state_of_incorporation": null,
+   "hq": "SASKATOON",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-02T02:03:20+09:00"
+  },
   {
    "id": "0001062993-26-005138",
    "company": "PLATINUM GROUP METALS LTD",
@@ -15503,56 +15553,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-23T23:05:45+09:00"
-  },
-  {
-   "id": "0001174947-26-000894",
-   "company": "ENI SPA",
-   "ticker": "E",
-   "cik": 1002242,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "From the start on 8 May 2026 of the buyback program, Eni acquired no.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000894/0001174947-26-000894-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000894/form6k-36369_eni.htm",
-   "filed_at": "2026-09-23T09:37:04-04:00",
-   "filed_kst": "2026-09-23 22:37",
-   "price": 54.14,
-   "change": 0.19,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 54.14,
-     "change": 0.19
-    },
-    {
-     "date": "2026-09-21",
-     "close": 54.04,
-     "change": -1.06
-    },
-    {
-     "date": "2026-09-18",
-     "close": 54.62,
-     "change": -1.48
-    }
-   ],
-   "market_cap": 170365863272.0,
-   "shares_outstanding": 3146765114.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "Italy",
-   "hq": "ROME ITALY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T22:38:46+09:00"
   }
  ]
 }
