@@ -1,7 +1,109 @@
 {
- "updated_at": "2026-10-02T05:49:36+09:00",
+ "updated_at": "2026-10-02T05:54:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-038285",
+   "company": "Elevra Lithium Ltd",
+   "ticker": "ELVR",
+   "cik": 1739016,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "com About Elevra Lithium Elevra Lithium Limited is a North American lithium producer (ASX:ELV; NASDAQ:ELVR) with projects in Québec, Canada, United States, and a joint venture in Western Australia.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126038285/0001140361-26-038285-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126038285/ef20083027_ex99-2.htm",
+   "filed_at": "2026-10-01T16:52:16-04:00",
+   "filed_kst": "2026-10-02 05:52",
+   "price": 36.62,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 36.62,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 36.62,
+     "change": -6.15
+    },
+    {
+     "date": "2026-09-30",
+     "close": 39.02,
+     "change": -4.67
+    }
+   ],
+   "market_cap": 422715500033.0,
+   "shares_outstanding": 11543296014.0,
+   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+   "state_of_incorporation": "Australia",
+   "hq": "BRISBANE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-02T05:53:07+09:00"
+  },
+  {
+   "id": "0001104659-26-112870",
+   "company": "MODINE MANUFACTURING CO",
+   "ticker": "MOD",
+   "cik": 67347,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "배당"
+   ],
+   "confidence": 71,
+   "summary": "07 per share to be paid on October 7, 2026 to Gentherm shareholders as of September 28, 2026, the record date for the special dividend, in accordance with the Merger Agreement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/67347/000110465926112870/0001104659-26-112870-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/67347/000110465926112870/tm2626618d1_ex99-1.htm",
+   "filed_at": "2026-10-01T16:50:31-04:00",
+   "filed_kst": "2026-10-02 05:50",
+   "price": 189.21,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 189.21,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 189.21,
+     "change": 1.07
+    },
+    {
+     "date": "2026-09-30",
+     "close": 187.2,
+     "change": 1.89
+    }
+   ],
+   "market_cap": 10049455481.0,
+   "shares_outstanding": 53112708.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "WI",
+   "hq": "RACINE, WI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T05:51:00+09:00"
+  },
   {
    "id": "0001193125-26-410776",
    "company": "Gentherm Inc",
@@ -15456,112 +15558,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-24T06:10:43+09:00"
-  },
-  {
-   "id": "0001437749-26-031072",
-   "company": "INDEPENDENCE REALTY TRUST, INC.",
-   "ticker": "IRT",
-   "cik": 1466085,
-   "form": "425",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "1 AMENDMENT TO AGREEMENT AND PLAN OF MERGER This AMENDMENT TO AGREEMENT AND PLAN OF MERGER (this “ Amendment ”), dated as of September 22, 2026 (the “ Effective Date ”), is made by and among Independence Realty Trust, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926031072/0001437749-26-031072-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926031072/ex_1018929.htm",
-   "filed_at": "2026-09-23T17:01:00-04:00",
-   "filed_kst": "2026-09-24 06:01",
-   "price": 14.58,
-   "change": -0.55,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 14.58,
-     "change": -0.55
-    },
-    {
-     "date": "2026-09-21",
-     "close": 14.66,
-     "change": -0.88
-    },
-    {
-     "date": "2026-09-18",
-     "close": 14.79,
-     "change": -1.73
-    }
-   ],
-   "market_cap": 3437155787.0,
-   "shares_outstanding": 235744567.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "PHILADELPHIA, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-24T06:03:06+09:00"
-  },
-  {
-   "id": "0001437749-26-031071",
-   "company": "INDEPENDENCE REALTY TRUST, INC.",
-   "ticker": "IRT",
-   "cik": 1466085,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "1 AMENDMENT TO AGREEMENT AND PLAN OF MERGER This AMENDMENT TO AGREEMENT AND PLAN OF MERGER (this “ Amendment ”), dated as of September 22, 2026 (the “ Effective Date ”), is made by and among Independence Realty Trust, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926031071/0001437749-26-031071-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926031071/ex_1018383.htm",
-   "filed_at": "2026-09-23T17:00:44-04:00",
-   "filed_kst": "2026-09-24 06:00",
-   "price": 14.58,
-   "change": -0.55,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 14.58,
-     "change": -0.55
-    },
-    {
-     "date": "2026-09-21",
-     "close": 14.66,
-     "change": -0.88
-    },
-    {
-     "date": "2026-09-18",
-     "close": 14.79,
-     "change": -1.73
-    }
-   ],
-   "market_cap": 3437155787.0,
-   "shares_outstanding": 235744567.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "PHILADELPHIA, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-24T06:02:21+09:00"
   }
  ]
 }
