@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-01T19:59:26+09:00",
+ "updated_at": "2026-10-01T20:04:53+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001214659-26-012385",
+   "company": "VerifyMe, Inc.",
+   "ticker": "VRME",
+   "cik": 1104038,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Nevada corporation (the “Company,” “we” or “us”) entered into an Agreement and Plan of Merger (as subsequently amended, the “Merger Agreement”) with VRME Subsidiary Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012385/0001214659-26-012385-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012385/ex99_1.htm",
+   "filed_at": "2026-10-01T07:00:16-04:00",
+   "filed_kst": "2026-10-01 20:00",
+   "price": 8.98,
+   "change": 10.32,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 8.98,
+     "change": 10.32
+    },
+    {
+     "date": "2026-09-29",
+     "close": 8.14,
+     "change": -17.78
+    },
+    {
+     "date": "2026-09-28",
+     "close": 9.9,
+     "change": 3.14
+    }
+   ],
+   "market_cap": 118223460.0,
+   "shares_outstanding": 13165196.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "NV",
+   "hq": "LAKE MARY, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-01T20:00:45+09:00"
+  },
   {
    "id": "0001171843-26-006324",
    "company": "Costamare Inc.",
@@ -15466,57 +15520,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-23T06:27:25+09:00"
-  },
-  {
-   "id": "0001193125-26-398138",
-   "company": "M&T BANK CORP",
-   "ticker": "MTB",
-   "cik": 36270,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "EX-1.1 2 d181022dex11.htm EX-1.1 EX-1.1 Exhibit 1.1 M&T Bank Corporation Senior Medium-Term Notes, Series C Subordinated Medium-Term Notes, Series D Due Nine Months or More From Date of Issue DISTRIBUTION AGREEMENT September 22, 2026 RBC CAPITAL MARKETS, LLC Brookfield Place 200 Vesey Street, 8 th F",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000119312526398138/0001193125-26-398138-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/36270/000119312526398138/d181022dex11.htm",
-   "filed_at": "2026-09-22T17:22:11-04:00",
-   "filed_kst": "2026-09-23 06:22",
-   "price": 223.42,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 223.42,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-22",
-     "close": 223.42,
-     "change": -1.56
-    },
-    {
-     "date": "2026-09-21",
-     "close": 226.96,
-     "change": -0.15
-    }
-   ],
-   "market_cap": 32265481256.0,
-   "shares_outstanding": 144416262.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "NY",
-   "hq": "BUFFALO, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T06:23:27+09:00"
   }
  ]
 }
