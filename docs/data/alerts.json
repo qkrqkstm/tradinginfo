@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-02T05:19:21+09:00",
+ "updated_at": "2026-10-02T05:24:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000850141-26-000036",
+   "company": "HORACE MANN EDUCATORS CORP /DE/",
+   "ticker": "HMN",
+   "cik": 850141,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "01: Other Events Horace Mann Educators Corporation (the “Company”) issued a news release announcing on October 1, 2026, that it completed the acquisition of all of the equity interests in Employee Services LLC (“ESI”) in an all-cash transaction for $115 million, subject to customary purchase price a",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/850141/000085014126000036/0000850141-26-000036-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/850141/000085014126000036/hmn-20261001.htm",
+   "filed_at": "2026-10-01T16:20:27-04:00",
+   "filed_kst": "2026-10-02 05:20",
+   "price": 44.94,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 44.94,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 44.94,
+     "change": 0.76
+    },
+    {
+     "date": "2026-09-30",
+     "close": 44.6,
+     "change": -2.0
+    }
+   ],
+   "market_cap": 1820117367.0,
+   "shares_outstanding": 40501054.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": "DE",
+   "hq": "SPRINGFIELD, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T05:21:00+09:00"
+  },
   {
    "id": "0001628280-26-064259",
    "company": "H2O AMERICA",
@@ -15505,57 +15558,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-24T05:41:55+09:00"
-  },
-  {
-   "id": "0001104659-26-110002",
-   "company": "Willdan Group, Inc.",
-   "ticker": "WLDN",
-   "cik": 1370450,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "EX-2.1 2 tm2625947d1_ex2-1.htm EXHIBIT 2.1 Exhibit 2.1 Execution Version MEMBERSHIP INTEREST PURCHASE AGREEMENT DATED AS OF SEPTEMBER 22, 2026 BY AND AMONG MANTIS NEWCO, LLC, AS SELLER AND WILLDAN ENERGY SOLUTIONS, INC. AS BUYER Table of Contents Page ARTICLE 1 Certain Definitions 1 Section 1.1 Defi",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926110002/0001104659-26-110002-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926110002/tm2625947d1_ex2-1.htm",
-   "filed_at": "2026-09-23T16:32:11-04:00",
-   "filed_kst": "2026-09-24 05:32",
-   "price": 81.36,
-   "change": 1.42,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 81.36,
-     "change": 1.42
-    },
-    {
-     "date": "2026-09-21",
-     "close": 80.22,
-     "change": 0.34
-    },
-    {
-     "date": "2026-09-18",
-     "close": 79.95,
-     "change": -0.05
-    }
-   ],
-   "market_cap": 1239282924.0,
-   "shares_outstanding": 15232091.0,
-   "industry": "Services-Engineering Services",
-   "state_of_incorporation": "DE",
-   "hq": "ANAHEIM, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-24T05:33:48+09:00"
   }
  ]
 }
