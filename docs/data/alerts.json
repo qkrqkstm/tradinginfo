@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-01T21:59:29+09:00",
+ "updated_at": "2026-10-01T22:04:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001645113-26-000071",
+   "company": "NovoCure Ltd",
+   "ticker": "NVCR",
+   "cik": 1645113,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 84,
+   "summary": "“In the Phase 3 PANOVA-3 trial for Optune Pax, there was a statistically significant improvement in overall survival and pain progression was delayed, helping to preserve overall quality of life for people with this disease.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000071/0001645113-26-000071-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000071/nvcr-20261001.htm",
+   "filed_at": "2026-10-01T09:00:29-04:00",
+   "filed_kst": "2026-10-01 22:00",
+   "price": 15.95,
+   "change": -0.25,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 15.95,
+     "change": -0.25
+    },
+    {
+     "date": "2026-09-29",
+     "close": 15.99,
+     "change": 1.01
+    },
+    {
+     "date": "2026-09-28",
+     "close": 15.83,
+     "change": -0.06
+    }
+   ],
+   "market_cap": 1857311148.0,
+   "shares_outstanding": 116445840.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": null,
+   "hq": "ST. HELIER",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T22:01:53+09:00"
+  },
   {
    "id": "0001213900-26-105464",
    "company": "Evolution Metals & Technologies Corp.",
@@ -15501,60 +15555,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-09-23T21:01:11+09:00"
-  },
-  {
-   "id": "0001683168-26-007300",
-   "company": "Valion Bio, Inc.",
-   "ticker": "VBIO",
-   "cik": 1787740,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The product candidate has received Fast Track and Orphan Drug designations from the FDA.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007300/0001683168-26-007300-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007300/valion_ex9901.htm",
-   "filed_at": "2026-09-23T08:00:14-04:00",
-   "filed_kst": "2026-09-23 21:00",
-   "price": 2.49,
-   "change": 4.62,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 2.49,
-     "change": 4.62
-    },
-    {
-     "date": "2026-09-21",
-     "close": 2.38,
-     "change": 12.26
-    },
-    {
-     "date": "2026-09-18",
-     "close": 2.12,
-     "change": -4.93
-    }
-   ],
-   "market_cap": 55252450.0,
-   "shares_outstanding": 22189739.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-23T21:01:08+09:00"
   }
  ]
 }
