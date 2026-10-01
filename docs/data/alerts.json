@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-02T02:49:33+09:00",
+ "updated_at": "2026-10-02T02:54:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000063296-26-000098",
+   "company": "MATTHEWS INTERNATIONAL CORP",
+   "ticker": "MATW",
+   "cik": 63296,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 ex991_kdmoretire.htm EX-99.1 PRESS RELEASE Document NEWS RELEASE Matthews International Corporation Corporate Office Two NorthShore Center Pittsburgh, PA 15212-5851 Phone: (412) 442-8200 October 1, 2026 Contact: Daniel E. Stopar Chief Financial Officer and Treasurer MATTHEWS INTERNATIONAL ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000098/0000063296-26-000098-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000098/ex991_kdmoretire.htm",
+   "filed_at": "2026-10-01T13:51:29-04:00",
+   "filed_kst": "2026-10-02 02:51",
+   "price": 18.82,
+   "change": -1.95,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 18.82,
+     "change": -1.95
+    },
+    {
+     "date": "2026-09-30",
+     "close": 19.19,
+     "change": -1.24
+    },
+    {
+     "date": "2026-09-29",
+     "close": 19.43,
+     "change": -0.46
+    }
+   ],
+   "market_cap": 587431916.0,
+   "shares_outstanding": 31213173.0,
+   "industry": "Nonferrous Foundries (Castings)",
+   "state_of_incorporation": "PA",
+   "hq": "PITTSBURGH, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T02:52:01+09:00"
+  },
   {
    "id": "0001833141-26-000084",
    "company": "CYBIN INC.",
@@ -15495,59 +15549,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-23T23:44:02+09:00"
-  },
-  {
-   "id": "0001213900-26-102450",
-   "company": "Quanome Technologies, Inc.",
-   "ticker": "QNME",
-   "cik": 1996192,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "1 Quanome Advances Its AI Cloud Business XDT with US$18.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026102450/0001213900-26-102450-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026102450/ea030638001ex99-1.htm",
-   "filed_at": "2026-09-23T10:11:08-04:00",
-   "filed_kst": "2026-09-23 23:11",
-   "price": 0.88,
-   "change": 37.34,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 0.88,
-     "change": 37.34
-    },
-    {
-     "date": "2026-09-21",
-     "close": 0.64,
-     "change": 14.7
-    },
-    {
-     "date": "2026-09-18",
-     "close": 0.56,
-     "change": 92.41
-    }
-   ],
-   "market_cap": 30296252.0,
-   "shares_outstanding": 34427559.0,
-   "industry": "Arrangement of  Transportation of  Freight & Cargo",
-   "state_of_incorporation": "NV",
-   "hq": "ITASCA, IL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-23T23:12:46+09:00"
   }
  ]
 }
