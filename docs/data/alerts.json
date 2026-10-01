@@ -1,7 +1,110 @@
 {
- "updated_at": "2026-10-02T05:29:36+09:00",
+ "updated_at": "2026-10-02T05:34:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-112845",
+   "company": "Fortress Biotech, Inc.",
+   "ticker": "FBIO",
+   "cik": 1429260,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "(the “ Company ”), as borrower, entered into a $50.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1429260/000110465926112845/0001104659-26-112845-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1429260/000110465926112845/fbio-20260930x8k.htm",
+   "filed_at": "2026-10-01T16:30:27-04:00",
+   "filed_kst": "2026-10-02 05:30",
+   "price": 2.07,
+   "change": -3.27,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 2.07,
+     "change": -3.27
+    },
+    {
+     "date": "2026-09-30",
+     "close": 2.14,
+     "change": -2.73
+    },
+    {
+     "date": "2026-09-29",
+     "close": 2.2,
+     "change": 1.38
+    }
+   ],
+   "market_cap": 170721443.0,
+   "shares_outstanding": 82474127.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BAY HARBOR ISLANDS, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-02T05:31:49+09:00"
+  },
+  {
+   "id": "0001171843-26-006336",
+   "company": "TOP SHIPS INC.",
+   "ticker": "TOPS",
+   "cik": 1296484,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company’s tanker operating fleet has a total capacity of 857,000 dwt and consists of one 50,000 dwt product/chemical tanker, one 157,000 dwt Suezmax tanker, two 300,000 dwt VLCCs and, through a joint venture, 50% interests in two 50,000 dwt product tankers.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326006336/0001171843-26-006336-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326006336/exh_991.htm",
+   "filed_at": "2026-10-01T16:30:03-04:00",
+   "filed_kst": "2026-10-02 05:30",
+   "price": 0.55,
+   "change": -4.55,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 0.55,
+     "change": -4.55
+    },
+    {
+     "date": "2026-09-30",
+     "close": 0.58,
+     "change": -6.45
+    },
+    {
+     "date": "2026-09-29",
+     "close": 0.62,
+     "change": -3.12
+    }
+   ],
+   "market_cap": 5662198.0,
+   "shares_outstanding": 10294906.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "MAROUSSI",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-02T05:31:16+09:00"
+  },
   {
    "id": "0000850141-26-000036",
    "company": "HORACE MANN EDUCATORS CORP /DE/",
@@ -15457,107 +15560,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-09-24T06:01:16+09:00"
-  },
-  {
-   "id": "0001906324-26-000036",
-   "company": "QuidelOrtho Corp",
-   "ticker": "QDEL",
-   "cik": 1906324,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-10.1 2 exhibit101amendmentno1.htm EX-10.1 Document EXHIBIT 10.1 Execution Copy AMENDMENT NO. 1 AMENDMENT NO. 1, dated as of September 23, 2026 (this “ Amendment ”), by and among QuidelOrtho Corporation, a Delaware corporation (the “ Borrower ”), the Guarantors party hereto, the Lenders party here",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1906324/000190632426000036/0001906324-26-000036-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1906324/000190632426000036/exhibit101amendmentno1.htm",
-   "filed_at": "2026-09-23T16:41:04-04:00",
-   "filed_kst": "2026-09-24 05:41",
-   "price": 10.34,
-   "change": -4.79,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 10.34,
-     "change": -4.79
-    },
-    {
-     "date": "2026-09-21",
-     "close": 10.86,
-     "change": 2.26
-    },
-    {
-     "date": "2026-09-18",
-     "close": 10.62,
-     "change": -4.24
-    }
-   ],
-   "market_cap": 709069915.0,
-   "shares_outstanding": 68575427.0,
-   "industry": "In Vitro & In Vivo Diagnostic Substances",
-   "state_of_incorporation": null,
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-24T05:44:21+09:00"
-  },
-  {
-   "id": "0000928054-26-000090",
-   "company": "FLOTEK INDUSTRIES INC/CN/",
-   "ticker": "FTK",
-   "cik": 928054,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "06 No Subsidiaries or Joint Ventures 90 Section 6.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/928054/000092805426000090/0000928054-26-000090-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/928054/000092805426000090/exhibit101-termloan.htm",
-   "filed_at": "2026-09-23T16:40:34-04:00",
-   "filed_kst": "2026-09-24 05:40",
-   "price": 30.43,
-   "change": -0.91,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 30.43,
-     "change": -0.91
-    },
-    {
-     "date": "2026-09-21",
-     "close": 30.71,
-     "change": -2.2
-    },
-    {
-     "date": "2026-09-18",
-     "close": 31.4,
-     "change": 2.61
-    }
-   ],
-   "market_cap": 1102187654.0,
-   "shares_outstanding": 36220429.0,
-   "industry": "Miscellaneous Chemical Products",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-24T05:41:55+09:00"
   }
  ]
 }
