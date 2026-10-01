@@ -1,7 +1,364 @@
 {
- "updated_at": "2026-10-01T19:04:44+09:00",
+ "updated_at": "2026-10-01T19:09:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-008684",
+   "company": "BARCLAYS PLC",
+   "ticker": "BCS",
+   "cik": 312069,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Following the cancellation of the repurchased shares, the Company's issued share capital will consist of 13,441,073,778 ordinary shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/312069/000165495426008684/0001654954-26-008684-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/312069/000165495426008684/sept.htm",
+   "filed_at": "2026-10-01T06:01:10-04:00",
+   "filed_kst": "2026-10-01 19:01",
+   "price": 24.27,
+   "change": -0.9,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 24.27,
+     "change": -0.9
+    },
+    {
+     "date": "2026-09-29",
+     "close": 24.49,
+     "change": -0.49
+    },
+    {
+     "date": "2026-09-28",
+     "close": 24.61,
+     "change": -0.81
+    }
+   ],
+   "market_cap": 336543880187.0,
+   "shares_outstanding": 13866661730.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T19:07:50+09:00"
+  },
+  {
+   "id": "0001104659-26-112508",
+   "company": "INSTINCT BIO TECHNICAL CO HOLDINGS INC.",
+   "ticker": "BIOT",
+   "cik": 2072188,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through its operations and strategic partnerships, BIOT seeks to build an integrated platform connecting innovative healthcare technologies, products and services with growth opportunities across Asia and other international markets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2072188/000110465926112508/0001104659-26-112508-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2072188/000110465926112508/tm2626707d1_ex99-1.htm",
+   "filed_at": "2026-10-01T06:01:13-04:00",
+   "filed_kst": "2026-10-01 19:01",
+   "price": 0.37,
+   "change": 0.81,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 0.37,
+     "change": 0.81
+    },
+    {
+     "date": "2026-09-30",
+     "close": 0.37,
+     "change": -2.63
+    },
+    {
+     "date": "2026-09-29",
+     "close": 0.38,
+     "change": -2.56
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Perfumes, Cosmetics & Other Toilet Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "TOKYO",
+   "entity_category": null,
+   "detected_at": "2026-10-01T19:07:48+09:00"
+  },
+  {
+   "id": "0001140361-26-038129",
+   "company": "Borr Drilling Ltd",
+   "ticker": "BORR",
+   "cik": 1715497,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "In Europe, the Joro has been awarded a contract with an undisclosed operator for accommodation activities in the UK.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1715497/000114036126038129/0001140361-26-038129-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1715497/000114036126038129/ef20083023_ex99-1.htm",
+   "filed_at": "2026-10-01T06:02:32-04:00",
+   "filed_kst": "2026-10-01 19:02",
+   "price": 3.89,
+   "change": -0.51,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 3.89,
+     "change": -0.51
+    },
+    {
+     "date": "2026-09-29",
+     "close": 3.91,
+     "change": -2.49
+    },
+    {
+     "date": "2026-09-28",
+     "close": 4.01,
+     "change": -4.52
+    }
+   ],
+   "market_cap": 1195067980.0,
+   "shares_outstanding": 307215419.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": "Bermuda",
+   "hq": "HAMILTON, D0",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-01T19:07:45+09:00"
+  },
+  {
+   "id": "0001628280-26-064095",
+   "company": "Lyft, Inc.",
+   "ticker": "LYFT",
+   "cik": 1759509,
+   "form": "8-K",
+   "items": [
+    "7.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "The Company can elect to make settlement payments over four years, with 5% simple interest accruing after the first year, subject to a maximum amount of $12.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1759509/000162828026064095/0001628280-26-064095-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1759509/000162828026064095/lyft-20260930.htm",
+   "filed_at": "2026-10-01T06:02:16-04:00",
+   "filed_kst": "2026-10-01 19:02",
+   "price": 15.01,
+   "change": -0.4,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 15.01,
+     "change": -0.4
+    },
+    {
+     "date": "2026-09-29",
+     "close": 15.07,
+     "change": 1.28
+    },
+    {
+     "date": "2026-09-28",
+     "close": 14.88,
+     "change": 0.1
+    }
+   ],
+   "market_cap": 5681889137.0,
+   "shares_outstanding": 378540249.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T19:07:40+09:00"
+  },
+  {
+   "id": "0001292814-26-004772",
+   "company": "Afya Ltd",
+   "ticker": "AFYA",
+   "cik": 1771007,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "WHEREAS : (A) on the date hereof, YDUQS and Afya entered into the Merger Agreement and Other Covenants (“ Merger Agreement ”), which provides for a business combination through the merger of Afya into YDUQS, in accordance with the applicable laws of the Cayman Islands, Brazil and the United States; ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1771007/000129281426004772/0001292814-26-004772-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1771007/000129281426004772/ex99-1.htm",
+   "filed_at": "2026-09-30T20:22:45-04:00",
+   "filed_kst": "2026-10-01 09:22",
+   "price": 12.04,
+   "change": 1.86,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 12.04,
+     "change": 1.86
+    },
+    {
+     "date": "2026-09-29",
+     "close": 11.82,
+     "change": -1.83
+    },
+    {
+     "date": "2026-09-28",
+     "close": 12.04,
+     "change": -7.38
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 0.0,
+   "industry": "Services-Educational Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BELO HORIZONTE, MINAS GERAIS",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T19:06:02+09:00"
+  },
+  {
+   "id": "0001213900-26-105390",
+   "company": "Sanara MedTech Inc.",
+   "ticker": "SMTI",
+   "cik": 714256,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "A proposal to approve and adopt the Agreement and Plan of Merger, dated as of July 29, 2026 (as it may be amended, supplemented, waived or otherwise modified in accordance with its terms, the “Merger Agreement”), by and among Sanara, MiMedx Group, Inc.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026105390/0001213900-26-105390-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026105390/ea0307287-8k_sanara.htm",
+   "filed_at": "2026-09-30T19:48:20-04:00",
+   "filed_kst": "2026-10-01 08:48",
+   "price": 35.14,
+   "change": 0.14,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 35.14,
+     "change": 0.14
+    },
+    {
+     "date": "2026-09-29",
+     "close": 35.09,
+     "change": -0.03
+    },
+    {
+     "date": "2026-09-28",
+     "close": 35.1,
+     "change": 0.11
+    }
+   ],
+   "market_cap": 322867550.0,
+   "shares_outstanding": 9188035.0,
+   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+   "state_of_incorporation": "TX",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-01T19:05:28+09:00"
+  },
+  {
+   "id": "0001171843-26-006315",
+   "company": "Brookfield Asset Management Ltd.",
+   "ticker": "BAM",
+   "cik": 1937926,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "– Korea Framework Advances Deployment of Westinghouse Nuclear Technology in the United States Framework commits up to $120 billion of Korean investment to support construction of new nuclear reactors in the United States Builds on strategic partnership between the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326006315/0001171843-26-006315-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326006315/f8k_093026.htm",
+   "filed_at": "2026-09-30T19:59:54-04:00",
+   "filed_kst": "2026-10-01 08:59",
+   "price": 44.58,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 44.58,
+     "change": -0.0
+    },
+    {
+     "date": "2026-09-30",
+     "close": 44.58,
+     "change": -0.87
+    },
+    {
+     "date": "2026-09-29",
+     "close": 44.97,
+     "change": 1.06
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Investment Advice",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-01T19:05:25+09:00"
+  },
   {
    "id": "0001564708-26-000213",
    "company": "NEWS CORP",
@@ -15161,376 +15518,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-23T05:33:33+09:00"
-  },
-  {
-   "id": "0001628280-26-063046",
-   "company": "Vistagen Therapeutics, Inc.",
-   "ticker": "VTGN",
-   "cik": 1411685,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 79,
-   "summary": "The single-dose randomized portion of the study did not achieve its primary endpoint in the overall study population, as measured by the least squares mean change from baseline on the SUDS for fasedienol compared with placebo.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026063046/0001628280-26-063046-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026063046/ex99120260922.htm",
-   "filed_at": "2026-09-22T16:22:14-04:00",
-   "filed_kst": "2026-09-23 05:22",
-   "price": 0.25,
-   "change": -0.16,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 0.25,
-     "change": -0.16
-    },
-    {
-     "date": "2026-09-22",
-     "close": 0.25,
-     "change": 9.3
-    },
-    {
-     "date": "2026-09-21",
-     "close": 0.23,
-     "change": -4.17
-    }
-   ],
-   "market_cap": 11094228.0,
-   "shares_outstanding": 44376911.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NV",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-23T05:23:04+09:00"
-  },
-  {
-   "id": "0001193125-26-397953",
-   "company": "WORTHINGTON ENTERPRISES, INC.",
-   "ticker": "WOR",
-   "cik": 108516,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "2 million, leaving 4,230,000 common shares available under the existing repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526397953/0001193125-26-397953-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526397953/wor-ex99_1.htm",
-   "filed_at": "2026-09-22T16:20:20-04:00",
-   "filed_kst": "2026-09-23 05:20",
-   "price": 58.94,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 58.94,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-22",
-     "close": 58.94,
-     "change": 1.36
-    },
-    {
-     "date": "2026-09-21",
-     "close": 58.15,
-     "change": 1.34
-    }
-   ],
-   "market_cap": 2884194479.0,
-   "shares_outstanding": 48934416.0,
-   "industry": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
-   "state_of_incorporation": "OH",
-   "hq": "COLUMBUS, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T05:21:39+09:00"
-  },
-  {
-   "id": "0001376474-26-000615",
-   "company": "ZenaTech, Inc.",
-   "ticker": "ZENA",
-   "cik": 1997403,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (\"ZenaTech\"), a technology solution provider specializing in AI (Artificial Intelligence) drone, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, announces that it has completed the acquisition of Merritt Paul Land Surveying, LLC (Mer",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1997403/000137647426000615/0001376474-26-000615-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1997403/000137647426000615/zt_ex99z2.htm",
-   "filed_at": "2026-09-22T16:14:10-04:00",
-   "filed_kst": "2026-09-23 05:14",
-   "price": 1.54,
-   "change": 0.65,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 1.54,
-     "change": 0.65
-    },
-    {
-     "date": "2026-09-21",
-     "close": 1.53,
-     "change": 5.52
-    },
-    {
-     "date": "2026-09-18",
-     "close": 1.45,
-     "change": -3.33
-    }
-   ],
-   "market_cap": 73952163.0,
-   "shares_outstanding": 48020885.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "VANCOUVER, A1",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-23T05:15:55+09:00"
-  },
-  {
-   "id": "0001628280-26-063031",
-   "company": "TriSalus Life Sciences, Inc.",
-   "ticker": "TLSI",
-   "cik": 1826667,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Food and Drug Administration (“FDA”) 510(k) clearance for its TriNav Advance device.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1826667/000162828026063031/0001628280-26-063031-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826667/000162828026063031/tlsi-20260922.htm",
-   "filed_at": "2026-09-22T16:14:43-04:00",
-   "filed_kst": "2026-09-23 05:14",
-   "price": 4.93,
-   "change": -1.0,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 4.93,
-     "change": -1.0
-    },
-    {
-     "date": "2026-09-21",
-     "close": 4.98,
-     "change": -2.35
-    },
-    {
-     "date": "2026-09-18",
-     "close": 5.1,
-     "change": 4.08
-    }
-   ],
-   "market_cap": 303562778.0,
-   "shares_outstanding": 61574600.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "WESTMINSTER, CO",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-23T05:15:42+09:00"
-  },
-  {
-   "id": "0001731122-26-001271",
-   "company": "Endovia Health Sciences, Inc.",
-   "ticker": "EDVA",
-   "cik": 1553788,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.1 2 e7964_ex99-1.htm EXHIBIT 99.1 EXHIBIT 99.1 Endovia Health Sciences Closes Initial $500,000 Financing to Accelerate CannEpil® Development Amid Growing Federal Support for Botanical Drug Pathways Initial funding represents first tranche of previously announced $1 million C/M Capital commitme",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1553788/000173112226001271/0001731122-26-001271-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1553788/000173112226001271/e7964_ex99-1.htm",
-   "filed_at": "2026-09-22T16:10:25-04:00",
-   "filed_kst": "2026-09-23 05:10",
-   "price": 0.24,
-   "change": -0.25,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 0.24,
-     "change": -0.25
-    },
-    {
-     "date": "2026-09-21",
-     "close": 0.24,
-     "change": -2.03
-    },
-    {
-     "date": "2026-09-18",
-     "close": 0.25,
-     "change": -7.52
-    }
-   ],
-   "market_cap": 1539005.0,
-   "shares_outstanding": 6412521.0,
-   "industry": "Beverages",
-   "state_of_incorporation": "NV",
-   "hq": "FORT LAUDERDALE, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-23T05:12:33+09:00"
-  },
-  {
-   "id": "0001104659-26-109632",
-   "company": "Nyxoah SA",
-   "ticker": "NYXH",
-   "cik": 1857190,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "Following the positive outcomes of the BETTER SLEEP study, Nyxoah received CE mark approval for the expansion of its therapeutic indications to Complete Concentric Collapse (CCC) patients, currently contraindicated in competitors’ therapy.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926109632/0001104659-26-109632-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926109632/tm2625920d1_ex99-1.htm",
-   "filed_at": "2026-09-22T16:05:25-04:00",
-   "filed_kst": "2026-09-23 05:05",
-   "price": 1.4,
-   "change": -5.41,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 1.4,
-     "change": -5.41
-    },
-    {
-     "date": "2026-09-21",
-     "close": 1.48,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-18",
-     "close": 1.48,
-     "change": -0.67
-    }
-   ],
-   "market_cap": 60237044.0,
-   "shares_outstanding": 43026460.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "Belgium",
-   "hq": "MONT-SAINT-GUIBERT",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-23T05:07:35+09:00"
-  },
-  {
-   "id": "0001628280-26-063023",
-   "company": "AGREE REALTY CORP",
-   "ticker": "ADC",
-   "cik": 917251,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(n) Other than as set forth on Schedule III hereto, neither the Issuer nor any Guarantor has any subsidiary or subsidiaries and does not control, directly or indirectly, any corporation, partnership, joint venture, association or other business association.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/917251/000162828026063023/0001628280-26-063023-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/917251/000162828026063023/exhibit11-closing8xk.htm",
-   "filed_at": "2026-09-22T16:05:59-04:00",
-   "filed_kst": "2026-09-23 05:05",
-   "price": 67.31,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-22",
-     "close": 67.31,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-22",
-     "close": 67.31,
-     "change": -0.46
-    },
-    {
-     "date": "2026-09-21",
-     "close": 67.62,
-     "change": -0.63
-    }
-   ],
-   "market_cap": 8371971356.0,
-   "shares_outstanding": 124379310.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "DE",
-   "hq": "ROYAL OAK, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T05:07:33+09:00"
   }
  ]
 }
