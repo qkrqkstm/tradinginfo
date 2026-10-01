@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-01T20:59:32+09:00",
+ "updated_at": "2026-10-01T21:04:26+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-105457",
+   "company": "Allarity Therapeutics, Inc.",
+   "ticker": "ALLR",
+   "cik": 1860657,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Collectively, these advances support Allarity’s ongoing strategy to use DRP to inform patient selection for a pivotal trial, making the technology an integral part of stenoparib’s development toward FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1860657/000121390026105457/0001213900-26-105457-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1860657/000121390026105457/ea030729801ex99-1.htm",
+   "filed_at": "2026-10-01T08:00:17-04:00",
+   "filed_kst": "2026-10-01 21:00",
+   "price": 1.05,
+   "change": 8.81,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 1.05,
+     "change": 8.81
+    },
+    {
+     "date": "2026-09-29",
+     "close": 0.96,
+     "change": -0.31
+    },
+    {
+     "date": "2026-09-28",
+     "close": 0.97,
+     "change": -6.02
+    }
+   ],
+   "market_cap": 16706260.0,
+   "shares_outstanding": 15910724.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-01T21:00:48+09:00"
+  },
   {
    "id": "0001213900-26-105453",
    "company": "NEKTAR THERAPEUTICS",
@@ -15475,60 +15528,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-23T19:03:53+09:00"
-  },
-  {
-   "id": "0001140361-26-037371",
-   "company": "IONIS PHARMACEUTICALS INC",
-   "ticker": "IONS",
-   "cik": 874015,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "1 Ionis announces positive interim data from partner Roche’s Phase 3 IMAgINATION study in IgA nephropathy (IgAN) – Sefaxersen demonstrated statistically significant and clinically meaningful reductions in proteinuria versus placebo at 37 weeks, showing best-in-class potential – – IgAN is a progressi",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126037371/0001140361-26-037371-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126037371/ef20082626_ex99-1.htm",
-   "filed_at": "2026-09-23T06:03:20-04:00",
-   "filed_kst": "2026-09-23 19:03",
-   "price": 45.75,
-   "change": 1.89,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 45.75,
-     "change": 1.89
-    },
-    {
-     "date": "2026-09-21",
-     "close": 44.9,
-     "change": 1.04
-    },
-    {
-     "date": "2026-09-18",
-     "close": 44.44,
-     "change": -4.94
-    }
-   ],
-   "market_cap": 7602932732.0,
-   "shares_outstanding": 166184322.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "CA",
-   "hq": "CARLSBAD, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T19:03:51+09:00"
   }
  ]
 }
