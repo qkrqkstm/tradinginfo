@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-01T21:04:26+09:00",
+ "updated_at": "2026-10-01T21:09:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-045258",
+   "company": "Aptera Motors Corp",
+   "ticker": "SEV",
+   "cik": 1786471,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The updated estimates reflect anticipated benefits from the Company’s previously announced strategic partnership with Shanghai Launch Automotive Technology Co.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1786471/000149315226045258/0001493152-26-045258-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1786471/000149315226045258/ex99-1.htm",
+   "filed_at": "2026-10-01T08:05:34-04:00",
+   "filed_kst": "2026-10-01 21:05",
+   "price": 2.08,
+   "change": 5.05,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 2.08,
+     "change": 5.05
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1.98,
+     "change": 0.0
+    },
+    {
+     "date": "2026-09-28",
+     "close": 1.98,
+     "change": 0.51
+    }
+   ],
+   "market_cap": 59405039.0,
+   "shares_outstanding": 28560115.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": "DE",
+   "hq": "CARLSBAD, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-01T21:06:08+09:00"
+  },
   {
    "id": "0001213900-26-105457",
    "company": "Allarity Therapeutics, Inc.",
@@ -15475,59 +15529,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-23T19:03:57+09:00"
-  },
-  {
-   "id": "0001104659-26-109755",
-   "company": "ROYAL CARIBBEAN CRUISES LTD",
-   "ticker": "RCL",
-   "cik": 884887,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Building on Sandals and Beaches Resorts’ more than four decades of leadership in Caribbean hospitality, the joint venture will create new opportunities for continued resort growth while broadening the experiences across Royal Caribbean Group’s vacation platform.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/0001104659-26-109755-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/tm2625963d1_ex99-1.htm",
-   "filed_at": "2026-09-23T06:01:38-04:00",
-   "filed_kst": "2026-09-23 19:01",
-   "price": 234.89,
-   "change": -6.14,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 234.89,
-     "change": -6.14
-    },
-    {
-     "date": "2026-09-21",
-     "close": 250.25,
-     "change": 1.81
-    },
-    {
-     "date": "2026-09-18",
-     "close": 245.81,
-     "change": -1.57
-    }
-   ],
-   "market_cap": 62821820011.0,
-   "shares_outstanding": 267452084.0,
-   "industry": "Water Transportation",
-   "state_of_incorporation": null,
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-23T19:03:53+09:00"
   }
  ]
 }
