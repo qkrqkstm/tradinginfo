@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-01T20:44:25+09:00",
+ "updated_at": "2026-10-01T20:49:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-007514",
+   "company": "Valion Bio, Inc.",
+   "ticker": "VBIO",
+   "cik": 1787740,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "The product candidate has received Fast Track and Orphan Drug designations from the FDA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007514/0001683168-26-007514-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007514/valion_ex9901.htm",
+   "filed_at": "2026-10-01T07:45:14-04:00",
+   "filed_kst": "2026-10-01 20:45",
+   "price": 2.8,
+   "change": -1.06,
+   "price_history": [
+    {
+     "date": "2026-09-30",
+     "close": 2.8,
+     "change": -1.06
+    },
+    {
+     "date": "2026-09-29",
+     "close": 2.83,
+     "change": 4.81
+    },
+    {
+     "date": "2026-09-28",
+     "close": 2.7,
+     "change": -10.89
+    }
+   ],
+   "market_cap": 62131269.0,
+   "shares_outstanding": 22189739.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-01T20:46:21+09:00"
+  },
   {
    "id": "0001193125-26-409833",
    "company": "Monte Rosa Therapeutics, Inc.",
@@ -15474,55 +15527,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-23T19:03:16+09:00"
-  },
-  {
-   "id": "0000950103-26-014361",
-   "company": "newcleo plc",
-   "ticker": "NWCL",
-   "cik": 2131813,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "EX-99.1 2 dp253663_ex9901.htm EXHIBIT 99.1 Exhibit 99.1 new cleo Completes Business Combination, Raises $247 Million and Will Start Trading on Nasdaq Under Ticker Symbol “NWCL” on September 22, 2026 Transaction provides $247 million in gross proceeds to support newcleo’s U.S. and European growth, ad",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326014361/0000950103-26-014361-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326014361/dp253663_ex9901.htm",
-   "filed_at": "2026-09-22T21:11:34-04:00",
-   "filed_kst": "2026-09-23 10:11",
-   "price": 8.14,
-   "change": -5.73,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 8.14,
-     "change": -5.73
-    },
-    {
-     "date": "2026-09-21",
-     "close": 8.64,
-     "change": -0.35
-    },
-    {
-     "date": "2026-09-18",
-     "close": 8.67,
-     "change": -7.27
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Fabricated Plate Work (Boiler Shops)",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": null,
-   "detected_at": "2026-09-23T19:03:12+09:00"
   }
  ]
 }
