@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-03T06:19:35+09:00",
+ "updated_at": "2026-10-03T06:24:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-106547",
+   "company": "SEALSQ Corp",
+   "ticker": "LAES",
+   "cik": 1951222,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "” The business combination was completed under the Business Combination Agreement dated as of November 9, 2025 (as amended, the “BCA”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1951222/000121390026106547/0001213900-26-106547-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1951222/000121390026106547/ea0307605-6k_sealsq.htm",
+   "filed_at": "2026-10-02T17:22:26-04:00",
+   "filed_kst": "2026-10-03 06:22",
+   "price": 2.37,
+   "change": 0.42,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 2.37,
+     "change": 0.42
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2.36,
+     "change": 0.85
+    },
+    {
+     "date": "2026-09-30",
+     "close": 2.34,
+     "change": 0.86
+    }
+   ],
+   "market_cap": 453914556.0,
+   "shares_outstanding": 191525129.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "COINTRIN, V8",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-03T06:23:09+09:00"
+  },
   {
    "id": "0001213900-26-106484",
    "company": "Wisekey International Holding S.A.",
@@ -15541,59 +15592,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-25T19:02:33+09:00"
-  },
-  {
-   "id": "0001564708-26-000209",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000209/0001564708-26-000209-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000209/appendix3cclassa20260924.htm",
-   "filed_at": "2026-09-24T20:24:28-04:00",
-   "filed_kst": "2026-09-25 09:24",
-   "price": 31.56,
-   "change": 1.09,
-   "price_history": [
-    {
-     "date": "2026-09-24",
-     "close": 31.56,
-     "change": 1.09
-    },
-    {
-     "date": "2026-09-23",
-     "close": 31.22,
-     "change": -4.99
-    },
-    {
-     "date": "2026-09-21",
-     "close": 32.86,
-     "change": 0.55
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-25T19:02:31+09:00"
   }
  ]
 }
