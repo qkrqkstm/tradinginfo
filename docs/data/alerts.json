@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-03T05:19:25+09:00",
+ "updated_at": "2026-10-03T05:24:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-412336",
+   "company": "Western Union CO",
+   "ticker": "WU",
+   "cik": 1365135,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "As previously announced, on August 10, 2025, The Western Union Company, a Delaware corporation (the “Company”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), by and among the Company, International Money Express, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1365135/000119312526412336/0001193125-26-412336-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1365135/000119312526412336/d160759d8k.htm",
+   "filed_at": "2026-10-02T16:21:29-04:00",
+   "filed_kst": "2026-10-03 05:21",
+   "price": 6.0,
+   "change": -0.33,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 6.0,
+     "change": -0.33
+    },
+    {
+     "date": "2026-10-01",
+     "close": 6.02,
+     "change": 2.03
+    },
+    {
+     "date": "2026-09-30",
+     "close": 5.9,
+     "change": -1.17
+    }
+   ],
+   "market_cap": 1871273886.0,
+   "shares_outstanding": 311878981.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-03T05:22:06+09:00"
+  },
   {
    "id": "0001140361-26-038416",
    "company": "International Money Express, Inc.",
@@ -15552,56 +15604,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-25T06:03:13+09:00"
-  },
-  {
-   "id": "0001185185-26-004284",
-   "company": "UY Scuti Acquisition Corp.",
-   "ticker": "UYSC",
-   "cik": 2036973,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(“ UYSC ”), entered into an Agreement and Plan of Merger (as it may be amended, supplemented or otherwise modified from time to time, the “ Merger Agreement ”) with Isdera Group Limited (“ Isdera Group ” or the “ Company ”), Xinghui Automotive Technology (Hainan) Co.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2036973/000118518526004284/0001185185-26-004284-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2036973/000118518526004284/uysc8k425092326.htm",
-   "filed_at": "2026-09-24T17:00:11-04:00",
-   "filed_kst": "2026-09-25 06:00",
-   "price": 11.0,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 11.0,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-21",
-     "close": 11.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 57431660.0,
-   "shares_outstanding": 5221060.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-25T06:01:04+09:00"
   }
  ]
 }
