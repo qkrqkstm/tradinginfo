@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-02T20:29:25+09:00",
+ "updated_at": "2026-10-02T20:34:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-113043",
+   "company": "BNB PLUS CORP.",
+   "ticker": "BNBX",
+   "cik": 744452,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "“The industry’s recent Phase 3 success of a personalized mRNA cancer therapy is a clear indication that individualized treatments can deliver meaningful clinical benefit.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/744452/000110465926113043/0001104659-26-113043-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/744452/000110465926113043/tm2626879d2_ex99-1.htm",
+   "filed_at": "2026-10-02T07:31:27-04:00",
+   "filed_kst": "2026-10-02 20:31",
+   "price": 0.13,
+   "change": -7.14,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 0.13,
+     "change": -7.14
+    },
+    {
+     "date": "2026-09-30",
+     "close": 0.14,
+     "change": -6.67
+    },
+    {
+     "date": "2026-09-29",
+     "close": 0.15,
+     "change": 7.14
+    }
+   ],
+   "market_cap": 805639.0,
+   "shares_outstanding": 6197223.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "STONY BROOK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-02T20:32:10+09:00"
+  },
   {
    "id": "0001193125-26-411257",
    "company": "PLDT Inc.",
@@ -15542,38 +15596,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-25T05:02:12+09:00"
-  },
-  {
-   "id": "0001193125-26-401002",
-   "company": "Prologium Holding Inc.",
-   "ticker": "PRLG",
-   "cik": 2137754,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "In May 2026, ProLogium entered into a definitive business combination agreement with Translational Development Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526401002/0001193125-26-401002-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526401002/d170677d425.htm",
-   "filed_at": "2026-09-24T16:01:25-04:00",
-   "filed_kst": "2026-09-25 05:01",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "TAOYUAN CITY",
-   "entity_category": null,
-   "detected_at": "2026-09-25T05:02:01+09:00"
   }
  ]
 }
