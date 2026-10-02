@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-02T19:54:35+09:00",
+ "updated_at": "2026-10-02T19:59:26+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-008760",
+   "company": "ASTRAZENECA PLC",
+   "ticker": "AZN",
+   "cik": 901832,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "6-K 1 a3874x.htm AZ & DS COLLABORATION WITH SUMMIT FOR DATROWAY a3874x FORM 6-K SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Report of Foreign Issuer Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 For the month of October 2026 Commission File Number: 001-11960 ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426008760/0001654954-26-008760-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426008760/a3874x.htm",
+   "filed_at": "2026-10-02T06:58:37-04:00",
+   "filed_kst": "2026-10-02 19:58",
+   "price": 157.7,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 157.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 157.7,
+     "change": -2.33
+    },
+    {
+     "date": "2026-09-30",
+     "close": 161.47,
+     "change": -1.67
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "CAMBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T19:59:25+09:00"
+  },
   {
    "id": "0001493152-26-045425",
    "company": "Nova Minerals Corp",
@@ -15508,56 +15558,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-24T22:20:59+09:00"
-  },
-  {
-   "id": "0001683168-26-007355",
-   "company": "AUDDIA INC.",
-   "ticker": "AUUD",
-   "cik": 1554818,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "About the Merger to form McCarthy Finney (MCFN) Auddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007355/0001683168-26-007355-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007355/auddia_425.htm",
-   "filed_at": "2026-09-24T08:30:02-04:00",
-   "filed_kst": "2026-09-24 21:30",
-   "price": 1.31,
-   "change": -1.5,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 1.31,
-     "change": -1.5
-    },
-    {
-     "date": "2026-09-22",
-     "close": 1.33,
-     "change": -1.48
-    },
-    {
-     "date": "2026-09-21",
-     "close": 1.35,
-     "change": 29.81
-    }
-   ],
-   "market_cap": 7601996.0,
-   "shares_outstanding": 5803050.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "DE",
-   "hq": "BOULDER, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-24T22:03:49+09:00"
   }
  ]
 }
