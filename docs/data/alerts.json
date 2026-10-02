@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-03T04:09:29+09:00",
+ "updated_at": "2026-10-03T04:14:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-106323",
+   "company": "Critical Metals Corp.",
+   "ticker": "CRML",
+   "cik": 1951089,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "4 TO AGREEMENT AND PLAN OF MERGER, DATED AS OF SEPTEMBER 28, 2026, BY AND BETWEEN CRITICAL METALS CORP.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026106323/0001213900-26-106323-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026106323/ea030754201ex99-1.htm",
+   "filed_at": "2026-10-02T15:10:45-04:00",
+   "filed_kst": "2026-10-03 04:10",
+   "price": 7.04,
+   "change": 0.01,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 7.04,
+     "change": 0.01
+    },
+    {
+     "date": "2026-10-02",
+     "close": 7.04,
+     "change": -2.24
+    },
+    {
+     "date": "2026-10-01",
+     "close": 7.2,
+     "change": -0.83
+    }
+   ],
+   "market_cap": 1034836021.0,
+   "shares_outstanding": 146993753.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "WEST LEEDERVILLE, C3",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-03T04:11:30+09:00"
+  },
   {
    "id": "0001493152-26-045445",
    "company": "UMH PROPERTIES, INC.",
@@ -15550,57 +15601,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-09-25T05:16:14+09:00"
-  },
-  {
-   "id": "0001185185-26-004275",
-   "company": "Cartesian Growth Corp II",
-   "ticker": "RENEF",
-   "cik": 1889112,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "InoBat and Cartesian II entered into a definitive business combination agreement (the “BCA”) on July 24, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1889112/000118518526004275/0001185185-26-004275-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1889112/000118518526004275/inobatbv425092426.htm",
-   "filed_at": "2026-09-24T16:08:39-04:00",
-   "filed_kst": "2026-09-25 05:08",
-   "price": 12.71,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 12.71,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-22",
-     "close": 12.71,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-21",
-     "close": 12.71,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-25T05:10:50+09:00"
   }
  ]
 }
