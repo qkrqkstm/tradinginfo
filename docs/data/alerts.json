@@ -1,7 +1,266 @@
 {
- "updated_at": "2026-10-02T18:59:26+09:00",
+ "updated_at": "2026-10-02T19:04:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001833141-26-000087",
+   "company": "CYBIN INC.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000087/0001833141-26-000087-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000087/namechange-materialchanger.htm",
+   "filed_at": "2026-10-01T20:45:35-04:00",
+   "filed_kst": "2026-10-02 09:45",
+   "price": 11.91,
+   "change": -3.09,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 11.91,
+     "change": -3.09
+    },
+    {
+     "date": "2026-09-30",
+     "close": 12.29,
+     "change": -3.23
+    },
+    {
+     "date": "2026-09-29",
+     "close": 12.7,
+     "change": 0.87
+    }
+   ],
+   "market_cap": 257270387.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-02T19:04:42+09:00"
+  },
+  {
+   "id": "0001193125-26-411024",
+   "company": "Armada Acquisition Corp. II",
+   "ticker": "XRPN",
+   "cik": 2044009,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "II, a Cayman Islands exempted company (“ SPAC ”), entered into a Business Combination Agreement, dated as of October 19, 2025 (the “ Business Combination Agreement ”), with Evernorth Holdings Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526411024/0001193125-26-411024-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526411024/d110692d425.htm",
+   "filed_at": "2026-10-01T20:04:11-04:00",
+   "filed_kst": "2026-10-02 09:04",
+   "price": 23.43,
+   "change": 42.87,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 23.43,
+     "change": 42.87
+    },
+    {
+     "date": "2026-09-30",
+     "close": 16.4,
+     "change": 27.13
+    },
+    {
+     "date": "2026-09-29",
+     "close": 12.9,
+     "change": 21.99
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "CARMANA BAY, GRAND CAYMAN, E9",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-02T19:04:08+09:00"
+  },
+  {
+   "id": "0001564708-26-000214",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000214/0001564708-26-000214-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000214/appendix3cclassa20261001.htm",
+   "filed_at": "2026-10-01T20:09:23-04:00",
+   "filed_kst": "2026-10-02 09:09",
+   "price": 31.45,
+   "change": -0.85,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 31.45,
+     "change": -0.85
+    },
+    {
+     "date": "2026-09-30",
+     "close": 31.72,
+     "change": 0.7
+    },
+    {
+     "date": "2026-09-29",
+     "close": 31.5,
+     "change": -2.3
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-02T19:04:04+09:00"
+  },
+  {
+   "id": "0001193125-26-411011",
+   "company": "Cullinan Therapeutics, Inc.",
+   "ticker": "CGEM",
+   "cik": 1789972,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "Zipalertinib holds FDA Breakthrough Therapy designation for the treatment of patients with locally advanced or metastatic EGFR ex20ins NSCLC who have previously received platinum-based chemotherapy.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526411011/0001193125-26-411011-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526411011/cgem-ex99_1.htm",
+   "filed_at": "2026-10-01T19:35:44-04:00",
+   "filed_kst": "2026-10-02 08:35",
+   "price": 14.53,
+   "change": -5.34,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 14.53,
+     "change": -5.34
+    },
+    {
+     "date": "2026-09-30",
+     "close": 15.35,
+     "change": 0.79
+    },
+    {
+     "date": "2026-09-29",
+     "close": 15.23,
+     "change": 1.87
+    }
+   ],
+   "market_cap": 935073704.0,
+   "shares_outstanding": 64354694.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-02T19:03:28+09:00"
+  },
+  {
+   "id": "0001723464-26-000056",
+   "company": "BIOHARVEST SCIENCES INC.",
+   "ticker": "BHST",
+   "cik": 1723464,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "htm NEWS RELEASE DATED SEPTEMBER 29, 2026 News Release dated September 29, 2026 BioHarvest Sciences Announces Share Repurchase Program Vancouver British Columbia and Rehovot, Israel – September 29, 2026 - BioHarvest Sciences Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1723464/000172346426000056/0001723464-26-000056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723464/000172346426000056/bhsc_ex991.htm",
+   "filed_at": "2026-10-01T18:10:26-04:00",
+   "filed_kst": "2026-10-02 07:10",
+   "price": 1.49,
+   "change": 0.68,
+   "price_history": [
+    {
+     "date": "2026-10-01",
+     "close": 1.49,
+     "change": 0.68
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1.48,
+     "change": 0.68
+    },
+    {
+     "date": "2026-09-29",
+     "close": 1.47,
+     "change": 1.38
+    }
+   ],
+   "market_cap": 33773595.0,
+   "shares_outstanding": 22666842.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER, A1",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-02T19:02:20+09:00"
+  },
   {
    "id": "0001756770-26-000117",
    "company": "Curaleaf Holdings, Inc.",
@@ -15307,257 +15566,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-24T22:01:34+09:00"
-  },
-  {
-   "id": "0001213900-26-102847",
-   "company": "Trident Digital Tech Holdings Ltd",
-   "ticker": "TDTH",
-   "cik": 1983550,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "Through strategic partnerships, joint ventures, acquisitions, and technology-driven platform deployment, TDTH aims to establish scalable long-term digital infrastructure ecosystems serving both public and private sector markets.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1983550/000121390026102847/0001213900-26-102847-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1983550/000121390026102847/ea030651601ex99-1.htm",
-   "filed_at": "2026-09-24T08:05:13-04:00",
-   "filed_kst": "2026-09-24 21:05",
-   "price": 1.87,
-   "change": 6.86,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 1.87,
-     "change": 6.86
-    },
-    {
-     "date": "2026-09-21",
-     "close": 1.75,
-     "change": 2.94
-    },
-    {
-     "date": "2026-09-18",
-     "close": 1.7,
-     "change": -7.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "SINGAPORE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-24T22:01:28+09:00"
-  },
-  {
-   "id": "0001104659-26-110229",
-   "company": "LIBERTY DEFENSE HOLDINGS, LTD.",
-   "ticker": "DETX",
-   "cik": 1919776,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(“ Liberty ” or the “ Company ”) ( NASDAQ: DETX; TSXV: SCAN ), a leading technology provider of AI-based, next-generation detection solutions for concealed weapons and threats, today announced the execution of a strategic, non-exclusive distribution agreement with VMI Security.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1919776/000110465926110229/0001104659-26-110229-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1919776/000110465926110229/tm2626045d1_ex99-1.htm",
-   "filed_at": "2026-09-24T08:45:06-04:00",
-   "filed_kst": "2026-09-24 21:45",
-   "price": 2.05,
-   "change": -2.84,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 2.05,
-     "change": -2.84
-    },
-    {
-     "date": "2026-09-21",
-     "close": 2.11,
-     "change": -2.76
-    },
-    {
-     "date": "2026-09-18",
-     "close": 2.17,
-     "change": -5.65
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "WILMINGTON, MA",
-   "entity_category": null,
-   "detected_at": "2026-09-24T22:01:23+09:00"
-  },
-  {
-   "id": "0001213900-26-102830",
-   "company": "Yimutian Inc.",
-   "ticker": "YMT",
-   "cik": 1991605,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The Company completed the acquisition of control over 100% of the equity interests in Qingdao Xingongguan Holiday Hotel Co.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026102830/0001213900-26-102830-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026102830/ea0306400-6k_yimutian.htm",
-   "filed_at": "2026-09-24T07:12:57-04:00",
-   "filed_kst": "2026-09-24 20:12",
-   "price": 1.84,
-   "change": -9.36,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 1.84,
-     "change": -9.36
-    },
-    {
-     "date": "2026-09-22",
-     "close": 2.03,
-     "change": 5.18
-    },
-    {
-     "date": "2026-09-21",
-     "close": 1.93,
-     "change": -3.5
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BEIJING, F4",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-24T20:37:22+09:00"
-  },
-  {
-   "id": "0001185185-26-004251",
-   "company": "TJGC GROUP Ltd",
-   "ticker": "TJGC",
-   "cik": 1969928,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "1 TJGC Group Limited Announces Share Repurchase Program HONG KONG, Sept.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1969928/000118518526004251/0001185185-26-004251-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1969928/000118518526004251/tjgcex99-1.htm",
-   "filed_at": "2026-09-24T06:30:35-04:00",
-   "filed_kst": "2026-09-24 19:30",
-   "price": 23.28,
-   "change": 32.42,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 23.28,
-     "change": 32.42
-    },
-    {
-     "date": "2026-09-21",
-     "close": 17.58,
-     "change": 4.39
-    },
-    {
-     "date": "2026-09-18",
-     "close": 16.84,
-     "change": 52.95
-    }
-   ],
-   "market_cap": 356184000.0,
-   "shares_outstanding": 15300000.0,
-   "industry": "Services-Advertising Agencies",
-   "state_of_incorporation": null,
-   "hq": "HUNGHOM, KOWLOON",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-24T19:31:41+09:00"
-  },
-  {
-   "id": "0001104659-26-110140",
-   "company": "Baozun Inc.",
-   "ticker": "BZUN",
-   "cik": 1625414,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "1 Baozun Announces US$10 million Share Repurchase Program SHANGHAI , September 24, 2026 / PRNewswire / -- Baozun Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1625414/000110465926110140/0001104659-26-110140-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1625414/000110465926110140/tm2626061d1_ex99-1.htm",
-   "filed_at": "2026-09-24T06:19:50-04:00",
-   "filed_kst": "2026-09-24 19:19",
-   "price": 3.0,
-   "change": 2.21,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 3.0,
-     "change": 2.21
-    },
-    {
-     "date": "2026-09-21",
-     "close": 2.93,
-     "change": 2.98
-    },
-    {
-     "date": "2026-09-18",
-     "close": 2.85,
-     "change": 2.52
-    }
-   ],
-   "market_cap": 517645833.0,
-   "shares_outstanding": 172548611.0,
-   "industry": "Retail-Catalog & Mail-Order Houses",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SHANGHAI, F4",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-09-24T19:20:39+09:00"
   }
  ]
 }
