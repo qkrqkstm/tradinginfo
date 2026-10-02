@@ -1,7 +1,40 @@
 {
- "updated_at": "2026-10-03T05:49:07+09:00",
+ "updated_at": "2026-10-03T05:54:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-106458",
+   "company": "WISeKey International Corp.",
+   "ticker": "WQEY",
+   "cik": 2107968,
+   "form": "8-K12B",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "M&A"
+   ],
+   "confidence": 73,
+   "summary": "EX-2.1 2 ea030748001ex2-1.htm MERGER AGREEMENT, DATED AS OF JUNE 26, 2026, BY AND BETWEEN WISEKEY INTERNATIONAL HOLDING LTD AND WISEKEY INTERNATIONAL CORP Exhibit 2.1 Merger Agreement / Fusionsvertrag vom Juni 26, 2026 / dated as of June 26, 2026 zwischen / by and between WISeKey International Holdi",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2107968/000121390026106458/0001213900-26-106458-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2107968/000121390026106458/ea030748001ex2-1.htm",
+   "filed_at": "2026-10-02T16:48:43-04:00",
+   "filed_kst": "2026-10-03 05:48",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "TORTOLA",
+   "entity_category": null,
+   "detected_at": "2026-10-03T05:50:30+09:00"
+  },
   {
    "id": "0001477932-26-006022",
    "company": "Piermont Valley Acquisition Corp",
@@ -15561,57 +15594,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-25T19:01:02+09:00"
-  },
-  {
-   "id": "0001185185-26-004277",
-   "company": "Cartesian Growth Corp II",
-   "ticker": "RENEF",
-   "cik": 1889112,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "InoBat and Cartesian II entered into a definitive business combination agreement (the “BCA”) on July 24, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1889112/000118518526004277/0001185185-26-004277-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1889112/000118518526004277/inobatas425092426.htm",
-   "filed_at": "2026-09-24T17:24:49-04:00",
-   "filed_kst": "2026-09-25 06:24",
-   "price": 12.71,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-23",
-     "close": 12.71,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-22",
-     "close": 12.71,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-21",
-     "close": 12.71,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-25T06:26:57+09:00"
   }
  ]
 }
