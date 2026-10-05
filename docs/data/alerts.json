@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-06T06:18:52+09:00",
+ "updated_at": "2026-10-06T06:32:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001801661-26-000106",
+   "company": "Firy Inc.",
+   "ticker": "FIRY",
+   "cik": 1801661,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "FIRY acquired its minority stake in Exit Games, the Hamburg-based developer of the Photon multiplayer networking technology, for a purchase price of $50 million in July 2021 under an agreement entered into by the Company under its former name, Skillz Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000106/0001801661-26-000106-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000106/firy-exhibit101exitgames.htm",
+   "filed_at": "2026-10-05T17:21:22-04:00",
+   "filed_kst": "2026-10-06 06:21",
+   "price": 12.57,
+   "change": 0.8,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 12.57,
+     "change": 0.8
+    },
+    {
+     "date": "2026-10-02",
+     "close": 12.47,
+     "change": 2.38
+    },
+    {
+     "date": "2026-10-01",
+     "close": 12.18,
+     "change": -1.69
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "LAS VEGAS, NV",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-06T06:29:01+09:00"
+  },
   {
    "id": "0001140361-26-038653",
    "company": "NEIGHBORHOOD INTELLIGENCE, INC.",
@@ -15539,56 +15595,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-29T01:36:51+09:00"
-  },
-  {
-   "id": "0001654954-26-008602",
-   "company": "HSBC HOLDINGS PLC",
-   "ticker": "HSBC",
-   "cik": 1089113,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights, following the cancellation of the shares which have been repurchased on the UK Venues.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008602/0001654954-26-008602-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008602/a6324w.htm",
-   "filed_at": "2026-09-28T11:43:04-04:00",
-   "filed_kst": "2026-09-29 00:43",
-   "price": 100.82,
-   "change": -0.13,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 100.82,
-     "change": -0.13
-    },
-    {
-     "date": "2026-09-25",
-     "close": 100.95,
-     "change": 0.78
-    },
-    {
-     "date": "2026-09-24",
-     "close": 100.17,
-     "change": -0.08
-    }
-   ],
-   "market_cap": 1731607682887.0,
-   "shares_outstanding": 17175239862.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-29T00:44:03+09:00"
   }
  ]
 }
