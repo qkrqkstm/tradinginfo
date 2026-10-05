@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-05T20:44:36+09:00",
+ "updated_at": "2026-10-05T20:49:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-413150",
+   "company": "Distribution Solutions Group, Inc.",
+   "ticker": "DSGR",
+   "cik": 703604,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "00 per share in cash (the “Share Acquisition Consideration”) and the Escrow Issuer will merge with and into DSG, with DSG continuing as the surviving corporation, at which point DSG will assume all of the Escrow Issuer’s rights and obligations under the Notes and",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526413150/0001193125-26-413150-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526413150/d157566dex992.htm",
+   "filed_at": "2026-10-05T07:45:09-04:00",
+   "filed_kst": "2026-10-05 20:45",
+   "price": 34.98,
+   "change": 0.11,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 34.98,
+     "change": 0.11
+    },
+    {
+     "date": "2026-10-01",
+     "close": 34.94,
+     "change": 0.11
+    },
+    {
+     "date": "2026-09-30",
+     "close": 34.9,
+     "change": -0.14
+    }
+   ],
+   "market_cap": 1618014662.0,
+   "shares_outstanding": 46255422.0,
+   "industry": "Wholesale-Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-05T20:46:05+09:00"
+  },
   {
    "id": "0001654954-26-008783",
    "company": "ASTRAZENECA PLC",
@@ -15543,59 +15593,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-26T05:13:41+09:00"
-  },
-  {
-   "id": "0000920522-26-000027",
-   "company": "ESSEX PROPERTY TRUST, INC.",
-   "ticker": "ESS",
-   "cik": 920522,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "(the “Operating Partnership”), entered into a $275 million Unsecured Term Loan Agreement (the “Term Loan Agreement”) with Bank of America, N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/920522/000092052226000027/0000920522-26-000027-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/920522/000092052226000027/ess-20260924.htm",
-   "filed_at": "2026-09-25T16:06:20-04:00",
-   "filed_kst": "2026-09-26 05:06",
-   "price": 271.51,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 271.51,
-     "change": -0.05
-    },
-    {
-     "date": "2026-09-24",
-     "close": 271.65,
-     "change": -0.67
-    },
-    {
-     "date": "2026-09-23",
-     "close": 273.47,
-     "change": -0.47
-    }
-   ],
-   "market_cap": 17449523873.0,
-   "shares_outstanding": 64268439.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "SAN MATEO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-26T05:12:21+09:00"
   }
  ]
 }
