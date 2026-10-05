@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-05T21:59:28+09:00",
+ "updated_at": "2026-10-05T22:04:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-413254",
+   "company": "PMV Pharmaceuticals, Inc.",
+   "ticker": "PMVP",
+   "cik": 1699382,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "Food and Drug Administration granted Fast Track designation to rezatapopt for the treatment of patients with locally advanced or metastatic solid tumors with a p53 Y220C mutation and Orphan Drug Designation for the treatment of TP53 Y220C positive ovarian cancer, fallopian tube cancer, and primar",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1699382/000119312526413254/0001193125-26-413254-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1699382/000119312526413254/d174662dex991.htm",
+   "filed_at": "2026-10-05T09:00:06-04:00",
+   "filed_kst": "2026-10-05 22:00",
+   "price": 1.79,
+   "change": 2.29,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 1.79,
+     "change": 2.29
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1.75,
+     "change": 4.79
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1.67,
+     "change": 16.78
+    }
+   ],
+   "market_cap": 95689924.0,
+   "shares_outstanding": 53458058.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PRINCETON, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-05T22:00:48+09:00"
+  },
   {
    "id": "0001493152-26-045699",
    "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
@@ -15552,59 +15607,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-28T19:02:42+09:00"
-  },
-  {
-   "id": "0001213900-26-103656",
-   "company": "Crown Reserve Acquisition Corp. I",
-   "ticker": "CRAC",
-   "cik": 2070887,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Second Amendment to Business Combination Agreement On September 23, 2026, Crown Reserve Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2070887/000121390026103656/0001213900-26-103656-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2070887/000121390026103656/ea0306690-8k425_crown1.htm",
-   "filed_at": "2026-09-25T19:43:29-04:00",
-   "filed_kst": "2026-09-26 08:43",
-   "price": 10.24,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 10.24,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-24",
-     "close": 10.24,
-     "change": 0.1
-    },
-    {
-     "date": "2026-09-23",
-     "close": 10.23,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GRAND CAYMAN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-28T19:02:40+09:00"
   }
  ]
 }
