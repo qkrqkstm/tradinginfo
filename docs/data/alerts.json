@@ -1,7 +1,107 @@
 {
- "updated_at": "2026-10-06T01:09:31+09:00",
+ "updated_at": "2026-10-06T01:14:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-413723",
+   "company": "C. H. ROBINSON WORLDWIDE, INC.",
+   "ticker": "CHRW",
+   "cik": 1043277,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "What was announced? • We have agreed to acquire RXO in a stock-and-cash transaction that redefines the future of third-party logistics.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1043277/000119312526413723/0001193125-26-413723-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1043277/000119312526413723/d344313d425.htm",
+   "filed_at": "2026-10-05T12:11:09-04:00",
+   "filed_kst": "2026-10-06 01:11",
+   "price": 136.49,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 136.49,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-05",
+     "close": 136.49,
+     "change": -13.46
+    },
+    {
+     "date": "2026-10-02",
+     "close": 157.72,
+     "change": 2.99
+    }
+   ],
+   "market_cap": 15949028204.0,
+   "shares_outstanding": 116851258.0,
+   "industry": "Arrangement of  Transportation of  Freight & Cargo",
+   "state_of_incorporation": "DE",
+   "hq": "EDEN PRAIRIE, MN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-06T01:12:00+09:00"
+  },
+  {
+   "id": "0001193125-26-413723",
+   "company": "RXO, Inc.",
+   "ticker": "RXO",
+   "cik": 1929561,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "What was announced? • We have agreed to acquire RXO in a stock-and-cash transaction that redefines the future of third-party logistics.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1929561/000119312526413723/0001193125-26-413723-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1929561/000119312526413723/d344313d425.htm",
+   "filed_at": "2026-10-05T12:11:09-04:00",
+   "filed_kst": "2026-10-06 01:11",
+   "price": 28.36,
+   "change": 21.3,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 28.36,
+     "change": 21.3
+    },
+    {
+     "date": "2026-10-02",
+     "close": 23.38,
+     "change": 9.46
+    },
+    {
+     "date": "2026-10-01",
+     "close": 21.36,
+     "change": 4.4
+    }
+   ],
+   "market_cap": 4677304990.0,
+   "shares_outstanding": 164926128.0,
+   "industry": "Transportation Services",
+   "state_of_incorporation": "DE",
+   "hq": "CHARLOTTE, NC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-06T01:11:59+09:00"
+  },
   {
    "id": "0001477932-26-006044",
    "company": "Global Asset Management Group, Inc.",
@@ -15509,114 +15609,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-28T20:01:33+09:00"
-  },
-  {
-   "id": "0001437749-26-031280",
-   "company": "Moleculin Biotech, Inc.",
-   "ticker": "MBRX",
-   "cik": 1659617,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "0% following treatment, with no statistically significant difference (p=0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926031280/0001437749-26-031280-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926031280/mbrx20260925_8k.htm",
-   "filed_at": "2026-09-28T07:00:14-04:00",
-   "filed_kst": "2026-09-28 20:00",
-   "price": 0.6,
-   "change": -0.07,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 0.6,
-     "change": -0.07
-    },
-    {
-     "date": "2026-09-25",
-     "close": 0.6,
-     "change": 6.17
-    },
-    {
-     "date": "2026-09-24",
-     "close": 0.57,
-     "change": 7.39
-    }
-   ],
-   "market_cap": 11686428.0,
-   "shares_outstanding": 19477380.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-28T20:01:30+09:00"
-  },
-  {
-   "id": "0001493152-26-044429",
-   "company": "Microbot Medical Inc.",
-   "ticker": "MBOT",
-   "cik": 883975,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "false 0000883975 0000883975 2026-09-25 2026-09-25 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/883975/000149315226044429/0001493152-26-044429-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/883975/000149315226044429/form8-k.htm",
-   "filed_at": "2026-09-28T06:24:53-04:00",
-   "filed_kst": "2026-09-28 19:24",
-   "price": 1.27,
-   "change": -0.39,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 1.27,
-     "change": -0.39
-    },
-    {
-     "date": "2026-09-25",
-     "close": 1.28,
-     "change": -2.29
-    },
-    {
-     "date": "2026-09-24",
-     "close": 1.31,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 85299297.0,
-   "shares_outstanding": 67164801.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "HINGHAM, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-28T19:27:00+09:00"
   }
  ]
 }
