@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-05T19:54:38+09:00",
+ "updated_at": "2026-10-05T19:59:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-413085",
+   "company": "GEO GROUP INC",
+   "ticker": "GEO",
+   "cik": 923796,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "com CR-26-12 THE GEO GROUP SELLS THE ADELANTO, CALIFORNIA ICE PROCESSING CENTER COMPLEX COMPRISED OF THREE FACILITIES TOTALING 2,644 BEDS FOR $950 MILLION AND INCREASES SHARE REPURCHASE AUTHORIZATION TO $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/923796/000119312526413085/0001193125-26-413085-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/923796/000119312526413085/d212275dex991.htm",
+   "filed_at": "2026-10-05T06:57:07-04:00",
+   "filed_kst": "2026-10-05 19:57",
+   "price": 31.36,
+   "change": 1.85,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 31.36,
+     "change": 1.85
+    },
+    {
+     "date": "2026-10-01",
+     "close": 30.79,
+     "change": 1.05
+    },
+    {
+     "date": "2026-09-30",
+     "close": 30.47,
+     "change": -1.58
+    }
+   ],
+   "market_cap": 4127590154.0,
+   "shares_outstanding": 131619584.0,
+   "industry": "General Bldg Contractors - Residential Bldgs",
+   "state_of_incorporation": "FL",
+   "hq": "BOCA RATON, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-05T19:57:59+09:00"
+  },
   {
    "id": "0001564708-26-000215",
    "company": "NEWS CORP",
@@ -15537,60 +15587,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-25T21:05:45+09:00"
-  },
-  {
-   "id": "0001819989-26-000043",
-   "company": "Cipher Digital Inc.",
-   "ticker": "CIFR",
-   "cik": 1819989,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "1 Cipher Digital Expands Barber Lake Lease Term to 20 Years, Increasing Revenue to Over $9 Billion Additional 10-Year Term adds ~$5.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998926000043/0001819989-26-000043-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998926000043/cifr-20260924.htm",
-   "filed_at": "2026-09-25T08:04:27-04:00",
-   "filed_kst": "2026-09-25 21:04",
-   "price": 18.1,
-   "change": -1.36,
-   "price_history": [
-    {
-     "date": "2026-09-24",
-     "close": 18.1,
-     "change": -1.36
-    },
-    {
-     "date": "2026-09-23",
-     "close": 18.35,
-     "change": -3.88
-    },
-    {
-     "date": "2026-09-22",
-     "close": 19.09,
-     "change": 1.01
-    }
-   ],
-   "market_cap": 7512056068.0,
-   "shares_outstanding": 415030722.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-25T21:05:43+09:00"
   }
  ]
 }
