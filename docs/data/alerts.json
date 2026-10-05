@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-05T21:49:39+09:00",
+ "updated_at": "2026-10-05T21:54:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-045699",
+   "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
+   "ticker": "BMNR",
+   "cik": 1829311,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "지수편입",
+   "primary_key": "index",
+   "emoji": "📈",
+   "types": [
+    "지수편입"
+   ],
+   "confidence": 57,
+   "summary": "1 million Bitmine is 99% of the way to the ‘Alchemy of 5%’ in just 15 months Tom Lee to deliver the keynote at Token2049 on October 7, 2026 in Singapore Bitmine was added to the Russell 1000 Large-cap index on June 26, 2026 Bitmine’s Series A Preferred Stock is trading on the NYSE under the symbol B",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226045699/0001493152-26-045699-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226045699/ex99-1.htm",
+   "filed_at": "2026-10-05T08:52:06-04:00",
+   "filed_kst": "2026-10-05 21:52",
+   "price": 26.27,
+   "change": -1.72,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 26.27,
+     "change": -1.72
+    },
+    {
+     "date": "2026-10-01",
+     "close": 26.73,
+     "change": 1.14
+    },
+    {
+     "date": "2026-09-30",
+     "close": 26.43,
+     "change": -1.12
+    }
+   ],
+   "market_cap": 15846757370.0,
+   "shares_outstanding": 603226394.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "NORWALK, CT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-05T21:52:35+09:00"
+  },
   {
    "id": "0001650107-26-000121",
    "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
@@ -15552,59 +15605,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-28T19:02:40+09:00"
-  },
-  {
-   "id": "0002071876-26-000217",
-   "company": "United States Brent Oil Fund, LP",
-   "ticker": "BNO",
-   "cik": 1472494,
-   "form": "8-K",
-   "items": [
-    "1.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“TMC”) publicly announced its entry into a definitive agreement with Madison Dearborn Partners (“MDP”), a leading private equity firm based in Chicago, for TMC to become a privately held company in an all-cash transaction (the “Transaction”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1472494/000207187626000217/0002071876-26-000217-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1472494/000207187626000217/i26392_bno-8k.htm",
-   "filed_at": "2026-09-25T17:27:30-04:00",
-   "filed_kst": "2026-09-26 06:27",
-   "price": 59.65,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 59.65,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-25",
-     "close": 59.65,
-     "change": -3.54
-    },
-    {
-     "date": "2026-09-24",
-     "close": 61.84,
-     "change": 2.45
-    }
-   ],
-   "market_cap": 739660000.0,
-   "shares_outstanding": 12400000.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": "DE",
-   "hq": "WALNUT CREEK, CA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-26T06:33:27+09:00"
   }
  ]
 }
