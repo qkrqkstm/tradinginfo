@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-06T04:24:50+09:00",
+ "updated_at": "2026-10-06T04:49:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001434265-26-000132",
+   "company": "GENMAB A/S",
+   "ticker": "GMAB",
+   "cik": 1434265,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "1 Genmab and AbbVie Announce Epcoritamab in Combination with R-CHOP Demonstrates Statistically Significant Improvement in Progression-Free Survival in Patients with Newly Diagnosed Diffuse Large B-Cell Lymphoma Company Announcement COPENHAGEN, Denmark and NORTH CHICAGO, Ill.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000132/0001434265-26-000132-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000132/gmab_20261015xex99d1.htm",
+   "filed_at": "2026-10-05T15:28:19-04:00",
+   "filed_kst": "2026-10-06 04:28",
+   "price": 38.8,
+   "change": 11.65,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 38.8,
+     "change": 11.65
+    },
+    {
+     "date": "2026-10-02",
+     "close": 34.75,
+     "change": 0.58
+    },
+    {
+     "date": "2026-10-01",
+     "close": 34.55,
+     "change": -3.15
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "1253 COPENHAGEN K, G7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-06T04:46:01+09:00"
+  },
   {
    "id": "0001193125-26-413763",
    "company": "STAAR SURGICAL CO",
@@ -15561,58 +15612,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-28T20:09:30+09:00"
-  },
-  {
-   "id": "0001104659-26-111143",
-   "company": "Inventiva S.A.",
-   "ticker": "IVA",
-   "cik": 1756594,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 82,
-   "summary": "The FDA has granted Breakthrough Therapy and Fast Track designation to lanifibranor for the treatment of MASH.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1756594/000110465926111143/0001104659-26-111143-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1756594/000110465926111143/iva-20260630xex99d1.htm",
-   "filed_at": "2026-09-28T07:07:41-04:00",
-   "filed_kst": "2026-09-28 20:07",
-   "price": 3.37,
-   "change": 3.37,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 3.37,
-     "change": 3.37
-    },
-    {
-     "date": "2026-09-24",
-     "close": 3.26,
-     "change": -5.51
-    },
-    {
-     "date": "2026-09-23",
-     "close": 3.45,
-     "change": -5.48
-    }
-   ],
-   "market_cap": 651208616.0,
-   "shares_outstanding": 193236978.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "France",
-   "hq": "DAIX, I0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-09-28T20:08:34+09:00"
   }
  ]
 }
