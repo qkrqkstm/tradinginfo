@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-05T22:14:36+09:00",
+ "updated_at": "2026-10-05T22:19:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-064768",
+   "company": "ERICSSON LM TELEPHONE CO",
+   "ticker": "ERIC",
+   "cik": 717826,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "60 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026 and which runs between April 23, 2026 and March 31, 2027, at the latest.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026064768/0001628280-26-064768-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026064768/sharebuybacksinericssondur.htm",
+   "filed_at": "2026-10-05T09:14:56-04:00",
+   "filed_kst": "2026-10-05 22:14",
+   "price": 9.29,
+   "change": 0.76,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 9.29,
+     "change": 0.76
+    },
+    {
+     "date": "2026-10-01",
+     "close": 9.22,
+     "change": 0.77
+    },
+    {
+     "date": "2026-09-30",
+     "close": 9.15,
+     "change": -1.82
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM SWEDEN, V7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-05T22:15:33+09:00"
+  },
   {
    "id": "0001193125-26-413254",
    "company": "PMV Pharmaceuticals, Inc.",
@@ -15556,57 +15606,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-28T19:03:14+09:00"
-  },
-  {
-   "id": "0001292814-26-004720",
-   "company": "TIM S.A.",
-   "ticker": "TIMB",
-   "cik": 1826168,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "주식소각"
-   ],
-   "confidence": 73,
-   "summary": "It was emphasized that the current share repurchase plan remains in effect, subject to the established limits.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426004720/0001292814-26-004720-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426004720/timb20260925_6k1.htm",
-   "filed_at": "2026-09-25T20:19:40-04:00",
-   "filed_kst": "2026-09-26 09:19",
-   "price": 18.16,
-   "change": -0.93,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 18.16,
-     "change": -0.93
-    },
-    {
-     "date": "2026-09-24",
-     "close": 18.33,
-     "change": -0.05
-    },
-    {
-     "date": "2026-09-23",
-     "close": 18.34,
-     "change": -3.17
-    }
-   ],
-   "market_cap": 43441006144.0,
-   "shares_outstanding": 2392125889.0,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": "Brazil",
-   "hq": "RIO DE JANEIRO, RJ, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-28T19:02:42+09:00"
   }
  ]
 }
