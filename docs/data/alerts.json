@@ -1,7 +1,116 @@
 {
- "updated_at": "2026-10-05T22:19:11+09:00",
+ "updated_at": "2026-10-05T22:24:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-413359",
+   "company": "SYNOPSYS INC",
+   "ticker": "SNPS",
+   "cik": 883241,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "com Synopsys Initiates $1 Billion Accelerated Share Repurchase Agreement SUNNYVALE, Calif.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/883241/000119312526413359/0001193125-26-413359-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/883241/000119312526413359/d830308dex991.htm",
+   "filed_at": "2026-10-05T09:21:53-04:00",
+   "filed_kst": "2026-10-05 22:21",
+   "price": 489.9,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 489.9,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-02",
+     "close": 489.9,
+     "change": -0.13
+    },
+    {
+     "date": "2026-10-01",
+     "close": 490.54,
+     "change": 12.78
+    }
+   ],
+   "market_cap": 93882792875.0,
+   "shares_outstanding": 191636646.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "SUNNYVALE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-05T22:22:36+09:00"
+  },
+  {
+   "id": "0001213900-26-106677",
+   "company": "NEUROONE MEDICAL TECHNOLOGIES Corp",
+   "ticker": "NMTC",
+   "cik": 1500198,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "4%; Secures Record $4.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1500198/000121390026106677/0001213900-26-106677-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1500198/000121390026106677/ea030757701ex99-1.htm",
+   "filed_at": "2026-10-05T09:20:12-04:00",
+   "filed_kst": "2026-10-05 22:20",
+   "price": 1.12,
+   "change": 13.71,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 1.12,
+     "change": 13.71
+    },
+    {
+     "date": "2026-10-01",
+     "close": 0.99,
+     "change": -4.37
+    },
+    {
+     "date": "2026-09-30",
+     "close": 1.03,
+     "change": -5.5
+    }
+   ],
+   "market_cap": 10198455.0,
+   "shares_outstanding": 9105763.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "EDEN PRAIRIE, MN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-05T22:21:01+09:00"
+  },
   {
    "id": "0001628280-26-064768",
    "company": "ERICSSON LM TELEPHONE CO",
@@ -15503,109 +15612,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-28T19:18:58+09:00"
-  },
-  {
-   "id": "0001104659-26-111125",
-   "company": "NIO Inc.",
-   "ticker": "NIO",
-   "cik": 1736541,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through strategic collaboration with industry players, NIO expects to further promote the adoption of battery swapping, continuously enhance user experience, accelerate the growth of electric vehicle penetration and further unlock the long-term value of battery swappi",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1736541/000110465926111125/0001104659-26-111125-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1736541/000110465926111125/tm2626448d1_ex99-1.htm",
-   "filed_at": "2026-09-28T06:09:42-04:00",
-   "filed_kst": "2026-09-28 19:09",
-   "price": 3.58,
-   "change": -1.38,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 3.58,
-     "change": -1.38
-    },
-    {
-     "date": "2026-09-24",
-     "close": 3.63,
-     "change": -1.09
-    },
-    {
-     "date": "2026-09-23",
-     "close": 3.67,
-     "change": -1.34
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Motor Vehicles & Passenger Car Bodies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SHANGHAI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-28T19:11:41+09:00"
-  },
-  {
-   "id": "0001213900-26-103658",
-   "company": "Crown Reserve Acquisition Corp. I",
-   "ticker": "CRAC",
-   "cik": 2070887,
-   "form": "425",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Second Amendment to Business Combination Agreement On September 23, 2026, Crown Reserve Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2070887/000121390026103658/0001213900-26-103658-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2070887/000121390026103658/ea0306690-8k425_crown1.htm",
-   "filed_at": "2026-09-25T19:46:50-04:00",
-   "filed_kst": "2026-09-26 08:46",
-   "price": 10.24,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 10.24,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-24",
-     "close": 10.24,
-     "change": 0.1
-    },
-    {
-     "date": "2026-09-23",
-     "close": 10.23,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GRAND CAYMAN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-28T19:03:14+09:00"
   }
  ]
 }
