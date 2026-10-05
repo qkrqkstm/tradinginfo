@@ -1,7 +1,163 @@
 {
- "updated_at": "2026-10-05T21:29:31+09:00",
+ "updated_at": "2026-10-05T21:34:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001997711-26-000177",
+   "company": "Logistic Properties of the Americas",
+   "ticker": "LPA",
+   "cik": 1997711,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "dollar) in an all-cash transaction.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1997711/000199771126000177/0001997711-26-000177-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1997711/000199771126000177/ex991calle80salepressrelea.htm",
+   "filed_at": "2026-10-05T08:33:54-04:00",
+   "filed_kst": "2026-10-05 21:33",
+   "price": 2.99,
+   "change": 2.75,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 2.99,
+     "change": 2.75
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2.91,
+     "change": 1.75
+    },
+    {
+     "date": "2026-09-30",
+     "close": 2.86,
+     "change": 1.42
+    }
+   ],
+   "market_cap": 94537267.0,
+   "shares_outstanding": 31617815.0,
+   "industry": "Real Estate",
+   "state_of_incorporation": null,
+   "hq": "GRAND CAYMAN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-05T21:34:23+09:00"
+  },
+  {
+   "id": "0001213900-26-106661",
+   "company": "Evolution Metals & Technologies Corp.",
+   "ticker": "EMAT",
+   "cik": 1866226,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026106661/0001213900-26-106661-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026106661/ea030766701ex99-1.htm",
+   "filed_at": "2026-10-05T08:30:17-04:00",
+   "filed_kst": "2026-10-05 21:30",
+   "price": 2.04,
+   "change": -5.34,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 2.04,
+     "change": -5.34
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2.15,
+     "change": -15.49
+    },
+    {
+     "date": "2026-09-30",
+     "close": 2.55,
+     "change": -12.37
+    }
+   ],
+   "market_cap": 1268473318.0,
+   "shares_outstanding": 621800646.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-05T21:31:16+09:00"
+  },
+  {
+   "id": "0001193125-26-413218",
+   "company": "Coya Therapeutics, Inc.",
+   "ticker": "COYA",
+   "cik": 1835022,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "Topline data from the double-blind treatment phase are anticipated in early Q2 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526413218/0001193125-26-413218-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526413218/d95167d8k.htm",
+   "filed_at": "2026-10-05T08:30:07-04:00",
+   "filed_kst": "2026-10-05 21:30",
+   "price": 4.81,
+   "change": 1.69,
+   "price_history": [
+    {
+     "date": "2026-10-02",
+     "close": 4.81,
+     "change": 1.69
+    },
+    {
+     "date": "2026-10-01",
+     "close": 4.73,
+     "change": -5.59
+    },
+    {
+     "date": "2026-09-30",
+     "close": 5.01,
+     "change": -0.4
+    }
+   ],
+   "market_cap": 112832254.0,
+   "shares_outstanding": 23457849.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-05T21:30:42+09:00"
+  },
   {
    "id": "0001193125-26-413177",
    "company": "Benitec Biopharma Inc.",
@@ -15454,164 +15610,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-26T06:33:17+09:00"
-  },
-  {
-   "id": "0002071876-26-000220",
-   "company": "United States Gasoline Fund, LP",
-   "ticker": "UGA",
-   "cik": 1396878,
-   "form": "8-K",
-   "items": [
-    "1.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“TMC”) publicly announced its entry into a definitive agreement with Madison Dearborn Partners (“MDP”), a leading private equity firm based in Chicago, for TMC to become a privately held company in an all-cash transaction (the “Transaction”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1396878/000207187626000220/0002071876-26-000220-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1396878/000207187626000220/i26393_uga-8k.htm",
-   "filed_at": "2026-09-25T17:28:18-04:00",
-   "filed_kst": "2026-09-26 06:28",
-   "price": 143.45,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 143.45,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-25",
-     "close": 143.45,
-     "change": -4.04
-    },
-    {
-     "date": "2026-09-24",
-     "close": 149.49,
-     "change": -0.53
-    }
-   ],
-   "market_cap": 179312500.0,
-   "shares_outstanding": 1250000.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": "DE",
-   "hq": "WALNUT CREEK, CA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-26T06:33:15+09:00"
-  },
-  {
-   "id": "0002071876-26-000221",
-   "company": "United States Natural Gas Fund, LP",
-   "ticker": "UNG",
-   "cik": 1376227,
-   "form": "8-K",
-   "items": [
-    "1.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“TMC”) publicly announced its entry into a definitive agreement with Madison Dearborn Partners (“MDP”), a leading private equity firm based in Chicago, for TMC to become a privately held company in an all-cash transaction (the “Transaction”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1376227/000207187626000221/0002071876-26-000221-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1376227/000207187626000221/i26394_ung-8k.htm",
-   "filed_at": "2026-09-25T17:28:41-04:00",
-   "filed_kst": "2026-09-26 06:28",
-   "price": 11.13,
-   "change": -3.64,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 11.13,
-     "change": -3.64
-    },
-    {
-     "date": "2026-09-24",
-     "close": 11.55,
-     "change": 6.26
-    },
-    {
-     "date": "2026-09-23",
-     "close": 10.87,
-     "change": 0.09
-    }
-   ],
-   "market_cap": 529188126.0,
-   "shares_outstanding": 47546103.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": null,
-   "hq": "WALNUT CREEK, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-26T06:33:13+09:00"
-  },
-  {
-   "id": "0002071876-26-000222",
-   "company": "United States 12 Month Oil Fund, LP",
-   "ticker": "USL",
-   "cik": 1405528,
-   "form": "8-K",
-   "items": [
-    "1.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“TMC”) publicly announced its entry into a definitive agreement with Madison Dearborn Partners (“MDP”), a leading private equity firm based in Chicago, for TMC to become a privately held company in an all-cash transaction (the “Transaction”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1405528/000207187626000222/0002071876-26-000222-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1405528/000207187626000222/i26397_usl-8k.htm",
-   "filed_at": "2026-09-25T17:28:50-04:00",
-   "filed_kst": "2026-09-26 06:28",
-   "price": 56.3,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-25",
-     "close": 56.3,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-25",
-     "close": 56.29,
-     "change": -1.48
-    },
-    {
-     "date": "2026-09-24",
-     "close": 57.14,
-     "change": 1.08
-    }
-   ],
-   "market_cap": 50670000.0,
-   "shares_outstanding": 900000.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": null,
-   "hq": "WALNUT CREEK, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-26T06:33:12+09:00"
   }
  ]
 }
