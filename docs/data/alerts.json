@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-07T05:24:19+09:00",
+ "updated_at": "2026-10-07T05:29:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001616533-26-000046",
+   "company": "Penguin Solutions, Inc.",
+   "ticker": "PENG",
+   "cik": 1616533,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "• Won a publicly traded neocloud customer with more than $3 billion in signed, multi-year contracts to provide AI infrastructure deployment and 24x7 operations services, supported by ClusterWareAI™, our AI factory operating system software.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1616533/000161653326000046/0001616533-26-000046-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1616533/000161653326000046/pengq4-26form8xkxex991.htm",
+   "filed_at": "2026-10-06T16:27:15-04:00",
+   "filed_kst": "2026-10-07 05:27",
+   "price": 64.21,
+   "change": 5.77,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 64.21,
+     "change": 5.77
+    },
+    {
+     "date": "2026-10-05",
+     "close": 60.71,
+     "change": -1.06
+    },
+    {
+     "date": "2026-10-02",
+     "close": 61.36,
+     "change": 11.6
+    }
+   ],
+   "market_cap": 3290293703.0,
+   "shares_outstanding": 51242699.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "FREMONT, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-07T05:28:01+09:00"
+  },
   {
    "id": "0001437749-26-032200",
    "company": "NextPlat Corp",
@@ -15545,51 +15599,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-29T22:25:25+09:00"
-  },
-  {
-   "id": "0001213900-26-104363",
-   "company": "Tessera Defense & Homeland Security Inc.",
-   "ticker": "HLSQ",
-   "cik": 1739174,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 70,
-   "summary": "Tessera intends to continue expanding the platform by integrating additional technologies developed internally or added through future acquisitions, joint ventures and licensing agreements.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1739174/000121390026104363/0001213900-26-104363-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1739174/000121390026104363/ea030699101ex99-1.htm",
-   "filed_at": "2026-09-29T09:20:17-04:00",
-   "filed_kst": "2026-09-29 22:20",
-   "price": 0.47,
-   "change": -0.02,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 0.47,
-     "change": -0.02
-    }
-   ],
-   "market_cap": 12560219.0,
-   "shares_outstanding": 26723870.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "DOVER, DE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-29T22:21:04+09:00"
   }
  ]
 }
