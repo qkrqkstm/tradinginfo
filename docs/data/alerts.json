@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-10-06T22:04:43+09:00",
+ "updated_at": "2026-10-06T22:09:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-113913",
+   "company": "Paramount Skydance Corp",
+   "ticker": "PSKY",
+   "cik": 2041610,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation and wholly owned subsidiary of Paramount (“Merger Sub”) completed the transactions contemplated by the previously disclosed Agreement and Plan of Merger, dated as of February 27, 2026, among WBD, the Company and Merger Sub (the “WBD Merger Agreement”), pursuant to which, Mer",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926113913/0001104659-26-113913-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926113913/tm2626659d7_ex99-2.htm",
+   "filed_at": "2026-10-06T09:08:38-04:00",
+   "filed_kst": "2026-10-06 22:08",
+   "price": 9.78,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 9.78,
+     "change": -0.05
+    },
+    {
+     "date": "2026-10-05",
+     "close": 9.78,
+     "change": 2.95
+    },
+    {
+     "date": "2026-10-02",
+     "close": 9.5,
+     "change": 1.71
+    }
+   ],
+   "market_cap": 10480903035.0,
+   "shares_outstanding": 1071666977.0,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-06T22:09:35+09:00"
+  },
+  {
+   "id": "0001213900-26-106999",
+   "company": "Bluejay Diagnostics, Inc.",
+   "ticker": "BJDX",
+   "cik": 1704287,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "The Symphony ™ IL-6 Test has not been cleared or approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1704287/000121390026106999/0001213900-26-106999-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1704287/000121390026106999/ea030776901ex99-1.htm",
+   "filed_at": "2026-10-06T09:04:23-04:00",
+   "filed_kst": "2026-10-06 22:04",
+   "price": 0.76,
+   "change": 0.03,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 0.76,
+     "change": 0.03
+    },
+    {
+     "date": "2026-10-05",
+     "close": 0.76,
+     "change": -9.08
+    },
+    {
+     "date": "2026-10-02",
+     "close": 0.84,
+     "change": -1.06
+    }
+   ],
+   "market_cap": 3395719.0,
+   "shares_outstanding": 4468051.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "ACTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-06T22:05:26+09:00"
+  },
   {
    "id": "0001193125-26-414993",
    "company": "TPG RE Finance Trust, Inc.",
@@ -15484,114 +15588,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-09-29T20:06:12+09:00"
-  },
-  {
-   "id": "0001493152-26-044761",
-   "company": "Immix Biopharma, Inc.",
-   "ticker": "IMMX",
-   "cik": 1873835,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 84,
-   "summary": "NXC-201 has been awarded Breakthrough Therapy Designation (BTD) and Regenerative Medicine Advanced Therapy (RMAT) by the FDA, and Orphan Drug Designation (ODD) by the US FDA and in the EU by the EMA.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226044761/0001493152-26-044761-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226044761/ex99-1.htm",
-   "filed_at": "2026-09-29T07:00:21-04:00",
-   "filed_kst": "2026-09-29 20:00",
-   "price": 11.47,
-   "change": 4.56,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 11.47,
-     "change": 4.56
-    },
-    {
-     "date": "2026-09-25",
-     "close": 10.97,
-     "change": -6.24
-    },
-    {
-     "date": "2026-09-24",
-     "close": 11.7,
-     "change": -1.85
-    }
-   ],
-   "market_cap": 820555932.0,
-   "shares_outstanding": 71539314.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "LOS ANGELES, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T20:01:21+09:00"
-  },
-  {
-   "id": "0001654954-26-008613",
-   "company": "Wise Group plc",
-   "ticker": "WSE",
-   "cik": 2099039,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": "3700 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/0001654954-26-008613-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/a6551w.htm",
-   "filed_at": "2026-09-29T06:30:39-04:00",
-   "filed_kst": "2026-09-29 19:30",
-   "price": 11.5,
-   "change": -0.43,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 11.5,
-     "change": -0.43
-    },
-    {
-     "date": "2026-09-25",
-     "close": 11.55,
-     "change": 2.21
-    },
-    {
-     "date": "2026-09-24",
-     "close": 11.3,
-     "change": -0.44
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Jersey",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-09-29T19:31:09+09:00"
   }
  ]
 }
