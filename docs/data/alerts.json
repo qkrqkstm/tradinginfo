@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-07T04:19:36+09:00",
+ "updated_at": "2026-10-07T04:24:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000790816-26-000038",
+   "company": "BRANDYWINE REALTY TRUST",
+   "ticker": "BDN",
+   "cik": 790816,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 61,
+   "summary": "This adjustment represents the elimination of the equity in loss of unconsolidated real estate ventures from the 3151 Market Street joint venture for the period from January 1, 2025 to December 16, 2025, when the venture was not consolidated.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000038/0000790816-26-000038-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000038/ex-991x3151marketdispositi.htm",
+   "filed_at": "2026-10-06T15:21:35-04:00",
+   "filed_kst": "2026-10-07 04:21",
+   "price": 2.75,
+   "change": 0.55,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 2.74,
+     "change": 0.55
+    },
+    {
+     "date": "2026-10-05",
+     "close": 2.73,
+     "change": -1.8
+    },
+    {
+     "date": "2026-10-02",
+     "close": 2.78,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 477707574.0,
+   "shares_outstanding": 173711845.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "PHILADELPHIA, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-07T04:22:36+09:00"
+  },
   {
    "id": "0001654954-26-008816",
    "company": "HSBC HOLDINGS PLC",
@@ -15530,60 +15584,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-29T20:33:41+09:00"
-  },
-  {
-   "id": "0001193125-26-406007",
-   "company": "Invivyd, Inc.",
-   "ticker": "IVVD",
-   "cik": 1832038,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "VYD2311 leverages the same antibody backbone as pemivibart, Invivyd’s investigational mAb granted emergency use authorization in the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526406007/0001193125-26-406007-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526406007/ivvd-ex99_1.htm",
-   "filed_at": "2026-09-29T07:26:46-04:00",
-   "filed_kst": "2026-09-29 20:26",
-   "price": 0.95,
-   "change": 1.71,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 0.95,
-     "change": 1.71
-    },
-    {
-     "date": "2026-09-25",
-     "close": 0.93,
-     "change": 2.3
-    },
-    {
-     "date": "2026-09-24",
-     "close": 0.91,
-     "change": -1.08
-    }
-   ],
-   "market_cap": 280020809.0,
-   "shares_outstanding": 294758746.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "NEW HAVEN, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T20:27:58+09:00"
   }
  ]
 }
