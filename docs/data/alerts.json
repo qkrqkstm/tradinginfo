@@ -1,7 +1,276 @@
 {
- "updated_at": "2026-10-06T20:59:32+09:00",
+ "updated_at": "2026-10-06T21:04:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001679273-26-000051",
+   "company": "Lamb Weston Holdings, Inc.",
+   "ticker": "LW",
+   "cik": 1679273,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 58,
+   "summary": "Approximately $245 million remains authorized and available for repurchase under the Company's share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679273/000167927326000051/0001679273-26-000051-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1679273/000167927326000051/lw-20260830x8kxexx9911q27.htm",
+   "filed_at": "2026-10-06T08:02:01-04:00",
+   "filed_kst": "2026-10-06 21:02",
+   "price": 44.57,
+   "change": 2.22,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 44.57,
+     "change": 2.22
+    },
+    {
+     "date": "2026-10-02",
+     "close": 43.6,
+     "change": 5.88
+    },
+    {
+     "date": "2026-10-01",
+     "close": 41.18,
+     "change": -1.22
+    }
+   ],
+   "market_cap": 6127528660.0,
+   "shares_outstanding": 137481011.0,
+   "industry": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+   "state_of_incorporation": "DE",
+   "hq": "EAGLE, ID",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-06T21:02:32+09:00"
+  },
+  {
+   "id": "0001493152-26-045861",
+   "company": "Boost Run Inc.",
+   "ticker": "BRUN",
+   "cik": 2090646,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Subject to the satisfaction of delivery and acceptance requirements and any termination described below, Cohere has committed to pay Boost Run approximately $525.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226045861/0001493152-26-045861-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226045861/ex10-1.htm",
+   "filed_at": "2026-10-06T08:00:29-04:00",
+   "filed_kst": "2026-10-06 21:00",
+   "price": 14.33,
+   "change": -13.2,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 14.33,
+     "change": -13.2
+    },
+    {
+     "date": "2026-10-02",
+     "close": 16.51,
+     "change": 3.9
+    },
+    {
+     "date": "2026-10-01",
+     "close": 15.89,
+     "change": -3.7
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "NORTHBROOK, IL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-06T21:01:28+09:00"
+  },
+  {
+   "id": "0001477932-26-006060",
+   "company": "1606 CORP.",
+   "ticker": "CBDW",
+   "cik": 1877461,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "EX-99.1 2 cbdw_ex991.htm PRESS RELEASE cbdw_ex991.htm EXHIBIT 99.1 1606 Corp. Provides East Texas Project Update Following Week of On-Site Meetings Multiple prospective counterparties, capital providers, data center operators and potential power offtakers conducted meetings and site visits as the Co",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1877461/000147793226006060/0001477932-26-006060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1877461/000147793226006060/cbdw_ex991.htm",
+   "filed_at": "2026-10-06T08:00:38-04:00",
+   "filed_kst": "2026-10-06 21:00",
+   "price": 0.0,
+   "change": 33.33,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 0.0,
+     "change": 33.33
+    },
+    {
+     "date": "2026-10-05",
+     "close": 0.0,
+     "change": 50.0
+    },
+    {
+     "date": "2026-10-02",
+     "close": 0.0,
+     "change": -33.33
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 1342039105.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "NV",
+   "hq": "PHOENIX, AZ",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-06T21:01:27+09:00"
+  },
+  {
+   "id": "0001104659-26-113896",
+   "company": "B&G Foods, Inc.",
+   "ticker": "BGS",
+   "cik": 1278027,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "We intend to continue evaluating strategic and operational alternatives for Green Giant Canada, including potential sale transactions, strategic partnerships or other opportunities that may maximize value for shareholders.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1278027/000110465926113896/0001104659-26-113896-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1278027/000110465926113896/tm2626946d1_ex99-1.htm",
+   "filed_at": "2026-10-06T08:00:45-04:00",
+   "filed_kst": "2026-10-06 21:00",
+   "price": 2.54,
+   "change": -5.58,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 2.54,
+     "change": -5.58
+    },
+    {
+     "date": "2026-10-02",
+     "close": 2.69,
+     "change": -8.19
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2.93,
+     "change": 2.09
+    }
+   ],
+   "market_cap": 206440204.0,
+   "shares_outstanding": 81275671.0,
+   "industry": "Food and Kindred Products",
+   "state_of_incorporation": "DE",
+   "hq": "PARSIPPANY, NJ",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-06T21:01:25+09:00"
+  },
+  {
+   "id": "0001213900-26-106983",
+   "company": "Evolution Metals & Technologies Corp.",
+   "ticker": "EMAT",
+   "cik": 1866226,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company today announced a Strategic Partnership Letter of Intent (“LOI”) with UK-based INERGX Energy Optimisation Ltd.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026106983/0001213900-26-106983-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026106983/ea030781301ex99-1.htm",
+   "filed_at": "2026-10-06T08:00:12-04:00",
+   "filed_kst": "2026-10-06 21:00",
+   "price": 2.06,
+   "change": 0.74,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 2.06,
+     "change": 0.74
+    },
+    {
+     "date": "2026-10-02",
+     "close": 2.04,
+     "change": -5.34
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2.15,
+     "change": -15.49
+    }
+   ],
+   "market_cap": 1280909331.0,
+   "shares_outstanding": 621800646.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-06T21:00:51+09:00"
+  },
   {
    "id": "0001437749-26-032107",
    "company": "Valion Bio, Inc.",
@@ -15310,274 +15579,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-29T06:30:00+09:00"
-  },
-  {
-   "id": "0001193125-26-405576",
-   "company": "Sabre Corp",
-   "ticker": "SABR",
-   "cik": 1597033,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 5 d435567dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Sabre Corporation Announces Results of Previously Announced Cash Tender Offers by Sabre GLBL Inc. SOUTHLAKE, Texas—September 24, 2026—Sabre Corporation (“Sabre”) (Nasdaq: SABR) today announced the results of the previously announced cash tende",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1597033/000119312526405576/0001193125-26-405576-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1597033/000119312526405576/d435567dex991.htm",
-   "filed_at": "2026-09-28T17:26:19-04:00",
-   "filed_kst": "2026-09-29 06:26",
-   "price": 2.1,
-   "change": -3.67,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 2.1,
-     "change": -3.67
-    },
-    {
-     "date": "2026-09-25",
-     "close": 2.18,
-     "change": -3.11
-    },
-    {
-     "date": "2026-09-24",
-     "close": 2.25,
-     "change": 2.74
-    }
-   ],
-   "market_cap": 847524749.0,
-   "shares_outstanding": 403583214.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTHLAKE, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-29T06:28:46+09:00"
-  },
-  {
-   "id": "0001829126-26-010494",
-   "company": "Exascale Labs Holdings Inc.",
-   "ticker": "XLAB",
-   "cik": 2109869,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "● Expanded strategic partnerships, including an LOI with Compal Electronics for next-generation 800 VDC GPU validation platforms and an MOU with EnergyBank for floating offshore wind-powered AI compute.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2109869/000182912626010494/0001829126-26-010494-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2109869/000182912626010494/exascalelabs_ex99-1.htm",
-   "filed_at": "2026-09-28T17:11:44-04:00",
-   "filed_kst": "2026-09-29 06:11",
-   "price": 2.4,
-   "change": -1.23,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 2.4,
-     "change": -1.23
-    },
-    {
-     "date": "2026-09-25",
-     "close": 2.43,
-     "change": -5.81
-    },
-    {
-     "date": "2026-09-24",
-     "close": 2.58,
-     "change": -6.18
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T06:25:50+09:00"
-  },
-  {
-   "id": "0001423869-26-000031",
-   "company": "PCB BANCORP",
-   "ticker": "PCB",
-   "cik": 1423869,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "On September 28, 2026, PCB Bancorp (the “Company”) issued a press release announcing the approval of a share repurchase program, as described in greater detail in Item 8.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1423869/000142386926000031/0001423869-26-000031-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1423869/000142386926000031/pcb-20260923.htm",
-   "filed_at": "2026-09-28T16:56:15-04:00",
-   "filed_kst": "2026-09-29 05:56",
-   "price": 27.59,
-   "change": -0.43,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 27.59,
-     "change": -0.43
-    },
-    {
-     "date": "2026-09-25",
-     "close": 27.71,
-     "change": 0.62
-    },
-    {
-     "date": "2026-09-24",
-     "close": 27.54,
-     "change": 1.4
-    }
-   ],
-   "market_cap": 387490569.0,
-   "shares_outstanding": 14044602.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": null,
-   "hq": "LOS ANGELES, CA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-29T05:57:55+09:00"
-  },
-  {
-   "id": "0001628280-26-063740",
-   "company": "Camp4 Therapeutics Corp",
-   "ticker": "CAMP",
-   "cik": 1736730,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "The Company is targeting a topline data readout from the ASCEND clinical trial in the first half of 2028.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1736730/000162828026063740/0001628280-26-063740-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1736730/000162828026063740/camp-20260928.htm",
-   "filed_at": "2026-09-28T16:47:56-04:00",
-   "filed_kst": "2026-09-29 05:47",
-   "price": 3.85,
-   "change": -1.79,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 3.85,
-     "change": -1.79
-    },
-    {
-     "date": "2026-09-25",
-     "close": 3.92,
-     "change": 2.08
-    },
-    {
-     "date": "2026-09-24",
-     "close": 3.84,
-     "change": 3.23
-    }
-   ],
-   "market_cap": 241599820.0,
-   "shares_outstanding": 62753200.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "WATERTOWN, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T05:51:11+09:00"
-  },
-  {
-   "id": "0001213900-26-104086",
-   "company": "Marwynn Holdings, Inc.",
-   "ticker": "MWYN",
-   "cik": 2030522,
-   "form": "8-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "EX-3.1 2 ea030674601ex3-1.htm THE THIRD AMENDED AND RESTATED BYLAWS OF THE COMPANY, EFFECTIVE AS OF SEPTEMBER 25, 2026 Exhibit 3.1 THIRD AMENDED AND RESTATED BYLAWS OF MARWYNN HOLDINGS, INC. September, 25, 2026 ARTICLE I- OFFICES AND CORPORATE SEAL SECTION 1.1 Registered Office . Marwynn Holdings, I",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2030522/000121390026104086/0001213900-26-104086-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030522/000121390026104086/ea030674601ex3-1.htm",
-   "filed_at": "2026-09-28T16:35:13-04:00",
-   "filed_kst": "2026-09-29 05:35",
-   "price": 1.07,
-   "change": 11.4,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 1.08,
-     "change": 11.4
-    },
-    {
-     "date": "2026-09-25",
-     "close": 0.96,
-     "change": -11.47
-    },
-    {
-     "date": "2026-09-24",
-     "close": 1.09,
-     "change": 2.83
-    }
-   ],
-   "market_cap": 21608440.0,
-   "shares_outstanding": 20194804.0,
-   "industry": "Wholesale-Groceries, General Line",
-   "state_of_incorporation": "NV",
-   "hq": "IRVINE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T05:38:57+09:00"
   }
  ]
 }
