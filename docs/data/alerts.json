@@ -1,7 +1,219 @@
 {
- "updated_at": "2026-10-06T21:29:08+09:00",
+ "updated_at": "2026-10-06T21:34:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-045870",
+   "company": "Worksport Ltd",
+   "ticker": "WKSP",
+   "cik": 1096275,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "27 million in July to approximately $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226045870/0001493152-26-045870-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226045870/ex99-1.htm",
+   "filed_at": "2026-10-06T08:31:21-04:00",
+   "filed_kst": "2026-10-06 21:31",
+   "price": 0.41,
+   "change": -11.16,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 0.41,
+     "change": -11.16
+    },
+    {
+     "date": "2026-10-02",
+     "close": 0.46,
+     "change": -0.65
+    },
+    {
+     "date": "2026-10-01",
+     "close": 0.46,
+     "change": -0.65
+    }
+   ],
+   "market_cap": 6272317.0,
+   "shares_outstanding": 15298333.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "NV",
+   "hq": "WEST SENECA, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-06T21:31:54+09:00"
+  },
+  {
+   "id": "0001683168-26-007637",
+   "company": "AUDDIA INC.",
+   "ticker": "AUUD",
+   "cik": 1554818,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "1 About the Merger to form McCarthy Finney (MCFN) Auddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007637/0001683168-26-007637-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007637/auddia_425.htm",
+   "filed_at": "2026-10-06T08:30:55-04:00",
+   "filed_kst": "2026-10-06 21:30",
+   "price": 1.33,
+   "change": 9.92,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 1.33,
+     "change": 9.92
+    },
+    {
+     "date": "2026-10-02",
+     "close": 1.21,
+     "change": -1.63
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1.23,
+     "change": 4.24
+    }
+   ],
+   "market_cap": 7718056.0,
+   "shares_outstanding": 5803050.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "BOULDER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-06T21:31:22+09:00"
+  },
+  {
+   "id": "0001493152-26-045866",
+   "company": "Microbot Medical Inc.",
+   "ticker": "MBOT",
+   "cik": 883975,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Enter into Three-Year Exclusive Distribution Agreement in Israel Medtechnica Ltd.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/883975/000149315226045866/0001493152-26-045866-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/883975/000149315226045866/ex99-1.htm",
+   "filed_at": "2026-10-06T08:30:22-04:00",
+   "filed_kst": "2026-10-06 21:30",
+   "price": 1.07,
+   "change": -7.76,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 1.07,
+     "change": -7.76
+    },
+    {
+     "date": "2026-10-02",
+     "close": 1.16,
+     "change": -3.33
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1.2,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 71866337.0,
+   "shares_outstanding": 67164801.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "HINGHAM, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-06T21:31:20+09:00"
+  },
+  {
+   "id": "0001683168-26-007636",
+   "company": "AUDDIA INC.",
+   "ticker": "AUUD",
+   "cik": 1554818,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "1 About the Merger to form McCarthy Finney (MCFN) Auddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007636/0001683168-26-007636-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007636/auddia_ex9901.htm",
+   "filed_at": "2026-10-06T08:30:14-04:00",
+   "filed_kst": "2026-10-06 21:30",
+   "price": 1.33,
+   "change": 9.92,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 1.33,
+     "change": 9.92
+    },
+    {
+     "date": "2026-10-02",
+     "close": 1.21,
+     "change": -1.63
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1.23,
+     "change": 4.24
+    }
+   ],
+   "market_cap": 7718056.0,
+   "shares_outstanding": 5803050.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "BOULDER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-06T21:30:44+09:00"
+  },
   {
    "id": "0001213900-26-106991",
    "company": "Turbo Energy, S.A.",
@@ -15383,206 +15595,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-29T19:06:22+09:00"
-  },
-  {
-   "id": "0001648257-26-000061",
-   "company": "HUTCHMED (China) Ltd",
-   "ticker": "HCM",
-   "cik": 1648257,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "​ On September 3, 2026, HUTCHMED Limited (a subsidiary of the Company) entered into an exclusive development and license agreement with a subsidiary of GSK plc (“GSK”), granting the GSK subsidiary worldwide rights excluding Mainland China, Hong Kong, Macau and Taiwan to develop and commercialize HMP",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000061/0001648257-26-000061-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000061/hcm-ex99d1.htm",
-   "filed_at": "2026-09-28T21:26:06-04:00",
-   "filed_kst": "2026-09-29 10:26",
-   "price": 14.13,
-   "change": 1.36,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 14.13,
-     "change": 1.36
-    },
-    {
-     "date": "2026-09-25",
-     "close": 13.94,
-     "change": 0.29
-    },
-    {
-     "date": "2026-09-24",
-     "close": 13.9,
-     "change": -3.27
-    }
-   ],
-   "market_cap": 12325989271.0,
-   "shares_outstanding": 872327620.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-29T19:06:20+09:00"
-  },
-  {
-   "id": "0001193125-26-405895",
-   "company": "SUMITOMO MITSUI FINANCIAL GROUP, INC.",
-   "ticker": "SMFG",
-   "cik": 1022837,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "6-K 1 d158850d6k.htm FORM 6-K Form 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of September 2026 Commission File Number 001-34919 SUMITO",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1022837/000119312526405895/0001193125-26-405895-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1022837/000119312526405895/d158850d6k.htm",
-   "filed_at": "2026-09-29T06:01:22-04:00",
-   "filed_kst": "2026-09-29 19:01",
-   "price": 26.43,
-   "change": -0.68,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 26.43,
-     "change": -0.68
-    },
-    {
-     "date": "2026-09-25",
-     "close": 26.61,
-     "change": 4.31
-    },
-    {
-     "date": "2026-09-24",
-     "close": 25.51,
-     "change": -1.32
-    }
-   ],
-   "market_cap": 101160775840.0,
-   "shares_outstanding": 3827498140.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": "Japan",
-   "hq": "TOKYO, M0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-29T19:06:19+09:00"
-  },
-  {
-   "id": "0001104659-26-111508",
-   "company": "Evotec SE",
-   "ticker": "EVO",
-   "cik": 1412558,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Our offerings range from standalone services to fully integrated R&D programs and long-term strategic partnerships, combining scientific excellence with operational agility.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1412558/000110465926111508/0001104659-26-111508-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1412558/000110465926111508/tm2626558d1_ex99-1.htm",
-   "filed_at": "2026-09-29T06:01:42-04:00",
-   "filed_kst": "2026-09-29 19:01",
-   "price": 1.59,
-   "change": 1.92,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 1.59,
-     "change": 1.92
-    },
-    {
-     "date": "2026-09-25",
-     "close": 1.56,
-     "change": 1.96
-    },
-    {
-     "date": "2026-09-24",
-     "close": 1.53,
-     "change": -0.65
-    }
-   ],
-   "market_cap": 282668462.0,
-   "shares_outstanding": 177778907.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Germany",
-   "hq": "HAMBURG",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-29T19:06:18+09:00"
-  },
-  {
-   "id": "0001104659-26-111514",
-   "company": "Sangoma Technologies Corp",
-   "ticker": "SANG",
-   "cik": 1753368,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "1 Sangoma Technologies Corporation Enters into Definitive Agreement to be Acquired by BRC Group Holdings, Inc.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/0001104659-26-111514-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/tm2626529d1_ex99-1.htm",
-   "filed_at": "2026-09-29T06:03:21-04:00",
-   "filed_kst": "2026-09-29 19:03",
-   "price": 3.59,
-   "change": 1.13,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 3.59,
-     "change": 1.13
-    },
-    {
-     "date": "2026-09-25",
-     "close": 3.55,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-24",
-     "close": 3.55,
-     "change": 0.57
-    }
-   ],
-   "market_cap": 119686766.0,
-   "shares_outstanding": 33338932.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "MARKHAM, A6",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T19:06:15+09:00"
   }
  ]
 }
