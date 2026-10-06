@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-06T21:14:45+09:00",
+ "updated_at": "2026-10-06T21:19:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-106991",
+   "company": "Turbo Energy, S.A.",
+   "ticker": "TURB",
+   "cik": 1963439,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "5 MWh OF INTELLIGENT ENERGY STORAGE ONLINE ACROSS THREE INDUSTRIAL SITES Turbo Energy’s systems integrate battery storage, solar generation and industrial demand through intelligent energy management at three sites under the Company’s previously announced $53 million contract to supply and implement",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1963439/000121390026106991/0001213900-26-106991-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1963439/000121390026106991/ea030780801ex99-1.htm",
+   "filed_at": "2026-10-06T08:15:24-04:00",
+   "filed_kst": "2026-10-06 21:15",
+   "price": 1.05,
+   "change": -2.78,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 1.05,
+     "change": -2.78
+    },
+    {
+     "date": "2026-10-02",
+     "close": 1.08,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1.08,
+     "change": -4.42
+    }
+   ],
+   "market_cap": 57839985.0,
+   "shares_outstanding": 55085700.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "Spain",
+   "hq": "VALENCIA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-06T21:16:06+09:00"
+  },
   {
    "id": "0001171843-26-006440",
    "company": "NOVO NORDISK A S",
@@ -15532,56 +15583,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-29T19:06:15+09:00"
-  },
-  {
-   "id": "0001648257-26-000064",
-   "company": "HUTCHMED (China) Ltd",
-   "ticker": "HCM",
-   "cik": 1648257,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.1 2 hcm-ex99d1.htm EX-99.1 Exhibit 99.1 ​ ​ Press Release HUTCHMED Announces Submission of US NDA for ORPATHYS ® plus TAGRISSO ® in MET-Driven EGFR-Mutated Lung Cancer ​ — Filing seeks approval for a biomarker-directed, all-oral treatment option for patients whose tumors have MET overexpressio",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000064/0001648257-26-000064-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000064/hcm-ex99d1.htm",
-   "filed_at": "2026-09-29T06:03:35-04:00",
-   "filed_kst": "2026-09-29 19:03",
-   "price": 14.13,
-   "change": 1.36,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 14.13,
-     "change": 1.36
-    },
-    {
-     "date": "2026-09-25",
-     "close": 13.94,
-     "change": 0.29
-    },
-    {
-     "date": "2026-09-24",
-     "close": 13.9,
-     "change": -3.27
-    }
-   ],
-   "market_cap": 12325989271.0,
-   "shares_outstanding": 872327620.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-29T19:06:13+09:00"
   }
  ]
 }
