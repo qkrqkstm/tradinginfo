@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-07T00:54:37+09:00",
+ "updated_at": "2026-10-07T00:59:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-008816",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Following cancellation of those shares, the Company has 17,135,023,491 ordinary shares in issue.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008816/0001654954-26-008816-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008816/a8664x.htm",
+   "filed_at": "2026-10-06T11:55:12-04:00",
+   "filed_kst": "2026-10-07 00:55",
+   "price": 98.02,
+   "change": 1.38,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 98.01,
+     "change": 1.38
+    },
+    {
+     "date": "2026-10-05",
+     "close": 96.68,
+     "change": 0.56
+    },
+    {
+     "date": "2026-10-02",
+     "close": 96.14,
+     "change": 0.33
+    }
+   ],
+   "market_cap": 1683517011273.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-07T00:55:55+09:00"
+  },
   {
    "id": "0001171843-26-006446",
    "company": "Alpha Compute Corp",
@@ -15534,60 +15584,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-29T20:27:58+09:00"
-  },
-  {
-   "id": "0001674335-26-000126",
-   "company": "JELD-WEN Holding, Inc.",
-   "ticker": "JELD",
-   "cik": 1674335,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "875% Senior Notes due 2027 (the “2027 Notes”) and its 2028 term loans (the “2028 Term Loans”) to 2031 and raise $135 million of new money debt financing.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1674335/000167433526000126/0001674335-26-000126-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1674335/000167433526000126/jeld-20260929.htm",
-   "filed_at": "2026-09-29T07:09:35-04:00",
-   "filed_kst": "2026-09-29 20:09",
-   "price": 1.77,
-   "change": -3.8,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 1.77,
-     "change": -3.8
-    },
-    {
-     "date": "2026-09-25",
-     "close": 1.84,
-     "change": 6.98
-    },
-    {
-     "date": "2026-09-24",
-     "close": 1.72,
-     "change": -4.44
-    }
-   ],
-   "market_cap": 153571186.0,
-   "shares_outstanding": 86763382.0,
-   "industry": "Millwood, Veneer, Plywood, & Structural Wood Members",
-   "state_of_incorporation": "DE",
-   "hq": "CHARLOTTE, NC",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-09-29T20:10:19+09:00"
   }
  ]
 }
