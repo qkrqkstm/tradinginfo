@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-06T20:44:35+09:00",
+ "updated_at": "2026-10-06T20:49:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-032107",
+   "company": "Valion Bio, Inc.",
+   "ticker": "VBIO",
+   "cik": 1787740,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 60,
+   "summary": "government agencies, and the program holds FDA Fast Track and Orphan Drug designations for ARS.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926032107/0001437749-26-032107-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926032107/vbio20261005_8k.htm",
+   "filed_at": "2026-10-06T07:45:18-04:00",
+   "filed_kst": "2026-10-06 20:45",
+   "price": 2.48,
+   "change": -4.25,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 2.48,
+     "change": -4.25
+    },
+    {
+     "date": "2026-10-02",
+     "close": 2.59,
+     "change": 3.19
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2.51,
+     "change": -10.36
+    }
+   ],
+   "market_cap": 55030553.0,
+   "shares_outstanding": 22189739.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-06T20:45:59+09:00"
+  },
   {
    "id": "0001171843-26-006438",
    "company": "Costamare Inc.",
@@ -15525,57 +15578,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-29T05:38:57+09:00"
-  },
-  {
-   "id": "0001493152-26-044568",
-   "company": "POWERBANK Corp",
-   "ticker": "PBK",
-   "cik": 2011053,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 60,
-   "summary": "The Collaboration Agreement with Orbit AI remains in place and the Company continues to discuss with Orbit AI collaboration opportunities to support the orbital cloud.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2011053/000149315226044568/0001493152-26-044568-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2011053/000149315226044568/ex99-1.htm",
-   "filed_at": "2026-09-28T16:28:26-04:00",
-   "filed_kst": "2026-09-29 05:28",
-   "price": 0.27,
-   "change": 0.04,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 0.27,
-     "change": 0.04
-    },
-    {
-     "date": "2026-09-28",
-     "close": 0.26,
-     "change": 0.72
-    },
-    {
-     "date": "2026-09-25",
-     "close": 0.26,
-     "change": 0.77
-    }
-   ],
-   "market_cap": 7341590.0,
-   "shares_outstanding": 27191075.0,
-   "industry": "Construction - Special Trade Contractors",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T05:34:44+09:00"
   }
  ]
 }
