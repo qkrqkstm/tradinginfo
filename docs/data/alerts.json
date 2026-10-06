@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-06T21:34:28+09:00",
+ "updated_at": "2026-10-06T21:39:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-414993",
+   "company": "TPG RE Finance Trust, Inc.",
+   "ticker": "TRTX",
+   "cik": 1630472,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(B)(30) (Due on Sale or Encumbrance) Luke Field Central Logistics The related Loan Documents permit a change of control without the consent of the related lender, pursuant to the related joint venture agreement so long as certain conditions in the related Loan Documents are satisfied.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1630472/000119312526414993/0001193125-26-414993-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1630472/000119312526414993/d176996dex101.htm",
+   "filed_at": "2026-10-06T08:34:14-04:00",
+   "filed_kst": "2026-10-06 21:34",
+   "price": 6.02,
+   "change": -1.95,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 6.02,
+     "change": -1.95
+    },
+    {
+     "date": "2026-10-02",
+     "close": 6.14,
+     "change": -3.15
+    },
+    {
+     "date": "2026-10-01",
+     "close": 6.34,
+     "change": 1.28
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-06T21:35:25+09:00"
+  },
   {
    "id": "0001493152-26-045870",
    "company": "Worksport Ltd",
@@ -15542,59 +15592,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-09-29T19:31:09+09:00"
-  },
-  {
-   "id": "0001214659-26-012121",
-   "company": "VerifyMe, Inc.",
-   "ticker": "VRME",
-   "cik": 1104038,
-   "form": "425",
-   "items": [
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Nevada corporation (the “Company,” “VerifyMe,” “we” or “us”) entered into an Agreement and Plan of Merger (as subsequently amended, the “Merger Agreement”) with VRME Subsidiary Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012121/0001214659-26-012121-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012121/vm928261425.htm",
-   "filed_at": "2026-09-28T21:36:39-04:00",
-   "filed_kst": "2026-09-29 10:36",
-   "price": 0.99,
-   "change": 3.14,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 0.99,
-     "change": 3.14
-    },
-    {
-     "date": "2026-09-25",
-     "close": 0.96,
-     "change": -17.96
-    },
-    {
-     "date": "2026-09-24",
-     "close": 1.17,
-     "change": 1.74
-    }
-   ],
-   "market_cap": 13033544.0,
-   "shares_outstanding": 13165196.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "NV",
-   "hq": "LAKE MARY, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-29T19:06:22+09:00"
   }
  ]
 }
