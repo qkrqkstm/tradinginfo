@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-07T00:09:33+09:00",
+ "updated_at": "2026-10-07T00:14:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006446",
+   "company": "Alpha Compute Corp",
+   "ticker": "ALP",
+   "cik": 1095435,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Signs Agreement with AI Platform to deliver Compute via its ALPHA-02 Cluster in Sweden, with a total value of $71.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184326006446/0001171843-26-006446-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184326006446/f6k_100626.htm",
+   "filed_at": "2026-10-06T11:13:42-04:00",
+   "filed_kst": "2026-10-07 00:13",
+   "price": 4.42,
+   "change": 0.68,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 4.42,
+     "change": 0.68
+    },
+    {
+     "date": "2026-10-05",
+     "close": 4.39,
+     "change": -4.57
+    },
+    {
+     "date": "2026-10-02",
+     "close": 4.6,
+     "change": -2.85
+    }
+   ],
+   "market_cap": 103741276.0,
+   "shares_outstanding": 23470877.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "TORTOLA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-07T00:14:12+09:00"
+  },
   {
    "id": "0001193125-26-415015",
    "company": "REPLIGEN CORP",
@@ -15538,57 +15588,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-09-29T20:10:19+09:00"
-  },
-  {
-   "id": "0001084869-26-000033",
-   "company": "1 800 FLOWERS COM INC",
-   "ticker": "FLWS",
-   "cik": 1084869,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-2.1 2 exh21assetpurchaseagreement.htm EX-2.1 Document Exhibit 2.1 ASSET PURCHASE AGREEMENT BY AND AMONG 1-800-FLOWERS.COM, INC. 800-FLOWERS, INC. PERSONALIZATIONMALL.COM, LLC PERSONALIZATION UNIVERSE, LLC TR ACQUISITION, LLC AND PLANETART, LLC _______________________ Dated as of September 26, 202",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1084869/000108486926000033/0001084869-26-000033-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1084869/000108486926000033/exh21assetpurchaseagreement.htm",
-   "filed_at": "2026-09-29T07:05:07-04:00",
-   "filed_kst": "2026-09-29 20:05",
-   "price": 2.64,
-   "change": -1.49,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 2.64,
-     "change": -1.49
-    },
-    {
-     "date": "2026-09-25",
-     "close": 2.68,
-     "change": -4.63
-    },
-    {
-     "date": "2026-09-24",
-     "close": 2.81,
-     "change": -0.35
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Retail-Retail Stores, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "JERICHO, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-29T20:06:13+09:00"
   }
  ]
 }
