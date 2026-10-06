@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-06T22:14:40+09:00",
+ "updated_at": "2026-10-06T22:19:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-415015",
+   "company": "REPLIGEN CORP",
+   "ticker": "RGEN",
+   "cik": 730272,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Delaware corporation (“BioLife”), pursuant to the Agreement and Plan of Merger, dated as of July 21, 2026 (the “Merger Agreement”), by and among Repligen, Bravo Merger Sub I, Inc.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/730272/000119312526415015/0001193125-26-415015-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/730272/000119312526415015/d240327dex991.htm",
+   "filed_at": "2026-10-06T09:14:18-04:00",
+   "filed_kst": "2026-10-06 22:14",
+   "price": 189.5,
+   "change": 4.29,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 189.5,
+     "change": 4.29
+    },
+    {
+     "date": "2026-10-02",
+     "close": 181.7,
+     "change": 2.52
+    },
+    {
+     "date": "2026-10-01",
+     "close": 177.23,
+     "change": -7.8
+    }
+   ],
+   "market_cap": 10694550180.0,
+   "shares_outstanding": 56435621.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "WALTHAM, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-06T22:15:36+09:00"
+  },
   {
    "id": "0001104659-26-113913",
    "company": "Paramount Skydance Corp",
@@ -15535,59 +15589,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-29T20:06:13+09:00"
-  },
-  {
-   "id": "0001104659-26-111583",
-   "company": "IOVANCE BIOTHERAPEUTICS, INC.",
-   "ticker": "IOVA",
-   "cik": 1425205,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "1 Iovance Biotherapeutics Raises Full Year 2026 Revenue Guidance to $410 to $420 Million New Guidance Represents an Increase of $55 Million at the Midpoint from the Prior Range of $350 to $370 Million Strong U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926111583/0001104659-26-111583-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926111583/tm2626507d1_ex99-1.htm",
-   "filed_at": "2026-09-29T07:05:31-04:00",
-   "filed_kst": "2026-09-29 20:05",
-   "price": 10.99,
-   "change": -0.09,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 10.99,
-     "change": -0.09
-    },
-    {
-     "date": "2026-09-25",
-     "close": 11.0,
-     "change": 1.85
-    },
-    {
-     "date": "2026-09-24",
-     "close": 10.8,
-     "change": 5.99
-    }
-   ],
-   "market_cap": 4978156038.0,
-   "shares_outstanding": 452971432.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SAN CARLOS, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-09-29T20:06:12+09:00"
   }
  ]
 }
