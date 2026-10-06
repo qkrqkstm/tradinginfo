@@ -1,7 +1,166 @@
 {
- "updated_at": "2026-10-07T05:14:16+09:00",
+ "updated_at": "2026-10-07T05:19:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-032200",
+   "company": "NextPlat Corp",
+   "ticker": "NXPL",
+   "cik": 1058307,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through acquisitions, joint ventures, and collaborations, the Company seeks to provide access to high-quality healthcare and pharmacy services supporting patients, providers, institutions, and public-sector organizations and creating online sales channels for the sales of products",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058307/000143774926032200/0001437749-26-032200-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1058307/000143774926032200/nxpl20261006_8k.htm",
+   "filed_at": "2026-10-06T16:17:02-04:00",
+   "filed_kst": "2026-10-07 05:17",
+   "price": 9.27,
+   "change": 3.0,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 9.27,
+     "change": 3.0
+    },
+    {
+     "date": "2026-10-05",
+     "close": 9.0,
+     "change": 5.26
+    },
+    {
+     "date": "2026-10-02",
+     "close": 8.55,
+     "change": -1.84
+    }
+   ],
+   "market_cap": 25151568.0,
+   "shares_outstanding": 2713222.0,
+   "industry": "Telephone Communications (No Radiotelephone)",
+   "state_of_incorporation": "NV",
+   "hq": "HALLANDALE BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-07T05:17:43+09:00"
+  },
+  {
+   "id": "0001104659-26-114051",
+   "company": "Navitas Semiconductor Corp",
+   "ticker": "NVTS",
+   "cik": 1821769,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "On October 6, 2026, Navitas Semiconductor Corporation (the “Company”) issued a press release announcing the closing of the transactions contemplated by the Merger Agreement (as defined below).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1821769/000110465926114051/0001104659-26-114051-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1821769/000110465926114051/tm2626897d3_ex99-1.htm",
+   "filed_at": "2026-10-06T16:15:25-04:00",
+   "filed_kst": "2026-10-07 05:15",
+   "price": 11.97,
+   "change": -3.0,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 11.97,
+     "change": -3.0
+    },
+    {
+     "date": "2026-10-05",
+     "close": 12.34,
+     "change": -0.48
+    },
+    {
+     "date": "2026-10-02",
+     "close": 12.4,
+     "change": 2.31
+    }
+   ],
+   "market_cap": 2195988501.0,
+   "shares_outstanding": 183457686.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "TORRANCE, CA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-07T05:16:04+09:00"
+  },
+  {
+   "id": "0001213900-26-107214",
+   "company": "Rocky Mountain Chocolate Factory, Inc.",
+   "ticker": "RMCF",
+   "cik": 1616262,
+   "form": "8-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "(Nasdaq: RMCF) (the “Company” or “RMCF”), America’s Chocolatier® since 1981, today announced it has signed a $6.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1616262/000121390026107214/0001213900-26-107214-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1616262/000121390026107214/ea030780001ex99-1.htm",
+   "filed_at": "2026-10-06T16:15:28-04:00",
+   "filed_kst": "2026-10-07 05:15",
+   "price": 0.92,
+   "change": -0.01,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 0.92,
+     "change": -0.01
+    },
+    {
+     "date": "2026-10-06",
+     "close": 0.92,
+     "change": 5.3
+    },
+    {
+     "date": "2026-10-05",
+     "close": 0.87,
+     "change": -1.14
+    }
+   ],
+   "market_cap": 8684420.0,
+   "shares_outstanding": 9439587.0,
+   "industry": "Sugar & Confectionery Products",
+   "state_of_incorporation": "DE",
+   "hq": "DURANGO, CO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-07T05:16:01+09:00"
+  },
   {
    "id": "0001193125-26-415580",
    "company": "Fox Corp",
@@ -15431,164 +15590,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-29T22:21:04+09:00"
-  },
-  {
-   "id": "0001104659-26-111654",
-   "company": "uniQure N.V.",
-   "ticker": "QURE",
-   "cik": 1590560,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "Ifezuntirgene inilparvovec is the first investigational therapy for Huntington’s disease to have received Breakthrough Therapy and Regenerative Medicine Advanced Therapy (RMAT) designations from the FDA.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1590560/000110465926111654/0001104659-26-111654-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1590560/000110465926111654/tm2626514d1_ex99-1.htm",
-   "filed_at": "2026-09-29T09:05:32-04:00",
-   "filed_kst": "2026-09-29 22:05",
-   "price": 39.11,
-   "change": 2.3,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 39.11,
-     "change": 2.3
-    },
-    {
-     "date": "2026-09-25",
-     "close": 38.23,
-     "change": -0.23
-    },
-    {
-     "date": "2026-09-24",
-     "close": 38.32,
-     "change": -10.38
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "AMSTERDAM",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-29T22:06:30+09:00"
-  },
-  {
-   "id": "0001213900-26-104345",
-   "company": "HUHUTECH International Group Inc.",
-   "ticker": "HUHU",
-   "cik": 1945415,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "htm PRESS RELEASE DATED SEPTEMBER 29, 2026 - HUHUTECH EXPECTS TWO POTENTIAL JAPAN PROJECTS WITH ESTIMATED AGGREGATE VALUE OF APPROXIMATELY US$12 MILLION TO ADVANCE TOWARD CONTRACTING IN Q4 2026 Exhibit 99.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1945415/000121390026104345/0001213900-26-104345-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1945415/000121390026104345/ea030696501ex99-1.htm",
-   "filed_at": "2026-09-29T09:00:01-04:00",
-   "filed_kst": "2026-09-29 22:00",
-   "price": 5.74,
-   "change": 8.1,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 5.74,
-     "change": 8.1
-    },
-    {
-     "date": "2026-09-25",
-     "close": 5.31,
-     "change": -10.91
-    },
-    {
-     "date": "2026-09-24",
-     "close": 5.96,
-     "change": 1.02
-    }
-   ],
-   "market_cap": 138355519.0,
-   "shares_outstanding": 24103749.0,
-   "industry": "Nonferrous Foundries (Castings)",
-   "state_of_incorporation": "China",
-   "hq": "WUXI, JIANGSU",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T22:00:47+09:00"
-  },
-  {
-   "id": "0001493152-26-044804",
-   "company": "Host Digital Inc.",
-   "ticker": "HOST",
-   "cik": 1948864,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "In August, we signed a 15-year lease with approximately $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1948864/000149315226044804/0001493152-26-044804-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1948864/000149315226044804/ex99-1.htm",
-   "filed_at": "2026-09-29T08:35:17-04:00",
-   "filed_kst": "2026-09-29 21:35",
-   "price": 4.95,
-   "change": -19.38,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 4.95,
-     "change": -19.38
-    },
-    {
-     "date": "2026-09-25",
-     "close": 6.14,
-     "change": -23.25
-    },
-    {
-     "date": "2026-09-24",
-     "close": 8.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 160666249.0,
-   "shares_outstanding": 32457828.0,
-   "industry": "Retail-Grocery Stores",
-   "state_of_incorporation": "DE",
-   "hq": "HOLLYWOOD, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T21:35:56+09:00"
   }
  ]
 }
