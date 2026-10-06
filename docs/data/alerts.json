@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-06T20:04:56+09:00",
+ "updated_at": "2026-10-06T20:09:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178913-26-004716",
+   "company": "ELTEK LTD",
+   "ticker": "ELTK",
+   "cik": 1024672,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "EXPLANATORY NOTE On October 6, 2026, Eltek issued a press release reporting receipt of $6.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024672/000117891326004716/0001178913-26-004716-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1024672/000117891326004716/zk2636197.htm",
+   "filed_at": "2026-10-06T07:05:10-04:00",
+   "filed_kst": "2026-10-06 20:05",
+   "price": 7.78,
+   "change": -0.06,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 7.78,
+     "change": -0.06
+    },
+    {
+     "date": "2026-10-05",
+     "close": 7.78,
+     "change": -2.38
+    },
+    {
+     "date": "2026-10-02",
+     "close": 7.97,
+     "change": 1.79
+    }
+   ],
+   "market_cap": 52280254.0,
+   "shares_outstanding": 6719827.0,
+   "industry": "Printed Circuit Boards",
+   "state_of_incorporation": "Israel",
+   "hq": "PETAH TIKVA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-06T20:05:56+09:00"
+  },
   {
    "id": "0001213900-26-106968",
    "company": "KAMADA LTD",
@@ -15529,58 +15579,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-29T05:17:13+09:00"
-  },
-  {
-   "id": "0000318300-26-000202",
-   "company": "PEOPLES BANCORP INC",
-   "ticker": "PEBO",
-   "cik": 318300,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "The Agreement and Plan of Merger dated as of April 20, 2026, by and between Peoples and Citizens, was approved by Citizens’ shareholders on August 6, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000202/0000318300-26-000202-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000202/pebo-20260928.htm",
-   "filed_at": "2026-09-28T16:11:22-04:00",
-   "filed_kst": "2026-09-29 05:11",
-   "price": 39.11,
-   "change": -0.28,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 39.11,
-     "change": -0.28
-    },
-    {
-     "date": "2026-09-25",
-     "close": 39.22,
-     "change": 0.38
-    },
-    {
-     "date": "2026-09-24",
-     "close": 39.07,
-     "change": 1.67
-    }
-   ],
-   "market_cap": 1405703940.0,
-   "shares_outstanding": 35942315.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "OH",
-   "hq": "MARIETTA, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-29T05:16:15+09:00"
   }
  ]
 }
