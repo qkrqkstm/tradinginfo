@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-07T05:49:25+09:00",
+ "updated_at": "2026-10-07T05:54:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000842517-26-000227",
+   "company": "ISABELLA BANK CORP",
+   "ticker": "ISBA",
+   "cik": 842517,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(“Grand River”) (OTCQX: GNRV) announced today receipt of all required regulatory approvals necessary to complete their previously announced merger pursuant to the Agreement and Plan of Merger, dated as of June 11, 2026, by and among Isabella, Grand River and 401 Merger Sub, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842517/000084251726000227/0000842517-26-000227-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/842517/000084251726000227/isba-20261005.htm",
+   "filed_at": "2026-10-06T16:53:48-04:00",
+   "filed_kst": "2026-10-07 05:53",
+   "price": 38.34,
+   "change": 1.23,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 38.33,
+     "change": 1.23
+    },
+    {
+     "date": "2026-10-05",
+     "close": 37.87,
+     "change": -0.66
+    },
+    {
+     "date": "2026-10-02",
+     "close": 38.12,
+     "change": 1.17
+    }
+   ],
+   "market_cap": 292490991.0,
+   "shares_outstanding": 7628873.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "MI",
+   "hq": "MT PLEASANT, MI",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-07T05:54:20+09:00"
+  },
   {
    "id": "0001213900-26-107261",
    "company": "Churchill Capital Corp XI",
@@ -15559,57 +15613,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-30T05:11:08+09:00"
-  },
-  {
-   "id": "0000911147-26-000047",
-   "company": "CENTURY CASINOS INC /CO/",
-   "ticker": "CNTY",
-   "cik": 911147,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "“ Contracts ” means all contracts, leases, deeds, mortgages, licenses, instruments, notes, commitments, undertakings, indentures, joint ventures and all other agreements, commitments and legally binding arrangements, whether written or oral.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000047/0000911147-26-000047-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/911147/000091114726000047/cnty-20260924xex99_1.htm",
-   "filed_at": "2026-09-29T16:08:01-04:00",
-   "filed_kst": "2026-09-30 05:08",
-   "price": 1.07,
-   "change": 1.9,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 1.07,
-     "change": 1.9
-    },
-    {
-     "date": "2026-09-28",
-     "close": 1.05,
-     "change": -4.55
-    },
-    {
-     "date": "2026-09-25",
-     "close": 1.1,
-     "change": -0.9
-    }
-   ],
-   "market_cap": 30107330.0,
-   "shares_outstanding": 28137692.0,
-   "industry": "Hotels & Motels",
-   "state_of_incorporation": "DE",
-   "hq": "COLORADO SPRINGS, CO",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-30T05:08:55+09:00"
   }
  ]
 }
