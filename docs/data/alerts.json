@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-06T19:04:52+09:00",
+ "updated_at": "2026-10-06T19:09:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-113853",
+   "company": "AMC ENTERTAINMENT HOLDINGS, INC.",
+   "ticker": "AMC",
+   "cik": 1411579,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 72,
+   "summary": "EX-99.1 10 tm2627016d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 INVESTOR RELATIONS: John Merriwether, (866) 248-3872 InvestorRelations@amctheatres.com MEDIA CONTACT: Ryan Noonan, (913) 213-2183 rnoonan@amctheatres.com FOR IMMEDIATE RELEASE AMC ENTERTAINMENT HOLDINGS, INC. ANNOUNCES RESULTS OF TENDER OFF",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926113853/0001104659-26-113853-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926113853/tm2627016d1_ex99-1.htm",
+   "filed_at": "2026-10-06T06:06:32-04:00",
+   "filed_kst": "2026-10-06 19:06",
+   "price": 2.79,
+   "change": 0.72,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 2.79,
+     "change": 0.72
+    },
+    {
+     "date": "2026-10-02",
+     "close": 2.77,
+     "change": 0.36
+    },
+    {
+     "date": "2026-10-01",
+     "close": 2.76,
+     "change": -8.0
+    }
+   ],
+   "market_cap": 2490366940.0,
+   "shares_outstanding": 892604638.0,
+   "industry": "Services-Motion Picture Theaters",
+   "state_of_incorporation": "DE",
+   "hq": "LEAWOOD, KS",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-06T19:07:02+09:00"
+  },
   {
    "id": "0001171843-26-006429",
    "company": "Quantum Biopharma Ltd.",
@@ -15539,57 +15590,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-29T05:08:20+09:00"
-  },
-  {
-   "id": "0001213900-26-104027",
-   "company": "Yimutian Inc.",
-   "ticker": "YMT",
-   "cik": 1991605,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "On September 10, 2026, the Company completed the acquisition of control over 100% of the equity interests in Qingdao Xingongguan Holiday Hotel Co.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026104027/0001213900-26-104027-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026104027/ea0306833-6k_yimutian.htm",
-   "filed_at": "2026-09-28T16:01:21-04:00",
-   "filed_kst": "2026-09-29 05:01",
-   "price": 1.77,
-   "change": -2.21,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 1.77,
-     "change": -2.21
-    },
-    {
-     "date": "2026-09-25",
-     "close": 1.81,
-     "change": 1.69
-    },
-    {
-     "date": "2026-09-24",
-     "close": 1.78,
-     "change": -3.26
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BEIJING, F4",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T05:04:30+09:00"
   }
  ]
 }
