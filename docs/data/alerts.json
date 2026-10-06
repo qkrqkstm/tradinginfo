@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-06T20:29:08+09:00",
+ "updated_at": "2026-10-06T20:34:49+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-045844",
+   "company": "Kairos Pharma, LTD.",
+   "ticker": "KAPA",
+   "cik": 1962011,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "The interim analysis demonstrated a statistically significant difference in progression-free survival (PFS) between all patients in the trial treated with ENV-105 plus apalutamide and those treated with apalutamide alone.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226045844/0001493152-26-045844-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226045844/ex99-1.htm",
+   "filed_at": "2026-10-06T07:30:06-04:00",
+   "filed_kst": "2026-10-06 20:30",
+   "price": 1.55,
+   "change": -0.64,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 1.55,
+     "change": -0.64
+    },
+    {
+     "date": "2026-10-02",
+     "close": 1.56,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-01",
+     "close": 1.56,
+     "change": -4.88
+    }
+   ],
+   "market_cap": 36731409.0,
+   "shares_outstanding": 23697683.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-06T20:30:42+09:00"
+  },
   {
    "id": "0001437749-26-032105",
    "company": "Professional Diversity Network, Inc.",
@@ -15527,61 +15580,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-29T05:32:41+09:00"
-  },
-  {
-   "id": "0001829126-26-010488",
-   "company": "Wintergreen Acquisition Corp.",
-   "ticker": "WTG",
-   "cik": 2053927,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03",
-    "3.02",
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "pursuant to the Merger Agreement dated November 17, 2025.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2053927/000182912626010488/0001829126-26-010488-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2053927/000182912626010488/wintergreenacq_8k.htm",
-   "filed_at": "2026-09-28T16:30:30-04:00",
-   "filed_kst": "2026-09-29 05:30",
-   "price": 10.62,
-   "change": 0.38,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 10.62,
-     "change": 0.38
-    },
-    {
-     "date": "2026-09-25",
-     "close": 10.58,
-     "change": -0.08
-    },
-    {
-     "date": "2026-09-24",
-     "close": 10.59,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 18145066.0,
-   "shares_outstanding": 1708575.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "TONGZHOU DISTRICT, BEIJING",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-29T05:32:39+09:00"
   }
  ]
 }
