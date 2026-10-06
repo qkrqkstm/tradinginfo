@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-07T06:14:37+09:00",
+ "updated_at": "2026-10-07T06:19:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-107297",
+   "company": "Launch Two Acquisition Corp.",
+   "ticker": "LPBB",
+   "cik": 2023676,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "On June 25, 2026, NuCube announced that it has entered into a business combination agreement with Launch Two Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026107297/0001213900-26-107297-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026107297/ea0307900-425_nucube.htm",
+   "filed_at": "2026-10-06T17:15:01-04:00",
+   "filed_kst": "2026-10-07 06:15",
+   "price": 10.81,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 10.81,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-02",
+     "close": 10.81,
+     "change": -0.18
+    },
+    {
+     "date": "2026-10-01",
+     "close": 10.83,
+     "change": 0.05
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Fabricated Plate Work (Boiler Shops)",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "OAKLAND, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-07T06:15:34+09:00"
+  },
   {
    "id": "0001185185-26-004627",
    "company": "UY Scuti Acquisition Corp.",
@@ -15572,59 +15622,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-30T05:34:25+09:00"
-  },
-  {
-   "id": "0001213900-26-104699",
-   "company": "Harvard Ave Acquisition Corp",
-   "ticker": "HAVA",
-   "cik": 2042460,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "1 Harvard Ave Acquisition Corporation and OAG International Ltd Announce Definitive Business Combination Agreement New York, Sept.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2042460/000121390026104699/0001213900-26-104699-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2042460/000121390026104699/ea030476901ex99-1.htm",
-   "filed_at": "2026-09-29T16:32:40-04:00",
-   "filed_kst": "2026-09-30 05:32",
-   "price": 10.24,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 10.24,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.24,
-     "change": 0.2
-    },
-    {
-     "date": "2026-09-25",
-     "close": 10.22,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SEOUL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T05:33:22+09:00"
   }
  ]
 }
