@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-06T21:09:07+09:00",
+ "updated_at": "2026-10-06T21:14:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006440",
+   "company": "NOVO NORDISK A S",
+   "ticker": "NVO",
+   "cik": 353278,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 f6k_100526.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ________________ FORM 6-K ________________ REPORT OF FOREIGN PRIVATE ISSUER Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 October 5, 2026 ________________ NOVO NORDISK A/S",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006440/0001171843-26-006440-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006440/f6k_100526.htm",
+   "filed_at": "2026-10-06T08:11:58-04:00",
+   "filed_kst": "2026-10-06 21:11",
+   "price": 37.54,
+   "change": 0.59,
+   "price_history": [
+    {
+     "date": "2026-10-05",
+     "close": 37.54,
+     "change": 0.59
+    },
+    {
+     "date": "2026-10-02",
+     "close": 37.32,
+     "change": -0.21
+    },
+    {
+     "date": "2026-10-01",
+     "close": 37.4,
+     "change": -1.35
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "BAGSVAERD DENMARK, G7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-06T21:12:42+09:00"
+  },
   {
    "id": "0001140361-26-038728",
    "company": "PDS Biotechnology Corp",
@@ -15532,59 +15582,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-29T19:06:13+09:00"
-  },
-  {
-   "id": "0001564708-26-000211",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000211/0001564708-26-000211-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000211/appendix3cclassa20260928.htm",
-   "filed_at": "2026-09-28T19:51:22-04:00",
-   "filed_kst": "2026-09-29 08:51",
-   "price": 32.24,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 32.24,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-28",
-     "close": 32.24,
-     "change": 1.54
-    },
-    {
-     "date": "2026-09-25",
-     "close": 31.75,
-     "change": 0.6
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-29T19:03:29+09:00"
   }
  ]
 }
