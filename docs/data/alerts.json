@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-07T05:09:15+09:00",
+ "updated_at": "2026-10-07T05:14:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-415580",
+   "company": "Fox Corp",
+   "ticker": "FOX",
+   "cik": 1754301,
+   "form": "425",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "As previously announced, on June 14, 2026, Fox Corporation, a Delaware corporation (“FOX”), entered into an Agreement and Plan of Merger (as it may be amended, restated, supplemented or otherwise amended from time to time, the “Merger Agreement”) with Falcon Merger Sub 1, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526415580/0001193125-26-415580-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526415580/d46542d425.htm",
+   "filed_at": "2026-10-06T16:12:37-04:00",
+   "filed_kst": "2026-10-07 05:12",
+   "price": 55.58,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 55.58,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-06",
+     "close": 55.58,
+     "change": -1.98
+    },
+    {
+     "date": "2026-10-05",
+     "close": 56.7,
+     "change": 1.45
+    }
+   ],
+   "market_cap": 56.0,
+   "shares_outstanding": 1.0,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-07T05:13:14+09:00"
+  },
   {
    "id": "0001193125-26-415562",
    "company": "Personalis, Inc.",
@@ -15537,60 +15589,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-29T21:35:56+09:00"
-  },
-  {
-   "id": "0001664710-26-000059",
-   "company": "Keros Therapeutics, Inc.",
-   "ticker": "KROS",
-   "cik": 1664710,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(the “Company”) issued a press release announcing that it will receive a $20 million development milestone payment under the terms of the license agreement of elritercept with partner Takeda Pharmaceuticals U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/0001664710-26-000059-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/kros-20260929.htm",
-   "filed_at": "2026-09-29T08:01:22-04:00",
-   "filed_kst": "2026-09-29 21:01",
-   "price": 11.28,
-   "change": -2.93,
-   "price_history": [
-    {
-     "date": "2026-09-28",
-     "close": 11.28,
-     "change": -2.93
-    },
-    {
-     "date": "2026-09-25",
-     "close": 11.62,
-     "change": 0.61
-    },
-    {
-     "date": "2026-09-24",
-     "close": 11.55,
-     "change": -0.69
-    }
-   ],
-   "market_cap": 223650681.0,
-   "shares_outstanding": 19827188.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "LEXINGTON, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-29T21:02:02+09:00"
   }
  ]
 }
