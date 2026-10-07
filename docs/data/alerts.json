@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-08T05:54:39+09:00",
+ "updated_at": "2026-10-08T05:59:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006500",
+   "company": "TOP SHIPS INC.",
+   "ticker": "TOPS",
+   "cik": 1296484,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company’s tanker operating fleet has a total capacity of 857,000 dwt and consists of one 50,000 dwt product/chemical tanker, one 157,000 dwt Suezmax tanker, two 300,000 dwt VLCCs and, through a joint venture, 50% interests in two 50,000 dwt product tankers.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326006500/0001171843-26-006500-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326006500/exh_991.htm",
+   "filed_at": "2026-10-07T16:58:07-04:00",
+   "filed_kst": "2026-10-08 05:58",
+   "price": 0.53,
+   "change": -2.59,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 0.53,
+     "change": -2.59
+    },
+    {
+     "date": "2026-10-06",
+     "close": 0.54,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-05",
+     "close": 0.54,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 5456300.0,
+   "shares_outstanding": 10294906.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "MAROUSSI",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-08T05:58:49+09:00"
+  },
   {
    "id": "0001193125-26-417011",
    "company": "MAGNITE, INC.",
@@ -15556,58 +15606,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-30T22:20:34+09:00"
-  },
-  {
-   "id": "0001936224-26-000014",
-   "company": "SURF AIR MOBILITY INC.",
-   "ticker": "SRFM",
-   "cik": 1936224,
-   "form": "8-K",
-   "items": [
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(“Palantir”) pursuant to the Company’s existing software license agreement with Palantir.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1936224/000193622426000014/0001936224-26-000014-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1936224/000193622426000014/srfm-20260929.htm",
-   "filed_at": "2026-09-30T08:53:19-04:00",
-   "filed_kst": "2026-09-30 21:53",
-   "price": 1.2,
-   "change": 0.84,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 1.2,
-     "change": 0.84
-    },
-    {
-     "date": "2026-09-28",
-     "close": 1.19,
-     "change": 7.21
-    },
-    {
-     "date": "2026-09-25",
-     "close": 1.11,
-     "change": 20.39
-    }
-   ],
-   "market_cap": 120476248.0,
-   "shares_outstanding": 100396873.0,
-   "industry": "Air Transportation, Nonscheduled",
-   "state_of_incorporation": "DE",
-   "hq": "ADDISON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T21:54:07+09:00"
   }
  ]
 }
