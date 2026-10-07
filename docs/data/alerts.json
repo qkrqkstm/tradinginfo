@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-07T22:04:32+09:00",
+ "updated_at": "2026-10-07T22:09:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-046091",
+   "company": "COFFEE HOLDING CO INC",
+   "ticker": "JVA",
+   "cik": 1007019,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "Announces Share Repurchase Program STATEN ISLAND, New York – October 7, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1007019/000149315226046091/0001493152-26-046091-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1007019/000149315226046091/ex99-1.htm",
+   "filed_at": "2026-10-07T09:05:30-04:00",
+   "filed_kst": "2026-10-07 22:05",
+   "price": 3.99,
+   "change": -0.25,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 3.99,
+     "change": -0.25
+    },
+    {
+     "date": "2026-10-05",
+     "close": 4.0,
+     "change": 0.5
+    },
+    {
+     "date": "2026-10-02",
+     "close": 3.98,
+     "change": 1.02
+    }
+   ],
+   "market_cap": 22777310.0,
+   "shares_outstanding": 5708599.0,
+   "industry": "Miscellaneous Food Preparations & Kindred Products",
+   "state_of_incorporation": "NV",
+   "hq": "STATEN ISLAND, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-07T22:05:55+09:00"
+  },
   {
    "id": "0001477932-26-006075",
    "company": "BioNexus Gene Lab Corp",
@@ -15570,59 +15624,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-30T20:35:16+09:00"
-  },
-  {
-   "id": "0001213900-26-104880",
-   "company": "Aperture AC",
-   "ticker": "APUR",
-   "cik": 2093524,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.2 3 ea030716601ex99-2.htm INVESTOR PRESENTATION, DATED SEPTEMBER 30, 2026 Exhibit 99.2 Tennessee Site Acquisition 29 MW · Dyersburg, TN Atlantic High Performance Computing Investor Update | September 2026 © 2026 Atlantic HPC Group Inc. All rights reserved. Disclaimer Basis of Presentation This",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2093524/000121390026104880/0001213900-26-104880-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2093524/000121390026104880/ea030716601ex99-2.htm",
-   "filed_at": "2026-09-30T07:32:15-04:00",
-   "filed_kst": "2026-09-30 20:32",
-   "price": 10.03,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 10.03,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.03,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-25",
-     "close": 10.03,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "ALHAMBRA, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T20:33:12+09:00"
   }
  ]
 }
