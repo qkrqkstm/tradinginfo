@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-08T05:04:41+09:00",
+ "updated_at": "2026-10-08T05:09:04+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001001614-26-000053",
+   "company": "Riley Exploration Permian, Inc.",
+   "ticker": "REPX",
+   "cik": 1001614,
+   "form": "8-K",
+   "items": [
+    "1.02",
+    "2.03",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "On October 5, 2026, the Company borrowed $130 million under the Credit Agreement, dated as of September 28, 2017, among REP LLC, as borrower, Truist Bank, as administrative agent, and the lenders party thereto (as amended, the “Credit Agreement”), to fund the prepayment of the Senior Notes.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1001614/000100161426000053/0001001614-26-000053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1001614/000100161426000053/repx-20261005.htm",
+   "filed_at": "2026-10-07T16:05:41-04:00",
+   "filed_kst": "2026-10-08 05:05",
+   "price": 43.21,
+   "change": 0.79,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 43.21,
+     "change": 0.79
+    },
+    {
+     "date": "2026-10-06",
+     "close": 42.87,
+     "change": -0.14
+    },
+    {
+     "date": "2026-10-05",
+     "close": 42.93,
+     "change": 1.75
+    }
+   ],
+   "market_cap": 881485383.0,
+   "shares_outstanding": 20400032.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "OKLAHOMA CITY, OK",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-08T05:06:48+09:00"
+  },
   {
    "id": "0000015847-26-000051",
    "company": "BUTLER NATIONAL CORP",
@@ -15563,59 +15617,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-30T21:09:44+09:00"
-  },
-  {
-   "id": "0001213900-26-104903",
-   "company": "Iron Horse Acquisition II Corp.",
-   "ticker": "IRHO",
-   "cik": 2051985,
-   "form": "425",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "1 Top News from ELECTRA AI The Starting Gun, Not the Finish Line Five months after signing our Business Combination Agreement with Iron Horse (Nasdaq: IRHO): → New customers: Mooving, Omega Seiki Mobility, Propel Industries → New frontiers: grid storage (MinTech), post-quantum security (Naoris Quant",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026104903/0001213900-26-104903-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026104903/ea030700901ex99-1.htm",
-   "filed_at": "2026-09-30T08:08:04-04:00",
-   "filed_kst": "2026-09-30 21:08",
-   "price": 10.06,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 10.06,
-     "change": -0.1
-    },
-    {
-     "date": "2026-09-29",
-     "close": 10.07,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.07,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 294959200.0,
-   "shares_outstanding": 29320000.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "BOCA RATON, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T21:08:40+09:00"
   }
  ]
 }
