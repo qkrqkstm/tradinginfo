@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-07T23:49:33+09:00",
+ "updated_at": "2026-10-07T23:54:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001174947-26-000912",
+   "company": "ENI SPA",
+   "ticker": "E",
+   "cik": 1002242,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "18 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000912/0001174947-26-000912-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000912/0001174947-26-000912-index-headers.html",
+   "filed_at": "2026-10-07T10:51:31-04:00",
+   "filed_kst": "2026-10-07 23:51",
+   "price": 54.02,
+   "change": -0.97,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 54.02,
+     "change": -0.97
+    },
+    {
+     "date": "2026-10-06",
+     "close": 54.55,
+     "change": -0.16
+    },
+    {
+     "date": "2026-10-05",
+     "close": 54.64,
+     "change": -0.16
+    }
+   ],
+   "market_cap": 169988251458.0,
+   "shares_outstanding": 3146765114.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Italy",
+   "hq": "ROME ITALY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-07T23:52:04+09:00"
+  },
   {
    "id": "0001171843-26-006488",
    "company": "GOLAR LNG LTD",
@@ -15567,59 +15617,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-30T21:06:34+09:00"
-  },
-  {
-   "id": "0001213900-26-104901",
-   "company": "Iron Horse Acquisition II Corp.",
-   "ticker": "IRHO",
-   "cik": 2051985,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "1 Top News from ELECTRA AI The Starting Gun, Not the Finish Line Five months after signing our Business Combination Agreement with Iron Horse (Nasdaq: IRHO): → New customers: Mooving, Omega Seiki Mobility, Propel Industries → New frontiers: grid storage (MinTech), post-quantum security (Naoris Quant",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026104901/0001213900-26-104901-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026104901/ea030700901ex99-1.htm",
-   "filed_at": "2026-09-30T08:03:42-04:00",
-   "filed_kst": "2026-09-30 21:03",
-   "price": 10.06,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 10.06,
-     "change": -0.1
-    },
-    {
-     "date": "2026-09-29",
-     "close": 10.07,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.07,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 294959200.0,
-   "shares_outstanding": 29320000.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "BOCA RATON, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T21:04:26+09:00"
   }
  ]
 }
