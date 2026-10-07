@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-08T05:14:19+09:00",
+ "updated_at": "2026-10-08T05:19:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001874178-26-000061",
+   "company": "Rivian Automotive, Inc. / DE",
+   "ticker": "RIVN",
+   "cik": 1874178,
+   "form": "8-K",
+   "items": [
+    "2.03"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "0 billion, 10-year term loan facility from Volkswagen Group that was entered into in connection with the parties’ existing joint venture agreement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1874178/000187417826000061/0001874178-26-000061-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1874178/000187417826000061/rivn-20261007.htm",
+   "filed_at": "2026-10-07T16:17:34-04:00",
+   "filed_kst": "2026-10-08 05:17",
+   "price": 14.34,
+   "change": -1.17,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 14.34,
+     "change": -1.17
+    },
+    {
+     "date": "2026-10-06",
+     "close": 14.51,
+     "change": -0.62
+    },
+    {
+     "date": "2026-10-05",
+     "close": 14.6,
+     "change": 2.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": "DE",
+   "hq": "IRVINE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-08T05:18:15+09:00"
+  },
   {
    "id": "0001104659-26-114359",
    "company": "SKYWORKS SOLUTIONS, INC.",
@@ -15568,56 +15620,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-30T21:31:43+09:00"
-  },
-  {
-   "id": "0001468522-26-000066",
-   "company": "Ferrovial N.V.",
-   "ticker": "FER",
-   "cik": 1468522,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "(the “Company”) is submitting this current report on Form 6-K to report the transactions carried out by the Company from August 31, 2026 to September 25, 2026 under the share repurchase program started on December 15, 2025.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1468522/000146852226000066/0001468522-26-000066-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468522/000146852226000066/a6krepurchaseprogramseptem.htm",
-   "filed_at": "2026-09-30T08:29:53-04:00",
-   "filed_kst": "2026-09-30 21:29",
-   "price": 54.57,
-   "change": -2.15,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 54.57,
-     "change": -2.15
-    },
-    {
-     "date": "2026-09-28",
-     "close": 55.77,
-     "change": -0.11
-    },
-    {
-     "date": "2026-09-25",
-     "close": 55.83,
-     "change": 0.81
-    }
-   ],
-   "market_cap": 39324570697.0,
-   "shares_outstanding": 720626181.0,
-   "industry": "Heavy Construction Other Than Bldg Const - Contractors",
-   "state_of_incorporation": "Netherlands",
-   "hq": "AMSTERDAM",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-09-30T21:30:37+09:00"
   }
  ]
 }
