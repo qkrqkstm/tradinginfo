@@ -1,7 +1,160 @@
 {
- "updated_at": "2026-10-07T19:44:35+09:00",
+ "updated_at": "2026-10-07T19:49:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-416164",
+   "company": "Third Coast Bancshares, Inc.",
+   "ticker": "TCBX",
+   "cik": 1781730,
+   "form": "425",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", an Oklahoma corporation (“Great Plains”), issued a joint press release on October 7, 2026 announcing the execution of the Merger Agreement (as defined below).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781730/000119312526416164/0001193125-26-416164-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1781730/000119312526416164/d146780d425.htm",
+   "filed_at": "2026-10-07T06:47:16-04:00",
+   "filed_kst": "2026-10-07 19:47",
+   "price": 43.02,
+   "change": 0.3,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 43.02,
+     "change": 0.3
+    },
+    {
+     "date": "2026-10-05",
+     "close": 42.89,
+     "change": -1.08
+    },
+    {
+     "date": "2026-10-02",
+     "close": 43.36,
+     "change": 1.14
+    }
+   ],
+   "market_cap": 716496809.0,
+   "shares_outstanding": 16654970.0,
+   "industry": "Savings Institutions, Not Federally Chartered",
+   "state_of_incorporation": "TX",
+   "hq": "HUMBLE, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-07T19:48:07+09:00"
+  },
+  {
+   "id": "0001193125-26-416163",
+   "company": "Third Coast Bancshares, Inc.",
+   "ticker": "TCBX",
+   "cik": 1781730,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "Announce Definitive Merger Agreement Once Completed, Combined Total Assets to Exceed $9 Billion HOUSTON, TX and OKLAHOMA CITY, OK – October 7, 2026 – Third Coast Bancshares, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781730/000119312526416163/0001193125-26-416163-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1781730/000119312526416163/d146780dex992.htm",
+   "filed_at": "2026-10-07T06:45:09-04:00",
+   "filed_kst": "2026-10-07 19:45",
+   "price": 43.02,
+   "change": 0.3,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 43.02,
+     "change": 0.3
+    },
+    {
+     "date": "2026-10-05",
+     "close": 42.89,
+     "change": -1.08
+    },
+    {
+     "date": "2026-10-02",
+     "close": 43.36,
+     "change": 1.14
+    }
+   ],
+   "market_cap": 716496809.0,
+   "shares_outstanding": 16654970.0,
+   "industry": "Savings Institutions, Not Federally Chartered",
+   "state_of_incorporation": "TX",
+   "hq": "HUMBLE, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-07T19:46:03+09:00"
+  },
+  {
+   "id": "0001279569-26-000957",
+   "company": "Ballard Power Systems Inc.",
+   "ticker": "BLDP",
+   "cik": 1453015,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "This order deepens the long-standing collaboration between Ballard and Siemens Mobility, building on a multi-year supply commitment established in 2022.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1453015/000127956926000957/0001279569-26-000957-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1453015/000127956926000957/ex991.htm",
+   "filed_at": "2026-10-07T06:44:34-04:00",
+   "filed_kst": "2026-10-07 19:44",
+   "price": 2.06,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 2.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-05",
+     "close": 2.06,
+     "change": 0.49
+    },
+    {
+     "date": "2026-10-02",
+     "close": 2.05,
+     "change": 1.49
+    }
+   ],
+   "market_cap": 619616721.0,
+   "shares_outstanding": 300784816.0,
+   "industry": "Electrical Industrial Apparatus",
+   "state_of_incorporation": null,
+   "hq": "BURNABY",
+   "entity_category": null,
+   "detected_at": "2026-10-07T19:45:31+09:00"
+  },
   {
    "id": "0001493152-26-046060",
    "company": "Lipocine Inc.",
@@ -15466,170 +15619,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-30T19:02:53+09:00"
-  },
-  {
-   "id": "0001213900-26-104765",
-   "company": "Silicon Valley Acquisition Corp.",
-   "ticker": "SVAQ",
-   "cik": 2085659,
-   "form": "425",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "Under the terms of the Business Combination Agreement, as amended, SVAQ is expected to domesticate to become a Delaware corporation and, following completion of the Business Combination, be renamed as EigenQ Holdings, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026104765/0001213900-26-104765-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026104765/ea030696301ex99-1.htm",
-   "filed_at": "2026-09-29T17:28:05-04:00",
-   "filed_kst": "2026-09-30 06:28",
-   "price": 10.12,
-   "change": 0.1,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 10.12,
-     "change": 0.1
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.11,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-25",
-     "close": 10.11,
-     "change": 0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T06:28:35+09:00"
-  },
-  {
-   "id": "0001213900-26-104762",
-   "company": "Silicon Valley Acquisition Corp.",
-   "ticker": "SVAQ",
-   "cik": 2085659,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "Under the terms of the Business Combination Agreement, as amended, SVAQ is expected to domesticate to become a Delaware corporation and, following completion of the Business Combination, be renamed as EigenQ Holdings, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026104762/0001213900-26-104762-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026104762/ea030696301ex99-1.htm",
-   "filed_at": "2026-09-29T17:26:24-04:00",
-   "filed_kst": "2026-09-30 06:26",
-   "price": 10.12,
-   "change": 0.1,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 10.12,
-     "change": 0.1
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.11,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-25",
-     "close": 10.11,
-     "change": 0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T06:27:00+09:00"
-  },
-  {
-   "id": "0001193125-26-407834",
-   "company": "MARKETAXESS HOLDINGS INC",
-   "ticker": "MKTX",
-   "cik": 1278021,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Completion of the Merger remains subject to expiration or termination of the HSR Act waiting period, MarketAxess stockholder approval and the satisfaction or waiver of the other closing conditions specified in the merger agreement, and is currently expected to occur in the first half of 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1278021/000119312526407834/0001193125-26-407834-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1278021/000119312526407834/d142535d8k.htm",
-   "filed_at": "2026-09-29T17:24:53-04:00",
-   "filed_kst": "2026-09-30 06:24",
-   "price": 163.96,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 163.96,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 163.96,
-     "change": 0.01
-    },
-    {
-     "date": "2026-09-28",
-     "close": 163.94,
-     "change": -0.15
-    }
-   ],
-   "market_cap": 5770226408.0,
-   "shares_outstanding": 35192891.0,
-   "industry": "Security Brokers, Dealers & Flotation Companies",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-30T06:25:24+09:00"
   }
  ]
 }
