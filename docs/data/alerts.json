@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-07T20:04:59+09:00",
+ "updated_at": "2026-10-07T20:09:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-114193",
+   "company": "BKV Corp",
+   "ticker": "BKV",
+   "cik": 1838406,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Under the Supply Contract, the Supplier will supply and deliver the Equipment between September 2028 and May 2029 for an aggregate purchase price of approximately $800.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1838406/000110465926114193/0001104659-26-114193-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1838406/000110465926114193/tm2626974d1_ex99-1.htm",
+   "filed_at": "2026-10-07T07:05:28-04:00",
+   "filed_kst": "2026-10-07 20:05",
+   "price": 22.05,
+   "change": 1.19,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 22.05,
+     "change": 1.19
+    },
+    {
+     "date": "2026-10-05",
+     "close": 21.79,
+     "change": 1.02
+    },
+    {
+     "date": "2026-10-02",
+     "close": 21.57,
+     "change": 0.14
+    }
+   ],
+   "market_cap": 2413104152.0,
+   "shares_outstanding": 109437830.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-07T20:05:54+09:00"
+  },
   {
    "id": "0001178913-26-004730",
    "company": "GILAT SATELLITE NETWORKS LTD",
@@ -15566,56 +15620,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-09-30T19:03:58+09:00"
-  },
-  {
-   "id": "0001628280-26-063875",
-   "company": "Telix Pharmaceuticals Ltd",
-   "ticker": "TLX",
-   "cik": 2007191,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "htm 6-K Telix - 6K BiPASS Gains FDA Fast Track Designation UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2007191/000162828026063875/0001628280-26-063875-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2007191/000162828026063875/telix-6kbipassgainsfdafast.htm",
-   "filed_at": "2026-09-29T20:19:23-04:00",
-   "filed_kst": "2026-09-30 09:19",
-   "price": 11.34,
-   "change": -2.41,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 11.34,
-     "change": -2.41
-    },
-    {
-     "date": "2026-09-28",
-     "close": 11.62,
-     "change": 1.48
-    },
-    {
-     "date": "2026-09-25",
-     "close": 11.45,
-     "change": 1.24
-    }
-   ],
-   "market_cap": 3841731736.0,
-   "shares_outstanding": 338777049.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Australia",
-   "hq": "NORTH MELBOURNE, C3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-30T19:03:26+09:00"
   }
  ]
 }
