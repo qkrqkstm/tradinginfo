@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-07T22:44:36+09:00",
+ "updated_at": "2026-10-07T22:49:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006488",
+   "company": "GOLAR LNG LTD",
+   "ticker": "GLNG",
+   "cik": 1207179,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "1 Golar LNG acquires conversion vessel for 4th FLNG Golar LNG Limited (NASDAQ: GLNG) (“Golar” or “the Company”) announces today that it has agreed to acquire the LNG carrier Grace Dahlia from NYK Line.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1207179/000117184326006488/0001171843-26-006488-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1207179/000117184326006488/f6k_100726.htm",
+   "filed_at": "2026-10-07T09:48:16-04:00",
+   "filed_kst": "2026-10-07 22:48",
+   "price": 49.88,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 49.88,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-07",
+     "close": 49.88,
+     "change": -0.3
+    },
+    {
+     "date": "2026-10-06",
+     "close": 50.03,
+     "change": 0.58
+    }
+   ],
+   "market_cap": 5053813667.0,
+   "shares_outstanding": 101319440.0,
+   "industry": "Water Transportation",
+   "state_of_incorporation": "Bermuda",
+   "hq": "HAMILTON, D0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-07T22:49:11+09:00"
+  },
   {
    "id": "0001213900-26-107442",
    "company": "Cadrenal Therapeutics, Inc.",
@@ -15570,58 +15620,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-30T21:04:26+09:00"
-  },
-  {
-   "id": "0001493152-26-045028",
-   "company": "Ten-League International Holdings Ltd",
-   "ticker": "TLIH",
-   "cik": 1982012,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "At the same time, we remain committed to fostering strategic collaborations and strengthening our network of business partners.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1982012/000149315226045028/0001493152-26-045028-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1982012/000149315226045028/ex99-1.htm",
-   "filed_at": "2026-09-30T08:00:24-04:00",
-   "filed_kst": "2026-09-30 21:00",
-   "price": 5.7,
-   "change": -1.38,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 5.7,
-     "change": -1.38
-    },
-    {
-     "date": "2026-09-28",
-     "close": 5.78,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-25",
-     "close": 5.78,
-     "change": 0.35
-    }
-   ],
-   "market_cap": 167604749.0,
-   "shares_outstanding": 29404342.0,
-   "industry": "Wholesale-Machinery, Equipment & Supplies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE, U0",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T21:01:21+09:00"
   }
  ]
 }
