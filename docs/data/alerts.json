@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-07T19:09:32+09:00",
+ "updated_at": "2026-10-07T19:14:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-046060",
+   "company": "Lipocine Inc.",
+   "ticker": "LPCN",
+   "cik": 1535955,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "” Lipocine and Verity Pharma entered into an exclusive license agreement in January 2024 under which Verity Pharma gained commercial rights to TLANDO in the United States and Canada.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1535955/000149315226046060/0001493152-26-046060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1535955/000149315226046060/ex99-1.htm",
+   "filed_at": "2026-10-07T06:10:01-04:00",
+   "filed_kst": "2026-10-07 19:10",
+   "price": 2.1,
+   "change": 1.45,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 2.1,
+     "change": 1.45
+    },
+    {
+     "date": "2026-10-05",
+     "close": 2.07,
+     "change": 0.98
+    },
+    {
+     "date": "2026-10-02",
+     "close": 2.05,
+     "change": -0.97
+    }
+   ],
+   "market_cap": 17312931.0,
+   "shares_outstanding": 8244253.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SALT LAKE CITY, X1",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-07T19:10:30+09:00"
+  },
   {
    "id": "0001829126-26-010829",
    "company": "CSLM Digital Asset Acquisition Corp III, Ltd",
@@ -15576,61 +15630,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-09-30T06:25:24+09:00"
-  },
-  {
-   "id": "0001193125-26-407823",
-   "company": "Tectonic Therapeutic, Inc.",
-   "ticker": "TECX",
-   "cik": 1681087,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "FDA has granted Fast Track designation for TX2100 in HHT and cleared the Investigational New Drug (IND) application for the TX2100 Phase 1b clinical trial in HHT patients in the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1681087/000119312526407823/0001193125-26-407823-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681087/000119312526407823/d20857dex991.htm",
-   "filed_at": "2026-09-29T17:19:22-04:00",
-   "filed_kst": "2026-09-30 06:19",
-   "price": 23.34,
-   "change": -0.72,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 23.34,
-     "change": -0.72
-    },
-    {
-     "date": "2026-09-28",
-     "close": 23.51,
-     "change": -0.68
-    },
-    {
-     "date": "2026-09-25",
-     "close": 23.67,
-     "change": -1.87
-    }
-   ],
-   "market_cap": 456282202.0,
-   "shares_outstanding": 19549366.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "NY",
-   "hq": "WATERTOWN, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-30T06:20:28+09:00"
   }
  ]
 }
