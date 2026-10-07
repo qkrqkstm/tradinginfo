@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-10-07T20:59:27+09:00",
+ "updated_at": "2026-10-07T21:04:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-107400",
+   "company": "LogicMark, Inc.",
+   "ticker": "LGMK",
+   "cik": 1566826,
+   "form": "8-K",
+   "items": [
+    "5.07"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "Proposal 1 - The approval to adopt an Agreement and Plan of Merger, dated as of July 31, 2026, by and among the Company, Langham Project, LLC, and Langham Merger Sub, Inc.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1566826/000121390026107400/0001213900-26-107400-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1566826/000121390026107400/ea0307902-8k_logicmark.htm",
+   "filed_at": "2026-10-07T08:00:37-04:00",
+   "filed_kst": "2026-10-07 21:00",
+   "price": 1.0,
+   "change": -4.76,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 1.0,
+     "change": -4.76
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1.05,
+     "change": -7.08
+    },
+    {
+     "date": "2026-10-02",
+     "close": 1.13,
+     "change": 2.73
+    }
+   ],
+   "market_cap": 899759.0,
+   "shares_outstanding": 899759.0,
+   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+   "state_of_incorporation": "NV",
+   "hq": "LOUISVILLE, KY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-07T21:01:23+09:00"
+  },
+  {
+   "id": "0001437749-26-032265",
+   "company": "Safe Pro Group Inc.",
+   "ticker": "SPAI",
+   "cik": 2011208,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "Army and recent government contract awards for its AI software powering edge-based compute solutions, representing more than $5 million in aggregate awarded contract value year-to-date .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011208/000143774926032265/0001437749-26-032265-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2011208/000143774926032265/spai20261007_8k.htm",
+   "filed_at": "2026-10-07T08:00:13-04:00",
+   "filed_kst": "2026-10-07 21:00",
+   "price": 4.1,
+   "change": -6.39,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 4.1,
+     "change": -6.39
+    },
+    {
+     "date": "2026-10-05",
+     "close": 4.38,
+     "change": -0.9
+    },
+    {
+     "date": "2026-10-02",
+     "close": 4.42,
+     "change": -2.43
+    }
+   ],
+   "market_cap": 83487734.0,
+   "shares_outstanding": 20362862.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "AVENTURA, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-07T21:00:51+09:00"
+  },
   {
    "id": "0001213900-26-107393",
    "company": "Aperture AC",
@@ -15520,107 +15626,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-09-30T20:00:44+09:00"
-  },
-  {
-   "id": "0001214659-26-012236",
-   "company": "Hyperscale Data, Inc.",
-   "ticker": "GPUS",
-   "cik": 896493,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-10.1 2 ex10_1.htm EXHIBIT 10.1 Exhibit 10.1 EIGHTH AMENDMENT AND GUARANTOR JOINDER TO LOAN AND GUARANTY AGREEMENT This EIGHTH AMENDMENT TO LOAN AND GUARANTY AGREEMENT (“ Amendment ”) is dated as of September 29, 2026 (the “ Execution Date ”), and is entered into by and among AULT & COMPANY, INC. ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926012236/0001214659-26-012236-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926012236/ex10_1.htm",
-   "filed_at": "2026-09-30T06:30:35-04:00",
-   "filed_kst": "2026-09-30 19:30",
-   "price": 0.16,
-   "change": -0.37,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 0.16,
-     "change": -0.37
-    },
-    {
-     "date": "2026-09-29",
-     "close": 0.16,
-     "change": -5.88
-    },
-    {
-     "date": "2026-09-28",
-     "close": 0.17,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 244799.0,
-   "shares_outstanding": 1529995.0,
-   "industry": "Oil & Gas Field Machinery & Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "LAS VEGAS, NV",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-30T19:31:06+09:00"
-  },
-  {
-   "id": "0001193125-26-408201",
-   "company": "REPLIGEN CORP",
-   "ticker": "RGEN",
-   "cik": 730272,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ": 001-36362 Date: September 30, 2026 As previously disclosed, on July 21, 2026, Repligen Corporation, a Delaware corporation (“Repligen”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Bravo Merger Sub I, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/730272/000119312526408201/0001193125-26-408201-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/730272/000119312526408201/d47823d425.htm",
-   "filed_at": "2026-09-30T06:01:33-04:00",
-   "filed_kst": "2026-09-30 19:01",
-   "price": 194.57,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 194.57,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 194.57,
-     "change": 0.25
-    },
-    {
-     "date": "2026-09-28",
-     "close": 194.09,
-     "change": 2.32
-    }
-   ],
-   "market_cap": 10980678778.0,
-   "shares_outstanding": 56435621.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "WALTHAM, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-30T19:05:29+09:00"
   }
  ]
 }
