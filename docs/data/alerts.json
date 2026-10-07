@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-10-08T06:19:17+09:00",
+ "updated_at": "2026-10-08T06:24:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000771992-26-000071",
+   "company": "PAN AMERICAN SILVER CORP",
+   "ticker": "PAAS",
+   "cik": 771992,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "We also own a 44% joint venture interest in the producing Juanicipio mine in Mexico, a 100% interest in the Escobal mine in Guatemala that is currently not operating, and we hold interests in exploration and development projects.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/771992/000077199226000071/0000771992-26-000071-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/771992/000077199226000071/form6k_jeannesresignation.htm",
+   "filed_at": "2026-10-07T17:22:49-04:00",
+   "filed_kst": "2026-10-08 06:22",
+   "price": 44.35,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 44.35,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-07",
+     "close": 44.35,
+     "change": -3.42
+    },
+    {
+     "date": "2026-10-06",
+     "close": 45.92,
+     "change": 1.32
+    }
+   ],
+   "market_cap": 18708916490.0,
+   "shares_outstanding": 421847046.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": null,
+   "hq": "VANCOUVER, A1",
+   "entity_category": null,
+   "detected_at": "2026-10-08T06:23:42+09:00"
+  },
   {
    "id": "0000771992-26-000069",
    "company": "PAN AMERICAN SILVER CORP",
@@ -15551,56 +15599,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-01T05:04:00+09:00"
-  },
-  {
-   "id": "0001104659-26-112264",
-   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
-   "ticker": "BBVA",
-   "cik": 842180,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 tm2626639d1_6k.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of September, 2026 Commission file number: 1-10110 BANCO BILBAO VIZCAY",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926112264/0001104659-26-112264-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926112264/tm2626639d1_6k.htm",
-   "filed_at": "2026-09-30T14:33:51-04:00",
-   "filed_kst": "2026-10-01 03:33",
-   "price": 27.95,
-   "change": -2.39,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 27.95,
-     "change": -2.39
-    },
-    {
-     "date": "2026-09-29",
-     "close": 28.64,
-     "change": -0.56
-    },
-    {
-     "date": "2026-09-28",
-     "close": 28.8,
-     "change": -0.24
-    }
-   ],
-   "market_cap": 159565675165.0,
-   "shares_outstanding": 5708968700.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": null,
-   "hq": "MADRID, U3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T03:34:43+09:00"
   }
  ]
 }
