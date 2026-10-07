@@ -1,7 +1,222 @@
 {
- "updated_at": "2026-10-07T21:59:31+09:00",
+ "updated_at": "2026-10-07T22:04:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001477932-26-006075",
+   "company": "BioNexus Gene Lab Corp",
+   "ticker": "BGLC",
+   "cik": 1737523,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "3.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 70,
+   "summary": "htm COGNIAI HEALTHCARE LICENCE AND STRATEGIC COLLABORATION AGREEMENT bglc_ex101.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1737523/000147793226006075/0001477932-26-006075-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1737523/000147793226006075/bglc_ex991.htm",
+   "filed_at": "2026-10-07T09:00:24-04:00",
+   "filed_kst": "2026-10-07 22:00",
+   "price": 1.24,
+   "change": -3.12,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 1.24,
+     "change": -3.12
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1.28,
+     "change": 0.79
+    },
+    {
+     "date": "2026-10-02",
+     "close": 1.27,
+     "change": 5.83
+    }
+   ],
+   "market_cap": 3637468.0,
+   "shares_outstanding": 2933442.0,
+   "industry": "Services-Medical Laboratories",
+   "state_of_incorporation": "WY",
+   "hq": "KUALA LUMPUR",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-07T22:01:28+09:00"
+  },
+  {
+   "id": "0001213900-26-107435",
+   "company": "Silicon Valley Acquisition Corp.",
+   "ticker": "SVAQ",
+   "cik": 2085659,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EigenQ has entered into a business combination agreement with Silicon Valley Acquisition Corp, information about which can be found in public filings available free of charge on the SEC’s website at edgar.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026107435/0001213900-26-107435-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026107435/ea0307924-425_eigenq.htm",
+   "filed_at": "2026-10-07T09:00:07-04:00",
+   "filed_kst": "2026-10-07 22:00",
+   "price": 10.15,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 10.15,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-05",
+     "close": 10.15,
+     "change": 0.2
+    },
+    {
+     "date": "2026-10-02",
+     "close": 10.13,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-07T22:00:55+09:00"
+  },
+  {
+   "id": "0001437749-26-032270",
+   "company": "BioCardia, Inc.",
+   "ticker": "BCDA",
+   "cik": 925741,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "FDA recently agreed that the ongoing CardiAMP HF II trial, the focus of the HFSA scientific presentation, may be sufficient to support FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926032270/0001437749-26-032270-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926032270/bcda20261007_8k.htm",
+   "filed_at": "2026-10-07T09:00:12-04:00",
+   "filed_kst": "2026-10-07 22:00",
+   "price": 1.06,
+   "change": -2.75,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 1.06,
+     "change": -2.75
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1.09,
+     "change": 4.81
+    },
+    {
+     "date": "2026-10-02",
+     "close": 1.04,
+     "change": 1.96
+    }
+   ],
+   "market_cap": 16047109.0,
+   "shares_outstanding": 15138782.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "SUNNYVALE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-07T22:00:50+09:00"
+  },
+  {
+   "id": "0001193125-26-416251",
+   "company": "Ultragenyx Pharmaceutical Inc.",
+   "ticker": "RARE",
+   "cik": 1515673,
+   "form": "8-K",
+   "items": [
+    "1.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "(the “Company”) entered into an asset purchase agreement (the “PRV Asset Purchase Agreement”), pursuant to which the Company agreed to sell a Rare Pediatric Disease Priority Review Voucher (“PRV”) to the buyer.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526416251/0001193125-26-416251-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526416251/rare-20261006.htm",
+   "filed_at": "2026-10-07T09:00:14-04:00",
+   "filed_kst": "2026-10-07 22:00",
+   "price": 14.46,
+   "change": -0.28,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 14.46,
+     "change": -0.28
+    },
+    {
+     "date": "2026-10-05",
+     "close": 14.5,
+     "change": -4.73
+    },
+    {
+     "date": "2026-10-02",
+     "close": 15.22,
+     "change": 3.19
+    }
+   ],
+   "market_cap": 1425595104.0,
+   "shares_outstanding": 98588873.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NOVATO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-07T22:00:48+09:00"
+  },
   {
    "id": "0001493152-26-046088",
    "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
@@ -15408,216 +15623,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-09-30T20:33:12+09:00"
-  },
-  {
-   "id": "0001193125-26-408295",
-   "company": "Winchester Bancorp, Inc./MD/",
-   "ticker": "WSBK",
-   "cik": 2047235,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "(the “Company”) has adopted a share repurchase program (the “Share Repurchase Program\"), which authorizes the repurchase up to 464,769 shares of the Company’s common stock, $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2047235/000119312526408295/0001193125-26-408295-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2047235/000119312526408295/wsbk-20260930.htm",
-   "filed_at": "2026-09-30T07:20:52-04:00",
-   "filed_kst": "2026-09-30 20:20",
-   "price": 12.97,
-   "change": 2.05,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 12.97,
-     "change": 2.05
-    },
-    {
-     "date": "2026-09-28",
-     "close": 12.71,
-     "change": -0.24
-    },
-    {
-     "date": "2026-09-25",
-     "close": 12.74,
-     "change": 0.31
-    }
-   ],
-   "market_cap": 120561027.0,
-   "shares_outstanding": 9295376.0,
-   "industry": "Savings Institutions, Not Federally Chartered",
-   "state_of_incorporation": "MD",
-   "hq": "WINCHESTER, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T20:21:30+09:00"
-  },
-  {
-   "id": "0001193125-26-408289",
-   "company": "Moderna, Inc.",
-   "ticker": "MRNA",
-   "cik": 1682852,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 72,
-   "summary": "FDA approval of Moderna’s seasonal flu vaccine and the European Commission marketing authorization of the Company’s seasonal flu plus COVID combination vaccine.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526408289/0001193125-26-408289-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1682852/000119312526408289/d18337dex991.htm",
-   "filed_at": "2026-09-30T07:15:20-04:00",
-   "filed_kst": "2026-09-30 20:15",
-   "price": 203.46,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 203.46,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 203.46,
-     "change": 3.13
-    },
-    {
-     "date": "2026-09-28",
-     "close": 197.28,
-     "change": -0.8
-    }
-   ],
-   "market_cap": 81228533976.0,
-   "shares_outstanding": 399235889.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-30T20:15:59+09:00"
-  },
-  {
-   "id": "0001178913-26-004654",
-   "company": "Evogene Ltd.",
-   "ticker": "EVGN",
-   "cik": 1574565,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Built on this powerful technological foundation, and through strategic partnerships alongside internal product development, Evogene is focused on creating breakthrough products for the pharmaceutical and agricultural industries, driven by the integration of scientific innovation with real-world indu",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004654/0001178913-26-004654-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004654/zk2636176.htm",
-   "filed_at": "2026-09-30T07:15:06-04:00",
-   "filed_kst": "2026-09-30 20:15",
-   "price": 0.41,
-   "change": 7.89,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 0.41,
-     "change": 7.89
-    },
-    {
-     "date": "2026-09-28",
-     "close": 0.38,
-     "change": -9.52
-    },
-    {
-     "date": "2026-09-25",
-     "close": 0.42,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 3574459.0,
-   "shares_outstanding": 8718193.0,
-   "industry": "Agricultural Chemicals",
-   "state_of_incorporation": "Israel",
-   "hq": "REHOVOT, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-09-30T20:15:27+09:00"
-  },
-  {
-   "id": "0001477932-26-005919",
-   "company": "Onar Holding Corp",
-   "ticker": "ONAR",
-   "cik": 1682265,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.1 4 onar_ex991.htm PRESS RELEASE onar_ex991.htm EXHIBIT 99.1 FOR IMMEDIATE RELEASE ONAR Completes Largest Acquisition in Company History: Advertise Purple Adds $17.1 Million of Revenue and $4.4 Million of Net Income, Bringing Combined Pro Forma Revenue to Approximately $23.5 Million The acquir",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1682265/000147793226005919/0001477932-26-005919-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1682265/000147793226005919/onar_ex991.htm",
-   "filed_at": "2026-09-30T07:05:33-04:00",
-   "filed_kst": "2026-09-30 20:05",
-   "price": 0.01,
-   "change": 31.87,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 0.01,
-     "change": 31.87
-    },
-    {
-     "date": "2026-09-29",
-     "close": 0.01,
-     "change": -24.17
-    },
-    {
-     "date": "2026-09-28",
-     "close": 0.01,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 2843606.0,
-   "shares_outstanding": 284360555.0,
-   "industry": "Services-Advertising",
-   "state_of_incorporation": "NV",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-09-30T20:06:27+09:00"
   }
  ]
 }
