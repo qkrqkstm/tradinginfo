@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-10-08T06:14:33+09:00",
+ "updated_at": "2026-10-08T06:19:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000771992-26-000069",
+   "company": "PAN AMERICAN SILVER CORP",
+   "ticker": "PAAS",
+   "cik": 771992,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "We also own a 44% joint venture interest in the producing Juanicipio mine in Mexico, a 100% interest in the Escobal mine in Guatemala that is currently not operating, and we hold interests in exploration and development projects.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/771992/000077199226000069/0000771992-26-000069-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/771992/000077199226000069/form6k_2026q3releasedate.htm",
+   "filed_at": "2026-10-07T17:18:10-04:00",
+   "filed_kst": "2026-10-08 06:18",
+   "price": 44.35,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 44.35,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-07",
+     "close": 44.35,
+     "change": -3.42
+    },
+    {
+     "date": "2026-10-06",
+     "close": 45.92,
+     "change": 1.32
+    }
+   ],
+   "market_cap": 18708916490.0,
+   "shares_outstanding": 421847046.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": null,
+   "hq": "VANCOUVER, A1",
+   "entity_category": null,
+   "detected_at": "2026-10-08T06:18:46+09:00"
+  },
   {
    "id": "0001829126-26-010863",
    "company": "CSLM Digital Asset Acquisition Corp III, Ltd",
@@ -15553,56 +15601,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-01T03:34:43+09:00"
-  },
-  {
-   "id": "0001174947-26-000909",
-   "company": "ENI SPA",
-   "ticker": "E",
-   "cik": 1002242,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "01 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000909/0001174947-26-000909-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000909/form6k-36385_eni.htm",
-   "filed_at": "2026-09-30T10:22:34-04:00",
-   "filed_kst": "2026-09-30 23:22",
-   "price": 54.63,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 54.63,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 54.63,
-     "change": -0.03
-    },
-    {
-     "date": "2026-09-29",
-     "close": 54.65,
-     "change": -1.74
-    }
-   ],
-   "market_cap": 171907778178.0,
-   "shares_outstanding": 3146765114.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "Italy",
-   "hq": "ROME ITALY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-30T23:23:00+09:00"
   }
  ]
 }
