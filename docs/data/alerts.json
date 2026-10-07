@@ -1,7 +1,164 @@
 {
- "updated_at": "2026-10-08T05:09:04+09:00",
+ "updated_at": "2026-10-08T05:14:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-114359",
+   "company": "SKYWORKS SOLUTIONS, INC.",
+   "ticker": "SWKS",
+   "cik": 4127,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-4.3 3 tm2626934d2_ex4-3.htm EXHIBIT 4.3 Exhibit 4.3 SKYWORKS SOLUTIONS, INC. (as Issuer) and U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION (as Trustee) Fifth Supplemental Indenture 3.375% Senior Notes due 2031 Dated as of October 7, 2026 TABLE OF CONTENTS Page Article I DEFINITIONS 2 Section 1.1 ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000110465926114359/0001104659-26-114359-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/4127/000110465926114359/tm2626934d2_ex4-3.htm",
+   "filed_at": "2026-10-07T16:12:41-04:00",
+   "filed_kst": "2026-10-08 05:12",
+   "price": 83.43,
+   "change": 0.77,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 83.43,
+     "change": 0.77
+    },
+    {
+     "date": "2026-10-06",
+     "close": 82.79,
+     "change": -1.33
+    },
+    {
+     "date": "2026-10-05",
+     "close": 83.91,
+     "change": -1.32
+    }
+   ],
+   "market_cap": 12553944202.0,
+   "shares_outstanding": 150472782.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "IRVINE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-08T05:13:45+09:00"
+  },
+  {
+   "id": "0000094845-26-000048",
+   "company": "LEVI STRAUSS & CO",
+   "ticker": "LEVI",
+   "cik": 94845,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "Reflecting confidence in our outlook, we are raising our full-year profit guidance and plan to initiate a $100 million accelerated share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/94845/000009484526000048/0000094845-26-000048-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/94845/000009484526000048/exhibit991-3q2026pressrele.htm",
+   "filed_at": "2026-10-07T16:12:53-04:00",
+   "filed_kst": "2026-10-08 05:12",
+   "price": 19.51,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 19.51,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-07",
+     "close": 19.51,
+     "change": -4.95
+    },
+    {
+     "date": "2026-10-06",
+     "close": 20.53,
+     "change": 1.28
+    }
+   ],
+   "market_cap": 733631467.0,
+   "shares_outstanding": 37602843.0,
+   "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-08T05:13:43+09:00"
+  },
+  {
+   "id": "0001666138-26-000037",
+   "company": "Atkore Inc.",
+   "ticker": "ATKR",
+   "cik": 1666138,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "(“Atkore”) held a special meeting of stockholders (the “Special Meeting”), in connection with the Agreement and Plan of Merger, dated as of August 2, 2026 (as it may be amended from time to time, the “Merger Agreement”), by and among Atkore, Prysmian S.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1666138/000166613826000037/0001666138-26-000037-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1666138/000166613826000037/atkr-20261007.htm",
+   "filed_at": "2026-10-07T16:10:37-04:00",
+   "filed_kst": "2026-10-08 05:10",
+   "price": 94.82,
+   "change": 0.11,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 94.82,
+     "change": 0.11
+    },
+    {
+     "date": "2026-10-06",
+     "close": 94.72,
+     "change": -0.06
+    },
+    {
+     "date": "2026-10-05",
+     "close": 94.78,
+     "change": 0.17
+    }
+   ],
+   "market_cap": 3202313191.0,
+   "shares_outstanding": 33772550.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "HARVEY, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-08T05:11:31+09:00"
+  },
   {
    "id": "0001001614-26-000053",
    "company": "Riley Exploration Permian, Inc.",
@@ -15461,162 +15618,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-09-30T21:30:37+09:00"
-  },
-  {
-   "id": "0000950103-26-014831",
-   "company": "Integer Holdings Corp",
-   "ticker": "ITGR",
-   "cik": 1114483,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously announced on August 3, 2026, Integer and KKR entered into a definitive merger agreement dated as of August 2, 2026 (the “Merger Agreement”) pursuant to which an affiliate of KKR will acquire all of the outstanding shares of Integer for $127 per share in cash (the “Transaction”).",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1114483/000095010326014831/0000950103-26-014831-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1114483/000095010326014831/dp254070_ex9901.htm",
-   "filed_at": "2026-09-30T08:21:58-04:00",
-   "filed_kst": "2026-09-30 21:21",
-   "price": 126.33,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 126.33,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 126.33,
-     "change": -0.04
-    },
-    {
-     "date": "2026-09-28",
-     "close": 126.38,
-     "change": 0.03
-    }
-   ],
-   "market_cap": 4294215424.0,
-   "shares_outstanding": 33992048.0,
-   "industry": "Electromedical & Electrotherapeutic Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "PLANO, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-30T21:22:31+09:00"
-  },
-  {
-   "id": "0001493152-26-045030",
-   "company": "RedCloud Holdings plc",
-   "ticker": "RCT",
-   "cik": 2027360,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "6-K 1 form6-k.htm 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of September 2026 Commission File Number: 001-42557 RedCloud Holdings plc ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2027360/000149315226045030/0001493152-26-045030-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2027360/000149315226045030/form6-k.htm",
-   "filed_at": "2026-09-30T08:15:27-04:00",
-   "filed_kst": "2026-09-30 21:15",
-   "price": 0.19,
-   "change": -0.27,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 0.19,
-     "change": -0.27
-    },
-    {
-     "date": "2026-09-29",
-     "close": 0.19,
-     "change": -0.53
-    },
-    {
-     "date": "2026-09-28",
-     "close": 0.19,
-     "change": -5.08
-    }
-   ],
-   "market_cap": 12992317.0,
-   "shares_outstanding": 68380615.0,
-   "industry": "Retail-Retail Stores, NEC",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-09-30T21:15:59+09:00"
-  },
-  {
-   "id": "0001193125-26-408361",
-   "company": "PITNEY BOWES INC /DE/",
-   "ticker": "PBI",
-   "cik": 78814,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 73,
-   "summary": "EX-99.1 3 d35056dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Pitney Bowes Announces Repricing of $585 Million Term Loan B, Reducing Interest Margin by 75 Basis Points Repricing to SOFR + 300 Basis Points Lowers Annual Interest Expense by Approximately $4 Million, With No Changes to Other Terms or March 2",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/78814/000119312526408361/0001193125-26-408361-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/78814/000119312526408361/d35056dex991.htm",
-   "filed_at": "2026-09-30T08:08:48-04:00",
-   "filed_kst": "2026-09-30 21:08",
-   "price": 16.29,
-   "change": -0.55,
-   "price_history": [
-    {
-     "date": "2026-09-29",
-     "close": 16.29,
-     "change": -0.55
-    },
-    {
-     "date": "2026-09-28",
-     "close": 16.38,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-25",
-     "close": 16.38,
-     "change": 0.12
-    }
-   ],
-   "market_cap": 2233199553.0,
-   "shares_outstanding": 137090212.0,
-   "industry": "Office Machines, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SHELTON, CT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-09-30T21:09:44+09:00"
   }
  ]
 }
