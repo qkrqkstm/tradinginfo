@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-08T21:09:32+09:00",
+ "updated_at": "2026-10-08T21:14:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-032354",
+   "company": "Byrna Technologies Inc.",
+   "ticker": "BYRN",
+   "cik": 1354866,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Fiscal Third Quarter 2026 and Recent Operational Highlights ● Completed the acquisition of HERO Defense Systems, LLC, a complementary less-lethal self-defense company, expanding Byrna’s product portfolio into additional price points and form factors.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1354866/000143774926032354/0001437749-26-032354-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1354866/000143774926032354/ex_1023772.htm",
+   "filed_at": "2026-10-08T08:10:10-04:00",
+   "filed_kst": "2026-10-08 21:10",
+   "price": 4.05,
+   "change": 9.76,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 4.05,
+     "change": 9.76
+    },
+    {
+     "date": "2026-10-06",
+     "close": 3.69,
+     "change": 1.65
+    },
+    {
+     "date": "2026-10-05",
+     "close": 3.63,
+     "change": 4.31
+    }
+   ],
+   "market_cap": 94789254.0,
+   "shares_outstanding": 23404754.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "ANDOVER, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-08T21:11:05+09:00"
+  },
   {
    "id": "0001493152-26-046261",
    "company": "NextTrip, Inc.",
@@ -15573,57 +15627,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-01T06:12:07+09:00"
-  },
-  {
-   "id": "0001493152-26-045141",
-   "company": "REED'S, INC.",
-   "ticker": "REED",
-   "cik": 1140215,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-10.1 2 ex10-1.htm EX-10.1 Exhibit 10.1 AMENDMENT NO. 2 TO SENIOR SECURED LOAN AND SECURITY AGREEMENT THIS AMENDMENT NO. 2 TO SENIOR SECURED LOAN AND SECURITY AGREEMENT dated as of September 30, 2026 (this “ Amendment ”) is made by and among Reed’s, Inc., a Delaware corporation (the “ Borrower ”),",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1140215/000149315226045141/0001493152-26-045141-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1140215/000149315226045141/ex10-1.htm",
-   "filed_at": "2026-09-30T17:09:25-04:00",
-   "filed_kst": "2026-10-01 06:09",
-   "price": 0.66,
-   "change": 0.05,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 0.66,
-     "change": 0.05
-    },
-    {
-     "date": "2026-09-30",
-     "close": 0.66,
-     "change": 4.4
-    },
-    {
-     "date": "2026-09-29",
-     "close": 0.63,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 7825677.0,
-   "shares_outstanding": 11857086.0,
-   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
-   "state_of_incorporation": "DE",
-   "hq": "NORWALK, CT",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-01T06:10:31+09:00"
   }
  ]
 }
