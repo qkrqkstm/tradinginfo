@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-08T20:14:19+09:00",
+ "updated_at": "2026-10-08T20:19:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-039020",
+   "company": "ANGIODYNAMICS INC",
+   "ticker": "ANGO",
+   "cik": 1275187,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "FDA IDE Approval for RELIEF BPH Study The Company received FDA approval of its IDE for the RELIEF study, a feasibility trial evaluating NanoKnife IRE for the treatment of benign prostatic hyperplasia.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1275187/000114036126039020/0001140361-26-039020-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1275187/000114036126039020/ef20083493_ex99-1.htm",
+   "filed_at": "2026-10-08T07:17:49-04:00",
+   "filed_kst": "2026-10-08 20:17",
+   "price": 14.19,
+   "change": -1.6,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 14.19,
+     "change": -1.6
+    },
+    {
+     "date": "2026-10-06",
+     "close": 14.42,
+     "change": -7.21
+    },
+    {
+     "date": "2026-10-05",
+     "close": 15.54,
+     "change": 2.85
+    }
+   ],
+   "market_cap": 596752646.0,
+   "shares_outstanding": 42054450.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "LATHAM, NY",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-08T20:18:42+09:00"
+  },
   {
    "id": "0001062993-26-005237",
    "company": "FIRST MAJESTIC SILVER CORP",
@@ -15563,58 +15617,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-01T06:03:27+09:00"
-  },
-  {
-   "id": "0001140361-26-038106",
-   "company": "Valaris Ltd",
-   "ticker": "VAL",
-   "cik": 314808,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Swiss corporation (“ Transocean ”), entered into a Business Combination Agreement (the “ Agreement ”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/314808/000114036126038106/0001140361-26-038106-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/314808/000114036126038106/ef20083020_8k.htm",
-   "filed_at": "2026-09-30T17:01:10-04:00",
-   "filed_kst": "2026-10-01 06:01",
-   "price": 78.52,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 78.52,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 78.52,
-     "change": 0.09
-    },
-    {
-     "date": "2026-09-29",
-     "close": 78.45,
-     "change": -1.47
-    }
-   ],
-   "market_cap": 5452099566.0,
-   "shares_outstanding": 69435807.0,
-   "industry": "Drilling Oil & Gas Wells",
-   "state_of_incorporation": null,
-   "hq": "HAMILTON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T06:01:53+09:00"
   }
  ]
 }
