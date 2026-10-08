@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-08T21:19:36+09:00",
+ "updated_at": "2026-10-08T21:24:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001802974-26-000046",
+   "company": "Mission Produce, Inc.",
+   "ticker": "AVO",
+   "cik": 1802974,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "(the “Company”) authorized a $100 million stock repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1802974/000180297426000046/0001802974-26-000046-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1802974/000180297426000046/missionproduce_investord.htm",
+   "filed_at": "2026-10-08T08:19:12-04:00",
+   "filed_kst": "2026-10-08 21:19",
+   "price": 12.51,
+   "change": -1.88,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 12.51,
+     "change": -1.88
+    },
+    {
+     "date": "2026-10-06",
+     "close": 12.75,
+     "change": 0.39
+    },
+    {
+     "date": "2026-10-05",
+     "close": 12.7,
+     "change": -0.86
+    }
+   ],
+   "market_cap": 1096856834.0,
+   "shares_outstanding": 87678404.0,
+   "industry": "Agricultural Services",
+   "state_of_incorporation": "DE",
+   "hq": "OXNARD, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-08T21:20:30+09:00"
+  },
   {
    "id": "0001437749-26-032354",
    "company": "Byrna Technologies Inc.",
@@ -15575,58 +15625,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-01T06:12:08+09:00"
-  },
-  {
-   "id": "0001104659-26-112402",
-   "company": "Transocean Ltd.",
-   "ticker": "RIG",
-   "cik": 1451505,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Swiss corporation (“ Transocean ”), and Valaris Limited , an exempted company limited by shares incorporated under the laws of Bermuda (“ Valaris ”), entered into a Business Combination Agreement (the “ Agreement ”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1451505/000110465926112402/0001104659-26-112402-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1451505/000110465926112402/tm2626691d1_8k.htm",
-   "filed_at": "2026-09-30T17:11:28-04:00",
-   "filed_kst": "2026-10-01 06:11",
-   "price": 5.24,
-   "change": 0.58,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 5.24,
-     "change": 0.58
-    },
-    {
-     "date": "2026-09-29",
-     "close": 5.21,
-     "change": -1.33
-    },
-    {
-     "date": "2026-09-28",
-     "close": 5.28,
-     "change": -1.86
-    }
-   ],
-   "market_cap": 5852451645.0,
-   "shares_outstanding": 1116880085.0,
-   "industry": "Drilling Oil & Gas Wells",
-   "state_of_incorporation": "Switzerland",
-   "hq": "STEINHAUSEN, V8",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T06:12:07+09:00"
   }
  ]
 }
