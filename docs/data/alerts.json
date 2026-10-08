@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-09T06:04:28+09:00",
+ "updated_at": "2026-10-09T06:09:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-418053",
+   "company": "Hess Midstream LP",
+   "ticker": "HESM",
+   "cik": 1789832,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "DJ Basin The DJ Basin assets to be acquired by Hess Midstream are located primarily in Weld County, Colorado, and include approximately 400 thousand barrels per day of oil gathering capacity, 300 million cubic foot per day of gas gathering capacity and 420 thousand barrels of storage capa",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1789832/000119312526418053/0001193125-26-418053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1789832/000119312526418053/d401552dex991.htm",
+   "filed_at": "2026-10-08T17:06:47-04:00",
+   "filed_kst": "2026-10-09 06:06",
+   "price": 34.0,
+   "change": 2.94,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 34.0,
+     "change": 2.94
+    },
+    {
+     "date": "2026-10-07",
+     "close": 33.03,
+     "change": -14.63
+    },
+    {
+     "date": "2026-10-06",
+     "close": 38.69,
+     "change": 0.73
+    }
+   ],
+   "market_cap": 4363929954.0,
+   "shares_outstanding": 128350881.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-09T06:07:36+09:00"
+  },
   {
    "id": "0001193125-26-418044",
    "company": "Navigator Holdings Ltd.",
@@ -15564,58 +15615,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-01T19:45:58+09:00"
-  },
-  {
-   "id": "0001104659-26-112564",
-   "company": "AgomAb Therapeutics NV",
-   "ticker": "AGMB",
-   "cik": 2020932,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "1 Agomab Reports Positive Topline Data from STENOVA Open-Label Extension Study of Ontunisertib in Fibrostenosing Crohn’s Disease -- Favorable safety and tolerability profile maintained through up to 60 weeks of treatment with ontunisertib in Fibrostenosing Crohn’s disease (FSCD) pati",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2020932/000110465926112564/0001104659-26-112564-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2020932/000110465926112564/tm2626748d1_ex99-1.htm",
-   "filed_at": "2026-10-01T06:42:31-04:00",
-   "filed_kst": "2026-10-01 19:42",
-   "price": 11.1,
-   "change": 5.41,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 11.1,
-     "change": 5.41
-    },
-    {
-     "date": "2026-09-29",
-     "close": 10.53,
-     "change": 3.13
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.21,
-     "change": -2.85
-    }
-   ],
-   "market_cap": 379255565.0,
-   "shares_outstanding": 34167168.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Belgium",
-   "hq": "ANTWERPEN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T19:43:02+09:00"
   }
  ]
 }
