@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-09T05:29:29+09:00",
+ "updated_at": "2026-10-09T05:34:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-417979",
+   "company": "GEO GROUP INC",
+   "ticker": "GEO",
+   "cik": 923796,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "GEO recently announced that its Board of Directors approved a $750 million increase to the Company’s share repurchase authorization program, which is effective through December 31, 2029, from $500 million to $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/923796/000119312526417979/0001193125-26-417979-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/923796/000119312526417979/d246793dex991.htm",
+   "filed_at": "2026-10-08T16:31:18-04:00",
+   "filed_kst": "2026-10-09 05:31",
+   "price": 30.96,
+   "change": 1.44,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 30.96,
+     "change": 1.44
+    },
+    {
+     "date": "2026-10-07",
+     "close": 30.52,
+     "change": 1.94
+    },
+    {
+     "date": "2026-10-06",
+     "close": 29.94,
+     "change": -7.42
+    }
+   ],
+   "market_cap": 4074942321.0,
+   "shares_outstanding": 131619584.0,
+   "industry": "General Bldg Contractors - Residential Bldgs",
+   "state_of_incorporation": "FL",
+   "hq": "BOCA RATON, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-09T05:31:52+09:00"
+  },
   {
    "id": "0001140361-26-039136",
    "company": "Elevra Lithium Ltd",
@@ -15563,58 +15614,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-01T19:07:45+09:00"
-  },
-  {
-   "id": "0001628280-26-064095",
-   "company": "Lyft, Inc.",
-   "ticker": "LYFT",
-   "cik": 1759509,
-   "form": "8-K",
-   "items": [
-    "7.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The Company can elect to make settlement payments over four years, with 5% simple interest accruing after the first year, subject to a maximum amount of $12.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1759509/000162828026064095/0001628280-26-064095-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1759509/000162828026064095/lyft-20260930.htm",
-   "filed_at": "2026-10-01T06:02:16-04:00",
-   "filed_kst": "2026-10-01 19:02",
-   "price": 15.01,
-   "change": -0.4,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 15.01,
-     "change": -0.4
-    },
-    {
-     "date": "2026-09-29",
-     "close": 15.07,
-     "change": 1.28
-    },
-    {
-     "date": "2026-09-28",
-     "close": 14.88,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 5681889137.0,
-   "shares_outstanding": 378540249.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T19:07:40+09:00"
   }
  ]
 }
