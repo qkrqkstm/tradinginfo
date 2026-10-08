@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-08T20:29:22+09:00",
+ "updated_at": "2026-10-08T20:34:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-417432",
+   "company": "Virginia National Bankshares Corp",
+   "ticker": "VABK",
+   "cik": 1572334,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "01 Other Events On October 6, 2026, Virginia National Bankshares Corporation (the \"Company\") announced a share repurchase plan.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1572334/000119312526417432/0001193125-26-417432-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1572334/000119312526417432/vabk-20261006.htm",
+   "filed_at": "2026-10-08T07:30:14-04:00",
+   "filed_kst": "2026-10-08 20:30",
+   "price": 48.31,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 48.31,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-07",
+     "close": 48.31,
+     "change": 0.33
+    },
+    {
+     "date": "2026-10-06",
+     "close": 48.15,
+     "change": 1.48
+    }
+   ],
+   "market_cap": 262095373.0,
+   "shares_outstanding": 5425282.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "CHARLOTTESVILLE, VA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-08T20:31:13+09:00"
+  },
   {
    "id": "0001140361-26-039020",
    "company": "ANGIODYNAMICS INC",
@@ -15565,58 +15618,6 @@
    "hq": "STOCKHOLM",
    "entity_category": null,
    "detected_at": "2026-10-01T06:03:29+09:00"
-  },
-  {
-   "id": "0001820144-26-000033",
-   "company": "Grindr Inc.",
-   "ticker": "GRND",
-   "cik": 1820144,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 79,
-   "summary": "2d ago Henry 787 ft 2d ago Henry 787 ft 2d ago Henry 787 ft 01 Henry 1Grindr has agreed to acquire PurposeMed Inc.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1820144/000182014426000033/0001820144-26-000033-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1820144/000182014426000033/exhibit21-securitiespurcha.htm",
-   "filed_at": "2026-09-30T17:02:31-04:00",
-   "filed_kst": "2026-10-01 06:02",
-   "price": 15.43,
-   "change": -4.28,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 15.43,
-     "change": -4.28
-    },
-    {
-     "date": "2026-09-29",
-     "close": 16.12,
-     "change": 3.27
-    },
-    {
-     "date": "2026-09-28",
-     "close": 15.61,
-     "change": -1.01
-    }
-   ],
-   "market_cap": 2682052275.0,
-   "shares_outstanding": 173820627.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "DE",
-   "hq": "WEST HOLLYWOOD, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T06:03:27+09:00"
   }
  ]
 }
