@@ -1,7 +1,141 @@
 {
- "updated_at": "2026-10-09T04:59:33+09:00",
+ "updated_at": "2026-10-09T05:04:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-417910",
+   "company": "Translational Development Acquisition Corp.",
+   "ticker": "TDAC",
+   "cik": 1926599,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "In May 2026, ProLogium entered into a definitive business combination agreement with Translational Development Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1926599/000119312526417910/0001193125-26-417910-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1926599/000119312526417910/d332017d425.htm",
+   "filed_at": "2026-10-08T16:03:28-04:00",
+   "filed_kst": "2026-10-09 05:03",
+   "price": 10.82,
+   "change": 0.19,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 10.82,
+     "change": 0.19
+    },
+    {
+     "date": "2026-10-07",
+     "close": 10.8,
+     "change": -0.18
+    },
+    {
+     "date": "2026-10-06",
+     "close": 10.82,
+     "change": -0.05
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-09T05:03:57+09:00"
+  },
+  {
+   "id": "0001193125-26-417910",
+   "company": "Prologium Holding Inc.",
+   "ticker": "PRLG",
+   "cik": 2137754,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "In May 2026, ProLogium entered into a definitive business combination agreement with Translational Development Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526417910/0001193125-26-417910-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526417910/d332017d425.htm",
+   "filed_at": "2026-10-08T16:03:28-04:00",
+   "filed_kst": "2026-10-09 05:03",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "TAOYUAN CITY",
+   "entity_category": null,
+   "detected_at": "2026-10-09T05:03:55+09:00"
+  },
+  {
+   "id": "0001213900-26-107955",
+   "company": "Bitdeer Technologies Group",
+   "ticker": "BTDR",
+   "cik": 1899123,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "US$100 MILLION SHARE REPURCHASE PROGRAM The Company’s board of directors has authorized a new share repurchase program to repurchase up to US$100 million worth of its Class A ordinary shares (“Shares”), effective from October 8, 2026 through October 7, 2028.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026107955/0001213900-26-107955-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026107955/ea0307821-6k_bitdeer.htm",
+   "filed_at": "2026-10-08T16:01:01-04:00",
+   "filed_kst": "2026-10-09 05:01",
+   "price": 9.72,
+   "change": -6.54,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 9.72,
+     "change": -6.54
+    },
+    {
+     "date": "2026-10-07",
+     "close": 10.4,
+     "change": -4.67
+    },
+    {
+     "date": "2026-10-06",
+     "close": 10.91,
+     "change": -0.18
+    }
+   ],
+   "market_cap": 2289566256.0,
+   "shares_outstanding": 235552084.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-09T05:01:49+09:00"
+  },
   {
    "id": "0001178913-26-004740",
    "company": "GILAT SATELLITE NETWORKS LTD",
@@ -15481,163 +15615,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-01T19:05:28+09:00"
-  },
-  {
-   "id": "0001171843-26-006315",
-   "company": "Brookfield Asset Management Ltd.",
-   "ticker": "BAM",
-   "cik": 1937926,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "– Korea Framework Advances Deployment of Westinghouse Nuclear Technology in the United States Framework commits up to $120 billion of Korean investment to support construction of new nuclear reactors in the United States Builds on strategic partnership between the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326006315/0001171843-26-006315-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326006315/f8k_093026.htm",
-   "filed_at": "2026-09-30T19:59:54-04:00",
-   "filed_kst": "2026-10-01 08:59",
-   "price": 44.58,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 44.58,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 44.58,
-     "change": -0.87
-    },
-    {
-     "date": "2026-09-29",
-     "close": 44.97,
-     "change": 1.06
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Investment Advice",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T19:05:25+09:00"
-  },
-  {
-   "id": "0001564708-26-000213",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000213/0001564708-26-000213-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000213/appendix3cclassa20260930.htm",
-   "filed_at": "2026-09-30T18:45:51-04:00",
-   "filed_kst": "2026-10-01 07:45",
-   "price": 31.72,
-   "change": 0.7,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 31.72,
-     "change": 0.7
-    },
-    {
-     "date": "2026-09-29",
-     "close": 31.5,
-     "change": -2.3
-    },
-    {
-     "date": "2026-09-28",
-     "close": 32.24,
-     "change": 1.54
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T19:04:40+09:00"
-  },
-  {
-   "id": "0001493152-26-045169",
-   "company": "Plutus Financial Group Ltd",
-   "ticker": "PLUT",
-   "cik": 1933021,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "1 FOURTH AMENDMENT TO AGREEMENT AND PLAN OF MERGER THIS FOURTH AMENDMENT (this “ Fourth Amendment ”) to the Agreement and Plan of Merger dated as of July 9, 2025 (the “ Original Merger Agreement ”), is made and entered into as of September 30, 2026 by and among Plutus Financial G",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1933021/000149315226045169/0001493152-26-045169-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1933021/000149315226045169/ex10-1.htm",
-   "filed_at": "2026-09-30T17:52:35-04:00",
-   "filed_kst": "2026-10-01 06:52",
-   "price": 2.33,
-   "change": -6.8,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 2.33,
-     "change": -6.8
-    },
-    {
-     "date": "2026-09-29",
-     "close": 2.5,
-     "change": 18.48
-    },
-    {
-     "date": "2026-09-28",
-     "close": 2.11,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 35765500.0,
-   "shares_outstanding": 15350000.0,
-   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG, F4",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T19:02:34+09:00"
   }
  ]
 }
