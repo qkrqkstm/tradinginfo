@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-08T19:04:53+09:00",
+ "updated_at": "2026-10-08T19:09:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006524",
+   "company": "Addex Therapeutics Ltd.",
+   "ticker": "ADXN",
+   "cik": 1574232,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "6-K 1 f6k_100826.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October 2026 Commission File Number: 001-39179 Addex Therapeuti",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1574232/000117184326006524/0001171843-26-006524-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574232/000117184326006524/f6k_100826.htm",
+   "filed_at": "2026-10-08T06:05:05-04:00",
+   "filed_kst": "2026-10-08 19:05",
+   "price": 3.13,
+   "change": -1.57,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 3.13,
+     "change": -1.57
+    },
+    {
+     "date": "2026-10-06",
+     "close": 3.18,
+     "change": 2.58
+    },
+    {
+     "date": "2026-10-05",
+     "close": 3.1,
+     "change": 0.98
+    }
+   ],
+   "market_cap": 462713578.0,
+   "shares_outstanding": 147831814.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Switzerland",
+   "hq": "GENEVA, V8",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-08T19:06:51+09:00"
+  },
   {
    "id": "0001104659-26-114491",
    "company": "ARGENX SE",
@@ -15558,54 +15608,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-01T05:23:04+09:00"
-  },
-  {
-   "id": "0000950103-26-014872",
-   "company": "newcleo plc",
-   "ticker": "NWCL",
-   "cik": 2131813,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through a vertically integrated supply chain and a growing network of strategic partnerships, new cleo is working to turn proven scientific and engineering solutions into deployable nuclear energy assets.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326014872/0000950103-26-014872-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326014872/dp254277_ex9901.htm",
-   "filed_at": "2026-09-30T16:18:39-04:00",
-   "filed_kst": "2026-10-01 05:18",
-   "price": 7.85,
-   "change": 9.33,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 7.85,
-     "change": 9.33
-    },
-    {
-     "date": "2026-09-29",
-     "close": 7.18,
-     "change": -5.53
-    },
-    {
-     "date": "2026-09-28",
-     "close": 7.6,
-     "change": 2.36
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Fabricated Plate Work (Boiler Shops)",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": null,
-   "detected_at": "2026-10-01T05:19:17+09:00"
   }
  ]
 }
