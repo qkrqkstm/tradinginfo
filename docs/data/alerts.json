@@ -1,7 +1,428 @@
 {
- "updated_at": "2026-10-08T18:59:22+09:00",
+ "updated_at": "2026-10-08T19:04:53+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-114491",
+   "company": "ARGENX SE",
+   "ticker": "ARGX",
+   "cik": 1697862,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "Food and Drug Administration has granted FB102 Fast Track Designation for celiac disease.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926114491/0001104659-26-114491-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926114491/tm2627263d1_ex99-1.htm",
+   "filed_at": "2026-10-08T06:01:56-04:00",
+   "filed_kst": "2026-10-08 19:01",
+   "price": 928.44,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 928.44,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-07",
+     "close": 928.44,
+     "change": -0.22
+    },
+    {
+     "date": "2026-10-06",
+     "close": 930.52,
+     "change": 1.93
+    }
+   ],
+   "market_cap": 57454936623.0,
+   "shares_outstanding": 61883306.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Netherlands",
+   "hq": "ZWIJNAARDE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-08T19:04:20+09:00"
+  },
+  {
+   "id": "0001193125-26-417257",
+   "company": "Distribution Solutions Group, Inc.",
+   "ticker": "DSGR",
+   "cik": 703604,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "00 per share in cash (the “Share Acquisition Consideration”) and the Escrow Issuer will merge with and into DSG, with DSG continuing as the surviving corporation, at which point DSG will assume all of the Escrow Issuer’s rights and obligations under the Notes and",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526417257/0001193125-26-417257-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526417257/d170097dex991.htm",
+   "filed_at": "2026-10-07T21:50:28-04:00",
+   "filed_kst": "2026-10-08 10:50",
+   "price": 35.07,
+   "change": 0.06,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 35.07,
+     "change": 0.06
+    },
+    {
+     "date": "2026-10-06",
+     "close": 35.05,
+     "change": 0.09
+    },
+    {
+     "date": "2026-10-05",
+     "close": 35.02,
+     "change": 0.11
+    }
+   ],
+   "market_cap": 1622177650.0,
+   "shares_outstanding": 46255422.0,
+   "industry": "Wholesale-Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-08T19:04:18+09:00"
+  },
+  {
+   "id": "0001213900-26-107704",
+   "company": "New ERA Energy & Digital, Inc.",
+   "ticker": "NUAI",
+   "cik": 2028336,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.03",
+    "3.02",
+    "8.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company has begun pursuing leases with hyperscale tenants for its Texas Critical Data Center project (the “TCDC Project”), rather than seeking to develop the TCDC Project through a joint venture with a data center developer.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026107704/0001213900-26-107704-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026107704/ea0308042-8k_newera.htm",
+   "filed_at": "2026-10-08T06:02:33-04:00",
+   "filed_kst": "2026-10-08 19:02",
+   "price": 5.53,
+   "change": -5.63,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 5.53,
+     "change": -5.63
+    },
+    {
+     "date": "2026-10-06",
+     "close": 5.86,
+     "change": -3.14
+    },
+    {
+     "date": "2026-10-05",
+     "close": 6.05,
+     "change": -3.82
+    }
+   ],
+   "market_cap": 589273145.0,
+   "shares_outstanding": 106559339.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "NV",
+   "hq": "MIDLAND, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-08T19:04:13+09:00"
+  },
+  {
+   "id": "0001628280-26-065374",
+   "company": "Oil-Dri Corp of America",
+   "ticker": "ODC",
+   "cik": 74046,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "In the event the Bank shall incur any loss, cost or expense (including, without limitation, any loss (including loss of profit), cost or expense incurred by reason of the liquidation or reemployment of deposits or other funds acquired or contracted to be acquired by the Bank to fund or maintain any ",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/74046/000162828026065374/0001628280-26-065374-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/74046/000162828026065374/fifthamendment.htm",
+   "filed_at": "2026-10-07T20:02:48-04:00",
+   "filed_kst": "2026-10-08 09:02",
+   "price": 87.81,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 87.81,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-07",
+     "close": 87.81,
+     "change": -0.36
+    },
+    {
+     "date": "2026-10-06",
+     "close": 88.13,
+     "change": 0.27
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Miscellaneous Manufacturing Industries",
+   "state_of_incorporation": "DE",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-08T19:03:40+09:00"
+  },
+  {
+   "id": "0001564708-26-000218",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000218/0001564708-26-000218-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000218/appendix3cclassa20261007.htm",
+   "filed_at": "2026-10-07T20:29:29-04:00",
+   "filed_kst": "2026-10-08 09:29",
+   "price": 31.52,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 31.52,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-06",
+     "close": 31.52,
+     "change": -1.5
+    },
+    {
+     "date": "2026-10-05",
+     "close": 32.0,
+     "change": 1.11
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-08T19:03:38+09:00"
+  },
+  {
+   "id": "0001829126-26-010874",
+   "company": "FortuneX Acquisition Corp",
+   "ticker": "FXAC",
+   "cik": 2121703,
+   "form": "425",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-10.1 2 fortunexacq_ex10-1.htm EXHIBIT 10.1 Exhibit 10.1 FORM OF AMENDED AND RESTATED REGISTRATION RIGHTS AGREEMENT THIS AMENDED AND RESTATED REGISTRATION RIGHTS AGREEMENT (this “Agreement”) is entered into as of [●], 2026, by and among: (i) FortuneX Acquisition Corporation, a Cayman Islands exemp",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010874/0001829126-26-010874-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010874/fortunexacq_ex10-1.htm",
+   "filed_at": "2026-10-07T18:47:03-04:00",
+   "filed_kst": "2026-10-08 07:47",
+   "price": 10.1,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 10.1,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-06",
+     "close": 10.09,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-05",
+     "close": 10.08,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 127582483.0,
+   "shares_outstanding": 12631929.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-08T19:03:02+09:00"
+  },
+  {
+   "id": "0001829126-26-010873",
+   "company": "FortuneX Acquisition Corp",
+   "ticker": "FXAC",
+   "cik": 2121703,
+   "form": "8-K/A",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-10.1 2 fortunexacq_ex10-1.htm EXHIBIT 10.1 Exhibit 10.1 FORM OF AMENDED AND RESTATED REGISTRATION RIGHTS AGREEMENT THIS AMENDED AND RESTATED REGISTRATION RIGHTS AGREEMENT (this “Agreement”) is entered into as of [●], 2026, by and among: (i) FortuneX Acquisition Corporation, a Cayman Islands exemp",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010873/0001829126-26-010873-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010873/fortunexacq_ex10-1.htm",
+   "filed_at": "2026-10-07T18:46:59-04:00",
+   "filed_kst": "2026-10-08 07:46",
+   "price": 10.1,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 10.1,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-06",
+     "close": 10.09,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-05",
+     "close": 10.08,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 127582483.0,
+   "shares_outstanding": 12631929.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-08T19:02:25+09:00"
+  },
+  {
+   "id": "0001193125-26-417167",
+   "company": "PRA GROUP INC",
+   "ticker": "PRAA",
+   "cik": 1185348,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "EX-4.1 2 d166539dex41.htm EX-4.1 EX-4.1 Exhibit 4.1 PRA GROUP, INC., as Issuer, the GUARANTORS named herein, as Guarantors, and Regions Bank, as Trustee INDENTURE Dated as of October 2, 2026 8.500% Senior Notes due 2033 TABLE OF CONTENTS Page ARTICLE I DEFINITIONS AND INCORPORATION BY REFERENCE 1 Se",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1185348/000119312526417167/0001193125-26-417167-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1185348/000119312526417167/d166539dex41.htm",
+   "filed_at": "2026-10-07T19:28:07-04:00",
+   "filed_kst": "2026-10-08 08:28",
+   "price": 20.28,
+   "change": 1.2,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 20.28,
+     "change": 1.2
+    },
+    {
+     "date": "2026-10-06",
+     "close": 20.04,
+     "change": 3.25
+    },
+    {
+     "date": "2026-10-05",
+     "close": 19.41,
+     "change": 2.86
+    }
+   ],
+   "market_cap": 763501562.0,
+   "shares_outstanding": 37648006.0,
+   "industry": "Short-Term Business Credit Institutions",
+   "state_of_incorporation": "DE",
+   "hq": "NORFOLK, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-08T19:02:23+09:00"
+  },
   {
    "id": "0000771992-26-000071",
    "company": "PAN AMERICAN SILVER CORP",
@@ -15185,420 +15606,6 @@
    "hq": "LONDON",
    "entity_category": null,
    "detected_at": "2026-10-01T05:19:17+09:00"
-  },
-  {
-   "id": "0001628280-26-063981",
-   "company": "BIOMARIN PHARMACEUTICAL INC",
-   "ticker": "BMRN",
-   "cik": 1048477,
-   "form": "8-K",
-   "items": [
-    "1.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(BioMarin) entered into a Settlement and License Agreement (the Agreement) with Ascendis Pharma A/S (Ascendis).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1048477/000162828026063981/0001628280-26-063981-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1048477/000162828026063981/bmrn-20260924.htm",
-   "filed_at": "2026-09-30T16:15:40-04:00",
-   "filed_kst": "2026-10-01 05:15",
-   "price": 60.0,
-   "change": 0.22,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 60.0,
-     "change": 0.22
-    },
-    {
-     "date": "2026-09-29",
-     "close": 59.87,
-     "change": 0.69
-    },
-    {
-     "date": "2026-09-28",
-     "close": 59.46,
-     "change": -1.33
-    }
-   ],
-   "market_cap": 11614425540.0,
-   "shares_outstanding": 193573759.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NOVATO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T05:16:40+09:00"
-  },
-  {
-   "id": "0001493152-26-045111",
-   "company": "Bunker Hill Mining Corp.",
-   "ticker": "BHLL",
-   "cik": 1407583,
-   "form": "8-K/A",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-2.1 2 ex2-1.htm EX-2.1 Exhibit 2.1 BUNKER HILL MINING CORP. AND SILVER47 EXPLORATION CORP. ARRANGEMENT AGREEMENT DATED August 20, 2026 Table of Contents Page Article 1 INTERPRETATION 2 1.1 Definitions 2 1.2 Interpretation Not Affected by Headings 20 1.3 Number and Gender 20 1.4 Date for Any Actio",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1407583/000149315226045111/0001493152-26-045111-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1407583/000149315226045111/ex2-1.htm",
-   "filed_at": "2026-09-30T16:15:15-04:00",
-   "filed_kst": "2026-10-01 05:15",
-   "price": 2.59,
-   "change": -8.48,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 2.59,
-     "change": -8.48
-    },
-    {
-     "date": "2026-09-29",
-     "close": 2.83,
-     "change": -0.35
-    },
-    {
-     "date": "2026-09-28",
-     "close": 2.84,
-     "change": -3.07
-    }
-   ],
-   "market_cap": 122267656.0,
-   "shares_outstanding": 47207589.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "NV",
-   "hq": "KELLOGG, ID",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-01T05:16:06+09:00"
-  },
-  {
-   "id": "0001376474-26-000623",
-   "company": "ZenaTech, Inc.",
-   "ticker": "ZENA",
-   "cik": 1997403,
-   "form": "6-K",
-   "items": [],
-   "primary": "지수편입",
-   "primary_key": "index",
-   "emoji": "📈",
-   "types": [
-    "지수편입"
-   ],
-   "confidence": 57,
-   "summary": "states currently ● Added to the Russell 3000® Index in June 2026, a milestone in the Company's growth and market recognition ● Advanced the Blue UAS certification progress for military and government procurement and contract eligibility, across the ZenaDrone 1000, IQ Square an",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1997403/000137647426000623/0001376474-26-000623-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1997403/000137647426000623/zt_ex99z1.htm",
-   "filed_at": "2026-09-30T16:14:30-04:00",
-   "filed_kst": "2026-10-01 05:14",
-   "price": 1.31,
-   "change": -10.88,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 1.31,
-     "change": -10.88
-    },
-    {
-     "date": "2026-09-29",
-     "close": 1.47,
-     "change": 6.52
-    },
-    {
-     "date": "2026-09-28",
-     "close": 1.38,
-     "change": -2.82
-    }
-   ],
-   "market_cap": 62907359.0,
-   "shares_outstanding": 48020885.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "VANCOUVER, A1",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T05:15:30+09:00"
-  },
-  {
-   "id": "0001528396-26-000057",
-   "company": "Guidewire Software, Inc.",
-   "ticker": "GWRE",
-   "cik": 1528396,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(the “Company”) entered into a new multi-year agreement with a top 10 US-based insurance carrier addressing their personal lines book of business on Guidewire Cloud and PolicyCenter.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1528396/000152839626000057/0001528396-26-000057-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1528396/000152839626000057/gwre-20260904.htm",
-   "filed_at": "2026-09-30T16:10:23-04:00",
-   "filed_kst": "2026-10-01 05:10",
-   "price": 142.6,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 142.6,
-     "change": -0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 142.6,
-     "change": 0.06
-    },
-    {
-     "date": "2026-09-29",
-     "close": 142.52,
-     "change": -1.83
-    }
-   ],
-   "market_cap": 11692154599.0,
-   "shares_outstanding": 81992669.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "SAN MATEO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T05:11:01+09:00"
-  },
-  {
-   "id": "0001294133-26-000037",
-   "company": "Inogen Inc",
-   "ticker": "INGN",
-   "cik": 1294133,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 67,
-   "summary": "Share Repurchase Authorization Increase Subject to the closing of the transaction, Inogen’s Board of Directors has approved an increase of $15 million to the Company’s existing share repurchase authorization, bringing the total authorization to $45 million a",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1294133/000129413326000037/0001294133-26-000037-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1294133/000129413326000037/ingn-ex99_1.htm",
-   "filed_at": "2026-09-30T16:10:25-04:00",
-   "filed_kst": "2026-10-01 05:10",
-   "price": 5.27,
-   "change": -1.86,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 5.27,
-     "change": -1.86
-    },
-    {
-     "date": "2026-09-29",
-     "close": 5.37,
-     "change": -1.29
-    },
-    {
-     "date": "2026-09-28",
-     "close": 5.44,
-     "change": 1.49
-    }
-   ],
-   "market_cap": 139857036.0,
-   "shares_outstanding": 26538337.0,
-   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "BEVERLY, MA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-01T05:11:00+09:00"
-  },
-  {
-   "id": "0001178913-26-004676",
-   "company": "Chemomab Therapeutics Ltd.",
-   "ticker": "CMMB",
-   "cik": 1534248,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "1 to Agreement and Plan of Merger (the “Amendment”), amending the Agreement and Plan of Merger, dated as of July 7, 2026 (the “Domestication Merger Agreement”), which was previously reported in the Company’s Report on Form 6-K furnished to the Securities and Exchan",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1534248/000117891326004676/0001178913-26-004676-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1534248/000117891326004676/zk2636151.htm",
-   "filed_at": "2026-09-30T16:05:40-04:00",
-   "filed_kst": "2026-10-01 05:05",
-   "price": 1.19,
-   "change": -26.09,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 1.19,
-     "change": -26.09
-    },
-    {
-     "date": "2026-09-29",
-     "close": 1.61,
-     "change": -1.83
-    },
-    {
-     "date": "2026-09-28",
-     "close": 1.64,
-     "change": -24.07
-    }
-   ],
-   "market_cap": 684703771.0,
-   "shares_outstanding": 575381320.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-01T05:06:33+09:00"
-  },
-  {
-   "id": "0001213900-26-105218",
-   "company": "Rank One Computing Corp",
-   "ticker": "ROC",
-   "cik": 2077709,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(1) Except as stated in paragraph (s)(2) of this clause, when any supply or service acquired under this contract is subject to any End User License Agreement (EULA), Terms of Service (TOS), or similar legal instrument or agreement, that includes any clause requiring the Government to indemnify the C",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2077709/000121390026105218/0001213900-26-105218-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2077709/000121390026105218/ea030715001ex99-1.htm",
-   "filed_at": "2026-09-30T16:05:39-04:00",
-   "filed_kst": "2026-10-01 05:05",
-   "price": 4.0,
-   "change": 2.3,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 4.0,
-     "change": 2.3
-    },
-    {
-     "date": "2026-09-29",
-     "close": 3.91,
-     "change": -7.35
-    },
-    {
-     "date": "2026-09-28",
-     "close": 4.22,
-     "change": 4.2
-    }
-   ],
-   "market_cap": 76320508.0,
-   "shares_outstanding": 19080127.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "CO",
-   "hq": "DENVER, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T05:06:31+09:00"
-  },
-  {
-   "id": "0000091767-26-000044",
-   "company": "SONOCO PRODUCTS CO",
-   "ticker": "SON",
-   "cik": 91767,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 56,
-   "summary": "EX-10.1 2 exhibit101-firstamendmentt.htm EX-10.1 Document Exhibit 10.1 FIRST AMENDMENT TO CREDIT AGREEMENT FIRST AMENDMENT TO CREDIT AGREEMENT dated as of September 25, 2026 (this “ Agreement ”), among SONOCO PRODUCTS COMPANY, a South Carolina corporation (the “ Borrower ”), each LENDER and each VOT",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/91767/000009176726000044/0000091767-26-000044-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/91767/000009176726000044/exhibit101-firstamendmentt.htm",
-   "filed_at": "2026-09-30T16:03:20-04:00",
-   "filed_kst": "2026-10-01 05:03",
-   "price": 48.83,
-   "change": -1.58,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 48.83,
-     "change": -1.58
-    },
-    {
-     "date": "2026-09-29",
-     "close": 49.61,
-     "change": -0.72
-    },
-    {
-     "date": "2026-09-28",
-     "close": 49.97,
-     "change": -0.18
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Paperboard Containers & Boxes",
-   "state_of_incorporation": "SC",
-   "hq": "HARTSVILLE, SC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T05:04:00+09:00"
   }
  ]
 }
