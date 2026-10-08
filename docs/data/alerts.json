@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-09T05:59:33+09:00",
+ "updated_at": "2026-10-09T06:04:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-418044",
+   "company": "Navigator Holdings Ltd.",
+   "ticker": "NVGS",
+   "cik": 1581804,
+   "form": "425",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "M&A"
+   ],
+   "confidence": 81,
+   "summary": "The Ordinary Subscriber Share will be cancelled simultaneously with the Merger.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526418044/0001193125-26-418044-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526418044/d435663d425.htm",
+   "filed_at": "2026-10-08T17:00:23-04:00",
+   "filed_kst": "2026-10-09 06:00",
+   "price": 24.49,
+   "change": 3.95,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 24.49,
+     "change": 3.95
+    },
+    {
+     "date": "2026-10-07",
+     "close": 23.56,
+     "change": -0.21
+    },
+    {
+     "date": "2026-10-06",
+     "close": 23.61,
+     "change": -0.46
+    }
+   ],
+   "market_cap": 1597983374.0,
+   "shares_outstanding": 65250444.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-09T06:01:20+09:00"
+  },
   {
    "id": "0001829126-26-010911",
    "company": "Pioneer Acquisition I Corp",
@@ -15565,60 +15616,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-01T19:43:02+09:00"
-  },
-  {
-   "id": "0001467373-26-000037",
-   "company": "Accenture plc",
-   "ticker": "ACN",
-   "cik": 1467373,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 57,
-   "summary": "Accenture Chair and CEO Julie Sweet “We exceeded our fourth-quarter revenue guidance range and capped off another year of broad-based growth across our business, grew adjusted EPS 8%, returned a record $11.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000037/0001467373-26-000037-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000037/q4fy26earnings8-kexhibit.htm",
-   "filed_at": "2026-10-01T06:42:03-04:00",
-   "filed_kst": "2026-10-01 19:42",
-   "price": 183.37,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 183.37,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 183.37,
-     "change": 3.53
-    },
-    {
-     "date": "2026-09-29",
-     "close": 177.12,
-     "change": 1.52
-    }
-   ],
-   "market_cap": 116809650142.0,
-   "shares_outstanding": 637016143.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Ireland",
-   "hq": "DUBLIN, L2",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T19:42:30+09:00"
   }
  ]
 }
