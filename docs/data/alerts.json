@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-08T22:09:37+09:00",
+ "updated_at": "2026-10-08T22:14:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-107744",
+   "company": "Charlton Aria Acquisition Corp",
+   "ticker": "CHAR",
+   "cik": 2024459,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "announced a definitive business combination agreement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2024459/000121390026107744/0001213900-26-107744-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2024459/000121390026107744/ea030799801ex99-1.htm",
+   "filed_at": "2026-10-08T09:13:04-04:00",
+   "filed_kst": "2026-10-08 22:13",
+   "price": 10.99,
+   "change": 0.14,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 10.99,
+     "change": 0.14
+    },
+    {
+     "date": "2026-10-06",
+     "close": 10.98,
+     "change": 0.09
+    },
+    {
+     "date": "2026-10-05",
+     "close": 10.97,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "MONTEREY, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-08T22:14:39+09:00"
+  },
   {
    "id": "0001833141-26-000089",
    "company": "Helus Pharma Inc.",
@@ -15579,57 +15629,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-01T06:30:36+09:00"
-  },
-  {
-   "id": "0001213900-26-105356",
-   "company": "Wisekey International Holding S.A.",
-   "ticker": "WKEY",
-   "cik": 1738699,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": "On June 26, 2026, WISeKey signed a merger agreement to move the domicile of its holding company from Switzerland to the British Virgin Islands.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/0001213900-26-105356-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/ea030642301ex99-1.htm",
-   "filed_at": "2026-09-30T17:29:56-04:00",
-   "filed_kst": "2026-10-01 06:29",
-   "price": 5.86,
-   "change": -3.46,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 5.86,
-     "change": -3.46
-    },
-    {
-     "date": "2026-09-29",
-     "close": 6.07,
-     "change": 0.33
-    },
-    {
-     "date": "2026-09-28",
-     "close": 6.05,
-     "change": 1.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Switzerland",
-   "hq": "GENEVA 15, V8",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-01T06:30:33+09:00"
   }
  ]
 }
