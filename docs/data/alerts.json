@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-08T19:24:26+09:00",
+ "updated_at": "2026-10-08T19:29:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-417384",
+   "company": "Perspective Therapeutics, Inc.",
+   "ticker": "CATX",
+   "cik": 728387,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "1 Perspective Therapeutics Granted Fast Track Designation for [212Pb]PSV359 for the Treatment of Adult Patients with Locally Advanced Unresectable and/or Metastatic FAP-Positive Solitary Fibrous Tumors SEATTLE, Oct.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/728387/000119312526417384/0001193125-26-417384-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/728387/000119312526417384/catx-ex99_1.htm",
+   "filed_at": "2026-10-08T06:28:19-04:00",
+   "filed_kst": "2026-10-08 19:28",
+   "price": 2.46,
+   "change": 4.24,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 2.46,
+     "change": 4.24
+    },
+    {
+     "date": "2026-10-06",
+     "close": 2.36,
+     "change": -8.17
+    },
+    {
+     "date": "2026-10-05",
+     "close": 2.57,
+     "change": -6.88
+    }
+   ],
+   "market_cap": 280813091.0,
+   "shares_outstanding": 114151663.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SEATTLE, WA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-08T19:29:13+09:00"
+  },
   {
    "id": "0000313143-26-000138",
    "company": "HAEMONETICS CORP",
@@ -15558,56 +15613,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-01T05:32:20+09:00"
-  },
-  {
-   "id": "0001178913-26-004678",
-   "company": "RedHill Biopharma Ltd.",
-   "ticker": "RDHL",
-   "cik": 1553846,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(“Apotex”) for an upfront payment of $18.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004678/0001178913-26-004678-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004678/zk2636177.htm",
-   "filed_at": "2026-09-30T16:23:34-04:00",
-   "filed_kst": "2026-10-01 05:23",
-   "price": 0.48,
-   "change": -0.21,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 0.48,
-     "change": -0.21
-    },
-    {
-     "date": "2026-09-29",
-     "close": 0.48,
-     "change": -4.94
-    },
-    {
-     "date": "2026-09-28",
-     "close": 0.51,
-     "change": 1.2
-    }
-   ],
-   "market_cap": 24443165280.0,
-   "shares_outstanding": 50923261000.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-01T05:24:07+09:00"
   }
  ]
 }
