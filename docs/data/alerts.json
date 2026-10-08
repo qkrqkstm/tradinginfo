@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-08T22:04:34+09:00",
+ "updated_at": "2026-10-08T22:09:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001833141-26-000089",
+   "company": "Helus Pharma Inc.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of MDD that has received Breakthrough Therapy Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000089/0001833141-26-000089-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000089/pressrelease-investorprese.htm",
+   "filed_at": "2026-10-08T09:07:54-04:00",
+   "filed_kst": "2026-10-08 22:07",
+   "price": 10.51,
+   "change": -2.32,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 10.51,
+     "change": -2.32
+    },
+    {
+     "date": "2026-10-06",
+     "close": 10.76,
+     "change": -5.78
+    },
+    {
+     "date": "2026-10-05",
+     "close": 11.42,
+     "change": -2.39
+    }
+   ],
+   "market_cap": 227028696.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-08T22:08:35+09:00"
+  },
   {
    "id": "0001628280-26-065410",
    "company": "HALLADOR ENERGY CO",
@@ -15580,56 +15630,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-01T06:30:33+09:00"
-  },
-  {
-   "id": "0001140361-26-038110",
-   "company": "STANDARD BIOTOOLS INC.",
-   "ticker": "LAB",
-   "cik": 1162194,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 67,
-   "summary": "“ Merger Agreement ” means that certain Agreement and Plan of Merger and Reorganization, dated as of June 6, 2026, by and among Seller, Treeline Biosciences, Inc.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1162194/000114036126038110/0001140361-26-038110-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1162194/000114036126038110/ef20082995_ex99-1.htm",
-   "filed_at": "2026-09-30T17:27:25-04:00",
-   "filed_kst": "2026-10-01 06:27",
-   "price": 0.74,
-   "change": 4.31,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 0.74,
-     "change": 4.31
-    },
-    {
-     "date": "2026-09-29",
-     "close": 0.71,
-     "change": -2.74
-    },
-    {
-     "date": "2026-09-28",
-     "close": 0.73,
-     "change": -1.35
-    }
-   ],
-   "market_cap": 290508318.0,
-   "shares_outstanding": 392578808.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-01T06:28:31+09:00"
   }
  ]
 }
