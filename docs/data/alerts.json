@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-08T20:09:19+09:00",
+ "updated_at": "2026-10-08T20:14:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-005237",
+   "company": "FIRST MAJESTIC SILVER CORP",
+   "ticker": "AG",
+   "cik": 1308648,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "com NEWS RELEASE New York - AG October 8, 2026 Toronto - AG Frankfurt - FMV First Majestic Reports Q3 2026 Production Results, Announces Q3 Conference Call Details and Renewal of Share Repurchase Program Vancouver, BC, Canada - First Majestic Silver Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1308648/000106299326005237/0001062993-26-005237-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1308648/000106299326005237/exhibit99-1.htm",
+   "filed_at": "2026-10-08T07:09:27-04:00",
+   "filed_kst": "2026-10-08 20:09",
+   "price": 16.65,
+   "change": -5.07,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 16.65,
+     "change": -5.07
+    },
+    {
+     "date": "2026-10-06",
+     "close": 17.54,
+     "change": 0.17
+    },
+    {
+     "date": "2026-10-05",
+     "close": 17.51,
+     "change": -0.91
+    }
+   ],
+   "market_cap": 8180516362.0,
+   "shares_outstanding": 491322304.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-08T20:10:32+09:00"
+  },
   {
    "id": "0001628280-26-065385",
    "company": "Crescent Energy Co",
@@ -15564,56 +15615,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-01T06:01:53+09:00"
-  },
-  {
-   "id": "0001104659-26-112380",
-   "company": "CARRIAGE SERVICES INC",
-   "ticker": "CSV",
-   "cik": 1016281,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.2 4 tm2626597d1_ex99-2.htm EXHIBIT 99.2 Exhibit 99.2 Carriage Services Announces Capital Allocation Framework and Terminates $100 Million At-the-Market Equity Program Framework prioritizes long-term value creation per share, robust financial strength, disciplined growth and proactive capital-s",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1016281/000110465926112380/0001104659-26-112380-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1016281/000110465926112380/tm2626597d1_ex99-2.htm",
-   "filed_at": "2026-09-30T16:49:33-04:00",
-   "filed_kst": "2026-10-01 05:49",
-   "price": 31.17,
-   "change": 0.61,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 31.17,
-     "change": 0.61
-    },
-    {
-     "date": "2026-09-29",
-     "close": 30.98,
-     "change": -1.27
-    },
-    {
-     "date": "2026-09-28",
-     "close": 31.38,
-     "change": -1.75
-    }
-   ],
-   "market_cap": 495051166.0,
-   "shares_outstanding": 15882296.0,
-   "industry": "Services-Personal Services",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-01T05:50:28+09:00"
   }
  ]
 }
