@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-08T19:14:16+09:00",
+ "updated_at": "2026-10-08T19:19:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000313143-26-000138",
+   "company": "HAEMONETICS CORP",
+   "ticker": "HAE",
+   "cik": 313143,
+   "form": "8-K",
+   "items": [
+    "7.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "01 Regulation FD Disclosure On August 18, 2026, Haemonetics Corporation (the “Company”) furnished a Current Report on Form 8-K disclosing its entry into a non-exclusive supply agreement with CSL Plasma Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/313143/000031314326000138/0000313143-26-000138-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/313143/000031314326000138/hae-20261008.htm",
+   "filed_at": "2026-10-08T06:15:19-04:00",
+   "filed_kst": "2026-10-08 19:15",
+   "price": 101.71,
+   "change": -1.75,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 101.71,
+     "change": -1.75
+    },
+    {
+     "date": "2026-10-06",
+     "close": 103.52,
+     "change": -1.11
+    },
+    {
+     "date": "2026-10-05",
+     "close": 104.68,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 4627505057.0,
+   "shares_outstanding": 45497051.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "MA",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-08T19:16:05+09:00"
+  },
   {
    "id": "0001171843-26-006524",
    "company": "Addex Therapeutics Ltd.",
@@ -15556,58 +15608,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-01T05:24:07+09:00"
-  },
-  {
-   "id": "0001104659-26-112347",
-   "company": "Paramount Skydance Corp",
-   "ticker": "PSKY",
-   "cik": 2041610,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation and wholly owned subsidiary of the Company, entered into an Agreement and Plan of Merger on February 27, 2026, pursuant to which, and subject to the terms and conditions therein, at the effective time of the merger to be entered into pursuant to such agreement, Prince Sub In",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926112347/0001104659-26-112347-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926112347/tm2626659d1_8k.htm",
-   "filed_at": "2026-09-30T16:22:28-04:00",
-   "filed_kst": "2026-10-01 05:22",
-   "price": 10.33,
-   "change": 3.4,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 10.33,
-     "change": 3.4
-    },
-    {
-     "date": "2026-09-29",
-     "close": 9.99,
-     "change": -2.82
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.28,
-     "change": 3.21
-    }
-   ],
-   "market_cap": 11070319872.0,
-   "shares_outstanding": 1071666977.0,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-01T05:23:04+09:00"
   }
  ]
 }
