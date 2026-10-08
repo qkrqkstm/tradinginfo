@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-08T22:49:38+09:00",
+ "updated_at": "2026-10-08T22:54:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178913-26-004740",
+   "company": "GILAT SATELLITE NETWORKS LTD",
+   "ticker": "GILT",
+   "cik": 897322,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Yes ☐ No ☒ If “Yes” is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b): N/A Attached hereto is Registrant’s press release dated October 8, 2026, announcing that Gilat Secures Over $8 Million in Additional Orders from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/897322/000117891326004740/0001178913-26-004740-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/897322/000117891326004740/zk2636212.htm",
+   "filed_at": "2026-10-08T09:51:20-04:00",
+   "filed_kst": "2026-10-08 22:51",
+   "price": 9.31,
+   "change": 1.03,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 9.31,
+     "change": 1.03
+    },
+    {
+     "date": "2026-10-07",
+     "close": 9.22,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-06",
+     "close": 9.22,
+     "change": -1.91
+    }
+   ],
+   "market_cap": 687369571.0,
+   "shares_outstanding": 73831318.0,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": null,
+   "hq": "MCLEAN, VA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-08T22:52:03+09:00"
+  },
   {
    "id": "0001213900-26-107746",
    "company": "Charlton Aria Acquisition Corp",
@@ -15588,42 +15638,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-01T19:02:34+09:00"
-  },
-  {
-   "id": "0001213900-26-105359",
-   "company": "Churchill Capital Corp XI",
-   "ticker": "CCXI",
-   "cik": 2074973,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Agility Robotics Announces New Directors for Planned Public-Company Board Technology, Business and Legal leaders bring decades of experience in global commercialization, strategic partnerships and corporate governance as Agility prepares to scale humanoid robotics SALEM, Ore.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026105359/0001213900-26-105359-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026105359/ea0307216-425_churchill11.htm",
-   "filed_at": "2026-09-30T17:38:08-04:00",
-   "filed_kst": "2026-10-01 06:38",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "General Industrial Machinery & Equipment, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T19:01:30+09:00"
   }
  ]
 }
