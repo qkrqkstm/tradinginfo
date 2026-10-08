@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-08T20:59:33+09:00",
+ "updated_at": "2026-10-08T21:04:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-046261",
+   "company": "NextTrip, Inc.",
+   "ticker": "NTRP",
+   "cik": 788611,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Over the past four months, separate from our programmatic advertising business, our direct sales organization has built a pipeline of more than $5 million in potential new media advertising, sponsorship and strategic partnership opportunities across NextTrip’s expanding media and travel ecosystem.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226046261/0001493152-26-046261-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226046261/ex99-1.htm",
+   "filed_at": "2026-10-08T08:01:18-04:00",
+   "filed_kst": "2026-10-08 21:01",
+   "price": 1.86,
+   "change": -1.59,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 1.86,
+     "change": -1.59
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1.89,
+     "change": -1.56
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1.92,
+     "change": -1.54
+    }
+   ],
+   "market_cap": 27751064.0,
+   "shares_outstanding": 14919927.0,
+   "industry": "Transportation Services",
+   "state_of_incorporation": null,
+   "hq": "SUNRISE, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-08T21:01:55+09:00"
+  },
   {
    "id": "0001193125-26-417432",
    "company": "Virginia National Bankshares Corp",
@@ -15570,54 +15624,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-01T06:10:31+09:00"
-  },
-  {
-   "id": "0001437749-26-031613",
-   "company": "Vicore Pharma Holding AB",
-   "ticker": "VCRE",
-   "cik": 2124403,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The company ’ s lead program, buloxibutid, is an oral small molecule angiotensin II type 2 receptor agonist, which has received Orphan Drug and Fast Track designation from the United States Food and Drug Administration and is currently being investigated in the global 52-week Phase 2b ASPIRE trial i",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2124403/000143774926031613/0001437749-26-031613-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2124403/000143774926031613/vcre20260929_6k.htm",
-   "filed_at": "2026-09-30T17:02:30-04:00",
-   "filed_kst": "2026-10-01 06:02",
-   "price": 9.51,
-   "change": -0.11,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 9.51,
-     "change": -0.11
-    },
-    {
-     "date": "2026-09-29",
-     "close": 9.52,
-     "change": -0.73
-    },
-    {
-     "date": "2026-09-28",
-     "close": 9.59,
-     "change": -0.62
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Sweden",
-   "hq": "STOCKHOLM",
-   "entity_category": null,
-   "detected_at": "2026-10-01T06:03:29+09:00"
   }
  ]
 }
