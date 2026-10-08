@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-08T21:59:44+09:00",
+ "updated_at": "2026-10-08T22:04:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-065410",
+   "company": "HALLADOR ENERGY CO",
+   "ticker": "HNRG",
+   "cik": 788965,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.03",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "5 million in June 2031 and $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788965/000162828026065410/0001628280-26-065410-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/788965/000162828026065410/exhibit_991.htm",
+   "filed_at": "2026-10-08T08:59:42-04:00",
+   "filed_kst": "2026-10-08 21:59",
+   "price": 13.65,
+   "change": -7.83,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 13.65,
+     "change": -7.83
+    },
+    {
+     "date": "2026-10-06",
+     "close": 14.81,
+     "change": 6.16
+    },
+    {
+     "date": "2026-10-05",
+     "close": 13.95,
+     "change": 3.41
+    }
+   ],
+   "market_cap": 643506823.0,
+   "shares_outstanding": 47143357.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "CO",
+   "hq": "TERRE HAUTE, IN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-08T22:00:55+09:00"
+  },
   {
    "id": "0001493152-26-046268",
    "company": "Beyond Air, Inc.",
@@ -15575,57 +15630,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-01T06:28:31+09:00"
-  },
-  {
-   "id": "0001185185-26-004447",
-   "company": "Newbury Street II Acquisition Corp",
-   "ticker": "NTWO",
-   "cik": 2028027,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": ", a Delaware corporation and a direct, wholly owned subsidiary of the Company (“ Merger Sub ”), entered into an agreement and plan of merger, dated as of August 17, 2026 (as it may be amended, restated and/or supplemented from time to time in accordance with its terms, the “ Transaction Agreement ”)",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004447/0001185185-26-004447-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004447/ntwo2ex99-1.htm",
-   "filed_at": "2026-09-30T17:17:23-04:00",
-   "filed_kst": "2026-10-01 06:17",
-   "price": 10.82,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 10.82,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 10.82,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.82,
-     "change": -0.32
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T06:18:05+09:00"
   }
  ]
 }
