@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-08T19:59:16+09:00",
+ "updated_at": "2026-10-08T20:04:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-417413",
+   "company": "Lufax Holding Ltd",
+   "ticker": "LU",
+   "cik": 1816007,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.2 3 d156686dex992.htm EX-99.2 EX-99.2 Exhibit 99.2 Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability w",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1816007/000119312526417413/0001193125-26-417413-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1816007/000119312526417413/d156686dex992.htm",
+   "filed_at": "2026-10-08T07:03:36-04:00",
+   "filed_kst": "2026-10-08 20:03",
+   "price": 0.98,
+   "change": -2.87,
+   "price_history": [
+    {
+     "date": "2026-10-07",
+     "close": 0.98,
+     "change": -2.87
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1.01,
+     "change": -1.94
+    },
+    {
+     "date": "2026-10-05",
+     "close": 1.03,
+     "change": 0.98
+    }
+   ],
+   "market_cap": 1698708807.0,
+   "shares_outstanding": 1733376334.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-08T20:04:07+09:00"
+  },
   {
    "id": "0001493152-26-046257",
    "company": "Nova Minerals Corp",
@@ -15562,58 +15612,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-01T05:34:26+09:00"
-  },
-  {
-   "id": "0001185185-26-004441",
-   "company": "Lichen International Ltd",
-   "ticker": "LICN",
-   "cik": 1876766,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "The issuance of 5,400,000 Class A Ordinary Shares and 3,600,000 Class B Ordinary Shares, the repurchase and the cancellation of HKD Shares were completed on April 28, 2021.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1876766/000118518526004441/0001185185-26-004441-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1876766/000118518526004441/licnex99-2.htm",
-   "filed_at": "2026-09-30T16:31:26-04:00",
-   "filed_kst": "2026-10-01 05:31",
-   "price": 1.02,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 1.02,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 1.02,
-     "change": -0.97
-    },
-    {
-     "date": "2026-09-28",
-     "close": 1.03,
-     "change": -0.96
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Management Consulting Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "JINJIANG CITY, FUJIAN PROVINCE, F4",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T05:32:21+09:00"
   }
  ]
 }
