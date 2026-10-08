@@ -1,7 +1,64 @@
 {
- "updated_at": "2026-10-09T06:19:35+09:00",
+ "updated_at": "2026-10-09T06:24:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001501697-26-000081",
+   "company": "X4 Pharmaceuticals, Inc",
+   "ticker": "XFOR",
+   "cik": 1501697,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "1.02",
+    "2.03",
+    "3.02"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "“Our partnership with K2 HealthVentures strengthens our capital position and gives us a solid financial foundation as we advance mavorixafor toward potential FDA approval and a commercial launch in chronic neutropenia,” said David Kirske, Chief Financial Officer of X4.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501697/000150169726000081/0001501697-26-000081-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1501697/000150169726000081/ex991pressreleasedatedocto.htm",
+   "filed_at": "2026-10-08T17:23:01-04:00",
+   "filed_kst": "2026-10-09 06:23",
+   "price": 2.79,
+   "change": -0.71,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 2.79,
+     "change": -0.71
+    },
+    {
+     "date": "2026-10-07",
+     "close": 2.81,
+     "change": 1.44
+    },
+    {
+     "date": "2026-10-06",
+     "close": 2.77,
+     "change": -4.48
+    }
+   ],
+   "market_cap": 276619413.0,
+   "shares_outstanding": 99146743.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-09T06:23:43+09:00"
+  },
   {
    "id": "0001193125-26-418059",
    "company": "Drilling Tools International Corp",
@@ -15564,59 +15621,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-01T20:10:31+09:00"
-  },
-  {
-   "id": "0001628280-26-064103",
-   "company": "Fervo Energy Co",
-   "ticker": "FRVO",
-   "cik": 1853868,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "” As Phase I comes online and Phase II advances toward its 2028 COD, Fervo expects Cape Station's contracted capacity to translate into a growing, long-term revenue stream underpinned by multi-year offtake agreements.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1853868/000162828026064103/0001628280-26-064103-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1853868/000162828026064103/exhibit991pressrelease10126.htm",
-   "filed_at": "2026-10-01T07:05:25-04:00",
-   "filed_kst": "2026-10-01 20:05",
-   "price": 13.59,
-   "change": -1.16,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 13.59,
-     "change": -1.16
-    },
-    {
-     "date": "2026-09-29",
-     "close": 13.75,
-     "change": -2.55
-    },
-    {
-     "date": "2026-09-28",
-     "close": 14.11,
-     "change": -7.05
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Electric Services",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T20:05:54+09:00"
   }
  ]
 }
