@@ -1,7 +1,52 @@
 {
- "updated_at": "2026-10-10T05:54:07+09:00",
+ "updated_at": "2026-10-10T05:59:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-046568",
+   "company": "SELECTIS HEALTH, INC.",
+   "ticker": "GBCS",
+   "cik": 727346,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.01",
+    "2.03",
+    "3.03"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 67,
+   "summary": "(the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Black Pearl Equities II, LLC, a New York limited liability company (“Purchaser”), and Tortuga Acquisition Sub, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/727346/000149315226046568/0001493152-26-046568-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/727346/000149315226046568/form8-k.htm",
+   "filed_at": "2026-10-09T16:54:23-04:00",
+   "filed_kst": "2026-10-10 05:54",
+   "price": 5.73,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-06",
+     "close": 5.73,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 17574248.0,
+   "shares_outstanding": 3067059.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "UT",
+   "hq": "GREENWOOD VILLAGE, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-10T05:55:24+09:00"
+  },
   {
    "id": "0001104659-26-115060",
    "company": "NetClass Technology Inc",
@@ -15560,56 +15605,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-02T02:52:01+09:00"
-  },
-  {
-   "id": "0001833141-26-000084",
-   "company": "CYBIN INC.",
-   "ticker": "HELP",
-   "cik": 1833141,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000084/0001833141-26-000084-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000084/pressreleaseannouncingname.htm",
-   "filed_at": "2026-10-01T13:33:41-04:00",
-   "filed_kst": "2026-10-02 02:33",
-   "price": 12.07,
-   "change": -1.79,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 12.07,
-     "change": -1.79
-    },
-    {
-     "date": "2026-09-30",
-     "close": 12.29,
-     "change": -3.23
-    },
-    {
-     "date": "2026-09-29",
-     "close": 12.7,
-     "change": 0.87
-    }
-   ],
-   "market_cap": 260726581.0,
-   "shares_outstanding": 21601208.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-02T02:34:13+09:00"
   }
  ]
 }
