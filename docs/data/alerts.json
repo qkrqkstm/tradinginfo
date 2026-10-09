@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-10T00:29:33+09:00",
+ "updated_at": "2026-10-10T00:34:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006556",
+   "company": "EUROSEAS LTD.",
+   "ticker": "ESEA",
+   "cik": 1341170,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약",
+    "배당"
+   ],
+   "confidence": 72,
+   "summary": "esea20260610_6k.htm --12-31 Q2 2026 false 0001341170 0 1 1 0 June 30, 2025 February 28, 2026 June 30, 2025 February 28, 2025 0 6 0 0 12 0 0001341170 2026-01-01 2026-06-30 thunderdome:item iso4217:USD xbrli:shares 0001341170 us-gaap:SubsequentEventMember 2026-08-01 2026-08-30 iso4217:USD 0001341170 2",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341170/000117184326006556/0001171843-26-006556-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1341170/000117184326006556/esea20260610_6k.htm",
+   "filed_at": "2026-10-09T11:31:30-04:00",
+   "filed_kst": "2026-10-10 00:31",
+   "price": 72.49,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-09",
+     "close": 72.49,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-09",
+     "close": 72.49,
+     "change": -1.25
+    },
+    {
+     "date": "2026-10-08",
+     "close": 73.41,
+     "change": 0.77
+    }
+   ],
+   "market_cap": 511480814.0,
+   "shares_outstanding": 7055881.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": null,
+   "hq": "151 25 MAROUSSI, J3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-10T00:32:12+09:00"
+  },
   {
    "id": "0001213900-26-108233",
    "company": "APPLIED ENERGETICS, INC.",
@@ -15558,62 +15610,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-01T22:16:02+09:00"
-  },
-  {
-   "id": "0001493152-26-045278",
-   "company": "Sintx Technologies, Inc.",
-   "ticker": "SINT",
-   "cik": 1269026,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 64,
-   "summary": "During the quarter, SINTX began shipments against the more than $3.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1269026/000149315226045278/0001493152-26-045278-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1269026/000149315226045278/ex99-1.htm",
-   "filed_at": "2026-10-01T09:05:17-04:00",
-   "filed_kst": "2026-10-01 22:05",
-   "price": 2.23,
-   "change": 9.85,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 2.23,
-     "change": 9.85
-    },
-    {
-     "date": "2026-09-29",
-     "close": 2.03,
-     "change": 2.01
-    },
-    {
-     "date": "2026-09-28",
-     "close": 1.99,
-     "change": 5.85
-    }
-   ],
-   "market_cap": 14861911.0,
-   "shares_outstanding": 6664534.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "SALT LAKE CITY, UT",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-01T22:05:59+09:00"
   }
  ]
 }
