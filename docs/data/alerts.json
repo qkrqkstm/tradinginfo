@@ -1,7 +1,158 @@
 {
- "updated_at": "2026-10-09T18:59:31+09:00",
+ "updated_at": "2026-10-09T19:04:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-032387",
+   "company": "ALTERITY THERAPEUTICS LTD",
+   "ticker": "ATHE",
+   "cik": 1131343,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "ATH434, the Company’s lead asset, has demonstrated clinically meaningful efficacy in a randomized, double-blind, placebo-controlled Phase 2 clinical trial in participants with MSA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926032387/0001437749-26-032387-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926032387/athe20261009_6k.htm",
+   "filed_at": "2026-10-09T06:00:52-04:00",
+   "filed_kst": "2026-10-09 19:00",
+   "price": 3.07,
+   "change": -7.53,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 3.07,
+     "change": -7.53
+    },
+    {
+     "date": "2026-10-07",
+     "close": 3.32,
+     "change": -1.48
+    },
+    {
+     "date": "2026-10-06",
+     "close": 3.37,
+     "change": 4.66
+    }
+   ],
+   "market_cap": 667752206.0,
+   "shares_outstanding": 217508862.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "MELBOURNE",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-09T19:04:36+09:00"
+  },
+  {
+   "id": "0001279569-26-000964",
+   "company": "TORONTO DOMINION BANK",
+   "ticker": "TD",
+   "cik": 947263,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "1 TD Bank Group Receives Regulatory Approval for New Share Buyback Program TORONTO, October 8, 2026 /CNW/ - TD Bank Group (TD or the Bank) (TSX: TD) (NYSE: TD) announced today that the Office of the Superintendent of Financial Institutions Canada has approved TD's previously announced new share buyb",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/947263/000127956926000964/0001279569-26-000964-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/947263/000127956926000964/ex991.htm",
+   "filed_at": "2026-10-08T19:32:51-04:00",
+   "filed_kst": "2026-10-09 08:32",
+   "price": 114.04,
+   "change": 0.15,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 114.04,
+     "change": 0.15
+    },
+    {
+     "date": "2026-10-07",
+     "close": 113.87,
+     "change": -3.65
+    },
+    {
+     "date": "2026-10-06",
+     "close": 118.18,
+     "change": 0.92
+    }
+   ],
+   "market_cap": 192670067390.0,
+   "shares_outstanding": 1689495505.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO, ONTARIO, A6",
+   "entity_category": null,
+   "detected_at": "2026-10-09T19:02:55+09:00"
+  },
+  {
+   "id": "0001564708-26-000219",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000219/0001564708-26-000219-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000219/appendix3cclassa20261008.htm",
+   "filed_at": "2026-10-08T19:53:56-04:00",
+   "filed_kst": "2026-10-09 08:53",
+   "price": 31.92,
+   "change": 1.27,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 31.92,
+     "change": 1.27
+    },
+    {
+     "date": "2026-10-07",
+     "close": 31.52,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-06",
+     "close": 31.52,
+     "change": -1.5
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-09T19:02:52+09:00"
+  },
   {
    "id": "0001501697-26-000081",
    "company": "X4 Pharmaceuticals, Inc",
@@ -15465,162 +15616,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-01T20:59:01+09:00"
-  },
-  {
-   "id": "0001683168-26-007514",
-   "company": "Valion Bio, Inc.",
-   "ticker": "VBIO",
-   "cik": 1787740,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The product candidate has received Fast Track and Orphan Drug designations from the FDA.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007514/0001683168-26-007514-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007514/valion_ex9901.htm",
-   "filed_at": "2026-10-01T07:45:14-04:00",
-   "filed_kst": "2026-10-01 20:45",
-   "price": 2.8,
-   "change": -1.06,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 2.8,
-     "change": -1.06
-    },
-    {
-     "date": "2026-09-29",
-     "close": 2.83,
-     "change": 4.81
-    },
-    {
-     "date": "2026-09-28",
-     "close": 2.7,
-     "change": -10.89
-    }
-   ],
-   "market_cap": 62131269.0,
-   "shares_outstanding": 22189739.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T20:46:21+09:00"
-  },
-  {
-   "id": "0001193125-26-409833",
-   "company": "Monte Rosa Therapeutics, Inc.",
-   "ticker": "GLUE",
-   "cik": 1826457,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "(Nasdaq: GLUE), a clinical-stage biotechnology company developing novel molecular glue degrader (MGD)-based medicines, today announced positive data from GFORCE-1, a Phase 1 study evaluating MRT-8102, a NEK7-directed MGD being developed for the treatment of inflammatory conditions driven by the NEK7",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526409833/0001193125-26-409833-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526409833/glue-ex99_2.htm",
-   "filed_at": "2026-10-01T07:38:04-04:00",
-   "filed_kst": "2026-10-01 20:38",
-   "price": 11.93,
-   "change": 1.62,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 11.93,
-     "change": 1.62
-    },
-    {
-     "date": "2026-09-29",
-     "close": 11.74,
-     "change": 0.26
-    },
-    {
-     "date": "2026-09-28",
-     "close": 11.71,
-     "change": -0.51
-    }
-   ],
-   "market_cap": 1017788874.0,
-   "shares_outstanding": 85313401.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T20:39:23+09:00"
-  },
-  {
-   "id": "0001185185-26-004474",
-   "company": "Newbury Street II Acquisition Corp",
-   "ticker": "NTWO",
-   "cik": 2028027,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Agility and FORT Robotics Announce Strategic Partnership to Advance Humanoid Robot Safety New Offboard Safety Bridge Extends Agility and FORT’s Safety Architecture to Digit 5 SALEM, Ore.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004474/0001185185-26-004474-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004474/ntwo2425093026.htm",
-   "filed_at": "2026-10-01T07:10:08-04:00",
-   "filed_kst": "2026-10-01 20:10",
-   "price": 10.82,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 10.82,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 10.82,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.82,
-     "change": -0.32
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T20:10:31+09:00"
   }
  ]
 }
