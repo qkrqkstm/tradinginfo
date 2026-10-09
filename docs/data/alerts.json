@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-10T05:59:32+09:00",
+ "updated_at": "2026-10-10T06:04:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-108556",
+   "company": "Pop Culture Group Co., Ltd",
+   "ticker": "CPOP",
+   "cik": 1807389,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 ea030821101ex99-1.htm NOTICE AND PROXY STATEMENT OF 2026 EXTRAORDINARY GENERAL MEETING, DATED OCTOBER 9, 2026, TO BE MAILED TO SHAREHOLDERS OF THE COMPANY IN CONNECTION WITH THE 2026 EXTRAORDINARY GENERAL MEETING Exhibit 99.1 Pop Culture Group Co., Ltd (incorporated in the Cayman Islands w",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1807389/000121390026108556/0001213900-26-108556-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1807389/000121390026108556/ea030821101ex99-1.htm",
+   "filed_at": "2026-10-09T17:00:08-04:00",
+   "filed_kst": "2026-10-10 06:00",
+   "price": 2.84,
+   "change": -1.73,
+   "price_history": [
+    {
+     "date": "2026-10-09",
+     "close": 2.84,
+     "change": -1.73
+    },
+    {
+     "date": "2026-10-08",
+     "close": 2.89,
+     "change": -2.69
+    },
+    {
+     "date": "2026-10-07",
+     "close": 2.97,
+     "change": 4.58
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Amusement & Recreation Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "FUJIAN PROVINCE, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-10T06:00:52+09:00"
+  },
   {
    "id": "0001493152-26-046568",
    "company": "SELECTIS HEALTH, INC.",
@@ -15551,60 +15602,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-02T03:00:46+09:00"
-  },
-  {
-   "id": "0000063296-26-000098",
-   "company": "MATTHEWS INTERNATIONAL CORP",
-   "ticker": "MATW",
-   "cik": 63296,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 ex991_kdmoretire.htm EX-99.1 PRESS RELEASE Document NEWS RELEASE Matthews International Corporation Corporate Office Two NorthShore Center Pittsburgh, PA 15212-5851 Phone: (412) 442-8200 October 1, 2026 Contact: Daniel E. Stopar Chief Financial Officer and Treasurer MATTHEWS INTERNATIONAL ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000098/0000063296-26-000098-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000098/ex991_kdmoretire.htm",
-   "filed_at": "2026-10-01T13:51:29-04:00",
-   "filed_kst": "2026-10-02 02:51",
-   "price": 18.82,
-   "change": -1.95,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 18.82,
-     "change": -1.95
-    },
-    {
-     "date": "2026-09-30",
-     "close": 19.19,
-     "change": -1.24
-    },
-    {
-     "date": "2026-09-29",
-     "close": 19.43,
-     "change": -0.46
-    }
-   ],
-   "market_cap": 587431916.0,
-   "shares_outstanding": 31213173.0,
-   "industry": "Nonferrous Foundries (Castings)",
-   "state_of_incorporation": "PA",
-   "hq": "PITTSBURGH, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-02T02:52:01+09:00"
   }
  ]
 }
