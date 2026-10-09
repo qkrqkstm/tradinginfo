@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-09T20:04:51+09:00",
+ "updated_at": "2026-10-09T20:09:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-046424",
+   "company": "MANHATTAN BRIDGE CAPITAL, INC",
+   "ticker": "LOAN",
+   "cik": 1080340,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) announced that the Company’s Board of Directors approved an increase in the aggregate number of shares authorized for repurchase under the Company’s existing share buyback program (the “Share Buyback Program”) from 100,000 common shares to 250,000 common shares and extended the term ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1080340/000149315226046424/0001493152-26-046424-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1080340/000149315226046424/form8-k.htm",
+   "filed_at": "2026-10-09T07:05:21-04:00",
+   "filed_kst": "2026-10-09 20:05",
+   "price": 3.53,
+   "change": -3.55,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 3.53,
+     "change": -3.55
+    },
+    {
+     "date": "2026-10-07",
+     "close": 3.66,
+     "change": -5.18
+    },
+    {
+     "date": "2026-10-06",
+     "close": 3.86,
+     "change": -0.26
+    }
+   ],
+   "market_cap": 40332047.0,
+   "shares_outstanding": 11425509.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "NY",
+   "hq": "GREAT NECK,, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-09T20:05:56+09:00"
+  },
   {
    "id": "0001628280-26-065491",
    "company": "Ranger Energy Services, Inc.",
@@ -15562,63 +15615,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-01T21:16:07+09:00"
-  },
-  {
-   "id": "0001104659-26-112586",
-   "company": "Orchestra BioMed Holdings, Inc.",
-   "ticker": "OBIO",
-   "cik": 1814114,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 87,
-   "summary": "(Nasdaq: OBIO) (“Orchestra BioMed” or the “Company”), a biomedical company accelerating high-impact technologies to patients through strategic partnerships with market-leading medical device companies, today announced that it has surpassed full enrollment in the BACKBEAT Global Pivotal Trial (“BACKB",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1814114/000110465926112586/0001104659-26-112586-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1814114/000110465926112586/tm2626728d1_ex99-1.htm",
-   "filed_at": "2026-10-01T08:14:44-04:00",
-   "filed_kst": "2026-10-01 21:14",
-   "price": 6.22,
-   "change": 2.3,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 6.22,
-     "change": 2.3
-    },
-    {
-     "date": "2026-09-29",
-     "close": 6.08,
-     "change": 3.23
-    },
-    {
-     "date": "2026-09-28",
-     "close": 5.89,
-     "change": -1.01
-    }
-   ],
-   "market_cap": 373853405.0,
-   "shares_outstanding": 60105049.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "NEW HOPE, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-01T21:15:35+09:00"
   }
  ]
 }
