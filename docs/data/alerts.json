@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-09T20:24:35+09:00",
+ "updated_at": "2026-10-09T20:29:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-108213",
+   "company": "New Horizon Aircraft Ltd.",
+   "ticker": "HOVR",
+   "cik": 1930021,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 ea030812901ex99-1.htm PRESS RELEASE, DATED OCTOBER 9, 2026 Exhibit 99.1 Horizon Aircraft Reports Fiscal 2027 First Quarter Results and Advances Full-Scale Cavorite X7 Development TORONTO, October 9, 2026 - New Horizon Aircraft Ltd. (“Horizon Aircraft” or the “Company”) (NASDAQ: HOVR), a Ca",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1930021/000121390026108213/0001213900-26-108213-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1930021/000121390026108213/ea030812901ex99-1.htm",
+   "filed_at": "2026-10-09T07:24:51-04:00",
+   "filed_kst": "2026-10-09 20:24",
+   "price": 1.53,
+   "change": -4.38,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 1.53,
+     "change": -4.38
+    },
+    {
+     "date": "2026-10-07",
+     "close": 1.6,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-06",
+     "close": 1.6,
+     "change": -1.84
+    }
+   ],
+   "market_cap": 102699630.0,
+   "shares_outstanding": 67123941.0,
+   "industry": "Aircraft",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "LINDSAY, A6",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-09T20:25:42+09:00"
+  },
   {
    "id": "0001493152-26-046424",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
@@ -15558,63 +15611,6 @@
    "hq": "SANTIAGO",
    "entity_category": null,
    "detected_at": "2026-10-01T21:30:36+09:00"
-  },
-  {
-   "id": "0001778922-26-000049",
-   "company": "SpyGlass Pharma, Inc.",
-   "ticker": "SGP",
-   "cik": 1778922,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 72,
-   "summary": "SpyGlass Pharma plans to work with the FDA to advance the program through completion of Phase 3 clinical trials, New Drug Application submission, and ultimately to potential FDA approval.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1778922/000177892226000049/0001778922-26-000049-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1778922/000177892226000049/sgp-20261001.htm",
-   "filed_at": "2026-10-01T08:15:18-04:00",
-   "filed_kst": "2026-10-01 21:15",
-   "price": 26.0,
-   "change": 2.2,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 26.0,
-     "change": 2.2
-    },
-    {
-     "date": "2026-09-29",
-     "close": 25.44,
-     "change": -2.08
-    },
-    {
-     "date": "2026-09-28",
-     "close": 25.98,
-     "change": -4.03
-    }
-   ],
-   "market_cap": 869647454.0,
-   "shares_outstanding": 33447979.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "IRVINE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T21:16:07+09:00"
   }
  ]
 }
