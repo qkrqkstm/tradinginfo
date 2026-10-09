@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-10T02:09:32+09:00",
+ "updated_at": "2026-10-10T02:14:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006559",
+   "company": "Profound Medical Corp.",
+   "ticker": "PROF",
+   "cik": 1628808,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": ", and Gozellix ® (kit for the preparation of gallium-68 gozetotide injection), approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1628808/000117184326006559/0001171843-26-006559-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1628808/000117184326006559/f8k_100926.htm",
+   "filed_at": "2026-10-09T13:11:55-04:00",
+   "filed_kst": "2026-10-10 02:11",
+   "price": 6.86,
+   "change": -0.72,
+   "price_history": [
+    {
+     "date": "2026-10-09",
+     "close": 6.86,
+     "change": -0.72
+    },
+    {
+     "date": "2026-10-08",
+     "close": 6.91,
+     "change": 21.65
+    },
+    {
+     "date": "2026-10-07",
+     "close": 5.68,
+     "change": -6.58
+    }
+   ],
+   "market_cap": 250613595.0,
+   "shares_outstanding": 36532594.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "MISSISSAUGA, A6",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-10T02:12:34+09:00"
+  },
   {
    "id": "0001279569-26-000968",
    "company": "BTQ Technologies Corp.",
@@ -15551,59 +15605,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-01T22:20:31+09:00"
-  },
-  {
-   "id": "0001213900-26-105485",
-   "company": "Plum Acquisition Corp, IV",
-   "ticker": "PLMK",
-   "cik": 2030482,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Additional Information and Where to Find It In connection with the transactions contemplated by the Business Combination Agreement (“Proposed Transactions”), Plum IV and CTR intend to file with the SEC a registration statement on Form S-4 (as may be amended, the “Registration Statement”), which will",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026105485/0001213900-26-105485-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026105485/ea030732501ex99-1.htm",
-   "filed_at": "2026-10-01T09:16:28-04:00",
-   "filed_kst": "2026-10-01 22:16",
-   "price": 10.72,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 10.72,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 10.72,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.72,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Electric Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T22:17:05+09:00"
   }
  ]
 }
