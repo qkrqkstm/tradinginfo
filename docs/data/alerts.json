@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-10-10T01:44:38+09:00",
+ "updated_at": "2026-10-10T01:49:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001279569-26-000968",
+   "company": "BTQ Technologies Corp.",
+   "ticker": "BTQ",
+   "cik": 1821866,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "( \"BTQ\" or the \"Company\" ) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, has announced a strategic partnership with MoonPay Korea, part of MoonPay Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1821866/000127956926000968/0001279569-26-000968-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1821866/000127956926000968/ex991.htm",
+   "filed_at": "2026-10-09T12:47:53-04:00",
+   "filed_kst": "2026-10-10 01:47",
+   "price": 2.78,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-09",
+     "close": 2.78,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-09",
+     "close": 2.78,
+     "change": -0.35
+    },
+    {
+     "date": "2026-10-08",
+     "close": 2.79,
+     "change": -9.42
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": null,
+   "detected_at": "2026-10-10T01:48:35+09:00"
+  },
   {
    "id": "0001171843-26-006556",
    "company": "EUROSEAS LTD.",
@@ -15556,60 +15604,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-01T22:17:05+09:00"
-  },
-  {
-   "id": "0001437749-26-031665",
-   "company": "BioCardia, Inc.",
-   "ticker": "BCDA",
-   "cik": 925741,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "1 BioCardia Files Revised De Novo Pre-Submission for FDA Approval of Helix ™ Catheter SUNNYVALE, Calif.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926031665/0001437749-26-031665-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926031665/bcda20261001_8k.htm",
-   "filed_at": "2026-10-01T09:15:18-04:00",
-   "filed_kst": "2026-10-01 22:15",
-   "price": 1.01,
-   "change": -1.94,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 1.01,
-     "change": -1.94
-    },
-    {
-     "date": "2026-09-29",
-     "close": 1.03,
-     "change": -0.96
-    },
-    {
-     "date": "2026-09-28",
-     "close": 1.04,
-     "change": -0.95
-    }
-   ],
-   "market_cap": 15290170.0,
-   "shares_outstanding": 15138782.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SUNNYVALE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-01T22:16:02+09:00"
   }
  ]
 }
