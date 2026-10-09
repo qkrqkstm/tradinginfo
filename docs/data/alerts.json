@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-10T04:49:35+09:00",
+ "updated_at": "2026-10-10T04:59:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-039264",
+   "company": "Bank7 Corp.",
+   "ticker": "BSVN",
+   "cik": 1746129,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(the “Company”) and Century Financial Services Corporation (“Century”) entered into that certain Agreement and Plan of Merger, dated as of September 16, 2026 (the “Merger Agreement”), pursuant to which Century will merge with and into the Company (the “Merger”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1746129/000114036126039264/0001140361-26-039264-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1746129/000114036126039264/ef20083587_8k.htm",
+   "filed_at": "2026-10-09T15:52:38-04:00",
+   "filed_kst": "2026-10-10 04:52",
+   "price": 54.8,
+   "change": -1.39,
+   "price_history": [
+    {
+     "date": "2026-10-09",
+     "close": 54.8,
+     "change": -1.39
+    },
+    {
+     "date": "2026-10-08",
+     "close": 55.57,
+     "change": 0.8
+    },
+    {
+     "date": "2026-10-07",
+     "close": 55.13,
+     "change": -0.99
+    }
+   ],
+   "market_cap": 522016909.0,
+   "shares_outstanding": 9525856.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "OKLAHOMA CITY, OK",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-10T04:55:26+09:00"
+  },
   {
    "id": "0001171843-26-006559",
    "company": "Profound Medical Corp.",
@@ -15552,59 +15605,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-01T22:21:04+09:00"
-  },
-  {
-   "id": "0001213900-26-105490",
-   "company": "Plum Acquisition Corp, IV",
-   "ticker": "PLMK",
-   "cik": 2030482,
-   "form": "425",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Additional Information and Where to Find It In connection with the transactions contemplated by the Business Combination Agreement (“Proposed Transactions”), Plum IV and CTR intend to file with the SEC a registration statement on Form S-4 (as may be amended, the “Registration Statement”), which will",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026105490/0001213900-26-105490-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026105490/ea030732501ex99-1.htm",
-   "filed_at": "2026-10-01T09:19:01-04:00",
-   "filed_kst": "2026-10-01 22:19",
-   "price": 10.72,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 10.72,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 10.72,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-28",
-     "close": 10.72,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Electric Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T22:20:31+09:00"
   }
  ]
 }
