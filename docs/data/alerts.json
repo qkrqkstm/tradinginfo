@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-09T19:29:32+09:00",
+ "updated_at": "2026-10-09T19:34:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-065491",
+   "company": "Ranger Energy Services, Inc.",
+   "ticker": "RNGR",
+   "cik": 1699039,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(collectively, “STEP” or the “Sellers”), pursuant to which the Company agreed to acquire certain assets associated with STEP’s coiled tubing, fluid and nitrogen pumping, and related well services business in the United States (the “Acquisition”).",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1699039/000162828026065491/0001628280-26-065491-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1699039/000162828026065491/rng-20261008.htm",
+   "filed_at": "2026-10-09T06:32:27-04:00",
+   "filed_kst": "2026-10-09 19:32",
+   "price": 15.46,
+   "change": 0.52,
+   "price_history": [
+    {
+     "date": "2026-10-08",
+     "close": 15.46,
+     "change": 0.52
+    },
+    {
+     "date": "2026-10-07",
+     "close": 15.38,
+     "change": -1.73
+    },
+    {
+     "date": "2026-10-06",
+     "close": 15.65,
+     "change": -2.13
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Oil & Gas Field Services, NEC",
+   "state_of_incorporation": "TX",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-09T19:32:51+09:00"
+  },
   {
    "id": "0001193125-26-418408",
    "company": "GigCapital8 Corp.",
@@ -15565,59 +15619,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-01T21:15:35+09:00"
-  },
-  {
-   "id": "0001493152-26-045260",
-   "company": "Azitra, Inc.",
-   "ticker": "AZTR",
-   "cik": 1701478,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Food and Drug Administration (the “FDA”) has granted Fast Track designation to ATR04-484 for the treatment of EGFRi-associated rash, recognizing the high unmet medical need for the approximately 150,000 patients affected annually in the United States.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1701478/000149315226045260/0001493152-26-045260-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701478/000149315226045260/ex99-1.htm",
-   "filed_at": "2026-10-01T08:10:36-04:00",
-   "filed_kst": "2026-10-01 21:10",
-   "price": 0.14,
-   "change": -0.29,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 0.14,
-     "change": -0.29
-    },
-    {
-     "date": "2026-09-30",
-     "close": 0.14,
-     "change": 5.34
-    },
-    {
-     "date": "2026-09-29",
-     "close": 0.13,
-     "change": -22.94
-    }
-   ],
-   "market_cap": 8484524.0,
-   "shares_outstanding": 60603742.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BRANFORD, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T21:11:32+09:00"
   }
  ]
 }
