@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-10T04:59:32+09:00",
+ "updated_at": "2026-10-10T05:04:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115032",
+   "company": "Star Holdings",
+   "ticker": "STHO",
+   "cik": 1953366,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 64,
+   "summary": "\" Commitment Termination Date \" means the earliest of (a) the third (3 rd ) Business Day following the Effective Date (as defined in the Merger Agreement) without the funding of the Facility, (b) the termination of the Merger Agreement or the public announcement that iStar Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1953366/000110465926115032/0001104659-26-115032-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1953366/000110465926115032/tm2627336d1_ex10-1.htm",
+   "filed_at": "2026-10-09T16:01:25-04:00",
+   "filed_kst": "2026-10-10 05:01",
+   "price": 8.31,
+   "change": -1.89,
+   "price_history": [
+    {
+     "date": "2026-10-09",
+     "close": 8.31,
+     "change": -1.89
+    },
+    {
+     "date": "2026-10-08",
+     "close": 8.47,
+     "change": -2.31
+    },
+    {
+     "date": "2026-10-07",
+     "close": 8.67,
+     "change": -1.48
+    }
+   ],
+   "market_cap": 100395877.0,
+   "shares_outstanding": 12081333.0,
+   "industry": "Lessors of  Real Property, NEC",
+   "state_of_incorporation": "MD",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-10T05:02:24+09:00"
+  },
   {
    "id": "0001140361-26-039264",
    "company": "Bank7 Corp.",
@@ -15554,57 +15605,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-01T22:25:25+09:00"
-  },
-  {
-   "id": "0001213900-26-105492",
-   "company": "PolyPid Ltd.",
-   "ticker": "PYPD",
-   "cik": 1611842,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 84,
-   "summary": "EX-99.1 2 ea030731601ex99-1.htm PRESS RELEASE ISSUED BY POLYPID LTD. ON OCTOBER 1, 2026, TITLED \"EUROPEAN MEDICINES AGENCY VALIDATES POLYPID'S MARKETING AUTHORIZATION APPLICATION FOR D-PLEX100.\" Exhibit 99.1 European Medicines Agency Validates PolyPid’s Marketing Authorization Application for D-PLEX",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026105492/0001213900-26-105492-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026105492/ea030731601ex99-1.htm",
-   "filed_at": "2026-10-01T09:20:05-04:00",
-   "filed_kst": "2026-10-01 22:20",
-   "price": 5.27,
-   "change": -0.38,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 5.27,
-     "change": -0.38
-    },
-    {
-     "date": "2026-09-29",
-     "close": 5.29,
-     "change": -0.38
-    },
-    {
-     "date": "2026-09-28",
-     "close": 5.31,
-     "change": 1.72
-    }
-   ],
-   "market_cap": 95935091.0,
-   "shares_outstanding": 18204002.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "Israel",
-   "hq": "PETACH TIKVA, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-01T22:21:04+09:00"
   }
  ]
 }
