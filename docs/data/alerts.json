@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-10T05:04:29+09:00",
+ "updated_at": "2026-10-10T05:09:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-046512",
+   "company": "Diginex Ltd",
+   "ticker": "DGNX",
+   "cik": 2010499,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 form6-k.htm 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October 2026 Commission File Number: 001-42459 DIGINEX LIMITED (Exact n",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2010499/000149315226046512/0001493152-26-046512-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2010499/000149315226046512/form6-k.htm",
+   "filed_at": "2026-10-09T16:05:06-04:00",
+   "filed_kst": "2026-10-10 05:05",
+   "price": 1.27,
+   "change": 4.96,
+   "price_history": [
+    {
+     "date": "2026-10-09",
+     "close": 1.27,
+     "change": 4.96
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1.21,
+     "change": -11.03
+    },
+    {
+     "date": "2026-10-07",
+     "close": 1.36,
+     "change": 5.43
+    }
+   ],
+   "market_cap": 36995265.0,
+   "shares_outstanding": 29130130.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-10T05:05:58+09:00"
+  },
   {
    "id": "0001104659-26-115032",
    "company": "Star Holdings",
@@ -15554,57 +15604,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-01T23:34:14+09:00"
-  },
-  {
-   "id": "0001213900-26-105496",
-   "company": "Everbright Digital Holding Ltd.",
-   "ticker": "EDHL",
-   "cik": 2024876,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "This includes working as an agent, consultant, employee, officer, director, partner or independent contractor or being a shareholder, member, joint venturer or equity owner in any such Business Enterprise; PROVIDED, HOWEVER, that the foregoing shall not restrict Executive from holding up to 5% of th",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2024876/000121390026105496/0001213900-26-105496-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2024876/000121390026105496/ea030732301ex10-1.htm",
-   "filed_at": "2026-10-01T09:25:01-04:00",
-   "filed_kst": "2026-10-01 22:25",
-   "price": 5.0,
-   "change": -3.85,
-   "price_history": [
-    {
-     "date": "2026-09-30",
-     "close": 5.0,
-     "change": -3.85
-    },
-    {
-     "date": "2026-09-29",
-     "close": 5.2,
-     "change": 1.17
-    },
-    {
-     "date": "2026-09-28",
-     "close": 5.14,
-     "change": 2.8
-    }
-   ],
-   "market_cap": 133300000.0,
-   "shares_outstanding": 26660000.0,
-   "industry": "Services-Advertising",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG, K3",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-01T22:25:25+09:00"
   }
  ]
 }
