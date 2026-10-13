@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-13T20:14:43+09:00",
+ "updated_at": "2026-10-13T20:19:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-008900",
+   "company": "Wise Group plc",
+   "ticker": "WSE",
+   "cik": 2099039,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "7000 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008900/0001654954-26-008900-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008900/a6433y.htm",
+   "filed_at": "2026-10-13T07:17:44-04:00",
+   "filed_kst": "2026-10-13 20:17",
+   "price": 11.94,
+   "change": 0.59,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 11.94,
+     "change": 0.59
+    },
+    {
+     "date": "2026-10-09",
+     "close": 11.87,
+     "change": 1.63
+    },
+    {
+     "date": "2026-10-08",
+     "close": 11.68,
+     "change": -1.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Jersey",
+   "hq": "LONDON",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-13T20:18:31+09:00"
+  },
   {
    "id": "0001648416-26-000129",
    "company": "Ferrari N.V.",
@@ -15551,56 +15602,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-02T06:01:49+09:00"
-  },
-  {
-   "id": "0001829126-26-010685",
-   "company": "Nexalin Technology, Inc.",
-   "ticker": "NXL",
-   "cik": 1527352,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "No partnership or agency Except as expressly provided, nothing in this Agreement is intended to, or shall be deemed to, establish any partnership or joint venture between the parties, constitute either party the agent of the other, nor authorise a party to make or enter into any commitments for or o",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1527352/000182912626010685/0001829126-26-010685-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1527352/000182912626010685/nexalintec_ex99-1.htm",
-   "filed_at": "2026-10-01T17:00:14-04:00",
-   "filed_kst": "2026-10-02 06:00",
-   "price": 7.55,
-   "change": 76.4,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 7.55,
-     "change": 76.4
-    },
-    {
-     "date": "2026-09-30",
-     "close": 4.28,
-     "change": -1.61
-    },
-    {
-     "date": "2026-09-29",
-     "close": 4.35,
-     "change": 1.87
-    }
-   ],
-   "market_cap": 166374835.0,
-   "shares_outstanding": 22036402.0,
-   "industry": "Electromedical & Electrotherapeutic Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-02T06:00:45+09:00"
   }
  ]
 }
