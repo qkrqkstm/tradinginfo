@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-14T05:09:09+09:00",
+ "updated_at": "2026-10-14T05:14:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001776985-26-000067",
+   "company": "BioNTech SE",
+   "ticker": "BNTX",
+   "cik": 1776985,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "EX-99.1 2 a991261013_bntxbnt113xprim.htm EX-99.1 Document Exhibit 99.1 BioNTech Provides Update on Phase 2/3 Clinical Trial for mRNA Cancer Immunotherapy Candidate BNT113 in Metastatic HPV16-positive Head and Neck Cancer • AHEAD-MERIT Phase 2/3 clinical trial did not meet its first dual primary endp",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000067/0001776985-26-000067-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000067/a991261013_bntxbnt113xprim.htm",
+   "filed_at": "2026-10-13T16:08:57-04:00",
+   "filed_kst": "2026-10-14 05:08",
+   "price": 89.01,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 89.01,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-13",
+     "close": 89.01,
+     "change": -7.13
+    },
+    {
+     "date": "2026-10-12",
+     "close": 95.84,
+     "change": -1.16
+    }
+   ],
+   "market_cap": 22509228072.0,
+   "shares_outstanding": 252884261.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Germany",
+   "hq": "MAINZ, 2M",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T05:10:33+09:00"
+  },
   {
    "id": "0001104659-26-115488",
    "company": "Texas Ventures Acquisition III Corp",
@@ -15576,61 +15628,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-03T05:31:51+09:00"
-  },
-  {
-   "id": "0001493152-26-045531",
-   "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
-   "ticker": "NIMU",
-   "cik": 720762,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "3 TO AGREEMENT AND PLAN OF MERGER AND REORGANIZATION AMENDMENT NO.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226045531/0001493152-26-045531-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226045531/form8-k.htm",
-   "filed_at": "2026-10-02T16:30:32-04:00",
-   "filed_kst": "2026-10-03 05:30",
-   "price": 11.5,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 11.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 11.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 11.5,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 11875360.0,
-   "shares_outstanding": 1032640.0,
-   "industry": "Guided Missiles & Space Vehicles & Parts",
-   "state_of_incorporation": "FL",
-   "hq": "MIAMI BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-03T05:31:49+09:00"
   }
  ]
 }
