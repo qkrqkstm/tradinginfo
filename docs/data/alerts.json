@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-10-13T19:09:06+09:00",
+ "updated_at": "2026-10-13T19:14:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001828318-26-000058",
+   "company": "Enovix Corp",
+   "ticker": "ENVX",
+   "cik": 1828318,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "4 Amount as of October 4, 2026 and reflects stock repurchases by the Company pursuant to its previously announced Stock Repurchase Plan totaling $6.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000058/0001828318-26-000058-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000058/exhibit991-pressreleasepre.htm",
+   "filed_at": "2026-10-13T06:11:00-04:00",
+   "filed_kst": "2026-10-13 19:11",
+   "price": 2.59,
+   "change": 5.28,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 2.59,
+     "change": 5.28
+    },
+    {
+     "date": "2026-10-09",
+     "close": 2.46,
+     "change": -1.6
+    },
+    {
+     "date": "2026-10-08",
+     "close": 2.5,
+     "change": -1.96
+    }
+   ],
+   "market_cap": 568371706.0,
+   "shares_outstanding": 219448535.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": null,
+   "hq": "FREMONT, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-13T19:11:42+09:00"
+  },
+  {
+   "id": "0001650107-26-000123",
+   "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
+   "ticker": "CCEP",
+   "cik": 1650107,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "The repurchased ordinary shares will be cancelled.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000123/0001650107-26-000123-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000123/a20261013ccepform6-kweekly.htm",
+   "filed_at": "2026-10-13T06:10:04-04:00",
+   "filed_kst": "2026-10-13 19:10",
+   "price": 105.08,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 105.08,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-12",
+     "close": 105.08,
+     "change": 0.8
+    },
+    {
+     "date": "2026-10-09",
+     "close": 104.25,
+     "change": 0.59
+    }
+   ],
+   "market_cap": 47190014779.0,
+   "shares_outstanding": 449086551.0,
+   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "UXBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-13T19:11:10+09:00"
+  },
   {
    "id": "0001213900-26-108632",
    "company": "REGENTIS BIOMATERIALS LTD.",
@@ -15505,113 +15609,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-02T05:18:46+09:00"
-  },
-  {
-   "id": "0001808997-26-000052",
-   "company": "American Outdoor Brands, Inc.",
-   "ticker": "AOUT",
-   "cik": 1808997,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "On October 1, 2026, we announced that our Board of Directors has approved a program to repurchase up to $10.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1808997/000180899726000052/0001808997-26-000052-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1808997/000180899726000052/aout-20261001.htm",
-   "filed_at": "2026-10-01T16:17:19-04:00",
-   "filed_kst": "2026-10-02 05:17",
-   "price": 16.04,
-   "change": -0.99,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 16.04,
-     "change": -0.99
-    },
-    {
-     "date": "2026-09-30",
-     "close": 16.2,
-     "change": -4.14
-    },
-    {
-     "date": "2026-09-29",
-     "close": 16.9,
-     "change": -1.05
-    }
-   ],
-   "market_cap": 202444449.0,
-   "shares_outstanding": 12621225.0,
-   "industry": "Sporting & Athletic Goods, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "COLUMBIA, MO",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-02T05:18:13+09:00"
-  },
-  {
-   "id": "0001628280-26-064246",
-   "company": "UL Solutions Inc.",
-   "ticker": "ULS",
-   "cik": 1901440,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(the “Company”) issued a press release announcing that it has completed the acquisition of the electrical and electronics business of Eurofins Scientific SE.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1901440/000162828026064246/0001628280-26-064246-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1901440/000162828026064246/uls-20261001.htm",
-   "filed_at": "2026-10-01T16:11:55-04:00",
-   "filed_kst": "2026-10-02 05:11",
-   "price": 66.5,
-   "change": 1.34,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 66.5,
-     "change": 1.34
-    },
-    {
-     "date": "2026-09-30",
-     "close": 65.62,
-     "change": 1.08
-    },
-    {
-     "date": "2026-09-29",
-     "close": 64.92,
-     "change": 0.19
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Testing Laboratories",
-   "state_of_incorporation": "DE",
-   "hq": "NORTHBROOK, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-02T05:12:33+09:00"
   }
  ]
 }
