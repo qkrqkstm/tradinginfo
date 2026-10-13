@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-14T06:09:07+09:00",
+ "updated_at": "2026-10-14T06:14:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-109094",
+   "company": "Sizzle Acquisition Corp. II",
+   "ticker": "SZZL",
+   "cik": 2030663,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "The consummation of the de - SPAC transaction would be subject to a number of conditions, and if those conditions are not satisfied or waived, the associated business combination agreement would be terminated and the potential transaction might not be completed.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026109094/0001213900-26-109094-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026109094/ea030851801ex99-1.htm",
+   "filed_at": "2026-10-13T17:12:53-04:00",
+   "filed_kst": "2026-10-14 06:12",
+   "price": 10.51,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 10.51,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-12",
+     "close": 10.5,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-09",
+     "close": 10.5,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "WASHINGTON, DC",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T06:14:08+09:00"
+  },
   {
    "id": "0001104659-26-115553",
    "company": "Eagle Nuclear Energy Corp.",
@@ -15590,60 +15641,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-05T21:06:14+09:00"
-  },
-  {
-   "id": "0001104659-26-113506",
-   "company": "TELA Bio, Inc.",
-   "ticker": "TELA",
-   "cik": 1561921,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "1 TELA Bio Announces 510(k) Clearance for Liora TM Monofilament Scaffold for Soft Tissue Reinforcement MALVERN, PA, October 5, 2026 -- TELA Bio, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1561921/000110465926113506/0001104659-26-113506-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1561921/000110465926113506/tm2627013d1_ex99-1.htm",
-   "filed_at": "2026-10-05T08:05:26-04:00",
-   "filed_kst": "2026-10-05 21:05",
-   "price": 1.14,
-   "change": -8.8,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 1.14,
-     "change": -8.8
-    },
-    {
-     "date": "2026-10-01",
-     "close": 1.25,
-     "change": 8.7
-    },
-    {
-     "date": "2026-09-30",
-     "close": 1.15,
-     "change": -7.26
-    }
-   ],
-   "market_cap": 51180023.0,
-   "shares_outstanding": 44894757.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "MALVERN, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-05T21:06:12+09:00"
   }
  ]
 }
