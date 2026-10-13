@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-13T19:24:36+09:00",
+ "updated_at": "2026-10-13T19:29:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001345099-26-000087",
+   "company": "MESOBLAST LTD",
+   "ticker": "MESO",
+   "cik": 1345099,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 67,
+   "summary": "This compares with total reported revenue in fiscal 2025 of US$17 million, which itself included only one calendar quarter of commercial sales activity following FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000087/0001345099-26-000087-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000087/exhibit991annualreportag.htm",
+   "filed_at": "2026-10-13T06:27:09-04:00",
+   "filed_kst": "2026-10-13 19:27",
+   "price": 14.27,
+   "change": -0.14,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 14.27,
+     "change": -0.14
+    },
+    {
+     "date": "2026-10-09",
+     "close": 14.29,
+     "change": 3.93
+    },
+    {
+     "date": "2026-10-08",
+     "close": 13.75,
+     "change": -1.36
+    }
+   ],
+   "market_cap": 18506231814.0,
+   "shares_outstanding": 1296862776.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Australia",
+   "hq": "MELBOURNE, VICTORIA, C3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-13T19:29:02+09:00"
+  },
   {
    "id": "0001493152-26-046691",
    "company": "Pulmatrix, Inc.",
@@ -15550,59 +15601,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-02T05:31:16+09:00"
-  },
-  {
-   "id": "0000850141-26-000036",
-   "company": "HORACE MANN EDUCATORS CORP /DE/",
-   "ticker": "HMN",
-   "cik": 850141,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "01: Other Events Horace Mann Educators Corporation (the “Company”) issued a news release announcing on October 1, 2026, that it completed the acquisition of all of the equity interests in Employee Services LLC (“ESI”) in an all-cash transaction for $115 million, subject to customary purchase price a",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/850141/000085014126000036/0000850141-26-000036-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/850141/000085014126000036/hmn-20261001.htm",
-   "filed_at": "2026-10-01T16:20:27-04:00",
-   "filed_kst": "2026-10-02 05:20",
-   "price": 44.94,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 44.94,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 44.94,
-     "change": 0.76
-    },
-    {
-     "date": "2026-09-30",
-     "close": 44.6,
-     "change": -2.0
-    }
-   ],
-   "market_cap": 1820117367.0,
-   "shares_outstanding": 40501054.0,
-   "industry": "Fire, Marine & Casualty Insurance",
-   "state_of_incorporation": "DE",
-   "hq": "SPRINGFIELD, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-02T05:21:00+09:00"
   }
  ]
 }
