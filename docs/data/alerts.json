@@ -1,7 +1,273 @@
 {
- "updated_at": "2026-10-14T05:14:12+09:00",
+ "updated_at": "2026-10-14T05:19:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000008947-26-000188",
+   "company": "AZZ INC",
+   "ticker": "AZZ",
+   "cik": 8947,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 75,
+   "summary": "1% ◦ Completed the acquisition of Seattle Galvanizing in Arlington, Washington ◦ Repurchased 136,303 shares of common stock, or $20.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8947/000000894726000188/0000008947-26-000188-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/8947/000000894726000188/exhibit991q2fy27earningsre.htm",
+   "filed_at": "2026-10-13T16:16:38-04:00",
+   "filed_kst": "2026-10-14 05:16",
+   "price": 137.16,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 137.16,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-13",
+     "close": 137.16,
+     "change": -0.44
+    },
+    {
+     "date": "2026-10-12",
+     "close": 137.76,
+     "change": 0.66
+    }
+   ],
+   "market_cap": 4104208368.0,
+   "shares_outstanding": 29922779.0,
+   "industry": "Coating, Engraving & Allied Services",
+   "state_of_incorporation": "TX",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T05:17:18+09:00"
+  },
+  {
+   "id": "0001628280-26-065693",
+   "company": "Better Home & Finance Holding Co",
+   "ticker": "BETR",
+   "cik": 1835856,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "We believe these savings will further fuel our aggressive stock buyback program, which we expect to be in the market buying stock this week as the stock remains fundamentally undervalued compared to both Better’s fintech and AI peerset.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026065693/0001628280-26-065693-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026065693/betr-20261013.htm",
+   "filed_at": "2026-10-13T16:15:42-04:00",
+   "filed_kst": "2026-10-14 05:15",
+   "price": 8.97,
+   "change": -2.5,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 8.97,
+     "change": -2.5
+    },
+    {
+     "date": "2026-10-12",
+     "close": 9.2,
+     "change": -6.69
+    },
+    {
+     "date": "2026-10-09",
+     "close": 9.86,
+     "change": -2.86
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Loan Brokers",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T05:16:45+09:00"
+  },
+  {
+   "id": "0001104659-26-115508",
+   "company": "McEwen Inc.",
+   "ticker": "MUX",
+   "cik": 314203,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 61,
+   "summary": "EX-99.1 2 tm2627520d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 McEwen Signs US$55 Million Agreement to Sell Fuller and Paymaster Divests US$13.5M McEwen Copper Debt to Further Enhance Liquidity TORONTO, ONTARIO, October 9, 2026 – McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) announces that it ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/314203/000110465926115508/0001104659-26-115508-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/314203/000110465926115508/tm2627520d1_ex99-1.htm",
+   "filed_at": "2026-10-13T16:15:22-04:00",
+   "filed_kst": "2026-10-14 05:15",
+   "price": 16.88,
+   "change": -3.6,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 16.88,
+     "change": -3.6
+    },
+    {
+     "date": "2026-10-12",
+     "close": 17.51,
+     "change": -2.07
+    },
+    {
+     "date": "2026-10-09",
+     "close": 17.88,
+     "change": 3.23
+    }
+   ],
+   "market_cap": 1035732594.0,
+   "shares_outstanding": 61358566.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "CO",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-14T05:16:09+09:00"
+  },
+  {
+   "id": "0000919574-26-006892",
+   "company": "TORM plc",
+   "ticker": "TRMD",
+   "cik": 1655891,
+   "form": "6-K",
+   "items": [],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향"
+   ],
+   "confidence": 58,
+   "summary": "EX-99.1 2 p15111556ex_99-1.htm Exhibit 99.1 COMPANY ANNOUNCEMENT INSIDE INFORMATION TORM plc Upgrades Full-Year Guidance TORM plc (Nasdaq: TRMD or TRMD A) today announces that, based on the Company's current coverage and expectations for continued market strength during the remainder of the fourth q",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1655891/000091957426006892/0000919574-26-006892-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1655891/000091957426006892/p15111556ex_99-1.htm",
+   "filed_at": "2026-10-13T16:14:01-04:00",
+   "filed_kst": "2026-10-14 05:14",
+   "price": 41.11,
+   "change": 0.46,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 41.11,
+     "change": 0.46
+    },
+    {
+     "date": "2026-10-12",
+     "close": 40.92,
+     "change": 2.45
+    },
+    {
+     "date": "2026-10-09",
+     "close": 39.94,
+     "change": -0.3
+    }
+   ],
+   "market_cap": 4165787585.0,
+   "shares_outstanding": 101332707.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T05:15:34+09:00"
+  },
+  {
+   "id": "0001437749-26-032565",
+   "company": "Flyte Aviation, Inc.",
+   "ticker": "VJET",
+   "cik": 1716621,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Flyte plans to continue investing in technology, digital marketing, customer acquisition, strategic partnerships and geographic expansion as it works to increase activity across the Flyte network.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1716621/000143774926032565/0001437749-26-032565-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1716621/000143774926032565/vjet20261013_8k.htm",
+   "filed_at": "2026-10-13T16:14:38-04:00",
+   "filed_kst": "2026-10-14 05:14",
+   "price": 1.06,
+   "change": 6.0,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 1.06,
+     "change": 6.0
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1.0,
+     "change": -12.28
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1.14,
+     "change": 12.87
+    }
+   ],
+   "market_cap": 15255461.0,
+   "shares_outstanding": 14391944.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "FORT MILL, SC",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-14T05:15:30+09:00"
+  },
   {
    "id": "0001776985-26-000067",
    "company": "BioNTech SE",
@@ -15387,247 +15653,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-05T19:01:52+09:00"
-  },
-  {
-   "id": "0001213900-26-106547",
-   "company": "SEALSQ Corp",
-   "ticker": "LAES",
-   "cik": 1951222,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "” The business combination was completed under the Business Combination Agreement dated as of November 9, 2025 (as amended, the “BCA”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1951222/000121390026106547/0001213900-26-106547-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1951222/000121390026106547/ea0307605-6k_sealsq.htm",
-   "filed_at": "2026-10-02T17:22:26-04:00",
-   "filed_kst": "2026-10-03 06:22",
-   "price": 2.37,
-   "change": 0.42,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 2.37,
-     "change": 0.42
-    },
-    {
-     "date": "2026-10-01",
-     "close": 2.36,
-     "change": 0.85
-    },
-    {
-     "date": "2026-09-30",
-     "close": 2.34,
-     "change": 0.86
-    }
-   ],
-   "market_cap": 453914556.0,
-   "shares_outstanding": 191525129.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "COINTRIN, V8",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-03T06:23:09+09:00"
-  },
-  {
-   "id": "0001213900-26-106484",
-   "company": "Wisekey International Holding S.A.",
-   "ticker": "WKEY",
-   "cik": 1738699,
-   "form": "8-K12B",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A"
-   ],
-   "confidence": 73,
-   "summary": "EX-2.1 2 ea030748001ex2-1.htm MERGER AGREEMENT, DATED AS OF JUNE 26, 2026, BY AND BETWEEN WISEKEY INTERNATIONAL HOLDING LTD AND WISEKEY INTERNATIONAL CORP Exhibit 2.1 Merger Agreement / Fusionsvertrag vom Juni 26, 2026 / dated as of June 26, 2026 zwischen / by and between WISeKey International Holdi",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1738699/000121390026106484/0001213900-26-106484-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1738699/000121390026106484/ea030748001ex2-1.htm",
-   "filed_at": "2026-10-02T17:05:18-04:00",
-   "filed_kst": "2026-10-03 06:05",
-   "price": 6.09,
-   "change": 7.22,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 6.09,
-     "change": 7.22
-    },
-    {
-     "date": "2026-10-01",
-     "close": 5.68,
-     "change": -3.07
-    },
-    {
-     "date": "2026-09-30",
-     "close": 5.86,
-     "change": -3.46
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Switzerland",
-   "hq": "GENEVA 15, V8",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-03T06:05:56+09:00"
-  },
-  {
-   "id": "0001213900-26-106458",
-   "company": "WISeKey International Corp.",
-   "ticker": "WQEY",
-   "cik": 2107968,
-   "form": "8-K12B",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A"
-   ],
-   "confidence": 73,
-   "summary": "EX-2.1 2 ea030748001ex2-1.htm MERGER AGREEMENT, DATED AS OF JUNE 26, 2026, BY AND BETWEEN WISEKEY INTERNATIONAL HOLDING LTD AND WISEKEY INTERNATIONAL CORP Exhibit 2.1 Merger Agreement / Fusionsvertrag vom Juni 26, 2026 / dated as of June 26, 2026 zwischen / by and between WISeKey International Holdi",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2107968/000121390026106458/0001213900-26-106458-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2107968/000121390026106458/ea030748001ex2-1.htm",
-   "filed_at": "2026-10-02T16:48:43-04:00",
-   "filed_kst": "2026-10-03 05:48",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "TORTOLA",
-   "entity_category": null,
-   "detected_at": "2026-10-03T05:50:30+09:00"
-  },
-  {
-   "id": "0001477932-26-006022",
-   "company": "Piermont Valley Acquisition Corp",
-   "ticker": "CMCAF",
-   "cik": 1865248,
-   "form": "425",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A"
-   ],
-   "confidence": 76,
-   "summary": "EX-4.1 2 cmca_ex41.htm FORM OF CERTIFICATE OF DESIGNATIONS cmca_ex41.htm EXHIBIT 4.1 CERTIFICATE OF DESIGNATIONS OF SERIES A CONVERTIBLE PREFERRED STOCK OF TIGERLESS AI HOLDINGS INC. I, Zikang Wu, hereby certify that I am the Chief Executive Officer of Tigerless AI Holdings Inc. (the “Company”), a c",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1865248/000147793226006022/0001477932-26-006022-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1865248/000147793226006022/cmca_ex41.htm",
-   "filed_at": "2026-10-02T16:31:04-04:00",
-   "filed_kst": "2026-10-03 05:31",
-   "price": 13.0,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 13.0,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 13.0,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 13.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 77407837.0,
-   "shares_outstanding": 5954449.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "LAS VEGAS, NV",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-03T05:32:32+09:00"
-  },
-  {
-   "id": "0001477932-26-006019",
-   "company": "Piermont Valley Acquisition Corp",
-   "ticker": "CMCAF",
-   "cik": 1865248,
-   "form": "8-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A"
-   ],
-   "confidence": 76,
-   "summary": "EX-4.1 2 cmca_ex41.htm FORM OF CERTIFICATE OF DESIGNATIONS cmca_ex41.htm EXHIBIT 4.1 CERTIFICATE OF DESIGNATIONS OF SERIES A CONVERTIBLE PREFERRED STOCK OF TIGERLESS AI HOLDINGS INC. I, Zikang Wu, hereby certify that I am the Chief Executive Officer of Tigerless AI Holdings Inc. (the “Company”), a c",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1865248/000147793226006019/0001477932-26-006019-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1865248/000147793226006019/cmca_ex41.htm",
-   "filed_at": "2026-10-02T16:30:31-04:00",
-   "filed_kst": "2026-10-03 05:30",
-   "price": 13.0,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 13.0,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 13.0,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-29",
-     "close": 13.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 77407837.0,
-   "shares_outstanding": 5954449.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "LAS VEGAS, NV",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-03T05:31:51+09:00"
   }
  ]
 }
