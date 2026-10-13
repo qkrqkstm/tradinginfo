@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-13T19:59:28+09:00",
+ "updated_at": "2026-10-13T20:04:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006589",
+   "company": "Wise Group plc",
+   "ticker": "WSE",
+   "cik": 2099039,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "In fiscal year 2026, Wise supported around 19 million people and businesses, processing over $240 billion in cross-border transactions and saving customers over $3 billion.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000117184326006589/0001171843-26-006589-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000117184326006589/f6k_101326.htm",
+   "filed_at": "2026-10-13T07:00:05-04:00",
+   "filed_kst": "2026-10-13 20:00",
+   "price": 11.94,
+   "change": 0.59,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 11.94,
+     "change": 0.59
+    },
+    {
+     "date": "2026-10-09",
+     "close": 11.87,
+     "change": 1.63
+    },
+    {
+     "date": "2026-10-08",
+     "close": 11.68,
+     "change": -1.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Jersey",
+   "hq": "LONDON",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-13T20:00:57+09:00"
+  },
   {
    "id": "0001062993-26-005280",
    "company": "Americas Gold & Silver Corp",
@@ -15550,58 +15600,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-02T05:51:00+09:00"
-  },
-  {
-   "id": "0001193125-26-410776",
-   "company": "Gentherm Inc",
-   "ticker": "THRM",
-   "cik": 903129,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 77,
-   "summary": "07 per share to be paid on October 7, 2026 to Gentherm shareholders as of September 28, 2026, the record date for the special dividend, in accordance with the Merger Agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526410776/0001193125-26-410776-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526410776/d214921dex993.htm",
-   "filed_at": "2026-10-01T16:47:12-04:00",
-   "filed_kst": "2026-10-02 05:47",
-   "price": 33.63,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 33.63,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 33.63,
-     "change": 0.99
-    },
-    {
-     "date": "2026-09-30",
-     "close": 33.3,
-     "change": -1.83
-    }
-   ],
-   "market_cap": 1032616145.0,
-   "shares_outstanding": 30705208.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "MI",
-   "hq": "NOVI, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-02T05:48:02+09:00"
   }
  ]
 }
