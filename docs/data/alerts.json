@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-14T05:19:23+09:00",
+ "updated_at": "2026-10-14T05:24:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-420470",
+   "company": "UNIVERSAL CORP /VA/",
+   "ticker": "UVV",
+   "cik": 102037,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "EX-10.1 2 d85320dex101.htm EX-10.1 EX-10.1 Exhibit 10.1 EXECUTION COPY AMENDMENT NO. 1 Dated as of October 9, 2026 to CREDIT AGREEMENT Dated as of December 9, 2025 THIS AMENDMENT NO. 1 (this “ Amendment ”) is made as of October 9, 2026 by and among UNIVERSAL CORPORATION, a Virginia corporation (the ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/102037/000119312526420470/0001193125-26-420470-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/102037/000119312526420470/d85320dex101.htm",
+   "filed_at": "2026-10-13T16:23:22-04:00",
+   "filed_kst": "2026-10-14 05:23",
+   "price": 41.52,
+   "change": -0.93,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 41.52,
+     "change": -0.93
+    },
+    {
+     "date": "2026-10-12",
+     "close": 41.91,
+     "change": -0.21
+    },
+    {
+     "date": "2026-10-09",
+     "close": 42.0,
+     "change": -2.73
+    }
+   ],
+   "market_cap": 1033817151.0,
+   "shares_outstanding": 24899257.0,
+   "industry": "Wholesale-Farm Product Raw Materials",
+   "state_of_incorporation": "VA",
+   "hq": "RICHMOND, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T05:23:51+09:00"
+  },
   {
    "id": "0000008947-26-000188",
    "company": "AZZ INC",
@@ -15599,60 +15649,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-05T19:01:53+09:00"
-  },
-  {
-   "id": "0001213900-26-106574",
-   "company": "Jasper Therapeutics, Inc.",
-   "ticker": "JSPR",
-   "cik": 1788028,
-   "form": "8-K/A",
-   "items": [
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "M&A",
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 89,
-   "summary": "0 million if the United States Food and Drug Administration issues a Priority Review Voucher (as defined in the CVR Agreement) in connection with briquilimab on or prior to December 31, 2028.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1788028/000121390026106574/0001213900-26-106574-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1788028/000121390026106574/ea030760201ex99-3.htm",
-   "filed_at": "2026-10-02T18:54:35-04:00",
-   "filed_kst": "2026-10-03 07:54",
-   "price": 0.56,
-   "change": -5.52,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 0.56,
-     "change": -5.52
-    },
-    {
-     "date": "2026-10-01",
-     "close": 0.6,
-     "change": 3.1
-    },
-    {
-     "date": "2026-09-30",
-     "close": 0.58,
-     "change": -7.2
-    }
-   ],
-   "market_cap": 18633754.0,
-   "shares_outstanding": 33274561.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "REDWOOD CITY, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-05T19:01:52+09:00"
   }
  ]
 }
