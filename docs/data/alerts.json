@@ -1,7 +1,164 @@
 {
- "updated_at": "2026-10-14T06:14:40+09:00",
+ "updated_at": "2026-10-14T06:19:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115567",
+   "company": "AgomAb Therapeutics NV",
+   "ticker": "AGMB",
+   "cik": 2020932,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "FDA Fast Track Designation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2020932/000110465926115567/0001104659-26-115567-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2020932/000110465926115567/tm2627540d1_ex99-1.htm",
+   "filed_at": "2026-10-13T17:18:42-04:00",
+   "filed_kst": "2026-10-14 06:18",
+   "price": 8.81,
+   "change": -3.08,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 8.81,
+     "change": -3.08
+    },
+    {
+     "date": "2026-10-12",
+     "close": 9.09,
+     "change": 0.11
+    },
+    {
+     "date": "2026-10-09",
+     "close": 9.08,
+     "change": -1.52
+    }
+   ],
+   "market_cap": 301012750.0,
+   "shares_outstanding": 34167168.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Belgium",
+   "hq": "ANTWERPEN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T06:19:19+09:00"
+  },
+  {
+   "id": "0000076605-26-000093",
+   "company": "PATRICK INDUSTRIES INC",
+   "ticker": "PATK",
+   "cik": 76605,
+   "form": "425",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "425 1 patk1013268-k425filing.htm 425 Document Filed by Patrick Industries, Inc. Pursuant to Rule 425 under the Securities Act of 1933, as amended and deemed filed pursuant to Rule 14a-12 under the Securities Exchange Act of 1934 Subject Company: Patrick Industries, Inc. Commission File No.: 000-0392",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000093/0000076605-26-000093-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000093/patk1013268-k425filing.htm",
+   "filed_at": "2026-10-13T17:17:35-04:00",
+   "filed_kst": "2026-10-14 06:17",
+   "price": 64.34,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 64.34,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-13",
+     "close": 64.34,
+     "change": 0.22
+    },
+    {
+     "date": "2026-10-12",
+     "close": 64.2,
+     "change": 1.17
+    }
+   ],
+   "market_cap": 2066489106.0,
+   "shares_outstanding": 32118264.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "IN",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T06:18:16+09:00"
+  },
+  {
+   "id": "0000076605-26-000092",
+   "company": "PATRICK INDUSTRIES INC",
+   "ticker": "PATK",
+   "cik": 76605,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "patk-20261009 0000076605 false 0000076605 2026-10-13 2026-10-13 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant To Section 13 OR 15(d) Of The Securities Exchange Act Of 1934 Date of report (Date of earliest event reported) October 9, 2026 PATR",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000092/0000076605-26-000092-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000092/patk-20261009.htm",
+   "filed_at": "2026-10-13T17:17:00-04:00",
+   "filed_kst": "2026-10-14 06:17",
+   "price": 64.34,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 64.34,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-13",
+     "close": 64.34,
+     "change": 0.22
+    },
+    {
+     "date": "2026-10-12",
+     "close": 64.2,
+     "change": 1.17
+    }
+   ],
+   "market_cap": 2066489106.0,
+   "shares_outstanding": 32118264.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "IN",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T06:17:43+09:00"
+  },
   {
    "id": "0001213900-26-109094",
    "company": "Sizzle Acquisition Corp. II",
@@ -15484,163 +15641,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-05T21:31:16+09:00"
-  },
-  {
-   "id": "0001193125-26-413218",
-   "company": "Coya Therapeutics, Inc.",
-   "ticker": "COYA",
-   "cik": 1835022,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "Topline data from the double-blind treatment phase are anticipated in early Q2 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526413218/0001193125-26-413218-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526413218/d95167d8k.htm",
-   "filed_at": "2026-10-05T08:30:07-04:00",
-   "filed_kst": "2026-10-05 21:30",
-   "price": 4.81,
-   "change": 1.69,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 4.81,
-     "change": 1.69
-    },
-    {
-     "date": "2026-10-01",
-     "close": 4.73,
-     "change": -5.59
-    },
-    {
-     "date": "2026-09-30",
-     "close": 5.01,
-     "change": -0.4
-    }
-   ],
-   "market_cap": 112832254.0,
-   "shares_outstanding": 23457849.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-05T21:30:42+09:00"
-  },
-  {
-   "id": "0001193125-26-413177",
-   "company": "Benitec Biopharma Inc.",
-   "ticker": "BNTC",
-   "cik": 1808898,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "BB-301 has received Orphan Drug Designation from the EMA and Orphan Drug and Fast Track Designations from the FDA and is currently being evaluated in a Phase 1b/2a, first-in-human, open-label dose escalation study to evaluate the safety and clinical activity of intramuscular dose",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526413177/0001193125-26-413177-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526413177/bntc-ex99_1.htm",
-   "filed_at": "2026-10-05T08:08:08-04:00",
-   "filed_kst": "2026-10-05 21:08",
-   "price": 8.98,
-   "change": -6.26,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 8.98,
-     "change": -6.26
-    },
-    {
-     "date": "2026-10-01",
-     "close": 9.58,
-     "change": -4.2
-    },
-    {
-     "date": "2026-09-30",
-     "close": 10.0,
-     "change": 2.56
-    }
-   ],
-   "market_cap": 313246879.0,
-   "shares_outstanding": 34882726.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "HAYWARD, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-05T21:08:49+09:00"
-  },
-  {
-   "id": "0001171843-26-006385",
-   "company": "EuroDry Ltd.",
-   "ticker": "EDRY",
-   "cik": 1731388,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 59,
-   "summary": "edry20260610_6k.htm Q2 2026 --12-31 false 0001731388 http://fasb.org/us-gaap/2026#SecuredOvernightFinancingRateSofrMember 1 1 1 7 0001731388 2026-01-01 2026-06-30 iso4217:USD 0001731388 srt:ScenarioForecastMember edry:AtTheMarketATMMember 2026-09-11 2026-09-30 xbrli:shares 0001731388 srt:ScenarioFor",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1731388/000117184326006385/0001171843-26-006385-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1731388/000117184326006385/edry20260610_6k.htm",
-   "filed_at": "2026-10-05T08:05:29-04:00",
-   "filed_kst": "2026-10-05 21:05",
-   "price": 55.88,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 55.88,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-02",
-     "close": 55.88,
-     "change": 0.27
-    },
-    {
-     "date": "2026-10-01",
-     "close": 55.73,
-     "change": 8.15
-    }
-   ],
-   "market_cap": 161523766.0,
-   "shares_outstanding": 2890547.0,
-   "industry": "Water Transportation",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "MAROUSSI, J3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-05T21:06:14+09:00"
   }
  ]
 }
