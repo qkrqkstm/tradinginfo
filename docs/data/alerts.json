@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-14T05:44:10+09:00",
+ "updated_at": "2026-10-14T05:49:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000895345-26-000460",
+   "company": "GRUPO TELEVISA, S.A.B.",
+   "ticker": "TV",
+   "cik": 912892,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company anticipates accounting for this acquisition as an investment in a joint venture by using the equity method, based on applicable IFRS Accounting Standards.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000460/0000895345-26-000460-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000460/ff6932490_6k-grupo.htm",
+   "filed_at": "2026-10-13T16:44:17-04:00",
+   "filed_kst": "2026-10-14 05:44",
+   "price": 2.21,
+   "change": -0.9,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 2.21,
+     "change": -0.9
+    },
+    {
+     "date": "2026-10-12",
+     "close": 2.23,
+     "change": 0.9
+    },
+    {
+     "date": "2026-10-09",
+     "close": 2.21,
+     "change": -1.34
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": null,
+   "hq": "MEXICO, D.F.",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T05:45:37+09:00"
+  },
   {
    "id": "0001104659-26-115533",
    "company": "Quantum eMotion Corp",
@@ -15598,56 +15648,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-05T20:05:55+09:00"
-  },
-  {
-   "id": "0001178913-26-004703",
-   "company": "GILAT SATELLITE NETWORKS LTD",
-   "ticker": "GILT",
-   "cik": 897322,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Yes ☐ No ☒ If “Yes” is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b): N/A Attached hereto is Registrant’s press release dated October 5, 2026, announcing that Gilat Awarded $28 Million Contract to Expand Connectivity in Peru.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/897322/000117891326004703/0001178913-26-004703-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/897322/000117891326004703/zk2636193.htm",
-   "filed_at": "2026-10-05T07:00:32-04:00",
-   "filed_kst": "2026-10-05 20:00",
-   "price": 10.03,
-   "change": 1.93,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 10.03,
-     "change": 1.93
-    },
-    {
-     "date": "2026-10-01",
-     "close": 9.84,
-     "change": -0.3
-    },
-    {
-     "date": "2026-09-30",
-     "close": 9.87,
-     "change": -0.7
-    }
-   ],
-   "market_cap": 740528120.0,
-   "shares_outstanding": 73831318.0,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": null,
-   "hq": "MCLEAN, VA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-05T20:01:25+09:00"
   }
  ]
 }
