@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-13T21:04:35+09:00",
+ "updated_at": "2026-10-13T21:09:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001759425-26-000051",
+   "company": "Mirum Pharmaceuticals, Inc.",
+   "ticker": "MIRM",
+   "cik": 1759425,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 83,
+   "summary": "The study met its primary endpoint and achieved statistical significance across all five prespecified secondary endpoints, including the three endpoints in patients with BA and a native liver.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000051/0001759425-26-000051-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000051/mirm-20261012.htm",
+   "filed_at": "2026-10-13T08:09:04-04:00",
+   "filed_kst": "2026-10-13 21:09",
+   "price": 86.06,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 86.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-12",
+     "close": 86.06,
+     "change": 0.06
+    },
+    {
+     "date": "2026-10-09",
+     "close": 86.01,
+     "change": 5.73
+    }
+   ],
+   "market_cap": 5588065390.0,
+   "shares_outstanding": 64932203.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "FOSTER CITY, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-13T21:09:33+09:00"
+  },
   {
    "id": "0001213900-26-108742",
    "company": "Immuron Ltd",
@@ -15561,62 +15614,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-02T19:04:04+09:00"
-  },
-  {
-   "id": "0001193125-26-411011",
-   "company": "Cullinan Therapeutics, Inc.",
-   "ticker": "CGEM",
-   "cik": 1789972,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "Zipalertinib holds FDA Breakthrough Therapy designation for the treatment of patients with locally advanced or metastatic EGFR ex20ins NSCLC who have previously received platinum-based chemotherapy.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526411011/0001193125-26-411011-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526411011/cgem-ex99_1.htm",
-   "filed_at": "2026-10-01T19:35:44-04:00",
-   "filed_kst": "2026-10-02 08:35",
-   "price": 14.53,
-   "change": -5.34,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 14.53,
-     "change": -5.34
-    },
-    {
-     "date": "2026-09-30",
-     "close": 15.35,
-     "change": 0.79
-    },
-    {
-     "date": "2026-09-29",
-     "close": 15.23,
-     "change": 1.87
-    }
-   ],
-   "market_cap": 935073704.0,
-   "shares_outstanding": 64354694.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-02T19:03:28+09:00"
   }
  ]
 }
