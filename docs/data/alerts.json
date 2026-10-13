@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-13T20:49:41+09:00",
+ "updated_at": "2026-10-13T20:54:08+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-108730",
+   "company": "Scinai Immunotherapeutics Ltd.",
+   "ticker": "SCNI",
+   "cik": 1611747,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Scinai Expands CDMO Business with $5.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1611747/000121390026108730/0001213900-26-108730-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1611747/000121390026108730/ea030843801ex99-1.htm",
+   "filed_at": "2026-10-13T07:50:50-04:00",
+   "filed_kst": "2026-10-13 20:50",
+   "price": 1.16,
+   "change": -1.69,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 1.16,
+     "change": -1.69
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1.18,
+     "change": -2.48
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1.21,
+     "change": 7.08
+    }
+   ],
+   "market_cap": 16092563517.0,
+   "shares_outstanding": 13872899584.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Israel",
+   "hq": "JERUSALEM, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-13T20:51:32+09:00"
+  },
   {
    "id": "0001171843-26-006595",
    "company": "Electra Battery Materials Corp",
@@ -15557,57 +15607,6 @@
    "hq": "INDIANAPOLIS, IN",
    "entity_category": null,
    "detected_at": "2026-10-02T06:26:01+09:00"
-  },
-  {
-   "id": "0001755672-26-000028",
-   "company": "Corteva, Inc.",
-   "ticker": "CTVA",
-   "cik": 1755672,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 60,
-   "summary": "New Corteva is also involved with certain joint ventures accounted for under the equity method of accounting that are variable interest entities (“VIEs”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1755672/000175567226000028/0001755672-26-000028-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1755672/000175567226000028/newcorteva-fy23xfy25carvex.htm",
-   "filed_at": "2026-10-01T17:25:11-04:00",
-   "filed_kst": "2026-10-02 06:25",
-   "price": 12.57,
-   "change": -83.81,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 12.57,
-     "change": -83.81
-    },
-    {
-     "date": "2026-09-30",
-     "close": 77.65,
-     "change": -0.28
-    },
-    {
-     "date": "2026-09-29",
-     "close": 77.87,
-     "change": 0.17
-    }
-   ],
-   "market_cap": 8386653720.0,
-   "shares_outstanding": 667196000.0,
-   "industry": "Agricultural Production-Crops",
-   "state_of_incorporation": "DE",
-   "hq": "INDIANAPOLIS, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-02T06:25:59+09:00"
   }
  ]
 }
