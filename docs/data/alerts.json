@@ -1,7 +1,170 @@
 {
- "updated_at": "2026-10-13T21:09:33+09:00",
+ "updated_at": "2026-10-13T21:14:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001829126-26-011033",
+   "company": "Sunrise Realty Trust, Inc.",
+   "ticker": "SUNS",
+   "cik": 2012706,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "1 Sunrise Realty Trust Announces $20 Million Stock Repurchase Program WEST PALM BEACH, Fla.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012706/000182912626011033/0001829126-26-011033-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2012706/000182912626011033/sunriserealty_ex99-1.htm",
+   "filed_at": "2026-10-13T08:12:32-04:00",
+   "filed_kst": "2026-10-13 21:12",
+   "price": 5.79,
+   "change": -1.03,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 5.79,
+     "change": -1.03
+    },
+    {
+     "date": "2026-10-09",
+     "close": 5.85,
+     "change": -2.34
+    },
+    {
+     "date": "2026-10-08",
+     "close": 5.99,
+     "change": -1.48
+    }
+   ],
+   "market_cap": 78256777.0,
+   "shares_outstanding": 13515851.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "WEST PALM BEACH, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-13T21:13:11+09:00"
+  },
+  {
+   "id": "0000200406-26-000189",
+   "company": "JOHNSON & JOHNSON",
+   "ticker": "JNJ",
+   "cik": 200406,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 84,
+   "summary": "9% at the midpoint • Significant innovation including the market authorization of OTTAVA as the world’s first table-integrated soft tissue robotic system, approval of IMAAVY in warm autoimmune hemolytic anemia (wAIHA), and priority review for RYBREVANT FASPRO for advanced head and neck cancer New Br",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000189/0000200406-26-000189-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000189/a2026q3exhibit992.htm",
+   "filed_at": "2026-10-13T08:12:35-04:00",
+   "filed_kst": "2026-10-13 21:12",
+   "price": 263.73,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 263.73,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-12",
+     "close": 263.73,
+     "change": 0.88
+    },
+    {
+     "date": "2026-10-09",
+     "close": 261.44,
+     "change": 1.93
+    }
+   ],
+   "market_cap": 635562556987.0,
+   "shares_outstanding": 2409898597.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NJ",
+   "hq": "NEW BRUNSWICK, NJ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-13T21:13:10+09:00"
+  },
+  {
+   "id": "0001129928-26-000070",
+   "company": "ONCOLYTICS BIOTECH INC",
+   "ticker": "ONCY",
+   "cik": 1129928,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "The Company is advancing pelareorep in combination with chemotherapy and/or checkpoint inhibitors in metastatic gastrointestinal cancers, where pelareorep has received Fast Track designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000070/0001129928-26-000070-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000070/oncy-20261012.htm",
+   "filed_at": "2026-10-13T08:10:56-04:00",
+   "filed_kst": "2026-10-13 21:10",
+   "price": 0.47,
+   "change": 0.64,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 0.47,
+     "change": 0.64
+    },
+    {
+     "date": "2026-10-12",
+     "close": 0.47,
+     "change": -16.07
+    },
+    {
+     "date": "2026-10-09",
+     "close": 0.56,
+     "change": 3.7
+    }
+   ],
+   "market_cap": 59929937.0,
+   "shares_outstanding": 127510505.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-13T21:11:35+09:00"
+  },
   {
    "id": "0001759425-26-000051",
    "company": "Mirum Pharmaceuticals, Inc.",
@@ -15461,159 +15624,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-02T19:05:26+09:00"
-  },
-  {
-   "id": "0001833141-26-000087",
-   "company": "CYBIN INC.",
-   "ticker": "HELP",
-   "cik": 1833141,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000087/0001833141-26-000087-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000087/namechange-materialchanger.htm",
-   "filed_at": "2026-10-01T20:45:35-04:00",
-   "filed_kst": "2026-10-02 09:45",
-   "price": 11.91,
-   "change": -3.09,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 11.91,
-     "change": -3.09
-    },
-    {
-     "date": "2026-09-30",
-     "close": 12.29,
-     "change": -3.23
-    },
-    {
-     "date": "2026-09-29",
-     "close": 12.7,
-     "change": 0.87
-    }
-   ],
-   "market_cap": 257270387.0,
-   "shares_outstanding": 21601208.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-02T19:04:42+09:00"
-  },
-  {
-   "id": "0001193125-26-411024",
-   "company": "Armada Acquisition Corp. II",
-   "ticker": "XRPN",
-   "cik": 2044009,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "II, a Cayman Islands exempted company (“ SPAC ”), entered into a Business Combination Agreement, dated as of October 19, 2025 (the “ Business Combination Agreement ”), with Evernorth Holdings Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526411024/0001193125-26-411024-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526411024/d110692d425.htm",
-   "filed_at": "2026-10-01T20:04:11-04:00",
-   "filed_kst": "2026-10-02 09:04",
-   "price": 23.43,
-   "change": 42.87,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 23.43,
-     "change": 42.87
-    },
-    {
-     "date": "2026-09-30",
-     "close": 16.4,
-     "change": 27.13
-    },
-    {
-     "date": "2026-09-29",
-     "close": 12.9,
-     "change": 21.99
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "CARMANA BAY, GRAND CAYMAN, E9",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-02T19:04:08+09:00"
-  },
-  {
-   "id": "0001564708-26-000214",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000214/0001564708-26-000214-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000214/appendix3cclassa20261001.htm",
-   "filed_at": "2026-10-01T20:09:23-04:00",
-   "filed_kst": "2026-10-02 09:09",
-   "price": 31.45,
-   "change": -0.85,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 31.45,
-     "change": -0.85
-    },
-    {
-     "date": "2026-09-30",
-     "close": 31.72,
-     "change": 0.7
-    },
-    {
-     "date": "2026-09-29",
-     "close": 31.5,
-     "change": -2.3
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-02T19:04:04+09:00"
   }
  ]
 }
