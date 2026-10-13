@@ -1,7 +1,174 @@
 {
- "updated_at": "2026-10-13T21:34:43+09:00",
+ "updated_at": "2026-10-13T21:39:03+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-419769",
+   "company": "SAB Biotherapeutics, Inc.",
+   "ticker": "SABS",
+   "cik": 1833214,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "1 SAB BIO Receives FDA Fast Track Designation for SAB-142 in Stage 3 Type 1 Diabetes Fast Track designation recognizes the potential of SAB-142 to address an unmet medical need for people with Stage 3 type 1 diabetes MIAMI, Oct.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833214/000119312526419769/0001193125-26-419769-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833214/000119312526419769/sabs-ex99_1.htm",
+   "filed_at": "2026-10-13T08:36:10-04:00",
+   "filed_kst": "2026-10-13 21:36",
+   "price": 2.83,
+   "change": -5.03,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 2.83,
+     "change": -5.03
+    },
+    {
+     "date": "2026-10-09",
+     "close": 2.98,
+     "change": 3.11
+    },
+    {
+     "date": "2026-10-08",
+     "close": 2.89,
+     "change": 0.35
+    }
+   ],
+   "market_cap": 257491421.0,
+   "shares_outstanding": 90986368.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-13T21:36:59+09:00"
+  },
+  {
+   "id": "0001437749-26-032502",
+   "company": "CervoMed Inc.",
+   "ticker": "CRVO",
+   "cik": 1053691,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "Neflamapimod has received Fast Track Designation from U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1053691/000143774926032502/0001437749-26-032502-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1053691/000143774926032502/crvo20261012_8k.htm",
+   "filed_at": "2026-10-13T08:36:31-04:00",
+   "filed_kst": "2026-10-13 21:36",
+   "price": 2.51,
+   "change": -22.05,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 2.51,
+     "change": -22.05
+    },
+    {
+     "date": "2026-10-09",
+     "close": 3.22,
+     "change": -1.83
+    },
+    {
+     "date": "2026-10-08",
+     "close": 3.28,
+     "change": 3.14
+    }
+   ],
+   "market_cap": 37948931.0,
+   "shares_outstanding": 15119096.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-13T21:36:57+09:00"
+  },
+  {
+   "id": "0001104659-26-115300",
+   "company": "MetaVia Inc.",
+   "ticker": "MTVA",
+   "cik": 1638287,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "During her tenure, she led clinical development programs in obesity, metabolic and liver diseases, including the advancement of pemvidutide, a dual GLP-1/glucagon receptor agonist, from first-in-human studies through Phase 2 and a successful End-of-Phase 2 meeting with the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926115300/0001104659-26-115300-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926115300/mtva-ex99d1.htm",
+   "filed_at": "2026-10-13T08:35:19-04:00",
+   "filed_kst": "2026-10-13 21:35",
+   "price": 1.45,
+   "change": 2.84,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 1.45,
+     "change": 2.84
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1.41,
+     "change": 5.22
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1.34,
+     "change": -8.22
+    }
+   ],
+   "market_cap": 9552746.0,
+   "shares_outstanding": 6588101.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-13T21:35:55+09:00"
+  },
   {
    "id": "0001929980-26-000543",
    "company": "Horizon Space Acquisition I Corp.",
@@ -15472,161 +15639,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-02T19:59:25+09:00"
-  },
-  {
-   "id": "0001493152-26-045425",
-   "company": "Nova Minerals Corp",
-   "ticker": "NVA",
-   "cik": 1852551,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 Exhibit 99.1 Invitation to Nova’s Investor Update Webinar Anchorage, Alaska, October 2, 2026 - Nova Minerals Corp (“Nova Minerals” or the “Company”) (NYSE American: NVA | ASX: NVA) is pleased to invite shareholders, investors, and the broader market to attend an Investor",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226045425/0001493152-26-045425-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226045425/ex99-1.htm",
-   "filed_at": "2026-10-02T06:45:31-04:00",
-   "filed_kst": "2026-10-02 19:45",
-   "price": 5.45,
-   "change": 0.55,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 5.45,
-     "change": 0.55
-    },
-    {
-     "date": "2026-09-30",
-     "close": 5.42,
-     "change": 0.37
-    },
-    {
-     "date": "2026-09-29",
-     "close": 5.4,
-     "change": 1.12
-    }
-   ],
-   "market_cap": 208159306.0,
-   "shares_outstanding": 38194368.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "NV",
-   "hq": "CAULFIELD",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-02T19:46:31+09:00"
-  },
-  {
-   "id": "0001279569-26-000945",
-   "company": "BANK OF NOVA SCOTIA",
-   "ticker": "BNS",
-   "cik": 9631,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Purchases may also be made through other means permitted by the TSX and applicable securities laws, including by private agreements or under specific share repurchase programs pursuant to issuer bid exemption orders issued by applicable securities regulatory authorities.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/9631/000127956926000945/0001279569-26-000945-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/9631/000127956926000945/ex991.htm",
-   "filed_at": "2026-10-02T06:44:13-04:00",
-   "filed_kst": "2026-10-02 19:44",
-   "price": 90.67,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 90.67,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 90.67,
-     "change": -0.19
-    },
-    {
-     "date": "2026-09-30",
-     "close": 90.84,
-     "change": -1.76
-    }
-   ],
-   "market_cap": 112095841264.0,
-   "shares_outstanding": 1236305738.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "TORONTO, A6",
-   "entity_category": null,
-   "detected_at": "2026-10-02T19:45:28+09:00"
-  },
-  {
-   "id": "0001104659-26-112974",
-   "company": "Angel Studios, Inc.",
-   "ticker": "ANGX",
-   "cik": 1865200,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 82,
-   "summary": "1 SECOND AMENDED AND RESTATED AGREEMENT AND PLAN OF MERGER by and among ANGEL STUDIOS, INC.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1865200/000110465926112974/0001104659-26-112974-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1865200/000110465926112974/tm2626858d1_ex2-1.htm",
-   "filed_at": "2026-10-01T21:37:18-04:00",
-   "filed_kst": "2026-10-02 10:37",
-   "price": 4.23,
-   "change": -9.42,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 4.23,
-     "change": -9.42
-    },
-    {
-     "date": "2026-09-30",
-     "close": 4.67,
-     "change": 0.21
-    },
-    {
-     "date": "2026-09-29",
-     "close": 4.66,
-     "change": 1.97
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Motion Picture & Video Tape Production",
-   "state_of_incorporation": "DE",
-   "hq": "PROVO, UT",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-02T19:05:30+09:00"
   }
  ]
 }
