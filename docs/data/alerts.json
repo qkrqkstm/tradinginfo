@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-14T05:39:05+09:00",
+ "updated_at": "2026-10-14T05:44:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115533",
+   "company": "Quantum eMotion Corp",
+   "ticker": "QNC",
+   "cik": 2106613,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 tm2627479d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 QUANTUM EMOTION CORP. AND PLURILOCK SECURITY INC. ARRANGEMENT AGREEMENT September 28, 2026 TABLE OF CONTENTS Article 1 INTERPRETATION 1 Section 1.1 Defined Terms 1 Section 1.2 Certain Rules of Interpretation 20 Article 2 tHE aRRANGEMENT 21 S",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2106613/000110465926115533/0001104659-26-115533-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2106613/000110465926115533/tm2627479d1_ex99-1.htm",
+   "filed_at": "2026-10-13T16:39:07-04:00",
+   "filed_kst": "2026-10-14 05:39",
+   "price": 1.44,
+   "change": 2.13,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 1.44,
+     "change": 2.13
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1.41,
+     "change": -10.76
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1.58,
+     "change": 2.6
+    }
+   ],
+   "market_cap": 314767685.0,
+   "shares_outstanding": 218588670.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Quebec, Canada",
+   "hq": "MONTREAL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T05:40:31+09:00"
+  },
   {
    "id": "0000763744-26-000090",
    "company": "LCI INDUSTRIES",
@@ -15598,63 +15648,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-05T20:01:25+09:00"
-  },
-  {
-   "id": "0001193125-26-413090",
-   "company": "Alector, Inc.",
-   "ticker": "ALEC",
-   "cik": 1653087,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.02",
-    "7.01",
-    "8.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 70,
-   "summary": "1 Alector Enters Global License Agreement with Genentech for Brain Penetrant GCase Enzyme Replacement Therapy for Parkinson’s Disease and Other Neurodegenerative Diseases Alector grants Genentech exclusive rights to develop and commercialize AL050, an investigational GCase Enzyme R",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1653087/000119312526413090/0001193125-26-413090-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1653087/000119312526413090/alec-ex99_01.htm",
-   "filed_at": "2026-10-05T07:00:14-04:00",
-   "filed_kst": "2026-10-05 20:00",
-   "price": 1.81,
-   "change": -2.69,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 1.81,
-     "change": -2.69
-    },
-    {
-     "date": "2026-10-01",
-     "close": 1.86,
-     "change": 0.54
-    },
-    {
-     "date": "2026-09-30",
-     "close": 1.85,
-     "change": -1.07
-    }
-   ],
-   "market_cap": 202099023.0,
-   "shares_outstanding": 111656919.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": null,
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-05T20:00:50+09:00"
   }
  ]
 }
