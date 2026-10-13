@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-13T20:59:35+09:00",
+ "updated_at": "2026-10-13T21:04:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-108742",
+   "company": "Immuron Ltd",
+   "ticker": "IMRN",
+   "cik": 1660046,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "13), demonstrated that Travelan® was safe and well tolerated, with a statistically significant 50% reduction in ETEC challenge-related adverse events versus placebo (P=0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026108742/0001213900-26-108742-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026108742/ea030840601ex99-1.htm",
+   "filed_at": "2026-10-13T08:00:28-04:00",
+   "filed_kst": "2026-10-13 21:00",
+   "price": 1.04,
+   "change": -3.7,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 1.04,
+     "change": -3.7
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1.08,
+     "change": -2.7
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1.11,
+     "change": 1.83
+    }
+   ],
+   "market_cap": 335762004.0,
+   "shares_outstanding": 322848081.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "CARLTON, VICTORIA, C3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-13T21:01:27+09:00"
+  },
   {
    "id": "0001213900-26-108736",
    "company": "Iron Horse Acquisition II Corp.",
@@ -15567,56 +15617,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-02T19:03:28+09:00"
-  },
-  {
-   "id": "0001723464-26-000056",
-   "company": "BIOHARVEST SCIENCES INC.",
-   "ticker": "BHST",
-   "cik": 1723464,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "htm NEWS RELEASE DATED SEPTEMBER 29, 2026 News Release dated September 29, 2026 BioHarvest Sciences Announces Share Repurchase Program Vancouver British Columbia and Rehovot, Israel – September 29, 2026 - BioHarvest Sciences Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1723464/000172346426000056/0001723464-26-000056-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723464/000172346426000056/bhsc_ex991.htm",
-   "filed_at": "2026-10-01T18:10:26-04:00",
-   "filed_kst": "2026-10-02 07:10",
-   "price": 1.49,
-   "change": 0.68,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 1.49,
-     "change": 0.68
-    },
-    {
-     "date": "2026-09-30",
-     "close": 1.48,
-     "change": 0.68
-    },
-    {
-     "date": "2026-09-29",
-     "close": 1.47,
-     "change": 1.38
-    }
-   ],
-   "market_cap": 33773595.0,
-   "shares_outstanding": 22666842.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER, A1",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-02T19:02:20+09:00"
   }
  ]
 }
