@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-13T22:19:36+09:00",
+ "updated_at": "2026-10-13T22:24:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-046755",
+   "company": "bioAffinity Technologies, Inc.",
+   "ticker": "BIAF",
+   "cik": 1712762,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "These sputum-based tests are investigational, have not been validated, are not cleared or approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226046755/0001493152-26-046755-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226046755/ex99-1.htm",
+   "filed_at": "2026-10-13T09:23:00-04:00",
+   "filed_kst": "2026-10-13 22:23",
+   "price": 3.9,
+   "change": -17.46,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 3.9,
+     "change": -17.46
+    },
+    {
+     "date": "2026-10-09",
+     "close": 4.72,
+     "change": -16.22
+    },
+    {
+     "date": "2026-10-08",
+     "close": 5.64,
+     "change": -8.44
+    }
+   ],
+   "market_cap": 31596728.0,
+   "shares_outstanding": 8101725.0,
+   "industry": "Services-Commercial Physical & Biological Research",
+   "state_of_incorporation": "DE",
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-13T22:23:38+09:00"
+  },
   {
    "id": "0001213900-26-108781",
    "company": "Maase Inc.",
@@ -15582,57 +15635,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-03T05:07:12+09:00"
-  },
-  {
-   "id": "0001213900-26-106323",
-   "company": "Critical Metals Corp.",
-   "ticker": "CRML",
-   "cik": 1951089,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "4 TO AGREEMENT AND PLAN OF MERGER, DATED AS OF SEPTEMBER 28, 2026, BY AND BETWEEN CRITICAL METALS CORP.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026106323/0001213900-26-106323-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026106323/ea030754201ex99-1.htm",
-   "filed_at": "2026-10-02T15:10:45-04:00",
-   "filed_kst": "2026-10-03 04:10",
-   "price": 7.04,
-   "change": 0.01,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 7.04,
-     "change": 0.01
-    },
-    {
-     "date": "2026-10-02",
-     "close": 7.04,
-     "change": -2.24
-    },
-    {
-     "date": "2026-10-01",
-     "close": 7.2,
-     "change": -0.83
-    }
-   ],
-   "market_cap": 1034836021.0,
-   "shares_outstanding": 146993753.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "WEST LEEDERVILLE, C3",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-03T04:11:30+09:00"
   }
  ]
 }
