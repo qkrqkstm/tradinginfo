@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-14T06:19:19+09:00",
+ "updated_at": "2026-10-14T06:24:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-109105",
+   "company": "Sizzle Acquisition Corp. II",
+   "ticker": "SZZL",
+   "cik": 2030663,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "The consummation of the de - SPAC transaction would be subject to a number of conditions, and if those conditions are not satisfied or waived, the associated business combination agreement would be terminated and the potential transaction might not be completed.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026109105/0001213900-26-109105-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026109105/ea030851801ex99-1.htm",
+   "filed_at": "2026-10-13T17:20:28-04:00",
+   "filed_kst": "2026-10-14 06:20",
+   "price": 10.51,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 10.51,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-12",
+     "close": 10.5,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-09",
+     "close": 10.5,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "WASHINGTON, DC",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T06:22:03+09:00"
+  },
   {
    "id": "0001104659-26-115567",
    "company": "AgomAb Therapeutics NV",
@@ -15588,59 +15639,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-05T21:34:23+09:00"
-  },
-  {
-   "id": "0001213900-26-106661",
-   "company": "Evolution Metals & Technologies Corp.",
-   "ticker": "EMAT",
-   "cik": 1866226,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026106661/0001213900-26-106661-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026106661/ea030766701ex99-1.htm",
-   "filed_at": "2026-10-05T08:30:17-04:00",
-   "filed_kst": "2026-10-05 21:30",
-   "price": 2.04,
-   "change": -5.34,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 2.04,
-     "change": -5.34
-    },
-    {
-     "date": "2026-10-01",
-     "close": 2.15,
-     "change": -15.49
-    },
-    {
-     "date": "2026-09-30",
-     "close": 2.55,
-     "change": -12.37
-    }
-   ],
-   "market_cap": 1268473318.0,
-   "shares_outstanding": 621800646.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-05T21:31:16+09:00"
   }
  ]
 }
