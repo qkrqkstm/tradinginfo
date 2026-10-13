@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-14T04:49:15+09:00",
+ "updated_at": "2026-10-14T04:54:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001829126-26-011068",
+   "company": "Destra Multi-Alternative Fund",
+   "ticker": "DMA",
+   "cik": 1523289,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "1 FOR IMMEDIATE RELEASE Destra Multi-Alternative Fund Announces Share Repurchase Program, Increased Monthly Distributions and Provides Update on Term Structure Measurement Period The announcements reflect the Board of Trustees’ continued focus on seeking to enhance shareholder value, supporting the ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1523289/000182912626011068/0001829126-26-011068-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1523289/000182912626011068/destramultialter_ex99-1.htm",
+   "filed_at": "2026-10-13T15:51:11-04:00",
+   "filed_kst": "2026-10-14 04:51",
+   "price": 7.46,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 7.46,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-12",
+     "close": 7.46,
+     "change": -0.27
+    },
+    {
+     "date": "2026-10-09",
+     "close": 7.48,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": null,
+   "state_of_incorporation": "DE",
+   "hq": "BOZEMAN, MT",
+   "entity_category": null,
+   "detected_at": "2026-10-14T04:52:05+09:00"
+  },
   {
    "id": "0001628280-26-065618",
    "company": "ERICSSON LM TELEPHONE CO",
@@ -15582,60 +15633,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-03T05:19:25+09:00"
-  },
-  {
-   "id": "0001193125-26-412300",
-   "company": "BioAge Labs, Inc.",
-   "ticker": "BIOA",
-   "cik": 1709941,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "• Topline results expected in the second half of 2027; the results are expected to inform the development strategy in other NLRP3-driven retinal diseases, including geographic atrophy.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1709941/000119312526412300/0001193125-26-412300-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1709941/000119312526412300/bioa-20261002.htm",
-   "filed_at": "2026-10-02T16:15:14-04:00",
-   "filed_kst": "2026-10-03 05:15",
-   "price": 6.61,
-   "change": -2.94,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 6.61,
-     "change": -2.94
-    },
-    {
-     "date": "2026-10-01",
-     "close": 6.81,
-     "change": -3.95
-    },
-    {
-     "date": "2026-09-30",
-     "close": 7.09,
-     "change": -0.7
-    }
-   ],
-   "market_cap": 303378568.0,
-   "shares_outstanding": 45896909.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "EMERYVILLE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-03T05:16:03+09:00"
   }
  ]
 }
