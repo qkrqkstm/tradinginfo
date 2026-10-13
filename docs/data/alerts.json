@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-13T19:04:54+09:00",
+ "updated_at": "2026-10-13T19:09:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-108632",
+   "company": "REGENTIS BIOMATERIALS LTD.",
+   "ticker": "RGNT",
+   "cik": 1912966,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "EX-99.1 2 ea030832001ex99-1.htm PRESS RELEASE DATED OCTOBER 12, 2026 Exhibit 99.1 Regentis Biomaterials Reports Strong Surgeon Interest in GelrinC® at 8th ICRS Summit in Portugal Engagement with leading orthopedic surgeons and cartilage repair specialists highlights growing awareness of GelrinC’s of",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1912966/000121390026108632/0001213900-26-108632-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1912966/000121390026108632/ea030832001ex99-1.htm",
+   "filed_at": "2026-10-13T06:08:39-04:00",
+   "filed_kst": "2026-10-13 19:08",
+   "price": 1.63,
+   "change": 1.87,
+   "price_history": [
+    {
+     "date": "2026-10-12",
+     "close": 1.63,
+     "change": 1.87
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1.6,
+     "change": -5.88
+    },
+    {
+     "date": "2026-10-08",
+     "close": 1.7,
+     "change": 4.29
+    }
+   ],
+   "market_cap": 8442386.0,
+   "shares_outstanding": 5179378.0,
+   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+   "state_of_incorporation": "Israel",
+   "hq": "OR AKIVA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-13T19:09:04+09:00"
+  },
   {
    "id": "0001104659-26-115161",
    "company": "ArriVent BioPharma, Inc.",
@@ -15561,59 +15612,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-02T05:12:33+09:00"
-  },
-  {
-   "id": "0001701605-26-000029",
-   "company": "Baker Hughes Co",
-   "ticker": "BKR",
-   "cik": 1701605,
-   "form": "8-K/A",
-   "items": [
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 76,
-   "summary": "3 UNAUDITED PRO FORMA COMBINED FINANCIAL STATEMENTS On July 16, 2026, Baker Hughes completed its acquisition of Chart Industries (the “Merger” or “Acquisition”) in accordance with the Merger Agreement, dated as of July 28, 2025 (as it may be amended from time to time, the “Merger Agreement”), by and",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000029/0001701605-26-000029-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000029/bkr20260110exhibit993.htm",
-   "filed_at": "2026-10-01T16:11:05-04:00",
-   "filed_kst": "2026-10-02 05:11",
-   "price": 55.62,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-01",
-     "close": 55.62,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 55.62,
-     "change": 1.31
-    },
-    {
-     "date": "2026-09-30",
-     "close": 54.9,
-     "change": -1.82
-    }
-   ],
-   "market_cap": 55212531829.0,
-   "shares_outstanding": 992674071.0,
-   "industry": "Oil & Gas Field Machinery & Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-02T05:12:00+09:00"
   }
  ]
 }
