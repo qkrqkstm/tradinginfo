@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-15T06:24:41+09:00",
+ "updated_at": "2026-10-15T06:29:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-421830",
+   "company": "Fox Corp",
+   "ticker": "FOX",
+   "cik": 1754301,
+   "form": "8-K",
+   "items": [
+    "5.07"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "As previously disclosed, on June 14, 2026, Fox Corporation (“FOX” or the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Falcon Merger Sub 1, Inc.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526421830/0001193125-26-421830-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526421830/d128102d8k.htm",
+   "filed_at": "2026-10-14T17:26:48-04:00",
+   "filed_kst": "2026-10-15 06:26",
+   "price": 55.68,
+   "change": -0.45,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 55.68,
+     "change": -0.45
+    },
+    {
+     "date": "2026-10-13",
+     "close": 55.93,
+     "change": -0.09
+    },
+    {
+     "date": "2026-10-12",
+     "close": 55.98,
+     "change": 0.16
+    }
+   ],
+   "market_cap": 56.0,
+   "shares_outstanding": 1.0,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T06:27:40+09:00"
+  },
   {
    "id": "0001193125-26-421820",
    "company": "ImmunityBio, Inc.",
@@ -15594,60 +15646,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T21:31:22+09:00"
-  },
-  {
-   "id": "0001493152-26-045866",
-   "company": "Microbot Medical Inc.",
-   "ticker": "MBOT",
-   "cik": 883975,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Enter into Three-Year Exclusive Distribution Agreement in Israel Medtechnica Ltd.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/883975/000149315226045866/0001493152-26-045866-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/883975/000149315226045866/ex99-1.htm",
-   "filed_at": "2026-10-06T08:30:22-04:00",
-   "filed_kst": "2026-10-06 21:30",
-   "price": 1.07,
-   "change": -7.76,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 1.07,
-     "change": -7.76
-    },
-    {
-     "date": "2026-10-02",
-     "close": 1.16,
-     "change": -3.33
-    },
-    {
-     "date": "2026-10-01",
-     "close": 1.2,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 71866337.0,
-   "shares_outstanding": 67164801.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "HINGHAM, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-06T21:31:20+09:00"
   }
  ]
 }
