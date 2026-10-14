@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-15T06:09:10+09:00",
+ "updated_at": "2026-10-15T06:14:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115874",
+   "company": "Rezolute, Inc.",
+   "ticker": "RZLT",
+   "cik": 1509261,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 64,
+   "summary": "1 Rezolute Announces Completion of Enrollment in Phase 3 upLIFT Study of Ersodetug in Tumor Hyperinsulinism Topline results expected mid-December 2026 REDWOOD CITY, Calif.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926115874/0001104659-26-115874-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926115874/tm2627620d1_ex99-1.htm",
+   "filed_at": "2026-10-14T17:11:48-04:00",
+   "filed_kst": "2026-10-15 06:11",
+   "price": 4.23,
+   "change": -8.24,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 4.23,
+     "change": -8.24
+    },
+    {
+     "date": "2026-10-13",
+     "close": 4.61,
+     "change": -5.34
+    },
+    {
+     "date": "2026-10-12",
+     "close": 4.87,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 409135469.0,
+   "shares_outstanding": 96722333.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "REDWOOD CITY, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-15T06:12:05+09:00"
+  },
   {
    "id": "0001104659-26-115871",
    "company": "Transocean Ltd.",
@@ -15604,59 +15658,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-06T21:02:32+09:00"
-  },
-  {
-   "id": "0001493152-26-045861",
-   "company": "Boost Run Inc.",
-   "ticker": "BRUN",
-   "cik": 2090646,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Subject to the satisfaction of delivery and acceptance requirements and any termination described below, Cohere has committed to pay Boost Run approximately $525.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226045861/0001493152-26-045861-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226045861/ex10-1.htm",
-   "filed_at": "2026-10-06T08:00:29-04:00",
-   "filed_kst": "2026-10-06 21:00",
-   "price": 14.33,
-   "change": -13.2,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 14.33,
-     "change": -13.2
-    },
-    {
-     "date": "2026-10-02",
-     "close": 16.51,
-     "change": 3.9
-    },
-    {
-     "date": "2026-10-01",
-     "close": 15.89,
-     "change": -3.7
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "DE",
-   "hq": "NORTHBROOK, IL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T21:01:28+09:00"
   }
  ]
 }
