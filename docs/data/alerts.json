@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-14T19:04:44+09:00",
+ "updated_at": "2026-10-14T19:09:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115687",
+   "company": "Verastem, Inc.",
+   "ticker": "VSTM",
+   "cik": 1526119,
+   "form": "8-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "Potential opportunities based on data from ongoing clinical trials; BTD: breakthrough therapy designation x FDA granted Fast Track Designations in advanced/metastatic PDAC 2L advanced NSCLC Mono 1L advanced NSCLC Brain Mets Mono 2L mCRC EGFR Combo 1L mCRC EGFR + Chemo Combo 2L mPDAC mono & EGFR Comb",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926115687/0001104659-26-115687-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926115687/tm2627537d4_ex99-3.htm",
+   "filed_at": "2026-10-14T06:08:11-04:00",
+   "filed_kst": "2026-10-14 19:08",
+   "price": 7.45,
+   "change": -9.7,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 7.45,
+     "change": -9.7
+    },
+    {
+     "date": "2026-10-12",
+     "close": 8.25,
+     "change": -1.55
+    },
+    {
+     "date": "2026-10-09",
+     "close": 8.38,
+     "change": 3.33
+    }
+   ],
+   "market_cap": 674697635.0,
+   "shares_outstanding": 90563441.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "MA",
+   "hq": "NEEDHAM, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-14T19:08:59+09:00"
+  },
   {
    "id": "0001828316-26-000045",
    "company": "Pharming Group N.V.",
@@ -15600,56 +15653,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-06T01:20:31+09:00"
-  },
-  {
-   "id": "0001193125-26-413723",
-   "company": "C. H. ROBINSON WORLDWIDE, INC.",
-   "ticker": "CHRW",
-   "cik": 1043277,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "What was announced? • We have agreed to acquire RXO in a stock-and-cash transaction that redefines the future of third-party logistics.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1043277/000119312526413723/0001193125-26-413723-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1043277/000119312526413723/d344313d425.htm",
-   "filed_at": "2026-10-05T12:11:09-04:00",
-   "filed_kst": "2026-10-06 01:11",
-   "price": 136.49,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 136.49,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 136.49,
-     "change": -13.46
-    },
-    {
-     "date": "2026-10-02",
-     "close": 157.72,
-     "change": 2.99
-    }
-   ],
-   "market_cap": 15949028204.0,
-   "shares_outstanding": 116851258.0,
-   "industry": "Arrangement of  Transportation of  Freight & Cargo",
-   "state_of_incorporation": "DE",
-   "hq": "EDEN PRAIRIE, MN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-06T01:12:00+09:00"
   }
  ]
 }
