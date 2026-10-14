@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-14T20:49:35+09:00",
+ "updated_at": "2026-10-14T20:54:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001689375-26-000057",
+   "company": "Entrada Therapeutics, Inc.",
+   "ticker": "TRDA",
+   "cik": 1689375,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "Update on ENTR-601-45 On October 14, 2026, the Company announced positive topline data from Cohort 1 of the double-blind, placebo-controlled, multiple ascending dose (MAD) portion of the Phase 1/2 ELEVATE-45-201 clinical study of ENTR-601-45 in ambulatory participants with a confirmed mutation in th",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1689375/000168937526000057/0001689375-26-000057-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1689375/000168937526000057/trda-20261014.htm",
+   "filed_at": "2026-10-14T07:52:00-04:00",
+   "filed_kst": "2026-10-14 20:52",
+   "price": 4.86,
+   "change": -11.64,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 4.86,
+     "change": -11.64
+    },
+    {
+     "date": "2026-10-12",
+     "close": 5.5,
+     "change": -3.0
+    },
+    {
+     "date": "2026-10-09",
+     "close": 5.67,
+     "change": 2.53
+    }
+   ],
+   "market_cap": 189232211.0,
+   "shares_outstanding": 38936669.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T20:52:34+09:00"
+  },
   {
    "id": "0000093751-26-000592",
    "company": "STATE STREET CORP",
@@ -15607,60 +15663,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T05:31:08+09:00"
-  },
-  {
-   "id": "0001493152-26-045747",
-   "company": "Neostellar Capital Corp.",
-   "ticker": "NSLR",
-   "cik": 1509470,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Note Repurchase Program On October 29, 2025, the Company’s Board of Directors approved an extension of the discretionary note repurchase program (the “Note Repurchase Program”) which allows the Company to repurchase up to an additional $40.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1509470/000149315226045747/0001493152-26-045747-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1509470/000149315226045747/ex99-1.htm",
-   "filed_at": "2026-10-05T16:05:31-04:00",
-   "filed_kst": "2026-10-06 05:05",
-   "price": 7.5,
-   "change": 0.81,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 7.5,
-     "change": 0.81
-    },
-    {
-     "date": "2026-10-02",
-     "close": 7.44,
-     "change": -0.4
-    },
-    {
-     "date": "2026-10-01",
-     "close": 7.47,
-     "change": -2.86
-    }
-   ],
-   "market_cap": 198549165.0,
-   "shares_outstanding": 26473222.0,
-   "industry": null,
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-06T05:31:06+09:00"
   }
  ]
 }
