@@ -1,7 +1,168 @@
 {
- "updated_at": "2026-10-14T21:59:29+09:00",
+ "updated_at": "2026-10-14T22:04:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-046938",
+   "company": "SKYX Platforms Corp.",
+   "ticker": "SKYX",
+   "cik": 1598981,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.01",
+    "2.03",
+    "3.02"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Delaware corporation and a direct wholly owned subsidiary of the Maker (“ Merger Sub ”), and WT Representative LLC have entered into that certain Agreement and Plan of Merger, dated as of September 9, 2026 (as it may be amended, restated, supplemented or otherwise modified from time to time in a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226046938/0001493152-26-046938-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226046938/ex10-1.htm",
+   "filed_at": "2026-10-14T09:00:09-04:00",
+   "filed_kst": "2026-10-14 22:00",
+   "price": 1.12,
+   "change": 0.9,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 1.12,
+     "change": 0.9
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1.11,
+     "change": 0.91
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1.1,
+     "change": -0.9
+    }
+   ],
+   "market_cap": 151682713.0,
+   "shares_outstanding": 135430994.0,
+   "industry": "Electric Lighting & Wiring Equipment",
+   "state_of_incorporation": "FL",
+   "hq": "POMPANO BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-14T22:00:56+09:00"
+  },
+  {
+   "id": "0001193125-26-421079",
+   "company": "Ultragenyx Pharmaceutical Inc.",
+   "ticker": "RARE",
+   "cik": 1515673,
+   "form": "8-K",
+   "items": [
+    "1.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "(the “Company”) entered into an asset purchase agreement (the “PRV Asset Purchase Agreement”), pursuant to which the Company agreed to sell a Rare Pediatric Disease Priority Review Voucher (“PRV”) to the buyer.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526421079/0001193125-26-421079-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526421079/rare-20261008.htm",
+   "filed_at": "2026-10-14T09:00:14-04:00",
+   "filed_kst": "2026-10-14 22:00",
+   "price": 14.92,
+   "change": -2.48,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 14.92,
+     "change": -2.48
+    },
+    {
+     "date": "2026-10-12",
+     "close": 15.3,
+     "change": -1.16
+    },
+    {
+     "date": "2026-10-09",
+     "close": 15.48,
+     "change": 1.24
+    }
+   ],
+   "market_cap": 1470945985.0,
+   "shares_outstanding": 98588873.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NOVATO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T22:00:54+09:00"
+  },
+  {
+   "id": "0001570585-26-000139",
+   "company": "Liberty Global Ltd.",
+   "ticker": "LBTYA",
+   "cik": 1570585,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The business generates aggregate revenue of $22 billion, including approximately $13 billion from the nonconsolidated VMO2 joint venture and $9 billion* from consolidated operations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000139/0001570585-26-000139-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000139/ex991-libertyglobalannounc.htm",
+   "filed_at": "2026-10-14T09:00:24-04:00",
+   "filed_kst": "2026-10-14 22:00",
+   "price": 8.55,
+   "change": -0.12,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 8.55,
+     "change": -0.12
+    },
+    {
+     "date": "2026-10-12",
+     "close": 8.56,
+     "change": -1.15
+    },
+    {
+     "date": "2026-10-09",
+     "close": 8.66,
+     "change": -3.02
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Cable & Other Pay Television Services",
+   "state_of_incorporation": null,
+   "hq": "HAMILTON, D0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T22:00:52+09:00"
+  },
   {
    "id": "0001213900-26-109240",
    "company": "Evolution Metals & Technologies Corp.",
@@ -15500,166 +15661,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T05:55:08+09:00"
-  },
-  {
-   "id": "0001213900-26-106849",
-   "company": "OS Therapies Inc",
-   "ticker": "OSTX",
-   "cik": 1795091,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "5.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 83,
-   "summary": "when the FDA approves the therapy, while the Company advances its regulatory work internationally,” said Mr.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026106849/0001213900-26-106849-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026106849/ea030761101ex99-1.htm",
-   "filed_at": "2026-10-05T16:37:51-04:00",
-   "filed_kst": "2026-10-06 05:37",
-   "price": 1.6,
-   "change": -1.23,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 1.6,
-     "change": -1.23
-    },
-    {
-     "date": "2026-10-02",
-     "close": 1.62,
-     "change": 0.62
-    },
-    {
-     "date": "2026-10-01",
-     "close": 1.61,
-     "change": 0.62
-    }
-   ],
-   "market_cap": 73801320.0,
-   "shares_outstanding": 46125825.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "ROCKVILLE, MD",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T05:55:06+09:00"
-  },
-  {
-   "id": "0001193125-26-414265",
-   "company": "Grayscale XRP Trust ETF",
-   "ticker": "GXRP",
-   "cik": 2037427,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "It is understood by the Parties that Anchorage is an independent contractor, and that this Agreement does not create or constitute a partnership, joint venture, or employment relationship between the Parties.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2037427/000119312526414265/0001193125-26-414265-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2037427/000119312526414265/ck0002037427-ex99_1.htm",
-   "filed_at": "2026-10-05T16:39:22-04:00",
-   "filed_kst": "2026-10-06 05:39",
-   "price": 29.06,
-   "change": 2.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 29.06,
-     "change": 2.0
-    },
-    {
-     "date": "2026-10-02",
-     "close": 28.49,
-     "change": -2.06
-    },
-    {
-     "date": "2026-10-01",
-     "close": 29.09,
-     "change": 1.01
-    }
-   ],
-   "market_cap": 82533306.0,
-   "shares_outstanding": 2840100.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": "DE",
-   "hq": "STAMFORD, CT",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T05:55:04+09:00"
-  },
-  {
-   "id": "0001193125-26-414274",
-   "company": "Grayscale Dogecoin Trust ETF",
-   "ticker": "GDOG",
-   "cik": 2055510,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "It is understood by the Parties that Anchorage is an independent contractor, and that this Agreement does not create or constitute a partnership, joint venture, or employment relationship between the Parties.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2055510/000119312526414274/0001193125-26-414274-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2055510/000119312526414274/ck0002055510-ex99_1.htm",
-   "filed_at": "2026-10-05T16:40:49-04:00",
-   "filed_kst": "2026-10-06 05:40",
-   "price": 11.18,
-   "change": 4.29,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 11.18,
-     "change": 4.29
-    },
-    {
-     "date": "2026-10-02",
-     "close": 10.72,
-     "change": -4.03
-    },
-    {
-     "date": "2026-10-01",
-     "close": 11.17,
-     "change": 1.09
-    }
-   ],
-   "market_cap": 9331946.0,
-   "shares_outstanding": 834700.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": "DE",
-   "hq": "STAMFORD, CT",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T05:55:02+09:00"
   }
  ]
 }
