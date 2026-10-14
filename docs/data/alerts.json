@@ -1,7 +1,42 @@
 {
- "updated_at": "2026-10-14T22:44:38+09:00",
+ "updated_at": "2026-10-14T22:49:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-109271",
+   "company": "WISeQey Corp.",
+   "ticker": "WKEY",
+   "cik": 1738699,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "htm AGREEMENT AND PLAN OF MERGER, DATED AS OF OCTOBER 8, 2026, BY AND AMONG GIGCAPITAL8 CORP.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1738699/000121390026109271/0001213900-26-109271-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1738699/000121390026109271/ea030854701ex99-2.htm",
+   "filed_at": "2026-10-14T09:44:20-04:00",
+   "filed_kst": "2026-10-14 22:44",
+   "price": 6.09,
+   "change": 7.22,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "TORTOLA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-14T22:45:30+09:00"
+  },
   {
    "id": "0001213900-26-109266",
    "company": "SEALSQ Corp",
@@ -15610,61 +15645,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-06T06:14:59+09:00"
-  },
-  {
-   "id": "0001437749-26-032042",
-   "company": "NRX Pharmaceuticals, Inc.",
-   "ticker": "NRXP",
-   "cik": 1719406,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA",
-    "대형계약"
-   ],
-   "confidence": 83,
-   "summary": "(the “Company”), entered into a prime contract (the “Contract”) with Defense Advanced Research Projects Agency (“DARPA”) pursuant to which NRx Defense was awarded a contract to conduct the Synaptic Plasticity Augmented Rapid Circuit Stimulation (“SPARC-TMS”) clinical trial.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1719406/000143774926032042/0001437749-26-032042-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1719406/000143774926032042/nrxp20261005_8k.htm",
-   "filed_at": "2026-10-05T17:00:37-04:00",
-   "filed_kst": "2026-10-06 06:00",
-   "price": 2.87,
-   "change": -1.2,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 2.87,
-     "change": -1.2
-    },
-    {
-     "date": "2026-10-02",
-     "close": 2.9,
-     "change": 1.93
-    },
-    {
-     "date": "2026-10-01",
-     "close": 2.85,
-     "change": -2.4
-    }
-   ],
-   "market_cap": 124258851.0,
-   "shares_outstanding": 43295767.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "WILMINGTON, DE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-06T06:14:58+09:00"
   }
  ]
 }
