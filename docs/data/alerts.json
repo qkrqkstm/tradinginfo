@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-14T19:34:42+09:00",
+ "updated_at": "2026-10-14T19:39:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115709",
+   "company": "Quoin Pharmaceuticals Ltd.",
+   "ticker": "QNRX",
+   "cik": 1671502,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "1 Quoin Pharmaceuticals Announces European Medicines Agency (EMA) Grants Orphan Drug Designation for QRX003 for the Treatment of Peeling Skin Syndrome – Company on track to initiate first-ever formal clinical trial in Peeling Skin Syndrome before year end – Orphan Drug designation milestone provides",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926115709/0001104659-26-115709-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926115709/tm2627548d1_ex99-1.htm",
+   "filed_at": "2026-10-14T06:35:34-04:00",
+   "filed_kst": "2026-10-14 19:35",
+   "price": 4.15,
+   "change": -4.82,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 4.15,
+     "change": -4.82
+    },
+    {
+     "date": "2026-10-12",
+     "close": 4.36,
+     "change": -3.11
+    },
+    {
+     "date": "2026-10-09",
+     "close": 4.5,
+     "change": -1.1
+    }
+   ],
+   "market_cap": 291722652.0,
+   "shares_outstanding": 70294615.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "ASHBURN, VA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-14T19:36:26+09:00"
+  },
   {
    "id": "0001104659-26-115687",
    "company": "Verastem, Inc.",
@@ -15603,56 +15658,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-06T01:26:01+09:00"
-  },
-  {
-   "id": "0001648416-26-000126",
-   "company": "Ferrari N.V.",
-   "ticker": "RACE",
-   "cik": 1648416,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), October 5, 2026 – Ferrari N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000126/0001648416-26-000126-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000126/fnvbb051026prex.htm",
-   "filed_at": "2026-10-05T12:19:31-04:00",
-   "filed_kst": "2026-10-06 01:19",
-   "price": 382.3,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 382.3,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 382.3,
-     "change": -1.55
-    },
-    {
-     "date": "2026-10-02",
-     "close": 388.33,
-     "change": 0.27
-    }
-   ],
-   "market_cap": 70629118347.0,
-   "shares_outstanding": 184747890.0,
-   "industry": "Motor Vehicles & Passenger Car Bodies",
-   "state_of_incorporation": "Netherlands",
-   "hq": "MARANELLO, L6",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-06T01:20:31+09:00"
   }
  ]
 }
