@@ -1,7 +1,220 @@
 {
- "updated_at": "2026-10-15T05:29:32+09:00",
+ "updated_at": "2026-10-15T05:34:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-109457",
+   "company": "Silo Pharma, Inc.",
+   "ticker": "SILO",
+   "cik": 1514183,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "3.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "“ Open Source Software ” means any software component that is distributed as “free software,” “open source software,” or pursuant to any open source copyright license agreement, including the GNU General Public License, GNU Library or Lesser Public License, GNU Affero General Public License, MIT Lic",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1514183/000121390026109457/0001213900-26-109457-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1514183/000121390026109457/ea030856201ex10-1.htm",
+   "filed_at": "2026-10-14T16:30:12-04:00",
+   "filed_kst": "2026-10-15 05:30",
+   "price": 1.2,
+   "change": -1.64,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 1.2,
+     "change": -1.64
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1.22,
+     "change": -18.12
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1.49,
+     "change": 1.36
+    }
+   ],
+   "market_cap": 1905900.0,
+   "shares_outstanding": 1588250.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "SARASOTA, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-15T05:31:32+09:00"
+  },
+  {
+   "id": "0001829126-26-011125",
+   "company": "Future Vision II Acquisition Corp.",
+   "ticker": "FVN",
+   "cik": 2010653,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.03",
+    "3.02",
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "pursuant to the Merger Agreement dated January 16, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2010653/000182912626011125/0001829126-26-011125-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2010653/000182912626011125/futurevision2_8k.htm",
+   "filed_at": "2026-10-14T16:30:17-04:00",
+   "filed_kst": "2026-10-15 05:30",
+   "price": 8.78,
+   "change": 3.85,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 8.77,
+     "change": 3.85
+    },
+    {
+     "date": "2026-10-13",
+     "close": 8.45,
+     "change": 6.56
+    },
+    {
+     "date": "2026-10-12",
+     "close": 7.93,
+     "change": -9.16
+    }
+   ],
+   "market_cap": 66236320.0,
+   "shares_outstanding": 7544000.0,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SEVEN MILE BEACH, GRAND CAYMAN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-15T05:31:30+09:00"
+  },
+  {
+   "id": "0001193125-26-421732",
+   "company": "Lantheus Holdings, Inc.",
+   "ticker": "LNTH",
+   "cik": 1521036,
+   "form": "8-K",
+   "items": [
+    "5.07"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "Proposal 1: Merger Agreement Proposal Lantheus stockholders approved the adoption of the Agreement and Plan of Merger, dated as of August 3, 2026 (as it may be amended and supplemented from time to time, the “merger agreement”), by and among Lantheus, Curium US Holdings",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526421732/0001193125-26-421732-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526421732/d183496d8k.htm",
+   "filed_at": "2026-10-14T16:30:26-04:00",
+   "filed_kst": "2026-10-15 05:30",
+   "price": 100.0,
+   "change": -0.02,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 100.0,
+     "change": -0.02
+    },
+    {
+     "date": "2026-10-13",
+     "close": 100.02,
+     "change": -0.09
+    },
+    {
+     "date": "2026-10-12",
+     "close": 100.11,
+     "change": -0.04
+    }
+   ],
+   "market_cap": 6527236900.0,
+   "shares_outstanding": 65272369.0,
+   "industry": "In Vitro & In Vivo Diagnostic Substances",
+   "state_of_incorporation": "DE",
+   "hq": "BEDFORD, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T05:31:27+09:00"
+  },
+  {
+   "id": "0001193125-26-421733",
+   "company": "StubHub Holdings, Inc.",
+   "ticker": "STUB",
+   "cik": 1337634,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 64,
+   "summary": "Notwithstanding the preceding or any provision of Section 13d-3 of the Exchange Act, (i) a Person or group shall not be deemed to beneficially own Voting Stock subject to a stock or asset purchase agreement, merger agreement, option agreement, warrant agreement or similar agreement (or voting or opt",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1337634/000119312526421733/0001193125-26-421733-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1337634/000119312526421733/d180521dex991.htm",
+   "filed_at": "2026-10-14T16:30:31-04:00",
+   "filed_kst": "2026-10-15 05:30",
+   "price": 5.58,
+   "change": -4.78,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 5.58,
+     "change": -4.78
+    },
+    {
+     "date": "2026-10-13",
+     "close": 5.86,
+     "change": -1.68
+    },
+    {
+     "date": "2026-10-12",
+     "close": 5.96,
+     "change": -2.61
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Miscellaneous Amusement & Recreation",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-15T05:31:24+09:00"
+  },
   {
    "id": "0001580670-26-000080",
    "company": "LGI Homes, Inc.",
@@ -15448,216 +15661,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-06T20:39:32+09:00"
-  },
-  {
-   "id": "0001493152-26-045847",
-   "company": "A2Z CUST2MATE SOLUTIONS CORP.",
-   "ticker": "AZ",
-   "cik": 1866030,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(NASDAQ: AZ), (“A2Z” or “A2Z Cust2Mate” or the “Company”) a global leader in smart retail technology, today announced that it has completed the acquisition of Hedia, a leading Israeli retail media company.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866030/000149315226045847/0001493152-26-045847-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866030/000149315226045847/ex99-1.htm",
-   "filed_at": "2026-10-06T07:36:35-04:00",
-   "filed_kst": "2026-10-06 20:36",
-   "price": 6.23,
-   "change": 0.65,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 6.23,
-     "change": 0.65
-    },
-    {
-     "date": "2026-10-02",
-     "close": 6.19,
-     "change": 9.75
-    },
-    {
-     "date": "2026-10-01",
-     "close": 5.64,
-     "change": -1.91
-    }
-   ],
-   "market_cap": 273422502.0,
-   "shares_outstanding": 43888042.0,
-   "industry": "General Industrial Machinery & Equipment, NEC",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO, A6",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T20:37:28+09:00"
-  },
-  {
-   "id": "0001493152-26-045844",
-   "company": "Kairos Pharma, LTD.",
-   "ticker": "KAPA",
-   "cik": 1962011,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "The interim analysis demonstrated a statistically significant difference in progression-free survival (PFS) between all patients in the trial treated with ENV-105 plus apalutamide and those treated with apalutamide alone.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226045844/0001493152-26-045844-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226045844/ex99-1.htm",
-   "filed_at": "2026-10-06T07:30:06-04:00",
-   "filed_kst": "2026-10-06 20:30",
-   "price": 1.55,
-   "change": -0.64,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 1.55,
-     "change": -0.64
-    },
-    {
-     "date": "2026-10-02",
-     "close": 1.56,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 1.56,
-     "change": -4.88
-    }
-   ],
-   "market_cap": 36731409.0,
-   "shares_outstanding": 23697683.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "LOS ANGELES, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T20:30:42+09:00"
-  },
-  {
-   "id": "0001437749-26-032105",
-   "company": "Professional Diversity Network, Inc.",
-   "ticker": "IPDN",
-   "cik": 1546296,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(“Goodwill”), (ii) a Tri-Party Compute Services Collaboration and Revenue Sharing Agreement (the “Collaboration Agreement”) with Goodwill and HashForest Technology LLC (“HashForest”) and (iii) a Secured Term Loan and Security Agreement (the “Loan Agreement”) with Goodwill.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1546296/000143774926032105/0001437749-26-032105-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1546296/000143774926032105/ipdn20261005_8k.htm",
-   "filed_at": "2026-10-06T07:24:53-04:00",
-   "filed_kst": "2026-10-06 20:24",
-   "price": 3.1,
-   "change": -3.73,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 3.1,
-     "change": -3.73
-    },
-    {
-     "date": "2026-10-02",
-     "close": 3.22,
-     "change": 0.94
-    },
-    {
-     "date": "2026-10-01",
-     "close": 3.19,
-     "change": -9.89
-    }
-   ],
-   "market_cap": 44796001.0,
-   "shares_outstanding": 14450323.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "DE",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-06T20:25:23+09:00"
-  },
-  {
-   "id": "0001104659-26-113884",
-   "company": "SUPERNUS PHARMACEUTICALS, INC.",
-   "ticker": "SUPN",
-   "cik": 1356576,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "(“Supernus” or the “Company”) with the Securities and Exchange Commission (the “SEC”) on September 11, 2026 (the “Proxy Statement”), relating to the Agreement and Plan of Merger, dated as of August 1, 2026, by and among Supernus, Indivior Pharmaceuticals, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1356576/000110465926113884/0001104659-26-113884-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1356576/000110465926113884/tm2627021d2_425.htm",
-   "filed_at": "2026-10-06T07:16:16-04:00",
-   "filed_kst": "2026-10-06 20:16",
-   "price": 42.76,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 42.76,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 42.76,
-     "change": 0.9
-    },
-    {
-     "date": "2026-10-02",
-     "close": 42.38,
-     "change": 0.47
-    }
-   ],
-   "market_cap": 2485511076.0,
-   "shares_outstanding": 58127013.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "ROCKVILLE, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-06T20:17:07+09:00"
   }
  ]
 }
