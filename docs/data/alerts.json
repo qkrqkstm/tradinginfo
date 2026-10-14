@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-15T05:09:07+09:00",
+ "updated_at": "2026-10-15T05:14:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006624",
+   "company": "ServisFirst Bancshares, Inc.",
+   "ticker": "SFBS",
+   "cik": 1430723,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "(“ServisFirst”) announced that the Board of Directors approved a stock repurchase program for the Company’s common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1430723/000117184326006624/0001171843-26-006624-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1430723/000117184326006624/f8k_101426.htm",
+   "filed_at": "2026-10-14T16:10:32-04:00",
+   "filed_kst": "2026-10-15 05:10",
+   "price": 38.07,
+   "change": -1.3,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 38.07,
+     "change": -1.3
+    },
+    {
+     "date": "2026-10-13",
+     "close": 38.57,
+     "change": -0.41
+    },
+    {
+     "date": "2026-10-12",
+     "close": 38.73,
+     "change": 0.83
+    }
+   ],
+   "market_cap": 2081382456.0,
+   "shares_outstanding": 54672510.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "BIRMINGHAM, AL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T05:11:01+09:00"
+  },
   {
    "id": "0001193125-26-421671",
    "company": "WATSCO INC",
@@ -15604,57 +15657,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T20:00:48+09:00"
-  },
-  {
-   "id": "0001654954-26-008805",
-   "company": "Wise Group plc",
-   "ticker": "WSE",
-   "cik": 2099039,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": "2900 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008805/0001654954-26-008805-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426008805/a6954x.htm",
-   "filed_at": "2026-10-06T06:15:07-04:00",
-   "filed_kst": "2026-10-06 19:15",
-   "price": 11.67,
-   "change": 2.01,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 11.67,
-     "change": 2.01
-    },
-    {
-     "date": "2026-10-02",
-     "close": 11.44,
-     "change": 0.18
-    },
-    {
-     "date": "2026-10-01",
-     "close": 11.42,
-     "change": 0.26
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Jersey",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-06T19:15:34+09:00"
   }
  ]
 }
