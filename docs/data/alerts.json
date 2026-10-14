@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-15T01:14:38+09:00",
+ "updated_at": "2026-10-15T01:19:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-039551",
+   "company": "Valaris Ltd",
+   "ticker": "VAL",
+   "cik": 314808,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Swiss corporation (“ Transocean ”), entered into a Business Combination Agreement (the “ Agreement ”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/314808/000114036126039551/0001140361-26-039551-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/314808/000114036126039551/ef20083773_8k.htm",
+   "filed_at": "2026-10-14T12:14:07-04:00",
+   "filed_kst": "2026-10-15 01:14",
+   "price": 85.54,
+   "change": -0.01,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 85.54,
+     "change": -0.01
+    },
+    {
+     "date": "2026-10-13",
+     "close": 85.55,
+     "change": 0.72
+    },
+    {
+     "date": "2026-10-12",
+     "close": 84.94,
+     "change": 1.54
+    }
+   ],
+   "market_cap": 5939538931.0,
+   "shares_outstanding": 69435807.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": null,
+   "hq": "HAMILTON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T01:15:31+09:00"
+  },
   {
    "id": "0001104659-26-115802",
    "company": "ENI SPA",
@@ -15602,56 +15654,6 @@
     "Large Accelerated"
    ],
    "detected_at": "2026-10-06T19:01:31+09:00"
-  },
-  {
-   "id": "0001232384-26-000053",
-   "company": "TC ENERGY CORP",
-   "ticker": "TRP",
-   "cik": 1232384,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.1 2 exhibit_991xtcextcpl-jul.htm EX-99.1 CODE OF BUSINESS ETHICS POLICY, AS AMENDED exhibit_991xtcextcpl-jul MAKING THE RIGHT CHOICES – DOING THE RIGHT THING TC Energy’s Code of Business Ethics (COBE) Policy Home Living our values Ethical business conduct Communication Assets and information H",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1232384/000123238426000053/0001232384-26-000053-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1232384/000123238426000053/exhibit_991xtcextcpl-jul.htm",
-   "filed_at": "2026-10-05T18:03:41-04:00",
-   "filed_kst": "2026-10-06 07:03",
-   "price": 59.48,
-   "change": 0.69,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 59.48,
-     "change": 0.69
-    },
-    {
-     "date": "2026-10-02",
-     "close": 59.07,
-     "change": 0.77
-    },
-    {
-     "date": "2026-10-01",
-     "close": 58.62,
-     "change": 1.45
-    }
-   ],
-   "market_cap": 61908875793.0,
-   "shares_outstanding": 1040835168.0,
-   "industry": "Natural Gas Transmission",
-   "state_of_incorporation": "Alberta, Canada",
-   "hq": "CALGARY ALBERTA, A0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-06T19:01:28+09:00"
   }
  ]
 }
