@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-14T22:59:27+09:00",
+ "updated_at": "2026-10-14T23:04:55+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178913-26-004769",
+   "company": "CAMTEK LTD",
+   "ticker": "CAMT",
+   "cik": 1109138,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "64 GAAP) (1) In October 2023 , the Company completed the acquisition of FRT.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1109138/000117891326004769/0001178913-26-004769-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1109138/000117891326004769/zk2636226.htm",
+   "filed_at": "2026-10-14T10:00:16-04:00",
+   "filed_kst": "2026-10-14 23:00",
+   "price": 136.35,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 136.35,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-14",
+     "close": 136.35,
+     "change": -4.5
+    },
+    {
+     "date": "2026-10-13",
+     "close": 142.78,
+     "change": -3.29
+    }
+   ],
+   "market_cap": 6248665935.0,
+   "shares_outstanding": 45828133.0,
+   "industry": "Optical Instruments & Lenses",
+   "state_of_incorporation": "Israel",
+   "hq": "MIGDAL HAEMEK",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T23:01:20+09:00"
+  },
   {
    "id": "0001213900-26-109271",
    "company": "WISeQey Corp.",
@@ -15590,61 +15641,6 @@
    "hq": "JOHNSTON, IA",
    "entity_category": null,
    "detected_at": "2026-10-06T06:15:02+09:00"
-  },
-  {
-   "id": "0001493152-26-045759",
-   "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
-   "ticker": "NIMU",
-   "cik": 720762,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Amendment to Merger Agreement As previously reported, on March 6, 2026, Non-Invasive Monitoring Systems, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226045759/0001493152-26-045759-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226045759/form8-k.htm",
-   "filed_at": "2026-10-05T17:00:32-04:00",
-   "filed_kst": "2026-10-06 06:00",
-   "price": 11.5,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 11.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 11.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 11.5,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 11875360.0,
-   "shares_outstanding": 1032640.0,
-   "industry": "Guided Missiles & Space Vehicles & Parts",
-   "state_of_incorporation": "FL",
-   "hq": "MIAMI BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-06T06:14:59+09:00"
   }
  ]
 }
