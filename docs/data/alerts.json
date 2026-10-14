@@ -1,7 +1,157 @@
 {
- "updated_at": "2026-10-15T00:54:34+09:00",
+ "updated_at": "2026-10-15T00:59:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115802",
+   "company": "ENI SPA",
+   "ticker": "E",
+   "cik": 1002242,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "56 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000110465926115802/0001104659-26-115802-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000110465926115802/0001104659-26-115802-index-headers.html",
+   "filed_at": "2026-10-14T11:58:09-04:00",
+   "filed_kst": "2026-10-15 00:58",
+   "price": 57.24,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 57.24,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-14",
+     "close": 57.24,
+     "change": -0.37
+    },
+    {
+     "date": "2026-10-13",
+     "close": 57.45,
+     "change": 1.2
+    }
+   ],
+   "market_cap": 180120835125.0,
+   "shares_outstanding": 3146765114.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Italy",
+   "hq": "ROME ITALY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T00:59:04+09:00"
+  },
+  {
+   "id": "0000863064-26-000041",
+   "company": "RIO TINTO PLC",
+   "ticker": "RIO",
+   "cik": 863064,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "On 19 June 2024, Baowu Resources completed the acquisition of a 49% share of WCS mine and infrastructure projects with WCS Holdings holding the remaining 51%.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000041/0000863064-26-000041-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000041/ex1prodresults.htm",
+   "filed_at": "2026-10-14T11:55:10-04:00",
+   "filed_kst": "2026-10-15 00:55",
+   "price": 91.38,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 91.38,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-14",
+     "close": 91.38,
+     "change": -1.81
+    },
+    {
+     "date": "2026-10-13",
+     "close": 93.06,
+     "change": -1.31
+    }
+   ],
+   "market_cap": 114774222493.0,
+   "shares_outstanding": 1256010314.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON, SW1Y 4AD, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T00:55:59+09:00"
+  },
+  {
+   "id": "0000863064-26-000041",
+   "company": "RIO TINTO LTD",
+   "ticker": "RTNTF",
+   "cik": 887028,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "On 19 June 2024, Baowu Resources completed the acquisition of a 49% share of WCS mine and infrastructure projects with WCS Holdings holding the remaining 51%.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/887028/000086306426000041/0000863064-26-000041-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/887028/000086306426000041/ex1prodresults.htm",
+   "filed_at": "2026-10-14T11:55:10-04:00",
+   "filed_kst": "2026-10-15 00:55",
+   "price": 112.3,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 112.3,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-13",
+     "close": 112.3,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-12",
+     "close": 112.3,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "Australia",
+   "hq": "VICTORIA 3000, C3",
+   "entity_category": null,
+   "detected_at": "2026-10-15T00:55:57+09:00"
+  },
   {
    "id": "0001104659-26-115791",
    "company": "Nouveau Monde Graphite Inc.",
@@ -15502,166 +15652,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-06T19:01:28+09:00"
-  },
-  {
-   "id": "0001801661-26-000106",
-   "company": "Firy Inc.",
-   "ticker": "FIRY",
-   "cik": 1801661,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "FIRY acquired its minority stake in Exit Games, the Hamburg-based developer of the Photon multiplayer networking technology, for a purchase price of $50 million in July 2021 under an agreement entered into by the Company under its former name, Skillz Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000106/0001801661-26-000106-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000106/firy-exhibit101exitgames.htm",
-   "filed_at": "2026-10-05T17:21:22-04:00",
-   "filed_kst": "2026-10-06 06:21",
-   "price": 12.57,
-   "change": 0.8,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 12.57,
-     "change": 0.8
-    },
-    {
-     "date": "2026-10-02",
-     "close": 12.47,
-     "change": 2.38
-    },
-    {
-     "date": "2026-10-01",
-     "close": 12.18,
-     "change": -1.69
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "DE",
-   "hq": "LAS VEGAS, NV",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-06T06:29:01+09:00"
-  },
-  {
-   "id": "0001140361-26-038653",
-   "company": "NEIGHBORHOOD INTELLIGENCE, INC.",
-   "ticker": "NXH",
-   "cik": 1130713,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "As the businesses come together, the Company has identified at least an additional $30 million of savings opportunities through contract consolidation and renegotiation, technology consolidation, organizational simplification and the elimination of unnecessary duplication.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126038653/0001140361-26-038653-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126038653/ef20083311_ex99-1.htm",
-   "filed_at": "2026-10-05T17:15:38-04:00",
-   "filed_kst": "2026-10-06 06:15",
-   "price": 2.06,
-   "change": -25.36,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 2.06,
-     "change": -25.36
-    },
-    {
-     "date": "2026-10-02",
-     "close": 2.76,
-     "change": -2.47
-    },
-    {
-     "date": "2026-10-01",
-     "close": 2.83,
-     "change": -3.74
-    }
-   ],
-   "market_cap": 196380581.0,
-   "shares_outstanding": 95330379.0,
-   "industry": "Retail-Catalog & Mail-Order Houses",
-   "state_of_incorporation": "DE",
-   "hq": "MURRAY, UT",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-06T06:16:17+09:00"
-  },
-  {
-   "id": "0001213900-26-106876",
-   "company": "Constellation Acquisition Corp I",
-   "ticker": "CSTAF",
-   "cik": 1834032,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "5 million was funded upon signing of the business combination agreement and a further $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026106876/0001213900-26-106876-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026106876/ea0307666-425_constellation1.htm",
-   "filed_at": "2026-10-05T17:02:20-04:00",
-   "filed_kst": "2026-10-06 06:02",
-   "price": 13.05,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-02",
-     "close": 13.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 13.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-09-30",
-     "close": 13.05,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T06:15:12+09:00"
   }
  ]
 }
