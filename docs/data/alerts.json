@@ -1,7 +1,158 @@
 {
- "updated_at": "2026-10-14T21:29:32+09:00",
+ "updated_at": "2026-10-14T21:34:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-421066",
+   "company": "Coya Therapeutics, Inc.",
+   "ticker": "COYA",
+   "cik": 1835022,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "The Company’s cash runway guidance remains unchanged, with existing cash resources expected to fund operations into the second half of 2027, beyond the anticipated ALSTARS topline data readout.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526421066/0001193125-26-421066-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526421066/d172621d8k.htm",
+   "filed_at": "2026-10-14T08:30:08-04:00",
+   "filed_kst": "2026-10-14 21:30",
+   "price": 4.47,
+   "change": -6.96,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 4.47,
+     "change": -6.96
+    },
+    {
+     "date": "2026-10-12",
+     "close": 4.81,
+     "change": -2.83
+    },
+    {
+     "date": "2026-10-09",
+     "close": 4.95,
+     "change": -0.8
+    }
+   ],
+   "market_cap": 104856585.0,
+   "shares_outstanding": 23457849.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T21:31:14+09:00"
+  },
+  {
+   "id": "0001753926-26-001931",
+   "company": "Nuran Wireless Inc.",
+   "ticker": "NUR",
+   "cik": 1680637,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "Rams is expected to support NuEnergy’s business plan and implementation strategy, including priority-market selection, operating models, technical and financial requirements, strategic partnerships and financing alternatives.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001931/0001753926-26-001931-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001931/g085990_ex99-1.htm",
+   "filed_at": "2026-10-14T08:29:20-04:00",
+   "filed_kst": "2026-10-14 21:29",
+   "price": 0.75,
+   "change": -0.53,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 0.75,
+     "change": -0.53
+    },
+    {
+     "date": "2026-10-13",
+     "close": 0.75,
+     "change": -5.06
+    },
+    {
+     "date": "2026-10-12",
+     "close": 0.79,
+     "change": 2.6
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Computer Communications Equipment",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "QUEBEC",
+   "entity_category": null,
+   "detected_at": "2026-10-14T21:30:41+09:00"
+  },
+  {
+   "id": "0001171843-26-006616",
+   "company": "Biodexa Pharmaceuticals Plc",
+   "ticker": "BDRX",
+   "cik": 1643918,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "eRapa has received Orphan Drug Designation in the US and in Europe.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1643918/000117184326006616/0001171843-26-006616-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1643918/000117184326006616/exh_991.htm",
+   "filed_at": "2026-10-14T08:30:04-04:00",
+   "filed_kst": "2026-10-14 21:30",
+   "price": 0.35,
+   "change": 0.06,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 0.35,
+     "change": 0.06
+    },
+    {
+     "date": "2026-10-13",
+     "close": 0.35,
+     "change": -8.62
+    },
+    {
+     "date": "2026-10-12",
+     "close": 0.38,
+     "change": -16.74
+    }
+   ],
+   "market_cap": 79036233123.0,
+   "shares_outstanding": 225817808922.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "CARDIFF",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-14T21:30:39+09:00"
+  },
   {
    "id": "0001683168-26-007834",
    "company": "Valion Bio, Inc.",
@@ -15506,160 +15657,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T05:54:54+09:00"
-  },
-  {
-   "id": "0001193125-26-414297",
-   "company": "Grayscale Sui Staking ETF",
-   "ticker": "GSUI",
-   "cik": 2034012,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "It is understood by the Parties that Anchorage is an independent contractor, and that this Agreement does not create or constitute a partnership, joint venture, or employment relationship between the Parties.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526414297/0001193125-26-414297-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526414297/gsui-ex10_1.htm",
-   "filed_at": "2026-10-05T16:48:16-04:00",
-   "filed_kst": "2026-10-06 05:48",
-   "price": 17.47,
-   "change": 7.24,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 17.47,
-     "change": 7.24
-    },
-    {
-     "date": "2026-10-02",
-     "close": 16.29,
-     "change": -5.18
-    },
-    {
-     "date": "2026-10-01",
-     "close": 17.18,
-     "change": 3.37
-    }
-   ],
-   "market_cap": 38414783.0,
-   "shares_outstanding": 2198900.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": "DE",
-   "hq": "STAMFORD, CT",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T05:54:52+09:00"
-  },
-  {
-   "id": "0001193125-26-414300",
-   "company": "Grayscale Avalanche Staking ETF",
-   "ticker": "GAVA",
-   "cik": 2035053,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "It is understood by the Parties that Anchorage is an independent contractor, and that this Agreement does not create or constitute a partnership, joint venture, or employment relationship between the Parties.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2035053/000119312526414300/0001193125-26-414300-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2035053/000119312526414300/ck0002035053-ex10_1.htm",
-   "filed_at": "2026-10-05T16:49:55-04:00",
-   "filed_kst": "2026-10-06 05:49",
-   "price": 26.47,
-   "change": 2.43,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 26.47,
-     "change": 2.43
-    },
-    {
-     "date": "2026-10-02",
-     "close": 25.84,
-     "change": -3.51
-    },
-    {
-     "date": "2026-10-01",
-     "close": 26.78,
-     "change": 1.02
-    }
-   ],
-   "market_cap": 7093431.0,
-   "shares_outstanding": 267980.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": "DE",
-   "hq": "STAMFORD, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T05:54:50+09:00"
-  },
-  {
-   "id": "0001193125-26-414237",
-   "company": "Grayscale Hyperliquid Staking ETF",
-   "ticker": "HYPG",
-   "cik": 2107730,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(C) Custodian agrees to indemnify and hold harmless Client, its affiliates and service providers, and each of its or their respective officers, directors, agents, employees, joint venturers, and representatives, (collectively the “Client Indemnitees”) harmless from any Claim resulting from a third-p",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526414237/0001193125-26-414237-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526414237/ck0002107730-ex10_1.htm",
-   "filed_at": "2026-10-05T16:32:36-04:00",
-   "filed_kst": "2026-10-06 05:32",
-   "price": 33.35,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 33.35,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 33.35,
-     "change": 8.6
-    },
-    {
-     "date": "2026-10-02",
-     "close": 30.71,
-     "change": -1.22
-    }
-   ],
-   "market_cap": 189094500.0,
-   "shares_outstanding": 5670000.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": "DE",
-   "hq": "STAMFORD, CT",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T05:33:33+09:00"
   }
  ]
 }
