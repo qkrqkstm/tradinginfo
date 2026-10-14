@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-15T01:59:30+09:00",
+ "updated_at": "2026-10-15T02:04:56+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-046961",
+   "company": "FDCTECH, INC.",
+   "ticker": "FDCT",
+   "cik": 1722731,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(E) On or around the date of this Agreement, the Buyer has agreed to acquire the entire issued share capital of the Seller.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1722731/000149315226046961/0001493152-26-046961-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1722731/000149315226046961/ex2-1.htm",
+   "filed_at": "2026-10-14T13:03:38-04:00",
+   "filed_kst": "2026-10-15 02:03",
+   "price": 3.99,
+   "change": 17.01,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 3.99,
+     "change": 17.01
+    },
+    {
+     "date": "2026-10-12",
+     "close": 3.41,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-09",
+     "close": 3.41,
+     "change": 37.5
+    }
+   ],
+   "market_cap": 490064041.0,
+   "shares_outstanding": 122823068.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "IRVINE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-15T02:04:25+09:00"
+  },
   {
    "id": "0001140361-26-039551",
    "company": "Valaris Ltd",
@@ -15604,56 +15655,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-06T19:02:04+09:00"
-  },
-  {
-   "id": "0001232384-26-000053",
-   "company": "TRANSCANADA PIPELINES LTD",
-   "ticker": "TCPA",
-   "cik": 99070,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.1 2 exhibit_991xtcextcpl-jul.htm EX-99.1 CODE OF BUSINESS ETHICS POLICY, AS AMENDED exhibit_991xtcextcpl-jul MAKING THE RIGHT CHOICES – DOING THE RIGHT THING TC Energy’s Code of Business Ethics (COBE) Policy Home Living our values Ethical business conduct Communication Assets and information H",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/99070/000123238426000053/0001232384-26-000053-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/99070/000123238426000053/exhibit_991xtcextcpl-jul.htm",
-   "filed_at": "2026-10-05T18:03:41-04:00",
-   "filed_kst": "2026-10-06 07:03",
-   "price": 20.02,
-   "change": 0.1,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 20.02,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-02",
-     "close": 20.0,
-     "change": -0.99
-    },
-    {
-     "date": "2026-10-01",
-     "close": 20.2,
-     "change": 2.07
-    }
-   ],
-   "market_cap": 17452649134.0,
-   "shares_outstanding": 871760696.0,
-   "industry": "Natural Gas Transmission",
-   "state_of_incorporation": null,
-   "hq": "CALGARY ALBERTA, A0",
-   "entity_category": [
-    "Large Accelerated"
-   ],
-   "detected_at": "2026-10-06T19:01:31+09:00"
   }
  ]
 }
