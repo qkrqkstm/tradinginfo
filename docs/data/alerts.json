@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-15T04:29:31+09:00",
+ "updated_at": "2026-10-15T04:34:47+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-109385",
+   "company": "Clear Channel Outdoor Holdings, Inc.",
+   "ticker": "CCO",
+   "cik": 1334978,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "EX-99.1 5 ea030842201ex99-1.htm JOINT PRESS RELEASE, DATED OCTOBER 14, 2026 Exhibit 99.1 Clear Channel Outdoor Holdings, Inc. Announces Completion of Acquisition by Mubadala Capital SAN ANTONIO, October 14, 2026 – Clear Channel Outdoor Holdings, Inc. (“Clear Channel” or the “Company”), a leader in U",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026109385/0001213900-26-109385-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026109385/ea030842201ex99-1.htm",
+   "filed_at": "2026-10-14T15:32:21-04:00",
+   "filed_kst": "2026-10-15 04:32",
+   "price": 2.43,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 2.43,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-13",
+     "close": 2.43,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-12",
+     "close": 2.43,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 1237098043.0,
+   "shares_outstanding": 509093845.0,
+   "industry": "Services-Advertising",
+   "state_of_incorporation": null,
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-15T04:33:14+09:00"
+  },
   {
    "id": "0001493152-26-046961",
    "company": "FDCTECH, INC.",
@@ -15602,59 +15653,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T19:03:50+09:00"
-  },
-  {
-   "id": "0001564708-26-000216",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000216/0001564708-26-000216-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000216/appendix3cclassa20261005.htm",
-   "filed_at": "2026-10-05T19:33:05-04:00",
-   "filed_kst": "2026-10-06 08:33",
-   "price": 32.0,
-   "change": 1.11,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 32.0,
-     "change": 1.11
-    },
-    {
-     "date": "2026-10-02",
-     "close": 31.65,
-     "change": 0.64
-    },
-    {
-     "date": "2026-10-01",
-     "close": 31.45,
-     "change": -0.85
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-06T19:02:04+09:00"
   }
  ]
 }
