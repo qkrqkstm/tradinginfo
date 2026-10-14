@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-10-15T05:39:29+09:00",
+ "updated_at": "2026-10-15T05:44:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437071-26-000076",
+   "company": "Invesco Mortgage Capital Inc.",
+   "ticker": "IVR",
+   "cik": 1437071,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "0 billion • Unrestricted cash and unencumbered investments of $401.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1437071/000143707126000076/0001437071-26-000076-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1437071/000143707126000076/ivr10142026-8kxex991.htm",
+   "filed_at": "2026-10-14T16:43:40-04:00",
+   "filed_kst": "2026-10-15 05:43",
+   "price": 5.56,
+   "change": -0.71,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 5.56,
+     "change": -0.71
+    },
+    {
+     "date": "2026-10-13",
+     "close": 5.6,
+     "change": -0.71
+    },
+    {
+     "date": "2026-10-12",
+     "close": 5.64,
+     "change": -1.05
+    }
+   ],
+   "market_cap": 598480719.0,
+   "shares_outstanding": 107640417.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "ATLANTA, GA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-15T05:44:14+09:00"
+  },
+  {
+   "id": "0001554855-26-002124",
+   "company": "YPF SOCIEDAD ANONIMA",
+   "ticker": "YPF",
+   "cik": 904851,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(“YPF”) completed the acquisition of 24.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/904851/000155485526002124/0001554855-26-002124-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/904851/000155485526002124/MainDocument.htm",
+   "filed_at": "2026-10-14T16:42:52-04:00",
+   "filed_kst": "2026-10-15 05:42",
+   "price": 52.25,
+   "change": 0.89,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 52.25,
+     "change": 0.89
+    },
+    {
+     "date": "2026-10-13",
+     "close": 51.79,
+     "change": -0.35
+    },
+    {
+     "date": "2026-10-12",
+     "close": 51.97,
+     "change": 3.86
+    }
+   ],
+   "market_cap": 20550593434.0,
+   "shares_outstanding": 393312793.0,
+   "industry": "Petroleum Refining",
+   "state_of_incorporation": "Argentina",
+   "hq": "BUENOS AIRES 1364 AR",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T05:43:10+09:00"
+  },
   {
    "id": "0001213900-26-109457",
    "company": "Silo Pharma, Inc.",
@@ -15558,109 +15663,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T21:00:51+09:00"
-  },
-  {
-   "id": "0001437749-26-032107",
-   "company": "Valion Bio, Inc.",
-   "ticker": "VBIO",
-   "cik": 1787740,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 60,
-   "summary": "government agencies, and the program holds FDA Fast Track and Orphan Drug designations for ARS.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926032107/0001437749-26-032107-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926032107/vbio20261005_8k.htm",
-   "filed_at": "2026-10-06T07:45:18-04:00",
-   "filed_kst": "2026-10-06 20:45",
-   "price": 2.48,
-   "change": -4.25,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 2.48,
-     "change": -4.25
-    },
-    {
-     "date": "2026-10-02",
-     "close": 2.59,
-     "change": 3.19
-    },
-    {
-     "date": "2026-10-01",
-     "close": 2.51,
-     "change": -10.36
-    }
-   ],
-   "market_cap": 55030553.0,
-   "shares_outstanding": 22189739.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T20:45:59+09:00"
-  },
-  {
-   "id": "0001171843-26-006438",
-   "company": "Costamare Inc.",
-   "ticker": "CMRE",
-   "cik": 1503584,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The Company also has 22 newbuild containerships under construction and has agreed to acquire two secondhand containerships.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1503584/000117184326006438/0001171843-26-006438-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1503584/000117184326006438/f6k_100626.htm",
-   "filed_at": "2026-10-06T07:38:41-04:00",
-   "filed_kst": "2026-10-06 20:38",
-   "price": 15.39,
-   "change": -0.32,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 15.39,
-     "change": -0.32
-    },
-    {
-     "date": "2026-10-02",
-     "close": 15.44,
-     "change": 1.38
-    },
-    {
-     "date": "2026-10-01",
-     "close": 15.23,
-     "change": 3.68
-    }
-   ],
-   "market_cap": 1880052219.0,
-   "shares_outstanding": 122160638.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "MONACO",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-06T20:39:32+09:00"
   }
  ]
 }
