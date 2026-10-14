@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-14T20:59:33+09:00",
+ "updated_at": "2026-10-14T21:04:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115742",
+   "company": "Amber International Holding Ltd",
+   "ticker": "AMBR",
+   "cik": 1697818,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", an exempted company incorporated in the Cayman Islands (“ Merger Sub ”), and Amber DWM entered into an Agreement and Plan of Merger, dated November 29, 2024 (as amended hereby and from time to time, the “ Merger Agreement ”), pursuant to which Merger Sub merged with and into Amber DWM, with Amber ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1697818/000110465926115742/0001104659-26-115742-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1697818/000110465926115742/tm2627583d1_ex99-1.htm",
+   "filed_at": "2026-10-14T08:00:17-04:00",
+   "filed_kst": "2026-10-14 21:00",
+   "price": 1.96,
+   "change": 6.52,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 1.96,
+     "change": 6.52
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1.84,
+     "change": -2.13
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1.88,
+     "change": -9.18
+    }
+   ],
+   "market_cap": 923897464.0,
+   "shares_outstanding": 471376257.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": null,
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-14T21:00:51+09:00"
+  },
   {
    "id": "0001689375-26-000057",
    "company": "Entrada Therapeutics, Inc.",
@@ -15609,60 +15659,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-06T05:31:09+09:00"
-  },
-  {
-   "id": "0001193125-26-414087",
-   "company": "Armada Acquisition Corp. II",
-   "ticker": "XRPN",
-   "cik": 2044009,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "3.03",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "8-K GRAND CAYMAN false 0002044009 0002044009 2026-10-05 2026-10-05 0002044009 aaciu:UnitsEachConsistingOfOneClassAOrdinaryShareAndOneHalfOfOneRedeemableWarrant2Member 2026-10-05 2026-10-05 0002044009 aaciu:ClassAOrdinarySharesParValue0.0001PerShare1Member 2026-10-05 2026-10-05 0002044009 aaciu:Warra",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526414087/0001193125-26-414087-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526414087/d341866d8k.htm",
-   "filed_at": "2026-10-05T16:03:38-04:00",
-   "filed_kst": "2026-10-06 05:03",
-   "price": 38.65,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 38.65,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 38.65,
-     "change": -1.95
-    },
-    {
-     "date": "2026-10-02",
-     "close": 39.42,
-     "change": 68.25
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "CARMANA BAY, GRAND CAYMAN, E9",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T05:31:08+09:00"
   }
  ]
 }
