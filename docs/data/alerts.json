@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-10-14T21:09:32+09:00",
+ "updated_at": "2026-10-14T21:14:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-421058",
+   "company": "FLEX LTD.",
+   "ticker": "FLEX",
+   "cik": 866374,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": ", a Delaware corporation (“EPC Power”), and Charge Parent, LLC, a Delaware limited liability company (the “Seller”), entered into a Stock Purchase Agreement (the “Purchase Agreement”), pursuant to which the Purchaser agreed to acquire all of the equity interests of EPC Power from the Seller (such tr",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526421058/0001193125-26-421058-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526421058/d147467dex991.htm",
+   "filed_at": "2026-10-14T08:13:15-04:00",
+   "filed_kst": "2026-10-14 21:13",
+   "price": 110.88,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 110.88,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-13",
+     "close": 110.88,
+     "change": -5.42
+    },
+    {
+     "date": "2026-10-12",
+     "close": 117.24,
+     "change": -2.16
+    }
+   ],
+   "market_cap": 40959402201.0,
+   "shares_outstanding": 369402978.0,
+   "industry": "Printed Circuit Boards",
+   "state_of_incorporation": "Singapore",
+   "hq": "AUSTIN, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T21:14:06+09:00"
+  },
+  {
+   "id": "0001104659-26-115745",
+   "company": "MAXCYTE, INC.",
+   "ticker": "MXCT",
+   "cik": 1287098,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향"
+   ],
+   "confidence": 58,
+   "summary": "1 MaxCyte Reports Preliminary Third Quarter 2026 Revenue and Raises Full Year 2026 Revenue Guidance MaxCyte will host its third quarter 2026 earnings conference call on November 10, 2026 ROCKVILLE, MD, October 14, 2026 — MaxCyte, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1287098/000110465926115745/0001104659-26-115745-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1287098/000110465926115745/tm2627568d1_ex99-1.htm",
+   "filed_at": "2026-10-14T08:10:32-04:00",
+   "filed_kst": "2026-10-14 21:10",
+   "price": 0.96,
+   "change": -3.12,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 0.96,
+     "change": -3.12
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1.0,
+     "change": -1.49
+    },
+    {
+     "date": "2026-10-09",
+     "close": 1.01,
+     "change": -0.98
+    }
+   ],
+   "market_cap": 99077958.0,
+   "shares_outstanding": 103206206.0,
+   "industry": "Services-Commercial Physical & Biological Research",
+   "state_of_incorporation": "DE",
+   "hq": "ROCKVILLE, MD",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T21:11:00+09:00"
+  },
   {
    "id": "0001104659-26-115742",
    "company": "Amber International Holding Ltd",
@@ -15555,110 +15661,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T05:31:57+09:00"
-  },
-  {
-   "id": "0001104659-26-113687",
-   "company": "MATERIALISE NV",
-   "ticker": "MTLS",
-   "cik": 1091223,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "5 October 2026 – Materialise NV (Euronext: MTLS) (Nasdaq: MTLS) (“Materialise”) (“the Company”) hereby discloses certain information in relation to its share buyback program announced on 30 October 2025, in accordance with Article 8:4 of the Royal Decree of 29 April 2019 implementing the Belgian Cod",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926113687/0001104659-26-113687-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926113687/tm2626945d1_ex99-1.htm",
-   "filed_at": "2026-10-05T16:01:22-04:00",
-   "filed_kst": "2026-10-06 05:01",
-   "price": 8.55,
-   "change": 0.59,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 8.55,
-     "change": 0.59
-    },
-    {
-     "date": "2026-10-02",
-     "close": 8.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 8.5,
-     "change": -0.7
-    }
-   ],
-   "market_cap": 505024440.0,
-   "shares_outstanding": 59067186.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": null,
-   "hq": "LEVUEN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-06T05:31:52+09:00"
-  },
-  {
-   "id": "0001731122-26-001312",
-   "company": "Endovia Health Sciences, Inc.",
-   "ticker": "EDVA",
-   "cik": 1553788,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Following conditional approval, a sponsor may legally market a qualifying animal drug while continuing to collect the additional effectiveness data necessary to support full FDA approval, subject to applicable statutory and regulatory requirements and annual FDA renewal.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1553788/000173112226001312/0001731122-26-001312-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1553788/000173112226001312/e7991_ex99-1.htm",
-   "filed_at": "2026-10-05T16:02:20-04:00",
-   "filed_kst": "2026-10-06 05:02",
-   "price": 0.17,
-   "change": 4.34,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 0.17,
-     "change": 4.34
-    },
-    {
-     "date": "2026-10-02",
-     "close": 0.16,
-     "change": -1.24
-    },
-    {
-     "date": "2026-10-01",
-     "close": 0.16,
-     "change": -8.52
-    }
-   ],
-   "market_cap": 1090129.0,
-   "shares_outstanding": 6412521.0,
-   "industry": "Beverages",
-   "state_of_incorporation": "NV",
-   "hq": "FORT LAUDERDALE, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-06T05:31:09+09:00"
   }
  ]
 }
