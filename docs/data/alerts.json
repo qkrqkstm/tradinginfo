@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-14T20:29:27+09:00",
+ "updated_at": "2026-10-14T20:34:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000093751-26-000592",
+   "company": "STATE STREET CORP",
+   "ticker": "STT",
+   "cik": 93751,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 73,
+   "summary": "• Stock purchases under our common stock repurchase programs may be made using various types of transactions, including open-market purchases, accelerated share repurchases or other transactions off the market, and may be made under Rule 10b5-1 trading programs.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000592/0000093751-26-000592-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000592/exhibit992-3q26earningsrel.htm",
+   "filed_at": "2026-10-14T07:30:42-04:00",
+   "filed_kst": "2026-10-14 20:30",
+   "price": 174.1,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 174.1,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-13",
+     "close": 174.1,
+     "change": -0.47
+    },
+    {
+     "date": "2026-10-12",
+     "close": 174.93,
+     "change": -0.02
+    }
+   ],
+   "market_cap": 47825577286.0,
+   "shares_outstanding": 274701765.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "MA",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T20:31:15+09:00"
+  },
   {
    "id": "0001398733-26-000056",
    "company": "Aquestive Therapeutics, Inc.",
@@ -15610,59 +15661,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-06T05:31:06+09:00"
-  },
-  {
-   "id": "0001538263-26-000111",
-   "company": "HomeTrust Bancshares, Inc.",
-   "ticker": "HTB",
-   "cik": 1538263,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "Announces Completion of Previous Stock Repurchase Program and Authorization of New Stock Repurchase Program ASHEVILLE, N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000111/0001538263-26-000111-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000111/a2026-10x05xhtbxex991.htm",
-   "filed_at": "2026-10-05T16:17:23-04:00",
-   "filed_kst": "2026-10-06 05:17",
-   "price": 46.53,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 46.53,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 46.53,
-     "change": -0.13
-    },
-    {
-     "date": "2026-10-02",
-     "close": 46.59,
-     "change": 1.08
-    }
-   ],
-   "market_cap": 776733665.0,
-   "shares_outstanding": 16693180.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": "MD",
-   "hq": "ASHEVILLE, NC",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-06T05:30:50+09:00"
   }
  ]
 }
