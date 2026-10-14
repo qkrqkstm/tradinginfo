@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-14T21:14:37+09:00",
+ "updated_at": "2026-10-14T21:19:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-007834",
+   "company": "Valion Bio, Inc.",
+   "ticker": "VBIO",
+   "cik": 1787740,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "The product candidate has received Fast Track and Orphan Drug designations from the FDA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007834/0001683168-26-007834-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007834/valion_ex9901.htm",
+   "filed_at": "2026-10-14T08:15:14-04:00",
+   "filed_kst": "2026-10-14 21:15",
+   "price": 1.55,
+   "change": -7.74,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 1.55,
+     "change": -7.74
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1.68,
+     "change": -21.5
+    },
+    {
+     "date": "2026-10-09",
+     "close": 2.14,
+     "change": -3.17
+    }
+   ],
+   "market_cap": 34394095.0,
+   "shares_outstanding": 22189739.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T21:16:03+09:00"
+  },
   {
    "id": "0001193125-26-421058",
    "company": "FLEX LTD.",
@@ -15607,60 +15660,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T05:33:33+09:00"
-  },
-  {
-   "id": "0001193125-26-414097",
-   "company": "Armada Acquisition Corp. II",
-   "ticker": "XRPN",
-   "cik": 2044009,
-   "form": "425",
-   "items": [
-    "1.01",
-    "3.03",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "425 1 d341866d425.htm 425 425 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): October 5, 2026 ARMADA ACQUISITION CORP. II (Exact na",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526414097/0001193125-26-414097-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526414097/d341866d425.htm",
-   "filed_at": "2026-10-05T16:05:17-04:00",
-   "filed_kst": "2026-10-06 05:05",
-   "price": 38.65,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 38.65,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 38.65,
-     "change": -1.95
-    },
-    {
-     "date": "2026-10-02",
-     "close": 39.42,
-     "change": 68.25
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "CARMANA BAY, GRAND CAYMAN, E9",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T05:31:57+09:00"
   }
  ]
 }
