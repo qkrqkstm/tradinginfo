@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-15T06:19:17+09:00",
+ "updated_at": "2026-10-15T06:24:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-421820",
+   "company": "ImmunityBio, Inc.",
+   "ticker": "IBRX",
+   "cik": 1326110,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "EX-99.1 2 d188887dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 NEWS RELEASE FDA Expands ANKTIVA ® Approval for BCG-Unresponsive Non-Muscle- Invasive Bladder Cancer to Cover Both Papillary and CIS Disease • Expanded indication extends ANKTIVA plus BCG to patients with BCG-unresponsive non-muscle-invasive b",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326110/000119312526421820/0001193125-26-421820-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326110/000119312526421820/d188887dex991.htm",
+   "filed_at": "2026-10-14T17:19:04-04:00",
+   "filed_kst": "2026-10-15 06:19",
+   "price": 9.91,
+   "change": 1.12,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 9.91,
+     "change": 1.12
+    },
+    {
+     "date": "2026-10-13",
+     "close": 9.8,
+     "change": -3.16
+    },
+    {
+     "date": "2026-10-12",
+     "close": 10.12,
+     "change": -3.71
+    }
+   ],
+   "market_cap": 10502977465.0,
+   "shares_outstanding": 1059836273.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T06:20:34+09:00"
+  },
   {
    "id": "0001292814-26-004932",
    "company": "TELEFONICA BRASIL S.A.",
@@ -15595,60 +15648,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-06T21:31:20+09:00"
-  },
-  {
-   "id": "0001683168-26-007636",
-   "company": "AUDDIA INC.",
-   "ticker": "AUUD",
-   "cik": 1554818,
-   "form": "8-K",
-   "items": [
-    "5.07",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "1 About the Merger to form McCarthy Finney (MCFN) Auddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007636/0001683168-26-007636-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007636/auddia_ex9901.htm",
-   "filed_at": "2026-10-06T08:30:14-04:00",
-   "filed_kst": "2026-10-06 21:30",
-   "price": 1.33,
-   "change": 9.92,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 1.33,
-     "change": 9.92
-    },
-    {
-     "date": "2026-10-02",
-     "close": 1.21,
-     "change": -1.63
-    },
-    {
-     "date": "2026-10-01",
-     "close": 1.23,
-     "change": 4.24
-    }
-   ],
-   "market_cap": 7718056.0,
-   "shares_outstanding": 5803050.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "DE",
-   "hq": "BOULDER, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T21:30:44+09:00"
   }
  ]
 }
