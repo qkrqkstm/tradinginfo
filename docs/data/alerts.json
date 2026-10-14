@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-14T22:04:34+09:00",
+ "updated_at": "2026-10-14T22:09:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115765",
+   "company": "TELECOM ARGENTINA SA",
+   "ticker": "TEO",
+   "cik": 932470,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The provision of certain transitional services in favor of Metrotel and a trademark license agreement for the use of the “Tuenti” trademark in the Republic of Argentina are also contemplated.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/932470/000110465926115765/0001104659-26-115765-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/932470/000110465926115765/tm2627562d1_6k.htm",
+   "filed_at": "2026-10-14T09:06:09-04:00",
+   "filed_kst": "2026-10-14 22:06",
+   "price": 12.25,
+   "change": -0.41,
+   "price_history": [
+    {
+     "date": "2026-10-13",
+     "close": 12.25,
+     "change": -0.41
+    },
+    {
+     "date": "2026-10-12",
+     "close": 12.3,
+     "change": -0.57
+    },
+    {
+     "date": "2026-10-09",
+     "close": 12.37,
+     "change": -3.36
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Telephone Communications (No Radiotelephone)",
+   "state_of_incorporation": null,
+   "hq": "BUENOS AIRES",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-14T22:07:00+09:00"
+  },
   {
    "id": "0001493152-26-046938",
    "company": "SKYX Platforms Corp.",
@@ -15611,56 +15661,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-06T05:55:45+09:00"
-  },
-  {
-   "id": "0001193125-26-414257",
-   "company": "Zcash ETF",
-   "ticker": "ZCSH",
-   "cik": 1720265,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "It is understood by the Parties that Anchorage is an independent contractor, and that this Agreement does not create or constitute a partnership, joint venture, or employment relationship between the Parties.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1720265/000119312526414257/0001193125-26-414257-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1720265/000119312526414257/zcsh-ex10_1.htm",
-   "filed_at": "2026-10-05T16:37:45-04:00",
-   "filed_kst": "2026-10-06 05:37",
-   "price": 35.75,
-   "change": 5.02,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 35.75,
-     "change": 5.02
-    },
-    {
-     "date": "2026-10-02",
-     "close": 34.04,
-     "change": -3.08
-    },
-    {
-     "date": "2026-10-01",
-     "close": 35.12,
-     "change": -7.43
-    }
-   ],
-   "market_cap": 172647475.0,
-   "shares_outstanding": 4829300.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": "DE",
-   "hq": "STAMFORD, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T05:55:08+09:00"
   }
  ]
 }
