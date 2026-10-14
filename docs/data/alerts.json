@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-14T22:34:48+09:00",
+ "updated_at": "2026-10-14T22:39:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-109266",
+   "company": "SEALSQ Corp",
+   "ticker": "LAES",
+   "cik": 1951222,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "htm AGREEMENT AND PLAN OF MERGER, DATED AS OF OCTOBER 8, 2026, BY AND AMONG GIGCAPITAL8 CORP.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1951222/000121390026109266/0001213900-26-109266-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1951222/000121390026109266/ea030803901ex99-2.htm",
+   "filed_at": "2026-10-14T09:38:54-04:00",
+   "filed_kst": "2026-10-14 22:38",
+   "price": 1.91,
+   "change": -1.3,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 1.9,
+     "change": -1.3
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1.93,
+     "change": -4.46
+    },
+    {
+     "date": "2026-10-12",
+     "close": 2.02,
+     "change": -4.27
+    }
+   ],
+   "market_cap": 365812996.0,
+   "shares_outstanding": 191525129.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "COINTRIN, V8",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-14T22:39:28+09:00"
+  },
   {
    "id": "0001129928-26-000072",
    "company": "ONCOLYTICS BIOTECH INC",
@@ -15613,59 +15665,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-06T06:14:58+09:00"
-  },
-  {
-   "id": "0001104659-26-113763",
-   "company": "IOVANCE BIOTHERAPEUTICS, INC.",
-   "ticker": "IOVA",
-   "cik": 1425205,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Excludes depreciation and amortization *Nonsquamous mNSCLC without EGFR, ROS1 or ALK genomic mutations Abbreviations: 2L, second line; COS, cost of sales; FTD, fast track designation; mDOR, median duration of response; mNSCLC, metastatic non - small cell lung cancer; OpEx , operating expenses; ORR, ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926113763/0001104659-26-113763-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926113763/tm2627047d1_ex99-1.htm",
-   "filed_at": "2026-10-05T17:00:54-04:00",
-   "filed_kst": "2026-10-06 06:00",
-   "price": 14.15,
-   "change": -0.49,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 14.15,
-     "change": -0.49
-    },
-    {
-     "date": "2026-10-02",
-     "close": 14.22,
-     "change": -0.07
-    },
-    {
-     "date": "2026-10-01",
-     "close": 14.23,
-     "change": -3.98
-    }
-   ],
-   "market_cap": 6409545763.0,
-   "shares_outstanding": 452971432.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SAN CARLOS, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-06T06:14:55+09:00"
   }
  ]
 }
