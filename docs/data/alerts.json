@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-14T20:14:35+09:00",
+ "updated_at": "2026-10-14T20:19:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-032600",
+   "company": "Eton Pharmaceuticals, Inc.",
+   "ticker": "ETON",
+   "cik": 1710340,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "● Patient market research demonstrated strong preference for buccal film, with 71% of surveyed patients preferring film versus 13% for nasal spray, assuming equivalent efficacy ● Anticipated commercial launch in April 2027, subject to final FDA approval, provides a potential near-term growth opportu",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926032600/0001437749-26-032600-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926032600/ex_1025429.htm",
+   "filed_at": "2026-10-14T07:15:22-04:00",
+   "filed_kst": "2026-10-14 20:15",
+   "price": 53.33,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 53.33,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-13",
+     "close": 53.33,
+     "change": -3.48
+    },
+    {
+     "date": "2026-10-12",
+     "close": 55.25,
+     "change": 0.07
+    }
+   ],
+   "market_cap": 1524338590.0,
+   "shares_outstanding": 28583135.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "DEER PARK, IL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-14T20:16:01+09:00"
+  },
   {
    "id": "0001104659-26-115723",
    "company": "UNITED THERAPEUTICS Corp",
@@ -15602,57 +15658,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-06T05:30:43+09:00"
-  },
-  {
-   "id": "0001434265-26-000132",
-   "company": "GENMAB A/S",
-   "ticker": "GMAB",
-   "cik": 1434265,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 75,
-   "summary": "1 Genmab and AbbVie Announce Epcoritamab in Combination with R-CHOP Demonstrates Statistically Significant Improvement in Progression-Free Survival in Patients with Newly Diagnosed Diffuse Large B-Cell Lymphoma Company Announcement COPENHAGEN, Denmark and NORTH CHICAGO, Ill.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000132/0001434265-26-000132-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000132/gmab_20261015xex99d1.htm",
-   "filed_at": "2026-10-05T15:28:19-04:00",
-   "filed_kst": "2026-10-06 04:28",
-   "price": 38.8,
-   "change": 11.65,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 38.8,
-     "change": 11.65
-    },
-    {
-     "date": "2026-10-02",
-     "close": 34.75,
-     "change": 0.58
-    },
-    {
-     "date": "2026-10-01",
-     "close": 34.55,
-     "change": -3.15
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "1253 COPENHAGEN K, G7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-06T04:46:01+09:00"
   }
  ]
 }
