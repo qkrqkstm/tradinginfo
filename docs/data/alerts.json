@@ -1,7 +1,170 @@
 {
- "updated_at": "2026-10-15T19:04:56+09:00",
+ "updated_at": "2026-10-15T19:09:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-422226",
+   "company": "HAIN CELESTIAL GROUP INC",
+   "ticker": "HAIN",
+   "cik": 910406,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "8-K 0000910406 false The Hain Celestial Group, Inc. 0000910406 2026-10-09 2026-10-09 UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported)",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/910406/000119312526422226/0001193125-26-422226-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/910406/000119312526422226/hain-20261009.htm",
+   "filed_at": "2026-10-15T06:05:58-04:00",
+   "filed_kst": "2026-10-15 19:05",
+   "price": 0.58,
+   "change": -0.69,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 0.58,
+     "change": -0.69
+    },
+    {
+     "date": "2026-10-14",
+     "close": 0.58,
+     "change": 1.75
+    },
+    {
+     "date": "2026-10-13",
+     "close": 0.57,
+     "change": -8.06
+    }
+   ],
+   "market_cap": 52781316.0,
+   "shares_outstanding": 91002269.0,
+   "industry": "Food and Kindred Products",
+   "state_of_incorporation": "DE",
+   "hq": "HOBOKEN, NJ",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-15T19:08:09+09:00"
+  },
+  {
+   "id": "0001140361-26-039632",
+   "company": "ROKU, INC",
+   "ticker": "ROKU",
+   "cik": 1428439,
+   "form": "8-K",
+   "items": [
+    "5.07"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "(“ Roku ”) entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Fox Corporation, a Delaware corporation (“ FOX ”), Falcon Merger Sub 1, Inc.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1428439/000114036126039632/0001140361-26-039632-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1428439/000114036126039632/ef20083760_8k.htm",
+   "filed_at": "2026-10-14T21:20:10-04:00",
+   "filed_kst": "2026-10-15 10:20",
+   "price": 152.57,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 152.57,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-14",
+     "close": 152.57,
+     "change": -0.06
+    },
+    {
+     "date": "2026-10-13",
+     "close": 152.66,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Cable & Other Pay Television Services",
+   "state_of_incorporation": "DE",
+   "hq": "SAN JOSE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T19:07:37+09:00"
+  },
+  {
+   "id": "0001104659-26-115921",
+   "company": "Ocugen, Inc.",
+   "ticker": "OCGN",
+   "cik": 1372299,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "파트너십",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "\" Ocugen continues to advance OCU400 through its Phase 3 liMeliGhT clinical trial with a topline data readout expected in the first quarter of 2027, followed by global regulatory submissions, including a Biologics License Application in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926115921/0001104659-26-115921-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926115921/tm2627592d1_ex99-1.htm",
+   "filed_at": "2026-10-14T21:22:06-04:00",
+   "filed_kst": "2026-10-15 10:22",
+   "price": 0.84,
+   "change": 0.02,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 0.84,
+     "change": 0.02
+    },
+    {
+     "date": "2026-10-14",
+     "close": 0.84,
+     "change": -4.97
+    },
+    {
+     "date": "2026-10-13",
+     "close": 0.88,
+     "change": -6.55
+    }
+   ],
+   "market_cap": 284852737.0,
+   "shares_outstanding": 339110401.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "MALVERN, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-15T19:07:02+09:00"
+  },
   {
    "id": "0001564708-26-000222",
    "company": "NEWS CORP",
@@ -15492,163 +15655,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-06T22:09:35+09:00"
-  },
-  {
-   "id": "0001213900-26-106999",
-   "company": "Bluejay Diagnostics, Inc.",
-   "ticker": "BJDX",
-   "cik": 1704287,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The Symphony ™ IL-6 Test has not been cleared or approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1704287/000121390026106999/0001213900-26-106999-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1704287/000121390026106999/ea030776901ex99-1.htm",
-   "filed_at": "2026-10-06T09:04:23-04:00",
-   "filed_kst": "2026-10-06 22:04",
-   "price": 0.76,
-   "change": 0.03,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 0.76,
-     "change": 0.03
-    },
-    {
-     "date": "2026-10-05",
-     "close": 0.76,
-     "change": -9.08
-    },
-    {
-     "date": "2026-10-02",
-     "close": 0.84,
-     "change": -1.06
-    }
-   ],
-   "market_cap": 3395719.0,
-   "shares_outstanding": 4468051.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "ACTON, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T22:05:26+09:00"
-  },
-  {
-   "id": "0001193125-26-414993",
-   "company": "TPG RE Finance Trust, Inc.",
-   "ticker": "TRTX",
-   "cik": 1630472,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(B)(30) (Due on Sale or Encumbrance) Luke Field Central Logistics The related Loan Documents permit a change of control without the consent of the related lender, pursuant to the related joint venture agreement so long as certain conditions in the related Loan Documents are satisfied.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1630472/000119312526414993/0001193125-26-414993-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1630472/000119312526414993/d176996dex101.htm",
-   "filed_at": "2026-10-06T08:34:14-04:00",
-   "filed_kst": "2026-10-06 21:34",
-   "price": 6.02,
-   "change": -1.95,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 6.02,
-     "change": -1.95
-    },
-    {
-     "date": "2026-10-02",
-     "close": 6.14,
-     "change": -3.15
-    },
-    {
-     "date": "2026-10-01",
-     "close": 6.34,
-     "change": 1.28
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-06T21:35:25+09:00"
-  },
-  {
-   "id": "0001493152-26-045870",
-   "company": "Worksport Ltd",
-   "ticker": "WKSP",
-   "cik": 1096275,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "27 million in July to approximately $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226045870/0001493152-26-045870-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226045870/ex99-1.htm",
-   "filed_at": "2026-10-06T08:31:21-04:00",
-   "filed_kst": "2026-10-06 21:31",
-   "price": 0.41,
-   "change": -11.16,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 0.41,
-     "change": -11.16
-    },
-    {
-     "date": "2026-10-02",
-     "close": 0.46,
-     "change": -0.65
-    },
-    {
-     "date": "2026-10-01",
-     "close": 0.46,
-     "change": -0.65
-    }
-   ],
-   "market_cap": 6272317.0,
-   "shares_outstanding": 15298333.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "NV",
-   "hq": "WEST SENECA, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-06T21:31:54+09:00"
   }
  ]
 }
