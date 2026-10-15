@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-15T20:04:36+09:00",
+ "updated_at": "2026-10-15T20:09:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-115960",
+   "company": "KIMBERLY CLARK CORP",
+   "ticker": "KMB",
+   "cik": 55785,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 59,
+   "summary": "· Equity Company Adjustments – Kimberly-Clark’s proportionate share of charges recognized by the Joint Venture formed as part of the completion of the IFP Transaction for certain acquisition-related accounting impacts and restructuring charges.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926115960/0001104659-26-115960-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926115960/tm2627599d1_ex99-1.htm",
+   "filed_at": "2026-10-15T07:08:22-04:00",
+   "filed_kst": "2026-10-15 20:08",
+   "price": 99.41,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 99.41,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-14",
+     "close": 99.41,
+     "change": 1.14
+    },
+    {
+     "date": "2026-10-13",
+     "close": 98.29,
+     "change": -0.49
+    }
+   ],
+   "market_cap": 33061682168.0,
+   "shares_outstanding": 332579038.0,
+   "industry": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+   "state_of_incorporation": "DE",
+   "hq": "IRVING, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T20:09:01+09:00"
+  },
   {
    "id": "0001656472-26-000061",
    "company": "Cronos Group Inc.",
@@ -15600,59 +15655,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-07T05:06:18+09:00"
-  },
-  {
-   "id": "0001193125-26-415547",
-   "company": "Personalis, Inc.",
-   "ticker": "PSNL",
-   "cik": 1527753,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Delaware corporation (“ Personalis ” or the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Tempus AI, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526415547/0001193125-26-415547-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526415547/d155320d8k.htm",
-   "filed_at": "2026-10-06T16:05:33-04:00",
-   "filed_kst": "2026-10-07 05:05",
-   "price": 16.03,
-   "change": -2.26,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 16.03,
-     "change": -2.26
-    },
-    {
-     "date": "2026-10-05",
-     "close": 16.4,
-     "change": 0.74
-    },
-    {
-     "date": "2026-10-02",
-     "close": 16.28,
-     "change": 0.68
-    }
-   ],
-   "market_cap": 1712001948.0,
-   "shares_outstanding": 106799872.0,
-   "industry": "Services-Medical Laboratories",
-   "state_of_incorporation": "DE",
-   "hq": "FREMONT, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-07T05:06:01+09:00"
   }
  ]
 }
