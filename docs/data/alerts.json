@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-10-16T05:14:21+09:00",
+ "updated_at": "2026-10-16T05:19:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001731122-26-001348",
+   "company": "ANAVEX LIFE SCIENCES CORP.",
+   "ticker": "AVXL",
+   "cik": 1314052,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Blarcamesine has previously received Orphan Drug Designation from the FDA for the treatment of Fragile X syndrome.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1314052/000173112226001348/0001731122-26-001348-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1314052/000173112226001348/e8009_ex99-1.htm",
+   "filed_at": "2026-10-15T16:18:27-04:00",
+   "filed_kst": "2026-10-16 05:18",
+   "price": 1.48,
+   "change": -0.67,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 1.48,
+     "change": -0.67
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1.49,
+     "change": 0.68
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1.48,
+     "change": -1.99
+    }
+   ],
+   "market_cap": 137191326.0,
+   "shares_outstanding": 92696842.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-16T05:18:53+09:00"
+  },
+  {
+   "id": "0001104659-26-116248",
+   "company": "COLONY BANKCORP INC",
+   "ticker": "CBAN",
+   "cik": 711669,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "” Colony and First Reliance announced their partnership on June 24, 2026, through a definitive agreement in which Colony agreed to acquire 100% of First Reliance's stock in a combined stock-and-cash transaction valued at approximately $163 million.",
+   "deal_role": "acquirer",
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711669/000110465926116248/0001104659-26-116248-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/711669/000110465926116248/cban-ex99d1.htm",
+   "filed_at": "2026-10-15T16:15:20-04:00",
+   "filed_kst": "2026-10-16 05:15",
+   "price": 20.03,
+   "change": 1.68,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 20.03,
+     "change": 1.68
+    },
+    {
+     "date": "2026-10-14",
+     "close": 19.7,
+     "change": -1.2
+    },
+    {
+     "date": "2026-10-13",
+     "close": 19.94,
+     "change": -0.3
+    }
+   ],
+   "market_cap": 425055929.0,
+   "shares_outstanding": 21220965.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "GA",
+   "hq": "FITZGERALD, GA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-16T05:16:09+09:00"
+  },
   {
    "id": "0001213900-26-109844",
    "company": "Melar Acquisition Corp. I/Cayman",
@@ -15528,109 +15635,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-07T06:22:41+09:00"
-  },
-  {
-   "id": "0001213900-26-107297",
-   "company": "Launch Two Acquisition Corp.",
-   "ticker": "LPBB",
-   "cik": 2023676,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "On June 25, 2026, NuCube announced that it has entered into a business combination agreement with Launch Two Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026107297/0001213900-26-107297-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026107297/ea0307900-425_nucube.htm",
-   "filed_at": "2026-10-06T17:15:01-04:00",
-   "filed_kst": "2026-10-07 06:15",
-   "price": 10.81,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 10.81,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-02",
-     "close": 10.81,
-     "change": -0.18
-    },
-    {
-     "date": "2026-10-01",
-     "close": 10.83,
-     "change": 0.05
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Fabricated Plate Work (Boiler Shops)",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "OAKLAND, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T06:15:34+09:00"
-  },
-  {
-   "id": "0001185185-26-004627",
-   "company": "UY Scuti Acquisition Corp.",
-   "ticker": "UYSC",
-   "cik": 2036973,
-   "form": "425",
-   "items": [
-    "2.03",
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(the “ Company ” or “ UYSC ”) entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Isdera Group Limited, a Cayman Islands company (“ Isdera Group ”), a company that shall become the parent company of Xinghui Automotive Technology (Hainan) Co.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2036973/000118518526004627/0001185185-26-004627-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2036973/000118518526004627/uysc8k425100526.htm",
-   "filed_at": "2026-10-06T17:02:52-04:00",
-   "filed_kst": "2026-10-07 06:02",
-   "price": 11.0,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 11.0,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-02",
-     "close": 11.0,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 11.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 57431660.0,
-   "shares_outstanding": 5221060.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T06:03:31+09:00"
   }
  ]
 }
