@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-15T22:24:41+09:00",
+ "updated_at": "2026-10-15T22:29:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-109622",
+   "company": "Evolution Metals & Technologies Corp.",
+   "ticker": "EMAT",
+   "cik": 1866226,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026109622/0001213900-26-109622-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026109622/ea030872301ex99-1.htm",
+   "filed_at": "2026-10-15T09:26:18-04:00",
+   "filed_kst": "2026-10-15 22:26",
+   "price": 1.5,
+   "change": 5.26,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 1.5,
+     "change": 5.26
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1.42,
+     "change": -3.06
+    },
+    {
+     "date": "2026-10-12",
+     "close": 1.47,
+     "change": -10.37
+    }
+   ],
+   "market_cap": 932700969.0,
+   "shares_outstanding": 621800646.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-15T22:27:01+09:00"
+  },
   {
    "id": "0001171843-26-006647",
    "company": "Edesa Biotech, Inc.",
@@ -15587,59 +15640,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-07T05:34:46+09:00"
-  },
-  {
-   "id": "0001213900-26-107244",
-   "company": "Melar Acquisition Corp. I/Cayman",
-   "ticker": "MACI",
-   "cik": 2016221,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "I, a Cayman Islands exempted company (“Melar”) entered into an Agreement and Plan of Merger, as amended (the “Merger Agreement”), with MAC I Merger Sub Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2016221/000121390026107244/0001213900-26-107244-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2016221/000121390026107244/ea030778201ex99-1.htm",
-   "filed_at": "2026-10-06T16:31:11-04:00",
-   "filed_kst": "2026-10-07 05:31",
-   "price": 11.07,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 11.07,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 11.07,
-     "change": 0.27
-    },
-    {
-     "date": "2026-10-02",
-     "close": 11.04,
-     "change": -0.45
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T05:31:53+09:00"
   }
  ]
 }
