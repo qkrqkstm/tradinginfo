@@ -1,7 +1,56 @@
 {
- "updated_at": "2026-10-15T19:29:32+09:00",
+ "updated_at": "2026-10-15T19:34:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-422241",
+   "company": "AIR Global PLC",
+   "ticker": "AIIR",
+   "cik": 2097725,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 67,
+   "summary": "1 AIR Announces Capital Return Framework Establishes Quarterly Dividend Policy and Share Repurchase Program Supported by Strong Cash Flow Generation Dubai, UAE, 15 October 2026, – AIR today announced the establishment of a formal capital return framework designed to enhance shareholder returns while",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2097725/000119312526422241/0001193125-26-422241-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2097725/000119312526422241/ck0002097725-ex99_1.htm",
+   "filed_at": "2026-10-15T06:32:40-04:00",
+   "filed_kst": "2026-10-15 19:32",
+   "price": 7.48,
+   "change": 0.13,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 7.48,
+     "change": 0.13
+    },
+    {
+     "date": "2026-10-13",
+     "close": 7.47,
+     "change": -0.53
+    },
+    {
+     "date": "2026-10-12",
+     "close": 7.51,
+     "change": 0.94
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Tobacco Products",
+   "state_of_incorporation": "Jersey",
+   "hq": "DUBAI (DIFC)",
+   "entity_category": null,
+   "detected_at": "2026-10-15T19:33:16+09:00"
+  },
   {
    "id": "0001193125-26-422226",
    "company": "HAIN CELESTIAL GROUP INC",
@@ -15604,57 +15653,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-06T22:15:36+09:00"
-  },
-  {
-   "id": "0001104659-26-113913",
-   "company": "Paramount Skydance Corp",
-   "ticker": "PSKY",
-   "cik": 2041610,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation and wholly owned subsidiary of Paramount (“Merger Sub”) completed the transactions contemplated by the previously disclosed Agreement and Plan of Merger, dated as of February 27, 2026, among WBD, the Company and Merger Sub (the “WBD Merger Agreement”), pursuant to which, Mer",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926113913/0001104659-26-113913-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926113913/tm2626659d7_ex99-2.htm",
-   "filed_at": "2026-10-06T09:08:38-04:00",
-   "filed_kst": "2026-10-06 22:08",
-   "price": 9.78,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 9.78,
-     "change": -0.05
-    },
-    {
-     "date": "2026-10-05",
-     "close": 9.78,
-     "change": 2.95
-    },
-    {
-     "date": "2026-10-02",
-     "close": 9.5,
-     "change": 1.71
-    }
-   ],
-   "market_cap": 10480903035.0,
-   "shares_outstanding": 1071666977.0,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-06T22:09:35+09:00"
   }
  ]
 }
