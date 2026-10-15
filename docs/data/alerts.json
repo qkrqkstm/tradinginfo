@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-16T05:24:44+09:00",
+ "updated_at": "2026-10-16T05:29:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-032716",
+   "company": "DAILY JOURNAL CORP",
+   "ticker": "DJCO",
+   "cik": 783412,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "On October 13, 2026, Daily Journal Corporation (the “Company”) completed the acquisition of Revir Technologies, Inc.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/783412/000143774926032716/0001437749-26-032716-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/783412/000143774926032716/djco20261015_8k.htm",
+   "filed_at": "2026-10-15T16:24:50-04:00",
+   "filed_kst": "2026-10-16 05:24",
+   "price": 638.6,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 638.6,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 638.6,
+     "change": 1.38
+    },
+    {
+     "date": "2026-10-14",
+     "close": 629.9,
+     "change": -2.27
+    }
+   ],
+   "market_cap": 879960147.0,
+   "shares_outstanding": 1377952.0,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "SC",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-16T05:25:26+09:00"
+  },
   {
    "id": "0001731122-26-001348",
    "company": "ANAVEX LIFE SCIENCES CORP.",
@@ -15583,58 +15637,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-07T06:23:13+09:00"
-  },
-  {
-   "id": "0000950103-26-015293",
-   "company": "CINTAS CORP",
-   "ticker": "CTAS",
-   "cik": 723254,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously disclosed, on March 10, 2026, Cintas Corporation, a Washington corporation (“Cintas”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with (i) UniFirst Corporation, a Massachusetts corporation (“UniFirst”), (ii) Bruin Merger Sub I, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000095010326015293/0000950103-26-015293-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/723254/000095010326015293/dp254677_8k.htm",
-   "filed_at": "2026-10-06T17:22:03-04:00",
-   "filed_kst": "2026-10-07 06:22",
-   "price": 195.96,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 195.96,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-06",
-     "close": 195.96,
-     "change": 0.29
-    },
-    {
-     "date": "2026-10-05",
-     "close": 195.4,
-     "change": 1.23
-    }
-   ],
-   "market_cap": 78417227174.0,
-   "shares_outstanding": 400169561.0,
-   "industry": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
-   "state_of_incorporation": "WA",
-   "hq": "CINCINNATI, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-07T06:22:41+09:00"
   }
  ]
 }
