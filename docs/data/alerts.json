@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-15T19:49:35+09:00",
+ "updated_at": "2026-10-15T19:54:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-109573",
+   "company": "Yiren Digital Ltd.",
+   "ticker": "YRD",
+   "cik": 1631761,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Share Repurchase Program The Company reaffirms its intention to continue implementing its previously announced share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1631761/000121390026109573/0001213900-26-109573-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1631761/000121390026109573/ea030860401ex99-1.htm",
+   "filed_at": "2026-10-15T06:51:08-04:00",
+   "filed_kst": "2026-10-15 19:51",
+   "price": 0.65,
+   "change": 42.86,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 0.65,
+     "change": 42.86
+    },
+    {
+     "date": "2026-10-13",
+     "close": 0.46,
+     "change": -18.75
+    },
+    {
+     "date": "2026-10-12",
+     "close": 0.56,
+     "change": -44.0
+    }
+   ],
+   "market_cap": 113542537.0,
+   "shares_outstanding": 174680826.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BEIJING",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-15T19:51:36+09:00"
+  },
   {
    "id": "0001193125-26-422241",
    "company": "AIR Global PLC",
@@ -15599,60 +15649,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-07T00:14:12+09:00"
-  },
-  {
-   "id": "0001193125-26-415015",
-   "company": "REPLIGEN CORP",
-   "ticker": "RGEN",
-   "cik": 730272,
-   "form": "8-K",
-   "items": [
-    "2.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Delaware corporation (“BioLife”), pursuant to the Agreement and Plan of Merger, dated as of July 21, 2026 (the “Merger Agreement”), by and among Repligen, Bravo Merger Sub I, Inc.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/730272/000119312526415015/0001193125-26-415015-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/730272/000119312526415015/d240327dex991.htm",
-   "filed_at": "2026-10-06T09:14:18-04:00",
-   "filed_kst": "2026-10-06 22:14",
-   "price": 189.5,
-   "change": 4.29,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 189.5,
-     "change": 4.29
-    },
-    {
-     "date": "2026-10-02",
-     "close": 181.7,
-     "change": 2.52
-    },
-    {
-     "date": "2026-10-01",
-     "close": 177.23,
-     "change": -7.8
-    }
-   ],
-   "market_cap": 10694550180.0,
-   "shares_outstanding": 56435621.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "WALTHAM, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-06T22:15:36+09:00"
   }
  ]
 }
