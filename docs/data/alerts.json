@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-15T18:59:35+09:00",
+ "updated_at": "2026-10-15T19:04:56+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001564708-26-000222",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000222/0001564708-26-000222-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000222/appendix3cclassa20261014.htm",
+   "filed_at": "2026-10-14T18:12:55-04:00",
+   "filed_kst": "2026-10-15 07:12",
+   "price": 32.45,
+   "change": -0.4,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 32.45,
+     "change": -0.4
+    },
+    {
+     "date": "2026-10-13",
+     "close": 32.58,
+     "change": 0.62
+    },
+    {
+     "date": "2026-10-12",
+     "close": 32.38,
+     "change": 1.16
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T19:03:23+09:00"
+  },
   {
    "id": "0001193125-26-421830",
    "company": "Fox Corp",
@@ -15596,56 +15649,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-06T21:31:54+09:00"
-  },
-  {
-   "id": "0001683168-26-007637",
-   "company": "AUDDIA INC.",
-   "ticker": "AUUD",
-   "cik": 1554818,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "1 About the Merger to form McCarthy Finney (MCFN) Auddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007637/0001683168-26-007637-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826007637/auddia_425.htm",
-   "filed_at": "2026-10-06T08:30:55-04:00",
-   "filed_kst": "2026-10-06 21:30",
-   "price": 1.33,
-   "change": 9.92,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 1.33,
-     "change": 9.92
-    },
-    {
-     "date": "2026-10-02",
-     "close": 1.21,
-     "change": -1.63
-    },
-    {
-     "date": "2026-10-01",
-     "close": 1.23,
-     "change": 4.24
-    }
-   ],
-   "market_cap": 7718056.0,
-   "shares_outstanding": 5803050.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "DE",
-   "hq": "BOULDER, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-06T21:31:22+09:00"
   }
  ]
 }
