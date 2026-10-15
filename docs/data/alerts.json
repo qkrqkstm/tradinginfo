@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-15T21:49:36+09:00",
+ "updated_at": "2026-10-15T21:54:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-116005",
+   "company": "BEAZER HOMES USA INC",
+   "ticker": "BZH",
+   "cik": 915840,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "(the “ Company ”, “ we ”, “ our ” or “ us ”) held a virtual special meeting of its stockholders (the “ Special Meeting ”) to vote on the proposals identified in the Company’s definitive proxy statement prepared in connection with the Merger Agreement (as defined below) and filed with the U.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/915840/000110465926116005/0001104659-26-116005-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/915840/000110465926116005/tm2622398d18_8k.htm",
+   "filed_at": "2026-10-15T08:50:07-04:00",
+   "filed_kst": "2026-10-15 21:50",
+   "price": 33.31,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 33.31,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-14",
+     "close": 33.31,
+     "change": -0.39
+    },
+    {
+     "date": "2026-10-13",
+     "close": 33.44,
+     "change": 0.03
+    }
+   ],
+   "market_cap": 888698242.0,
+   "shares_outstanding": 26679623.0,
+   "industry": "Operative Builders",
+   "state_of_incorporation": "DE",
+   "hq": "ATLANTA, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-15T21:50:33+09:00"
+  },
   {
    "id": "0001104659-26-116003",
    "company": "Evotec SE",
@@ -15591,60 +15644,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-07T05:28:01+09:00"
-  },
-  {
-   "id": "0001437749-26-032200",
-   "company": "NextPlat Corp",
-   "ticker": "NXPL",
-   "cik": 1058307,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through acquisitions, joint ventures, and collaborations, the Company seeks to provide access to high-quality healthcare and pharmacy services supporting patients, providers, institutions, and public-sector organizations and creating online sales channels for the sales of products",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1058307/000143774926032200/0001437749-26-032200-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1058307/000143774926032200/nxpl20261006_8k.htm",
-   "filed_at": "2026-10-06T16:17:02-04:00",
-   "filed_kst": "2026-10-07 05:17",
-   "price": 9.27,
-   "change": 3.0,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 9.27,
-     "change": 3.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 9.0,
-     "change": 5.26
-    },
-    {
-     "date": "2026-10-02",
-     "close": 8.55,
-     "change": -1.84
-    }
-   ],
-   "market_cap": 25151568.0,
-   "shares_outstanding": 2713222.0,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": "NV",
-   "hq": "HALLANDALE BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-07T05:17:43+09:00"
   }
  ]
 }
