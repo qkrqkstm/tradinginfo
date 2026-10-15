@@ -1,7 +1,43 @@
 {
- "updated_at": "2026-10-16T06:24:12+09:00",
+ "updated_at": "2026-10-16T06:29:08+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-066024",
+   "company": "Ares Real Estate Income Trust Inc.",
+   "ticker": "ZARE",
+   "cik": 1327978,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 are-20260930ex991.htm EX-99.1 Document Exhibit 99.1 CONSENT OF INDEPENDENT VALUATION ADVISOR We hereby consent to the references to our name and the description of our role in the valuation process described under the heading “September 30, 2026 NAV Per Share” in the Current Report on Form",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327978/000162828026066024/0001628280-26-066024-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1327978/000162828026066024/are-20260930ex991.htm",
+   "filed_at": "2026-10-15T17:25:07-04:00",
+   "filed_kst": "2026-10-16 06:25",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": 182786610.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-16T06:26:00+09:00"
+  },
   {
    "id": "0001628280-26-066021",
    "company": "Mount Logan Capital Inc.",
@@ -15588,57 +15624,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-07T19:48:07+09:00"
-  },
-  {
-   "id": "0001193125-26-416163",
-   "company": "Third Coast Bancshares, Inc.",
-   "ticker": "TCBX",
-   "cik": 1781730,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "Announce Definitive Merger Agreement Once Completed, Combined Total Assets to Exceed $9 Billion HOUSTON, TX and OKLAHOMA CITY, OK – October 7, 2026 – Third Coast Bancshares, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1781730/000119312526416163/0001193125-26-416163-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1781730/000119312526416163/d146780dex992.htm",
-   "filed_at": "2026-10-07T06:45:09-04:00",
-   "filed_kst": "2026-10-07 19:45",
-   "price": 43.02,
-   "change": 0.3,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 43.02,
-     "change": 0.3
-    },
-    {
-     "date": "2026-10-05",
-     "close": 42.89,
-     "change": -1.08
-    },
-    {
-     "date": "2026-10-02",
-     "close": 43.36,
-     "change": 1.14
-    }
-   ],
-   "market_cap": 716496809.0,
-   "shares_outstanding": 16654970.0,
-   "industry": "Savings Institutions, Not Federally Chartered",
-   "state_of_incorporation": "TX",
-   "hq": "HUMBLE, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T19:46:03+09:00"
   }
  ]
 }
