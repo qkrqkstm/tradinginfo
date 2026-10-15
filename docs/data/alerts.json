@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-15T22:14:42+09:00",
+ "updated_at": "2026-10-15T22:19:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006647",
+   "company": "Edesa Biotech, Inc.",
+   "ticker": "EDSA",
+   "cik": 1540159,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "The Company anticipates that topline data will be available fourth quarter 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1540159/000117184326006647/0001171843-26-006647-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1540159/000117184326006647/f8k_101426.htm",
+   "filed_at": "2026-10-15T09:15:14-04:00",
+   "filed_kst": "2026-10-15 22:15",
+   "price": 2.65,
+   "change": -7.02,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 2.65,
+     "change": -7.02
+    },
+    {
+     "date": "2026-10-13",
+     "close": 2.85,
+     "change": -3.06
+    },
+    {
+     "date": "2026-10-12",
+     "close": 2.94,
+     "change": -16.24
+    }
+   ],
+   "market_cap": 25548732.0,
+   "shares_outstanding": 9641031.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-15T22:16:06+09:00"
+  },
   {
    "id": "0001104659-26-116011",
    "company": "Canaan Inc.",
@@ -15587,60 +15640,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-07T05:31:53+09:00"
-  },
-  {
-   "id": "0001213900-26-107238",
-   "company": "HeartSciences Inc.",
-   "ticker": "HSCS",
-   "cik": 1468492,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "M&A",
-    "FDA"
-   ],
-   "confidence": 79,
-   "summary": "1 HeartSciences Receives FDA 510(k) Clearance for its MyoVista ® wav ECG TM Device Southlake, TX, October 6, 2026 (GLOBE NEWSWIRE) -- HeartSciences Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1468492/000121390026107238/0001213900-26-107238-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468492/000121390026107238/ea030780201ex99-1.htm",
-   "filed_at": "2026-10-06T16:30:13-04:00",
-   "filed_kst": "2026-10-07 05:30",
-   "price": 3.77,
-   "change": -13.53,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 3.77,
-     "change": -13.53
-    },
-    {
-     "date": "2026-10-05",
-     "close": 4.36,
-     "change": 1.4
-    },
-    {
-     "date": "2026-10-02",
-     "close": 4.3,
-     "change": 10.54
-    }
-   ],
-   "market_cap": 18096648.0,
-   "shares_outstanding": 4800172.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "TX",
-   "hq": "SOUTHLAKE, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T05:31:15+09:00"
   }
  ]
 }
