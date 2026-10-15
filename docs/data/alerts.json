@@ -1,7 +1,166 @@
 {
- "updated_at": "2026-10-16T05:29:07+09:00",
+ "updated_at": "2026-10-16T05:34:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001866175-26-000138",
+   "company": "Crescent Energy Co",
+   "ticker": "CRGY",
+   "cik": 1866175,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.02",
+    "2.03",
+    "7.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "25x of the principal amount of such new debt incurrences, so long as such debt is incurred during such period and does not exceed the $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1866175/000186617526000138/0001866175-26-000138-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866175/000186617526000138/crescentenergyfinance-sixt.htm",
+   "filed_at": "2026-10-15T16:30:58-04:00",
+   "filed_kst": "2026-10-16 05:30",
+   "price": 12.51,
+   "change": -2.65,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 12.51,
+     "change": -2.65
+    },
+    {
+     "date": "2026-10-14",
+     "close": 12.85,
+     "change": -1.61
+    },
+    {
+     "date": "2026-10-13",
+     "close": 13.06,
+     "change": 2.19
+    }
+   ],
+   "market_cap": 4133350237.0,
+   "shares_outstanding": 330403696.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-16T05:32:00+09:00"
+  },
+  {
+   "id": "0001185185-26-004784",
+   "company": "AGM GROUP HOLDINGS, INC.",
+   "ticker": "AGMH",
+   "cik": 1705402,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.1 2 agmhex99-1.htm EXHIBIT 99.1 Exhibit 99.1 AGM Group Holdings Inc. Company No. 1871545 (Incorporated in the British Virgin Islands) (the “Company”) NOTICE OF SPECIAL EXTRAORDINARY MEETING OF SHAREHOLDERS To be Held on OCTOBER 28, 2026 (or any adjournment(s) or postponement(s) thereof) NOTICE",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1705402/000118518526004784/0001185185-26-004784-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1705402/000118518526004784/agmhex99-1.htm",
+   "filed_at": "2026-10-15T16:30:15-04:00",
+   "filed_kst": "2026-10-16 05:30",
+   "price": 0.53,
+   "change": 4.8,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 0.53,
+     "change": 4.8
+    },
+    {
+     "date": "2026-10-14",
+     "close": 0.5,
+     "change": -5.44
+    },
+    {
+     "date": "2026-10-13",
+     "close": 0.53,
+     "change": -2.02
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming Services",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "WANCHAI",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-16T05:31:25+09:00"
+  },
+  {
+   "id": "0001829126-26-011189",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "ticker": "NTHI",
+   "cik": 1979414,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Neither product is approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626011189/0001829126-26-011189-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626011189/neonctechnologies_ex99-2.htm",
+   "filed_at": "2026-10-15T16:30:15-04:00",
+   "filed_kst": "2026-10-16 05:30",
+   "price": 2.75,
+   "change": 3.38,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 2.75,
+     "change": 3.38
+    },
+    {
+     "date": "2026-10-14",
+     "close": 2.66,
+     "change": 2.5
+    },
+    {
+     "date": "2026-10-13",
+     "close": 2.6,
+     "change": -4.95
+    }
+   ],
+   "market_cap": 71325004.0,
+   "shares_outstanding": 25936365.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CALABASAS, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-16T05:31:22+09:00"
+  },
   {
    "id": "0001437749-26-032716",
    "company": "DAILY JOURNAL CORP",
@@ -15476,167 +15635,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-07T19:02:30+09:00"
-  },
-  {
-   "id": "0001493152-26-046025",
-   "company": "UTime Ltd",
-   "ticker": "FXHO",
-   "cik": 1789299,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "No labor relationship, agency relationship or joint venture relationship is formed hereby.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1789299/000149315226046025/0001493152-26-046025-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1789299/000149315226046025/ex10-4.htm",
-   "filed_at": "2026-10-06T17:30:33-04:00",
-   "filed_kst": "2026-10-07 06:30",
-   "price": 10.88,
-   "change": 8.04,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 10.88,
-     "change": 8.04
-    },
-    {
-     "date": "2026-10-05",
-     "close": 10.07,
-     "change": 1.36
-    },
-    {
-     "date": "2026-10-02",
-     "close": 9.94,
-     "change": 3.06
-    }
-   ],
-   "market_cap": 18413562.0,
-   "shares_outstanding": 1692423.0,
-   "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NANSHAN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T06:31:09+09:00"
-  },
-  {
-   "id": "0001829126-26-010823",
-   "company": "QuasarEdge Acquisition Corp",
-   "ticker": "QRED",
-   "cik": 2085177,
-   "form": "425",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "1 FIRST AMENDMENT TO AGREEMENT AND PLAN OF MERGER This FIRST AMENDMENT TO AGREEMENT AND PLAN OF MERGER (this “ Amendment ”), dated as of October 6, 2026, is entered into by and among Robseek Intelligence Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2085177/000182912626010823/0001829126-26-010823-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085177/000182912626010823/quasaredgeacq_ex2-1.htm",
-   "filed_at": "2026-10-06T17:22:55-04:00",
-   "filed_kst": "2026-10-07 06:22",
-   "price": 10.05,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 10.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-02",
-     "close": 10.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 10.05,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 161202000.0,
-   "shares_outstanding": 16040000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T06:23:45+09:00"
-  },
-  {
-   "id": "0001829126-26-010821",
-   "company": "QuasarEdge Acquisition Corp",
-   "ticker": "QRED",
-   "cik": 2085177,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "1 FIRST AMENDMENT TO AGREEMENT AND PLAN OF MERGER This FIRST AMENDMENT TO AGREEMENT AND PLAN OF MERGER (this “ Amendment ”), dated as of October 6, 2026, is entered into by and among Robseek Intelligence Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2085177/000182912626010821/0001829126-26-010821-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085177/000182912626010821/quasaredgeacq_ex2-1.htm",
-   "filed_at": "2026-10-06T17:22:28-04:00",
-   "filed_kst": "2026-10-07 06:22",
-   "price": 10.05,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-05",
-     "close": 10.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-02",
-     "close": 10.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-01",
-     "close": 10.05,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 161202000.0,
-   "shares_outstanding": 16040000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T06:23:13+09:00"
   }
  ]
 }
