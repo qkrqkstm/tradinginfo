@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-15T21:24:40+09:00",
+ "updated_at": "2026-10-15T21:29:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-422329",
+   "company": "TheRealReal, Inc.",
+   "ticker": "REAL",
+   "cik": 1573221,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "For purposes of this definition, a Person shall not be deemed to have beneficial ownership of securities subject to a stock purchase agreement, merger agreement or similar agreement until the consummation of the transactions contemplated by such agreement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1573221/000119312526422329/0001193125-26-422329-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1573221/000119312526422329/d170302dex991.htm",
+   "filed_at": "2026-10-15T08:27:43-04:00",
+   "filed_kst": "2026-10-15 21:27",
+   "price": 9.1,
+   "change": -7.24,
+   "price_history": [
+    {
+     "date": "2026-10-14",
+     "close": 9.1,
+     "change": -7.24
+    },
+    {
+     "date": "2026-10-13",
+     "close": 9.81,
+     "change": 1.24
+    },
+    {
+     "date": "2026-10-12",
+     "close": 9.69,
+     "change": -0.62
+    }
+   ],
+   "market_cap": 1107207146.0,
+   "shares_outstanding": 121671115.0,
+   "industry": "Retail-Miscellaneous Retail",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-15T21:28:30+09:00"
+  },
   {
    "id": "0001193125-26-422325",
    "company": "ASP Isotopes Inc.",
@@ -15596,63 +15647,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-07T05:08:43+09:00"
-  },
-  {
-   "id": "0001193125-26-415559",
-   "company": "Caribou Biosciences, Inc.",
-   "ticker": "CRBU",
-   "cik": 1619856,
-   "form": "8-K",
-   "items": [
-    "2.05",
-    "5.02",
-    "7.01",
-    "8.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 60,
-   "summary": "The FDA granted vispa-cel Regenerative Medicine Advanced Therapy (RMAT), Fast Track, and Orphan Drug designations for B-NHL.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1619856/000119312526415559/0001193125-26-415559-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1619856/000119312526415559/d235175dex991.htm",
-   "filed_at": "2026-10-06T16:07:10-04:00",
-   "filed_kst": "2026-10-07 05:07",
-   "price": 1.14,
-   "change": -4.62,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 1.13,
-     "change": -4.62
-    },
-    {
-     "date": "2026-10-05",
-     "close": 1.19,
-     "change": -2.46
-    },
-    {
-     "date": "2026-10-02",
-     "close": 1.22,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 122216565.0,
-   "shares_outstanding": 107207513.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "BERKELEY, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T05:07:35+09:00"
   }
  ]
 }
