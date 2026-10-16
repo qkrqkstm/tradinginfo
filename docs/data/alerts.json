@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-16T22:24:41+09:00",
+ "updated_at": "2026-10-16T22:29:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-110056",
+   "company": "Sanara MedTech Inc.",
+   "ticker": "SMTI",
+   "cik": 714256,
+   "form": "425",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Texas corporation (the “Company” or “Sanara”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with MiMedx Group, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026110056/0001213900-26-110056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026110056/ea0308837-8k425_sanara.htm",
+   "filed_at": "2026-10-16T09:24:20-04:00",
+   "filed_kst": "2026-10-16 22:24",
+   "price": 35.09,
+   "change": -0.09,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 35.09,
+     "change": -0.09
+    },
+    {
+     "date": "2026-10-14",
+     "close": 35.12,
+     "change": -0.06
+    },
+    {
+     "date": "2026-10-13",
+     "close": 35.14,
+     "change": -0.03
+    }
+   ],
+   "market_cap": 322408148.0,
+   "shares_outstanding": 9188035.0,
+   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+   "state_of_incorporation": "TX",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-16T22:25:26+09:00"
+  },
   {
    "id": "0001213900-26-110053",
    "company": "Sanara MedTech Inc.",
@@ -15570,60 +15623,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-07T22:00:55+09:00"
-  },
-  {
-   "id": "0001437749-26-032270",
-   "company": "BioCardia, Inc.",
-   "ticker": "BCDA",
-   "cik": 925741,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "FDA recently agreed that the ongoing CardiAMP HF II trial, the focus of the HFSA scientific presentation, may be sufficient to support FDA approval.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926032270/0001437749-26-032270-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926032270/bcda20261007_8k.htm",
-   "filed_at": "2026-10-07T09:00:12-04:00",
-   "filed_kst": "2026-10-07 22:00",
-   "price": 1.06,
-   "change": -2.75,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 1.06,
-     "change": -2.75
-    },
-    {
-     "date": "2026-10-05",
-     "close": 1.09,
-     "change": 4.81
-    },
-    {
-     "date": "2026-10-02",
-     "close": 1.04,
-     "change": 1.96
-    }
-   ],
-   "market_cap": 16047109.0,
-   "shares_outstanding": 15138782.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SUNNYVALE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-07T22:00:50+09:00"
   }
  ]
 }
