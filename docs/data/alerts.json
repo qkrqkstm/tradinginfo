@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-16T22:14:42+09:00",
+ "updated_at": "2026-10-16T22:19:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-110051",
+   "company": "OSR Health, Inc.",
+   "ticker": "OSRH",
+   "cik": 1840425,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "(the “Company”), its wholly owned subsidiary Vaximm AG, and BCM Europe AG (“BCME”) are parties to a Global Exclusive License Agreement for VXM01, effective April 29, 2026 (the “License Agreement”), under which the Company holds a put option (the “Equity Option”) to require BCME to purchase up to $15",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1840425/000121390026110051/0001213900-26-110051-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1840425/000121390026110051/ea0308725-8k_osrhealth.htm",
+   "filed_at": "2026-10-16T09:17:41-04:00",
+   "filed_kst": "2026-10-16 22:17",
+   "price": 0.2,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 0.2,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-14",
+     "close": 0.2,
+     "change": 5.26
+    },
+    {
+     "date": "2026-10-13",
+     "close": 0.19,
+     "change": -3.06
+    }
+   ],
+   "market_cap": 7023738.0,
+   "shares_outstanding": 35118692.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "BELLEVUE, WA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-16T22:18:06+09:00"
+  },
   {
    "id": "0001213900-26-110047",
    "company": "Sanara MedTech Inc.",
@@ -15571,56 +15624,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-07T22:00:48+09:00"
-  },
-  {
-   "id": "0001493152-26-046088",
-   "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
-   "ticker": "BMNR",
-   "cik": 1829311,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "● Bitmine has outperformed ETH by over 50,000bp since inception, supported by the largest crypto treasury company stock buyback program ever authorized.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226046088/0001493152-26-046088-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226046088/ex99-1.htm",
-   "filed_at": "2026-10-07T08:46:55-04:00",
-   "filed_kst": "2026-10-07 21:46",
-   "price": 26.2,
-   "change": -2.2,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 26.2,
-     "change": -2.2
-    },
-    {
-     "date": "2026-10-05",
-     "close": 26.79,
-     "change": 1.98
-    },
-    {
-     "date": "2026-10-02",
-     "close": 26.27,
-     "change": -1.72
-    }
-   ],
-   "market_cap": 15804531523.0,
-   "shares_outstanding": 603226394.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "NORWALK, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T21:48:04+09:00"
   }
  ]
 }
