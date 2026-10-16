@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-10-17T05:09:15+09:00",
+ "updated_at": "2026-10-17T05:14:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-047400",
+   "company": "Ainos, Inc.",
+   "ticker": "AIMD",
+   "cik": 1014763,
+   "form": "8-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Shares of stock of the Corporation shall be transferable only on the books of the Corporation by the holders thereof in person or by their duly authorized attorneys or legal representatives, and in the case of certificated shares, upon surrender and cancellation of certificates for a like number of ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226047400/0001493152-26-047400-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226047400/ex99-1.htm",
+   "filed_at": "2026-10-16T16:10:14-04:00",
+   "filed_kst": "2026-10-17 05:10",
+   "price": 0.92,
+   "change": 0.02,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 0.92,
+     "change": 0.02
+    },
+    {
+     "date": "2026-10-16",
+     "close": 0.92,
+     "change": -3.77
+    },
+    {
+     "date": "2026-10-15",
+     "close": 0.96,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 6793347.0,
+   "shares_outstanding": 7384073.0,
+   "industry": "Computer Peripheral Equipment, NEC",
+   "state_of_incorporation": "TX",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-17T05:11:04+09:00"
+  },
+  {
+   "id": "0001437749-26-032805",
+   "company": "AMES NATIONAL CORP",
+   "ticker": "ATLO",
+   "cik": 1132651,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "Share Repurchase Program For the period July 1, 2026 through September 30, 2026, under the repurchase program that was announced in August 2025, which allowed for the repurchase of 200,000 shares of common stock, the Company did not repurchase any shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1132651/000143774926032805/0001437749-26-032805-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1132651/000143774926032805/ex_1008479.htm",
+   "filed_at": "2026-10-16T16:10:15-04:00",
+   "filed_kst": "2026-10-17 05:10",
+   "price": 32.17,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 32.17,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 32.17,
+     "change": 0.06
+    },
+    {
+     "date": "2026-10-15",
+     "close": 32.15,
+     "change": 0.94
+    }
+   ],
+   "market_cap": 284936767.0,
+   "shares_outstanding": 8857220.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "United States",
+   "hq": "AMES, IA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-17T05:11:02+09:00"
+  },
   {
    "id": "0001096906-26-001565",
    "company": "AIBOTICS, INC.",
@@ -15502,106 +15608,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-08T00:31:40+09:00"
-  },
-  {
-   "id": "0001174947-26-000912",
-   "company": "ENI SPA",
-   "ticker": "E",
-   "cik": 1002242,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "18 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000912/0001174947-26-000912-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000912/0001174947-26-000912-index-headers.html",
-   "filed_at": "2026-10-07T10:51:31-04:00",
-   "filed_kst": "2026-10-07 23:51",
-   "price": 54.02,
-   "change": -0.97,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 54.02,
-     "change": -0.97
-    },
-    {
-     "date": "2026-10-06",
-     "close": 54.55,
-     "change": -0.16
-    },
-    {
-     "date": "2026-10-05",
-     "close": 54.64,
-     "change": -0.16
-    }
-   ],
-   "market_cap": 169988251458.0,
-   "shares_outstanding": 3146765114.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "Italy",
-   "hq": "ROME ITALY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-07T23:52:04+09:00"
-  },
-  {
-   "id": "0001171843-26-006488",
-   "company": "GOLAR LNG LTD",
-   "ticker": "GLNG",
-   "cik": 1207179,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "1 Golar LNG acquires conversion vessel for 4th FLNG Golar LNG Limited (NASDAQ: GLNG) (“Golar” or “the Company”) announces today that it has agreed to acquire the LNG carrier Grace Dahlia from NYK Line.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1207179/000117184326006488/0001171843-26-006488-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1207179/000117184326006488/f6k_100726.htm",
-   "filed_at": "2026-10-07T09:48:16-04:00",
-   "filed_kst": "2026-10-07 22:48",
-   "price": 49.88,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 49.88,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-07",
-     "close": 49.88,
-     "change": -0.3
-    },
-    {
-     "date": "2026-10-06",
-     "close": 50.03,
-     "change": 0.58
-    }
-   ],
-   "market_cap": 5053813667.0,
-   "shares_outstanding": 101319440.0,
-   "industry": "Water Transportation",
-   "state_of_incorporation": "Bermuda",
-   "hq": "HAMILTON, D0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-07T22:49:11+09:00"
   }
  ]
 }
