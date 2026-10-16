@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-16T22:59:29+09:00",
+ "updated_at": "2026-10-16T23:04:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-423478",
+   "company": "COPART INC",
+   "ticker": "CPRT",
+   "cik": 900075,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 71,
+   "summary": "Following the completion of the tender offer, Copart completed the acquisition of ACV through the merger of Purchaser with ACV.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526423478/0001193125-26-423478-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526423478/d129535dex991.htm",
+   "filed_at": "2026-10-16T09:59:35-04:00",
+   "filed_kst": "2026-10-16 22:59",
+   "price": 28.16,
+   "change": 1.48,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 28.16,
+     "change": 1.48
+    },
+    {
+     "date": "2026-10-15",
+     "close": 27.75,
+     "change": 5.63
+    },
+    {
+     "date": "2026-10-14",
+     "close": 26.27,
+     "change": -0.38
+    }
+   ],
+   "market_cap": 26085465528.0,
+   "shares_outstanding": 926330452.0,
+   "industry": "Retail-Auto Dealers & Gasoline Stations",
+   "state_of_incorporation": "DE",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-16T23:00:51+09:00"
+  },
   {
    "id": "0001213900-26-110056",
    "company": "Sanara MedTech Inc.",
@@ -15573,56 +15627,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-07T22:01:28+09:00"
-  },
-  {
-   "id": "0001213900-26-107435",
-   "company": "Silicon Valley Acquisition Corp.",
-   "ticker": "SVAQ",
-   "cik": 2085659,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EigenQ has entered into a business combination agreement with Silicon Valley Acquisition Corp, information about which can be found in public filings available free of charge on the SEC’s website at edgar.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026107435/0001213900-26-107435-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026107435/ea0307924-425_eigenq.htm",
-   "filed_at": "2026-10-07T09:00:07-04:00",
-   "filed_kst": "2026-10-07 22:00",
-   "price": 10.15,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 10.15,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 10.15,
-     "change": 0.2
-    },
-    {
-     "date": "2026-10-02",
-     "close": 10.13,
-     "change": -0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T22:00:55+09:00"
   }
  ]
 }
