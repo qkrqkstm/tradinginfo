@@ -1,7 +1,46 @@
 {
- "updated_at": "2026-10-17T00:09:30+09:00",
+ "updated_at": "2026-10-17T00:14:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-110084",
+   "company": "Clear Channel Outdoor Holdings, Inc.",
+   "ticker": "CCO",
+   "cik": 1334978,
+   "form": "8-K/A",
+   "items": [
+    "1.01",
+    "2.01",
+    "5.01",
+    "5.02"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The total amount of cash consideration payable to the Company’s equityholders at closing in connection with the Merger and pursuant to the Merger Agreement was approximately $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026110084/0001213900-26-110084-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026110084/ea0308861-8ka1_clear.htm",
+   "filed_at": "2026-10-16T11:09:29-04:00",
+   "filed_kst": "2026-10-17 00:09",
+   "price": 2.42,
+   "change": -0.41,
+   "price_history": [],
+   "market_cap": 1232007105.0,
+   "shares_outstanding": 509093845.0,
+   "industry": "Services-Advertising",
+   "state_of_incorporation": null,
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-17T00:10:32+09:00"
+  },
   {
    "id": "0001193125-26-423478",
    "company": "COPART INC",
@@ -15569,64 +15608,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-07T22:05:55+09:00"
-  },
-  {
-   "id": "0001477932-26-006075",
-   "company": "BioNexus Gene Lab Corp",
-   "ticker": "BGLC",
-   "cik": 1737523,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "3.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 70,
-   "summary": "htm COGNIAI HEALTHCARE LICENCE AND STRATEGIC COLLABORATION AGREEMENT bglc_ex101.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1737523/000147793226006075/0001477932-26-006075-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1737523/000147793226006075/bglc_ex991.htm",
-   "filed_at": "2026-10-07T09:00:24-04:00",
-   "filed_kst": "2026-10-07 22:00",
-   "price": 1.24,
-   "change": -3.12,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 1.24,
-     "change": -3.12
-    },
-    {
-     "date": "2026-10-05",
-     "close": 1.28,
-     "change": 0.79
-    },
-    {
-     "date": "2026-10-02",
-     "close": 1.27,
-     "change": 5.83
-    }
-   ],
-   "market_cap": 3637468.0,
-   "shares_outstanding": 2933442.0,
-   "industry": "Services-Medical Laboratories",
-   "state_of_incorporation": "WY",
-   "hq": "KUALA LUMPUR",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T22:01:28+09:00"
   }
  ]
 }
