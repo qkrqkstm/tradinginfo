@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-16T18:59:27+09:00",
+ "updated_at": "2026-10-16T19:05:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001345099-26-000091",
+   "company": "MESOBLAST LTD",
+   "ticker": "MESO",
+   "cik": 1345099,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "” Ryoncil® is the first mesenchymal stromal cell (MSC) product approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000091/0001345099-26-000091-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000091/form6-kxpressreleasecoverf.htm",
+   "filed_at": "2026-10-15T21:29:19-04:00",
+   "filed_kst": "2026-10-16 10:29",
+   "price": 13.95,
+   "change": 1.16,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 13.95,
+     "change": 1.16
+    },
+    {
+     "date": "2026-10-14",
+     "close": 13.79,
+     "change": -0.79
+    },
+    {
+     "date": "2026-10-13",
+     "close": 13.9,
+     "change": -2.59
+    }
+   ],
+   "market_cap": 18091235725.0,
+   "shares_outstanding": 1296862776.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Australia",
+   "hq": "MELBOURNE, VICTORIA, C3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-16T19:03:45+09:00"
+  },
   {
    "id": "0001628280-26-066024",
    "company": "Ares Real Estate Income Trust Inc.",
@@ -15570,60 +15620,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-07T20:01:25+09:00"
-  },
-  {
-   "id": "0001193125-26-416164",
-   "company": "Third Coast Bancshares, Inc.",
-   "ticker": "TCBX",
-   "cik": 1781730,
-   "form": "425",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", an Oklahoma corporation (“Great Plains”), issued a joint press release on October 7, 2026 announcing the execution of the Merger Agreement (as defined below).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1781730/000119312526416164/0001193125-26-416164-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1781730/000119312526416164/d146780d425.htm",
-   "filed_at": "2026-10-07T06:47:16-04:00",
-   "filed_kst": "2026-10-07 19:47",
-   "price": 43.02,
-   "change": 0.3,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 43.02,
-     "change": 0.3
-    },
-    {
-     "date": "2026-10-05",
-     "close": 42.89,
-     "change": -1.08
-    },
-    {
-     "date": "2026-10-02",
-     "close": 43.36,
-     "change": 1.14
-    }
-   ],
-   "market_cap": 716496809.0,
-   "shares_outstanding": 16654970.0,
-   "industry": "Savings Institutions, Not Federally Chartered",
-   "state_of_incorporation": "TX",
-   "hq": "HUMBLE, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T19:48:07+09:00"
   }
  ]
 }
