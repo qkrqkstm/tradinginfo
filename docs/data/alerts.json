@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-16T22:19:38+09:00",
+ "updated_at": "2026-10-16T22:24:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-110053",
+   "company": "Sanara MedTech Inc.",
+   "ticker": "SMTI",
+   "cik": 714256,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Texas corporation (the “Company” or “Sanara”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with MiMedx Group, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026110053/0001213900-26-110053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026110053/ea0308837-8k425_sanara.htm",
+   "filed_at": "2026-10-16T09:20:58-04:00",
+   "filed_kst": "2026-10-16 22:20",
+   "price": 35.09,
+   "change": -0.09,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 35.09,
+     "change": -0.09
+    },
+    {
+     "date": "2026-10-14",
+     "close": 35.12,
+     "change": -0.06
+    },
+    {
+     "date": "2026-10-13",
+     "close": 35.14,
+     "change": -0.03
+    }
+   ],
+   "market_cap": 322408148.0,
+   "shares_outstanding": 9188035.0,
+   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+   "state_of_incorporation": "TX",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-16T22:21:36+09:00"
+  },
   {
    "id": "0001213900-26-110051",
    "company": "OSR Health, Inc.",
@@ -15571,59 +15624,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-07T22:00:50+09:00"
-  },
-  {
-   "id": "0001193125-26-416251",
-   "company": "Ultragenyx Pharmaceutical Inc.",
-   "ticker": "RARE",
-   "cik": 1515673,
-   "form": "8-K",
-   "items": [
-    "1.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 72,
-   "summary": "(the “Company”) entered into an asset purchase agreement (the “PRV Asset Purchase Agreement”), pursuant to which the Company agreed to sell a Rare Pediatric Disease Priority Review Voucher (“PRV”) to the buyer.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526416251/0001193125-26-416251-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526416251/rare-20261006.htm",
-   "filed_at": "2026-10-07T09:00:14-04:00",
-   "filed_kst": "2026-10-07 22:00",
-   "price": 14.46,
-   "change": -0.28,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 14.46,
-     "change": -0.28
-    },
-    {
-     "date": "2026-10-05",
-     "close": 14.5,
-     "change": -4.73
-    },
-    {
-     "date": "2026-10-02",
-     "close": 15.22,
-     "change": 3.19
-    }
-   ],
-   "market_cap": 1425595104.0,
-   "shares_outstanding": 98588873.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NOVATO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-07T22:00:48+09:00"
   }
  ]
 }
