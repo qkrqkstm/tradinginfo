@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-17T05:29:31+09:00",
+ "updated_at": "2026-10-17T05:34:25+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-110270",
+   "company": "Tiziana Life Sciences Ltd",
+   "ticker": "TLSA",
+   "cik": 1723069,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 87,
+   "summary": "Importantly, the FDA’s previous Fast Track designation for intranasal foralumab underscores its potential as a therapy addressing serious conditions with unmet medical need.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026110270/0001213900-26-110270-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026110270/ea030885001ex99-1.htm",
+   "filed_at": "2026-10-16T16:30:03-04:00",
+   "filed_kst": "2026-10-17 05:30",
+   "price": 1.05,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 1.05,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1.05,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1.05,
+     "change": -3.67
+    }
+   ],
+   "market_cap": 126532771.0,
+   "shares_outstanding": 120507401.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Bermuda",
+   "hq": "LONDON, ENGLAND, X0",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-17T05:30:37+09:00"
+  },
   {
    "id": "0001988894-26-000091",
    "company": "Amer Sports, Inc.",
@@ -15550,60 +15602,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-08T05:11:31+09:00"
-  },
-  {
-   "id": "0001001614-26-000053",
-   "company": "Riley Exploration Permian, Inc.",
-   "ticker": "REPX",
-   "cik": 1001614,
-   "form": "8-K",
-   "items": [
-    "1.02",
-    "2.03",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "On October 5, 2026, the Company borrowed $130 million under the Credit Agreement, dated as of September 28, 2017, among REP LLC, as borrower, Truist Bank, as administrative agent, and the lenders party thereto (as amended, the “Credit Agreement”), to fund the prepayment of the Senior Notes.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1001614/000100161426000053/0001001614-26-000053-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1001614/000100161426000053/repx-20261005.htm",
-   "filed_at": "2026-10-07T16:05:41-04:00",
-   "filed_kst": "2026-10-08 05:05",
-   "price": 43.21,
-   "change": 0.79,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 43.21,
-     "change": 0.79
-    },
-    {
-     "date": "2026-10-06",
-     "close": 42.87,
-     "change": -0.14
-    },
-    {
-     "date": "2026-10-05",
-     "close": 42.93,
-     "change": 1.75
-    }
-   ],
-   "market_cap": 881485383.0,
-   "shares_outstanding": 20400032.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "OKLAHOMA CITY, OK",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-08T05:06:48+09:00"
   }
  ]
 }
