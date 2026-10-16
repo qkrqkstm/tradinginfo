@@ -1,7 +1,164 @@
 {
- "updated_at": "2026-10-16T19:59:31+09:00",
+ "updated_at": "2026-10-16T20:04:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-423377",
+   "company": "FRACTYL HEALTH, INC.",
+   "ticker": "GUTS",
+   "cik": 1572616,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "1 Fractyl Health's Revita Meets Six-Month Co-Primary Endpoint in Ongoing REMAIN-1 Pivotal Study, With Highly Statistically Significant Reduction in Weight Regain After GLP-1 Discontinuation REMAIN-1 met its six-month co-primary endpoint with high statistical significance (p=0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1572616/000119312526423377/0001193125-26-423377-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1572616/000119312526423377/guts-ex99_2.htm",
+   "filed_at": "2026-10-16T07:01:22-04:00",
+   "filed_kst": "2026-10-16 20:01",
+   "price": 4.16,
+   "change": 1.96,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 4.16,
+     "change": 1.96
+    },
+    {
+     "date": "2026-10-14",
+     "close": 4.08,
+     "change": 1.37
+    },
+    {
+     "date": "2026-10-13",
+     "close": 4.03,
+     "change": -8.73
+    }
+   ],
+   "market_cap": 662188168.0,
+   "shares_outstanding": 159179848.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "BURLINGTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-16T20:01:56+09:00"
+  },
+  {
+   "id": "0001213900-26-110008",
+   "company": "Tiziana Life Sciences Ltd",
+   "ticker": "TLSA",
+   "cik": 1723069,
+   "form": "6-K",
+   "items": [],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "Topline data are anticipated to be announced in Q1 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026110008/0001213900-26-110008-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026110008/ea030884501ex99-1.htm",
+   "filed_at": "2026-10-16T07:00:25-04:00",
+   "filed_kst": "2026-10-16 20:00",
+   "price": 1.05,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 1.05,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1.05,
+     "change": -3.67
+    },
+    {
+     "date": "2026-10-13",
+     "close": 1.09,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 126532771.0,
+   "shares_outstanding": 120507401.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Bermuda",
+   "hq": "LONDON, ENGLAND, X0",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-16T20:01:24+09:00"
+  },
+  {
+   "id": "0001213900-26-110006",
+   "company": "RYTHM, Inc.",
+   "ticker": "RYM",
+   "cik": 1800637,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(“Green Thumb”), entered into an amendment (the “Amendment”) to their existing Trademark and Recipe License Agreement dated August 27, 2025 (as previously amended, the “August 2025 License Agreement”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800637/000121390026110006/0001213900-26-110006-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1800637/000121390026110006/ea0308624-8k_rythm.htm",
+   "filed_at": "2026-10-16T07:00:30-04:00",
+   "filed_kst": "2026-10-16 20:00",
+   "price": 18.4,
+   "change": 1.21,
+   "price_history": [
+    {
+     "date": "2026-10-15",
+     "close": 18.4,
+     "change": 1.21
+    },
+    {
+     "date": "2026-10-14",
+     "close": 18.18,
+     "change": -2.94
+    },
+    {
+     "date": "2026-10-13",
+     "close": 18.73,
+     "change": -2.5
+    }
+   ],
+   "market_cap": 40095955.0,
+   "shares_outstanding": 2179128.0,
+   "industry": "Agricultural Services",
+   "state_of_incorporation": "NV",
+   "hq": "ROLLING MEADOWS, IL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-16T20:01:22+09:00"
+  },
   {
    "id": "0001564708-26-000230",
    "company": "NEWS CORP",
@@ -15463,166 +15620,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-07T21:00:51+09:00"
-  },
-  {
-   "id": "0001213900-26-107393",
-   "company": "Aperture AC",
-   "ticker": "APUR",
-   "cik": 2093524,
-   "form": "425",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a wholly-owned subsidiary of Aperture, in connection with the transactions contemplated in the business combination agreement, dated as of September 10, 2026 (the “Business Combination Agreement”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2093524/000121390026107393/0001213900-26-107393-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2093524/000121390026107393/ea030788901ex99-1.htm",
-   "filed_at": "2026-10-07T07:33:37-04:00",
-   "filed_kst": "2026-10-07 20:33",
-   "price": 10.04,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 10.04,
-     "change": -0.05
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.04,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 10.04,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "ALHAMBRA, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T20:34:14+09:00"
-  },
-  {
-   "id": "0001213900-26-107391",
-   "company": "Aperture AC",
-   "ticker": "APUR",
-   "cik": 2093524,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a wholly-owned subsidiary of Aperture, in connection with the transactions contemplated in the business combination agreement, dated as of September 10, 2026 (the “Business Combination Agreement”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2093524/000121390026107391/0001213900-26-107391-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2093524/000121390026107391/ea030788901ex99-1.htm",
-   "filed_at": "2026-10-07T07:31:34-04:00",
-   "filed_kst": "2026-10-07 20:31",
-   "price": 10.04,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 10.04,
-     "change": -0.05
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.04,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-05",
-     "close": 10.04,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "ALHAMBRA, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T20:32:11+09:00"
-  },
-  {
-   "id": "0001104659-26-114193",
-   "company": "BKV Corp",
-   "ticker": "BKV",
-   "cik": 1838406,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Under the Supply Contract, the Supplier will supply and deliver the Equipment between September 2028 and May 2029 for an aggregate purchase price of approximately $800.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1838406/000110465926114193/0001104659-26-114193-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1838406/000110465926114193/tm2626974d1_ex99-1.htm",
-   "filed_at": "2026-10-07T07:05:28-04:00",
-   "filed_kst": "2026-10-07 20:05",
-   "price": 22.05,
-   "change": 1.19,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 22.05,
-     "change": 1.19
-    },
-    {
-     "date": "2026-10-05",
-     "close": 21.79,
-     "change": 1.02
-    },
-    {
-     "date": "2026-10-02",
-     "close": 21.57,
-     "change": 0.14
-    }
-   ],
-   "market_cap": 2413104152.0,
-   "shares_outstanding": 109437830.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "DENVER, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-07T20:05:54+09:00"
   }
  ]
 }
