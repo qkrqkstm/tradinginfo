@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-17T00:49:35+09:00",
+ "updated_at": "2026-10-17T00:54:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-047354",
+   "company": "INTERMAP TECHNOLOGIES CORP",
+   "ticker": "ITMSF",
+   "cik": 1285170,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Full Description of Material Change On October 7, 2026, Intermap completed the acquisition of the PCI Shares by way of the Arrangement pursuant to the Arrangement Agreement.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1285170/000149315226047354/0001493152-26-047354-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1285170/000149315226047354/ex99-1.htm",
+   "filed_at": "2026-10-16T11:50:03-04:00",
+   "filed_kst": "2026-10-17 00:50",
+   "price": 0.57,
+   "change": 0.02,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 0.57,
+     "change": 0.02
+    },
+    {
+     "date": "2026-10-16",
+     "close": 0.57,
+     "change": 2.48
+    },
+    {
+     "date": "2026-10-15",
+     "close": 0.56,
+     "change": 3.7
+    }
+   ],
+   "market_cap": 41289468.0,
+   "shares_outstanding": 72437664.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Alberta, Canada",
+   "hq": "CALGARY, A0",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-17T00:50:31+09:00"
+  },
   {
    "id": "0001213900-26-110084",
    "company": "Clear Channel Outdoor Holdings, Inc.",
@@ -15554,60 +15604,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-07T22:15:33+09:00"
-  },
-  {
-   "id": "0001493152-26-046091",
-   "company": "COFFEE HOLDING CO INC",
-   "ticker": "JVA",
-   "cik": 1007019,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "Announces Share Repurchase Program STATEN ISLAND, New York – October 7, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1007019/000149315226046091/0001493152-26-046091-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1007019/000149315226046091/ex99-1.htm",
-   "filed_at": "2026-10-07T09:05:30-04:00",
-   "filed_kst": "2026-10-07 22:05",
-   "price": 3.99,
-   "change": -0.25,
-   "price_history": [
-    {
-     "date": "2026-10-06",
-     "close": 3.99,
-     "change": -0.25
-    },
-    {
-     "date": "2026-10-05",
-     "close": 4.0,
-     "change": 0.5
-    },
-    {
-     "date": "2026-10-02",
-     "close": 3.98,
-     "change": 1.02
-    }
-   ],
-   "market_cap": 22777310.0,
-   "shares_outstanding": 5708599.0,
-   "industry": "Miscellaneous Food Preparations & Kindred Products",
-   "state_of_incorporation": "NV",
-   "hq": "STATEN ISLAND, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-07T22:05:55+09:00"
   }
  ]
 }
