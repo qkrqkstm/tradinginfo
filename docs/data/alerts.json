@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-10-20T05:04:56+09:00",
+ "updated_at": "2026-10-20T05:09:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000943374-26-000447",
+   "company": "Seneca Bancorp, Inc.",
+   "ticker": "SNNF",
+   "cik": 2072421,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) announced it has adopted a stock repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2072421/000094337426000447/0000943374-26-000447-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2072421/000094337426000447/none-20261019.htm",
+   "filed_at": "2026-10-19T16:05:53-04:00",
+   "filed_kst": "2026-10-20 05:05",
+   "price": 12.9,
+   "change": -0.08,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 12.9,
+     "change": -0.08
+    },
+    {
+     "date": "2026-10-16",
+     "close": 12.91,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 12.91,
+     "change": 0.47
+    }
+   ],
+   "market_cap": 23225612.0,
+   "shares_outstanding": 1800435.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "MD",
+   "hq": "BALDWINSVILLE, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-20T05:06:40+09:00"
+  },
+  {
+   "id": "0001104659-26-116876",
+   "company": "COLLEGIUM PHARMACEUTICAL, INC",
+   "ticker": "COLL",
+   "cik": 1267565,
+   "form": "8-K",
+   "items": [
+    "1.02"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(the “Company”) is party to a License Agreement (U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267565/000110465926116876/0001104659-26-116876-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1267565/000110465926116876/tm2627827d1_8k.htm",
+   "filed_at": "2026-10-19T16:05:20-04:00",
+   "filed_kst": "2026-10-20 05:05",
+   "price": 23.01,
+   "change": -0.78,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 23.01,
+     "change": -0.78
+    },
+    {
+     "date": "2026-10-16",
+     "close": 23.19,
+     "change": 0.04
+    },
+    {
+     "date": "2026-10-15",
+     "close": 23.18,
+     "change": 2.98
+    }
+   ],
+   "market_cap": 749104655.0,
+   "shares_outstanding": 32555613.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "VA",
+   "hq": "STOUGHTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T05:06:01+09:00"
+  },
   {
    "id": "0001423689-26-000144",
    "company": "AGNC Investment Corp.",
@@ -15509,90 +15615,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-09T05:11:05+09:00"
-  },
-  {
-   "id": "0001193125-26-417910",
-   "company": "Translational Development Acquisition Corp.",
-   "ticker": "TDAC",
-   "cik": 1926599,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "In May 2026, ProLogium entered into a definitive business combination agreement with Translational Development Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1926599/000119312526417910/0001193125-26-417910-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1926599/000119312526417910/d332017d425.htm",
-   "filed_at": "2026-10-08T16:03:28-04:00",
-   "filed_kst": "2026-10-09 05:03",
-   "price": 10.82,
-   "change": 0.19,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 10.82,
-     "change": 0.19
-    },
-    {
-     "date": "2026-10-07",
-     "close": 10.8,
-     "change": -0.18
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.82,
-     "change": -0.05
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-09T05:03:57+09:00"
-  },
-  {
-   "id": "0001193125-26-417910",
-   "company": "Prologium Holding Inc.",
-   "ticker": "PRLG",
-   "cik": 2137754,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "In May 2026, ProLogium entered into a definitive business combination agreement with Translational Development Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526417910/0001193125-26-417910-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2137754/000119312526417910/d332017d425.htm",
-   "filed_at": "2026-10-08T16:03:28-04:00",
-   "filed_kst": "2026-10-09 05:03",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "TAOYUAN CITY",
-   "entity_category": null,
-   "detected_at": "2026-10-09T05:03:55+09:00"
   }
  ]
 }
