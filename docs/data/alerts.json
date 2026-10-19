@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-20T05:54:12+09:00",
+ "updated_at": "2026-10-20T05:59:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001317861-26-000052",
+   "company": "EUROSEAS LTD.",
+   "ticker": "ESEA",
+   "cik": 1341170,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "The charter is expected to generate approximately $17.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341170/000131786126000052/0001317861-26-000052-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1341170/000131786126000052/f101926esea6k.htm",
+   "filed_at": "2026-10-19T16:54:30-04:00",
+   "filed_kst": "2026-10-20 05:54",
+   "price": 66.59,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 66.59,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 66.59,
+     "change": 0.63
+    },
+    {
+     "date": "2026-10-16",
+     "close": 66.17,
+     "change": -1.9
+    }
+   ],
+   "market_cap": 469851116.0,
+   "shares_outstanding": 7055881.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": null,
+   "hq": "151 25 MAROUSSI, J3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-20T05:55:27+09:00"
+  },
   {
    "id": "0001175680-26-000038",
    "company": "CytoDyn Inc.",
@@ -15562,63 +15612,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-09T19:02:52+09:00"
-  },
-  {
-   "id": "0001501697-26-000081",
-   "company": "X4 Pharmaceuticals, Inc",
-   "ticker": "XFOR",
-   "cik": 1501697,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "1.02",
-    "2.03",
-    "3.02"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "“Our partnership with K2 HealthVentures strengthens our capital position and gives us a solid financial foundation as we advance mavorixafor toward potential FDA approval and a commercial launch in chronic neutropenia,” said David Kirske, Chief Financial Officer of X4.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1501697/000150169726000081/0001501697-26-000081-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1501697/000150169726000081/ex991pressreleasedatedocto.htm",
-   "filed_at": "2026-10-08T17:23:01-04:00",
-   "filed_kst": "2026-10-09 06:23",
-   "price": 2.79,
-   "change": -0.71,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 2.79,
-     "change": -0.71
-    },
-    {
-     "date": "2026-10-07",
-     "close": 2.81,
-     "change": 1.44
-    },
-    {
-     "date": "2026-10-06",
-     "close": 2.77,
-     "change": -4.48
-    }
-   ],
-   "market_cap": 276619413.0,
-   "shares_outstanding": 99146743.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-09T06:23:43+09:00"
   }
  ]
 }
