@@ -1,7 +1,215 @@
 {
- "updated_at": "2026-10-20T06:14:13+09:00",
+ "updated_at": "2026-10-20T06:19:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-047619",
+   "company": "Bunker Hill Mining Corp.",
+   "ticker": "BHLL",
+   "cik": 1407583,
+   "form": "8-K",
+   "items": [
+    "2.03",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Ocean Partners Facility Draw On October 9, 2026, the Company drew US$2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1407583/000149315226047619/0001493152-26-047619-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1407583/000149315226047619/form8-k.htm",
+   "filed_at": "2026-10-19T17:18:09-04:00",
+   "filed_kst": "2026-10-20 06:18",
+   "price": 2.18,
+   "change": -4.39,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 2.18,
+     "change": -4.39
+    },
+    {
+     "date": "2026-10-16",
+     "close": 2.28,
+     "change": -1.94
+    },
+    {
+     "date": "2026-10-15",
+     "close": 2.33,
+     "change": 1.97
+    }
+   ],
+   "market_cap": 102912544.0,
+   "shares_outstanding": 47207589.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "NV",
+   "hq": "KELLOGG, ID",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-20T06:18:42+09:00"
+  },
+  {
+   "id": "0001193125-26-425378",
+   "company": "Tradeweb Markets Inc.",
+   "ticker": "TW",
+   "cik": 1758730,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "1 EXECUTION VERSION EQUITY PURCHASE AGREEMENT AND AGREEMENT AND PLAN OF MERGER dated as of October 19, 2026 by and among TRADEWEB MARKETS LLC, PARK MERGER SUB LLC, BLOCKER SELLERS (as defined herein) , BLOCKERS (as defined herein) , TRUMID HOLDINGS, LLC, TRUMID FEEDERCO, LLC, TRUMID MANAGE",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1758730/000119312526425378/0001193125-26-425378-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1758730/000119312526425378/d140509dex991.htm",
+   "filed_at": "2026-10-19T17:17:18-04:00",
+   "filed_kst": "2026-10-20 06:17",
+   "price": 114.7,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 114.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 114.7,
+     "change": 1.07
+    },
+    {
+     "date": "2026-10-16",
+     "close": 113.49,
+     "change": 1.33
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T06:18:10+09:00"
+  },
+  {
+   "id": "0001104659-26-116950",
+   "company": "LXP Industrial Trust",
+   "ticker": "LXP",
+   "cik": 910108,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "As previously disclosed, on July 19, 2026, LXP Industrial Trust, a Maryland real estate investment trust (the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Leopard REIT LLC, a Delaware limited liability company (“ Parent ”), and Leopard Merger Sub LLC, a ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/910108/000110465926116950/0001104659-26-116950-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/910108/000110465926116950/tm2627808d1_8k.htm",
+   "filed_at": "2026-10-19T17:15:38-04:00",
+   "filed_kst": "2026-10-20 06:15",
+   "price": 61.08,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 61.08,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 61.08,
+     "change": 0.03
+    },
+    {
+     "date": "2026-10-16",
+     "close": 61.06,
+     "change": 0.08
+    }
+   ],
+   "market_cap": 3601109685.0,
+   "shares_outstanding": 58957264.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T06:16:36+09:00"
+  },
+  {
+   "id": "0001213900-26-110740",
+   "company": "Launch Two Acquisition Corp.",
+   "ticker": "LPBB",
+   "cik": 2023676,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "On June 25, 2026, NuCube announced that it has entered into a business combination agreement with Launch Two Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026110740/0001213900-26-110740-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026110740/ea0309059-425_nucube.htm",
+   "filed_at": "2026-10-19T17:15:01-04:00",
+   "filed_kst": "2026-10-20 06:15",
+   "price": 10.79,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 10.79,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 10.79,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 10.79,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Fabricated Plate Work (Boiler Shops)",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "OAKLAND, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-20T06:16:04+09:00"
+  },
   {
    "id": "0001317861-26-000052",
    "company": "EUROSEAS LTD.",
@@ -15406,212 +15614,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-09T19:07:32+09:00"
-  },
-  {
-   "id": "0001193125-26-418405",
-   "company": "GigCapital8 Corp.",
-   "ticker": "GIW",
-   "cik": 2080019,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 67,
-   "summary": ", the Pure-Play Sovereign Quantum Vertical Platform “Root to Qubit” Formed by WISeQey and SEALSQ, Signs Definitive Business Combination Agreement with GigCapital8 Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2080019/000119312526418405/0001193125-26-418405-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2080019/000119312526418405/giwwu-ex99_1.htm",
-   "filed_at": "2026-10-09T06:05:31-04:00",
-   "filed_kst": "2026-10-09 19:05",
-   "price": 10.17,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 10.17,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-07",
-     "close": 10.17,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.18,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-09T19:05:59+09:00"
-  },
-  {
-   "id": "0001437749-26-032387",
-   "company": "ALTERITY THERAPEUTICS LTD",
-   "ticker": "ATHE",
-   "cik": 1131343,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "ATH434, the Company’s lead asset, has demonstrated clinically meaningful efficacy in a randomized, double-blind, placebo-controlled Phase 2 clinical trial in participants with MSA.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926032387/0001437749-26-032387-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926032387/athe20261009_6k.htm",
-   "filed_at": "2026-10-09T06:00:52-04:00",
-   "filed_kst": "2026-10-09 19:00",
-   "price": 3.07,
-   "change": -7.53,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 3.07,
-     "change": -7.53
-    },
-    {
-     "date": "2026-10-07",
-     "close": 3.32,
-     "change": -1.48
-    },
-    {
-     "date": "2026-10-06",
-     "close": 3.37,
-     "change": 4.66
-    }
-   ],
-   "market_cap": 667752206.0,
-   "shares_outstanding": 217508862.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Australia",
-   "hq": "MELBOURNE",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-09T19:04:36+09:00"
-  },
-  {
-   "id": "0001279569-26-000964",
-   "company": "TORONTO DOMINION BANK",
-   "ticker": "TD",
-   "cik": 947263,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "1 TD Bank Group Receives Regulatory Approval for New Share Buyback Program TORONTO, October 8, 2026 /CNW/ - TD Bank Group (TD or the Bank) (TSX: TD) (NYSE: TD) announced today that the Office of the Superintendent of Financial Institutions Canada has approved TD's previously announced new share buyb",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/947263/000127956926000964/0001279569-26-000964-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/947263/000127956926000964/ex991.htm",
-   "filed_at": "2026-10-08T19:32:51-04:00",
-   "filed_kst": "2026-10-09 08:32",
-   "price": 114.04,
-   "change": 0.15,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 114.04,
-     "change": 0.15
-    },
-    {
-     "date": "2026-10-07",
-     "close": 113.87,
-     "change": -3.65
-    },
-    {
-     "date": "2026-10-06",
-     "close": 118.18,
-     "change": 0.92
-    }
-   ],
-   "market_cap": 192670067390.0,
-   "shares_outstanding": 1689495505.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO, ONTARIO, A6",
-   "entity_category": null,
-   "detected_at": "2026-10-09T19:02:55+09:00"
-  },
-  {
-   "id": "0001564708-26-000219",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000219/0001564708-26-000219-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000219/appendix3cclassa20261008.htm",
-   "filed_at": "2026-10-08T19:53:56-04:00",
-   "filed_kst": "2026-10-09 08:53",
-   "price": 31.92,
-   "change": 1.27,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 31.92,
-     "change": 1.27
-    },
-    {
-     "date": "2026-10-07",
-     "close": 31.52,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-06",
-     "close": 31.52,
-     "change": -1.5
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-09T19:02:52+09:00"
   }
  ]
 }
