@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-20T00:55:44+09:00",
+ "updated_at": "2026-10-20T01:05:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006686",
+   "company": "Brainsway Ltd.",
+   "ticker": "BWAY",
+   "cik": 1505065,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "1 BrainsWay Announces Strategic Collaboration with Inland Psychiatry Medical Group Partnership with Established Southern California Behavioral Health Provider Aims to Accelerate Innovative Application of Interventional Psychiatry Treatments BURLINGTON, Mass.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326006686/0001171843-26-006686-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326006686/exh_991.htm",
+   "filed_at": "2026-10-19T12:00:05-04:00",
+   "filed_kst": "2026-10-20 01:00",
+   "price": 12.09,
+   "change": 5.68,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 12.09,
+     "change": 5.68
+    },
+    {
+     "date": "2026-10-16",
+     "close": 11.44,
+     "change": -3.21
+    },
+    {
+     "date": "2026-10-15",
+     "close": 11.82,
+     "change": 2.69
+    }
+   ],
+   "market_cap": 473514595.0,
+   "shares_outstanding": 39165806.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Israel",
+   "hq": "Jerusalem, L3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-20T01:01:10+09:00"
+  },
   {
    "id": "0001243429-26-000086",
    "company": "ArcelorMittal",
@@ -15534,56 +15584,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-08T22:18:06+09:00"
-  },
-  {
-   "id": "0001213900-26-107744",
-   "company": "Charlton Aria Acquisition Corp",
-   "ticker": "CHAR",
-   "cik": 2024459,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "announced a definitive business combination agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2024459/000121390026107744/0001213900-26-107744-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2024459/000121390026107744/ea030799801ex99-1.htm",
-   "filed_at": "2026-10-08T09:13:04-04:00",
-   "filed_kst": "2026-10-08 22:13",
-   "price": 10.99,
-   "change": 0.14,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 10.99,
-     "change": 0.14
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.98,
-     "change": 0.09
-    },
-    {
-     "date": "2026-10-05",
-     "close": 10.97,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "MONTEREY, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-08T22:14:39+09:00"
   }
  ]
 }
