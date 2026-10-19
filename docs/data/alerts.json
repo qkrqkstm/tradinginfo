@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-19T20:24:38+09:00",
+ "updated_at": "2026-10-19T20:29:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009023",
+   "company": "GSK plc",
+   "ticker": "GSK",
+   "cik": 1131399,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "Ris-Rez has received several global regulatory designations to date, including orphan drug designations in the US, Japan and the EU for SCLC, and Breakthrough Therapy Designation in the US and Priority Medicines (PRIME) Designation from the EMA for relapsed or refractory ES-SCLC, among others.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009023/0001654954-26-009023-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009023/a4743z.htm",
+   "filed_at": "2026-10-19T07:25:46-04:00",
+   "filed_kst": "2026-10-19 20:25",
+   "price": 49.51,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 49.51,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 49.51,
+     "change": 1.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 49.02,
+     "change": 2.4
+    }
+   ],
+   "market_cap": 213657683237.0,
+   "shares_outstanding": 4315445026.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-19T20:26:27+09:00"
+  },
   {
    "id": "0001564708-26-000231",
    "company": "NEWS CORP",
@@ -15551,59 +15601,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-08T19:03:40+09:00"
-  },
-  {
-   "id": "0001564708-26-000218",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000218/0001564708-26-000218-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000218/appendix3cclassa20261007.htm",
-   "filed_at": "2026-10-07T20:29:29-04:00",
-   "filed_kst": "2026-10-08 09:29",
-   "price": 31.52,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 31.52,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-06",
-     "close": 31.52,
-     "change": -1.5
-    },
-    {
-     "date": "2026-10-05",
-     "close": 32.0,
-     "change": 1.11
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-08T19:03:38+09:00"
   }
  ]
 }
