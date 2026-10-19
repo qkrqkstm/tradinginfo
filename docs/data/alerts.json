@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-19T20:04:57+09:00",
+ "updated_at": "2026-10-19T20:09:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-424649",
+   "company": "Disc Medicine, Inc.",
+   "ticker": "IRON",
+   "cik": 1816736,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 90,
+   "summary": "1 Disc Medicine Announces Success on All Primary and Secondary Endpoints in the Pivotal Phase 3 APOLLO Trial of Bitopertin in Adults and Adolescents with Erythropoietic Protoporphyria (EPP) • Positive APOLLO trial topline results demonstrated statistically significant and clinically meaningful benef",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526424649/0001193125-26-424649-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526424649/d156263dex992.htm",
+   "filed_at": "2026-10-19T07:08:08-04:00",
+   "filed_kst": "2026-10-19 20:08",
+   "price": 56.84,
+   "change": 0.34,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 56.84,
+     "change": 0.34
+    },
+    {
+     "date": "2026-10-15",
+     "close": 56.65,
+     "change": 1.63
+    },
+    {
+     "date": "2026-10-14",
+     "close": 55.74,
+     "change": -1.52
+    }
+   ],
+   "market_cap": 2182249253.0,
+   "shares_outstanding": 38392844.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "WATERTOWN, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-19T20:08:32+09:00"
+  },
   {
    "id": "0001062993-26-005392",
    "company": "Americas Gold & Silver Corp",
@@ -15548,57 +15604,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-08T19:02:25+09:00"
-  },
-  {
-   "id": "0001193125-26-417167",
-   "company": "PRA GROUP INC",
-   "ticker": "PRAA",
-   "cik": 1185348,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 66,
-   "summary": "EX-4.1 2 d166539dex41.htm EX-4.1 EX-4.1 Exhibit 4.1 PRA GROUP, INC., as Issuer, the GUARANTORS named herein, as Guarantors, and Regions Bank, as Trustee INDENTURE Dated as of October 2, 2026 8.500% Senior Notes due 2033 TABLE OF CONTENTS Page ARTICLE I DEFINITIONS AND INCORPORATION BY REFERENCE 1 Se",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1185348/000119312526417167/0001193125-26-417167-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1185348/000119312526417167/d166539dex41.htm",
-   "filed_at": "2026-10-07T19:28:07-04:00",
-   "filed_kst": "2026-10-08 08:28",
-   "price": 20.28,
-   "change": 1.2,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 20.28,
-     "change": 1.2
-    },
-    {
-     "date": "2026-10-06",
-     "close": 20.04,
-     "change": 3.25
-    },
-    {
-     "date": "2026-10-05",
-     "close": 19.41,
-     "change": 2.86
-    }
-   ],
-   "market_cap": 763501562.0,
-   "shares_outstanding": 37648006.0,
-   "industry": "Short-Term Business Credit Institutions",
-   "state_of_incorporation": "DE",
-   "hq": "NORFOLK, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-08T19:02:23+09:00"
   }
  ]
 }
