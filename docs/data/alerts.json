@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-19T23:24:37+09:00",
+ "updated_at": "2026-10-19T23:29:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-110531",
+   "company": "Alpha Tau Medical Ltd.",
+   "ticker": "DRTS",
+   "cik": 1871321,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "1 Alpha Tau Announces FDA Approval to Expand Alpha DaRT ® U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1871321/000121390026110531/0001213900-26-110531-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1871321/000121390026110531/ea030900301ex99-1.htm",
+   "filed_at": "2026-10-19T10:25:19-04:00",
+   "filed_kst": "2026-10-19 23:25",
+   "price": 12.67,
+   "change": 3.09,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 12.67,
+     "change": 3.09
+    },
+    {
+     "date": "2026-10-16",
+     "close": 12.29,
+     "change": -6.61
+    },
+    {
+     "date": "2026-10-15",
+     "close": 13.16,
+     "change": -2.52
+    }
+   ],
+   "market_cap": 1115083368.0,
+   "shares_outstanding": 88009737.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Israel",
+   "hq": "JERUSALEM, L3",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-19T23:25:57+09:00"
+  },
   {
    "id": "0001193125-26-424754",
    "company": "TCGX Acquisition Corp.",
@@ -15543,61 +15594,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-08T21:40:32+09:00"
-  },
-  {
-   "id": "0000918541-26-000107",
-   "company": "NN INC",
-   "ticker": "NNBR",
-   "cik": 918541,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "That amount reflects the $5.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/918541/000091854126000107/0000918541-26-000107-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/918541/000091854126000107/nnbr-20261007.htm",
-   "filed_at": "2026-10-08T08:29:45-04:00",
-   "filed_kst": "2026-10-08 21:29",
-   "price": 4.02,
-   "change": -0.5,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 4.02,
-     "change": -0.5
-    },
-    {
-     "date": "2026-10-06",
-     "close": 4.04,
-     "change": -4.72
-    },
-    {
-     "date": "2026-10-05",
-     "close": 4.24,
-     "change": -5.99
-    }
-   ],
-   "market_cap": 331975073.0,
-   "shares_outstanding": 82580864.0,
-   "industry": "Metalworkg Machinery & Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "CHARLOTTE, NC",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-08T21:30:39+09:00"
   }
  ]
 }
