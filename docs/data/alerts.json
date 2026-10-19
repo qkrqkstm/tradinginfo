@@ -1,7 +1,164 @@
 {
- "updated_at": "2026-10-19T20:59:31+09:00",
+ "updated_at": "2026-10-19T21:04:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178913-26-004786",
+   "company": "RedHill Biopharma Ltd.",
+   "ticker": "RDHL",
+   "cik": 1553846,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA",
+    "대형계약"
+   ],
+   "confidence": 90,
+   "summary": "Opaganib has received Orphan Drug designation from the FDA for the treatment of neuroblastoma and cholangiocarcinoma.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004786/0001178913-26-004786-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004786/exhibit_99-1.htm",
+   "filed_at": "2026-10-19T08:02:54-04:00",
+   "filed_kst": "2026-10-19 21:02",
+   "price": 0.48,
+   "change": 0.02,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 0.48,
+     "change": 0.02
+    },
+    {
+     "date": "2026-10-16",
+     "close": 0.48,
+     "change": -3.81
+    },
+    {
+     "date": "2026-10-15",
+     "close": 0.5,
+     "change": 2.67
+    }
+   ],
+   "market_cap": 24443165280.0,
+   "shares_outstanding": 50923261000.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "TEL AVIV, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-19T21:03:32+09:00"
+  },
+  {
+   "id": "0001213900-26-110477",
+   "company": "CorMedix Inc.",
+   "ticker": "CRMD",
+   "cik": 1410098,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "1 CORMEDIX ANNOUNCES FDA ACCEPTANCE FOR PRIORITY REVIEW OF SUPPLEMENTAL NDA FOR REZZAYO® (REZAFUNGIN) FOR PROPHYLAXIS OF INVASIVE FUNGAL DISEASES Parsippany, NJ – October 19, 2026 – CorMedix Therapeutics (Nasdaq: CRMD) today announced that the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026110477/0001213900-26-110477-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026110477/ea030895701ex99-1.htm",
+   "filed_at": "2026-10-19T08:00:28-04:00",
+   "filed_kst": "2026-10-19 21:00",
+   "price": 7.26,
+   "change": -2.68,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 7.26,
+     "change": -2.68
+    },
+    {
+     "date": "2026-10-15",
+     "close": 7.46,
+     "change": 0.95
+    },
+    {
+     "date": "2026-10-14",
+     "close": 7.39,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 565875792.0,
+   "shares_outstanding": 77944324.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PARSIPPANY, NJ",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-19T21:01:26+09:00"
+  },
+  {
+   "id": "0001468091-26-000036",
+   "company": "VEON Ltd.",
+   "ticker": "VEON",
+   "cik": 1468091,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(Nasdaq: VEON), a global digital operator (“VEON” or the “Company”), today announces that it has agreed to acquire 100% of Rubicon Wireless, the mobile network operator trading under the “Perfectum” brand, a mobile network operator in Uzbekistan.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000036/0001468091-26-000036-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000036/form6-kperfectumsigningann.htm",
+   "filed_at": "2026-10-19T07:59:55-04:00",
+   "filed_kst": "2026-10-19 20:59",
+   "price": 83.2,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 83.2,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 83.2,
+     "change": 0.47
+    },
+    {
+     "date": "2026-10-15",
+     "close": 82.81,
+     "change": 2.92
+    }
+   ],
+   "market_cap": 153852663494.0,
+   "shares_outstanding": 1849190667.0,
+   "industry": "Radiotelephone Communications",
+   "state_of_incorporation": "Bermuda",
+   "hq": "DUBAI (DIFC)",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-19T21:00:54+09:00"
+  },
   {
    "id": "0001654954-26-009023",
    "company": "GSK plc",
@@ -15442,165 +15599,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-08T19:04:20+09:00"
-  },
-  {
-   "id": "0001193125-26-417257",
-   "company": "Distribution Solutions Group, Inc.",
-   "ticker": "DSGR",
-   "cik": 703604,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "00 per share in cash (the “Share Acquisition Consideration”) and the Escrow Issuer will merge with and into DSG, with DSG continuing as the surviving corporation, at which point DSG will assume all of the Escrow Issuer’s rights and obligations under the Notes and",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526417257/0001193125-26-417257-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526417257/d170097dex991.htm",
-   "filed_at": "2026-10-07T21:50:28-04:00",
-   "filed_kst": "2026-10-08 10:50",
-   "price": 35.07,
-   "change": 0.06,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 35.07,
-     "change": 0.06
-    },
-    {
-     "date": "2026-10-06",
-     "close": 35.05,
-     "change": 0.09
-    },
-    {
-     "date": "2026-10-05",
-     "close": 35.02,
-     "change": 0.11
-    }
-   ],
-   "market_cap": 1622177650.0,
-   "shares_outstanding": 46255422.0,
-   "industry": "Wholesale-Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "FORT WORTH, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-08T19:04:18+09:00"
-  },
-  {
-   "id": "0001213900-26-107704",
-   "company": "New ERA Energy & Digital, Inc.",
-   "ticker": "NUAI",
-   "cik": 2028336,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03",
-    "3.02",
-    "8.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The Company has begun pursuing leases with hyperscale tenants for its Texas Critical Data Center project (the “TCDC Project”), rather than seeking to develop the TCDC Project through a joint venture with a data center developer.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026107704/0001213900-26-107704-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026107704/ea0308042-8k_newera.htm",
-   "filed_at": "2026-10-08T06:02:33-04:00",
-   "filed_kst": "2026-10-08 19:02",
-   "price": 5.53,
-   "change": -5.63,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 5.53,
-     "change": -5.63
-    },
-    {
-     "date": "2026-10-06",
-     "close": 5.86,
-     "change": -3.14
-    },
-    {
-     "date": "2026-10-05",
-     "close": 6.05,
-     "change": -3.82
-    }
-   ],
-   "market_cap": 589273145.0,
-   "shares_outstanding": 106559339.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "NV",
-   "hq": "MIDLAND, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-08T19:04:13+09:00"
-  },
-  {
-   "id": "0001628280-26-065374",
-   "company": "Oil-Dri Corp of America",
-   "ticker": "ODC",
-   "cik": 74046,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "In the event the Bank shall incur any loss, cost or expense (including, without limitation, any loss (including loss of profit), cost or expense incurred by reason of the liquidation or reemployment of deposits or other funds acquired or contracted to be acquired by the Bank to fund or maintain any ",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/74046/000162828026065374/0001628280-26-065374-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/74046/000162828026065374/fifthamendment.htm",
-   "filed_at": "2026-10-07T20:02:48-04:00",
-   "filed_kst": "2026-10-08 09:02",
-   "price": 87.81,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 87.81,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-07",
-     "close": 87.81,
-     "change": -0.36
-    },
-    {
-     "date": "2026-10-06",
-     "close": 88.13,
-     "change": 0.27
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Miscellaneous Manufacturing Industries",
-   "state_of_incorporation": "DE",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-08T19:03:40+09:00"
   }
  ]
 }
