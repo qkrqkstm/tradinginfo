@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-19T22:19:34+09:00",
+ "updated_at": "2026-10-19T22:24:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-424754",
+   "company": "TCGX Acquisition Corp.",
+   "ticker": "TCGX",
+   "cik": 2137965,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "Announce Business Combination Agreement to Create Publicly Listed Company to Develop Elismetrep, A Potential First-in-Class Treatment for Migraine Transaction Includes Concurrent $160 million Private Investment in Public Equity (PIPE) Financing and Expected Gros",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2137965/000119312526424754/0001193125-26-424754-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2137965/000119312526424754/d43527dex992.htm",
+   "filed_at": "2026-10-19T09:20:54-04:00",
+   "filed_kst": "2026-10-19 22:20",
+   "price": 12.3,
+   "change": -0.49,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 12.3,
+     "change": -0.49
+    },
+    {
+     "date": "2026-10-15",
+     "close": 12.36,
+     "change": -4.04
+    },
+    {
+     "date": "2026-10-14",
+     "close": 12.88,
+     "change": 4.21
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GRAND CAYMAN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-19T22:21:36+09:00"
+  },
   {
    "id": "0001827635-26-000036",
    "company": "Veradermics, Inc",
@@ -15545,56 +15598,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-08T21:30:39+09:00"
-  },
-  {
-   "id": "0001802974-26-000046",
-   "company": "Mission Produce, Inc.",
-   "ticker": "AVO",
-   "cik": 1802974,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "(the “Company”) authorized a $100 million stock repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1802974/000180297426000046/0001802974-26-000046-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1802974/000180297426000046/missionproduce_investord.htm",
-   "filed_at": "2026-10-08T08:19:12-04:00",
-   "filed_kst": "2026-10-08 21:19",
-   "price": 12.51,
-   "change": -1.88,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 12.51,
-     "change": -1.88
-    },
-    {
-     "date": "2026-10-06",
-     "close": 12.75,
-     "change": 0.39
-    },
-    {
-     "date": "2026-10-05",
-     "close": 12.7,
-     "change": -0.86
-    }
-   ],
-   "market_cap": 1096856834.0,
-   "shares_outstanding": 87678404.0,
-   "industry": "Agricultural Services",
-   "state_of_incorporation": "DE",
-   "hq": "OXNARD, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-08T21:20:30+09:00"
   }
  ]
 }
