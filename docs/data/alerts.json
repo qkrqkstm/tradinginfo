@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-10-20T05:49:37+09:00",
+ "updated_at": "2026-10-20T05:54:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001175680-26-000038",
+   "company": "CytoDyn Inc.",
+   "ticker": "CYDY",
+   "cik": 1175680,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The leadership transition comes as CytoDyn prepares for its next phase of clinical development, with a focus on advancing its oncology pipeline, pursuing regulatory milestones and exploring potential strategic partnerships.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175680/000117568026000038/0001175680-26-000038-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1175680/000117568026000038/ck0001175680-ex99_2.htm",
+   "filed_at": "2026-10-19T16:50:53-04:00",
+   "filed_kst": "2026-10-20 05:50",
+   "price": 0.25,
+   "change": 8.7,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 0.25,
+     "change": 8.7
+    },
+    {
+     "date": "2026-10-16",
+     "close": 0.23,
+     "change": 9.52
+    },
+    {
+     "date": "2026-10-15",
+     "close": 0.21,
+     "change": 5.0
+    }
+   ],
+   "market_cap": 367379500.0,
+   "shares_outstanding": 1469518000.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "VANCOUVER, WA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-20T05:52:08+09:00"
+  },
+  {
+   "id": "0001140361-26-040117",
+   "company": "AES CORP",
+   "ticker": "AES",
+   "cik": 874761,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "As previously announced, on March 1, 2026, The AES Corporation (the “ Company ”) entered into an Agreement and Plan of Merger (as it may be amended from time to time, the “ Merger Agreement ”), by and among the Company, Horizon Parent, L.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126040117/0001140361-26-040117-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126040117/ef20083812_8k.htm",
+   "filed_at": "2026-10-19T16:51:31-04:00",
+   "filed_kst": "2026-10-20 05:51",
+   "price": 14.96,
+   "change": 0.07,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 14.96,
+     "change": 0.07
+    },
+    {
+     "date": "2026-10-16",
+     "close": 14.95,
+     "change": -0.13
+    },
+    {
+     "date": "2026-10-15",
+     "close": 14.97,
+     "change": 0.07
+    }
+   ],
+   "market_cap": 10673041905.0,
+   "shares_outstanding": 713438630.0,
+   "industry": "Cogeneration Services & Small Power Producers",
+   "state_of_incorporation": "DE",
+   "hq": "ARLINGTON, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T05:52:05+09:00"
+  },
   {
    "id": "0001680247-26-000116",
    "company": "ProPetro Holding Corp.",
@@ -15512,112 +15619,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-09T06:23:43+09:00"
-  },
-  {
-   "id": "0001193125-26-418059",
-   "company": "Drilling Tools International Corp",
-   "ticker": "DTI",
-   "cik": 1884516,
-   "form": "425",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "425 1 d918265d425.htm 425 425 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of report (date of earliest event reported): October 8, 2026 DRILLING TOOLS INTERNATIONAL CORPORAT",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1884516/000119312526418059/0001193125-26-418059-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1884516/000119312526418059/d918265d425.htm",
-   "filed_at": "2026-10-08T17:11:29-04:00",
-   "filed_kst": "2026-10-09 06:11",
-   "price": 2.01,
-   "change": -14.83,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 2.01,
-     "change": -14.83
-    },
-    {
-     "date": "2026-10-07",
-     "close": 2.36,
-     "change": -2.07
-    },
-    {
-     "date": "2026-10-06",
-     "close": 2.41,
-     "change": 2.12
-    }
-   ],
-   "market_cap": 70917270.0,
-   "shares_outstanding": 35282224.0,
-   "industry": "Oil & Gas Field Machinery & Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-09T06:12:09+09:00"
-  },
-  {
-   "id": "0001193125-26-418058",
-   "company": "Drilling Tools International Corp",
-   "ticker": "DTI",
-   "cik": 1884516,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 2 d918265dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 PARTICIPANTS Corporate Participants Zach Vaughan – Senior Vice President, Dennard Lascar Associates LLC Wayne Prejean – Chairman & Chief Executive Officer, Drilling Tools International Corp. (US) Michael David Loggie – Founder & Chief Executiv",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1884516/000119312526418058/0001193125-26-418058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1884516/000119312526418058/d918265dex991.htm",
-   "filed_at": "2026-10-08T17:09:59-04:00",
-   "filed_kst": "2026-10-09 06:09",
-   "price": 2.01,
-   "change": -14.83,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 2.01,
-     "change": -14.83
-    },
-    {
-     "date": "2026-10-07",
-     "close": 2.36,
-     "change": -2.07
-    },
-    {
-     "date": "2026-10-06",
-     "close": 2.41,
-     "change": 2.12
-    }
-   ],
-   "market_cap": 70917270.0,
-   "shares_outstanding": 35282224.0,
-   "industry": "Oil & Gas Field Machinery & Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-09T06:10:35+09:00"
   }
  ]
 }
