@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-20T00:09:33+09:00",
+ "updated_at": "2026-10-20T00:14:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-066246",
+   "company": "ERICSSON LM TELEPHONE CO",
+   "ticker": "ERIC",
+   "cik": 717826,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "63 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026, and which runs between April 23, 2026, and March 31, 2027, at the latest.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026066246/0001628280-26-066246-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026066246/sharebuybacksinericssondur.htm",
+   "filed_at": "2026-10-19T11:11:51-04:00",
+   "filed_kst": "2026-10-20 00:11",
+   "price": 10.38,
+   "change": -1.66,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 10.38,
+     "change": -1.66
+    },
+    {
+     "date": "2026-10-16",
+     "close": 10.55,
+     "change": -1.49
+    },
+    {
+     "date": "2026-10-15",
+     "close": 10.71,
+     "change": 11.8
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM SWEDEN, V7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T00:12:35+09:00"
+  },
   {
    "id": "0001213900-26-110531",
    "company": "Alpha Tau Medical Ltd.",
@@ -15540,60 +15590,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-08T21:41:35+09:00"
-  },
-  {
-   "id": "0001628280-26-065408",
-   "company": "Vir Biotechnology, Inc.",
-   "ticker": "VIR",
-   "cik": 1706431,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 72,
-   "summary": "Food and Drug Administration has granted Fast Track designation to VIR-5500, a PSMA-targeted PRO-XTEN ® dual-masked T-cell engager (TCE), for the treatment of late-line metastatic castration-resistant prostate cancer.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1706431/000162828026065408/0001628280-26-065408-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1706431/000162828026065408/vir-20261008.htm",
-   "filed_at": "2026-10-08T08:38:38-04:00",
-   "filed_kst": "2026-10-08 21:38",
-   "price": 11.52,
-   "change": -0.69,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 11.52,
-     "change": -0.69
-    },
-    {
-     "date": "2026-10-06",
-     "close": 11.6,
-     "change": -1.53
-    },
-    {
-     "date": "2026-10-05",
-     "close": 11.78,
-     "change": 5.46
-    }
-   ],
-   "market_cap": 1949367836.0,
-   "shares_outstanding": 169215958.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-08T21:40:32+09:00"
   }
  ]
 }
