@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-20T05:40:11+09:00",
+ "updated_at": "2026-10-20T05:44:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001680247-26-000116",
+   "company": "ProPetro Holding Corp.",
+   "ticker": "PUMP",
+   "cik": 1680247,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "From December 2010 to October 2022, he served as Senior Vice President and Chief Development Officer, leading all mergers, acquisitions, divestitures, joint ventures, and strategic transactions for the company, as well as generation, renewables, and electric transmission development.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1680247/000168024726000116/0001680247-26-000116-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1680247/000168024726000116/pump-20261015.htm",
+   "filed_at": "2026-10-19T16:43:26-04:00",
+   "filed_kst": "2026-10-20 05:43",
+   "price": 7.8,
+   "change": 0.91,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 7.8,
+     "change": 0.91
+    },
+    {
+     "date": "2026-10-16",
+     "close": 7.73,
+     "change": -2.64
+    },
+    {
+     "date": "2026-10-15",
+     "close": 7.94,
+     "change": -3.41
+    }
+   ],
+   "market_cap": 958026553.0,
+   "shares_outstanding": 122823917.0,
+   "industry": "Oil & Gas Field Services, NEC",
+   "state_of_incorporation": "TX",
+   "hq": "MIDLAND, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-20T05:44:08+09:00"
+  },
   {
    "id": "0001193125-26-425320",
    "company": "EMERA INC",
@@ -15564,57 +15618,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-09T06:10:35+09:00"
-  },
-  {
-   "id": "0001193125-26-418053",
-   "company": "Hess Midstream LP",
-   "ticker": "HESM",
-   "cik": 1789832,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "DJ Basin The DJ Basin assets to be acquired by Hess Midstream are located primarily in Weld County, Colorado, and include approximately 400 thousand barrels per day of oil gathering capacity, 300 million cubic foot per day of gas gathering capacity and 420 thousand barrels of storage capa",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1789832/000119312526418053/0001193125-26-418053-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1789832/000119312526418053/d401552dex991.htm",
-   "filed_at": "2026-10-08T17:06:47-04:00",
-   "filed_kst": "2026-10-09 06:06",
-   "price": 34.0,
-   "change": 2.94,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 34.0,
-     "change": 2.94
-    },
-    {
-     "date": "2026-10-07",
-     "close": 33.03,
-     "change": -14.63
-    },
-    {
-     "date": "2026-10-06",
-     "close": 38.69,
-     "change": 0.73
-    }
-   ],
-   "market_cap": 4363929954.0,
-   "shares_outstanding": 128350881.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-09T06:07:36+09:00"
   }
  ]
 }
