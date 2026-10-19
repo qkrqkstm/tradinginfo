@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-19T21:04:34+09:00",
+ "updated_at": "2026-10-19T21:09:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-116736",
+   "company": "ArriVent BioPharma, Inc.",
+   "ticker": "AVBP",
+   "cik": 1868279,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "Food and Drug Administration (FDA) Breakthrough Therapy Designation for the treatment of patients with previously untreated locally advanced or metastatic non-squamous NSCLC with EGFR exon 20 insertion mutations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926116736/0001104659-26-116736-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926116736/tm2627799d1_ex99-1.htm",
+   "filed_at": "2026-10-19T08:08:31-04:00",
+   "filed_kst": "2026-10-19 21:08",
+   "price": 16.66,
+   "change": -0.77,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 16.66,
+     "change": -0.77
+    },
+    {
+     "date": "2026-10-15",
+     "close": 16.79,
+     "change": 3.64
+    },
+    {
+     "date": "2026-10-14",
+     "close": 16.2,
+     "change": 0.68
+    }
+   ],
+   "market_cap": 821466765.0,
+   "shares_outstanding": 49307729.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEWTOWN SQUARE, PA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-19T21:09:01+09:00"
+  },
   {
    "id": "0001178913-26-004786",
    "company": "RedHill Biopharma Ltd.",
@@ -15547,58 +15600,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-08T19:06:51+09:00"
-  },
-  {
-   "id": "0001104659-26-114491",
-   "company": "ARGENX SE",
-   "ticker": "ARGX",
-   "cik": 1697862,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 91,
-   "summary": "Food and Drug Administration has granted FB102 Fast Track Designation for celiac disease.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926114491/0001104659-26-114491-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926114491/tm2627263d1_ex99-1.htm",
-   "filed_at": "2026-10-08T06:01:56-04:00",
-   "filed_kst": "2026-10-08 19:01",
-   "price": 928.44,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 928.44,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-07",
-     "close": 928.44,
-     "change": -0.22
-    },
-    {
-     "date": "2026-10-06",
-     "close": 930.52,
-     "change": 1.93
-    }
-   ],
-   "market_cap": 57454936623.0,
-   "shares_outstanding": 61883306.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Netherlands",
-   "hq": "ZWIJNAARDE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-08T19:04:20+09:00"
   }
  ]
 }
