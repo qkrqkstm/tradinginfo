@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-19T20:19:34+09:00",
+ "updated_at": "2026-10-19T20:24:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001564708-26-000231",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000231/0001564708-26-000231-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000231/appendix3cclassa20261016.htm",
+   "filed_at": "2026-10-19T07:23:50-04:00",
+   "filed_kst": "2026-10-19 20:23",
+   "price": 32.88,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 32.88,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 32.88,
+     "change": -0.54
+    },
+    {
+     "date": "2026-10-15",
+     "close": 33.06,
+     "change": 1.88
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-19T20:24:38+09:00"
+  },
   {
    "id": "0001628280-26-066204",
    "company": "EquipmentShare.com Inc",
@@ -15551,59 +15604,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-08T19:03:38+09:00"
-  },
-  {
-   "id": "0001829126-26-010874",
-   "company": "FortuneX Acquisition Corp",
-   "ticker": "FXAC",
-   "cik": 2121703,
-   "form": "425",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-10.1 2 fortunexacq_ex10-1.htm EXHIBIT 10.1 Exhibit 10.1 FORM OF AMENDED AND RESTATED REGISTRATION RIGHTS AGREEMENT THIS AMENDED AND RESTATED REGISTRATION RIGHTS AGREEMENT (this “Agreement”) is entered into as of [●], 2026, by and among: (i) FortuneX Acquisition Corporation, a Cayman Islands exemp",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010874/0001829126-26-010874-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010874/fortunexacq_ex10-1.htm",
-   "filed_at": "2026-10-07T18:47:03-04:00",
-   "filed_kst": "2026-10-08 07:47",
-   "price": 10.1,
-   "change": 0.1,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 10.1,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.09,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-05",
-     "close": 10.08,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 127582483.0,
-   "shares_outstanding": 12631929.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-08T19:03:02+09:00"
   }
  ]
 }
