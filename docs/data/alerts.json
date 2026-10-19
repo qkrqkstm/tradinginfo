@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-20T05:19:11+09:00",
+ "updated_at": "2026-10-20T05:24:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001402057-26-000106",
+   "company": "CDW Corp",
+   "ticker": "CDW",
+   "cik": 1402057,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "His experience also includes strategic partnerships, mergers and acquisitions, and corporate governance.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1402057/000140205726000106/0001402057-26-000106-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1402057/000140205726000106/ex991-xprcdwappointssarang.htm",
+   "filed_at": "2026-10-19T16:23:01-04:00",
+   "filed_kst": "2026-10-20 05:23",
+   "price": 152.65,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 152.65,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 152.65,
+     "change": 1.44
+    },
+    {
+     "date": "2026-10-16",
+     "close": 150.48,
+     "change": -2.49
+    }
+   ],
+   "market_cap": 19083910079.0,
+   "shares_outstanding": 125017426.0,
+   "industry": "Retail-Catalog & Mail-Order Houses",
+   "state_of_incorporation": "DE",
+   "hq": "VERNON HILLS, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T05:23:51+09:00"
+  },
   {
    "id": "0000943374-26-000447",
    "company": "Seneca Bancorp, Inc.",
@@ -15562,59 +15616,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-09T05:13:43+09:00"
-  },
-  {
-   "id": "0001406666-26-000038",
-   "company": "CALIX, INC",
-   "ticker": "CALX",
-   "cik": 1406666,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "(the “Company”) issued a press release announcing that its board of directors increased the Company’s authorization to repurchase its common stock by an additional $100 million under the existing stock repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1406666/000140666626000038/0001406666-26-000038-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1406666/000140666626000038/calx-20261008.htm",
-   "filed_at": "2026-10-08T16:10:23-04:00",
-   "filed_kst": "2026-10-09 05:10",
-   "price": 36.07,
-   "change": 1.49,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 36.07,
-     "change": 1.49
-    },
-    {
-     "date": "2026-10-07",
-     "close": 35.54,
-     "change": 0.71
-    },
-    {
-     "date": "2026-10-06",
-     "close": 35.29,
-     "change": 2.77
-    }
-   ],
-   "market_cap": 2271111083.0,
-   "shares_outstanding": 62963989.0,
-   "industry": "Communications Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "SAN JOSE, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-09T05:11:05+09:00"
   }
  ]
 }
