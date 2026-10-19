@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-19T21:59:15+09:00",
+ "updated_at": "2026-10-19T22:04:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-116751",
+   "company": "ARGENX SE",
+   "ticker": "ARGX",
+   "cik": 1697862,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과"
+   ],
+   "confidence": 75,
+   "summary": "” In the ALKIVIA study, efgartigimod showed rapid, sustained, and clinically meaningful improvements · The Phase 3 ALKIVIA study met its primary endpoint, achieving a 15.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926116751/0001104659-26-116751-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926116751/tm2627805d1_ex99-1.htm",
+   "filed_at": "2026-10-19T08:59:27-04:00",
+   "filed_kst": "2026-10-19 21:59",
+   "price": 819.14,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 819.14,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 819.14,
+     "change": -3.21
+    },
+    {
+     "date": "2026-10-15",
+     "close": 846.27,
+     "change": 3.42
+    }
+   ],
+   "market_cap": 50691091277.0,
+   "shares_outstanding": 61883306.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Netherlands",
+   "hq": "ZWIJNAARDE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-19T22:00:54+09:00"
+  },
   {
    "id": "0001493152-26-047517",
    "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
@@ -15545,59 +15596,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-08T21:01:55+09:00"
-  },
-  {
-   "id": "0001193125-26-417432",
-   "company": "Virginia National Bankshares Corp",
-   "ticker": "VABK",
-   "cik": 1572334,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "01 Other Events On October 6, 2026, Virginia National Bankshares Corporation (the \"Company\") announced a share repurchase plan.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1572334/000119312526417432/0001193125-26-417432-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1572334/000119312526417432/vabk-20261006.htm",
-   "filed_at": "2026-10-08T07:30:14-04:00",
-   "filed_kst": "2026-10-08 20:30",
-   "price": 48.31,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 48.31,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-07",
-     "close": 48.31,
-     "change": 0.33
-    },
-    {
-     "date": "2026-10-06",
-     "close": 48.15,
-     "change": 1.48
-    }
-   ],
-   "market_cap": 262095373.0,
-   "shares_outstanding": 5425282.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": "VA",
-   "hq": "CHARLOTTESVILLE, VA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-08T20:31:13+09:00"
   }
  ]
 }
