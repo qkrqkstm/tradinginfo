@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-10-19T21:14:11+09:00",
+ "updated_at": "2026-10-19T21:19:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-110486",
+   "company": "Enlivex Ltd.",
+   "ticker": "ENLV",
+   "cik": 1596812,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 86,
+   "summary": "Food and Drug Administration’s (FDA) Regenerative Medicine Advanced Therapy (RMAT) designation give us strong conviction in Allocetra’s™ potential in treating knee osteoarthritis.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596812/000121390026110486/0001213900-26-110486-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1596812/000121390026110486/ea030897301ex99-1.htm",
+   "filed_at": "2026-10-19T08:18:26-04:00",
+   "filed_kst": "2026-10-19 21:18",
+   "price": 0.2,
+   "change": -8.48,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 0.2,
+     "change": -8.48
+    },
+    {
+     "date": "2026-10-15",
+     "close": 0.22,
+     "change": 3.7
+    },
+    {
+     "date": "2026-10-14",
+     "close": 0.22,
+     "change": -2.7
+    }
+   ],
+   "market_cap": 47476300.0,
+   "shares_outstanding": 237381498.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "TEL AVIV",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-19T21:19:16+09:00"
+  },
+  {
+   "id": "0000932787-26-000081",
+   "company": "STMicroelectronics N.V.",
+   "ticker": "STM",
+   "cik": 932787,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "PR N°C3417C STMicroelectronics announces status of common share repurchase program Disclosure of Transactions in Own Shares – Period from October 12, 2026 to October 16, 2026 AMSTERDAM – October 19, 2026 -- STMicroelectronics N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000081/0000932787-26-000081-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000081/c3417c-october192026xdiscl.htm",
+   "filed_at": "2026-10-19T08:18:52-04:00",
+   "filed_kst": "2026-10-19 21:18",
+   "price": 45.39,
+   "change": -2.6,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 45.39,
+     "change": -2.6
+    },
+    {
+     "date": "2026-10-15",
+     "close": 46.6,
+     "change": -0.64
+    },
+    {
+     "date": "2026-10-14",
+     "close": 46.9,
+     "change": -5.39
+    }
+   ],
+   "market_cap": 40341186419.0,
+   "shares_outstanding": 888768152.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Netherlands",
+   "hq": "SCHIPHOL AIRPORT, P7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-19T21:19:14+09:00"
+  },
+  {
+   "id": "0001193125-26-424709",
+   "company": "MKS INC",
+   "ticker": "MKSI",
+   "cik": 1049502,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(“TTM”) in an all-cash transaction for $650 million, subject to customary closing adjustments.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1049502/000119312526424709/0001193125-26-424709-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1049502/000119312526424709/mksi-ex99_1.htm",
+   "filed_at": "2026-10-19T08:17:13-04:00",
+   "filed_kst": "2026-10-19 21:17",
+   "price": 214.83,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 214.83,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 214.83,
+     "change": -5.99
+    },
+    {
+     "date": "2026-10-15",
+     "close": 228.52,
+     "change": -2.55
+    }
+   ],
+   "market_cap": 14526279985.0,
+   "shares_outstanding": 67617558.0,
+   "industry": "Industrial Instruments For Measurement, Display, and Control",
+   "state_of_incorporation": "MA",
+   "hq": "ANDOVER, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-19T21:17:40+09:00"
+  },
   {
    "id": "0001493152-26-047507",
    "company": "CALLAN JMB INC.",
@@ -15443,166 +15598,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-08T20:04:07+09:00"
-  },
-  {
-   "id": "0001493152-26-046257",
-   "company": "Nova Minerals Corp",
-   "ticker": "NVA",
-   "cik": 1852551,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "domestic antimony supply chain in Alaska, supported by a $43.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226046257/0001493152-26-046257-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226046257/ex99-1.htm",
-   "filed_at": "2026-10-08T06:45:38-04:00",
-   "filed_kst": "2026-10-08 19:45",
-   "price": 5.25,
-   "change": -7.24,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 5.25,
-     "change": -7.24
-    },
-    {
-     "date": "2026-10-06",
-     "close": 5.66,
-     "change": -6.6
-    },
-    {
-     "date": "2026-10-05",
-     "close": 6.06,
-     "change": 5.21
-    }
-   ],
-   "market_cap": 200520432.0,
-   "shares_outstanding": 38194368.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "NV",
-   "hq": "CAULFIELD",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-08T19:46:24+09:00"
-  },
-  {
-   "id": "0001193125-26-417384",
-   "company": "Perspective Therapeutics, Inc.",
-   "ticker": "CATX",
-   "cik": 728387,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "1 Perspective Therapeutics Granted Fast Track Designation for [212Pb]PSV359 for the Treatment of Adult Patients with Locally Advanced Unresectable and/or Metastatic FAP-Positive Solitary Fibrous Tumors SEATTLE, Oct.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/728387/000119312526417384/0001193125-26-417384-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/728387/000119312526417384/catx-ex99_1.htm",
-   "filed_at": "2026-10-08T06:28:19-04:00",
-   "filed_kst": "2026-10-08 19:28",
-   "price": 2.46,
-   "change": 4.24,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 2.46,
-     "change": 4.24
-    },
-    {
-     "date": "2026-10-06",
-     "close": 2.36,
-     "change": -8.17
-    },
-    {
-     "date": "2026-10-05",
-     "close": 2.57,
-     "change": -6.88
-    }
-   ],
-   "market_cap": 280813091.0,
-   "shares_outstanding": 114151663.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SEATTLE, WA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-08T19:29:13+09:00"
-  },
-  {
-   "id": "0000313143-26-000138",
-   "company": "HAEMONETICS CORP",
-   "ticker": "HAE",
-   "cik": 313143,
-   "form": "8-K",
-   "items": [
-    "7.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "01 Regulation FD Disclosure On August 18, 2026, Haemonetics Corporation (the “Company”) furnished a Current Report on Form 8-K disclosing its entry into a non-exclusive supply agreement with CSL Plasma Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/313143/000031314326000138/0000313143-26-000138-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/313143/000031314326000138/hae-20261008.htm",
-   "filed_at": "2026-10-08T06:15:19-04:00",
-   "filed_kst": "2026-10-08 19:15",
-   "price": 101.71,
-   "change": -1.75,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 101.71,
-     "change": -1.75
-    },
-    {
-     "date": "2026-10-06",
-     "close": 103.52,
-     "change": -1.11
-    },
-    {
-     "date": "2026-10-05",
-     "close": 104.68,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 4627505057.0,
-   "shares_outstanding": 45497051.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "MA",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-08T19:16:05+09:00"
   }
  ]
 }
