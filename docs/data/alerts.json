@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-19T19:04:45+09:00",
+ "updated_at": "2026-10-19T19:09:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-116694",
+   "company": "Perfect Corp.",
+   "ticker": "PERF",
+   "cik": 1899830,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "1 Perfect Announces Shareholders’ Approval of Merger Agreement New York – October 19, 2026 – Perfect Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1899830/000110465926116694/0001104659-26-116694-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1899830/000110465926116694/tm2627441d1_ex99-1.htm",
+   "filed_at": "2026-10-19T06:05:12-04:00",
+   "filed_kst": "2026-10-19 19:05",
+   "price": 1.94,
+   "change": 0.52,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 1.94,
+     "change": 0.52
+    },
+    {
+     "date": "2026-10-15",
+     "close": 1.93,
+     "change": -0.52
+    },
+    {
+     "date": "2026-10-14",
+     "close": 1.94,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW TAIPEI CITY, F5",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-19T19:05:57+09:00"
+  },
   {
    "id": "0001178913-26-004783",
    "company": "ELBIT SYSTEMS LTD",
@@ -15541,57 +15592,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-08T06:01:22+09:00"
-  },
-  {
-   "id": "0000731012-26-000052",
-   "company": "HEALTHCARE SERVICES GROUP INC",
-   "ticker": "HCSG",
-   "cik": 731012,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "(the “Company”) entered into a Membership Interest Purchase Agreement (the “Purchase Agreement”) with Real Artisan Brands, LLC and certain other parties thereto (collectively, the “Seller Parties”), pursuant to which the Company agreed to acquire all of the outstanding equity interests of NexDine, L",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/731012/000073101226000052/0000731012-26-000052-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/731012/000073101226000052/membershipinterestpurchase.htm",
-   "filed_at": "2026-10-07T17:00:30-04:00",
-   "filed_kst": "2026-10-08 06:00",
-   "price": 20.79,
-   "change": -1.61,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 20.79,
-     "change": -1.61
-    },
-    {
-     "date": "2026-10-06",
-     "close": 21.13,
-     "change": -0.28
-    },
-    {
-     "date": "2026-10-05",
-     "close": 21.19,
-     "change": 1.53
-    }
-   ],
-   "market_cap": 1426863480.0,
-   "shares_outstanding": 68632202.0,
-   "industry": "Services-Nursing & Personal Care Facilities",
-   "state_of_incorporation": "PA",
-   "hq": "BENSALEM, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-08T06:01:20+09:00"
   }
  ]
 }
