@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-20T04:59:29+09:00",
+ "updated_at": "2026-10-20T05:04:56+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001423689-26-000144",
+   "company": "AGNC Investment Corp.",
+   "ticker": "AGNC",
+   "cik": 1423689,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "지수편입",
+   "primary_key": "index",
+   "emoji": "📈",
+   "types": [
+    "대형계약",
+    "지수편입"
+   ],
+   "confidence": 57,
+   "summary": "Finally, AGNC was added to the S&P MidCap 400 Index during the third quarter, an important milestone for the Company and a testament to the scale that AGNC has attained over our 18-year history.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1423689/000142368926000144/0001423689-26-000144-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1423689/000142368926000144/agnc8kexhibit99193026.htm",
+   "filed_at": "2026-10-19T16:03:07-04:00",
+   "filed_kst": "2026-10-20 05:03",
+   "price": 8.44,
+   "change": -3.21,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 8.44,
+     "change": -3.21
+    },
+    {
+     "date": "2026-10-16",
+     "close": 8.72,
+     "change": -1.13
+    },
+    {
+     "date": "2026-10-15",
+     "close": 8.82,
+     "change": 2.44
+    }
+   ],
+   "market_cap": 10005463413.0,
+   "shares_outstanding": 1185481447.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": null,
+   "hq": "BETHESDA, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T05:03:53+09:00"
+  },
   {
    "id": "0001493152-26-047561",
    "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
@@ -15539,56 +15593,6 @@
    "hq": "TAOYUAN CITY",
    "entity_category": null,
    "detected_at": "2026-10-09T05:03:55+09:00"
-  },
-  {
-   "id": "0001213900-26-107955",
-   "company": "Bitdeer Technologies Group",
-   "ticker": "BTDR",
-   "cik": 1899123,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "US$100 MILLION SHARE REPURCHASE PROGRAM The Company’s board of directors has authorized a new share repurchase program to repurchase up to US$100 million worth of its Class A ordinary shares (“Shares”), effective from October 8, 2026 through October 7, 2028.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026107955/0001213900-26-107955-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026107955/ea0307821-6k_bitdeer.htm",
-   "filed_at": "2026-10-08T16:01:01-04:00",
-   "filed_kst": "2026-10-09 05:01",
-   "price": 9.72,
-   "change": -6.54,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 9.72,
-     "change": -6.54
-    },
-    {
-     "date": "2026-10-07",
-     "close": 10.4,
-     "change": -4.67
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.91,
-     "change": -0.18
-    }
-   ],
-   "market_cap": 2289566256.0,
-   "shares_outstanding": 235552084.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-09T05:01:49+09:00"
   }
  ]
 }
