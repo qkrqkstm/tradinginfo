@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-20T02:04:37+09:00",
+ "updated_at": "2026-10-20T02:09:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009036",
+   "company": "GSK plc",
+   "ticker": "GSK",
+   "cik": 1131399,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 84,
+   "summary": "Jemperli has received FDA Fast Track and Breakthrough Therapy designations for this indication.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009036/0001654954-26-009036-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009036/a5712z.htm",
+   "filed_at": "2026-10-19T13:06:46-04:00",
+   "filed_kst": "2026-10-20 02:06",
+   "price": 49.52,
+   "change": 0.01,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 49.51,
+     "change": 0.01
+    },
+    {
+     "date": "2026-10-16",
+     "close": 49.51,
+     "change": 1.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 49.02,
+     "change": 2.4
+    }
+   ],
+   "market_cap": 213700837688.0,
+   "shares_outstanding": 4315445026.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T02:07:30+09:00"
+  },
   {
    "id": "0001171843-26-006686",
    "company": "Brainsway Ltd.",
@@ -15534,56 +15585,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-08T22:52:03+09:00"
-  },
-  {
-   "id": "0001213900-26-107746",
-   "company": "Charlton Aria Acquisition Corp",
-   "ticker": "CHAR",
-   "cik": 2024459,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "announced a definitive business combination agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2024459/000121390026107746/0001213900-26-107746-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2024459/000121390026107746/ea030799801ex99-1.htm",
-   "filed_at": "2026-10-08T09:16:47-04:00",
-   "filed_kst": "2026-10-08 22:16",
-   "price": 10.99,
-   "change": 0.14,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 10.99,
-     "change": 0.14
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.98,
-     "change": 0.09
-    },
-    {
-     "date": "2026-10-05",
-     "close": 10.97,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "MONTEREY, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-08T22:18:06+09:00"
   }
  ]
 }
