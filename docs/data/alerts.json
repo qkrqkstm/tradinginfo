@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-10-20T00:19:08+09:00",
+ "updated_at": "2026-10-20T00:24:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-007951",
+   "company": "Adia Med, Inc.",
+   "ticker": "ADIA",
+   "cik": 1160420,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Nothing in this Agreement constitutes a representation that any product is approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1160420/000168316826007951/0001683168-26-007951-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1160420/000168316826007951/adia_ex1001.htm",
+   "filed_at": "2026-10-19T11:22:28-04:00",
+   "filed_kst": "2026-10-20 00:22",
+   "price": 0.15,
+   "change": 5.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 0.15,
+     "change": 5.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 0.14,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 0.14,
+     "change": -4.76
+    }
+   ],
+   "market_cap": 14160704.0,
+   "shares_outstanding": 94404696.0,
+   "industry": "Medicinal Chemicals & Botanical Products",
+   "state_of_incorporation": "NV",
+   "hq": "WINTER PARK, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-20T00:23:08+09:00"
+  },
+  {
+   "id": "0001648416-26-000134",
+   "company": "Ferrari N.V.",
+   "ticker": "RACE",
+   "cik": 1648416,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), October 19, 2026 – Ferrari N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000134/0001648416-26-000134-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000134/fnvbb191026prex.htm",
+   "filed_at": "2026-10-19T11:19:44-04:00",
+   "filed_kst": "2026-10-20 00:19",
+   "price": 395.61,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 395.61,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 395.61,
+     "change": -0.48
+    },
+    {
+     "date": "2026-10-16",
+     "close": 397.53,
+     "change": -0.18
+    }
+   ],
+   "market_cap": 73088112763.0,
+   "shares_outstanding": 184747890.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": "Netherlands",
+   "hq": "MARANELLO, L6",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T00:20:33+09:00"
+  },
   {
    "id": "0001628280-26-066246",
    "company": "ERICSSON LM TELEPHONE CO",
@@ -15480,116 +15584,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-08T22:08:35+09:00"
-  },
-  {
-   "id": "0001628280-26-065410",
-   "company": "HALLADOR ENERGY CO",
-   "ticker": "HNRG",
-   "cik": 788965,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "5 million in June 2031 and $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/788965/000162828026065410/0001628280-26-065410-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/788965/000162828026065410/exhibit_991.htm",
-   "filed_at": "2026-10-08T08:59:42-04:00",
-   "filed_kst": "2026-10-08 21:59",
-   "price": 13.65,
-   "change": -7.83,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 13.65,
-     "change": -7.83
-    },
-    {
-     "date": "2026-10-06",
-     "close": 14.81,
-     "change": 6.16
-    },
-    {
-     "date": "2026-10-05",
-     "close": 13.95,
-     "change": 3.41
-    }
-   ],
-   "market_cap": 643506823.0,
-   "shares_outstanding": 47143357.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "CO",
-   "hq": "TERRE HAUTE, IN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-08T22:00:55+09:00"
-  },
-  {
-   "id": "0001493152-26-046268",
-   "company": "Beyond Air, Inc.",
-   "ticker": "XAIR",
-   "cik": 1641631,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Our second-generation system remains under review by the FDA, and we expect demand for the LungFit PH platform to increase significantly following FDA approval.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1641631/000149315226046268/0001493152-26-046268-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1641631/000149315226046268/ex99-1.htm",
-   "filed_at": "2026-10-08T08:40:39-04:00",
-   "filed_kst": "2026-10-08 21:40",
-   "price": 2.54,
-   "change": -0.39,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 2.54,
-     "change": -0.39
-    },
-    {
-     "date": "2026-10-06",
-     "close": 2.55,
-     "change": -10.21
-    },
-    {
-     "date": "2026-10-05",
-     "close": 2.84,
-     "change": 0.71
-    }
-   ],
-   "market_cap": 2432383.0,
-   "shares_outstanding": 957631.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "GARDEN CITY, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-08T21:41:35+09:00"
   }
  ]
 }
