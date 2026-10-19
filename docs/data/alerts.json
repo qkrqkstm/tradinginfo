@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-19T19:09:32+09:00",
+ "updated_at": "2026-10-19T19:14:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001451505-26-000077",
+   "company": "Transocean Ltd.",
+   "ticker": "RIG",
+   "cik": 1451505,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "In aggregate, the fixtures represent approximately $550 million in firm contract backlog.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000077/0001451505-26-000077-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000077/rig-ex99d1.htm",
+   "filed_at": "2026-10-19T06:12:56-04:00",
+   "filed_kst": "2026-10-19 19:12",
+   "price": 5.62,
+   "change": 2.0,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 5.62,
+     "change": 2.0
+    },
+    {
+     "date": "2026-10-15",
+     "close": 5.51,
+     "change": -1.25
+    },
+    {
+     "date": "2026-10-14",
+     "close": 5.58,
+     "change": -1.24
+    }
+   ],
+   "market_cap": 6276866078.0,
+   "shares_outstanding": 1116880085.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": "Switzerland",
+   "hq": "STEINHAUSEN, V8",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-19T19:13:40+09:00"
+  },
   {
    "id": "0001104659-26-116694",
    "company": "Perfect Corp.",
@@ -15542,56 +15595,6 @@
    "hq": "VANCOUVER, A1",
    "entity_category": null,
    "detected_at": "2026-10-08T06:18:46+09:00"
-  },
-  {
-   "id": "0001829126-26-010863",
-   "company": "CSLM Digital Asset Acquisition Corp III, Ltd",
-   "ticker": "KOYN",
-   "cik": 2068454,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“First Digital”), which is a party to a definitive business combination agreement, dated as of October 6, 2026 (the “Business Combination Agreement”), with CSLM Digital Asset Acquisition Corp III, Ltd.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2068454/000182912626010863/0001829126-26-010863-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2068454/000182912626010863/cslmacq3_425.htm",
-   "filed_at": "2026-10-07T17:00:50-04:00",
-   "filed_kst": "2026-10-08 06:00",
-   "price": 10.26,
-   "change": 0.1,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 10.26,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.25,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-05",
-     "close": 10.26,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GRAND CAYMAN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-08T06:01:22+09:00"
   }
  ]
 }
