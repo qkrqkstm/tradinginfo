@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-19T20:14:34+09:00",
+ "updated_at": "2026-10-19T20:19:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-066204",
+   "company": "EquipmentShare.com Inc",
+   "ticker": "EQPT",
+   "cik": 1693736,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향"
+   ],
+   "confidence": 58,
+   "summary": "1 FOR IMMEDIATE RELEASE: EquipmentShare Raises 2026 Financial Outlook on Strong Performance and Customer Demand Midpoint Full-Year Rental Segment (1) Revenue Growth Outlook Increased to 43% from 33% COLUMBIA, MO.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1693736/000162828026066204/0001628280-26-066204-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1693736/000162828026066204/exhibit991-q32026updatedgu.htm",
+   "filed_at": "2026-10-19T07:15:09-04:00",
+   "filed_kst": "2026-10-19 20:15",
+   "price": 13.59,
+   "change": -5.73,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 13.59,
+     "change": -5.73
+    },
+    {
+     "date": "2026-10-15",
+     "close": 14.41,
+     "change": 5.11
+    },
+    {
+     "date": "2026-10-14",
+     "close": 13.71,
+     "change": -10.8
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Equipment Rental & Leasing, NEC",
+   "state_of_incorporation": "TX",
+   "hq": "COLUMBIA, MO",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-19T20:16:00+09:00"
+  },
   {
    "id": "0001193125-26-424649",
    "company": "Disc Medicine, Inc.",
@@ -15551,59 +15604,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-08T19:03:02+09:00"
-  },
-  {
-   "id": "0001829126-26-010873",
-   "company": "FortuneX Acquisition Corp",
-   "ticker": "FXAC",
-   "cik": 2121703,
-   "form": "8-K/A",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-10.1 2 fortunexacq_ex10-1.htm EXHIBIT 10.1 Exhibit 10.1 FORM OF AMENDED AND RESTATED REGISTRATION RIGHTS AGREEMENT THIS AMENDED AND RESTATED REGISTRATION RIGHTS AGREEMENT (this “Agreement”) is entered into as of [●], 2026, by and among: (i) FortuneX Acquisition Corporation, a Cayman Islands exemp",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010873/0001829126-26-010873-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010873/fortunexacq_ex10-1.htm",
-   "filed_at": "2026-10-07T18:46:59-04:00",
-   "filed_kst": "2026-10-08 07:46",
-   "price": 10.1,
-   "change": 0.1,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 10.1,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-06",
-     "close": 10.09,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-05",
-     "close": 10.08,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 127582483.0,
-   "shares_outstanding": 12631929.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-08T19:02:25+09:00"
   }
  ]
 }
