@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-19T21:09:32+09:00",
+ "updated_at": "2026-10-19T21:14:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-047507",
+   "company": "CALLAN JMB INC.",
+   "ticker": "CJMB",
+   "cik": 2032545,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(the “ Company ”), entered into an Asset Purchase and Sale Agreement (the “ APA ”) with The Pfanenstiel Company, LLC, an Oklahoma limited liability company (the “ Seller ”), pursuant to which the Buyer agreed to acquire fifty percent (50%) of the Seller’s right, title and interest in certain oil and",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226047507/0001493152-26-047507-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226047507/form8-k.htm",
+   "filed_at": "2026-10-19T08:10:17-04:00",
+   "filed_kst": "2026-10-19 21:10",
+   "price": 2.2,
+   "change": -9.09,
+   "price_history": [
+    {
+     "date": "2026-10-16",
+     "close": 2.2,
+     "change": -9.09
+    },
+    {
+     "date": "2026-10-15",
+     "close": 2.42,
+     "change": 11.52
+    },
+    {
+     "date": "2026-10-14",
+     "close": 2.17,
+     "change": 0.93
+    }
+   ],
+   "market_cap": 12655210.0,
+   "shares_outstanding": 5752368.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "NV",
+   "hq": "SPRING BRANCH, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-19T21:11:04+09:00"
+  },
   {
    "id": "0001104659-26-116736",
    "company": "ArriVent BioPharma, Inc.",
@@ -15550,56 +15603,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-08T19:16:05+09:00"
-  },
-  {
-   "id": "0001171843-26-006524",
-   "company": "Addex Therapeutics Ltd.",
-   "ticker": "ADXN",
-   "cik": 1574232,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "6-K 1 f6k_100826.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October 2026 Commission File Number: 001-39179 Addex Therapeuti",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1574232/000117184326006524/0001171843-26-006524-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574232/000117184326006524/f6k_100826.htm",
-   "filed_at": "2026-10-08T06:05:05-04:00",
-   "filed_kst": "2026-10-08 19:05",
-   "price": 3.13,
-   "change": -1.57,
-   "price_history": [
-    {
-     "date": "2026-10-07",
-     "close": 3.13,
-     "change": -1.57
-    },
-    {
-     "date": "2026-10-06",
-     "close": 3.18,
-     "change": 2.58
-    },
-    {
-     "date": "2026-10-05",
-     "close": 3.1,
-     "change": 0.98
-    }
-   ],
-   "market_cap": 462713578.0,
-   "shares_outstanding": 147831814.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Switzerland",
-   "hq": "GENEVA, V8",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-08T19:06:51+09:00"
   }
  ]
 }
