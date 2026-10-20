@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-21T04:59:07+09:00",
+ "updated_at": "2026-10-21T05:04:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-117397",
+   "company": "MESA ROYALTY TRUST/TX",
+   "ticker": "MTR",
+   "cik": 313364,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "In addition, as further described in the Trust’s most recent filing on Form 10-Q, distributions to unitholders are expected to be materially reduced, until the Trust increases its cash reserves to a total of $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926117397/0001104659-26-117397-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926117397/tm2627878d1_ex99-1.htm",
+   "filed_at": "2026-10-20T16:01:07-04:00",
+   "filed_kst": "2026-10-21 05:01",
+   "price": 2.01,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 2.01,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 2.01,
+     "change": -0.5
+    },
+    {
+     "date": "2026-10-16",
+     "close": 2.02,
+     "change": -0.98
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Oil Royalty Traders",
+   "state_of_incorporation": "TX",
+   "hq": "HOUSTON, TX",
+   "entity_category": null,
+   "detected_at": "2026-10-21T05:01:55+09:00"
+  },
   {
    "id": "0001213900-26-110876",
    "company": "ClimateRock",
@@ -15582,57 +15633,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-13T19:29:02+09:00"
-  },
-  {
-   "id": "0001493152-26-046691",
-   "company": "Pulmatrix, Inc.",
-   "ticker": "PULM",
-   "cik": 1574235,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Delaware corporation and wholly owned subsidiary of Pulmatrix (“Merger Sub”), and Eos entered into an Agreement and Plan of Merger and Reorganization, dated as of March 26, 2026 (the “Merger Agreement”), pursuant to which Merger Sub will merge with and into Eos, with Eos surviving as a wholly ow",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226046691/0001493152-26-046691-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226046691/form425.htm",
-   "filed_at": "2026-10-13T06:17:06-04:00",
-   "filed_kst": "2026-10-13 19:17",
-   "price": 1.43,
-   "change": -2.05,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 1.43,
-     "change": -2.05
-    },
-    {
-     "date": "2026-10-09",
-     "close": 1.46,
-     "change": -4.39
-    },
-    {
-     "date": "2026-10-08",
-     "close": 1.53,
-     "change": 2.48
-    }
-   ],
-   "market_cap": 5222768.0,
-   "shares_outstanding": 3652285.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "FRAMINGHAM, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-13T19:17:44+09:00"
   }
  ]
 }
