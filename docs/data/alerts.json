@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-21T06:09:33+09:00",
+ "updated_at": "2026-10-21T06:14:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-066530",
+   "company": "Brightstar Lottery PLC",
+   "ticker": "BRSL",
+   "cik": 1619762,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 a6-kxrepurchasesxoctober20.htm 6-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October 2026 Commission File Number 001-369",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026066530/0001628280-26-066530-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026066530/a6-kxrepurchasesxoctober20.htm",
+   "filed_at": "2026-10-20T17:11:06-04:00",
+   "filed_kst": "2026-10-21 06:11",
+   "price": 9.36,
+   "change": -0.74,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 9.36,
+     "change": -0.74
+    },
+    {
+     "date": "2026-10-19",
+     "close": 9.43,
+     "change": -0.74
+    },
+    {
+     "date": "2026-10-16",
+     "close": 9.5,
+     "change": -2.06
+    }
+   ],
+   "market_cap": 1748930611.0,
+   "shares_outstanding": 186851561.0,
+   "industry": "Services-Miscellaneous Amusement & Recreation",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-21T06:11:37+09:00"
+  },
   {
    "id": "0001193125-26-426841",
    "company": "WIPRO LTD",
@@ -15596,56 +15646,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-13T20:31:42+09:00"
-  },
-  {
-   "id": "0001171843-26-006593",
-   "company": "Legend Biotech Corp",
-   "ticker": "LEGN",
-   "cik": 1801198,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "6-K 1 f6k_101326.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 Date of Report: October 13, 2026 Commission File Number: 001-39307 Legend Biotech C",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006593/0001171843-26-006593-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326006593/f6k_101326.htm",
-   "filed_at": "2026-10-13T07:30:04-04:00",
-   "filed_kst": "2026-10-13 20:30",
-   "price": 17.8,
-   "change": -4.4,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 17.8,
-     "change": -4.4
-    },
-    {
-     "date": "2026-10-09",
-     "close": 18.62,
-     "change": -0.48
-    },
-    {
-     "date": "2026-10-08",
-     "close": 18.71,
-     "change": -2.14
-    }
-   ],
-   "market_cap": 6583977368.0,
-   "shares_outstanding": 369886369.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SOMERSET, NJ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-13T20:30:38+09:00"
   }
  ]
 }
