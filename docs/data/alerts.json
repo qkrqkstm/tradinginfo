@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-20T19:24:37+09:00",
+ "updated_at": "2026-10-20T19:29:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009046",
+   "company": "Wise Group plc",
+   "ticker": "WSE",
+   "cik": 2099039,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "9100 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009046/0001654954-26-009046-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009046/a5857z.htm",
+   "filed_at": "2026-10-20T06:27:30-04:00",
+   "filed_kst": "2026-10-20 19:27",
+   "price": 10.95,
+   "change": -0.27,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 10.95,
+     "change": -0.27
+    },
+    {
+     "date": "2026-10-16",
+     "close": 10.98,
+     "change": -9.26
+    },
+    {
+     "date": "2026-10-15",
+     "close": 12.1,
+     "change": 0.75
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Jersey",
+   "hq": "LONDON",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-20T19:27:58+09:00"
+  },
   {
    "id": "0001213900-26-110814",
    "company": "Launch Two Acquisition Corp.",
@@ -15550,54 +15601,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-10T02:12:34+09:00"
-  },
-  {
-   "id": "0001279569-26-000968",
-   "company": "BTQ Technologies Corp.",
-   "ticker": "BTQ",
-   "cik": 1821866,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "( \"BTQ\" or the \"Company\" ) (Nasdaq: BTQ) (CBOE CA: BTQ), a global technology company building the trust infrastructure for the quantum era, has announced a strategic partnership with MoonPay Korea, part of MoonPay Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1821866/000127956926000968/0001279569-26-000968-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1821866/000127956926000968/ex991.htm",
-   "filed_at": "2026-10-09T12:47:53-04:00",
-   "filed_kst": "2026-10-10 01:47",
-   "price": 2.78,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-09",
-     "close": 2.78,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 2.78,
-     "change": -0.35
-    },
-    {
-     "date": "2026-10-08",
-     "close": 2.79,
-     "change": -9.42
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER",
-   "entity_category": null,
-   "detected_at": "2026-10-10T01:48:35+09:00"
   }
  ]
 }
