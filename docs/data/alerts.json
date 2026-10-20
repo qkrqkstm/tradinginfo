@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-10-20T19:59:29+09:00",
+ "updated_at": "2026-10-20T20:04:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001418819-26-000053",
+   "company": "Iridium Communications Inc.",
+   "ticker": "IRDM",
+   "cik": 1418819,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "배당"
+   ],
+   "confidence": 58,
+   "summary": "The Company’s Board of Directors plans to increase the quarterly dividend to $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000053/0001418819-26-000053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000053/pressreleaseq32026.htm",
+   "filed_at": "2026-10-20T07:01:13-04:00",
+   "filed_kst": "2026-10-20 20:01",
+   "price": 44.18,
+   "change": 0.96,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 44.18,
+     "change": 0.96
+    },
+    {
+     "date": "2026-10-16",
+     "close": 43.76,
+     "change": -2.73
+    },
+    {
+     "date": "2026-10-15",
+     "close": 44.99,
+     "change": -1.73
+    }
+   ],
+   "market_cap": 4681329721.0,
+   "shares_outstanding": 105960383.0,
+   "industry": "Communications Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "MCLEAN, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T20:01:57+09:00"
+  },
+  {
+   "id": "0001104659-26-117113",
+   "company": "UNITED COMMUNITY BANKS INC",
+   "ticker": "UCB",
+   "cik": 857855,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 72,
+   "summary": "The Board also approved an incremental $100 million share repurchase authorization through the end of 2027, bringing the current outstanding repurchase authorization to $113 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/0001104659-26-117113-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/tm2627820d1_ex99-1.htm",
+   "filed_at": "2026-10-20T07:00:45-04:00",
+   "filed_kst": "2026-10-20 20:00",
+   "price": 33.78,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 33.78,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 33.78,
+     "change": -0.91
+    },
+    {
+     "date": "2026-10-16",
+     "close": 34.09,
+     "change": 0.12
+    }
+   ],
+   "market_cap": 4073040491.0,
+   "shares_outstanding": 120575503.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "GA",
+   "hq": "GREENVILLE, SC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T20:01:23+09:00"
+  },
   {
    "id": "0000101829-26-000030",
    "company": "RTX Corp",
@@ -15507,107 +15612,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-10T05:31:16+09:00"
-  },
-  {
-   "id": "0001193125-26-419151",
-   "company": "McGraw Hill, Inc.",
-   "ticker": "MH",
-   "cik": 1951070,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 64,
-   "summary": "Notwithstanding anything to the contrary in this definition or any provision of Section 13d-3 of the Exchange Act, no person or “group” shall be deemed to beneficially own Equity Interests to be acquired by such person or “group” pursuant to a stock or asset purchase agreement, merger or amalgamatio",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1951070/000119312526419151/0001193125-26-419151-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1951070/000119312526419151/d147687dex991.htm",
-   "filed_at": "2026-10-09T16:29:22-04:00",
-   "filed_kst": "2026-10-10 05:29",
-   "price": 13.37,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-09",
-     "close": 13.37,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-08",
-     "close": 13.37,
-     "change": 2.06
-    },
-    {
-     "date": "2026-10-07",
-     "close": 13.1,
-     "change": 0.92
-    }
-   ],
-   "market_cap": 2557798843.0,
-   "shares_outstanding": 191308814.0,
-   "industry": "Miscellaneous Publishing",
-   "state_of_incorporation": "DE",
-   "hq": "BEVERLY HILLS, CA",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-10T05:30:41+09:00"
-  },
-  {
-   "id": "0001493152-26-046512",
-   "company": "Diginex Ltd",
-   "ticker": "DGNX",
-   "cik": 2010499,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 form6-k.htm 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October 2026 Commission File Number: 001-42459 DIGINEX LIMITED (Exact n",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2010499/000149315226046512/0001493152-26-046512-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2010499/000149315226046512/form6-k.htm",
-   "filed_at": "2026-10-09T16:05:06-04:00",
-   "filed_kst": "2026-10-10 05:05",
-   "price": 1.27,
-   "change": 4.96,
-   "price_history": [
-    {
-     "date": "2026-10-09",
-     "close": 1.27,
-     "change": 4.96
-    },
-    {
-     "date": "2026-10-08",
-     "close": 1.21,
-     "change": -11.03
-    },
-    {
-     "date": "2026-10-07",
-     "close": 1.36,
-     "change": 5.43
-    }
-   ],
-   "market_cap": 36995265.0,
-   "shares_outstanding": 29130130.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-10T05:05:58+09:00"
   }
  ]
 }
