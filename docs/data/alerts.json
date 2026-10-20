@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-20T20:59:29+09:00",
+ "updated_at": "2026-10-20T21:04:57+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006704",
+   "company": "Alvotech",
+   "ticker": "ALVO",
+   "cik": 1898416,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "1 Alvotech Receives FDA Approval for New SIMLANDI® Manufacturing Process That More Than Doubles Output Per Batch Enhanced process increases manufacturing productivity and frees up capacity to support growing demand across Alvotech’s biosimilars portfolio REYKJAVIK, Iceland and",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1898416/000117184326006704/0001171843-26-006704-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1898416/000117184326006704/f6k_102026.htm",
+   "filed_at": "2026-10-20T08:00:05-04:00",
+   "filed_kst": "2026-10-20 21:00",
+   "price": 5.03,
+   "change": 0.6,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 5.03,
+     "change": 0.6
+    },
+    {
+     "date": "2026-10-16",
+     "close": 5.0,
+     "change": -5.84
+    },
+    {
+     "date": "2026-10-15",
+     "close": 5.31,
+     "change": 2.71
+    }
+   ],
+   "market_cap": 1569467516.0,
+   "shares_outstanding": 312021375.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Luxembourg",
+   "hq": "LUXEMBOURG, N4",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T21:00:49+09:00"
+  },
   {
    "id": "0001193125-26-425703",
    "company": "PRUDENTIAL FINANCIAL INC",
@@ -15564,57 +15614,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-10T05:55:24+09:00"
-  },
-  {
-   "id": "0001104659-26-115060",
-   "company": "NetClass Technology Inc",
-   "ticker": "NTCL",
-   "cik": 1927578,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "As part of this growth strategy, NetClass has formed a joint venture, Linkee AI Company Limited, and has officially launched its debut interactive AI smart pet line, LinkeeBot, now available at https://linkeebot.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1927578/000110465926115060/0001104659-26-115060-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1927578/000110465926115060/tm2627126d1_ex99-1.htm",
-   "filed_at": "2026-10-09T16:30:12-04:00",
-   "filed_kst": "2026-10-10 05:30",
-   "price": 1.5,
-   "change": -16.43,
-   "price_history": [
-    {
-     "date": "2026-10-09",
-     "close": 1.5,
-     "change": -16.43
-    },
-    {
-     "date": "2026-10-08",
-     "close": 1.79,
-     "change": -8.79
-    },
-    {
-     "date": "2026-10-07",
-     "close": 1.97,
-     "change": 0.41
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-10T05:31:23+09:00"
   }
  ]
 }
