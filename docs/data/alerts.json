@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-20T21:49:09+09:00",
+ "updated_at": "2026-10-20T21:54:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-040186",
+   "company": "Freenome, Inc.",
+   "ticker": "FRNM",
+   "cik": 2017526,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "The SimpleScreen Lung laboratory-developed test has not been reviewed or cleared/approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2017526/000114036126040186/0001140361-26-040186-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2017526/000114036126040186/ef20084075_ex99-1.htm",
+   "filed_at": "2026-10-20T08:53:02-04:00",
+   "filed_kst": "2026-10-20 21:53",
+   "price": 12.57,
+   "change": 6.98,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 12.57,
+     "change": 6.98
+    },
+    {
+     "date": "2026-10-16",
+     "close": 11.75,
+     "change": -4.35
+    },
+    {
+     "date": "2026-10-15",
+     "close": 12.28,
+     "change": 0.78
+    }
+   ],
+   "market_cap": 112014412.0,
+   "shares_outstanding": 8911250.0,
+   "industry": "Services-Medical Laboratories",
+   "state_of_incorporation": "DE",
+   "hq": "BRISBANE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-20T21:53:45+09:00"
+  },
   {
    "id": "0000899923-26-000094",
    "company": "MYRIAD GENETICS INC",
@@ -15561,56 +15617,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-13T19:03:42+09:00"
-  },
-  {
-   "id": "0001178913-26-004752",
-   "company": "TOWER SEMICONDUCTOR LTD",
-   "ticker": "TSEM",
-   "cik": 928876,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Date: October 13, 2026 By: /s/ Nati Somekh Name: Nati Somekh Title: Corporate Secretary Tower Semiconductor and Semtech Expand SiGe Partnership to Scale Power-Efficient Analog Connectivity for Data Centers Multi-year agreement expands dedicated capacity across Tower's global fab network to support t",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/928876/000117891326004752/0001178913-26-004752-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/928876/000117891326004752/zk2636221.htm",
-   "filed_at": "2026-10-13T06:00:45-04:00",
-   "filed_kst": "2026-10-13 19:00",
-   "price": 216.5,
-   "change": -5.34,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 216.5,
-     "change": -5.34
-    },
-    {
-     "date": "2026-10-09",
-     "close": 228.71,
-     "change": -0.02
-    },
-    {
-     "date": "2026-10-08",
-     "close": 228.75,
-     "change": -7.85
-    }
-   ],
-   "market_cap": 24363698466.0,
-   "shares_outstanding": 112534404.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "Israel",
-   "hq": "MIGDAL HAEMEK",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-13T19:03:08+09:00"
   }
  ]
 }
