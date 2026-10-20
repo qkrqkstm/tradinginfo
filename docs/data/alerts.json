@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-21T05:29:41+09:00",
+ "updated_at": "2026-10-21T05:34:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001005286-26-000040",
+   "company": "LIFECORE BIOMEDICAL, INC. \\DE\\",
+   "ticker": "LFCR",
+   "cik": 1005286,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Lifecore Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1005286/000100528626000040/0001005286-26-000040-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1005286/000100528626000040/lfcr-20261016.htm",
+   "filed_at": "2026-10-20T16:30:38-04:00",
+   "filed_kst": "2026-10-21 05:30",
+   "price": 6.37,
+   "change": -0.31,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 6.37,
+     "change": -0.31
+    },
+    {
+     "date": "2026-10-19",
+     "close": 6.39,
+     "change": 0.16
+    },
+    {
+     "date": "2026-10-16",
+     "close": 6.38,
+     "change": -0.93
+    }
+   ],
+   "market_cap": 241123992.0,
+   "shares_outstanding": 37853060.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CHASKA, MN",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-21T05:31:15+09:00"
+  },
   {
    "id": "0001753926-26-001970",
    "company": "INTERPARFUMS INC",
@@ -15590,56 +15643,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-13T20:18:31+09:00"
-  },
-  {
-   "id": "0001648416-26-000129",
-   "company": "Ferrari N.V.",
-   "ticker": "RACE",
-   "cik": 1648416,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), October 12, 2026 – Ferrari N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000129/0001648416-26-000129-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000129/fnvbb121026prex.htm",
-   "filed_at": "2026-10-13T07:06:33-04:00",
-   "filed_kst": "2026-10-13 20:06",
-   "price": 389.24,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 389.24,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-12",
-     "close": 389.24,
-     "change": -0.17
-    },
-    {
-     "date": "2026-10-09",
-     "close": 389.91,
-     "change": 0.42
-    }
-   ],
-   "market_cap": 71911268704.0,
-   "shares_outstanding": 184747890.0,
-   "industry": "Motor Vehicles & Passenger Car Bodies",
-   "state_of_incorporation": "Netherlands",
-   "hq": "MARANELLO, L6",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-13T20:07:30+09:00"
   }
  ]
 }
