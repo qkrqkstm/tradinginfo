@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-20T22:09:34+09:00",
+ "updated_at": "2026-10-20T22:14:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000085535-26-000044",
+   "company": "ROYAL GOLD INC",
+   "ticker": "RGLD",
+   "cik": 85535,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "The repurchased shares were cancelled.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/85535/000008553526000044/0000085535-26-000044-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/85535/000008553526000044/ex991q32026prequarterrelea.htm",
+   "filed_at": "2026-10-20T09:12:41-04:00",
+   "filed_kst": "2026-10-20 22:12",
+   "price": 235.91,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 235.91,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 235.91,
+     "change": -0.9
+    },
+    {
+     "date": "2026-10-16",
+     "close": 238.05,
+     "change": 2.17
+    }
+   ],
+   "market_cap": 19988148745.0,
+   "shares_outstanding": 84727857.0,
+   "industry": "Mineral Royalty Traders",
+   "state_of_incorporation": "DE",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T22:13:35+09:00"
+  },
   {
    "id": "0001140361-26-040188",
    "company": "FARMERS & MERCHANTS BANCORP",
@@ -15567,60 +15620,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-13T19:09:04+09:00"
-  },
-  {
-   "id": "0001104659-26-115161",
-   "company": "ArriVent BioPharma, Inc.",
-   "ticker": "AVBP",
-   "cik": 1868279,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "” In August 2026, ArriVent entered into an exclusive licensing agreement with Shanghai Allist Pharmaceuticals Co.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926115161/0001104659-26-115161-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926115161/tm2627450d1_ex99-1.htm",
-   "filed_at": "2026-10-13T06:03:00-04:00",
-   "filed_kst": "2026-10-13 19:03",
-   "price": 16.46,
-   "change": -1.61,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 16.46,
-     "change": -1.61
-    },
-    {
-     "date": "2026-10-09",
-     "close": 16.73,
-     "change": 0.12
-    },
-    {
-     "date": "2026-10-08",
-     "close": 16.71,
-     "change": -1.07
-    }
-   ],
-   "market_cap": 811605219.0,
-   "shares_outstanding": 49307729.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEWTOWN SQUARE, PA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T19:03:43+09:00"
   }
  ]
 }
