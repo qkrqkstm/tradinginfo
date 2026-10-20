@@ -1,7 +1,165 @@
 {
- "updated_at": "2026-10-20T19:04:46+09:00",
+ "updated_at": "2026-10-20T19:09:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-110814",
+   "company": "Launch Two Acquisition Corp.",
+   "ticker": "LPBB",
+   "cik": 2023676,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The $25 million investment from AIDEA will constitute a Transaction Financing under NuCube’s Business Combination Agreement with Launch Two, dated as of June 25, 2026, and amended as of October 19, 2026 and therefore will count toward the $75 million Minimum Cash Condition required for closing of th",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026110814/0001213900-26-110814-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026110814/ea0309104-425_nucube.htm",
+   "filed_at": "2026-10-20T06:08:46-04:00",
+   "filed_kst": "2026-10-20 19:08",
+   "price": 10.79,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 10.79,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 10.79,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 10.79,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Fabricated Plate Work (Boiler Shops)",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "OAKLAND, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-20T19:09:12+09:00"
+  },
+  {
+   "id": "0001193125-26-425650",
+   "company": "SHINHAN FINANCIAL GROUP CO LTD",
+   "ticker": "SHG",
+   "cik": 1263043,
+   "form": "6-K/A",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각"
+   ],
+   "confidence": 73,
+   "summary": "Scheduled Date of Cancellation’ following the completion of SFG’s share repurchase program on October 20, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1263043/000119312526425650/0001193125-26-425650-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1263043/000119312526425650/6ka_261020_cancellation.htm",
+   "filed_at": "2026-10-20T06:08:18-04:00",
+   "filed_kst": "2026-10-20 19:08",
+   "price": 69.63,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 69.63,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 69.63,
+     "change": -0.97
+    },
+    {
+     "date": "2026-10-16",
+     "close": 70.31,
+     "change": -1.43
+    }
+   ],
+   "market_cap": 33224469692.0,
+   "shares_outstanding": 477157399.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "SEOUL100-102",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T19:09:10+09:00"
+  },
+  {
+   "id": "0001193125-26-425647",
+   "company": "Rapport Therapeutics, Inc.",
+   "ticker": "RAPP",
+   "cik": 2012593,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 79,
+   "summary": "1 Rapport Therapeutics Announces Positive Topline Results from its Phase 2 Trial of RAP-219 for the Treatment of Bipolar Mania The trial met the primary and secondary endpoints with statistically significant placebo-adjusted improvements at Week 3 in the YMRS total score (3.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526425647/0001193125-26-425647-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526425647/d185134dex991.htm",
+   "filed_at": "2026-10-20T06:05:17-04:00",
+   "filed_kst": "2026-10-20 19:05",
+   "price": 28.6,
+   "change": 3.74,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 28.6,
+     "change": 3.74
+    },
+    {
+     "date": "2026-10-16",
+     "close": 27.57,
+     "change": -6.76
+    },
+    {
+     "date": "2026-10-15",
+     "close": 29.57,
+     "change": 4.38
+    }
+   ],
+   "market_cap": 1372178980.0,
+   "shares_outstanding": 47978286.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-20T19:06:01+09:00"
+  },
   {
    "id": "0001171843-26-006694",
    "company": "Pacific Airport Group",
@@ -15440,166 +15598,6 @@
    "hq": "VANCOUVER",
    "entity_category": null,
    "detected_at": "2026-10-10T01:48:35+09:00"
-  },
-  {
-   "id": "0001171843-26-006556",
-   "company": "EUROSEAS LTD.",
-   "ticker": "ESEA",
-   "cik": 1341170,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 72,
-   "summary": "esea20260610_6k.htm --12-31 Q2 2026 false 0001341170 0 1 1 0 June 30, 2025 February 28, 2026 June 30, 2025 February 28, 2025 0 6 0 0 12 0 0001341170 2026-01-01 2026-06-30 thunderdome:item iso4217:USD xbrli:shares 0001341170 us-gaap:SubsequentEventMember 2026-08-01 2026-08-30 iso4217:USD 0001341170 2",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1341170/000117184326006556/0001171843-26-006556-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1341170/000117184326006556/esea20260610_6k.htm",
-   "filed_at": "2026-10-09T11:31:30-04:00",
-   "filed_kst": "2026-10-10 00:31",
-   "price": 72.49,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-09",
-     "close": 72.49,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 72.49,
-     "change": -1.25
-    },
-    {
-     "date": "2026-10-08",
-     "close": 73.41,
-     "change": 0.77
-    }
-   ],
-   "market_cap": 511480814.0,
-   "shares_outstanding": 7055881.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": null,
-   "hq": "151 25 MAROUSSI, J3",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-10T00:32:12+09:00"
-  },
-  {
-   "id": "0001213900-26-108233",
-   "company": "APPLIED ENERGETICS, INC.",
-   "ticker": "AERG",
-   "cik": 879911,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "This dual-use technology directly supports Scaled Directed Energy (SCADE), one of the Department of War’s six critical technology areas, and positions Applied Energetics for defense prime integration, joint ventures, and commercialization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/879911/000121390026108233/0001213900-26-108233-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/879911/000121390026108233/ea030818701ex99-1.htm",
-   "filed_at": "2026-10-09T08:30:12-04:00",
-   "filed_kst": "2026-10-09 21:30",
-   "price": 0.81,
-   "change": 12.5,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 0.81,
-     "change": 12.5
-    },
-    {
-     "date": "2026-10-07",
-     "close": 0.72,
-     "change": 1.41
-    },
-    {
-     "date": "2026-10-06",
-     "close": 0.71,
-     "change": -2.74
-    }
-   ],
-   "market_cap": 186385052.0,
-   "shares_outstanding": 230105003.0,
-   "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
-   "state_of_incorporation": "DE",
-   "hq": "TUCSON, AZ",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-09T21:31:05+09:00"
-  },
-  {
-   "id": "0001213900-26-108232",
-   "company": "Evolution Metals & Technologies Corp.",
-   "ticker": "EMAT",
-   "cik": 1866226,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 65,
-   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026108232/0001213900-26-108232-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026108232/ea030819601ex99-1.htm",
-   "filed_at": "2026-10-09T08:30:12-04:00",
-   "filed_kst": "2026-10-09 21:30",
-   "price": 1.7,
-   "change": -2.86,
-   "price_history": [
-    {
-     "date": "2026-10-08",
-     "close": 1.7,
-     "change": -2.86
-    },
-    {
-     "date": "2026-10-07",
-     "close": 1.75,
-     "change": -8.85
-    },
-    {
-     "date": "2026-10-06",
-     "close": 1.92,
-     "change": -6.57
-    }
-   ],
-   "market_cap": 1057061098.0,
-   "shares_outstanding": 621800646.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-09T21:31:03+09:00"
   }
  ]
 }
