@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-10-21T05:14:12+09:00",
+ "updated_at": "2026-10-21T05:19:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001731122-26-001351",
+   "company": "ANAVEX LIFE SCIENCES CORP.",
+   "ticker": "AVXL",
+   "cik": 1314052,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Blarcamesine for the treatment of Rett syndrome has been granted Orphan Drug Designation by the FDA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1314052/000173112226001351/0001731122-26-001351-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1314052/000173112226001351/e8011_ex99-1.htm",
+   "filed_at": "2026-10-20T16:16:06-04:00",
+   "filed_kst": "2026-10-21 05:16",
+   "price": 1.36,
+   "change": 8.8,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 1.36,
+     "change": 8.8
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1.25,
+     "change": -4.58
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1.31,
+     "change": -11.49
+    }
+   ],
+   "market_cap": 126067705.0,
+   "shares_outstanding": 92696842.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-21T05:16:43+09:00"
+  },
+  {
+   "id": "0001104659-26-117415",
+   "company": "Nyxoah SA",
+   "ticker": "NYXH",
+   "cik": 1857190,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 69,
+   "summary": "001) and zero device- and procedure-related serious adverse events o Submitted a premarket approval (PMA) supplement to the FDA to expand Genio’s U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926117415/0001104659-26-117415-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926117415/tm2627823d1_ex99-1.htm",
+   "filed_at": "2026-10-20T16:15:05-04:00",
+   "filed_kst": "2026-10-21 05:15",
+   "price": 0.94,
+   "change": -1.47,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 0.94,
+     "change": -1.47
+    },
+    {
+     "date": "2026-10-19",
+     "close": 0.95,
+     "change": -14.05
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1.11,
+     "change": -6.72
+    }
+   ],
+   "market_cap": 40444872.0,
+   "shares_outstanding": 43026460.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Belgium",
+   "hq": "MONT-SAINT-GUIBERT",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-21T05:15:35+09:00"
+  },
   {
    "id": "0000917251-26-000075",
    "company": "AGREE REALTY CORP",
@@ -15534,106 +15639,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-13T20:05:56+09:00"
-  },
-  {
-   "id": "0001171843-26-006589",
-   "company": "Wise Group plc",
-   "ticker": "WSE",
-   "cik": 2099039,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "In fiscal year 2026, Wise supported around 19 million people and businesses, processing over $240 billion in cross-border transactions and saving customers over $3 billion.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000117184326006589/0001171843-26-006589-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000117184326006589/f6k_101326.htm",
-   "filed_at": "2026-10-13T07:00:05-04:00",
-   "filed_kst": "2026-10-13 20:00",
-   "price": 11.94,
-   "change": 0.59,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 11.94,
-     "change": 0.59
-    },
-    {
-     "date": "2026-10-09",
-     "close": 11.87,
-     "change": 1.63
-    },
-    {
-     "date": "2026-10-08",
-     "close": 11.68,
-     "change": -1.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Jersey",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-13T20:00:57+09:00"
-  },
-  {
-   "id": "0001062993-26-005280",
-   "company": "Americas Gold & Silver Corp",
-   "ticker": "USAS",
-   "cik": 1286973,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through a 51/49 joint venture, the Company is developing a fully integrated domestic antimony supply chain-from mine to finished product-to help strengthen America's critical mineral independence.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005280/0001062993-26-005280-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005280/exhibit99-1.htm",
-   "filed_at": "2026-10-13T06:30:24-04:00",
-   "filed_kst": "2026-10-13 19:30",
-   "price": 4.2,
-   "change": -3.67,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 4.2,
-     "change": -3.67
-    },
-    {
-     "date": "2026-10-09",
-     "close": 4.36,
-     "change": 2.83
-    },
-    {
-     "date": "2026-10-08",
-     "close": 4.24,
-     "change": 1.68
-    }
-   ],
-   "market_cap": 1345758884.0,
-   "shares_outstanding": 320418782.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T19:31:18+09:00"
   }
  ]
 }
