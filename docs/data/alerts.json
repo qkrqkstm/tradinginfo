@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-21T06:19:15+09:00",
+ "updated_at": "2026-10-21T06:24:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-426862",
+   "company": "Personalis, Inc.",
+   "ticker": "PSNL",
+   "cik": 1527753,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Since the merger agreement was signed, no new participants may enroll in the ESPP, and existing participants may not increase their payroll deduction percentage for the current offering period.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526426862/0001193125-26-426862-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526426862/d184532d425.htm",
+   "filed_at": "2026-10-20T17:22:05-04:00",
+   "filed_kst": "2026-10-21 06:22",
+   "price": 15.94,
+   "change": 0.38,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 15.94,
+     "change": 0.38
+    },
+    {
+     "date": "2026-10-19",
+     "close": 15.88,
+     "change": 1.47
+    },
+    {
+     "date": "2026-10-16",
+     "close": 15.65,
+     "change": -1.76
+    }
+   ],
+   "market_cap": 1702389960.0,
+   "shares_outstanding": 106799872.0,
+   "industry": "Services-Medical Laboratories",
+   "state_of_incorporation": "DE",
+   "hq": "FREMONT, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-21T06:22:35+09:00"
+  },
   {
    "id": "0001628280-26-066530",
    "company": "Brightstar Lottery PLC",
@@ -15589,63 +15640,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-13T20:32:14+09:00"
-  },
-  {
-   "id": "0001213900-26-108714",
-   "company": "Eureka Acquisition Corp",
-   "ticker": "EURK",
-   "cik": 2000410,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03",
-    "3.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“ Marine Thinking ”), pursuant to that certain business combination agreement dated as of October 29, 2025 (as the same may be amended, supplemented or otherwise modified from time to time, the “ BCA ”), with Marine Thinking, an autonomous ship and fleet solution providing company incorporated unde",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2000410/000121390026108714/0001213900-26-108714-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2000410/000121390026108714/ea0307983-8k425_eureka.htm",
-   "filed_at": "2026-10-13T07:30:57-04:00",
-   "filed_kst": "2026-10-13 20:30",
-   "price": 11.5,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 11.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 11.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-08",
-     "close": 11.5,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Water Transportation",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T20:31:42+09:00"
   }
  ]
 }
