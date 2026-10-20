@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-20T19:54:24+09:00",
+ "updated_at": "2026-10-20T19:59:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000101829-26-000030",
+   "company": "RTX Corp",
+   "ticker": "RTX",
+   "cik": 101829,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "Demand for our products remains robust with over $81 billion of new commercial and defense awards, resulting in a record backlog of $340 billion,” said RTX Chairman and CEO Chris Calio.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000030/0000101829-26-000030-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000030/a2026-10x208xkerexhibit99.htm",
+   "filed_at": "2026-10-20T06:57:06-04:00",
+   "filed_kst": "2026-10-20 19:57",
+   "price": 192.11,
+   "change": -0.93,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 192.11,
+     "change": -0.93
+    },
+    {
+     "date": "2026-10-16",
+     "close": 193.92,
+     "change": 3.73
+    },
+    {
+     "date": "2026-10-15",
+     "close": 186.95,
+     "change": 0.26
+    }
+   ],
+   "market_cap": 258917817044.0,
+   "shares_outstanding": 1347758144.0,
+   "industry": "Aircraft Engines & Engine Parts",
+   "state_of_incorporation": "DE",
+   "hq": "ARLINGTON, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T19:57:57+09:00"
+  },
   {
    "id": "0001408198-26-000054",
    "company": "MSCI Inc.",
@@ -15554,57 +15608,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-10T05:05:58+09:00"
-  },
-  {
-   "id": "0001104659-26-115032",
-   "company": "Star Holdings",
-   "ticker": "STHO",
-   "cik": 1953366,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 64,
-   "summary": "\" Commitment Termination Date \" means the earliest of (a) the third (3 rd ) Business Day following the Effective Date (as defined in the Merger Agreement) without the funding of the Facility, (b) the termination of the Merger Agreement or the public announcement that iStar Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1953366/000110465926115032/0001104659-26-115032-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1953366/000110465926115032/tm2627336d1_ex10-1.htm",
-   "filed_at": "2026-10-09T16:01:25-04:00",
-   "filed_kst": "2026-10-10 05:01",
-   "price": 8.31,
-   "change": -1.89,
-   "price_history": [
-    {
-     "date": "2026-10-09",
-     "close": 8.31,
-     "change": -1.89
-    },
-    {
-     "date": "2026-10-08",
-     "close": 8.47,
-     "change": -2.31
-    },
-    {
-     "date": "2026-10-07",
-     "close": 8.67,
-     "change": -1.48
-    }
-   ],
-   "market_cap": 100395877.0,
-   "shares_outstanding": 12081333.0,
-   "industry": "Lessors of  Real Property, NEC",
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-10T05:02:24+09:00"
   }
  ]
 }
