@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-20T21:59:29+09:00",
+ "updated_at": "2026-10-20T22:04:26+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-040188",
+   "company": "FARMERS & MERCHANTS BANCORP",
+   "ticker": "FMCB",
+   "cik": 1085913,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "4 million remaining under the existing stock repurchase program which expires on December 31, 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1085913/000114036126040188/0001140361-26-040188-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1085913/000114036126040188/ef20083984_ex99.htm",
+   "filed_at": "2026-10-20T09:00:20-04:00",
+   "filed_kst": "2026-10-20 22:00",
+   "price": 1438.88,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 1438.88,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1438.88,
+     "change": -0.45
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1445.32,
+     "change": 0.72
+    }
+   ],
+   "market_cap": 995624383.0,
+   "shares_outstanding": 691944.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "LODI, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-20T22:00:47+09:00"
+  },
   {
    "id": "0001140361-26-040186",
    "company": "Freenome, Inc.",
@@ -15567,56 +15621,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-13T19:03:43+09:00"
-  },
-  {
-   "id": "0001193125-26-419609",
-   "company": "IonQ, Inc.",
-   "ticker": "IONQ",
-   "cik": 1824920,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "1 AGREEMENT AND PLAN OF MERGER BY AND AMONG IONQ, INC.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526419609/0001193125-26-419609-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526419609/ionq-ex99_1.htm",
-   "filed_at": "2026-10-13T06:03:04-04:00",
-   "filed_kst": "2026-10-13 19:03",
-   "price": 36.27,
-   "change": -9.07,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 36.27,
-     "change": -9.07
-    },
-    {
-     "date": "2026-10-09",
-     "close": 39.89,
-     "change": 1.12
-    },
-    {
-     "date": "2026-10-08",
-     "close": 39.45,
-     "change": -4.57
-    }
-   ],
-   "market_cap": 13818953929.0,
-   "shares_outstanding": 381002314.0,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "DE",
-   "hq": "COLLEGE PARK, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-13T19:03:42+09:00"
   }
  ]
 }
