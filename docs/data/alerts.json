@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-10-20T20:29:14+09:00",
+ "updated_at": "2026-10-20T20:34:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-425703",
+   "company": "PRUDENTIAL FINANCIAL INC",
+   "ticker": "PRU",
+   "cik": 1137774,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "” The agreement follows the announced transactions of the sale of the company’s interest in several joint ventures – including its stakes in PT PFI Mega Life Insurance in Indonesia, Alexforbes in South Africa, and ICEA LION in Kenya, which closed on October 13.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000119312526425703/0001193125-26-425703-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1137774/000119312526425703/d134410dex991.htm",
+   "filed_at": "2026-10-20T07:31:23-04:00",
+   "filed_kst": "2026-10-20 20:31",
+   "price": 113.67,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 113.67,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 113.67,
+     "change": -1.93
+    },
+    {
+     "date": "2026-10-16",
+     "close": 115.91,
+     "change": -0.38
+    }
+   ],
+   "market_cap": 39216150000.0,
+   "shares_outstanding": 345000000.0,
+   "industry": "Life Insurance",
+   "state_of_incorporation": "NJ",
+   "hq": "NEWARK, NJ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T20:32:18+09:00"
+  },
+  {
+   "id": "0001467858-26-000056",
+   "company": "General Motors Co",
+   "ticker": "GM",
+   "cik": 1467858,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "ET GM releases 2026 third-quarter results and updates full-year 2026 guidance; Board approves new $20 billion share repurchase authorization, declares quarterly dividend DETROIT – General Motors (NYSE: GM) today reported third-quarter 2026 revenue of $50.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000056/0001467858-26-000056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000056/gmq32026pressreleaseandfin.htm",
+   "filed_at": "2026-10-20T07:30:18-04:00",
+   "filed_kst": "2026-10-20 20:30",
+   "price": 82.75,
+   "change": -1.44,
+   "price_history": [
+    {
+     "date": "2026-10-19",
+     "close": 82.75,
+     "change": -1.44
+    },
+    {
+     "date": "2026-10-16",
+     "close": 83.96,
+     "change": 0.36
+    },
+    {
+     "date": "2026-10-15",
+     "close": 83.66,
+     "change": 0.73
+    }
+   ],
+   "market_cap": 72609115018.0,
+   "shares_outstanding": 877451541.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": null,
+   "hq": "DETROIT, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-20T20:31:14+09:00"
+  },
   {
    "id": "0001418819-26-000053",
    "company": "Iridium Communications Inc.",
@@ -15508,110 +15615,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-10T05:31:23+09:00"
-  },
-  {
-   "id": "0001493152-26-046545",
-   "company": "XMax Inc.",
-   "ticker": "XMAX",
-   "cik": 1473334,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "Pursuant to the Purchase Agreement, the Company (or an affiliate designated by the Company) has agreed to acquire 970 shares of common stock of Hexa from the Seller, representing 97% of Hexa’s issued and outstanding shares and 30 shares of common stock of Hexa from Skysong, representing the remainin",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1473334/000149315226046545/0001493152-26-046545-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1473334/000149315226046545/ex99-1.htm",
-   "filed_at": "2026-10-09T16:30:22-04:00",
-   "filed_kst": "2026-10-10 05:30",
-   "price": 8.74,
-   "change": -0.91,
-   "price_history": [
-    {
-     "date": "2026-10-09",
-     "close": 8.74,
-     "change": -0.91
-    },
-    {
-     "date": "2026-10-08",
-     "close": 8.82,
-     "change": 0.92
-    },
-    {
-     "date": "2026-10-07",
-     "close": 8.74,
-     "change": -0.23
-    }
-   ],
-   "market_cap": 563934743.0,
-   "shares_outstanding": 64523426.0,
-   "industry": "Household Furniture",
-   "state_of_incorporation": "NV",
-   "hq": "COMMERCE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-10T05:31:18+09:00"
-  },
-  {
-   "id": "0001493152-26-046546",
-   "company": "Hepion Pharmaceuticals, Inc.",
-   "ticker": "HEPA",
-   "cik": 1583771,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": ", a Delaware corporation and the sole member of GLS (the “Sole Member”), pursuant to which the Company agreed to acquire from the Sole Member all of the issued and outstanding membership interests (the “Purchase Securities”) of GLS (the “Transaction”).",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226046546/0001493152-26-046546-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226046546/ex2-1.htm",
-   "filed_at": "2026-10-09T16:30:23-04:00",
-   "filed_kst": "2026-10-10 05:30",
-   "price": 0.12,
-   "change": -4.0,
-   "price_history": [
-    {
-     "date": "2026-10-09",
-     "close": 0.12,
-     "change": -4.0
-    },
-    {
-     "date": "2026-10-08",
-     "close": 0.12,
-     "change": 4.17
-    },
-    {
-     "date": "2026-10-07",
-     "close": 0.12,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 10826318.0,
-   "shares_outstanding": 90219317.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "RED BANK, NJ",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-10T05:31:16+09:00"
   }
  ]
 }
