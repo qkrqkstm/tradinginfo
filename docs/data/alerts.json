@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-21T06:24:37+09:00",
+ "updated_at": "2026-10-21T06:29:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-040269",
+   "company": "Jefferies Financial Group Inc.",
+   "ticker": "JEF",
+   "cik": 96223,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 67,
+   "summary": "If you look at the senior leadership, the rest of the employees, our joint venture partners, you add that up in aggregate, in our Board, you add up in aggregate of the 250 million fully diluted shares at Jefferies, we own 100 million shares of that stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/96223/000114036126040269/0001140361-26-040269-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/96223/000114036126040269/ef20084130_ex99-1.htm",
+   "filed_at": "2026-10-20T17:25:33-04:00",
+   "filed_kst": "2026-10-21 06:25",
+   "price": 45.01,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 45.01,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 45.01,
+     "change": 3.23
+    },
+    {
+     "date": "2026-10-19",
+     "close": 43.6,
+     "change": -2.68
+    }
+   ],
+   "market_cap": 9201498138.0,
+   "shares_outstanding": 204432307.0,
+   "industry": "Security Brokers, Dealers & Flotation Companies",
+   "state_of_incorporation": "NY",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-21T06:26:27+09:00"
+  },
   {
    "id": "0001193125-26-426862",
    "company": "Personalis, Inc.",
@@ -15587,59 +15638,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-13T20:33:17+09:00"
-  },
-  {
-   "id": "0001646972-26-000059",
-   "company": "Albertsons Companies, Inc.",
-   "ticker": "ACI",
-   "cik": 1646972,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "Capital Allocation and Common Stock Repurchase Program During the first 28 weeks of fiscal 2026, capital expenditures were $899.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1646972/000164697226000059/0001646972-26-000059-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1646972/000164697226000059/aciq226earningsrelease.htm",
-   "filed_at": "2026-10-13T07:31:19-04:00",
-   "filed_kst": "2026-10-13 20:31",
-   "price": 12.54,
-   "change": 2.87,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 12.54,
-     "change": 2.87
-    },
-    {
-     "date": "2026-10-09",
-     "close": 12.19,
-     "change": -1.22
-    },
-    {
-     "date": "2026-10-08",
-     "close": 12.34,
-     "change": 5.11
-    }
-   ],
-   "market_cap": 6085984065.0,
-   "shares_outstanding": 485325683.0,
-   "industry": "Retail-Grocery Stores",
-   "state_of_incorporation": "DE",
-   "hq": "BOISE, ID",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-13T20:32:14+09:00"
   }
  ]
 }
