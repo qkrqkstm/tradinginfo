@@ -1,7 +1,168 @@
 {
- "updated_at": "2026-10-22T06:09:17+09:00",
+ "updated_at": "2026-10-22T06:14:25+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000879635-26-000058",
+   "company": "MID PENN BANCORP INC",
+   "ticker": "MPB",
+   "cik": 879635,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "On April 21, 2026, Mid Penn’s Board of Directors authorized a renewal and increase to its treasury stock repurchase program (\"the Program\"), increasing the authorized repurchase amount to an additional $50.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879635/000087963526000058/0000879635-26-000058-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/879635/000087963526000058/mpb-20260930xexx991.htm",
+   "filed_at": "2026-10-21T17:12:53-04:00",
+   "filed_kst": "2026-10-22 06:12",
+   "price": 36.35,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 36.35,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 36.35,
+     "change": -0.44
+    },
+    {
+     "date": "2026-10-20",
+     "close": 36.51,
+     "change": 1.64
+    }
+   ],
+   "market_cap": 920935065.0,
+   "shares_outstanding": 25335215.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "PA",
+   "hq": "HARRISBURG, PA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-22T06:13:23+09:00"
+  },
+  {
+   "id": "0000950103-26-015975",
+   "company": "Integer Holdings Corp",
+   "ticker": "ITGR",
+   "cik": 1114483,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "(“Parent”) today announced that, in connection with Parent’s proposed acquisition of the Company (the “Transaction”) contemplated by their Agreement and Plan of Merger, dated as of August 2, 2026 (the “Merger Agreement”), the stockholders of the Company have voted in favor of (1) the proposal to ado",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1114483/000095010326015975/0000950103-26-015975-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1114483/000095010326015975/dp255254_ex9901.htm",
+   "filed_at": "2026-10-21T17:10:35-04:00",
+   "filed_kst": "2026-10-22 06:10",
+   "price": 126.7,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 126.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 126.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 126.7,
+     "change": -0.04
+    }
+   ],
+   "market_cap": 4306792482.0,
+   "shares_outstanding": 33992048.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "PLANO, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T06:11:17+09:00"
+  },
+  {
+   "id": "0001628280-26-066744",
+   "company": "WEALTHFRONT CORP",
+   "ticker": "WLTH",
+   "cik": 1524566,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "0 million of the Company’s common stock under the Company’s share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1524566/000162828026066744/0001628280-26-066744-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1524566/000162828026066744/wlth-20261020.htm",
+   "filed_at": "2026-10-21T17:10:53-04:00",
+   "filed_kst": "2026-10-22 06:10",
+   "price": 10.87,
+   "change": 1.78,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 10.87,
+     "change": 1.78
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.68,
+     "change": 2.89
+    },
+    {
+     "date": "2026-10-19",
+     "close": 10.38,
+     "change": -2.35
+    }
+   ],
+   "market_cap": 1697637903.0,
+   "shares_outstanding": 156176440.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-22T06:11:14+09:00"
+  },
   {
    "id": "0001213900-26-111393",
    "company": "ASCENTAGE PHARMA GROUP INTERNATIONAL",
@@ -15483,164 +15644,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-14T06:27:36+09:00"
-  },
-  {
-   "id": "0001213900-26-109112",
-   "company": "LogicMark, Inc.",
-   "ticker": "LGMK",
-   "cik": 1566826,
-   "form": "8-K",
-   "items": [
-    "2.01",
-    "3.03",
-    "5.01",
-    "5.02"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "On October 13, 2026 (the “Closing Date”), pursuant to the Agreement and Plan of Merger, dated as of July 31, 2026 (the “Merger Agreement”), by and among LogicMark, Inc.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1566826/000121390026109112/0001213900-26-109112-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1566826/000121390026109112/ea0308260-8k_logic.htm",
-   "filed_at": "2026-10-13T17:25:16-04:00",
-   "filed_kst": "2026-10-14 06:25",
-   "price": 1.2,
-   "change": 7.14,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 1.2,
-     "change": 7.14
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.12,
-     "change": 12.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 1.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 1079711.0,
-   "shares_outstanding": 899759.0,
-   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
-   "state_of_incorporation": "NV",
-   "hq": "LOUISVILLE, KY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-14T06:26:01+09:00"
-  },
-  {
-   "id": "0001213900-26-109105",
-   "company": "Sizzle Acquisition Corp. II",
-   "ticker": "SZZL",
-   "cik": 2030663,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "The consummation of the de - SPAC transaction would be subject to a number of conditions, and if those conditions are not satisfied or waived, the associated business combination agreement would be terminated and the potential transaction might not be completed.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026109105/0001213900-26-109105-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026109105/ea030851801ex99-1.htm",
-   "filed_at": "2026-10-13T17:20:28-04:00",
-   "filed_kst": "2026-10-14 06:20",
-   "price": 10.51,
-   "change": 0.1,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 10.51,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-12",
-     "close": 10.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 10.5,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "WASHINGTON, DC",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T06:22:03+09:00"
-  },
-  {
-   "id": "0001104659-26-115567",
-   "company": "AgomAb Therapeutics NV",
-   "ticker": "AGMB",
-   "cik": 2020932,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "FDA Fast Track Designation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2020932/000110465926115567/0001104659-26-115567-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2020932/000110465926115567/tm2627540d1_ex99-1.htm",
-   "filed_at": "2026-10-13T17:18:42-04:00",
-   "filed_kst": "2026-10-14 06:18",
-   "price": 8.81,
-   "change": -3.08,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 8.81,
-     "change": -3.08
-    },
-    {
-     "date": "2026-10-12",
-     "close": 9.09,
-     "change": 0.11
-    },
-    {
-     "date": "2026-10-09",
-     "close": 9.08,
-     "change": -1.52
-    }
-   ],
-   "market_cap": 301012750.0,
-   "shares_outstanding": 34167168.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Belgium",
-   "hq": "ANTWERPEN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T06:19:19+09:00"
   }
  ]
 }
