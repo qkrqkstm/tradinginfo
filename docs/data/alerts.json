@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-10-21T21:29:31+09:00",
+ "updated_at": "2026-10-21T21:34:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-111199",
+   "company": "Elmet Group Co.",
+   "ticker": "ELMT",
+   "cik": 2101698,
+   "form": "8-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "EX-10.1 2 ea030911401ex10-1.htm SUBSCRIPTION AGREEMENT, DATED OCTOBER 16, 2026, BY AND BETWEEN THE ELMET GROUP CO. AND BLUE MOON METALS INC Exhibit 10.1 UNITED STATES BLUE MOON METALS INC. (THE “COMPANY”) SUBSCRIPTION AGREEMENT (PRIVATE PLACEMENT OFFERING OF UNITS) THE UNITS BEING OFFERED FOR SALE M",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026111199/0001213900-26-111199-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026111199/ea030911401ex10-1.htm",
+   "filed_at": "2026-10-21T08:32:44-04:00",
+   "filed_kst": "2026-10-21 21:32",
+   "price": 19.04,
+   "change": 1.55,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 19.04,
+     "change": 1.55
+    },
+    {
+     "date": "2026-10-19",
+     "close": 18.75,
+     "change": -0.95
+    },
+    {
+     "date": "2026-10-16",
+     "close": 18.93,
+     "change": -2.87
+    }
+   ],
+   "market_cap": 579948842.0,
+   "shares_outstanding": 30459498.0,
+   "industry": "Miscellaneous Fabricated Metal Products",
+   "state_of_incorporation": "DE",
+   "hq": "PORTLAND, ME",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-21T21:33:15+09:00"
+  },
+  {
+   "id": "0001493152-26-047852",
+   "company": "NextTrip, Inc.",
+   "ticker": "NTRP",
+   "cik": 788611,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "1 NextTrip Announces Canadian Travel Joint Venture with The Travel Agent Next Door Venture provides an accelerated path to Canadian travel revenues through an established partner with 1,850 agents and C$620 million in annual travel sales Sunrise, FL – October 21, 2026 – NextTrip, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226047852/0001493152-26-047852-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226047852/ex99-1.htm",
+   "filed_at": "2026-10-21T08:31:24-04:00",
+   "filed_kst": "2026-10-21 21:31",
+   "price": 1.22,
+   "change": -2.4,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 1.22,
+     "change": -2.4
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1.25,
+     "change": -8.09
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1.36,
+     "change": -18.56
+    }
+   ],
+   "market_cap": 18580478.0,
+   "shares_outstanding": 15229900.0,
+   "industry": "Transportation Services",
+   "state_of_incorporation": null,
+   "hq": "SUNRISE, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-21T21:32:12+09:00"
+  },
   {
    "id": "0001023128-26-000057",
    "company": "LITHIA MOTORS INC",
@@ -15508,111 +15613,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-13T23:01:20+09:00"
-  },
-  {
-   "id": "0001493152-26-046759",
-   "company": "SkyAI, Inc.",
-   "ticker": "SKYA",
-   "cik": 1737995,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 73,
-   "summary": "SkyAI has suspended repurchases of its common stock under its share repurchase program and will not purchase shares other than in the Offer until at least ten business days after the Offer expires.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1737995/000149315226046759/0001493152-26-046759-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1737995/000149315226046759/ex99-1.htm",
-   "filed_at": "2026-10-13T09:26:59-04:00",
-   "filed_kst": "2026-10-13 22:26",
-   "price": 2.6,
-   "change": 42.86,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 2.6,
-     "change": 42.86
-    },
-    {
-     "date": "2026-10-09",
-     "close": 1.82,
-     "change": 7.69
-    },
-    {
-     "date": "2026-10-08",
-     "close": 1.69,
-     "change": -6.63
-    }
-   ],
-   "market_cap": 111754516.0,
-   "shares_outstanding": 42982506.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "NV",
-   "hq": "MELVILLE, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T22:27:29+09:00"
-  },
-  {
-   "id": "0001104659-26-115311",
-   "company": "SSR MINING INC.",
-   "ticker": "SSRM",
-   "cik": 921638,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "EX-99.1 3 tm2627484d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 News Release October 13 , 2026 SSR MINING ANNOUNCES THE ACQUISITION OF ROXMORE RESOURCES COMPLEMENTARY STRATEGIC TRANSACTION FURTHER ENHANCES THE FUTURE OF SSR MINING’S US PLATFORM § ROXMORE’S MULTI-MILLION OUNCE CONVERSE PROJECT IS LOCATED ",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/921638/000110465926115311/0001104659-26-115311-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/921638/000110465926115311/tm2627484d1_ex99-1.htm",
-   "filed_at": "2026-10-13T09:26:25-04:00",
-   "filed_kst": "2026-10-13 22:26",
-   "price": 35.44,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 35.44,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-12",
-     "close": 35.44,
-     "change": -0.2
-    },
-    {
-     "date": "2026-10-09",
-     "close": 35.51,
-     "change": 5.62
-    }
-   ],
-   "market_cap": 7226546017.0,
-   "shares_outstanding": 203909312.0,
-   "industry": "Mineral Royalty Traders",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "DENVER, CO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-13T22:26:56+09:00"
   }
  ]
 }
