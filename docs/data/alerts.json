@@ -1,7 +1,167 @@
 {
- "updated_at": "2026-10-22T05:09:50+09:00",
+ "updated_at": "2026-10-22T05:15:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000049600-26-000047",
+   "company": "EASTGROUP PROPERTIES INC",
+   "ticker": "EGP",
+   "cik": 49600,
+   "form": "8-K",
+   "items": [],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "” Reid Dunbar, President, added, “Continued leasing momentum gave us the confidence to raise our development starts again, to $390 million for the year, and attractive opportunities allowed us to increase our acquisition guidance to $360 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/49600/000004960026000047/0000049600-26-000047-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/49600/000004960026000047/exhibit991102126.htm",
+   "filed_at": "2026-10-21T16:09:30-04:00",
+   "filed_kst": "2026-10-22 05:09",
+   "price": 203.3,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 203.3,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 203.3,
+     "change": 1.02
+    },
+    {
+     "date": "2026-10-20",
+     "close": 201.25,
+     "change": 2.3
+    }
+   ],
+   "market_cap": 10932385328.0,
+   "shares_outstanding": 53774645.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "RIDGELAND, MS",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T05:13:17+09:00"
+  },
+  {
+   "id": "0001506307-26-000130",
+   "company": "KINDER MORGAN, INC.",
+   "ticker": "KMI",
+   "cik": 1506307,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Products Pipelines • On August 11, 2026, KMI, Phillips 66, and HF Sinclair announced a final joint venture agreement and reached a final investment decision to move forward with the proposed Western Gateway Pipeline.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000130/0001506307-26-000130-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000130/kmi2026q38-kex991.htm",
+   "filed_at": "2026-10-21T16:10:58-04:00",
+   "filed_kst": "2026-10-22 05:10",
+   "price": 34.0,
+   "change": 1.28,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 34.0,
+     "change": 1.28
+    },
+    {
+     "date": "2026-10-20",
+     "close": 33.57,
+     "change": 0.54
+    },
+    {
+     "date": "2026-10-19",
+     "close": 33.39,
+     "change": -2.37
+    }
+   ],
+   "market_cap": 75711271026.0,
+   "shares_outstanding": 2226802089.0,
+   "industry": "Natural Gas Transmission",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T05:13:13+09:00"
+  },
+  {
+   "id": "0001104659-26-117838",
+   "company": "Waste Connections, Inc.",
+   "ticker": "WCN",
+   "cik": 1318220,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 75,
+   "summary": "58 per share, respectively - Year to date closed acquisitions of approximately $130 million in annualized revenues - Increases regular quarterly dividend by 10% and completes year to date share repurchases of over $1 billion - Second increase to full year 2026 outlook for revenue and adjusted EBITDA",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1318220/000110465926117838/0001104659-26-117838-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1318220/000110465926117838/wcn-ex99d1.htm",
+   "filed_at": "2026-10-21T16:08:48-04:00",
+   "filed_kst": "2026-10-22 05:08",
+   "price": 168.51,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 168.51,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 168.51,
+     "change": -0.57
+    },
+    {
+     "date": "2026-10-20",
+     "close": 169.48,
+     "change": 2.29
+    }
+   ],
+   "market_cap": 42472866637.0,
+   "shares_outstanding": 252049532.0,
+   "industry": "Refuse Systems",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "WOODBRIDGE, A6",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T05:10:42+09:00"
+  },
   {
    "id": "0001176334-26-000033",
    "company": "MARTIN MIDSTREAM PARTNERS L.P.",
@@ -15456,159 +15616,6 @@
    "hq": "SOUTH SAN FRANCISCO, CA",
    "entity_category": null,
    "detected_at": "2026-10-14T05:57:31+09:00"
-  },
-  {
-   "id": "0000895345-26-000460",
-   "company": "GRUPO TELEVISA, S.A.B.",
-   "ticker": "TV",
-   "cik": 912892,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The Company anticipates accounting for this acquisition as an investment in a joint venture by using the equity method, based on applicable IFRS Accounting Standards.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000460/0000895345-26-000460-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000460/ff6932490_6k-grupo.htm",
-   "filed_at": "2026-10-13T16:44:17-04:00",
-   "filed_kst": "2026-10-14 05:44",
-   "price": 2.21,
-   "change": -0.9,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 2.21,
-     "change": -0.9
-    },
-    {
-     "date": "2026-10-12",
-     "close": 2.23,
-     "change": 0.9
-    },
-    {
-     "date": "2026-10-09",
-     "close": 2.21,
-     "change": -1.34
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": null,
-   "hq": "MEXICO, D.F.",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T05:45:37+09:00"
-  },
-  {
-   "id": "0001104659-26-115533",
-   "company": "Quantum eMotion Corp",
-   "ticker": "QNC",
-   "cik": 2106613,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 tm2627479d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 QUANTUM EMOTION CORP. AND PLURILOCK SECURITY INC. ARRANGEMENT AGREEMENT September 28, 2026 TABLE OF CONTENTS Article 1 INTERPRETATION 1 Section 1.1 Defined Terms 1 Section 1.2 Certain Rules of Interpretation 20 Article 2 tHE aRRANGEMENT 21 S",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2106613/000110465926115533/0001104659-26-115533-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2106613/000110465926115533/tm2627479d1_ex99-1.htm",
-   "filed_at": "2026-10-13T16:39:07-04:00",
-   "filed_kst": "2026-10-14 05:39",
-   "price": 1.44,
-   "change": 2.13,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 1.44,
-     "change": 2.13
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.41,
-     "change": -10.76
-    },
-    {
-     "date": "2026-10-09",
-     "close": 1.58,
-     "change": 2.6
-    }
-   ],
-   "market_cap": 314767685.0,
-   "shares_outstanding": 218588670.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Quebec, Canada",
-   "hq": "MONTREAL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T05:40:31+09:00"
-  },
-  {
-   "id": "0000763744-26-000090",
-   "company": "LCI INDUSTRIES",
-   "ticker": "LCII",
-   "cik": 763744,
-   "form": "425",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously disclosed, on June 30, 2026, LCI Industries (the \"Company\"), a Delaware corporation, entered into an Agreement and Plan of Merger (the \"Merger Agreement\") with Patrick Industries, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000090/0000763744-26-000090-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000090/lciiform-hsrsecondreques.htm",
-   "filed_at": "2026-10-13T16:34:00-04:00",
-   "filed_kst": "2026-10-14 05:34",
-   "price": 79.34,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 79.34,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-13",
-     "close": 79.34,
-     "change": 0.25
-    },
-    {
-     "date": "2026-10-12",
-     "close": 79.14,
-     "change": 1.07
-    }
-   ],
-   "market_cap": 1928874965.0,
-   "shares_outstanding": 24311507.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "DE",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T05:34:34+09:00"
   }
  ]
 }
