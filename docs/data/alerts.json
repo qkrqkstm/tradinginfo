@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-22T05:44:25+09:00",
+ "updated_at": "2026-10-22T05:49:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-066740",
+   "company": "CACI INTERNATIONAL INC /DE/",
+   "ticker": "CACI",
+   "cik": 16058,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "0x Raising fiscal year 2027 guidance for Revenue, Adjusted net income, and Adjusted EPS; reaffirming guidance for other financial metrics RESTON, Va.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/16058/000162828026066740/0001628280-26-066740-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/16058/000162828026066740/fy27-q1caci20261021ex991.htm",
+   "filed_at": "2026-10-21T16:45:47-04:00",
+   "filed_kst": "2026-10-22 05:45",
+   "price": 623.38,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 623.38,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 623.38,
+     "change": 2.57
+    },
+    {
+     "date": "2026-10-20",
+     "close": 607.75,
+     "change": -1.42
+    }
+   ],
+   "market_cap": 13776410622.0,
+   "shares_outstanding": 22099539.0,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "DE",
+   "hq": "RESTON, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T05:48:11+09:00"
+  },
   {
    "id": "0001193125-26-427906",
    "company": "ARMSTRONG WORLD INDUSTRIES INC",
@@ -15589,59 +15643,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-14T06:18:16+09:00"
-  },
-  {
-   "id": "0000076605-26-000092",
-   "company": "PATRICK INDUSTRIES INC",
-   "ticker": "PATK",
-   "cik": 76605,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "patk-20261009 0000076605 false 0000076605 2026-10-13 2026-10-13 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant To Section 13 OR 15(d) Of The Securities Exchange Act Of 1934 Date of report (Date of earliest event reported) October 9, 2026 PATR",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000092/0000076605-26-000092-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000092/patk-20261009.htm",
-   "filed_at": "2026-10-13T17:17:00-04:00",
-   "filed_kst": "2026-10-14 06:17",
-   "price": 64.34,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 64.34,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-13",
-     "close": 64.34,
-     "change": 0.22
-    },
-    {
-     "date": "2026-10-12",
-     "close": 64.2,
-     "change": 1.17
-    }
-   ],
-   "market_cap": 2066489106.0,
-   "shares_outstanding": 32118264.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "IN",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T06:17:43+09:00"
   }
  ]
 }
