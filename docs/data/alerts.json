@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-21T20:04:36+09:00",
+ "updated_at": "2026-10-21T20:09:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-040332",
+   "company": "Roivant Sciences Ltd.",
+   "ticker": "ROIV",
+   "cik": 1635088,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 68,
+   "summary": "1 Roivant and Priovant Announce Positive Results in CLARITY-1 and CLARITY-2 Phase 3 Trials for Brepocitinib in Non-Infectious Uveitis (NIU) • Brepocitinib 45 mg once-daily achieved statistically significant benefit compared to placebo on the primary and all key secondary endpoints for each of CLARIT",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1635088/000114036126040332/0001140361-26-040332-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1635088/000114036126040332/ef20084121_ex99-1.htm",
+   "filed_at": "2026-10-21T07:05:44-04:00",
+   "filed_kst": "2026-10-21 20:05",
+   "price": 34.92,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 34.92,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 34.92,
+     "change": 0.63
+    },
+    {
+     "date": "2026-10-19",
+     "close": 34.7,
+     "change": 3.49
+    }
+   ],
+   "market_cap": 25223519684.0,
+   "shares_outstanding": 722323015.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Bermuda",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-21T20:06:30+09:00"
+  },
   {
    "id": "0000731012-26-000055",
    "company": "HEALTHCARE SERVICES GROUP INC",
@@ -15546,62 +15599,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-13T21:46:03+09:00"
-  },
-  {
-   "id": "0001193125-26-419769",
-   "company": "SAB Biotherapeutics, Inc.",
-   "ticker": "SABS",
-   "cik": 1833214,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "1 SAB BIO Receives FDA Fast Track Designation for SAB-142 in Stage 3 Type 1 Diabetes Fast Track designation recognizes the potential of SAB-142 to address an unmet medical need for people with Stage 3 type 1 diabetes MIAMI, Oct.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1833214/000119312526419769/0001193125-26-419769-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833214/000119312526419769/sabs-ex99_1.htm",
-   "filed_at": "2026-10-13T08:36:10-04:00",
-   "filed_kst": "2026-10-13 21:36",
-   "price": 2.83,
-   "change": -5.03,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 2.83,
-     "change": -5.03
-    },
-    {
-     "date": "2026-10-09",
-     "close": 2.98,
-     "change": 3.11
-    },
-    {
-     "date": "2026-10-08",
-     "close": 2.89,
-     "change": 0.35
-    }
-   ],
-   "market_cap": 257491421.0,
-   "shares_outstanding": 90986368.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T21:36:59+09:00"
   }
  ]
 }
