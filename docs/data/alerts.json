@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-10-21T19:44:43+09:00",
+ "updated_at": "2026-10-21T19:49:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-047838",
+   "company": "APEX Tech Acquisition Inc.",
+   "ticker": "TRAD",
+   "cik": 2085485,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "(“APEX”) (NYSE: TRAD), a blank check company organized to acquire or merge with one or more businesses, today announced that on October 20, 2026, they entered into a definitive agreement and plan of merger (the “Merger Agreement”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2085485/000149315226047838/0001493152-26-047838-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085485/000149315226047838/ex99-1.htm",
+   "filed_at": "2026-10-21T06:47:23-04:00",
+   "filed_kst": "2026-10-21 19:47",
+   "price": 10.06,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 10.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 10.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 10.06,
+     "change": 0.1
+    }
+   ],
+   "market_cap": 147248220.0,
+   "shares_outstanding": 14637000.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-21T19:48:05+09:00"
+  },
+  {
+   "id": "0001493152-26-047837",
+   "company": "Nova Minerals Corp",
+   "ticker": "NVA",
+   "cik": 1852551,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "In parallel, Nova is advancing its critical minerals strategy, fully-funded by a $43.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226047837/0001493152-26-047837-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226047837/ex99-1.htm",
+   "filed_at": "2026-10-21T06:45:18-04:00",
+   "filed_kst": "2026-10-21 19:45",
+   "price": 3.13,
+   "change": -1.26,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 3.13,
+     "change": -1.26
+    },
+    {
+     "date": "2026-10-19",
+     "close": 3.17,
+     "change": 1.28
+    },
+    {
+     "date": "2026-10-16",
+     "close": 3.13,
+     "change": -12.81
+    }
+   ],
+   "market_cap": 119548372.0,
+   "shares_outstanding": 38194368.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "NV",
+   "hq": "CAULFIELD",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-21T19:46:01+09:00"
+  },
+  {
+   "id": "0001493152-26-047836",
+   "company": "APEX Tech Acquisition Inc.",
+   "ticker": "TRAD",
+   "cik": 2085485,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "(“APEX”) (NYSE: TRAD), a blank check company organized to acquire or merge with one or more businesses, today announced that on October 20, 2026, they entered into a definitive agreement and plan of merger (the “Merger Agreement”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2085485/000149315226047836/0001493152-26-047836-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085485/000149315226047836/ex99-1.htm",
+   "filed_at": "2026-10-21T06:45:18-04:00",
+   "filed_kst": "2026-10-21 19:45",
+   "price": 10.06,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 10.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 10.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "close": 10.06,
+     "change": 0.1
+    }
+   ],
+   "market_cap": 147248220.0,
+   "shares_outstanding": 14637000.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-21T19:45:59+09:00"
+  },
   {
    "id": "0001654954-26-009062",
    "company": "GSK plc",
@@ -15454,165 +15609,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-13T21:35:55+09:00"
-  },
-  {
-   "id": "0001929980-26-000543",
-   "company": "Horizon Space Acquisition I Corp.",
-   "ticker": "HSPOF",
-   "cik": 1946021,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "Announces Definitive Business Combination Agreement with ArcheNova Biotech Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1946021/000192998026000543/0001929980-26-000543-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1946021/000192998026000543/hspo_ex991.htm",
-   "filed_at": "2026-10-13T08:34:00-04:00",
-   "filed_kst": "2026-10-13 21:34",
-   "price": 11.99,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 11.99,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 11.99,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-08",
-     "close": 11.99,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 28409298.0,
-   "shares_outstanding": 2369416.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T21:34:42+09:00"
-  },
-  {
-   "id": "0001929980-26-000542",
-   "company": "Horizon Space Acquisition I Corp.",
-   "ticker": "HSPOF",
-   "cik": 1946021,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "Announces Definitive Business Combination Agreement with ArcheNova Biotech Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1946021/000192998026000542/0001929980-26-000542-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1946021/000192998026000542/hspo_ex991.htm",
-   "filed_at": "2026-10-13T08:30:33-04:00",
-   "filed_kst": "2026-10-13 21:30",
-   "price": 11.99,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 11.99,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 11.99,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-08",
-     "close": 11.99,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 28409298.0,
-   "shares_outstanding": 2369416.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T21:31:10+09:00"
-  },
-  {
-   "id": "0001829126-26-011033",
-   "company": "Sunrise Realty Trust, Inc.",
-   "ticker": "SUNS",
-   "cik": 2012706,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "1 Sunrise Realty Trust Announces $20 Million Stock Repurchase Program WEST PALM BEACH, Fla.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2012706/000182912626011033/0001829126-26-011033-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2012706/000182912626011033/sunriserealty_ex99-1.htm",
-   "filed_at": "2026-10-13T08:12:32-04:00",
-   "filed_kst": "2026-10-13 21:12",
-   "price": 5.79,
-   "change": -1.03,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 5.79,
-     "change": -1.03
-    },
-    {
-     "date": "2026-10-09",
-     "close": 5.85,
-     "change": -2.34
-    },
-    {
-     "date": "2026-10-08",
-     "close": 5.99,
-     "change": -1.48
-    }
-   ],
-   "market_cap": 78256777.0,
-   "shares_outstanding": 13515851.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "WEST PALM BEACH, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T21:13:11+09:00"
   }
  ]
 }
