@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-10-21T20:34:46+09:00",
+ "updated_at": "2026-10-21T20:39:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-066601",
+   "company": "ABBOTT LABORATORIES",
+   "ticker": "ABT",
+   "cik": 1800,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "파트너십",
+    "FDA",
+    "배당"
+   ],
+   "confidence": 89,
+   "summary": "• In September, Abbott announced FDA approval for its TactiFlex™ Duo Ablation Catheter, Sensor Enabled™, designed to deliver both pulsed field ablation (PFA) and radiofrequency (RF) energy to treat patients battling atrial fibrillation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026066601/0001628280-26-066601-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026066601/abt-2026q3xexhibitx991.htm",
+   "filed_at": "2026-10-21T07:36:13-04:00",
+   "filed_kst": "2026-10-21 20:36",
+   "price": 102.45,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 102.45,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 102.45,
+     "change": -1.55
+    },
+    {
+     "date": "2026-10-19",
+     "close": 104.06,
+     "change": -0.79
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "IL",
+   "hq": "ABBOTT PARK, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-21T20:36:59+09:00"
+  },
+  {
+   "id": "0001493152-26-047847",
+   "company": "Green Circle Decarbonize Technology Ltd",
+   "ticker": "GCDT",
+   "cik": 1926293,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "Menzies Eurus a premier joint venture combining the global airport services expertise of Menzies Aviation Limited (“ Menzies Aviation ”) with the robust logistics network of Eurus Express Limited (“ Eurus Express ”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047847/0001493152-26-047847-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047847/ex99-1.htm",
+   "filed_at": "2026-10-21T07:35:07-04:00",
+   "filed_kst": "2026-10-21 20:35",
+   "price": 0.2,
+   "change": -28.32,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 0.2,
+     "change": -28.32
+    },
+    {
+     "date": "2026-10-19",
+     "close": 0.28,
+     "change": 3.33
+    },
+    {
+     "date": "2026-10-16",
+     "close": 0.27,
+     "change": -18.18
+    }
+   ],
+   "market_cap": 2575000.0,
+   "shares_outstanding": 12875000.0,
+   "industry": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HONG KONG, K3",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-21T20:35:56+09:00"
+  },
   {
    "id": "0001493152-26-047846",
    "company": "Soluna Holdings, Inc",
@@ -15500,110 +15607,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-13T22:02:57+09:00"
-  },
-  {
-   "id": "0001213900-26-108771",
-   "company": "Sizzle Acquisition Corp. II",
-   "ticker": "SZZL",
-   "cik": 2030663,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "○ On September 30, 2026, Trasteel completed the acquisition of the remaining 40% interest of BBC Alloys, bringing its ownership to 100%; ○ On May 15, 2026, Trasteel announced the establishment of QTrasteel, a 50-50 joint venture with Al Qalaa International Group focused on expanding market a",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026108771/0001213900-26-108771-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026108771/ea030840501ex99-1.htm",
-   "filed_at": "2026-10-13T09:00:47-04:00",
-   "filed_kst": "2026-10-13 22:00",
-   "price": 10.5,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 10.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 10.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-08",
-     "close": 10.5,
-     "change": 0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "WASHINGTON, DC",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T22:01:23+09:00"
-  },
-  {
-   "id": "0000932787-26-000076",
-   "company": "STMicroelectronics N.V.",
-   "ticker": "STM",
-   "cik": 932787,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "PR N°C3415C STMicroelectronics announces status of common share repurchase program Disclosure of Transactions in Own Shares – Period from October 5, 2026 to October 9, 2026 AMSTERDAM – October 12, 2026 -- STMicroelectronics N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000076/0000932787-26-000076-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000076/c3415c-october122026xdiscl.htm",
-   "filed_at": "2026-10-13T08:47:28-04:00",
-   "filed_kst": "2026-10-13 21:47",
-   "price": 50.48,
-   "change": -3.03,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 50.48,
-     "change": -3.03
-    },
-    {
-     "date": "2026-10-09",
-     "close": 52.06,
-     "change": -1.23
-    },
-    {
-     "date": "2026-10-08",
-     "close": 52.71,
-     "change": -6.18
-    }
-   ],
-   "market_cap": 44865016313.0,
-   "shares_outstanding": 888768152.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "Netherlands",
-   "hq": "SCHIPHOL AIRPORT, P7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-13T21:48:10+09:00"
   }
  ]
 }
