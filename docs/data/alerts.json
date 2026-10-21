@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-21T20:29:28+09:00",
+ "updated_at": "2026-10-21T20:34:46+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-047846",
+   "company": "Soluna Holdings, Inc",
+   "ticker": "SLNH",
+   "cik": 64463,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "1 Soluna Agrees to Form Strategic Partnership with Applied Digital to Develop Wind-Powered AI Data Center in Texas Facility to be powered by Briscoe Wind Farm; ChronoScale signs letter of intent for triple-net lease ALBANY, N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/0001493152-26-047846-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/ex99-1.htm",
+   "filed_at": "2026-10-21T07:30:19-04:00",
+   "filed_kst": "2026-10-21 20:30",
+   "price": 0.58,
+   "change": -0.52,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 0.58,
+     "change": -0.52
+    },
+    {
+     "date": "2026-10-20",
+     "close": 0.58,
+     "change": -1.69
+    },
+    {
+     "date": "2026-10-19",
+     "close": 0.59,
+     "change": -11.94
+    }
+   ],
+   "market_cap": 141862534.0,
+   "shares_outstanding": 244590575.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "NV",
+   "hq": "ALBANY, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-21T20:31:11+09:00"
+  },
   {
    "id": "0001213900-26-111181",
    "company": "INVE Technologies, Inc.",
@@ -15550,57 +15604,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-13T21:48:10+09:00"
-  },
-  {
-   "id": "0001062993-26-005287",
-   "company": "GREENPOWER MOTOR Co INC.",
-   "ticker": "GP",
-   "cik": 1584547,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "\"This new strategic partnership opens a world of market opportunities for GreenPower's products beyond our traditional markets in the United States and Canada,\" said GreenPower CEO Fraser Atkinson.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1584547/000106299326005287/0001062993-26-005287-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1584547/000106299326005287/exhibit99-1.htm",
-   "filed_at": "2026-10-13T08:45:38-04:00",
-   "filed_kst": "2026-10-13 21:45",
-   "price": 0.34,
-   "change": -0.15,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 0.34,
-     "change": -0.15
-    },
-    {
-     "date": "2026-10-12",
-     "close": 0.34,
-     "change": -10.64
-    },
-    {
-     "date": "2026-10-09",
-     "close": 0.38,
-     "change": -1.05
-    }
-   ],
-   "market_cap": 1709959.0,
-   "shares_outstanding": 5029291.0,
-   "industry": "Truck & Bus Bodies",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER, A1",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T21:46:04+09:00"
   }
  ]
 }
