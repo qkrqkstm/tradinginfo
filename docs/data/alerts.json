@@ -1,7 +1,212 @@
 {
- "updated_at": "2026-10-21T18:59:33+09:00",
+ "updated_at": "2026-10-21T19:04:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-111144",
+   "company": "Churchill Capital Corp XI",
+   "ticker": "CCXI",
+   "cik": 2074973,
+   "form": "425",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "00:13:12 Peggy Johnson We have interest, we have a growing pipeline of interest and $300 million of booked multi-year orders.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026111144/0001213900-26-111144-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026111144/ea0309258-425_churchill11.htm",
+   "filed_at": "2026-10-20T21:42:07-04:00",
+   "filed_kst": "2026-10-21 10:42",
+   "price": 10.36,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 10.36,
+     "change": -0.05
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.36,
+     "change": -1.15
+    },
+    {
+     "date": "2026-10-19",
+     "close": 10.48,
+     "change": -1.69
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "General Industrial Machinery & Equipment, NEC",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-21T19:04:37+09:00"
+  },
+  {
+   "id": "0001213900-26-111148",
+   "company": "Hotel101 Global Holdings Corp.",
+   "ticker": "HBNB",
+   "cik": 2054507,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "1 HOTEL101 GLOBAL ENTERS EGYPT – ITS FIRST ENTRY IN THE AFRICAN CONTINENT Today, October 20, 2026: Hotel101 Global signs definitive binding agreements for a country-wide joint venture in Egypt, starting with an approx.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2054507/000121390026111148/0001213900-26-111148-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2054507/000121390026111148/ea030900401ex99-1.htm",
+   "filed_at": "2026-10-20T21:55:06-04:00",
+   "filed_kst": "2026-10-21 10:55",
+   "price": 4.58,
+   "change": -1.51,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 4.58,
+     "change": -1.51
+    },
+    {
+     "date": "2026-10-19",
+     "close": 4.65,
+     "change": -0.43
+    },
+    {
+     "date": "2026-10-16",
+     "close": 4.67,
+     "change": -0.85
+    }
+   ],
+   "market_cap": 1071868328.0,
+   "shares_outstanding": 234032386.0,
+   "industry": "Hotels & Motels",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-21T19:04:34+09:00"
+  },
+  {
+   "id": "0001564708-26-000233",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000233/0001564708-26-000233-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000233/appendix3cclassa20261020.htm",
+   "filed_at": "2026-10-20T18:42:57-04:00",
+   "filed_kst": "2026-10-21 07:42",
+   "price": 33.4,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 33.4,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 33.4,
+     "change": 1.52
+    },
+    {
+     "date": "2026-10-19",
+     "close": 32.9,
+     "change": 0.06
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-21T19:01:52+09:00"
+  },
+  {
+   "id": "0001193125-26-426886",
+   "company": "BHP Group Ltd",
+   "ticker": "BHP",
+   "cik": 811809,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "Strategic partnerships Social value Supporting growth Building long-term, sustainable value In September, BHP signed an MOU with KGHM Polska Miedź S.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811809/000119312526426886/0001193125-26-426886-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/811809/000119312526426886/d293555d6k.htm",
+   "filed_at": "2026-10-20T17:44:41-04:00",
+   "filed_kst": "2026-10-21 06:44",
+   "price": 81.87,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 81.87,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 81.87,
+     "change": -1.62
+    },
+    {
+     "date": "2026-10-19",
+     "close": 83.22,
+     "change": -0.08
+    }
+   ],
+   "market_cap": 415571484279.0,
+   "shares_outstanding": 5075992235.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "Australia",
+   "hq": "VICTORIA AUSTRALIA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-21T19:01:19+09:00"
+  },
   {
    "id": "0001628280-26-066548",
    "company": "Dream Finders Homes, Inc.",
@@ -15422,216 +15627,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-13T20:59:03+09:00"
-  },
-  {
-   "id": "0001213900-26-108733",
-   "company": "Iron Horse Acquisition II Corp.",
-   "ticker": "IRHO",
-   "cik": 2051985,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "ELECTRA AI has entered into a definitive business combination agreement with Iron Horse Acquisition II Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026108733/0001213900-26-108733-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026108733/ea030830301ex99-1.htm",
-   "filed_at": "2026-10-13T07:55:51-04:00",
-   "filed_kst": "2026-10-13 20:55",
-   "price": 10.06,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 10.06,
-     "change": -0.05
-    },
-    {
-     "date": "2026-10-12",
-     "close": 10.07,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-09",
-     "close": 10.06,
-     "change": -0.1
-    }
-   ],
-   "market_cap": 294959200.0,
-   "shares_outstanding": 29320000.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "BOCA RATON, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T20:56:29+09:00"
-  },
-  {
-   "id": "0001213900-26-108730",
-   "company": "Scinai Immunotherapeutics Ltd.",
-   "ticker": "SCNI",
-   "cik": 1611747,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "1 Scinai Expands CDMO Business with $5.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1611747/000121390026108730/0001213900-26-108730-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1611747/000121390026108730/ea030843801ex99-1.htm",
-   "filed_at": "2026-10-13T07:50:50-04:00",
-   "filed_kst": "2026-10-13 20:50",
-   "price": 1.16,
-   "change": -1.69,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 1.16,
-     "change": -1.69
-    },
-    {
-     "date": "2026-10-09",
-     "close": 1.18,
-     "change": -2.48
-    },
-    {
-     "date": "2026-10-08",
-     "close": 1.21,
-     "change": 7.08
-    }
-   ],
-   "market_cap": 16092563517.0,
-   "shares_outstanding": 13872899584.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Israel",
-   "hq": "JERUSALEM, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-13T20:51:32+09:00"
-  },
-  {
-   "id": "0001171843-26-006595",
-   "company": "Electra Battery Materials Corp",
-   "ticker": "ELBM",
-   "cik": 1907184,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 Electra Signs Term Sheet for Strategic Partnership with Global Commodities Trader WMC TORONTO, Oct.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1907184/000117184326006595/0001171843-26-006595-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1907184/000117184326006595/exh_991.htm",
-   "filed_at": "2026-10-13T07:48:19-04:00",
-   "filed_kst": "2026-10-13 20:48",
-   "price": 0.48,
-   "change": -0.04,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 0.48,
-     "change": -0.04
-    },
-    {
-     "date": "2026-10-12",
-     "close": 0.48,
-     "change": -3.05
-    },
-    {
-     "date": "2026-10-09",
-     "close": 0.49,
-     "change": -2.39
-    }
-   ],
-   "market_cap": 49794398.0,
-   "shares_outstanding": 103738330.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T20:49:10+09:00"
-  },
-  {
-   "id": "0001104485-26-000043",
-   "company": "NORTHERN OIL & GAS, INC.",
-   "ticker": "NOG",
-   "cik": 1104485,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "0 million increase to the Company’s common stock repurchase program, which provides a remaining repurchase capacity of approximately $227.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1104485/000110448526000043/0001104485-26-000043-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1104485/000110448526000043/nog-20261012.htm",
-   "filed_at": "2026-10-13T07:42:32-04:00",
-   "filed_kst": "2026-10-13 20:42",
-   "price": 25.42,
-   "change": 2.67,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 25.42,
-     "change": 2.67
-    },
-    {
-     "date": "2026-10-09",
-     "close": 24.76,
-     "change": -1.51
-    },
-    {
-     "date": "2026-10-08",
-     "close": 25.14,
-     "change": 3.97
-    }
-   ],
-   "market_cap": 2708478834.0,
-   "shares_outstanding": 106549128.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": null,
-   "hq": "MINNETONKA, MN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-13T20:43:11+09:00"
   }
  ]
 }
