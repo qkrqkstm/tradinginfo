@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-22T04:54:14+09:00",
+ "updated_at": "2026-10-22T04:59:59+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000912767-26-000050",
+   "company": "UFP INDUSTRIES INC",
+   "ticker": "UFPI",
+   "cik": 912767,
+   "form": "8-K",
+   "items": [
+    "5.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "Missad had exceeded expectations during his tenure as CEO and, as a result, recommended the Board approve retirement benefits in the aggregate sum of $5.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912767/000091276726000050/0000912767-26-000050-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/912767/000091276726000050/ufpi-ex10d1.htm",
+   "filed_at": "2026-10-21T15:57:40-04:00",
+   "filed_kst": "2026-10-22 04:57",
+   "price": 79.98,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 79.98,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 79.98,
+     "change": 0.19
+    },
+    {
+     "date": "2026-10-20",
+     "close": 79.83,
+     "change": 2.06
+    }
+   ],
+   "market_cap": 4411816050.0,
+   "shares_outstanding": 55161491.0,
+   "industry": "Sawmills & Planting Mills, General",
+   "state_of_incorporation": "MI",
+   "hq": "GRAND RAPIDS, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T04:59:03+09:00"
+  },
   {
    "id": "0000799233-26-000045",
    "company": "HEARTLAND EXPRESS INC",
@@ -15553,56 +15608,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-14T05:31:18+09:00"
-  },
-  {
-   "id": "0001193125-26-420470",
-   "company": "UNIVERSAL CORP /VA/",
-   "ticker": "UVV",
-   "cik": 102037,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "EX-10.1 2 d85320dex101.htm EX-10.1 EX-10.1 Exhibit 10.1 EXECUTION COPY AMENDMENT NO. 1 Dated as of October 9, 2026 to CREDIT AGREEMENT Dated as of December 9, 2025 THIS AMENDMENT NO. 1 (this “ Amendment ”) is made as of October 9, 2026 by and among UNIVERSAL CORPORATION, a Virginia corporation (the ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/102037/000119312526420470/0001193125-26-420470-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/102037/000119312526420470/d85320dex101.htm",
-   "filed_at": "2026-10-13T16:23:22-04:00",
-   "filed_kst": "2026-10-14 05:23",
-   "price": 41.52,
-   "change": -0.93,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 41.52,
-     "change": -0.93
-    },
-    {
-     "date": "2026-10-12",
-     "close": 41.91,
-     "change": -0.21
-    },
-    {
-     "date": "2026-10-09",
-     "close": 42.0,
-     "change": -2.73
-    }
-   ],
-   "market_cap": 1033817151.0,
-   "shares_outstanding": 24899257.0,
-   "industry": "Wholesale-Farm Product Raw Materials",
-   "state_of_incorporation": "VA",
-   "hq": "RICHMOND, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T05:23:51+09:00"
   }
  ]
 }
