@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-21T21:39:32+09:00",
+ "updated_at": "2026-10-21T21:44:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001279569-26-000990",
+   "company": "Trilogy Metals Inc.",
+   "ticker": "TMQ",
+   "cik": 1543418,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Ambler Metals is a 50/50 joint venture operating company equally owned by Trilogy and South32 Limited (ASX, LSE, JSE: S32; ADR: SOUHY) (\" South32 \").",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543418/000127956926000990/0001279569-26-000990-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1543418/000127956926000990/ex991.htm",
+   "filed_at": "2026-10-21T08:42:45-04:00",
+   "filed_kst": "2026-10-21 21:42",
+   "price": 2.28,
+   "change": -2.15,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 2.28,
+     "change": -2.15
+    },
+    {
+     "date": "2026-10-19",
+     "close": 2.33,
+     "change": -1.27
+    },
+    {
+     "date": "2026-10-16",
+     "close": 2.36,
+     "change": -3.67
+    }
+   ],
+   "market_cap": 413503557.0,
+   "shares_outstanding": 181361209.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER, A1",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-21T21:43:35+09:00"
+  },
   {
    "id": "0001213900-26-111199",
    "company": "Elmet Group Co.",
@@ -15563,56 +15617,6 @@
    "hq": "BOZEMAN, MT",
    "entity_category": null,
    "detected_at": "2026-10-14T04:52:05+09:00"
-  },
-  {
-   "id": "0001628280-26-065618",
-   "company": "ERICSSON LM TELEPHONE CO",
-   "ticker": "ERIC",
-   "cik": 717826,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "57 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026, and which runs between April 23, 2026, and March 31, 2027, at the latest.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026065618/0001628280-26-065618-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026065618/sharebuybacksinericssondur.htm",
-   "filed_at": "2026-10-13T10:00:20-04:00",
-   "filed_kst": "2026-10-13 23:00",
-   "price": 9.49,
-   "change": 1.33,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 9.49,
-     "change": 1.33
-    },
-    {
-     "date": "2026-10-12",
-     "close": 9.37,
-     "change": -1.99
-    },
-    {
-     "date": "2026-10-09",
-     "close": 9.56,
-     "change": 0.63
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": "Sweden",
-   "hq": "STOCKHOLM SWEDEN, V7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-13T23:01:20+09:00"
   }
  ]
 }
