@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-21T21:19:36+09:00",
+ "updated_at": "2026-10-21T21:24:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001023128-26-000057",
+   "company": "LITHIA MOTORS INC",
+   "ticker": "LAD",
+   "cik": 1023128,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 66,
+   "summary": "Under the current share repurchase authorization approximately $535 million remains available as of September 30, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1023128/000102312826000057/0001023128-26-000057-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1023128/000102312826000057/a2026q3exx99earningsrelease.htm",
+   "filed_at": "2026-10-21T08:23:47-04:00",
+   "filed_kst": "2026-10-21 21:23",
+   "price": 299.53,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 299.53,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 299.53,
+     "change": 2.17
+    },
+    {
+     "date": "2026-10-19",
+     "close": 293.17,
+     "change": -0.67
+    }
+   ],
+   "market_cap": 6584602735.0,
+   "shares_outstanding": 21983116.0,
+   "industry": "Retail-Auto Dealers & Gasoline Stations",
+   "state_of_incorporation": "OR",
+   "hq": "MEDFORD, OR",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-21T21:24:47+09:00"
+  },
   {
    "id": "0001628280-26-066610",
    "company": "UNIFIRST CORP",
@@ -15558,59 +15613,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-13T22:26:56+09:00"
-  },
-  {
-   "id": "0001493152-26-046755",
-   "company": "bioAffinity Technologies, Inc.",
-   "ticker": "BIAF",
-   "cik": 1712762,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "These sputum-based tests are investigational, have not been validated, are not cleared or approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226046755/0001493152-26-046755-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226046755/ex99-1.htm",
-   "filed_at": "2026-10-13T09:23:00-04:00",
-   "filed_kst": "2026-10-13 22:23",
-   "price": 3.9,
-   "change": -17.46,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 3.9,
-     "change": -17.46
-    },
-    {
-     "date": "2026-10-09",
-     "close": 4.72,
-     "change": -16.22
-    },
-    {
-     "date": "2026-10-08",
-     "close": 5.64,
-     "change": -8.44
-    }
-   ],
-   "market_cap": 31596728.0,
-   "shares_outstanding": 8101725.0,
-   "industry": "Services-Commercial Physical & Biological Research",
-   "state_of_incorporation": "DE",
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T22:23:38+09:00"
   }
  ]
 }
