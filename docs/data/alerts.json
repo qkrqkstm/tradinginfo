@@ -1,7 +1,171 @@
 {
- "updated_at": "2026-10-22T05:15:20+09:00",
+ "updated_at": "2026-10-22T05:24:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006744",
+   "company": "RELIANCE, INC.",
+   "ticker": "RS",
+   "cik": 861884,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 75,
+   "summary": "9 million, up 115% year-over-year Increased share repurchase program to $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/861884/000117184326006744/0001171843-26-006744-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/861884/000117184326006744/exh_991.htm",
+   "filed_at": "2026-10-21T16:20:17-04:00",
+   "filed_kst": "2026-10-22 05:20",
+   "price": 421.07,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 421.07,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 421.07,
+     "change": 0.91
+    },
+    {
+     "date": "2026-10-20",
+     "close": 417.27,
+     "change": 0.38
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Wholesale-Metals Service Centers & of fices",
+   "state_of_incorporation": "DE",
+   "hq": "PHOENIX, AZ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T05:22:10+09:00"
+  },
+  {
+   "id": "0001140361-26-040388",
+   "company": "IONIS PHARMACEUTICALS INC",
+   "ticker": "IONS",
+   "cik": 874015,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "The approval was granted under FDA priority review and Breakthrough Therapy Designation, recognizing significant improvement of bepirovirsen and nucleos(t)ide analogue therapy over existing standard of care.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/0001140361-26-040388-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/ef20084189_ex99-1.htm",
+   "filed_at": "2026-10-21T16:15:17-04:00",
+   "filed_kst": "2026-10-22 05:15",
+   "price": 44.27,
+   "change": -2.49,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 44.27,
+     "change": -2.49
+    },
+    {
+     "date": "2026-10-20",
+     "close": 45.4,
+     "change": 2.3
+    },
+    {
+     "date": "2026-10-19",
+     "close": 44.38,
+     "change": 3.35
+    }
+   ],
+   "market_cap": 7356979935.0,
+   "shares_outstanding": 166184322.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "CA",
+   "hq": "CARLSBAD, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T05:21:16+09:00"
+  },
+  {
+   "id": "0000092380-26-000104",
+   "company": "SOUTHWEST AIRLINES CO",
+   "ticker": "LUV",
+   "cik": 92380,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "0 billion share repurchase authorization 5 Conference Call: Southwest will discuss its third quarter 2026 results on a conference call at 10:00 a.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000104/0000092380-26-000104-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000104/er-9302026xerdoc.htm",
+   "filed_at": "2026-10-21T16:16:24-04:00",
+   "filed_kst": "2026-10-22 05:16",
+   "price": 39.88,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 39.88,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 39.88,
+     "change": 0.58
+    },
+    {
+     "date": "2026-10-20",
+     "close": 39.65,
+     "change": 2.19
+    }
+   ],
+   "market_cap": 19509623056.0,
+   "shares_outstanding": 489208201.0,
+   "industry": "Air Transportation, Scheduled",
+   "state_of_incorporation": "TX",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T05:21:12+09:00"
+  },
   {
    "id": "0000049600-26-000047",
    "company": "EASTGROUP PROPERTIES INC",
@@ -15472,150 +15636,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-14T06:00:49+09:00"
-  },
-  {
-   "id": "0000950157-26-001098",
-   "company": "MINERALS TECHNOLOGIES INC",
-   "ticker": "MTX",
-   "cik": 891014,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 59,
-   "summary": "EX-10.1 3 ex10-1.htm REFINANCING FACILITY AGREEMENT AND INCREMENTAL FACILITY AMENDMENT Exhibit 10.1 Execution Version REFINANCING FACILITY AGREEMENT AND INCREMENTAL FACILITY AMENDMENT REFINANCING FACILITY AGREEMENT AND INCREMENTAL FACILITY AMENDMENT, dated as of October 13, 2026 (this “ Amendment ”)",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/891014/000095015726001098/0000950157-26-001098-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/891014/000095015726001098/ex10-1.htm",
-   "filed_at": "2026-10-13T16:58:36-04:00",
-   "filed_kst": "2026-10-14 05:58",
-   "price": 63.83,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 63.83,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-13",
-     "close": 63.83,
-     "change": 1.4
-    },
-    {
-     "date": "2026-10-12",
-     "close": 62.95,
-     "change": -1.02
-    }
-   ],
-   "market_cap": 1986948878.0,
-   "shares_outstanding": 31128762.0,
-   "industry": "Industrial Inorganic Chemicals",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T05:59:07+09:00"
-  },
-  {
-   "id": "0001317861-26-000050",
-   "company": "Dynagas LNG Partners LP",
-   "ticker": "DLNG",
-   "cik": 1578453,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(NYSE: DLNG) is a master limited partnership that owns liquefied natural gas (LNG) carriers employed on multi-year charters.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000050/0001317861-26-000050-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000050/f101326dlng6k.htm",
-   "filed_at": "2026-10-13T16:57:36-04:00",
-   "filed_kst": "2026-10-14 05:57",
-   "price": 3.57,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 3.57,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-12",
-     "close": 3.57,
-     "change": -0.83
-    },
-    {
-     "date": "2026-10-09",
-     "close": 3.6,
-     "change": -2.7
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Water Transportation",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "ATHENS",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-14T05:58:34+09:00"
-  },
-  {
-   "id": "0001193125-26-420588",
-   "company": "TRex Bio, Inc.",
-   "ticker": "TRXB",
-   "cik": 2139097,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "That, pursuant to the Agreement and Plan of Merger, dated as of December 31, 2024, TRex Holdings Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2139097/000119312526420588/0001193125-26-420588-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2139097/000119312526420588/ck0002139097-ex3_2.htm",
-   "filed_at": "2026-10-13T16:56:51-04:00",
-   "filed_kst": "2026-10-14 05:56",
-   "price": 13.6,
-   "change": -3.06,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 13.6,
-     "change": -3.06
-    },
-    {
-     "date": "2026-10-12",
-     "close": 14.03,
-     "change": 0.21
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": null,
-   "detected_at": "2026-10-14T05:57:31+09:00"
   }
  ]
 }
