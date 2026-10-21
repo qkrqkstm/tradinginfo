@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-21T20:39:32+09:00",
+ "updated_at": "2026-10-21T20:44:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000753308-26-000077",
+   "company": "NEXTERA ENERGY INC",
+   "ticker": "NEE",
+   "cik": 753308,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "During the quarter, NextEra Energy Resources formed a joint venture with Chesapeake Utilities Corporation to build a $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000077/0000753308-26-000077-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000077/neeq32026exhibit99.htm",
+   "filed_at": "2026-10-21T07:40:10-04:00",
+   "filed_kst": "2026-10-21 20:40",
+   "price": 78.86,
+   "change": 0.88,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 78.86,
+     "change": 0.88
+    },
+    {
+     "date": "2026-10-19",
+     "close": 78.17,
+     "change": -2.04
+    },
+    {
+     "date": "2026-10-16",
+     "close": 79.8,
+     "change": 1.06
+    }
+   ],
+   "market_cap": 164450027220.0,
+   "shares_outstanding": 2085341456.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "FL",
+   "hq": "JUNO BEACH, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-21T20:41:01+09:00"
+  },
   {
    "id": "0001628280-26-066601",
    "company": "ABBOTT LABORATORIES",
@@ -15553,60 +15606,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-13T22:10:31+09:00"
-  },
-  {
-   "id": "0001213900-26-108774",
-   "company": "Sizzle Acquisition Corp. II",
-   "ticker": "SZZL",
-   "cik": 2030663,
-   "form": "425",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "○ On September 30, 2026, Trasteel completed the acquisition of the remaining 40% interest of BBC Alloys, bringing its ownership to 100%; ○ On May 15, 2026, Trasteel announced the establishment of QTrasteel, a 50-50 joint venture with Al Qalaa International Group focused on expanding market a",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026108774/0001213900-26-108774-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026108774/ea030840501ex99-1.htm",
-   "filed_at": "2026-10-13T09:02:17-04:00",
-   "filed_kst": "2026-10-13 22:02",
-   "price": 10.5,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 10.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 10.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-08",
-     "close": 10.5,
-     "change": 0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "WASHINGTON, DC",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T22:02:57+09:00"
   }
  ]
 }
