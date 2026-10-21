@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-22T01:39:33+09:00",
+ "updated_at": "2026-10-22T01:44:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001031203-26-000139",
+   "company": "GROUP 1 AUTOMOTIVE INC",
+   "ticker": "GPI",
+   "cik": 1031203,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "Hennessy, pursuant to which the Company agreed to acquire all of the assets (other than certain excluded assets) relating to the operation of 10 automobile dealerships and one collision center located in the greater Atlanta, Georgia market, together with certain related dealership real estate and le",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000139/0001031203-26-000139-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000139/exhibit21-101926.htm",
+   "filed_at": "2026-10-21T12:41:14-04:00",
+   "filed_kst": "2026-10-22 01:41",
+   "price": 233.91,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 233.91,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 233.9,
+     "change": -3.75
+    },
+    {
+     "date": "2026-10-20",
+     "close": 243.02,
+     "change": 1.56
+    }
+   ],
+   "market_cap": 2788727650.0,
+   "shares_outstanding": 11922225.0,
+   "industry": "Retail-Auto Dealers & Gasoline Stations",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T01:42:04+09:00"
+  },
   {
    "id": "0001174947-26-000921",
    "company": "ENI SPA",
@@ -15565,58 +15616,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-14T05:15:30+09:00"
-  },
-  {
-   "id": "0001776985-26-000067",
-   "company": "BioNTech SE",
-   "ticker": "BNTX",
-   "cik": 1776985,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 91,
-   "summary": "EX-99.1 2 a991261013_bntxbnt113xprim.htm EX-99.1 Document Exhibit 99.1 BioNTech Provides Update on Phase 2/3 Clinical Trial for mRNA Cancer Immunotherapy Candidate BNT113 in Metastatic HPV16-positive Head and Neck Cancer • AHEAD-MERIT Phase 2/3 clinical trial did not meet its first dual primary endp",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000067/0001776985-26-000067-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000067/a991261013_bntxbnt113xprim.htm",
-   "filed_at": "2026-10-13T16:08:57-04:00",
-   "filed_kst": "2026-10-14 05:08",
-   "price": 89.01,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 89.01,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-13",
-     "close": 89.01,
-     "change": -7.13
-    },
-    {
-     "date": "2026-10-12",
-     "close": 95.84,
-     "change": -1.16
-    }
-   ],
-   "market_cap": 22509228072.0,
-   "shares_outstanding": 252884261.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Germany",
-   "hq": "MAINZ, 2M",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T05:10:33+09:00"
   }
  ]
 }
