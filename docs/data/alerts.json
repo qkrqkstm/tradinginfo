@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-22T05:29:43+09:00",
+ "updated_at": "2026-10-22T05:34:56+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-005468",
+   "company": "Helus Pharma Inc.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "HLP003 has been granted Breakthrough Therapy Designation by the FDA, which makes HLP003 eligible for an expedited review pathway, with the potential to reduce drug development timelines.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326005468/0001062993-26-005468-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326005468/exhibit99-1.htm",
+   "filed_at": "2026-10-21T16:33:50-04:00",
+   "filed_kst": "2026-10-22 05:33",
+   "price": 10.78,
+   "change": -1.46,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 10.78,
+     "change": -1.46
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.94,
+     "change": 2.34
+    },
+    {
+     "date": "2026-10-19",
+     "close": 10.69,
+     "change": 1.33
+    }
+   ],
+   "market_cap": 232861022.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-22T05:34:56+09:00"
+  },
   {
    "id": "0001193125-26-427875",
    "company": "HEXCEL CORP /DE/",
@@ -15583,60 +15634,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-14T06:05:59+09:00"
-  },
-  {
-   "id": "0001213900-26-109080",
-   "company": "Churchill Capital Corp XI",
-   "ticker": "CCXI",
-   "cik": 2074973,
-   "form": "425",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 73,
-   "summary": "☐ Explanatory Note As previously disclosed, on June 24, 2026, Churchill Capital Corp XI, a Cayman Islands exempted company (“ Churchill ”) entered into an Agreement and Plan of Merger (as amended, modified, supplemented or waived from time to time, the “ Merger Agreement ”) by and among Churchill, B",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026109080/0001213900-26-109080-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026109080/ea030849601ex99-1.htm",
-   "filed_at": "2026-10-13T17:04:21-04:00",
-   "filed_kst": "2026-10-14 06:04",
-   "price": 11.16,
-   "change": 3.53,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 11.16,
-     "change": 3.53
-    },
-    {
-     "date": "2026-10-12",
-     "close": 10.78,
-     "change": -1.37
-    },
-    {
-     "date": "2026-10-09",
-     "close": 10.93,
-     "change": -1.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "General Industrial Machinery & Equipment, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T06:05:27+09:00"
   }
  ]
 }
