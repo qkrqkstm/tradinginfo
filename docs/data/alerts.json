@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-22T02:29:15+09:00",
+ "updated_at": "2026-10-22T02:34:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-117643",
+   "company": "GeoPark Ltd",
+   "ticker": "GPRK",
+   "cik": 1464591,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "​ GeoPark and GyP will proceed with the execution of the applicable joint venture agreement, which will be submitted for approval by the Executive Branch of the Province of Neuquén in accordance with the terms of the bidding round.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1464591/000110465926117643/0001104659-26-117643-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1464591/000110465926117643/gprk-20261021x6k.htm",
+   "filed_at": "2026-10-21T13:29:42-04:00",
+   "filed_kst": "2026-10-22 02:29",
+   "price": 11.55,
+   "change": -1.11,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 11.55,
+     "change": -1.11
+    },
+    {
+     "date": "2026-10-20",
+     "close": 11.68,
+     "change": -0.34
+    },
+    {
+     "date": "2026-10-19",
+     "close": 11.72,
+     "change": -0.34
+    }
+   ],
+   "market_cap": 597218137.0,
+   "shares_outstanding": 51707198.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Bermuda",
+   "hq": "BOGOTA, F8",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-22T02:30:43+09:00"
+  },
   {
    "id": "0001062993-26-005462",
    "company": "Hudbay Minerals Inc.",
@@ -15563,56 +15613,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-14T05:16:09+09:00"
-  },
-  {
-   "id": "0000919574-26-006892",
-   "company": "TORM plc",
-   "ticker": "TRMD",
-   "cik": 1655891,
-   "form": "6-K",
-   "items": [],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "EX-99.1 2 p15111556ex_99-1.htm Exhibit 99.1 COMPANY ANNOUNCEMENT INSIDE INFORMATION TORM plc Upgrades Full-Year Guidance TORM plc (Nasdaq: TRMD or TRMD A) today announces that, based on the Company's current coverage and expectations for continued market strength during the remainder of the fourth q",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1655891/000091957426006892/0000919574-26-006892-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1655891/000091957426006892/p15111556ex_99-1.htm",
-   "filed_at": "2026-10-13T16:14:01-04:00",
-   "filed_kst": "2026-10-14 05:14",
-   "price": 41.11,
-   "change": 0.46,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 41.11,
-     "change": 0.46
-    },
-    {
-     "date": "2026-10-12",
-     "close": 40.92,
-     "change": 2.45
-    },
-    {
-     "date": "2026-10-09",
-     "close": 39.94,
-     "change": -0.3
-    }
-   ],
-   "market_cap": 4165787585.0,
-   "shares_outstanding": 101332707.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T05:15:34+09:00"
   }
  ]
 }
