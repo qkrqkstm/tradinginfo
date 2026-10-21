@@ -1,7 +1,160 @@
 {
- "updated_at": "2026-10-21T21:59:32+09:00",
+ "updated_at": "2026-10-21T22:04:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001538263-26-000115",
+   "company": "HomeTrust Bancshares, Inc.",
+   "ticker": "HTB",
+   "cik": 1538263,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 76,
+   "summary": "Earlier this month, we announced the completion of the stock repurchase program initiated in August 2026 and authorized the repurchase of an additional 5% of our outstanding shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000115/0001538263-26-000115-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000115/htb-2026x09x30x8kxex99x1.htm",
+   "filed_at": "2026-10-21T09:03:50-04:00",
+   "filed_kst": "2026-10-21 22:03",
+   "price": 47.13,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 47.13,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 47.13,
+     "change": 1.09
+    },
+    {
+     "date": "2026-10-19",
+     "close": 46.62,
+     "change": -0.98
+    }
+   ],
+   "market_cap": 786749573.0,
+   "shares_outstanding": 16693180.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": "MD",
+   "hq": "ASHEVILLE, NC",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-21T22:04:34+09:00"
+  },
+  {
+   "id": "0001213900-26-111207",
+   "company": "Inmune Bio, Inc.",
+   "ticker": "INMB",
+   "cik": 1711754,
+   "form": "8-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Backed by recently granted FDA Fast Track designation and successful regulatory alignment from an End-of-Phase 2 meeting, XPro1595™ is positioned for an integrated Phase 2b/3 seamless adaptive registrational program in neuroinflammation-enriched early Alzheimer’s disease.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711754/000121390026111207/0001213900-26-111207-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1711754/000121390026111207/ea030922301ex99-3.htm",
+   "filed_at": "2026-10-21T09:00:34-04:00",
+   "filed_kst": "2026-10-21 22:00",
+   "price": 1.6,
+   "change": 3.9,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 1.6,
+     "change": 3.9
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1.54,
+     "change": -1.91
+    },
+    {
+     "date": "2026-10-16",
+     "close": 1.57,
+     "change": -4.85
+    }
+   ],
+   "market_cap": 44406062.0,
+   "shares_outstanding": 27753789.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "NV",
+   "hq": "BOCA RATON, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-21T22:02:00+09:00"
+  },
+  {
+   "id": "0001213900-26-111206",
+   "company": "AIFU Inc.",
+   "ticker": "AIFU",
+   "cik": 1413855,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "Pursuant to the Agreement, the Company agreed to acquire 100% of the equity interests of Waltz Investment for aggregate consideration consisting of (i) 11,203,443 Class A ordinary shares of the Company, par value US$0.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413855/000121390026111206/0001213900-26-111206-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1413855/000121390026111206/ea030927301ex99-2.htm",
+   "filed_at": "2026-10-21T09:00:02-04:00",
+   "filed_kst": "2026-10-21 22:00",
+   "price": 10.72,
+   "change": -2.99,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 10.72,
+     "change": -2.99
+    },
+    {
+     "date": "2026-10-19",
+     "close": 11.05,
+     "change": -0.54
+    },
+    {
+     "date": "2026-10-16",
+     "close": 11.11,
+     "change": -1.77
+    }
+   ],
+   "market_cap": 12159011892.0,
+   "shares_outstanding": 1134236184.0,
+   "industry": "Insurance Agents, Brokers & Service",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHENZHEN",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-21T22:00:56+09:00"
+  },
   {
    "id": "0001279569-26-000990",
    "company": "Trilogy Metals Inc.",
@@ -15464,159 +15617,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-14T05:05:55+09:00"
-  },
-  {
-   "id": "0001104659-26-115476",
-   "company": "MATERIALISE NV",
-   "ticker": "MTLS",
-   "cik": 1091223,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "12 October 2026 – Materialise NV (Euronext: MTLS) (Nasdaq: MTLS) (“Materialise”) (“the Company”) hereby discloses certain information in relation to its share buyback program announced on 30 October 2025, in accordance with Article 8:4 of the Royal Decree of 29 April 2019 implementing the Belgian Co",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926115476/0001104659-26-115476-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926115476/tm2627407d1_ex99-1.htm",
-   "filed_at": "2026-10-13T16:01:02-04:00",
-   "filed_kst": "2026-10-14 05:01",
-   "price": 8.13,
-   "change": -1.69,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 8.13,
-     "change": -1.69
-    },
-    {
-     "date": "2026-10-12",
-     "close": 8.27,
-     "change": -0.36
-    },
-    {
-     "date": "2026-10-09",
-     "close": 8.3,
-     "change": -1.19
-    }
-   ],
-   "market_cap": 480216222.0,
-   "shares_outstanding": 59067186.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": null,
-   "hq": "LEVUEN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-14T05:01:56+09:00"
-  },
-  {
-   "id": "0001628280-26-065685",
-   "company": "Senti Biosciences Holdings, Inc.",
-   "ticker": "SNTI",
-   "cik": 1854270,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Although a quorum was present, the Company adjourned the Annual Meeting in order to have further time to solicit votes from its stockholders in favor of the Merger Agreement Proposal, as defined in the Company’s definitive proxy statement on Schedule 14A (the “Proxy Statement”) filed on September 24",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1854270/000162828026065685/0001628280-26-065685-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1854270/000162828026065685/snti-20261008.htm",
-   "filed_at": "2026-10-13T16:01:25-04:00",
-   "filed_kst": "2026-10-14 05:01",
-   "price": 0.26,
-   "change": -20.06,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 0.25,
-     "change": -20.06
-    },
-    {
-     "date": "2026-10-12",
-     "close": 0.32,
-     "change": 1.59
-    },
-    {
-     "date": "2026-10-09",
-     "close": 0.31,
-     "change": -2.48
-    }
-   ],
-   "market_cap": 8097636.0,
-   "shares_outstanding": 31144754.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T05:01:52+09:00"
-  },
-  {
-   "id": "0001829126-26-011068",
-   "company": "Destra Multi-Alternative Fund",
-   "ticker": "DMA",
-   "cik": 1523289,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "1 FOR IMMEDIATE RELEASE Destra Multi-Alternative Fund Announces Share Repurchase Program, Increased Monthly Distributions and Provides Update on Term Structure Measurement Period The announcements reflect the Board of Trustees’ continued focus on seeking to enhance shareholder value, supporting the ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1523289/000182912626011068/0001829126-26-011068-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1523289/000182912626011068/destramultialter_ex99-1.htm",
-   "filed_at": "2026-10-13T15:51:11-04:00",
-   "filed_kst": "2026-10-14 04:51",
-   "price": 7.46,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 7.46,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-12",
-     "close": 7.46,
-     "change": -0.27
-    },
-    {
-     "date": "2026-10-09",
-     "close": 7.48,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": null,
-   "state_of_incorporation": "DE",
-   "hq": "BOZEMAN, MT",
-   "entity_category": null,
-   "detected_at": "2026-10-14T04:52:05+09:00"
   }
  ]
 }
