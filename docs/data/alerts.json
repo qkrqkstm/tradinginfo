@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-21T20:19:17+09:00",
+ "updated_at": "2026-10-21T20:24:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-111181",
+   "company": "INVE Technologies, Inc.",
+   "ticker": "INVE",
+   "cik": 1036044,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "The tender offer is being made as part of the up to $40 million share repurchase program previously authorized by the Company’s Board of Directors.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1036044/000121390026111181/0001213900-26-111181-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1036044/000121390026111181/ea030911901ex99-1.htm",
+   "filed_at": "2026-10-21T07:20:50-04:00",
+   "filed_kst": "2026-10-21 20:20",
+   "price": 2.22,
+   "change": -1.77,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 2.22,
+     "change": -1.77
+    },
+    {
+     "date": "2026-10-19",
+     "close": 2.26,
+     "change": 1.8
+    },
+    {
+     "date": "2026-10-16",
+     "close": 2.22,
+     "change": -3.06
+    }
+   ],
+   "market_cap": 53803372.0,
+   "shares_outstanding": 24235753.0,
+   "industry": "Computer Peripheral Equipment, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SANTA ANA, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-21T20:21:34+09:00"
+  },
   {
    "id": "0001140361-26-040332",
    "company": "Roivant Sciences Ltd.",
@@ -15546,59 +15601,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-13T21:46:04+09:00"
-  },
-  {
-   "id": "0001493152-26-046744",
-   "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
-   "ticker": "BMNR",
-   "cik": 1829311,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "지수편입",
-   "primary_key": "index",
-   "emoji": "📈",
-   "types": [
-    "지수편입"
-   ],
-   "confidence": 57,
-   "summary": "1 million Bitmine is 99% of the way to the ‘Alchemy of 5%’ in just 15 months Bitmine released Chairman’s Message on October 7 titled “Crypto Bull Underway — This Cycle Likely the Largest” Bitmine was added to the Russell 1000 Large-cap index on June 26, 2026 Bitmine’s Series A Preferred Stock is tra",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226046744/0001493152-26-046744-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226046744/ex99-1.htm",
-   "filed_at": "2026-10-13T08:45:27-04:00",
-   "filed_kst": "2026-10-13 21:45",
-   "price": 23.83,
-   "change": -0.83,
-   "price_history": [
-    {
-     "date": "2026-10-12",
-     "close": 23.83,
-     "change": -0.83
-    },
-    {
-     "date": "2026-10-09",
-     "close": 24.03,
-     "change": -0.04
-    },
-    {
-     "date": "2026-10-08",
-     "close": 24.04,
-     "change": -2.51
-    }
-   ],
-   "market_cap": 14374884969.0,
-   "shares_outstanding": 603226394.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "NORWALK, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-13T21:46:03+09:00"
   }
  ]
 }
