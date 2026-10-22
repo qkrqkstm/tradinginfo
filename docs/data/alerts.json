@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-23T04:24:38+09:00",
+ "updated_at": "2026-10-23T04:29:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001163370-26-000034",
+   "company": "NORTHRIM BANCORP INC",
+   "ticker": "NRIM",
+   "cik": 1163370,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "(the \"Northrim\") held a virtual special meeting of shareholders (the \"Special Meeting\") in connection with the Agreement and Plan of Merger, dated as of July 22, 2026 (the “Merger Agreement”), among Northrim, PBCO Financial Corporation (“PBCO”), and Whitewater Sub, Inc.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1163370/000116337026000034/0001163370-26-000034-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1163370/000116337026000034/nrim-20261020.htm",
+   "filed_at": "2026-10-22T15:25:42-04:00",
+   "filed_kst": "2026-10-23 04:25",
+   "price": 24.16,
+   "change": 2.14,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 24.16,
+     "change": 2.14
+    },
+    {
+     "date": "2026-10-21",
+     "close": 23.65,
+     "change": -0.3
+    },
+    {
+     "date": "2026-10-20",
+     "close": 23.72,
+     "change": 1.8
+    }
+   ],
+   "market_cap": 537433547.0,
+   "shares_outstanding": 22244766.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": "AK",
+   "hq": "ANCHORAGE, AK",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-23T04:26:31+09:00"
+  },
   {
    "id": "0001628280-26-066842",
    "company": "SL GREEN REALTY CORP",
@@ -15601,56 +15655,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-15T05:31:24+09:00"
-  },
-  {
-   "id": "0001580670-26-000080",
-   "company": "LGI Homes, Inc.",
-   "ticker": "LGIH",
-   "cik": 1580670,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-10.1 2 ex101-seventhamendmentan.htm EX-10.1 ex101-seventhamendmentan Exhibit 10.1 Loan Number 1013760 1 SEVENTH AMENDMENT TO FIFTH AMENDED AND RESTATED CREDIT AGREEMENT THIS SEVENTH AMENDMENT TO FIFTH AMENDED AND RESTATED CREDIT AGREEMENT (this “Agreement”) is dated as of October 9, 2026 (the “Ef",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000080/0001580670-26-000080-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1580670/000158067026000080/ex101-seventhamendmentan.htm",
-   "filed_at": "2026-10-14T16:23:00-04:00",
-   "filed_kst": "2026-10-15 05:23",
-   "price": 42.35,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 42.35,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-14",
-     "close": 42.35,
-     "change": -6.49
-    },
-    {
-     "date": "2026-10-13",
-     "close": 45.29,
-     "change": 2.93
-    }
-   ],
-   "market_cap": 984564319.0,
-   "shares_outstanding": 23248272.0,
-   "industry": "Operative Builders",
-   "state_of_incorporation": "DE",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T05:24:41+09:00"
   }
  ]
 }
