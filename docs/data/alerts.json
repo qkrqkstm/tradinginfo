@@ -1,7 +1,218 @@
 {
- "updated_at": "2026-10-23T05:09:24+09:00",
+ "updated_at": "2026-10-23T05:14:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-118157",
+   "company": "Alpine Income Property Trust, Inc.",
+   "ticker": "PINE",
+   "cik": 1786117,
+   "form": "8-K",
+   "items": [],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "Given this strong investment activity and the continued performance of our portfolio we are raising our full-year 2026 guidance.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1786117/000110465926118157/0001104659-26-118157-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1786117/000110465926118157/pine-ex99d1.htm",
+   "filed_at": "2026-10-22T16:10:44-04:00",
+   "filed_kst": "2026-10-23 05:10",
+   "price": 17.43,
+   "change": 1.78,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 17.42,
+     "change": 1.78
+    },
+    {
+     "date": "2026-10-21",
+     "close": 17.12,
+     "change": -3.28
+    },
+    {
+     "date": "2026-10-20",
+     "close": 17.7,
+     "change": 0.06
+    }
+   ],
+   "market_cap": 307129010.0,
+   "shares_outstanding": 17620712.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "WINTER PARK, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-23T05:11:54+09:00"
+  },
+  {
+   "id": "0000860413-26-000097",
+   "company": "FIRST INTERSTATE BANCSYSTEM INC",
+   "ticker": "FIBK",
+   "cik": 860413,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "6 million since the board of directors authorized the repurchase program in August of 2025.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860413/000086041326000097/0000860413-26-000097-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/860413/000086041326000097/fibk-20260930x8kpr.htm",
+   "filed_at": "2026-10-22T16:10:47-04:00",
+   "filed_kst": "2026-10-23 05:10",
+   "price": 36.88,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 36.88,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 36.88,
+     "change": 3.39
+    },
+    {
+     "date": "2026-10-21",
+     "close": 35.67,
+     "change": 0.31
+    }
+   ],
+   "market_cap": 3514833906.0,
+   "shares_outstanding": 95304607.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "BILLINGS, MT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:11:52+09:00"
+  },
+  {
+   "id": "0001104659-26-118158",
+   "company": "CITIZENS & NORTHERN CORP",
+   "ticker": "CZNC",
+   "cik": 810958,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "Capital ◾ On September 25, 2023, C&N announced a treasury stock repurchase program with no expiration that can be suspended or terminated by the Board of Directors, in its sole discretion.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/810958/000110465926118158/0001104659-26-118158-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/810958/000110465926118158/cznc-ex99.htm",
+   "filed_at": "2026-10-22T16:11:16-04:00",
+   "filed_kst": "2026-10-23 05:11",
+   "price": 26.64,
+   "change": 3.94,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 26.64,
+     "change": 3.94
+    },
+    {
+     "date": "2026-10-21",
+     "close": 25.63,
+     "change": -0.27
+    },
+    {
+     "date": "2026-10-20",
+     "close": 25.7,
+     "change": 1.22
+    }
+   ],
+   "market_cap": 477784857.0,
+   "shares_outstanding": 17934867.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "PA",
+   "hq": "WELLSBORO, PA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:11:49+09:00"
+  },
+  {
+   "id": "0001628280-26-066890",
+   "company": "Bloom Energy Corp",
+   "ticker": "BE",
+   "cik": 1664703,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "지수편입",
+   "primary_key": "index",
+   "emoji": "📈",
+   "types": [
+    "지수편입",
+    "가이던스상향"
+   ],
+   "confidence": 65,
+   "summary": "6 billion, representing 122% year-over-year growth at the midpoint • Added to the S&P 500, marking an important milestone for Bloom Energy as a public company SAN JOSE, Calif.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066890/0001628280-26-066890-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066890/ex991_q326financialresults.htm",
+   "filed_at": "2026-10-22T16:09:25-04:00",
+   "filed_kst": "2026-10-23 05:09",
+   "price": 217.77,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 217.77,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 217.77,
+     "change": -8.7
+    },
+    {
+     "date": "2026-10-21",
+     "close": 238.53,
+     "change": 7.13
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Electrical Industrial Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "SAN JOSE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:10:36+09:00"
+  },
   {
    "id": "0001609151-26-000115",
    "company": "Weave Communications, Inc.",
@@ -15440,221 +15651,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-15T05:47:02+09:00"
-  },
-  {
-   "id": "0001437071-26-000076",
-   "company": "Invesco Mortgage Capital Inc.",
-   "ticker": "IVR",
-   "cik": 1437071,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "0 billion • Unrestricted cash and unencumbered investments of $401.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1437071/000143707126000076/0001437071-26-000076-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1437071/000143707126000076/ivr10142026-8kxex991.htm",
-   "filed_at": "2026-10-14T16:43:40-04:00",
-   "filed_kst": "2026-10-15 05:43",
-   "price": 5.56,
-   "change": -0.71,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 5.56,
-     "change": -0.71
-    },
-    {
-     "date": "2026-10-13",
-     "close": 5.6,
-     "change": -0.71
-    },
-    {
-     "date": "2026-10-12",
-     "close": 5.64,
-     "change": -1.05
-    }
-   ],
-   "market_cap": 598480719.0,
-   "shares_outstanding": 107640417.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-15T05:44:14+09:00"
-  },
-  {
-   "id": "0001554855-26-002124",
-   "company": "YPF SOCIEDAD ANONIMA",
-   "ticker": "YPF",
-   "cik": 904851,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“YPF”) completed the acquisition of 24.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/904851/000155485526002124/0001554855-26-002124-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/904851/000155485526002124/MainDocument.htm",
-   "filed_at": "2026-10-14T16:42:52-04:00",
-   "filed_kst": "2026-10-15 05:42",
-   "price": 52.25,
-   "change": 0.89,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 52.25,
-     "change": 0.89
-    },
-    {
-     "date": "2026-10-13",
-     "close": 51.79,
-     "change": -0.35
-    },
-    {
-     "date": "2026-10-12",
-     "close": 51.97,
-     "change": 3.86
-    }
-   ],
-   "market_cap": 20550593434.0,
-   "shares_outstanding": 393312793.0,
-   "industry": "Petroleum Refining",
-   "state_of_incorporation": "Argentina",
-   "hq": "BUENOS AIRES 1364 AR",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T05:43:10+09:00"
-  },
-  {
-   "id": "0001213900-26-109457",
-   "company": "Silo Pharma, Inc.",
-   "ticker": "SILO",
-   "cik": 1514183,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "3.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "“ Open Source Software ” means any software component that is distributed as “free software,” “open source software,” or pursuant to any open source copyright license agreement, including the GNU General Public License, GNU Library or Lesser Public License, GNU Affero General Public License, MIT Lic",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1514183/000121390026109457/0001213900-26-109457-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1514183/000121390026109457/ea030856201ex10-1.htm",
-   "filed_at": "2026-10-14T16:30:12-04:00",
-   "filed_kst": "2026-10-15 05:30",
-   "price": 1.2,
-   "change": -1.64,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 1.2,
-     "change": -1.64
-    },
-    {
-     "date": "2026-10-13",
-     "close": 1.22,
-     "change": -18.12
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.49,
-     "change": 1.36
-    }
-   ],
-   "market_cap": 1905900.0,
-   "shares_outstanding": 1588250.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NV",
-   "hq": "SARASOTA, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-15T05:31:32+09:00"
-  },
-  {
-   "id": "0001829126-26-011125",
-   "company": "Future Vision II Acquisition Corp.",
-   "ticker": "FVN",
-   "cik": 2010653,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03",
-    "3.02",
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "pursuant to the Merger Agreement dated January 16, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2010653/000182912626011125/0001829126-26-011125-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2010653/000182912626011125/futurevision2_8k.htm",
-   "filed_at": "2026-10-14T16:30:17-04:00",
-   "filed_kst": "2026-10-15 05:30",
-   "price": 8.78,
-   "change": 3.85,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 8.77,
-     "change": 3.85
-    },
-    {
-     "date": "2026-10-13",
-     "close": 8.45,
-     "change": 6.56
-    },
-    {
-     "date": "2026-10-12",
-     "close": 7.93,
-     "change": -9.16
-    }
-   ],
-   "market_cap": 66236320.0,
-   "shares_outstanding": 7544000.0,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SEVEN MILE BEACH, GRAND CAYMAN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T05:31:30+09:00"
   }
  ]
 }
