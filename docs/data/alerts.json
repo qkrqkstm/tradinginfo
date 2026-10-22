@@ -1,7 +1,168 @@
 {
- "updated_at": "2026-10-22T19:59:27+09:00",
+ "updated_at": "2026-10-22T20:04:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001138118-26-000028",
+   "company": "CBRE GROUP, INC.",
+   "ticker": "CBRE",
+   "cik": 1138118,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "• Stock Repurchase Program – Year-to-date, the company repurchased nearly $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000028/0001138118-26-000028-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000028/cbre-20261022x8kexx991.htm",
+   "filed_at": "2026-10-22T07:03:46-04:00",
+   "filed_kst": "2026-10-22 20:03",
+   "price": 134.65,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 134.65,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 134.65,
+     "change": 0.31
+    },
+    {
+     "date": "2026-10-20",
+     "close": 134.23,
+     "change": 2.65
+    }
+   ],
+   "market_cap": 38991313876.0,
+   "shares_outstanding": 289575298.0,
+   "industry": "Real Estate",
+   "state_of_incorporation": "DE",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:04:38+09:00"
+  },
+  {
+   "id": "0001111335-26-000054",
+   "company": "VISTEON CORP",
+   "ticker": "VC",
+   "cik": 1111335,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "9 billion driven by ongoing momentum in displays • Completed $200 million accelerated share repurchase program and paid $9 million quarterly dividend Third Quarter Results Visteon reported net sales of $970 million, compared to $917 million in the prior year, an increase of 6% year-over-year.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1111335/000111133526000054/0001111335-26-000054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1111335/000111133526000054/visteonq32026pr.htm",
+   "filed_at": "2026-10-22T07:03:51-04:00",
+   "filed_kst": "2026-10-22 20:03",
+   "price": 84.83,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 84.83,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 84.83,
+     "change": -3.36
+    },
+    {
+     "date": "2026-10-20",
+     "close": 87.78,
+     "change": 1.15
+    }
+   ],
+   "market_cap": 2264573242.0,
+   "shares_outstanding": 26695429.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "VAN BUREN TOWNSHIP, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:04:37+09:00"
+  },
+  {
+   "id": "0001104659-26-117964",
+   "company": "UNITED THERAPEUTICS Corp",
+   "ticker": "UTHR",
+   "cik": 1082554,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 67,
+   "summary": "1 For Immediate Release United Therapeutics Corporation Announces Additional $2 Billion Share Repurchase Authorization SILVER SPRING, M.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926117964/0001104659-26-117964-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926117964/tm2628087d1_ex99-1.htm",
+   "filed_at": "2026-10-22T07:00:35-04:00",
+   "filed_kst": "2026-10-22 20:00",
+   "price": 563.49,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 563.49,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 563.49,
+     "change": 1.74
+    },
+    {
+     "date": "2026-10-20",
+     "close": 553.88,
+     "change": 1.98
+    }
+   ],
+   "market_cap": 24168476035.0,
+   "shares_outstanding": 42890692.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SILVER SPRING, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:01:23+09:00"
+  },
   {
    "id": "0000929869-26-000073",
    "company": "RELX PLC",
@@ -15459,160 +15620,6 @@
    "hq": "QUEBEC",
    "entity_category": null,
    "detected_at": "2026-10-14T21:30:41+09:00"
-  },
-  {
-   "id": "0001171843-26-006616",
-   "company": "Biodexa Pharmaceuticals Plc",
-   "ticker": "BDRX",
-   "cik": 1643918,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "eRapa has received Orphan Drug Designation in the US and in Europe.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1643918/000117184326006616/0001171843-26-006616-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1643918/000117184326006616/exh_991.htm",
-   "filed_at": "2026-10-14T08:30:04-04:00",
-   "filed_kst": "2026-10-14 21:30",
-   "price": 0.35,
-   "change": 0.06,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 0.35,
-     "change": 0.06
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.35,
-     "change": -8.62
-    },
-    {
-     "date": "2026-10-12",
-     "close": 0.38,
-     "change": -16.74
-    }
-   ],
-   "market_cap": 79036233123.0,
-   "shares_outstanding": 225817808922.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "CARDIFF",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-14T21:30:39+09:00"
-  },
-  {
-   "id": "0001683168-26-007834",
-   "company": "Valion Bio, Inc.",
-   "ticker": "VBIO",
-   "cik": 1787740,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The product candidate has received Fast Track and Orphan Drug designations from the FDA.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007834/0001683168-26-007834-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007834/valion_ex9901.htm",
-   "filed_at": "2026-10-14T08:15:14-04:00",
-   "filed_kst": "2026-10-14 21:15",
-   "price": 1.55,
-   "change": -7.74,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 1.55,
-     "change": -7.74
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.68,
-     "change": -21.5
-    },
-    {
-     "date": "2026-10-09",
-     "close": 2.14,
-     "change": -3.17
-    }
-   ],
-   "market_cap": 34394095.0,
-   "shares_outstanding": 22189739.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T21:16:03+09:00"
-  },
-  {
-   "id": "0001193125-26-421058",
-   "company": "FLEX LTD.",
-   "ticker": "FLEX",
-   "cik": 866374,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": ", a Delaware corporation (“EPC Power”), and Charge Parent, LLC, a Delaware limited liability company (the “Seller”), entered into a Stock Purchase Agreement (the “Purchase Agreement”), pursuant to which the Purchaser agreed to acquire all of the equity interests of EPC Power from the Seller (such tr",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526421058/0001193125-26-421058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526421058/d147467dex991.htm",
-   "filed_at": "2026-10-14T08:13:15-04:00",
-   "filed_kst": "2026-10-14 21:13",
-   "price": 110.88,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 110.88,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-13",
-     "close": 110.88,
-     "change": -5.42
-    },
-    {
-     "date": "2026-10-12",
-     "close": 117.24,
-     "change": -2.16
-    }
-   ],
-   "market_cap": 40959402201.0,
-   "shares_outstanding": 369402978.0,
-   "industry": "Printed Circuit Boards",
-   "state_of_incorporation": "Singapore",
-   "hq": "AUSTIN, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T21:14:06+09:00"
   }
  ]
 }
