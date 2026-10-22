@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-22T20:49:12+09:00",
+ "updated_at": "2026-10-22T20:54:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001776985-26-000072",
+   "company": "BioNTech SE",
+   "ticker": "BNTX",
+   "cik": 1776985,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "EX-99.1 2 a991261022_bntxrosettabrea.htm EX-99.1 Document Exhibit 99.1 BioNTech Advances Phase 3 Clinical Trial of Pumitamig in Combination with Gilead’s TROP2-Directed ADC Sacituzumab Govitecan in Triple-Negative Breast Cancer • BioNTech enters a clinical trial collaboration with Gilead Sciences wi",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000072/0001776985-26-000072-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000072/a991261022_bntxrosettabrea.htm",
+   "filed_at": "2026-10-22T07:49:20-04:00",
+   "filed_kst": "2026-10-22 20:49",
+   "price": 91.29,
+   "change": 0.13,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 91.29,
+     "change": 0.13
+    },
+    {
+     "date": "2026-10-20",
+     "close": 91.17,
+     "change": 2.2
+    },
+    {
+     "date": "2026-10-19",
+     "close": 89.21,
+     "change": 1.71
+    }
+   ],
+   "market_cap": 23085804187.0,
+   "shares_outstanding": 252884261.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Germany",
+   "hq": "MAINZ, 2M",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:50:31+09:00"
+  },
   {
    "id": "0001482981-26-000183",
    "company": "Vita Coco Company, Inc.",
@@ -15551,62 +15601,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-14T22:07:00+09:00"
-  },
-  {
-   "id": "0001493152-26-046938",
-   "company": "SKYX Platforms Corp.",
-   "ticker": "SKYX",
-   "cik": 1598981,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.01",
-    "2.03",
-    "3.02"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Delaware corporation and a direct wholly owned subsidiary of the Maker (“ Merger Sub ”), and WT Representative LLC have entered into that certain Agreement and Plan of Merger, dated as of September 9, 2026 (as it may be amended, restated, supplemented or otherwise modified from time to time in a",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226046938/0001493152-26-046938-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226046938/ex10-1.htm",
-   "filed_at": "2026-10-14T09:00:09-04:00",
-   "filed_kst": "2026-10-14 22:00",
-   "price": 1.12,
-   "change": 0.9,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 1.12,
-     "change": 0.9
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.11,
-     "change": 0.91
-    },
-    {
-     "date": "2026-10-09",
-     "close": 1.1,
-     "change": -0.9
-    }
-   ],
-   "market_cap": 151682713.0,
-   "shares_outstanding": 135430994.0,
-   "industry": "Electric Lighting & Wiring Equipment",
-   "state_of_incorporation": "FL",
-   "hq": "POMPANO BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-14T22:00:56+09:00"
   }
  ]
 }
