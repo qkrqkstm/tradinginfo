@@ -1,7 +1,95 @@
 {
- "updated_at": "2026-10-22T20:04:39+09:00",
+ "updated_at": "2026-10-22T20:09:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001828316-26-000047",
+   "company": "Pharming Group N.V.",
+   "ticker": "PHAR",
+   "cik": 1828316,
+   "form": "6-K",
+   "items": [],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "Topline results from the pivotal FALCON study are expected approximately one year after the completion of enrollment.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000047/0001828316-26-000047-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000047/q3announcementpr.htm",
+   "filed_at": "2026-10-22T07:06:13-04:00",
+   "filed_kst": "2026-10-22 20:06",
+   "price": 9.65,
+   "change": -1.03,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 9.65,
+     "change": -1.03
+    },
+    {
+     "date": "2026-10-20",
+     "close": 9.75,
+     "change": 7.03
+    },
+    {
+     "date": "2026-10-19",
+     "close": 9.11,
+     "change": -2.67
+    }
+   ],
+   "market_cap": 6771216246.0,
+   "shares_outstanding": 701680440.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Netherlands",
+   "hq": "LEIDEN, P7",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:07:03+09:00"
+  },
+  {
+   "id": "0001628280-26-066783",
+   "company": "COMCAST CORP",
+   "ticker": "CCZ",
+   "cik": 1166691,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "As previously announced, Comcast suspended its share repurchase program beginning in the third quarter and expects the pause to remain in place through the proposed separation of its businesses into two independent publicly traded companies.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/0001628280-26-066783-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/ex991-9302026.htm",
+   "filed_at": "2026-10-22T07:05:59-04:00",
+   "filed_kst": "2026-10-22 20:05",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": 2063073161.0,
+   "industry": "Cable & Other Pay Television Services",
+   "state_of_incorporation": "PA",
+   "hq": "PHILADELPHIA, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:07:00+09:00"
+  },
   {
    "id": "0001138118-26-000028",
    "company": "CBRE GROUP, INC.",
@@ -15519,107 +15607,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-14T21:35:59+09:00"
-  },
-  {
-   "id": "0001193125-26-421066",
-   "company": "Coya Therapeutics, Inc.",
-   "ticker": "COYA",
-   "cik": 1835022,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "The Company’s cash runway guidance remains unchanged, with existing cash resources expected to fund operations into the second half of 2027, beyond the anticipated ALSTARS topline data readout.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526421066/0001193125-26-421066-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526421066/d172621d8k.htm",
-   "filed_at": "2026-10-14T08:30:08-04:00",
-   "filed_kst": "2026-10-14 21:30",
-   "price": 4.47,
-   "change": -6.96,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 4.47,
-     "change": -6.96
-    },
-    {
-     "date": "2026-10-12",
-     "close": 4.81,
-     "change": -2.83
-    },
-    {
-     "date": "2026-10-09",
-     "close": 4.95,
-     "change": -0.8
-    }
-   ],
-   "market_cap": 104856585.0,
-   "shares_outstanding": 23457849.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T21:31:14+09:00"
-  },
-  {
-   "id": "0001753926-26-001931",
-   "company": "Nuran Wireless Inc.",
-   "ticker": "NUR",
-   "cik": 1680637,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 66,
-   "summary": "Rams is expected to support NuEnergy’s business plan and implementation strategy, including priority-market selection, operating models, technical and financial requirements, strategic partnerships and financing alternatives.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001931/0001753926-26-001931-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001931/g085990_ex99-1.htm",
-   "filed_at": "2026-10-14T08:29:20-04:00",
-   "filed_kst": "2026-10-14 21:29",
-   "price": 0.75,
-   "change": -0.53,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 0.75,
-     "change": -0.53
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.75,
-     "change": -5.06
-    },
-    {
-     "date": "2026-10-12",
-     "close": 0.79,
-     "change": 2.6
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Computer Communications Equipment",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "QUEBEC",
-   "entity_category": null,
-   "detected_at": "2026-10-14T21:30:41+09:00"
   }
  ]
 }
