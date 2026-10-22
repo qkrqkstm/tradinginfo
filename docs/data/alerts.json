@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-23T05:59:31+09:00",
+ "updated_at": "2026-10-23T06:04:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-008024",
+   "company": "AUDDIA INC.",
+   "ticker": "AUUD",
+   "cik": 1554818,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Background; Pending Merger Agreement and Interim Bridge Funding for Target Companies As previously disclosed, on February 17, 2026, Auddia Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826008024/0001683168-26-008024-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826008024/auddia_8k.htm",
+   "filed_at": "2026-10-22T17:00:14-04:00",
+   "filed_kst": "2026-10-23 06:00",
+   "price": 0.93,
+   "change": -2.2,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 0.93,
+     "change": -2.2
+    },
+    {
+     "date": "2026-10-21",
+     "close": 0.95,
+     "change": 2.15
+    },
+    {
+     "date": "2026-10-20",
+     "close": 0.93,
+     "change": -7.82
+    }
+   ],
+   "market_cap": 5396836.0,
+   "shares_outstanding": 5803050.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "BOULDER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T06:00:50+09:00"
+  },
   {
    "id": "0001628280-26-066922",
    "company": "Brightstar Lottery PLC",
@@ -15596,60 +15649,6 @@
    "hq": "DUBAI (DIFC)",
    "entity_category": null,
    "detected_at": "2026-10-15T19:33:16+09:00"
-  },
-  {
-   "id": "0001193125-26-422226",
-   "company": "HAIN CELESTIAL GROUP INC",
-   "ticker": "HAIN",
-   "cik": 910406,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "8-K 0000910406 false The Hain Celestial Group, Inc. 0000910406 2026-10-09 2026-10-09 UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported)",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/910406/000119312526422226/0001193125-26-422226-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/910406/000119312526422226/hain-20261009.htm",
-   "filed_at": "2026-10-15T06:05:58-04:00",
-   "filed_kst": "2026-10-15 19:05",
-   "price": 0.58,
-   "change": -0.69,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 0.58,
-     "change": -0.69
-    },
-    {
-     "date": "2026-10-14",
-     "close": 0.58,
-     "change": 1.75
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.57,
-     "change": -8.06
-    }
-   ],
-   "market_cap": 52781316.0,
-   "shares_outstanding": 91002269.0,
-   "industry": "Food and Kindred Products",
-   "state_of_incorporation": "DE",
-   "hq": "HOBOKEN, NJ",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-15T19:08:09+09:00"
   }
  ]
 }
