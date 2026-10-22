@@ -1,7 +1,229 @@
 {
- "updated_at": "2026-10-22T21:29:10+09:00",
+ "updated_at": "2026-10-22T21:34:25+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001185185-26-004911",
+   "company": "Newbury Street II Acquisition Corp",
+   "ticker": "NTWO",
+   "cik": 2028027,
+   "form": "425",
+   "items": [
+    "1.01",
+    "3.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "EX-99.1 2 ntwo2ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 FORT Robotics Secures Approximately $20 Million in Additional Funding led by Tiger Global and Mark Cuban Companies Investors increase their commitments as FORT plans to become the first public company dedicated principally to physical AI safety PHI",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004911/0001185185-26-004911-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004911/ntwo2ex99-1.htm",
+   "filed_at": "2026-10-22T08:32:11-04:00",
+   "filed_kst": "2026-10-22 21:32",
+   "price": 10.83,
+   "change": -0.09,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 10.83,
+     "change": -0.09
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.84,
+     "change": 0.18
+    },
+    {
+     "date": "2026-10-19",
+     "close": 10.82,
+     "change": -0.05
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Electrical Industrial Apparatus",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-22T21:32:52+09:00"
+  },
+  {
+   "id": "0001829126-26-011430",
+   "company": "CXApp Inc.",
+   "ticker": "CXAI",
+   "cik": 1820875,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "3.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "1 CXAI Announces $1 Million Share Repurchase Program and Standstill Agreement with Financing Partner; Targets Positive Operating Cash Flow by Q3 2027 Strategic initiatives designed to strengthen capital structure, enhance financial discipline and support long-term shareholder value P",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1820875/000182912626011430/0001829126-26-011430-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1820875/000182912626011430/cxappinc_ex99-1.htm",
+   "filed_at": "2026-10-22T08:30:27-04:00",
+   "filed_kst": "2026-10-22 21:30",
+   "price": 1.92,
+   "change": -2.54,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 1.92,
+     "change": -2.54
+    },
+    {
+     "date": "2026-10-20",
+     "close": 1.97,
+     "change": 4.23
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1.89,
+     "change": -1.56
+    }
+   ],
+   "market_cap": 224391005.0,
+   "shares_outstanding": 116870315.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-22T21:31:18+09:00"
+  },
+  {
+   "id": "0001683168-26-008013",
+   "company": "Unusual Machines, Inc.",
+   "ticker": "UMAC",
+   "cik": 1956955,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Unusual Machines Receives $16.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1956955/000168316826008013/0001683168-26-008013-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1956955/000168316826008013/umac_ex9901.htm",
+   "filed_at": "2026-10-22T08:30:13-04:00",
+   "filed_kst": "2026-10-22 21:30",
+   "price": 16.98,
+   "change": 3.66,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 16.98,
+     "change": 3.66
+    },
+    {
+     "date": "2026-10-20",
+     "close": 16.38,
+     "change": -0.12
+    },
+    {
+     "date": "2026-10-19",
+     "close": 16.4,
+     "change": 0.55
+    }
+   ],
+   "market_cap": 848261455.0,
+   "shares_outstanding": 49956505.0,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "NV",
+   "hq": "ORLANDO, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-22T21:30:45+09:00"
+  },
+  {
+   "id": "0001185185-26-004909",
+   "company": "Newbury Street II Acquisition Corp",
+   "ticker": "NTWO",
+   "cik": 2028027,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "3.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "EX-99.1 2 ntwo2ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 FORT Robotics Secures Approximately $20 Million in Additional Funding led by Tiger Global and Mark Cuban Companies Investors increase their commitments as FORT plans to become the first public company dedicated principally to physical AI safety PHI",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004909/0001185185-26-004909-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004909/ntwo2ex99-1.htm",
+   "filed_at": "2026-10-22T08:30:17-04:00",
+   "filed_kst": "2026-10-22 21:30",
+   "price": 10.83,
+   "change": -0.09,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 10.83,
+     "change": -0.09
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.84,
+     "change": 0.18
+    },
+    {
+     "date": "2026-10-19",
+     "close": 10.82,
+     "change": -0.05
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Electrical Industrial Apparatus",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-22T21:30:43+09:00"
+  },
   {
    "id": "0001697862-26-000034",
    "company": "ARGENX SE",
@@ -15420,207 +15642,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-15T00:55:59+09:00"
-  },
-  {
-   "id": "0000863064-26-000041",
-   "company": "RIO TINTO LTD",
-   "ticker": "RTNTF",
-   "cik": 887028,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "On 19 June 2024, Baowu Resources completed the acquisition of a 49% share of WCS mine and infrastructure projects with WCS Holdings holding the remaining 51%.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/887028/000086306426000041/0000863064-26-000041-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/887028/000086306426000041/ex1prodresults.htm",
-   "filed_at": "2026-10-14T11:55:10-04:00",
-   "filed_kst": "2026-10-15 00:55",
-   "price": 112.3,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 112.3,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-13",
-     "close": 112.3,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-12",
-     "close": 112.3,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "Australia",
-   "hq": "VICTORIA 3000, C3",
-   "entity_category": null,
-   "detected_at": "2026-10-15T00:55:57+09:00"
-  },
-  {
-   "id": "0001104659-26-115791",
-   "company": "Nouveau Monde Graphite Inc.",
-   "ticker": "NMG",
-   "cik": 1649752,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "“His experience navigating complex geopolitical environments and fostering strategic partnerships across global markets will be a valuable addition to our Board as NMG pursues the execution of its vertically integrated business model.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1649752/000110465926115791/0001104659-26-115791-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1649752/000110465926115791/tm2627591d1_ex99-1.htm",
-   "filed_at": "2026-10-14T11:18:28-04:00",
-   "filed_kst": "2026-10-15 00:18",
-   "price": 1.01,
-   "change": -0.98,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 1.01,
-     "change": -0.98
-    },
-    {
-     "date": "2026-10-13",
-     "close": 1.02,
-     "change": -0.97
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.03,
-     "change": -1.9
-    }
-   ],
-   "market_cap": 162369154.0,
-   "shares_outstanding": 160761539.0,
-   "industry": "Miscellaneous Metal Ores",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "L'ANGE-GARDIEN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T00:18:52+09:00"
-  },
-  {
-   "id": "0001493152-26-046949",
-   "company": "AMERICAN REBEL HOLDINGS INC",
-   "ticker": "AREB",
-   "cik": 1648087,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "American Rebel’s relationship with the organization dates to a multiyear agreement announced in 2023 , establishing a connection that extends well beyond a single race weekend.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226046949/0001493152-26-046949-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226046949/ex99-1.htm",
-   "filed_at": "2026-10-14T11:14:23-04:00",
-   "filed_kst": "2026-10-15 00:14",
-   "price": 0.08,
-   "change": 9.59,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 0.08,
-     "change": 9.59
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.07,
-     "change": 21.67
-    },
-    {
-     "date": "2026-10-12",
-     "close": 0.06,
-     "change": -4.76
-    }
-   ],
-   "market_cap": 2279188.0,
-   "shares_outstanding": 28489850.0,
-   "industry": "Miscellaneous Fabricated Metal Products",
-   "state_of_incorporation": "NV",
-   "hq": "NASHVILLE, TN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-15T00:15:44+09:00"
-  },
-  {
-   "id": "0001178913-26-004769",
-   "company": "CAMTEK LTD",
-   "ticker": "CAMT",
-   "cik": 1109138,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "64 GAAP) (1) In October 2023 , the Company completed the acquisition of FRT.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1109138/000117891326004769/0001178913-26-004769-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1109138/000117891326004769/zk2636226.htm",
-   "filed_at": "2026-10-14T10:00:16-04:00",
-   "filed_kst": "2026-10-14 23:00",
-   "price": 136.35,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 136.35,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-14",
-     "close": 136.35,
-     "change": -4.5
-    },
-    {
-     "date": "2026-10-13",
-     "close": 142.78,
-     "change": -3.29
-    }
-   ],
-   "market_cap": 6248665935.0,
-   "shares_outstanding": 45828133.0,
-   "industry": "Optical Instruments & Lenses",
-   "state_of_incorporation": "Israel",
-   "hq": "MIGDAL HAEMEK",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T23:01:20+09:00"
   }
  ]
 }
