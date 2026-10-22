@@ -1,7 +1,473 @@
 {
- "updated_at": "2026-10-22T18:59:14+09:00",
+ "updated_at": "2026-10-22T19:04:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001046179-26-000728",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "ticker": "TSM",
+   "cik": 1046179,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 tsm-monthend6kx20261022.htm 6-K Document 1934 Act Registration No. 1-14700 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 _____________________________ FORM 6-K _____________________________ REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE S",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000728/0001046179-26-000728-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000728/tsm-monthend6kx20261022.htm",
+   "filed_at": "2026-10-22T06:02:14-04:00",
+   "filed_kst": "2026-10-22 19:02",
+   "price": 431.89,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 431.89,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 431.89,
+     "change": 1.6
+    },
+    {
+     "date": "2026-10-20",
+     "close": 425.08,
+     "change": 1.16
+    }
+   ],
+   "market_cap": 11199998015375.0,
+   "shares_outstanding": 25932524521.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": null,
+   "hq": "HSINCHU",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T19:04:05+09:00"
+  },
+  {
+   "id": "0001193125-26-428264",
+   "company": "NOMURA HOLDINGS INC",
+   "ticker": "NMR",
+   "cik": 1163653,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "At domestic subsidiaries in Japan, including Nomura Securities, with certain exceptions such as joint ventures, we are enhancing the workplace environment so that employees planning for childbirth and childcare can continue their careers without concern, regardless of gender, and are working to fost",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1163653/000119312526428264/0001193125-26-428264-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1163653/000119312526428264/d152815d6k.htm",
+   "filed_at": "2026-10-22T06:03:07-04:00",
+   "filed_kst": "2026-10-22 19:03",
+   "price": 9.22,
+   "change": 0.99,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 9.22,
+     "change": 0.99
+    },
+    {
+     "date": "2026-10-20",
+     "close": 9.13,
+     "change": 0.11
+    },
+    {
+     "date": "2026-10-19",
+     "close": 9.12,
+     "change": -1.3
+    }
+   ],
+   "market_cap": 26750329205.0,
+   "shares_outstanding": 2901337224.0,
+   "industry": "Security Brokers, Dealers & Flotation Companies",
+   "state_of_incorporation": "Japan",
+   "hq": "TOKYO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T19:04:01+09:00"
+  },
+  {
+   "id": "0001104659-26-117937",
+   "company": "SUPERNUS PHARMACEUTICALS, INC.",
+   "ticker": "SUPN",
+   "cik": 1356576,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "The seven-year market exclusivity for ONAPGO began on February 3, 2025, the date of FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1356576/000110465926117937/0001104659-26-117937-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1356576/000110465926117937/tm2628092d1_ex99-1.htm",
+   "filed_at": "2026-10-21T21:07:47-04:00",
+   "filed_kst": "2026-10-22 10:07",
+   "price": 41.21,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 41.21,
+     "change": -0.05
+    },
+    {
+     "date": "2026-10-20",
+     "close": 41.23,
+     "change": 3.49
+    },
+    {
+     "date": "2026-10-19",
+     "close": 39.84,
+     "change": 5.17
+    }
+   ],
+   "market_cap": 2395414206.0,
+   "shares_outstanding": 58127013.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "ROCKVILLE, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T19:03:22+09:00"
+  },
+  {
+   "id": "0001213900-26-111439",
+   "company": "Immuron Ltd",
+   "ticker": "IMRN",
+   "cik": 1660046,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "ProIBS ® Immuron has an exclusive distribution agreement with Calmino goup AB for the territories of Australia and New Zealand for ProIBS ® .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026111439/0001213900-26-111439-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026111439/ea030935501ex99-1.htm",
+   "filed_at": "2026-10-21T20:33:27-04:00",
+   "filed_kst": "2026-10-22 09:33",
+   "price": 0.97,
+   "change": -4.9,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 0.97,
+     "change": -4.9
+    },
+    {
+     "date": "2026-10-20",
+     "close": 1.02,
+     "change": 6.69
+    },
+    {
+     "date": "2026-10-19",
+     "close": 0.96,
+     "change": -2.65
+    }
+   ],
+   "market_cap": 313162639.0,
+   "shares_outstanding": 322848081.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "CARLTON, VICTORIA, C3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-22T19:02:49+09:00"
+  },
+  {
+   "id": "0001213900-26-111434",
+   "company": "Reborn Coffee, Inc.",
+   "ticker": "REBN",
+   "cik": 1707910,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Reborn Coffee Signs Master Product Supply Agreement with Visvita Corporation Targeting $30 Million in First-Year Supply Volume with Initial $2 million Purchase Order Already Secured BREA, Calif.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1707910/000121390026111434/0001213900-26-111434-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1707910/000121390026111434/ea030855401ex99-1.htm",
+   "filed_at": "2026-10-21T19:32:33-04:00",
+   "filed_kst": "2026-10-22 08:32",
+   "price": 1.73,
+   "change": -1.7,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 1.73,
+     "change": -1.7
+    },
+    {
+     "date": "2026-10-20",
+     "close": 1.76,
+     "change": 4.14
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1.69,
+     "change": 20.71
+    }
+   ],
+   "market_cap": 14912811.0,
+   "shares_outstanding": 8620122.0,
+   "industry": "Retail-Eating  Places",
+   "state_of_incorporation": "DE",
+   "hq": "BREA, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-22T19:02:47+09:00"
+  },
+  {
+   "id": "0001564708-26-000234",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000234/0001564708-26-000234-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000234/appendix3cclassa20261021.htm",
+   "filed_at": "2026-10-21T19:06:13-04:00",
+   "filed_kst": "2026-10-22 08:06",
+   "price": 33.27,
+   "change": -0.02,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 33.27,
+     "change": -0.02
+    },
+    {
+     "date": "2026-10-21",
+     "close": 33.28,
+     "change": -0.36
+    },
+    {
+     "date": "2026-10-20",
+     "close": 33.4,
+     "change": 1.52
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T19:02:04+09:00"
+  },
+  {
+   "id": "0001193125-26-428116",
+   "company": "Eloxx Pharmaceuticals, Inc.",
+   "ticker": "ELOX",
+   "cik": 1035354,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "8.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Exaluren has received orphan drug designations for ADPKD in the United States and in Europe.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035354/000119312526428116/0001193125-26-428116-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1035354/000119312526428116/d462611d8k.htm",
+   "filed_at": "2026-10-21T19:31:45-04:00",
+   "filed_kst": "2026-10-22 08:31",
+   "price": 13.3,
+   "change": 0.61,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 13.3,
+     "change": 0.61
+    },
+    {
+     "date": "2026-10-20",
+     "close": 13.22,
+     "change": 5.76
+    },
+    {
+     "date": "2026-10-19",
+     "close": 12.5,
+     "change": -4.07
+    }
+   ],
+   "market_cap": 53684905.0,
+   "shares_outstanding": 4036459.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "ARLINGTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-22T19:02:01+09:00"
+  },
+  {
+   "id": "0001104659-26-117888",
+   "company": "Vireo Growth Inc.",
+   "ticker": "VREOF",
+   "cik": 1771706,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a British Columbia corporation (\"Vireo\"), entered into an Agreement and Plan of Merger (the \"Merger Agreement\") with Planet 13 Holdings Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926117888/0001104659-26-117888-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926117888/tm2628083d1_425.htm",
+   "filed_at": "2026-10-21T17:44:15-04:00",
+   "filed_kst": "2026-10-22 06:44",
+   "price": 8.91,
+   "change": -0.11,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 8.91,
+     "change": -0.11
+    },
+    {
+     "date": "2026-10-20",
+     "close": 8.92,
+     "change": -1.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 9.01,
+     "change": 0.11
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "MINNEAPOLIS, MN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-22T19:00:56+09:00"
+  },
+  {
+   "id": "0001104659-26-117888",
+   "company": "Planet 13 Holdings Inc.",
+   "ticker": "PLNH",
+   "cik": 1813452,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a British Columbia corporation (\"Vireo\"), entered into an Agreement and Plan of Merger (the \"Merger Agreement\") with Planet 13 Holdings Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1813452/000110465926117888/0001104659-26-117888-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1813452/000110465926117888/tm2628083d1_425.htm",
+   "filed_at": "2026-10-21T17:44:15-04:00",
+   "filed_kst": "2026-10-22 06:44",
+   "price": 0.11,
+   "change": 2.83,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 0.11,
+     "change": 2.83
+    },
+    {
+     "date": "2026-10-20",
+     "close": 0.11,
+     "change": 3.92
+    },
+    {
+     "date": "2026-10-19",
+     "close": 0.1,
+     "change": -3.77
+    }
+   ],
+   "market_cap": 36885140.0,
+   "shares_outstanding": 335319455.0,
+   "industry": "Agricultural Production-Crops",
+   "state_of_incorporation": "NV",
+   "hq": "LAS VEGAS, NV",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-22T19:00:54+09:00"
+  },
   {
    "id": "0001104659-26-117880",
    "company": "ATII Holdings Inc.",
@@ -15153,485 +15619,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-14T19:36:26+09:00"
-  },
-  {
-   "id": "0001104659-26-115687",
-   "company": "Verastem, Inc.",
-   "ticker": "VSTM",
-   "cik": 1526119,
-   "form": "8-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 97,
-   "summary": "Potential opportunities based on data from ongoing clinical trials; BTD: breakthrough therapy designation x FDA granted Fast Track Designations in advanced/metastatic PDAC 2L advanced NSCLC Mono 1L advanced NSCLC Brain Mets Mono 2L mCRC EGFR Combo 1L mCRC EGFR + Chemo Combo 2L mPDAC mono & EGFR Comb",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926115687/0001104659-26-115687-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926115687/tm2627537d4_ex99-3.htm",
-   "filed_at": "2026-10-14T06:08:11-04:00",
-   "filed_kst": "2026-10-14 19:08",
-   "price": 7.45,
-   "change": -9.7,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 7.45,
-     "change": -9.7
-    },
-    {
-     "date": "2026-10-12",
-     "close": 8.25,
-     "change": -1.55
-    },
-    {
-     "date": "2026-10-09",
-     "close": 8.38,
-     "change": 3.33
-    }
-   ],
-   "market_cap": 674697635.0,
-   "shares_outstanding": 90563441.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "MA",
-   "hq": "NEEDHAM, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-14T19:08:59+09:00"
-  },
-  {
-   "id": "0001828316-26-000045",
-   "company": "Pharming Group N.V.",
-   "ticker": "PHAR",
-   "cik": 1828316,
-   "form": "6-K",
-   "items": [],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "1 Pharming presents positive Phase II topline data for leniolisib in genetic PIDs with immune dysregulation at ESID 2026 SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, ther",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000045/0001828316-26-000045-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000045/pharmingpresentspositiveph.htm",
-   "filed_at": "2026-10-14T06:03:16-04:00",
-   "filed_kst": "2026-10-14 19:03",
-   "price": 9.44,
-   "change": -1.77,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 9.44,
-     "change": -1.77
-    },
-    {
-     "date": "2026-10-12",
-     "close": 9.61,
-     "change": -1.84
-    },
-    {
-     "date": "2026-10-09",
-     "close": 9.79,
-     "change": 2.73
-    }
-   ],
-   "market_cap": 6623863354.0,
-   "shares_outstanding": 701680440.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Netherlands",
-   "hq": "LEIDEN, P7",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-14T19:04:39+09:00"
-  },
-  {
-   "id": "0001829126-26-011104",
-   "company": "FortuneX Acquisition Corp",
-   "ticker": "FXAC",
-   "cik": 2121703,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Amendment to Business Combination Agreement As previously disclosed, on September 18, 2026, FortuneX Acquisition Corporation, a Cayman Islands exempted company (“FortuneX”), entered into a Business Combination Agreement (the “Business Combination Agreement”) with WT Real",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626011104/0001829126-26-011104-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626011104/fortunexacq_8k.htm",
-   "filed_at": "2026-10-14T06:01:53-04:00",
-   "filed_kst": "2026-10-14 19:01",
-   "price": 10.1,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 10.1,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-12",
-     "close": 10.1,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 10.1,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 127582483.0,
-   "shares_outstanding": 12631929.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T19:04:37+09:00"
-  },
-  {
-   "id": "0001104659-26-115672",
-   "company": "Liquidia Corp",
-   "ticker": "LQDA",
-   "cik": 1819576,
-   "form": "8-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 69,
-   "summary": "YUTREPIA is not approved for the treatment of systemic sclerosis-associated Raynaud’s phenomenon (SSc-RP) or pulmonary hypertension associated with chronic obstructive pulmonary disease (PH-COPD); it has received Fast Track designation from the FDA for SSc-RP.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1819576/000110465926115672/0001104659-26-115672-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1819576/000110465926115672/tm2627557d1_ex99-1.htm",
-   "filed_at": "2026-10-13T21:49:11-04:00",
-   "filed_kst": "2026-10-14 10:49",
-   "price": 26.81,
-   "change": -3.11,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 26.81,
-     "change": -3.11
-    },
-    {
-     "date": "2026-10-12",
-     "close": 27.67,
-     "change": 1.06
-    },
-    {
-     "date": "2026-10-09",
-     "close": 27.38,
-     "change": -2.28
-    }
-   ],
-   "market_cap": 2399733368.0,
-   "shares_outstanding": 89508891.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "MORRISVILLE, NC",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-14T19:04:05+09:00"
-  },
-  {
-   "id": "0001564708-26-000221",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000221/0001564708-26-000221-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000221/appendix3cclassa20261013.htm",
-   "filed_at": "2026-10-13T21:29:43-04:00",
-   "filed_kst": "2026-10-14 10:29",
-   "price": 32.58,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 32.58,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-13",
-     "close": 32.58,
-     "change": 0.62
-    },
-    {
-     "date": "2026-10-12",
-     "close": 32.38,
-     "change": 1.16
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T19:03:33+09:00"
-  },
-  {
-   "id": "0001193125-26-420684",
-   "company": "Biomea Fusion, Inc.",
-   "ticker": "BMEA",
-   "cik": 1840439,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "파트너십",
-    "탑라인결과"
-   ],
-   "confidence": 71,
-   "summary": "1 GLP-131 Phase 1 Study of BMF-650 in Otherwise Healthy Overweight or Obese Adult Participants Week 4 Topline Results October 13, 2026 Legal Disclaimer & EX-99.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1840439/000119312526420684/0001193125-26-420684-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1840439/000119312526420684/d158362dex991.htm",
-   "filed_at": "2026-10-13T17:35:08-04:00",
-   "filed_kst": "2026-10-14 06:35",
-   "price": 1.26,
-   "change": -7.35,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 1.26,
-     "change": -7.35
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.36,
-     "change": -4.23
-    },
-    {
-     "date": "2026-10-09",
-     "close": 1.42,
-     "change": 3.65
-    }
-   ],
-   "market_cap": 91329654.0,
-   "shares_outstanding": 72483852.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN CARLOS, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T19:00:52+09:00"
-  },
-  {
-   "id": "0001104659-26-115585",
-   "company": "REDWOOD TRUST INC",
-   "ticker": "RWT",
-   "cik": 930236,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "We deliver customized housing credit investments to a diverse mix of investors, through our best-in-class securitization platforms, whole-loan distribution activities, joint ventures and our publicly traded shares.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/930236/000110465926115585/0001104659-26-115585-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/930236/000110465926115585/tm2627169d1_ex99-1.htm",
-   "filed_at": "2026-10-13T17:29:32-04:00",
-   "filed_kst": "2026-10-14 06:29",
-   "price": 3.05,
-   "change": -0.33,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 3.05,
-     "change": -0.33
-    },
-    {
-     "date": "2026-10-12",
-     "close": 3.06,
-     "change": -3.47
-    },
-    {
-     "date": "2026-10-09",
-     "close": 3.17,
-     "change": -4.8
-    }
-   ],
-   "market_cap": 383117918.0,
-   "shares_outstanding": 125612432.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "MILL VALLEY, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T06:30:48+09:00"
-  },
-  {
-   "id": "0001731122-26-001340",
-   "company": "VisionWave Holdings, Inc.",
-   "ticker": "VWAV",
-   "cik": 2038439,
-   "form": "8-K",
-   "items": [
-    "1.02",
-    "3.02",
-    "9.01"
-   ],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "Upon issuance of the VisionWave Consideration Shares, such issuance shall constitute full and final consideration to Sadot with respect to VisionWave’s retention of the Entry Premium Shares, and Sadot shall have no right or claim to the return, surrender or cancellation of any Entry Premium Shares.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001340/0001731122-26-001340-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001340/e8004_ex10-1.htm",
-   "filed_at": "2026-10-13T17:29:52-04:00",
-   "filed_kst": "2026-10-14 06:29",
-   "price": 4.39,
-   "change": -2.88,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 4.39,
-     "change": -2.88
-    },
-    {
-     "date": "2026-10-12",
-     "close": 4.52,
-     "change": -21.25
-    },
-    {
-     "date": "2026-10-09",
-     "close": 5.74,
-     "change": 11.67
-    }
-   ],
-   "market_cap": 126616683.0,
-   "shares_outstanding": 28842069.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "WEST HOLLYWOOD, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T06:30:47+09:00"
-  },
-  {
-   "id": "0001731122-26-001341",
-   "company": "Sadot Group Inc.",
-   "ticker": "SDOT",
-   "cik": 1701756,
-   "form": "8-K",
-   "items": [
-    "1.02",
-    "3.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "Upon issuance of the VisionWave Consideration Shares, such issuance shall constitute full and final consideration to Sadot with respect to VisionWave’s retention of the Entry Premium Shares, and Sadot shall have no right or claim to the return, surrender or cancellation of any Entry Premium Shares.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001341/0001731122-26-001341-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001341/e8005_ex10-1.htm",
-   "filed_at": "2026-10-13T17:30:20-04:00",
-   "filed_kst": "2026-10-14 06:30",
-   "price": 8.88,
-   "change": -1.11,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 8.88,
-     "change": -1.11
-    },
-    {
-     "date": "2026-10-12",
-     "close": 8.98,
-     "change": -1.1
-    },
-    {
-     "date": "2026-10-09",
-     "close": 9.08,
-     "change": -8.19
-    }
-   ],
-   "market_cap": 11721733.0,
-   "shares_outstanding": 1320015.0,
-   "industry": "Retail-Eating & Drinking Places",
-   "state_of_incorporation": "NV",
-   "hq": "BURLESON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T06:30:45+09:00"
   }
  ]
 }
