@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-22T19:09:36+09:00",
+ "updated_at": "2026-10-22T19:14:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-428275",
+   "company": "Gentherm Inc",
+   "ticker": "THRM",
+   "cik": 903129,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 66,
+   "summary": "• In July, the Board of Directors authorized a new stock repurchase program of up to $400 million of the Company’s issued and outstanding common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526428275/0001193125-26-428275-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526428275/thrm-ex99_1.htm",
+   "filed_at": "2026-10-22T06:10:14-04:00",
+   "filed_kst": "2026-10-22 19:10",
+   "price": 28.44,
+   "change": -2.84,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 28.44,
+     "change": -2.84
+    },
+    {
+     "date": "2026-10-20",
+     "close": 29.27,
+     "change": 2.31
+    },
+    {
+     "date": "2026-10-19",
+     "close": 28.61,
+     "change": -1.48
+    }
+   ],
+   "market_cap": 873256116.0,
+   "shares_outstanding": 30705208.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "MI",
+   "hq": "NOVI, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T19:11:04+09:00"
+  },
   {
    "id": "0001493152-26-047966",
    "company": "Pulmatrix, Inc.",
@@ -15567,56 +15622,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-14T20:16:01+09:00"
-  },
-  {
-   "id": "0001104659-26-115723",
-   "company": "UNITED THERAPEUTICS Corp",
-   "ticker": "UTHR",
-   "cik": 1082554,
-   "form": "8-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "8 “ Infringing Liquidia Product ” means all of the pharmaceutical products (including all dosages, strengths, and packaging) approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926115723/0001104659-26-115723-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926115723/tm2627546d1_ex99-1.htm",
-   "filed_at": "2026-10-14T07:00:31-04:00",
-   "filed_kst": "2026-10-14 20:00",
-   "price": 543.4,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 543.4,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-13",
-     "close": 543.4,
-     "change": -1.22
-    },
-    {
-     "date": "2026-10-12",
-     "close": 550.1,
-     "change": 0.17
-    }
-   ],
-   "market_cap": 23306802033.0,
-   "shares_outstanding": 42890692.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SILVER SPRING, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T20:01:20+09:00"
   }
  ]
 }
