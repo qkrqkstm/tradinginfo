@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-10-22T20:29:09+09:00",
+ "updated_at": "2026-10-22T20:34:25+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001482981-26-000183",
+   "company": "Vita Coco Company, Inc.",
+   "ticker": "COCO",
+   "cik": 1482981,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "As of September 30, 2026, the Company had repurchased approximately $86 million of its common stock under its share repurchase program and had $19 million remaining under the existing authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1482981/000148298126000183/0001482981-26-000183-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1482981/000148298126000183/coco-20260930xexx991pressr.htm",
+   "filed_at": "2026-10-22T07:32:07-04:00",
+   "filed_kst": "2026-10-22 20:32",
+   "price": 63.5,
+   "change": 2.8,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 63.5,
+     "change": 2.8
+    },
+    {
+     "date": "2026-10-20",
+     "close": 61.77,
+     "change": 4.55
+    },
+    {
+     "date": "2026-10-19",
+     "close": 59.08,
+     "change": 0.66
+    }
+   ],
+   "market_cap": 3644714707.0,
+   "shares_outstanding": 57397082.0,
+   "industry": "Beverages",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:32:36+09:00"
+  },
+  {
+   "id": "0001193125-26-428324",
+   "company": "Lantheus Holdings, Inc.",
+   "ticker": "LNTH",
+   "cik": 1521036,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Delaware corporation (“Lantheus” or the “Company”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) by and among the Company, Curium US Holdings LLC, a Delaware limited liability company (“Parent”), and Coco Merger Sub Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526428324/0001193125-26-428324-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526428324/d19181d8k.htm",
+   "filed_at": "2026-10-22T07:30:06-04:00",
+   "filed_kst": "2026-10-22 20:30",
+   "price": 100.24,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 100.24,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 100.24,
+     "change": -0.15
+    },
+    {
+     "date": "2026-10-20",
+     "close": 100.39,
+     "change": 0.47
+    }
+   ],
+   "market_cap": 6542902269.0,
+   "shares_outstanding": 65272369.0,
+   "industry": "In Vitro & In Vivo Diagnostic Substances",
+   "state_of_incorporation": "DE",
+   "hq": "BEDFORD, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:31:32+09:00"
+  },
   {
    "id": "0001120193-26-000017",
    "company": "NASDAQ, INC.",
@@ -15501,111 +15607,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-14T22:00:56+09:00"
-  },
-  {
-   "id": "0001193125-26-421079",
-   "company": "Ultragenyx Pharmaceutical Inc.",
-   "ticker": "RARE",
-   "cik": 1515673,
-   "form": "8-K",
-   "items": [
-    "1.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "(the “Company”) entered into an asset purchase agreement (the “PRV Asset Purchase Agreement”), pursuant to which the Company agreed to sell a Rare Pediatric Disease Priority Review Voucher (“PRV”) to the buyer.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526421079/0001193125-26-421079-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526421079/rare-20261008.htm",
-   "filed_at": "2026-10-14T09:00:14-04:00",
-   "filed_kst": "2026-10-14 22:00",
-   "price": 14.92,
-   "change": -2.48,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 14.92,
-     "change": -2.48
-    },
-    {
-     "date": "2026-10-12",
-     "close": 15.3,
-     "change": -1.16
-    },
-    {
-     "date": "2026-10-09",
-     "close": 15.48,
-     "change": 1.24
-    }
-   ],
-   "market_cap": 1470945985.0,
-   "shares_outstanding": 98588873.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NOVATO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T22:00:54+09:00"
-  },
-  {
-   "id": "0001570585-26-000139",
-   "company": "Liberty Global Ltd.",
-   "ticker": "LBTYA",
-   "cik": 1570585,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The business generates aggregate revenue of $22 billion, including approximately $13 billion from the nonconsolidated VMO2 joint venture and $9 billion* from consolidated operations.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000139/0001570585-26-000139-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000139/ex991-libertyglobalannounc.htm",
-   "filed_at": "2026-10-14T09:00:24-04:00",
-   "filed_kst": "2026-10-14 22:00",
-   "price": 8.55,
-   "change": -0.12,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 8.55,
-     "change": -0.12
-    },
-    {
-     "date": "2026-10-12",
-     "close": 8.56,
-     "change": -1.15
-    },
-    {
-     "date": "2026-10-09",
-     "close": 8.66,
-     "change": -3.02
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Cable & Other Pay Television Services",
-   "state_of_incorporation": null,
-   "hq": "HAMILTON, D0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T22:00:52+09:00"
   }
  ]
 }
