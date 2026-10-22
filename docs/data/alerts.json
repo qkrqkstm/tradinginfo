@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-23T02:09:23+09:00",
+ "updated_at": "2026-10-23T02:14:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000840489-26-000097",
+   "company": "FirstCash Holdings, Inc.",
+   "ticker": "FCFS",
+   "cik": 840489,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "The Company has $50 million remaining on the share repurchase program authorized in July 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000097/0000840489-26-000097-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000097/fcfs10222026exhibit991.htm",
+   "filed_at": "2026-10-22T13:12:33-04:00",
+   "filed_kst": "2026-10-23 02:12",
+   "price": 189.41,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 189.41,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 189.41,
+     "change": -12.61
+    },
+    {
+     "date": "2026-10-21",
+     "close": 216.75,
+     "change": 0.92
+    }
+   ],
+   "market_cap": 8215052638.0,
+   "shares_outstanding": 43371800.0,
+   "industry": "Retail-Miscellaneous Retail",
+   "state_of_incorporation": "TX",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T02:13:16+09:00"
+  },
   {
    "id": "0001171843-26-006766",
    "company": "GREAT SOUTHERN BANCORP, INC.",
@@ -15597,57 +15651,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-15T05:21:03+09:00"
-  },
-  {
-   "id": "0001376474-26-000646",
-   "company": "ZenaTech, Inc.",
-   "ticker": "ZENA",
-   "cik": 1997403,
-   "form": "6-K",
-   "items": [],
-   "primary": "지수편입",
-   "primary_key": "index",
-   "emoji": "📈",
-   "types": [
-    "지수편입"
-   ],
-   "confidence": 57,
-   "summary": "In June 2026, ZenaTech was added to the Russell 3000® Index, an important market-recognition milestone as we continue to expand the Company.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1997403/000137647426000646/0001376474-26-000646-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1997403/000137647426000646/zt_ex99z1.htm",
-   "filed_at": "2026-10-14T16:18:00-04:00",
-   "filed_kst": "2026-10-15 05:18",
-   "price": 1.09,
-   "change": 1.87,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 1.09,
-     "change": 1.87
-    },
-    {
-     "date": "2026-10-13",
-     "close": 1.07,
-     "change": -1.83
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.09,
-     "change": -1.8
-    }
-   ],
-   "market_cap": 52342765.0,
-   "shares_outstanding": 48020885.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "VANCOUVER, A1",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T05:18:42+09:00"
   }
  ]
 }
