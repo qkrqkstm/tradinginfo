@@ -1,7 +1,163 @@
 {
- "updated_at": "2026-10-23T05:14:34+09:00",
+ "updated_at": "2026-10-23T05:19:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000230557-26-000024",
+   "company": "SELECTIVE INSURANCE GROUP INC",
+   "ticker": "SIGI",
+   "cik": 230557,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 70,
+   "summary": "9% Quarterly Dividend Increased 12%; New $200 Million Share Repurchase Program Authorized In the third quarter of 2026: • The GAAP combined ratio was 96.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/230557/000023055726000024/0000230557-26-000024-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/230557/000023055726000024/pressreleasesupplementexh9.htm",
+   "filed_at": "2026-10-22T16:18:10-04:00",
+   "filed_kst": "2026-10-23 05:18",
+   "price": 91.74,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 91.74,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 91.74,
+     "change": 0.72
+    },
+    {
+     "date": "2026-10-21",
+     "close": 91.08,
+     "change": 1.83
+    }
+   ],
+   "market_cap": 5464870977.0,
+   "shares_outstanding": 59569119.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": "NJ",
+   "hq": "BRANCHVILLE, NJ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:18:59+09:00"
+  },
+  {
+   "id": "0000887343-26-000184",
+   "company": "COLUMBIA BANKING SYSTEM, INC.",
+   "ticker": "COLB",
+   "cik": 887343,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "2 billion share repurchase program, reflecting confidence in our long-term strategy and our outlook for continued excess capital generation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000184/0000887343-26-000184-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000184/colb-20260930ex991earnings.htm",
+   "filed_at": "2026-10-22T16:15:56-04:00",
+   "filed_kst": "2026-10-23 05:15",
+   "price": 29.89,
+   "change": 2.36,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 29.89,
+     "change": 2.36
+    },
+    {
+     "date": "2026-10-21",
+     "close": 29.2,
+     "change": 0.72
+    },
+    {
+     "date": "2026-10-20",
+     "close": 28.99,
+     "change": 2.33
+    }
+   ],
+   "market_cap": 8455948791.0,
+   "shares_outstanding": 282902268.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "WA",
+   "hq": "TACOMA, WA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:16:43+09:00"
+  },
+  {
+   "id": "0001171843-26-006779",
+   "company": "CHEMUNG FINANCIAL CORP",
+   "ticker": "CHMG",
+   "cik": 763563,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 71,
+   "summary": "Other Items As previously announced on January 8, 2021, the Corporation's Board of Directors approved a stock repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/763563/000117184326006779/0001171843-26-006779-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/763563/000117184326006779/exh_991.htm",
+   "filed_at": "2026-10-22T16:15:14-04:00",
+   "filed_kst": "2026-10-23 05:15",
+   "price": 83.23,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 83.23,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 83.23,
+     "change": 1.94
+    },
+    {
+     "date": "2026-10-21",
+     "close": 81.65,
+     "change": 0.54
+    }
+   ],
+   "market_cap": 401291115.0,
+   "shares_outstanding": 4821472.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "NY",
+   "hq": "ELMIRA, NY",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-23T05:16:07+09:00"
+  },
   {
    "id": "0001104659-26-118157",
    "company": "Alpine Income Property Trust, Inc.",
@@ -15495,162 +15651,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-15T06:12:05+09:00"
-  },
-  {
-   "id": "0001104659-26-115871",
-   "company": "Transocean Ltd.",
-   "ticker": "RIG",
-   "cik": 1451505,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Swiss corporation (“ Transocean ”), and Valaris Limited , an exempted company limited by shares incorporated under the laws of Bermuda (“ Valaris ”), entered into a Business Combination Agreement (the “ Agreement ”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1451505/000110465926115871/0001104659-26-115871-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1451505/000110465926115871/tm269762d11_8k.htm",
-   "filed_at": "2026-10-14T17:07:40-04:00",
-   "filed_kst": "2026-10-15 06:07",
-   "price": 5.58,
-   "change": -1.24,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 5.58,
-     "change": -1.24
-    },
-    {
-     "date": "2026-10-13",
-     "close": 5.65,
-     "change": 0.89
-    },
-    {
-     "date": "2026-10-12",
-     "close": 5.6,
-     "change": 1.63
-    }
-   ],
-   "market_cap": 6232190874.0,
-   "shares_outstanding": 1116880085.0,
-   "industry": "Drilling Oil & Gas Wells",
-   "state_of_incorporation": "Switzerland",
-   "hq": "STEINHAUSEN, V8",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T06:08:33+09:00"
-  },
-  {
-   "id": "0001104659-26-115864",
-   "company": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
-   "ticker": "IIPR",
-   "cik": 1677576,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-1.1 2 tm2627350d1_ex1-1.htm EXHIBIT 1.1 Exhibit 1.1 Execution Version 2,000,000 Shares Innovative Industrial Properties, Inc. 9.25% Series B Cumulative Redeemable Preferred Stock UNDERWRITING AGREEMENT October 8, 2026 Stifel, Nicolaus & Company, Incorporated As Representative of the several Under",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1677576/000110465926115864/0001104659-26-115864-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1677576/000110465926115864/tm2627350d1_ex1-1.htm",
-   "filed_at": "2026-10-14T16:46:55-04:00",
-   "filed_kst": "2026-10-15 05:46",
-   "price": 51.43,
-   "change": -0.23,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 51.43,
-     "change": -0.23
-    },
-    {
-     "date": "2026-10-13",
-     "close": 51.55,
-     "change": 0.7
-    },
-    {
-     "date": "2026-10-12",
-     "close": 51.19,
-     "change": -1.23
-    }
-   ],
-   "market_cap": 1417994479.0,
-   "shares_outstanding": 27571349.0,
-   "industry": "Real Estate",
-   "state_of_incorporation": null,
-   "hq": "PARK CITY, UT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T05:47:35+09:00"
-  },
-  {
-   "id": "0002029118-26-000117",
-   "company": "INFINITY NATURAL RESOURCES, INC.",
-   "ticker": "INR",
-   "cik": 2029118,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Overall, the combined effect of realized settlements and unrealized valuation changes resulted in a total derivative loss of approximately $64.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2029118/000202911826000117/0002029118-26-000117-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2029118/000202911826000117/inr3q26impactofderivativec.htm",
-   "filed_at": "2026-10-14T16:46:26-04:00",
-   "filed_kst": "2026-10-15 05:46",
-   "price": 13.29,
-   "change": -4.32,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 13.29,
-     "change": -4.32
-    },
-    {
-     "date": "2026-10-13",
-     "close": 13.89,
-     "change": 2.74
-    },
-    {
-     "date": "2026-10-12",
-     "close": 13.52,
-     "change": 1.35
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "MORGANTOWN, WV",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T05:47:02+09:00"
   }
  ]
 }
