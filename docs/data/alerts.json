@@ -1,7 +1,110 @@
 {
- "updated_at": "2026-10-23T05:04:33+09:00",
+ "updated_at": "2026-10-23T05:09:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001609151-26-000115",
+   "company": "Weave Communications, Inc.",
+   "ticker": "WEAV",
+   "cik": 1609151,
+   "form": "8-K",
+   "items": [
+    "5.07"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": ", a Delaware corporation (the “Company”), held a special meeting of stockholders (the “Special Meeting”) to consider certain proposals related to the Agreement and Plan of Merger, dated as of August 18, 2026 (the “Merger Agreement”), by and among the Company, Willow Parent, LLC, a Delaware limited l",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609151/000160915126000115/0001609151-26-000115-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1609151/000160915126000115/weav-20261022.htm",
+   "filed_at": "2026-10-22T16:06:03-04:00",
+   "filed_kst": "2026-10-23 05:06",
+   "price": 7.4,
+   "change": 0.14,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 7.4,
+     "change": 0.14
+    },
+    {
+     "date": "2026-10-21",
+     "close": 7.39,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 7.39,
+     "change": -0.14
+    }
+   ],
+   "market_cap": 591993481.0,
+   "shares_outstanding": 79999119.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "LEHI, UT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T05:06:35+09:00"
+  },
+  {
+   "id": "0000099780-26-000131",
+   "company": "TRINITY INDUSTRIES INC",
+   "ticker": "TRN",
+   "cik": 99780,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 61,
+   "summary": "EX-10.1 2 exhibit101-termloanagreeme.htm EX-10.1 Document Exhibit 10.1 EXECUTION VERSION TERM LOAN AGREEMENT dated as of October 19, 2026 among TRINITY RAIL LEASING 2026 LLC, as Borrower, THE LENDERS FROM TIME TO TIME PARTY HERETO, REGIONS BANK, as Administrative Agent, U.S. BANK TRUST COMPANY, NATI",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/99780/000009978026000131/0000099780-26-000131-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/99780/000009978026000131/exhibit101-termloanagreeme.htm",
+   "filed_at": "2026-10-22T16:04:34-04:00",
+   "filed_kst": "2026-10-23 05:04",
+   "price": 25.84,
+   "change": 2.42,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 25.84,
+     "change": 2.42
+    },
+    {
+     "date": "2026-10-21",
+     "close": 25.23,
+     "change": 1.65
+    },
+    {
+     "date": "2026-10-20",
+     "close": 24.82,
+     "change": -0.2
+    }
+   ],
+   "market_cap": 2058659518.0,
+   "shares_outstanding": 79669486.0,
+   "industry": "Railroad Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:05:27+09:00"
+  },
   {
    "id": "0001163370-26-000034",
    "company": "NORTHRIM BANCORP INC",
@@ -15552,109 +15655,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-15T05:31:30+09:00"
-  },
-  {
-   "id": "0001193125-26-421732",
-   "company": "Lantheus Holdings, Inc.",
-   "ticker": "LNTH",
-   "cik": 1521036,
-   "form": "8-K",
-   "items": [
-    "5.07"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "Proposal 1: Merger Agreement Proposal Lantheus stockholders approved the adoption of the Agreement and Plan of Merger, dated as of August 3, 2026 (as it may be amended and supplemented from time to time, the “merger agreement”), by and among Lantheus, Curium US Holdings",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526421732/0001193125-26-421732-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526421732/d183496d8k.htm",
-   "filed_at": "2026-10-14T16:30:26-04:00",
-   "filed_kst": "2026-10-15 05:30",
-   "price": 100.0,
-   "change": -0.02,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 100.0,
-     "change": -0.02
-    },
-    {
-     "date": "2026-10-13",
-     "close": 100.02,
-     "change": -0.09
-    },
-    {
-     "date": "2026-10-12",
-     "close": 100.11,
-     "change": -0.04
-    }
-   ],
-   "market_cap": 6527236900.0,
-   "shares_outstanding": 65272369.0,
-   "industry": "In Vitro & In Vivo Diagnostic Substances",
-   "state_of_incorporation": "DE",
-   "hq": "BEDFORD, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T05:31:27+09:00"
-  },
-  {
-   "id": "0001193125-26-421733",
-   "company": "StubHub Holdings, Inc.",
-   "ticker": "STUB",
-   "cik": 1337634,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 64,
-   "summary": "Notwithstanding the preceding or any provision of Section 13d-3 of the Exchange Act, (i) a Person or group shall not be deemed to beneficially own Voting Stock subject to a stock or asset purchase agreement, merger agreement, option agreement, warrant agreement or similar agreement (or voting or opt",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1337634/000119312526421733/0001193125-26-421733-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1337634/000119312526421733/d180521dex991.htm",
-   "filed_at": "2026-10-14T16:30:31-04:00",
-   "filed_kst": "2026-10-15 05:30",
-   "price": 5.58,
-   "change": -4.78,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 5.58,
-     "change": -4.78
-    },
-    {
-     "date": "2026-10-13",
-     "close": 5.86,
-     "change": -1.68
-    },
-    {
-     "date": "2026-10-12",
-     "close": 5.96,
-     "change": -2.61
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Miscellaneous Amusement & Recreation",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-15T05:31:24+09:00"
   }
  ]
 }
