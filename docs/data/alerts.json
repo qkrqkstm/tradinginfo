@@ -1,7 +1,166 @@
 {
- "updated_at": "2026-10-23T05:29:04+09:00",
+ "updated_at": "2026-10-23T05:34:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001032033-26-000051",
+   "company": "SLM Corp",
+   "ticker": "SLM",
+   "cik": 1032033,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "30, 2026, $111 million of capacity remained available under the Company’s 2026 Share Repurchase Program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1032033/000103203326000051/0001032033-26-000051-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1032033/000103203326000051/slm102226ex991.htm",
+   "filed_at": "2026-10-22T16:32:31-04:00",
+   "filed_kst": "2026-10-23 05:32",
+   "price": 21.76,
+   "change": -4.69,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 21.76,
+     "change": -4.69
+    },
+    {
+     "date": "2026-10-21",
+     "close": 22.83,
+     "change": 2.56
+    },
+    {
+     "date": "2026-10-20",
+     "close": 22.26,
+     "change": 3.2
+    }
+   ],
+   "market_cap": 4089725806.0,
+   "shares_outstanding": 187946958.0,
+   "industry": "Personal Credit Institutions",
+   "state_of_incorporation": "DE",
+   "hq": "NEWARK, DE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:33:07+09:00"
+  },
+  {
+   "id": "0001571283-26-000058",
+   "company": "Rexford Industrial Realty, Inc.",
+   "ticker": "REXR",
+   "cik": 1571283,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "3 million remaining available under its current stock repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571283/000157128326000058/0001571283-26-000058-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1571283/000157128326000058/rexrex992q3-2026.htm",
+   "filed_at": "2026-10-22T16:28:26-04:00",
+   "filed_kst": "2026-10-23 05:28",
+   "price": 36.28,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 36.28,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 36.28,
+     "change": -1.41
+    },
+    {
+     "date": "2026-10-21",
+     "close": 36.8,
+     "change": -0.84
+    }
+   ],
+   "market_cap": 8090009139.0,
+   "shares_outstanding": 222988124.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:30:46+09:00"
+  },
+  {
+   "id": "0001350593-26-000040",
+   "company": "Mueller Water Products, Inc.",
+   "ticker": "MWA",
+   "cik": 1350593,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 83,
+   "summary": "Additional Share Repurchase Authorization On October 22, 2026, the Board also authorized the repurchase of up to an additional $300 million of the Company’s common stock under its existing stock repurchase program, effective immediately.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000040/0001350593-26-000040-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000040/mwa-20261022.htm",
+   "filed_at": "2026-10-22T16:28:40-04:00",
+   "filed_kst": "2026-10-23 05:28",
+   "price": 22.27,
+   "change": 1.88,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 22.27,
+     "change": 1.88
+    },
+    {
+     "date": "2026-10-21",
+     "close": 21.86,
+     "change": -0.59
+    },
+    {
+     "date": "2026-10-20",
+     "close": 21.99,
+     "change": 1.1
+    }
+   ],
+   "market_cap": 3476918871.0,
+   "shares_outstanding": 156125679.0,
+   "industry": "Miscellaneous Fabricated Metal Products",
+   "state_of_incorporation": "DE",
+   "hq": "ATLANTA, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:30:44+09:00"
+  },
   {
    "id": "0001171843-26-006780",
    "company": "TRANSALTA CORP",
@@ -15495,161 +15654,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-15T19:03:23+09:00"
-  },
-  {
-   "id": "0001193125-26-421830",
-   "company": "Fox Corp",
-   "ticker": "FOX",
-   "cik": 1754301,
-   "form": "8-K",
-   "items": [
-    "5.07"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "As previously disclosed, on June 14, 2026, Fox Corporation (“FOX” or the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Falcon Merger Sub 1, Inc.",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526421830/0001193125-26-421830-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526421830/d128102d8k.htm",
-   "filed_at": "2026-10-14T17:26:48-04:00",
-   "filed_kst": "2026-10-15 06:26",
-   "price": 55.68,
-   "change": -0.45,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 55.68,
-     "change": -0.45
-    },
-    {
-     "date": "2026-10-13",
-     "close": 55.93,
-     "change": -0.09
-    },
-    {
-     "date": "2026-10-12",
-     "close": 55.98,
-     "change": 0.16
-    }
-   ],
-   "market_cap": 56.0,
-   "shares_outstanding": 1.0,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T06:27:40+09:00"
-  },
-  {
-   "id": "0001193125-26-421820",
-   "company": "ImmunityBio, Inc.",
-   "ticker": "IBRX",
-   "cik": 1326110,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "EX-99.1 2 d188887dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 NEWS RELEASE FDA Expands ANKTIVA ® Approval for BCG-Unresponsive Non-Muscle- Invasive Bladder Cancer to Cover Both Papillary and CIS Disease • Expanded indication extends ANKTIVA plus BCG to patients with BCG-unresponsive non-muscle-invasive b",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1326110/000119312526421820/0001193125-26-421820-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326110/000119312526421820/d188887dex991.htm",
-   "filed_at": "2026-10-14T17:19:04-04:00",
-   "filed_kst": "2026-10-15 06:19",
-   "price": 9.91,
-   "change": 1.12,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 9.91,
-     "change": 1.12
-    },
-    {
-     "date": "2026-10-13",
-     "close": 9.8,
-     "change": -3.16
-    },
-    {
-     "date": "2026-10-12",
-     "close": 10.12,
-     "change": -3.71
-    }
-   ],
-   "market_cap": 10502977465.0,
-   "shares_outstanding": 1059836273.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T06:20:34+09:00"
-  },
-  {
-   "id": "0001292814-26-004932",
-   "company": "TELEFONICA BRASIL S.A.",
-   "ticker": "VIV",
-   "cik": 1066119,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Given the Company's Share Buyback Program in effect, the value per share may be subject to change, considering the Company's shareholding position to be verified on October 26, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1066119/000129281426004932/0001292814-26-004932-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1066119/000129281426004932/viv20261014_6k2.htm",
-   "filed_at": "2026-10-14T17:17:34-04:00",
-   "filed_kst": "2026-10-15 06:17",
-   "price": 12.32,
-   "change": 0.41,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 12.32,
-     "change": 0.41
-    },
-    {
-     "date": "2026-10-13",
-     "close": 12.27,
-     "change": 0.9
-    },
-    {
-     "date": "2026-10-12",
-     "close": 12.16,
-     "change": -0.33
-    }
-   ],
-   "market_cap": 39369870257.0,
-   "shares_outstanding": 3195606352.0,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": null,
-   "hq": "SAO PAULO-SP, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T06:18:13+09:00"
   }
  ]
 }
