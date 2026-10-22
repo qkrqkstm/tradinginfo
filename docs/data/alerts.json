@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-22T22:09:38+09:00",
+ "updated_at": "2026-10-22T22:14:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-048029",
+   "company": "Data443 Risk Mitigation, Inc.",
+   "ticker": "ATDS",
+   "cik": 1068689,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "In October 2026, Proofpoint agreed to acquire Varonis — an Israeli-founded data security company and a direct competitor of Data443 — for approximately $6.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226048029/0001493152-26-048029-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226048029/ex99-1.htm",
+   "filed_at": "2026-10-22T09:10:21-04:00",
+   "filed_kst": "2026-10-22 22:10",
+   "price": 0.0,
+   "change": -50.0,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 0.0,
+     "change": -50.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 0.0,
+     "change": 33.33
+    },
+    {
+     "date": "2026-10-19",
+     "close": 0.0,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 1313420344.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "NV",
+   "hq": "RESEARCH TRIANGLE PARK, NC",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-22T22:11:03+09:00"
+  },
   {
    "id": "0001213900-26-111505",
    "company": "Wearable Devices Ltd.",
@@ -15593,57 +15646,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-15T05:06:30+09:00"
-  },
-  {
-   "id": "0001213900-26-109385",
-   "company": "Clear Channel Outdoor Holdings, Inc.",
-   "ticker": "CCO",
-   "cik": 1334978,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "EX-99.1 5 ea030842201ex99-1.htm JOINT PRESS RELEASE, DATED OCTOBER 14, 2026 Exhibit 99.1 Clear Channel Outdoor Holdings, Inc. Announces Completion of Acquisition by Mubadala Capital SAN ANTONIO, October 14, 2026 – Clear Channel Outdoor Holdings, Inc. (“Clear Channel” or the “Company”), a leader in U",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026109385/0001213900-26-109385-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026109385/ea030842201ex99-1.htm",
-   "filed_at": "2026-10-14T15:32:21-04:00",
-   "filed_kst": "2026-10-15 04:32",
-   "price": 2.43,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 2.43,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-13",
-     "close": 2.43,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-12",
-     "close": 2.43,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 1237098043.0,
-   "shares_outstanding": 509093845.0,
-   "industry": "Services-Advertising",
-   "state_of_incorporation": null,
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-15T04:33:14+09:00"
   }
  ]
 }
