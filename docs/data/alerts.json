@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-22T20:09:10+09:00",
+ "updated_at": "2026-10-22T20:14:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009093",
+   "company": "ASTRAZENECA PLC",
+   "ticker": "AZN",
+   "cik": 901832,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "1 The trial is ongoing and will assess the primary endpoint of change from baseline in estimated glomerular filtration rate (eGFR) at week 106, with data intended to support traditional FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009093/0001654954-26-009093-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009093/a9580z.htm",
+   "filed_at": "2026-10-22T07:10:20-04:00",
+   "filed_kst": "2026-10-22 20:10",
+   "price": 168.45,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 168.45,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 168.45,
+     "change": -0.22
+    },
+    {
+     "date": "2026-10-20",
+     "close": 168.82,
+     "change": 2.97
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "CAMBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:11:05+09:00"
+  },
   {
    "id": "0001828316-26-000047",
    "company": "Pharming Group N.V.",
@@ -15553,60 +15603,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-14T21:44:08+09:00"
-  },
-  {
-   "id": "0001628280-26-065826",
-   "company": "Vir Biotechnology, Inc.",
-   "ticker": "VIR",
-   "cik": 1706431,
-   "form": "8-K",
-   "items": [
-    "3.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 64,
-   "summary": "(Gilead) entered into a Collaboration and License Agreement (the Agreement), pursuant to which Vir Bio and Gilead will enter into a global strategic collaboration to discover and engineer three novel PRO-XTEN ® dual-masked T-cell engager (TCE) development candidates targeting selecte",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1706431/000162828026065826/0001628280-26-065826-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1706431/000162828026065826/vir-20261009.htm",
-   "filed_at": "2026-10-14T08:35:20-04:00",
-   "filed_kst": "2026-10-14 21:35",
-   "price": 10.61,
-   "change": -6.11,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 10.61,
-     "change": -6.11
-    },
-    {
-     "date": "2026-10-12",
-     "close": 11.3,
-     "change": -3.42
-    },
-    {
-     "date": "2026-10-09",
-     "close": 11.7,
-     "change": 5.22
-    }
-   ],
-   "market_cap": 1795381314.0,
-   "shares_outstanding": 169215958.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-14T21:35:59+09:00"
   }
  ]
 }
