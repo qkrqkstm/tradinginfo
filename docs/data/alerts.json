@@ -1,7 +1,218 @@
 {
- "updated_at": "2026-10-23T05:19:34+09:00",
+ "updated_at": "2026-10-23T05:24:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001730984-26-000081",
+   "company": "BayCom Corp",
+   "ticker": "BCML",
+   "cik": 1730984,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "배당"
+   ],
+   "confidence": 58,
+   "summary": "8 million decrease in salaries and employee benefits, as the prior quarter included $10.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1730984/000173098426000081/0001730984-26-000081-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1730984/000173098426000081/bcml-ex99d1.htm",
+   "filed_at": "2026-10-22T16:23:20-04:00",
+   "filed_kst": "2026-10-23 05:23",
+   "price": 31.9,
+   "change": 2.47,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 31.9,
+     "change": 2.47
+    },
+    {
+     "date": "2026-10-21",
+     "close": 31.13,
+     "change": -0.42
+    },
+    {
+     "date": "2026-10-20",
+     "close": 31.26,
+     "change": 0.77
+    }
+   ],
+   "market_cap": 348351732.0,
+   "shares_outstanding": 10920117.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "WALNUT CREEK, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:24:17+09:00"
+  },
+  {
+   "id": "0001628280-26-066902",
+   "company": "Dream Finders Homes, Inc.",
+   "ticker": "DFH",
+   "cik": 1825088,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation (“Beazer”), pursuant to the Agreement and Plan of Merger, dated as of August 6, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026066902/0001628280-26-066902-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026066902/dream-20261022.htm",
+   "filed_at": "2026-10-22T16:23:34-04:00",
+   "filed_kst": "2026-10-23 05:23",
+   "price": 10.12,
+   "change": 12.2,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 10.12,
+     "change": 12.2
+    },
+    {
+     "date": "2026-10-21",
+     "close": 9.02,
+     "change": -5.94
+    },
+    {
+     "date": "2026-10-20",
+     "close": 9.59,
+     "change": 10.87
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Operative Builders",
+   "state_of_incorporation": "TX",
+   "hq": "JACKSONVILLE, FL",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:24:15+09:00"
+  },
+  {
+   "id": "0001193125-26-428973",
+   "company": "BOSTON BEER CO INC",
+   "ticker": "SAM",
+   "cik": 949870,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "“Our results reflect continued progress from our multi-year supply chain transformation, disciplined investment, and an ongoing focus on productivity across the organization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/949870/000119312526428973/0001193125-26-428973-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/949870/000119312526428973/sam-ex99_1.htm",
+   "filed_at": "2026-10-22T16:23:13-04:00",
+   "filed_kst": "2026-10-23 05:23",
+   "price": 195.72,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 195.72,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 195.72,
+     "change": 7.65
+    },
+    {
+     "date": "2026-10-21",
+     "close": 181.81,
+     "change": -1.3
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Malt Beverages",
+   "state_of_incorporation": "MA",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:23:43+09:00"
+  },
+  {
+   "id": "0000076605-26-000099",
+   "company": "PATRICK INDUSTRIES INC",
+   "ticker": "PATK",
+   "cik": 76605,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "1 A proposal to approve the issuance of shares of common stock to LCI Industries stockholders pursuant to the Agreement and Plan of Merger signed by LCI Industries and Patrick on June 30, 2026; 2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000099/0000076605-26-000099-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000099/patk102226-425filingxspeci.htm",
+   "filed_at": "2026-10-22T16:19:25-04:00",
+   "filed_kst": "2026-10-23 05:19",
+   "price": 70.27,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 70.27,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 70.27,
+     "change": 4.41
+    },
+    {
+     "date": "2026-10-21",
+     "close": 67.3,
+     "change": 0.66
+    }
+   ],
+   "market_cap": 2256950411.0,
+   "shares_outstanding": 32118264.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "IN",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T05:20:36+09:00"
+  },
   {
    "id": "0000230557-26-000024",
    "company": "SELECTIVE INSURANCE GROUP INC",
@@ -15441,216 +15652,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-15T06:16:40+09:00"
-  },
-  {
-   "id": "0001193125-26-421807",
-   "company": "Vistance Networks, Inc.",
-   "ticker": "VISN",
-   "cik": 1517228,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "“This distribution, together with the other special distributions this year and our ongoing share repurchase program, reflects our commitment to returning capital to shareholders.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526421807/0001193125-26-421807-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526421807/visn-ex99_1.htm",
-   "filed_at": "2026-10-14T17:15:10-04:00",
-   "filed_kst": "2026-10-15 06:15",
-   "price": 5.9,
-   "change": -3.59,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 5.9,
-     "change": -3.59
-    },
-    {
-     "date": "2026-10-13",
-     "close": 6.12,
-     "change": 0.66
-    },
-    {
-     "date": "2026-10-12",
-     "close": 6.08,
-     "change": 0.5
-    }
-   ],
-   "market_cap": 1360695831.0,
-   "shares_outstanding": 230626412.0,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "RICHARDSON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T06:16:07+09:00"
-  },
-  {
-   "id": "0001193125-26-421808",
-   "company": "Distribution Solutions Group, Inc.",
-   "ticker": "DSGR",
-   "cik": 703604,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Delaware corporation (“DSG” or the “Company”), entered into an Agreement and Plan of Merger (the “Grade Eight Merger Agreement”) with GradeEight Holdings, LLC, a Delaware limited liability company (“GradeEight”), 301 Grade Eight Merger Sub, LLC, a Delaware limited liability company and wholly ow",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526421808/0001193125-26-421808-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526421808/d172705dex991.htm",
-   "filed_at": "2026-10-14T17:15:13-04:00",
-   "filed_kst": "2026-10-15 06:15",
-   "price": 35.05,
-   "change": -0.06,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 35.05,
-     "change": -0.06
-    },
-    {
-     "date": "2026-10-13",
-     "close": 35.07,
-     "change": 0.03
-    },
-    {
-     "date": "2026-10-12",
-     "close": 35.06,
-     "change": 0.09
-    }
-   ],
-   "market_cap": 1621252541.0,
-   "shares_outstanding": 46255422.0,
-   "industry": "Wholesale-Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "FORT WORTH, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-15T06:16:06+09:00"
-  },
-  {
-   "id": "0001292814-26-004928",
-   "company": "TELEFONICA BRASIL S.A.",
-   "ticker": "VIV",
-   "cik": 1066119,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "The amount per share of the IoC may be adjusted considering the Company’s shareholding base on October 26, 2026, due to possible acquisitions of shares under the Company’s ongoing Share Buyback Program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1066119/000129281426004928/0001292814-26-004928-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1066119/000129281426004928/viv20261014_6k.htm",
-   "filed_at": "2026-10-14T17:14:45-04:00",
-   "filed_kst": "2026-10-15 06:14",
-   "price": 12.32,
-   "change": 0.41,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 12.32,
-     "change": 0.41
-    },
-    {
-     "date": "2026-10-13",
-     "close": 12.27,
-     "change": 0.9
-    },
-    {
-     "date": "2026-10-12",
-     "close": 12.16,
-     "change": -0.33
-    }
-   ],
-   "market_cap": 39369870257.0,
-   "shares_outstanding": 3195606352.0,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": null,
-   "hq": "SAO PAULO-SP, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T06:15:31+09:00"
-  },
-  {
-   "id": "0001104659-26-115874",
-   "company": "Rezolute, Inc.",
-   "ticker": "RZLT",
-   "cik": 1509261,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 64,
-   "summary": "1 Rezolute Announces Completion of Enrollment in Phase 3 upLIFT Study of Ersodetug in Tumor Hyperinsulinism Topline results expected mid-December 2026 REDWOOD CITY, Calif.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926115874/0001104659-26-115874-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926115874/tm2627620d1_ex99-1.htm",
-   "filed_at": "2026-10-14T17:11:48-04:00",
-   "filed_kst": "2026-10-15 06:11",
-   "price": 4.23,
-   "change": -8.24,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 4.23,
-     "change": -8.24
-    },
-    {
-     "date": "2026-10-13",
-     "close": 4.61,
-     "change": -5.34
-    },
-    {
-     "date": "2026-10-12",
-     "close": 4.87,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 409135469.0,
-   "shares_outstanding": 96722333.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NV",
-   "hq": "REDWOOD CITY, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-15T06:12:05+09:00"
   }
  ]
 }
