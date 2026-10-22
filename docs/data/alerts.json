@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-10-23T05:24:17+09:00",
+ "updated_at": "2026-10-23T05:29:04+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006780",
+   "company": "TRANSALTA CORP",
+   "ticker": "TAC",
+   "cik": 1144800,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "TransAlta also announced today that it has completed the acquisition of Mountain Peak Power LLC and Canyon Peak Power LLC from Blackstone, Inc.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1144800/000117184326006780/0001171843-26-006780-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1144800/000117184326006780/exh_991.htm",
+   "filed_at": "2026-10-22T16:24:57-04:00",
+   "filed_kst": "2026-10-23 05:24",
+   "price": 12.51,
+   "change": -6.22,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 12.51,
+     "change": -6.22
+    },
+    {
+     "date": "2026-10-21",
+     "close": 13.34,
+     "change": 2.85
+    },
+    {
+     "date": "2026-10-20",
+     "close": 12.97,
+     "change": -0.23
+    }
+   ],
+   "market_cap": 3711935862.0,
+   "shares_outstanding": 296717495.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": null,
+   "hq": "CALGARY, A0",
+   "entity_category": null,
+   "detected_at": "2026-10-23T05:25:27+09:00"
+  },
   {
    "id": "0001730984-26-000081",
    "company": "BayCom Corp",
@@ -15602,56 +15650,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-15T06:18:13+09:00"
-  },
-  {
-   "id": "0001292814-26-004930",
-   "company": "TELEFONICA BRASIL S.A.",
-   "ticker": "VIV",
-   "cik": 1066119,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Given the Company's Share Buyback Program in effect, the value per share may be subject to change, considering the Company's shareholding position to be verified on October 26, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1066119/000129281426004930/0001292814-26-004930-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1066119/000129281426004930/viv20261014_6k1.htm",
-   "filed_at": "2026-10-14T17:15:59-04:00",
-   "filed_kst": "2026-10-15 06:15",
-   "price": 12.32,
-   "change": 0.41,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 12.32,
-     "change": 0.41
-    },
-    {
-     "date": "2026-10-13",
-     "close": 12.27,
-     "change": 0.9
-    },
-    {
-     "date": "2026-10-12",
-     "close": 12.16,
-     "change": -0.33
-    }
-   ],
-   "market_cap": 39369870257.0,
-   "shares_outstanding": 3195606352.0,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": null,
-   "hq": "SAO PAULO-SP, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T06:16:40+09:00"
   }
  ]
 }
