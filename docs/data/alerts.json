@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-22T19:04:41+09:00",
+ "updated_at": "2026-10-22T19:09:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-047966",
+   "company": "Pulmatrix, Inc.",
+   "ticker": "PULM",
+   "cik": 1574235,
+   "form": "425",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 94,
+   "summary": "PTC-2105 is an investigational compound that has not been tested for lifespan in humans and has not been approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226047966/0001493152-26-047966-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226047966/form425.htm",
+   "filed_at": "2026-10-22T06:05:24-04:00",
+   "filed_kst": "2026-10-22 19:05",
+   "price": 1.57,
+   "change": 9.79,
+   "price_history": [
+    {
+     "date": "2026-10-21",
+     "close": 1.57,
+     "change": 9.79
+    },
+    {
+     "date": "2026-10-20",
+     "close": 1.43,
+     "change": 0.7
+    },
+    {
+     "date": "2026-10-19",
+     "close": 1.42,
+     "change": 4.41
+    }
+   ],
+   "market_cap": 5734087.0,
+   "shares_outstanding": 3652285.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "FRAMINGHAM, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-22T19:06:30+09:00"
+  },
   {
    "id": "0001046179-26-000728",
    "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
@@ -15564,61 +15617,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-14T20:01:20+09:00"
-  },
-  {
-   "id": "0001104659-26-115709",
-   "company": "Quoin Pharmaceuticals Ltd.",
-   "ticker": "QNRX",
-   "cik": 1671502,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "1 Quoin Pharmaceuticals Announces European Medicines Agency (EMA) Grants Orphan Drug Designation for QRX003 for the Treatment of Peeling Skin Syndrome – Company on track to initiate first-ever formal clinical trial in Peeling Skin Syndrome before year end – Orphan Drug designation milestone provides",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926115709/0001104659-26-115709-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926115709/tm2627548d1_ex99-1.htm",
-   "filed_at": "2026-10-14T06:35:34-04:00",
-   "filed_kst": "2026-10-14 19:35",
-   "price": 4.15,
-   "change": -4.82,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 4.15,
-     "change": -4.82
-    },
-    {
-     "date": "2026-10-12",
-     "close": 4.36,
-     "change": -3.11
-    },
-    {
-     "date": "2026-10-09",
-     "close": 4.5,
-     "change": -1.1
-    }
-   ],
-   "market_cap": 291722652.0,
-   "shares_outstanding": 70294615.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "ASHBURN, VA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-14T19:36:26+09:00"
   }
  ]
 }
