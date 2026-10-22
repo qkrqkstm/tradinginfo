@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-22T20:24:19+09:00",
+ "updated_at": "2026-10-22T20:29:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001120193-26-000017",
+   "company": "NASDAQ, INC.",
+   "ticker": "NDAQ",
+   "cik": 1120193,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 68,
+   "summary": "2 billion remaining under the board authorized share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019326000017/0001120193-26-000017-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019326000017/earningsrelease3q26ex-991.htm",
+   "filed_at": "2026-10-22T07:26:37-04:00",
+   "filed_kst": "2026-10-22 20:26",
+   "price": 96.12,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 96.12,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 96.12,
+     "change": 1.39
+    },
+    {
+     "date": "2026-10-20",
+     "close": 94.8,
+     "change": 1.72
+    }
+   ],
+   "market_cap": 53728904997.0,
+   "shares_outstanding": 558977372.0,
+   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T20:27:28+09:00"
+  },
   {
    "id": "0001654954-26-009093",
    "company": "ASTRAZENECA PLC",
@@ -15550,59 +15606,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-14T22:00:52+09:00"
-  },
-  {
-   "id": "0001213900-26-109240",
-   "company": "Evolution Metals & Technologies Corp.",
-   "ticker": "EMAT",
-   "cik": 1866226,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026109240/0001213900-26-109240-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026109240/ea030857201ex99-1.htm",
-   "filed_at": "2026-10-14T08:43:44-04:00",
-   "filed_kst": "2026-10-14 21:43",
-   "price": 1.43,
-   "change": -3.06,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 1.42,
-     "change": -3.06
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.47,
-     "change": -10.37
-    },
-    {
-     "date": "2026-10-09",
-     "close": 1.64,
-     "change": -3.53
-    }
-   ],
-   "market_cap": 889174924.0,
-   "shares_outstanding": 621800646.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T21:44:08+09:00"
   }
  ]
 }
