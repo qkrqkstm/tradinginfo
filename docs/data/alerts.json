@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-22T19:44:23+09:00",
+ "updated_at": "2026-10-22T19:49:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-428293",
+   "company": "LINDSAY CORP",
+   "ticker": "LNN",
+   "cik": 836157,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 68,
+   "summary": "During the year, we announced a new share repurchase authorization of $150.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/836157/000119312526428293/0001193125-26-428293-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/836157/000119312526428293/lnn-ex99_1.htm",
+   "filed_at": "2026-10-22T06:45:18-04:00",
+   "filed_kst": "2026-10-22 19:45",
+   "price": 106.59,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 106.59,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 106.59,
+     "change": -0.21
+    },
+    {
+     "date": "2026-10-20",
+     "close": 106.81,
+     "change": 0.3
+    }
+   ],
+   "market_cap": 1083901452.0,
+   "shares_outstanding": 10168885.0,
+   "industry": "Farm Machinery & Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "OMAHA, NE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T19:46:05+09:00"
+  },
   {
    "id": "0001654954-26-009084",
    "company": "PEARSON PLC",
@@ -15559,62 +15614,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-14T21:00:51+09:00"
-  },
-  {
-   "id": "0001689375-26-000057",
-   "company": "Entrada Therapeutics, Inc.",
-   "ticker": "TRDA",
-   "cik": 1689375,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "Update on ENTR-601-45 On October 14, 2026, the Company announced positive topline data from Cohort 1 of the double-blind, placebo-controlled, multiple ascending dose (MAD) portion of the Phase 1/2 ELEVATE-45-201 clinical study of ENTR-601-45 in ambulatory participants with a confirmed mutation in th",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1689375/000168937526000057/0001689375-26-000057-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1689375/000168937526000057/trda-20261014.htm",
-   "filed_at": "2026-10-14T07:52:00-04:00",
-   "filed_kst": "2026-10-14 20:52",
-   "price": 4.86,
-   "change": -11.64,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 4.86,
-     "change": -11.64
-    },
-    {
-     "date": "2026-10-12",
-     "close": 5.5,
-     "change": -3.0
-    },
-    {
-     "date": "2026-10-09",
-     "close": 5.67,
-     "change": 2.53
-    }
-   ],
-   "market_cap": 189232211.0,
-   "shares_outstanding": 38936669.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T20:52:34+09:00"
   }
  ]
 }
