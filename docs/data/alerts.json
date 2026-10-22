@@ -1,7 +1,110 @@
 {
- "updated_at": "2026-10-23T06:19:12+09:00",
+ "updated_at": "2026-10-23T06:24:46+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-048132",
+   "company": "BranchOut Food Inc.",
+   "ticker": "BOF",
+   "cik": 1962481,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "● New programs: an approximately $2 million Tropical Fruit Mix order beginning to ship in December, plus Dried Cheesecake Snacks at the nation’s two largest warehouse club retailers.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1962481/000149315226048132/0001493152-26-048132-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1962481/000149315226048132/ex99-1.htm",
+   "filed_at": "2026-10-22T17:23:37-04:00",
+   "filed_kst": "2026-10-23 06:23",
+   "price": 2.02,
+   "change": -5.16,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 2.02,
+     "change": -5.16
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2.13,
+     "change": -2.29
+    },
+    {
+     "date": "2026-10-20",
+     "close": 2.18,
+     "change": -1.8
+    }
+   ],
+   "market_cap": 30938381.0,
+   "shares_outstanding": 15316030.0,
+   "industry": "Food and Kindred Products",
+   "state_of_incorporation": "NV",
+   "hq": "BEND, OR",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T06:24:14+09:00"
+  },
+  {
+   "id": "0001140361-26-040532",
+   "company": "DevvStream Corp.",
+   "ticker": "DEVSF",
+   "cik": 1854480,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.01",
+    "3.03",
+    "5.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Delaware corporation and wholly owned subsidiary of XCF (“DevvStream Merger Sub”), entered into a business combination agreement (as amended by Amendment No.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1854480/000114036126040532/0001140361-26-040532-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1854480/000114036126040532/ef20084197_8k.htm",
+   "filed_at": "2026-10-22T17:19:57-04:00",
+   "filed_kst": "2026-10-23 06:19",
+   "price": 0.17,
+   "change": 10.0,
+   "price_history": [
+    {
+     "date": "2026-10-20",
+     "close": 0.17,
+     "change": 10.0
+    },
+    {
+     "date": "2026-10-19",
+     "close": 0.15,
+     "change": 8.7
+    }
+   ],
+   "market_cap": 5961508.0,
+   "shares_outstanding": 35067694.0,
+   "industry": "Investors, NEC",
+   "state_of_incorporation": "Alberta, Canada",
+   "hq": "SACRAMENTO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T06:20:38+09:00"
+  },
   {
    "id": "0001437749-26-033290",
    "company": "Vicore Pharma Holding AB",
@@ -15548,107 +15651,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-15T20:01:28+09:00"
-  },
-  {
-   "id": "0001140361-26-039664",
-   "company": "PENSKE AUTOMOTIVE GROUP, INC.",
-   "ticker": "PAG",
-   "cik": 1019849,
-   "form": "8-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A"
-   ],
-   "confidence": 72,
-   "summary": "At the Effective Time, by virtue of the Merger and without any action on the part of the Company, Buyer or the holders of any shares of Company Common Stock or any shares of capital stock of Buyer: (a) Cancelation of Certain Shares .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1019849/000114036126039664/0001140361-26-039664-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1019849/000114036126039664/ef20083688_ex99-1.htm",
-   "filed_at": "2026-10-15T06:59:40-04:00",
-   "filed_kst": "2026-10-15 19:59",
-   "price": 194.79,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 194.79,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-14",
-     "close": 194.79,
-     "change": -0.45
-    },
-    {
-     "date": "2026-10-13",
-     "close": 195.67,
-     "change": 0.51
-    }
-   ],
-   "market_cap": 12790471032.0,
-   "shares_outstanding": 65662873.0,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "DE",
-   "hq": "BLOOMFIELD HILLS, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T20:00:52+09:00"
-  },
-  {
-   "id": "0001213900-26-109573",
-   "company": "Yiren Digital Ltd.",
-   "ticker": "YRD",
-   "cik": 1631761,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Share Repurchase Program The Company reaffirms its intention to continue implementing its previously announced share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1631761/000121390026109573/0001213900-26-109573-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1631761/000121390026109573/ea030860401ex99-1.htm",
-   "filed_at": "2026-10-15T06:51:08-04:00",
-   "filed_kst": "2026-10-15 19:51",
-   "price": 0.65,
-   "change": 42.86,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 0.65,
-     "change": 42.86
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.46,
-     "change": -18.75
-    },
-    {
-     "date": "2026-10-12",
-     "close": 0.56,
-     "change": -44.0
-    }
-   ],
-   "market_cap": 113542537.0,
-   "shares_outstanding": 174680826.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BEIJING",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-15T19:51:36+09:00"
   }
  ]
 }
