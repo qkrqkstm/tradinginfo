@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-22T19:54:38+09:00",
+ "updated_at": "2026-10-22T19:59:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000929869-26-000073",
+   "company": "RELX PLC",
+   "ticker": "RELX",
+   "cik": 929869,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "1 ​ 22 October 2026 RELX PLC Announcement of Non-Discretionary Share Buyback Programme and Cancellation of Shares held in Treasury RELX PLC (the “Company”) announces in compliance with the UK and EU Market Abuse Regulations that it will implement an irrevocable, non-discretionary programme to repurc",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/929869/000092986926000073/0000929869-26-000073-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/929869/000092986926000073/relx-ex99d1.htm",
+   "filed_at": "2026-10-22T06:58:37-04:00",
+   "filed_kst": "2026-10-22 19:58",
+   "price": 39.13,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 39.13,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 39.13,
+     "change": -0.66
+    },
+    {
+     "date": "2026-10-20",
+     "close": 39.39,
+     "change": 0.36
+    }
+   ],
+   "market_cap": 71179874382.0,
+   "shares_outstanding": 1819061446.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-22T19:59:26+09:00"
+  },
   {
    "id": "0001022079-26-000097",
    "company": "QUEST DIAGNOSTICS INC",
@@ -15563,61 +15613,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-14T21:14:06+09:00"
-  },
-  {
-   "id": "0001104659-26-115745",
-   "company": "MAXCYTE, INC.",
-   "ticker": "MXCT",
-   "cik": 1287098,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "1 MaxCyte Reports Preliminary Third Quarter 2026 Revenue and Raises Full Year 2026 Revenue Guidance MaxCyte will host its third quarter 2026 earnings conference call on November 10, 2026 ROCKVILLE, MD, October 14, 2026 — MaxCyte, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1287098/000110465926115745/0001104659-26-115745-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1287098/000110465926115745/tm2627568d1_ex99-1.htm",
-   "filed_at": "2026-10-14T08:10:32-04:00",
-   "filed_kst": "2026-10-14 21:10",
-   "price": 0.96,
-   "change": -3.12,
-   "price_history": [
-    {
-     "date": "2026-10-13",
-     "close": 0.96,
-     "change": -3.12
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.0,
-     "change": -1.49
-    },
-    {
-     "date": "2026-10-09",
-     "close": 1.01,
-     "change": -0.98
-    }
-   ],
-   "market_cap": 99077958.0,
-   "shares_outstanding": 103206206.0,
-   "industry": "Services-Commercial Physical & Biological Research",
-   "state_of_incorporation": "DE",
-   "hq": "ROCKVILLE, MD",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-14T21:11:00+09:00"
   }
  ]
 }
