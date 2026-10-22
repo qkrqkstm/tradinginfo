@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-23T06:29:38+09:00",
+ "updated_at": "2026-10-23T06:34:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-111763",
+   "company": "Valor Energy Inc",
+   "ticker": "VAI",
+   "cik": 1711012,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) entered into the Youngstown Computing Center Equity Transfer Agreement, dated October 17, 2026 (the “Agreement”), with Glorious Star LLC (the “Seller” and “Target Company”), pursuant to which the Company agreed to acquire 100% of the outstanding equity interests of the Target Company",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711012/000121390026111763/0001213900-26-111763-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1711012/000121390026111763/ea030944401ex10-1.htm",
+   "filed_at": "2026-10-22T17:29:40-04:00",
+   "filed_kst": "2026-10-23 06:29",
+   "price": 2.44,
+   "change": -8.27,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 2.44,
+     "change": -8.27
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2.66,
+     "change": 5.14
+    },
+    {
+     "date": "2026-10-20",
+     "close": 2.53,
+     "change": -5.24
+    }
+   ],
+   "market_cap": 35520273.0,
+   "shares_outstanding": 14557489.0,
+   "industry": "Services-Auto Rental & Leasing (No Drivers)",
+   "state_of_incorporation": "NV",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-23T06:30:40+09:00"
+  },
   {
    "id": "0001493152-26-048132",
    "company": "BranchOut Food Inc.",
@@ -15599,58 +15653,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-15T20:03:03+09:00"
-  },
-  {
-   "id": "0001213900-26-109577",
-   "company": "K-TECH SOLUTIONS CO LTD",
-   "ticker": "KMRK",
-   "cik": 2049187,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "EX-99.1 2 ea030871301ex99-1.htm PRESS RELEASE OF THE COMPANY DATED OCTOBER 15, 2026 Exhibit 99.1 Press Release K-TECH SOLUTIONS (KMRK) Acquires Global Trading Company Flourish Ventures to Diversify Revenue Streams and Expand International Trading Operations Hong Kong, October 15, 2026 (GLOBE NEWSWIR",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2049187/000121390026109577/0001213900-26-109577-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2049187/000121390026109577/ea030871301ex99-1.htm",
-   "filed_at": "2026-10-15T07:00:28-04:00",
-   "filed_kst": "2026-10-15 20:00",
-   "price": 1.52,
-   "change": 14.29,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 1.52,
-     "change": 14.29
-    },
-    {
-     "date": "2026-10-13",
-     "close": 1.33,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.33,
-     "change": 12.71
-    }
-   ],
-   "market_cap": 29640000.0,
-   "shares_outstanding": 19500000.0,
-   "industry": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
-   "state_of_incorporation": null,
-   "hq": "NEW TERRITORIES, K3",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T20:01:28+09:00"
   }
  ]
 }
