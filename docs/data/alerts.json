@@ -1,7 +1,56 @@
 {
- "updated_at": "2026-10-23T06:14:41+09:00",
+ "updated_at": "2026-10-23T06:19:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-033290",
+   "company": "Vicore Pharma Holding AB",
+   "ticker": "VCRE",
+   "cik": 2124403,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "The company ’ s lead program, buloxibutid, is an oral small-molecule angiotensin II type 2 receptor agonist, which received Orphan Drug and Fast Track designations from the United States Food and Drug Administration and is currently being investigated in the global 52-week Phase 2b ASPIRE trial in I",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2124403/000143774926033290/0001437749-26-033290-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2124403/000143774926033290/ex_1029869.htm",
+   "filed_at": "2026-10-22T17:15:41-04:00",
+   "filed_kst": "2026-10-23 06:15",
+   "price": 10.32,
+   "change": 11.21,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 10.32,
+     "change": 11.21
+    },
+    {
+     "date": "2026-10-21",
+     "close": 9.28,
+     "change": 3.11
+    },
+    {
+     "date": "2026-10-20",
+     "close": 9.0,
+     "change": 1.69
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM",
+   "entity_category": null,
+   "detected_at": "2026-10-23T06:16:35+09:00"
+  },
   {
    "id": "0001683168-26-008024",
    "company": "AUDDIA INC.",
@@ -15600,55 +15649,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-15T19:51:36+09:00"
-  },
-  {
-   "id": "0001193125-26-422241",
-   "company": "AIR Global PLC",
-   "ticker": "AIIR",
-   "cik": 2097725,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 67,
-   "summary": "1 AIR Announces Capital Return Framework Establishes Quarterly Dividend Policy and Share Repurchase Program Supported by Strong Cash Flow Generation Dubai, UAE, 15 October 2026, – AIR today announced the establishment of a formal capital return framework designed to enhance shareholder returns while",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2097725/000119312526422241/0001193125-26-422241-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2097725/000119312526422241/ck0002097725-ex99_1.htm",
-   "filed_at": "2026-10-15T06:32:40-04:00",
-   "filed_kst": "2026-10-15 19:32",
-   "price": 7.48,
-   "change": 0.13,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 7.48,
-     "change": 0.13
-    },
-    {
-     "date": "2026-10-13",
-     "close": 7.47,
-     "change": -0.53
-    },
-    {
-     "date": "2026-10-12",
-     "close": 7.51,
-     "change": 0.94
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Tobacco Products",
-   "state_of_incorporation": "Jersey",
-   "hq": "DUBAI (DIFC)",
-   "entity_category": null,
-   "detected_at": "2026-10-15T19:33:16+09:00"
   }
  ]
 }
