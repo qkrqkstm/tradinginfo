@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-23T02:19:33+09:00",
+ "updated_at": "2026-10-23T02:24:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-428689",
+   "company": "MARKETAXESS HOLDINGS INC",
+   "ticker": "MKTX",
+   "cik": 1278021,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(“ MarketAxess ”) entered into an Agreement and Plan of Merger with Intercontinental Exchange, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1278021/000119312526428689/0001193125-26-428689-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1278021/000119312526428689/d157425d8k.htm",
+   "filed_at": "2026-10-22T13:21:09-04:00",
+   "filed_kst": "2026-10-23 02:21",
+   "price": 165.05,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 165.05,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 165.05,
+     "change": 0.48
+    },
+    {
+     "date": "2026-10-21",
+     "close": 164.26,
+     "change": -0.14
+    }
+   ],
+   "market_cap": 5808586660.0,
+   "shares_outstanding": 35192891.0,
+   "industry": "Security Brokers, Dealers & Flotation Companies",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T02:22:05+09:00"
+  },
   {
    "id": "0000840489-26-000097",
    "company": "FirstCash Holdings, Inc.",
@@ -15596,61 +15648,6 @@
    "hq": "LONDON",
    "entity_category": null,
    "detected_at": "2026-10-15T05:22:37+09:00"
-  },
-  {
-   "id": "0001193125-26-421701",
-   "company": "EQUITY BANCSHARES INC",
-   "ticker": "EQBK",
-   "cik": 1227500,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "As previously announced our repurchase authorization was re-established in September for a total of 1,000,000 shares.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526421701/0001193125-26-421701-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1227500/000119312526421701/eqbk-ex99_1.htm",
-   "filed_at": "2026-10-14T16:20:21-04:00",
-   "filed_kst": "2026-10-15 05:20",
-   "price": 46.57,
-   "change": -0.56,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 46.57,
-     "change": -0.56
-    },
-    {
-     "date": "2026-10-13",
-     "close": 46.83,
-     "change": -0.85
-    },
-    {
-     "date": "2026-10-12",
-     "close": 47.23,
-     "change": 1.13
-    }
-   ],
-   "market_cap": 958992259.0,
-   "shares_outstanding": 20592490.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "KS",
-   "hq": "WICHITA, KS",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-15T05:21:03+09:00"
   }
  ]
 }
