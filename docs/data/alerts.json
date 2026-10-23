@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-24T03:14:34+09:00",
+ "updated_at": "2026-10-24T03:19:18+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001575872-26-000724",
+   "company": "DR REDDYS LABORATORIES LTD",
+   "ticker": "RDY",
+   "cik": 1135951,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "He has also overseen the expansion of capabilities across drug discovery, antibodies, biologics, APIs and peptides, while laying the foundation for growth in the drug product CDMO business through strategic partnerships.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1135951/000157587226000724/0001575872-26-000724-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1135951/000157587226000724/rdy0953_ex99-1.htm",
+   "filed_at": "2026-10-23T14:15:34-04:00",
+   "filed_kst": "2026-10-24 03:15",
+   "price": 13.3,
+   "change": 0.57,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 13.31,
+     "change": 0.57
+    },
+    {
+     "date": "2026-10-22",
+     "close": 13.23,
+     "change": 0.3
+    },
+    {
+     "date": "2026-10-21",
+     "close": 13.19,
+     "change": -0.53
+    }
+   ],
+   "market_cap": 11100937701.0,
+   "shares_outstanding": 834656970.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "India",
+   "hq": "HYDERABAD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-24T03:16:02+09:00"
+  },
   {
    "id": "0001140361-26-040631",
    "company": "IONIS PHARMACEUTICALS INC",
@@ -15611,57 +15661,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-16T06:05:56+09:00"
-  },
-  {
-   "id": "0000006955-26-000065",
-   "company": "ENERPAC TOOL GROUP CORP",
-   "ticker": "EPAC",
-   "cik": 6955,
-   "form": "8-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A"
-   ],
-   "confidence": 73,
-   "summary": "EX-10.2 3 exhibit102.htm EX-10.2 Document EXHIBIT 10.2 GLOBAL PERFORMANCE SHARE AWARD AGREEMENT UNDER THE ENERPAC TOOL GROUP 2017 OMNIBUS INCENTIVE PLAN (as amended and restated November 9, 2020) (SFE Group Transaction Incentive Grant—Adjusted EBITDA) This Global Performance Share Award Agreement (t",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/6955/000000695526000065/0000006955-26-000065-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/6955/000000695526000065/exhibit102.htm",
-   "filed_at": "2026-10-15T17:00:21-04:00",
-   "filed_kst": "2026-10-16 06:00",
-   "price": 35.07,
-   "change": 0.89,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 35.07,
-     "change": 0.89
-    },
-    {
-     "date": "2026-10-14",
-     "close": 34.76,
-     "change": -1.31
-    },
-    {
-     "date": "2026-10-13",
-     "close": 35.22,
-     "change": 0.2
-    }
-   ],
-   "market_cap": 1793397245.0,
-   "shares_outstanding": 51137646.0,
-   "industry": "Misc Industrial & Commercial Machinery & Equipment",
-   "state_of_incorporation": "WI",
-   "hq": "MILWAUKEE, WI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-16T06:01:31+09:00"
   }
  ]
 }
