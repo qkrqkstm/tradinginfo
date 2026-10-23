@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-10-23T20:59:31+09:00",
+ "updated_at": "2026-10-23T21:04:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-111864",
+   "company": "60 DEGREES PHARMACEUTICALS, INC.",
+   "ticker": "SXTP",
+   "cik": 1946563,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "CHRONIC DIAGNOSTICS RELAPSING DISEASE HOSPITAL READOUT Regulatory objective A potential sNDA in 2027 — and a request for national-priority review.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1946563/000121390026111864/0001213900-26-111864-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1946563/000121390026111864/ea030933901ex99-1.htm",
+   "filed_at": "2026-10-23T08:00:23-04:00",
+   "filed_kst": "2026-10-23 21:00",
+   "price": 0.88,
+   "change": -1.57,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 0.88,
+     "change": -1.57
+    },
+    {
+     "date": "2026-10-21",
+     "close": 0.89,
+     "change": -3.47
+    },
+    {
+     "date": "2026-10-20",
+     "close": 0.92,
+     "change": 11.49
+    }
+   ],
+   "market_cap": 3094949.0,
+   "shares_outstanding": 3516988.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WASHINGTON, DC",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T21:01:28+09:00"
+  },
+  {
+   "id": "0000355811-26-000060",
+   "company": "GENTEX CORP",
+   "ticker": "GNTX",
+   "cik": 355811,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "3 million shares remaining available for repurchase under its previously announced share repurchase plan.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/355811/000035581126000060/0000355811-26-000060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/355811/000035581126000060/exhibit99109302026.htm",
+   "filed_at": "2026-10-23T08:00:12-04:00",
+   "filed_kst": "2026-10-23 21:00",
+   "price": 21.74,
+   "change": 3.52,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 21.74,
+     "change": 3.52
+    },
+    {
+     "date": "2026-10-21",
+     "close": 21.0,
+     "change": -1.22
+    },
+    {
+     "date": "2026-10-20",
+     "close": 21.26,
+     "change": 1.87
+    }
+   ],
+   "market_cap": 4580255616.0,
+   "shares_outstanding": 210683331.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "MI",
+   "hq": "ZEELAND, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T21:00:53+09:00"
+  },
   {
    "id": "0000950103-26-016061",
    "company": "Immatics N.V.",
@@ -15561,107 +15668,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-16T05:06:33+09:00"
-  },
-  {
-   "id": "0001493152-26-047225",
-   "company": "RedCloud Holdings plc",
-   "ticker": "RCT",
-   "cik": 2027360,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 RedCloud’s First Saudi Customer Chooses RedAI for Predictive Trade Intelligence and Provides $21 Million of Live Trade Data First commercial close will provide initial local data for RAID and the previously announced joint venture to operate RedAI trade infrastructure in Saudi Arabia and Bahrain L",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2027360/000149315226047225/0001493152-26-047225-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2027360/000149315226047225/ex99-1.htm",
-   "filed_at": "2026-10-15T16:05:22-04:00",
-   "filed_kst": "2026-10-16 05:05",
-   "price": 0.09,
-   "change": -16.04,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 0.09,
-     "change": -16.04
-    },
-    {
-     "date": "2026-10-14",
-     "close": 0.11,
-     "change": 8.16
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.1,
-     "change": -20.33
-    }
-   ],
-   "market_cap": 6154255.0,
-   "shares_outstanding": 68380615.0,
-   "industry": "Retail-Retail Stores, NEC",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-16T05:05:59+09:00"
-  },
-  {
-   "id": "0001171843-26-006666",
-   "company": "Wise Group plc",
-   "ticker": "WSE",
-   "cik": 2099039,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "In fiscal year 2026, Wise supported around 19 million people and businesses, processing over $240 billion in cross-border transactions and saving customers over $3 billion.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000117184326006666/0001171843-26-006666-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000117184326006666/exh_991.htm",
-   "filed_at": "2026-10-15T16:02:05-04:00",
-   "filed_kst": "2026-10-16 05:02",
-   "price": 12.1,
-   "change": 0.71,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 12.1,
-     "change": 0.71
-    },
-    {
-     "date": "2026-10-14",
-     "close": 12.01,
-     "change": -1.72
-    },
-    {
-     "date": "2026-10-13",
-     "close": 12.22,
-     "change": 2.35
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Jersey",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-16T05:02:59+09:00"
   }
  ]
 }
