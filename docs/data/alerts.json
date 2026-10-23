@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-23T22:44:35+09:00",
+ "updated_at": "2026-10-23T22:49:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001292814-26-004992",
+   "company": "BANK BRADESCO",
+   "ticker": "BBD",
+   "cik": 1160330,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 79,
+   "summary": "e) Treasury shares On May 07, 2025, the Board of Directors resolved to institute a new buyback program that authorizes Bradesco's Board of Executive Officers to acquire, in the period from May 08, 2025 to November 08, 2026, up to 106,584,881 book-entry, registered shares, with no par value, with up ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004992/0001292814-26-004992-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004992/bbdbook3q26_6k.htm",
+   "filed_at": "2026-10-23T09:47:53-04:00",
+   "filed_kst": "2026-10-23 22:47",
+   "price": 3.9,
+   "change": -1.39,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 3.89,
+     "change": -1.39
+    },
+    {
+     "date": "2026-10-22",
+     "close": 3.95,
+     "change": -2.47
+    },
+    {
+     "date": "2026-10-21",
+     "close": 4.05,
+     "change": -0.74
+    }
+   ],
+   "market_cap": 7335237070.0,
+   "shares_outstanding": 1880830018.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "SAO PAULO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T22:49:10+09:00"
+  },
   {
    "id": "0001005817-26-000139",
    "company": "TOMPKINS FINANCIAL CORP",
@@ -15610,59 +15662,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-16T05:18:53+09:00"
-  },
-  {
-   "id": "0001104659-26-116248",
-   "company": "COLONY BANKCORP INC",
-   "ticker": "CBAN",
-   "cik": 711669,
-   "form": "8-K",
-   "items": [
-    "5.07",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "” Colony and First Reliance announced their partnership on June 24, 2026, through a definitive agreement in which Colony agreed to acquire 100% of First Reliance's stock in a combined stock-and-cash transaction valued at approximately $163 million.",
-   "deal_role": "acquirer",
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/711669/000110465926116248/0001104659-26-116248-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/711669/000110465926116248/cban-ex99d1.htm",
-   "filed_at": "2026-10-15T16:15:20-04:00",
-   "filed_kst": "2026-10-16 05:15",
-   "price": 20.03,
-   "change": 1.68,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 20.03,
-     "change": 1.68
-    },
-    {
-     "date": "2026-10-14",
-     "close": 19.7,
-     "change": -1.2
-    },
-    {
-     "date": "2026-10-13",
-     "close": 19.94,
-     "change": -0.3
-    }
-   ],
-   "market_cap": 425055929.0,
-   "shares_outstanding": 21220965.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "GA",
-   "hq": "FITZGERALD, GA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-16T05:16:09+09:00"
   }
  ]
 }
