@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-10-23T22:19:39+09:00",
+ "updated_at": "2026-10-23T22:24:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001005817-26-000139",
+   "company": "TOMPKINS FINANCIAL CORP",
+   "ticker": "TMP",
+   "cik": 1005817,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "All of these shares were purchased under the Company's 2025 Stock Repurchase Plan.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1005817/000100581726000139/0001005817-26-000139-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1005817/000100581726000139/q32026pressrelease.htm",
+   "filed_at": "2026-10-23T09:23:52-04:00",
+   "filed_kst": "2026-10-23 22:23",
+   "price": 100.78,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 100.78,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 100.78,
+     "change": 1.91
+    },
+    {
+     "date": "2026-10-21",
+     "close": 98.89,
+     "change": -0.46
+    }
+   ],
+   "market_cap": 1449509166.0,
+   "shares_outstanding": 14382905.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "NY",
+   "hq": "ITHACA, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T22:24:39+09:00"
+  },
+  {
+   "id": "0001213900-26-111883",
+   "company": "Onconetix, Inc.",
+   "ticker": "ONCO",
+   "cik": 1782107,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "as a lab developed test through its license agreement with Labcorp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026111883/0001213900-26-111883-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026111883/ea0309474-425_onconetix.htm",
+   "filed_at": "2026-10-23T09:22:09-04:00",
+   "filed_kst": "2026-10-23 22:22",
+   "price": 0.41,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 0.41,
+     "change": -0.05
+    },
+    {
+     "date": "2026-10-22",
+     "close": 0.41,
+     "change": -6.44
+    },
+    {
+     "date": "2026-10-21",
+     "close": 0.44,
+     "change": 7.14
+    }
+   ],
+   "market_cap": 1619134.0,
+   "shares_outstanding": 3949107.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CINCINNATI, OH",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T22:22:35+09:00"
+  },
   {
    "id": "0001193125-26-429533",
    "company": "Tempus AI, Inc.",
@@ -15558,112 +15663,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-16T05:16:09+09:00"
-  },
-  {
-   "id": "0001213900-26-109844",
-   "company": "Melar Acquisition Corp. I/Cayman",
-   "ticker": "MACI",
-   "cik": 2016221,
-   "form": "425",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Everli has entered into an agreement and plan of merger, as amended (the “Merger Agreement”), with Melar Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2016221/000121390026109844/0001213900-26-109844-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2016221/000121390026109844/ea030841401ex99-1.htm",
-   "filed_at": "2026-10-15T16:11:53-04:00",
-   "filed_kst": "2026-10-16 05:11",
-   "price": 11.1,
-   "change": 0.18,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 11.1,
-     "change": 0.18
-    },
-    {
-     "date": "2026-10-14",
-     "close": 11.08,
-     "change": 0.27
-    },
-    {
-     "date": "2026-10-13",
-     "close": 11.05,
-     "change": -0.27
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-16T05:12:15+09:00"
-  },
-  {
-   "id": "0001213900-26-109841",
-   "company": "Melar Acquisition Corp. I/Cayman",
-   "ticker": "MACI",
-   "cik": 2016221,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Everli has entered into an agreement and plan of merger, as amended (the “Merger Agreement”), with Melar Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2016221/000121390026109841/0001213900-26-109841-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2016221/000121390026109841/ea030841401ex99-1.htm",
-   "filed_at": "2026-10-15T16:10:16-04:00",
-   "filed_kst": "2026-10-16 05:10",
-   "price": 11.1,
-   "change": 0.18,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 11.1,
-     "change": 0.18
-    },
-    {
-     "date": "2026-10-14",
-     "close": 11.08,
-     "change": 0.27
-    },
-    {
-     "date": "2026-10-13",
-     "close": 11.05,
-     "change": -0.27
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-16T05:11:08+09:00"
   }
  ]
 }
