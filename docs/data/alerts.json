@@ -1,7 +1,110 @@
 {
- "updated_at": "2026-10-24T05:34:49+09:00",
+ "updated_at": "2026-10-24T05:39:04+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-430532",
+   "company": "Avidia Bancorp, Inc.",
+   "ticker": "AVBC",
+   "cik": 2058758,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "During the quarter, we announced a $30 million stock repurchase authorization and commenced repurchases, further supporting stockholder returns.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2058758/000119312526430532/0001193125-26-430532-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2058758/000119312526430532/avbc-ex99_1.htm",
+   "filed_at": "2026-10-23T16:36:31-04:00",
+   "filed_kst": "2026-10-24 05:36",
+   "price": 22.66,
+   "change": 1.39,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 22.66,
+     "change": 1.39
+    },
+    {
+     "date": "2026-10-22",
+     "close": 22.35,
+     "change": 0.68
+    },
+    {
+     "date": "2026-10-21",
+     "close": 22.2,
+     "change": 0.54
+    }
+   ],
+   "market_cap": 452527134.0,
+   "shares_outstanding": 19970306.0,
+   "industry": "Savings Institutions, Not Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "HUDSON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-24T05:37:31+09:00"
+  },
+  {
+   "id": "0001317861-26-000053",
+   "company": "Dynagas LNG Partners LP",
+   "ticker": "DLNG",
+   "cik": 1578453,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(NYSE: DLNG) is a master limited partnership which owns and operates liquefied natural gas (LNG) carriers employed on multi-year charters.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000053/0001317861-26-000053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000053/f102326dlng6k.htm",
+   "filed_at": "2026-10-23T16:34:20-04:00",
+   "filed_kst": "2026-10-24 05:34",
+   "price": 3.32,
+   "change": -1.19,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 3.32,
+     "change": -1.19
+    },
+    {
+     "date": "2026-10-22",
+     "close": 3.36,
+     "change": 0.6
+    },
+    {
+     "date": "2026-10-21",
+     "close": 3.34,
+     "change": -0.3
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Water Transportation",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "ATHENS",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-24T05:35:25+09:00"
+  },
   {
    "id": "0001104659-26-118496",
    "company": "Workday, Inc.",
@@ -15547,112 +15650,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-16T23:00:51+09:00"
-  },
-  {
-   "id": "0001213900-26-110056",
-   "company": "Sanara MedTech Inc.",
-   "ticker": "SMTI",
-   "cik": 714256,
-   "form": "425",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Texas corporation (the “Company” or “Sanara”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with MiMedx Group, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026110056/0001213900-26-110056-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026110056/ea0308837-8k425_sanara.htm",
-   "filed_at": "2026-10-16T09:24:20-04:00",
-   "filed_kst": "2026-10-16 22:24",
-   "price": 35.09,
-   "change": -0.09,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 35.09,
-     "change": -0.09
-    },
-    {
-     "date": "2026-10-14",
-     "close": 35.12,
-     "change": -0.06
-    },
-    {
-     "date": "2026-10-13",
-     "close": 35.14,
-     "change": -0.03
-    }
-   ],
-   "market_cap": 322408148.0,
-   "shares_outstanding": 9188035.0,
-   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
-   "state_of_incorporation": "TX",
-   "hq": "FORT WORTH, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-16T22:25:26+09:00"
-  },
-  {
-   "id": "0001213900-26-110053",
-   "company": "Sanara MedTech Inc.",
-   "ticker": "SMTI",
-   "cik": 714256,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Texas corporation (the “Company” or “Sanara”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with MiMedx Group, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026110053/0001213900-26-110053-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/714256/000121390026110053/ea0308837-8k425_sanara.htm",
-   "filed_at": "2026-10-16T09:20:58-04:00",
-   "filed_kst": "2026-10-16 22:20",
-   "price": 35.09,
-   "change": -0.09,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 35.09,
-     "change": -0.09
-    },
-    {
-     "date": "2026-10-14",
-     "close": 35.12,
-     "change": -0.06
-    },
-    {
-     "date": "2026-10-13",
-     "close": 35.14,
-     "change": -0.03
-    }
-   ],
-   "market_cap": 322408148.0,
-   "shares_outstanding": 9188035.0,
-   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
-   "state_of_incorporation": "TX",
-   "hq": "FORT WORTH, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-16T22:21:36+09:00"
   }
  ]
 }
