@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-24T02:09:36+09:00",
+ "updated_at": "2026-10-24T02:14:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000939057-26-000275",
+   "company": "PROVIDENT FINANCIAL HOLDINGS INC",
+   "ticker": "PROV",
+   "cik": 1010470,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "(the “Corporation”) announced that the Corporation’s Board of Directors authorized the repurchase of up to five percent (5%) of the Company’s common stock, approximately 305,477 shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000275/0000939057-26-000275-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1010470/000093905726000275/prov-20261022.htm",
+   "filed_at": "2026-10-23T13:11:26-04:00",
+   "filed_kst": "2026-10-24 02:11",
+   "price": 18.2,
+   "change": 0.05,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 18.2,
+     "change": 0.05
+    },
+    {
+     "date": "2026-10-22",
+     "close": 18.19,
+     "change": -0.05
+    },
+    {
+     "date": "2026-10-21",
+     "close": 18.2,
+     "change": 0.33
+    }
+   ],
+   "market_cap": 113458036.0,
+   "shares_outstanding": 6233958.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": "DE",
+   "hq": "RIVERSIDE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-24T02:12:37+09:00"
+  },
   {
    "id": "0001434265-26-000138",
    "company": "GENMAB A/S",
@@ -15604,61 +15658,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-16T06:00:56+09:00"
-  },
-  {
-   "id": "0001866175-26-000138",
-   "company": "Crescent Energy Co",
-   "ticker": "CRGY",
-   "cik": 1866175,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.02",
-    "2.03",
-    "7.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "25x of the principal amount of such new debt incurrences, so long as such debt is incurred during such period and does not exceed the $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866175/000186617526000138/0001866175-26-000138-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866175/000186617526000138/crescentenergyfinance-sixt.htm",
-   "filed_at": "2026-10-15T16:30:58-04:00",
-   "filed_kst": "2026-10-16 05:30",
-   "price": 12.51,
-   "change": -2.65,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 12.51,
-     "change": -2.65
-    },
-    {
-     "date": "2026-10-14",
-     "close": 12.85,
-     "change": -1.61
-    },
-    {
-     "date": "2026-10-13",
-     "close": 13.06,
-     "change": 2.19
-    }
-   ],
-   "market_cap": 4133350237.0,
-   "shares_outstanding": 330403696.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-16T05:32:00+09:00"
   }
  ]
 }
