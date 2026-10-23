@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-23T23:39:30+09:00",
+ "updated_at": "2026-10-23T23:44:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000933267-26-000071",
+   "company": "IRSA INVESTMENTS & REPRESENTATIONS INC",
+   "ticker": "IRS",
+   "cik": 933267,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "CONSIDERATION OF THE PRELIMINARY MERGER AGREEMENT.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/933267/000093326726000071/0000933267-26-000071-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/933267/000093326726000071/form6k.htm",
+   "filed_at": "2026-10-23T10:40:16-04:00",
+   "filed_kst": "2026-10-23 23:40",
+   "price": 14.4,
+   "change": 1.34,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 14.4,
+     "change": 1.34
+    },
+    {
+     "date": "2026-10-22",
+     "close": 14.21,
+     "change": -0.28
+    },
+    {
+     "date": "2026-10-21",
+     "close": 14.25,
+     "change": 1.64
+    }
+   ],
+   "market_cap": 12184069277.0,
+   "shares_outstanding": 846115922.0,
+   "industry": "Land Subdividers & Developers (No Cemeteries)",
+   "state_of_incorporation": null,
+   "hq": "BUENOS AIRES, C1",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-23T23:41:02+09:00"
+  },
   {
    "id": "0001292814-26-004996",
    "company": "BANK BRADESCO",
@@ -15606,60 +15656,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-16T05:31:22+09:00"
-  },
-  {
-   "id": "0001437749-26-032716",
-   "company": "DAILY JOURNAL CORP",
-   "ticker": "DJCO",
-   "cik": 783412,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "On October 13, 2026, Daily Journal Corporation (the “Company”) completed the acquisition of Revir Technologies, Inc.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/783412/000143774926032716/0001437749-26-032716-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/783412/000143774926032716/djco20261015_8k.htm",
-   "filed_at": "2026-10-15T16:24:50-04:00",
-   "filed_kst": "2026-10-16 05:24",
-   "price": 638.6,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 638.6,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-15",
-     "close": 638.6,
-     "change": 1.38
-    },
-    {
-     "date": "2026-10-14",
-     "close": 629.9,
-     "change": -2.27
-    }
-   ],
-   "market_cap": 879960147.0,
-   "shares_outstanding": 1377952.0,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "SC",
-   "hq": "LOS ANGELES, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-16T05:25:26+09:00"
   }
  ]
 }
