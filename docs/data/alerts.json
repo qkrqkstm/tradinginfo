@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-23T19:59:29+09:00",
+ "updated_at": "2026-10-23T20:04:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000004962-26-000405",
+   "company": "AMERICAN EXPRESS CO",
+   "ticker": "AXP",
+   "cik": 4962,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "• American Express extended its long-term strategic partnership with Marriott International, including the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000405/0000004962-26-000405-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000405/q326exhibit992.htm",
+   "filed_at": "2026-10-23T07:00:36-04:00",
+   "filed_kst": "2026-10-23 20:00",
+   "price": 325.17,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 325.17,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 325.17,
+     "change": 0.48
+    },
+    {
+     "date": "2026-10-21",
+     "close": 323.61,
+     "change": 1.66
+    }
+   ],
+   "market_cap": 219590498397.0,
+   "shares_outstanding": 675309833.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "NY",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T20:01:22+09:00"
+  },
   {
    "id": "0001062993-26-005511",
    "company": "Americas Gold & Silver Corp",
@@ -15604,59 +15659,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-15T22:33:17+09:00"
-  },
-  {
-   "id": "0001213900-26-109622",
-   "company": "Evolution Metals & Technologies Corp.",
-   "ticker": "EMAT",
-   "cik": 1866226,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026109622/0001213900-26-109622-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026109622/ea030872301ex99-1.htm",
-   "filed_at": "2026-10-15T09:26:18-04:00",
-   "filed_kst": "2026-10-15 22:26",
-   "price": 1.5,
-   "change": 5.26,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 1.5,
-     "change": 5.26
-    },
-    {
-     "date": "2026-10-13",
-     "close": 1.42,
-     "change": -3.06
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.47,
-     "change": -10.37
-    }
-   ],
-   "market_cap": 932700969.0,
-   "shares_outstanding": 621800646.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T22:27:01+09:00"
   }
  ]
 }
