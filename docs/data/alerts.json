@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-10-23T19:29:44+09:00",
+ "updated_at": "2026-10-23T19:34:50+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-005511",
+   "company": "Americas Gold & Silver Corp",
+   "ticker": "USAS",
+   "cik": 1286973,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through a 51/49 joint venture, the Company is developing a fully integrated domestic antimony supply chain-from mine to finished product-to help strengthen America's critical mineral independence.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005511/0001062993-26-005511-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005511/exhibit99-1.htm",
+   "filed_at": "2026-10-23T06:30:38-04:00",
+   "filed_kst": "2026-10-23 19:30",
+   "price": 3.19,
+   "change": -11.39,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 3.19,
+     "change": -11.39
+    },
+    {
+     "date": "2026-10-21",
+     "close": 3.6,
+     "change": -0.28
+    },
+    {
+     "date": "2026-10-20",
+     "close": 3.61,
+     "change": -4.24
+    }
+   ],
+   "market_cap": 1022135915.0,
+   "shares_outstanding": 320418782.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "Canada (Federal Level)",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T19:32:57+09:00"
+  },
+  {
+   "id": "0001140361-26-040580",
+   "company": "FTAI Infrastructure Inc.",
+   "ticker": "FIP",
+   "cik": 1899883,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "As previously disclosed in FIP’s Current Report on Form 8-K filed with the Securities and Exchange Commission (the “SEC”) on September 28, 2026, an indirect subsidiary of FIP has agreed to acquire DRUbit LLC from an affiliate of US Development Group LLC (“USD”) for a purchase price based on an enter",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1899883/000114036126040580/0001140361-26-040580-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1899883/000114036126040580/ef20084326_8k.htm",
+   "filed_at": "2026-10-23T06:31:15-04:00",
+   "filed_kst": "2026-10-23 19:31",
+   "price": 2.52,
+   "change": 4.56,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 2.52,
+     "change": 4.56
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2.41,
+     "change": 4.33
+    },
+    {
+     "date": "2026-10-20",
+     "close": 2.31,
+     "change": -0.43
+    }
+   ],
+   "market_cap": 297817977.0,
+   "shares_outstanding": 118181737.0,
+   "industry": "Railroads, Line-Haul Operating",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T19:32:55+09:00"
+  },
+  {
+   "id": "0000798941-26-000041",
+   "company": "FIRST CITIZENS BANCSHARES INC /DE/",
+   "ticker": "FCNCA",
+   "cik": 798941,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "EX-99.3 4 a3q26_fsx993.htm EX-99.3 Document Financial Supplement First Citizens BancShares, Inc. September 30, 2026 Summary Financial Data and Metrics dollars in millions, except per share data Three Months Ended Increase (Decrease) From LQ (4) Nine Months Ended Increase (Decrease) From PYTD Septemb",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798941/000079894126000041/0000798941-26-000041-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/798941/000079894126000041/a3q26_fsx993.htm",
+   "filed_at": "2026-10-23T06:31:24-04:00",
+   "filed_kst": "2026-10-23 19:31",
+   "price": 2196.76,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 2196.76,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2196.76,
+     "change": 2.47
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2143.91,
+     "change": 1.11
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "RALEIGH, NC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T19:32:53+09:00"
+  },
   {
    "id": "0001193125-26-429411",
    "company": "WOORI FINANCIAL GROUP INC.",
@@ -15502,163 +15657,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-15T22:27:01+09:00"
-  },
-  {
-   "id": "0001171843-26-006647",
-   "company": "Edesa Biotech, Inc.",
-   "ticker": "EDSA",
-   "cik": 1540159,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "The Company anticipates that topline data will be available fourth quarter 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1540159/000117184326006647/0001171843-26-006647-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1540159/000117184326006647/f8k_101426.htm",
-   "filed_at": "2026-10-15T09:15:14-04:00",
-   "filed_kst": "2026-10-15 22:15",
-   "price": 2.65,
-   "change": -7.02,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 2.65,
-     "change": -7.02
-    },
-    {
-     "date": "2026-10-13",
-     "close": 2.85,
-     "change": -3.06
-    },
-    {
-     "date": "2026-10-12",
-     "close": 2.94,
-     "change": -16.24
-    }
-   ],
-   "market_cap": 25548732.0,
-   "shares_outstanding": 9641031.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-15T22:16:06+09:00"
-  },
-  {
-   "id": "0001104659-26-116011",
-   "company": "Canaan Inc.",
-   "ticker": "CAN",
-   "cik": 1780652,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "The repurchases will be executed under the Company’s existing share repurchase program authorized by its board of directors on December 12, 2025.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1780652/000110465926116011/0001104659-26-116011-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1780652/000110465926116011/tm2627656d1_ex99-1.htm",
-   "filed_at": "2026-10-15T09:10:54-04:00",
-   "filed_kst": "2026-10-15 22:10",
-   "price": 0.26,
-   "change": -0.04,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 0.26,
-     "change": -0.04
-    },
-    {
-     "date": "2026-10-14",
-     "close": 0.26,
-     "change": -7.53
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.28,
-     "change": -1.76
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Finance Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE, U0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-15T22:11:38+09:00"
-  },
-  {
-   "id": "0001104659-26-116005",
-   "company": "BEAZER HOMES USA INC",
-   "ticker": "BZH",
-   "cik": 915840,
-   "form": "8-K",
-   "items": [
-    "5.07",
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "(the “ Company ”, “ we ”, “ our ” or “ us ”) held a virtual special meeting of its stockholders (the “ Special Meeting ”) to vote on the proposals identified in the Company’s definitive proxy statement prepared in connection with the Merger Agreement (as defined below) and filed with the U.",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/915840/000110465926116005/0001104659-26-116005-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/915840/000110465926116005/tm2622398d18_8k.htm",
-   "filed_at": "2026-10-15T08:50:07-04:00",
-   "filed_kst": "2026-10-15 21:50",
-   "price": 33.31,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 33.31,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-14",
-     "close": 33.31,
-     "change": -0.39
-    },
-    {
-     "date": "2026-10-13",
-     "close": 33.44,
-     "change": 0.03
-    }
-   ],
-   "market_cap": 888698242.0,
-   "shares_outstanding": 26679623.0,
-   "industry": "Operative Builders",
-   "state_of_incorporation": "DE",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T21:50:33+09:00"
   }
  ]
 }
