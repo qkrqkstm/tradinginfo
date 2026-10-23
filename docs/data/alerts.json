@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-23T23:59:19+09:00",
+ "updated_at": "2026-10-24T00:04:47+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-118368",
+   "company": "NorthEast Community Bancorp, Inc./MD/",
+   "ticker": "NECB",
+   "cik": 1847398,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "The Company commenced its third stock repurchase program on December 10, 2025 whereby the Company is authorized to repurchase up to 1,400,435, or 10%, of the Company’s issued and outstanding common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1847398/000110465926118368/0001104659-26-118368-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1847398/000110465926118368/tm2628181d1_ex99-1.htm",
+   "filed_at": "2026-10-23T10:59:51-04:00",
+   "filed_kst": "2026-10-23 23:59",
+   "price": 27.61,
+   "change": -4.08,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 27.6,
+     "change": -4.08
+    },
+    {
+     "date": "2026-10-22",
+     "close": 28.78,
+     "change": 1.88
+    },
+    {
+     "date": "2026-10-21",
+     "close": 28.25,
+     "change": 0.36
+    }
+   ],
+   "market_cap": 380080889.0,
+   "shares_outstanding": 13766059.0,
+   "industry": "Savings Institutions, Not Federally Chartered",
+   "state_of_incorporation": "MD",
+   "hq": "WHITE PLAINS, NY",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-24T00:01:10+09:00"
+  },
   {
    "id": "0000933267-26-000071",
    "company": "IRSA INVESTMENTS & REPRESENTATIONS INC",
@@ -15602,60 +15658,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-16T05:31:25+09:00"
-  },
-  {
-   "id": "0001829126-26-011189",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "ticker": "NTHI",
-   "cik": 1979414,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Neither product is approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626011189/0001829126-26-011189-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626011189/neonctechnologies_ex99-2.htm",
-   "filed_at": "2026-10-15T16:30:15-04:00",
-   "filed_kst": "2026-10-16 05:30",
-   "price": 2.75,
-   "change": 3.38,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 2.75,
-     "change": 3.38
-    },
-    {
-     "date": "2026-10-14",
-     "close": 2.66,
-     "change": 2.5
-    },
-    {
-     "date": "2026-10-13",
-     "close": 2.6,
-     "change": -4.95
-    }
-   ],
-   "market_cap": 71325004.0,
-   "shares_outstanding": 25936365.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CALABASAS, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-16T05:31:22+09:00"
   }
  ]
 }
