@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-23T19:14:38+09:00",
+ "updated_at": "2026-10-23T19:19:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-429411",
+   "company": "WOORI FINANCIAL GROUP INC.",
+   "ticker": "WF",
+   "cik": 1264136,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Form 20-F ☒ Form 40-F ☐ Resolution for the Cancellation of Treasury Shares On October 23, 2026, the board of directors of Woori Financial Group Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1264136/000119312526429411/0001193125-26-429411-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1264136/000119312526429411/d190156d6k.htm",
+   "filed_at": "2026-10-23T06:17:16-04:00",
+   "filed_kst": "2026-10-23 19:17",
+   "price": 69.17,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 69.17,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 69.17,
+     "change": -1.9
+    },
+    {
+     "date": "2026-10-21",
+     "close": 70.51,
+     "change": -0.44
+    }
+   ],
+   "market_cap": 50772327679.0,
+   "shares_outstanding": 734022375.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Korea, Republic of",
+   "hq": "SEOUL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T19:18:06+09:00"
+  },
   {
    "id": "0001937653-26-000055",
    "company": "Zymeworks Inc.",
@@ -15609,56 +15659,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-15T21:50:33+09:00"
-  },
-  {
-   "id": "0001104659-26-116003",
-   "company": "Evotec SE",
-   "ticker": "EVO",
-   "cik": 1412558,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Our offerings range from standalone services to fully integrated R&D programs and long-term strategic partnerships, combining scientific excellence with operational agility.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1412558/000110465926116003/0001104659-26-116003-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1412558/000110465926116003/tm2627661d1_ex99-1.htm",
-   "filed_at": "2026-10-15T08:43:23-04:00",
-   "filed_kst": "2026-10-15 21:43",
-   "price": 1.43,
-   "change": -0.35,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 1.43,
-     "change": -0.35
-    },
-    {
-     "date": "2026-10-14",
-     "close": 1.43,
-     "change": 5.93
-    },
-    {
-     "date": "2026-10-13",
-     "close": 1.35,
-     "change": -1.46
-    }
-   ],
-   "market_cap": 254223837.0,
-   "shares_outstanding": 177778907.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Germany",
-   "hq": "HAMBURG",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T21:44:17+09:00"
   }
  ]
 }
