@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-24T06:19:17+09:00",
+ "updated_at": "2026-10-24T06:24:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-048280",
+   "company": "HomesToLife Ltd",
+   "ticker": "HTLM",
+   "cik": 2023153,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "We also intend to extend the HomesToLife retail store concept into selected cities in the Asia-Pacific region and explore mergers and acquisitions, strategic partnerships and distributorship arrangements with local companies to deepen our connection with local markets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023153/000149315226048280/0001493152-26-048280-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023153/000149315226048280/ex99-1.htm",
+   "filed_at": "2026-10-23T17:20:06-04:00",
+   "filed_kst": "2026-10-24 06:20",
+   "price": 1.6,
+   "change": -2.44,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 1.6,
+     "change": -2.44
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1.64,
+     "change": -4.37
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1.72,
+     "change": 3.94
+    }
+   ],
+   "market_cap": 143500000.0,
+   "shares_outstanding": 89687500.0,
+   "industry": "Retail-Furniture Stores",
+   "state_of_incorporation": null,
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-24T06:21:03+09:00"
+  },
   {
    "id": "0001213900-26-112181",
    "company": "Launch Two Acquisition Corp.",
@@ -15605,57 +15656,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-17T05:17:34+09:00"
-  },
-  {
-   "id": "0001493152-26-047400",
-   "company": "Ainos, Inc.",
-   "ticker": "AIMD",
-   "cik": 1014763,
-   "form": "8-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "Shares of stock of the Corporation shall be transferable only on the books of the Corporation by the holders thereof in person or by their duly authorized attorneys or legal representatives, and in the case of certificated shares, upon surrender and cancellation of certificates for a like number of ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226047400/0001493152-26-047400-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226047400/ex99-1.htm",
-   "filed_at": "2026-10-16T16:10:14-04:00",
-   "filed_kst": "2026-10-17 05:10",
-   "price": 0.92,
-   "change": 0.02,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 0.92,
-     "change": 0.02
-    },
-    {
-     "date": "2026-10-16",
-     "close": 0.92,
-     "change": -3.77
-    },
-    {
-     "date": "2026-10-15",
-     "close": 0.96,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 6793347.0,
-   "shares_outstanding": 7384073.0,
-   "industry": "Computer Peripheral Equipment, NEC",
-   "state_of_incorporation": "TX",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-17T05:11:04+09:00"
   }
  ]
 }
