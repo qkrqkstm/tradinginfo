@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-10-24T05:59:22+09:00",
+ "updated_at": "2026-10-24T06:04:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001087294-26-000070",
+   "company": "CUMBERLAND PHARMACEUTICALS INC",
+   "ticker": "CPIX",
+   "cik": 1087294,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 64,
+   "summary": "(“Cumberland”) announced top-line results from its Phase 2a ASSIST-SSc trial evaluating oral ifetroban for patients with systemic sclerosis.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1087294/000108729426000070/0001087294-26-000070-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1087294/000108729426000070/cpix-20261023.htm",
+   "filed_at": "2026-10-23T17:01:57-04:00",
+   "filed_kst": "2026-10-24 06:01",
+   "price": 8.49,
+   "change": 0.12,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 8.49,
+     "change": 0.12
+    },
+    {
+     "date": "2026-10-22",
+     "close": 8.48,
+     "change": 3.79
+    },
+    {
+     "date": "2026-10-21",
+     "close": 8.17,
+     "change": 2.64
+    }
+   ],
+   "market_cap": 127206578.0,
+   "shares_outstanding": 14983107.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "TN",
+   "hq": "NASHVILLE,, TN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-24T06:02:40+09:00"
+  },
+  {
+   "id": "0001213900-26-112171",
+   "company": "Bold Eagle Acquisition Corp.",
+   "ticker": "BEAG",
+   "cik": 1852207,
+   "form": "425",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "The strength of its technology is reflected in its business performance, with $246 million in revenue for the last twelve months, ended December 31, 2025, alongside $233 million in contracted backlog.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1852207/000121390026112171/0001213900-26-112171-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852207/000121390026112171/ea0309564-425_redlinter.htm",
+   "filed_at": "2026-10-23T17:01:01-04:00",
+   "filed_kst": "2026-10-24 06:01",
+   "price": 10.52,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 10.52,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 10.52,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-21",
+     "close": 10.51,
+     "change": -0.66
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-24T06:02:08+09:00"
+  },
+  {
+   "id": "0001140361-26-040674",
+   "company": "Valaris Ltd",
+   "ticker": "VAL",
+   "cik": 314808,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Swiss corporation (“ Transocean ”), entered into a Business Combination Agreement (the “ Agreement ”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/314808/000114036126040674/0001140361-26-040674-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/314808/000114036126040674/ef20084275_8k.htm",
+   "filed_at": "2026-10-23T17:00:40-04:00",
+   "filed_kst": "2026-10-24 06:00",
+   "price": 97.33,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 97.33,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 97.33,
+     "change": 5.58
+    },
+    {
+     "date": "2026-10-22",
+     "close": 92.19,
+     "change": 0.51
+    }
+   ],
+   "market_cap": 6758187095.0,
+   "shares_outstanding": 69435807.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": null,
+   "hq": "HAMILTON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-24T06:01:31+09:00"
+  },
   {
    "id": "0001193125-26-430532",
    "company": "Avidia Bancorp, Inc.",
@@ -15507,149 +15662,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-17T05:06:02+09:00"
-  },
-  {
-   "id": "0001493152-26-047354",
-   "company": "INTERMAP TECHNOLOGIES CORP",
-   "ticker": "ITMSF",
-   "cik": 1285170,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Full Description of Material Change On October 7, 2026, Intermap completed the acquisition of the PCI Shares by way of the Arrangement pursuant to the Arrangement Agreement.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1285170/000149315226047354/0001493152-26-047354-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1285170/000149315226047354/ex99-1.htm",
-   "filed_at": "2026-10-16T11:50:03-04:00",
-   "filed_kst": "2026-10-17 00:50",
-   "price": 0.57,
-   "change": 0.02,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 0.57,
-     "change": 0.02
-    },
-    {
-     "date": "2026-10-16",
-     "close": 0.57,
-     "change": 2.48
-    },
-    {
-     "date": "2026-10-15",
-     "close": 0.56,
-     "change": 3.7
-    }
-   ],
-   "market_cap": 41289468.0,
-   "shares_outstanding": 72437664.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Alberta, Canada",
-   "hq": "CALGARY, A0",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-17T00:50:31+09:00"
-  },
-  {
-   "id": "0001213900-26-110084",
-   "company": "Clear Channel Outdoor Holdings, Inc.",
-   "ticker": "CCO",
-   "cik": 1334978,
-   "form": "8-K/A",
-   "items": [
-    "1.01",
-    "2.01",
-    "5.01",
-    "5.02"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The total amount of cash consideration payable to the Company’s equityholders at closing in connection with the Merger and pursuant to the Merger Agreement was approximately $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026110084/0001213900-26-110084-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1334978/000121390026110084/ea0308861-8ka1_clear.htm",
-   "filed_at": "2026-10-16T11:09:29-04:00",
-   "filed_kst": "2026-10-17 00:09",
-   "price": 2.42,
-   "change": -0.41,
-   "price_history": [],
-   "market_cap": 1232007105.0,
-   "shares_outstanding": 509093845.0,
-   "industry": "Services-Advertising",
-   "state_of_incorporation": null,
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-17T00:10:32+09:00"
-  },
-  {
-   "id": "0001193125-26-423478",
-   "company": "COPART INC",
-   "ticker": "CPRT",
-   "cik": 900075,
-   "form": "8-K",
-   "items": [
-    "2.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 71,
-   "summary": "Following the completion of the tender offer, Copart completed the acquisition of ACV through the merger of Purchaser with ACV.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526423478/0001193125-26-423478-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526423478/d129535dex991.htm",
-   "filed_at": "2026-10-16T09:59:35-04:00",
-   "filed_kst": "2026-10-16 22:59",
-   "price": 28.16,
-   "change": 1.48,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 28.16,
-     "change": 1.48
-    },
-    {
-     "date": "2026-10-15",
-     "close": 27.75,
-     "change": 5.63
-    },
-    {
-     "date": "2026-10-14",
-     "close": 26.27,
-     "change": -0.38
-    }
-   ],
-   "market_cap": 26085465528.0,
-   "shares_outstanding": 926330452.0,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "DE",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-16T23:00:51+09:00"
   }
  ]
 }
