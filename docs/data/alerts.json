@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-23T22:59:28+09:00",
+ "updated_at": "2026-10-23T23:04:58+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001292814-26-004996",
+   "company": "BANK BRADESCO",
+   "ticker": "BBD",
+   "cik": 1160330,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 79,
+   "summary": "9,040,875 e) Treasury shares On May 07, 2025, the Board of Directors resolved to institute a new buyback program that authorizes Bradesco's Board of Executive Officers to acquire, in the period from May 08, 2025 to November 08, 2026, up to 106,584,881 book-entry, registered shares, with no par value",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004996/0001292814-26-004996-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004996/bbdifrs3q26_6k.htm",
+   "filed_at": "2026-10-23T10:01:01-04:00",
+   "filed_kst": "2026-10-23 23:01",
+   "price": 3.91,
+   "change": -1.01,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 3.91,
+     "change": -1.01
+    },
+    {
+     "date": "2026-10-22",
+     "close": 3.95,
+     "change": -2.47
+    },
+    {
+     "date": "2026-10-21",
+     "close": 4.05,
+     "change": -0.74
+    }
+   ],
+   "market_cap": 7354045370.0,
+   "shares_outstanding": 1880830018.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "SAO PAULO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T23:01:55+09:00"
+  },
   {
    "id": "0001292814-26-004992",
    "company": "BANK BRADESCO",
@@ -15608,60 +15660,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-16T05:25:26+09:00"
-  },
-  {
-   "id": "0001731122-26-001348",
-   "company": "ANAVEX LIFE SCIENCES CORP.",
-   "ticker": "AVXL",
-   "cik": 1314052,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Blarcamesine has previously received Orphan Drug Designation from the FDA for the treatment of Fragile X syndrome.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1314052/000173112226001348/0001731122-26-001348-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1314052/000173112226001348/e8009_ex99-1.htm",
-   "filed_at": "2026-10-15T16:18:27-04:00",
-   "filed_kst": "2026-10-16 05:18",
-   "price": 1.48,
-   "change": -0.67,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 1.48,
-     "change": -0.67
-    },
-    {
-     "date": "2026-10-14",
-     "close": 1.49,
-     "change": 0.68
-    },
-    {
-     "date": "2026-10-13",
-     "close": 1.48,
-     "change": -1.99
-    }
-   ],
-   "market_cap": 137191326.0,
-   "shares_outstanding": 92696842.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-16T05:18:53+09:00"
   }
  ]
 }
