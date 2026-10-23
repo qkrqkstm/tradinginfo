@@ -1,7 +1,436 @@
 {
- "updated_at": "2026-10-23T18:59:27+09:00",
+ "updated_at": "2026-10-23T19:04:54+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-048160",
+   "company": "Limitless X Holdings Inc.",
+   "ticker": "LIMX",
+   "cik": 1803977,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "5.03",
+    "9.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "No outstanding shares were cancelled, converted or otherwise affected by the Amendments or the Class F Certificate.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1803977/000149315226048160/0001493152-26-048160-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1803977/000149315226048160/ex3-3.htm",
+   "filed_at": "2026-10-23T06:03:55-04:00",
+   "filed_kst": "2026-10-23 19:03",
+   "price": 0.25,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 0.25,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 0.25,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 0.25,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 4626739.0,
+   "shares_outstanding": 18506957.0,
+   "industry": "Services-Miscellaneous Amusement & Recreation",
+   "state_of_incorporation": "DE",
+   "hq": "BEVERLY HILLS, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-23T19:04:53+09:00"
+  },
+  {
+   "id": "0001185185-26-004935",
+   "company": "UY Scuti Acquisition Corp.",
+   "ticker": "UYSC",
+   "cik": 2036973,
+   "form": "425",
+   "items": [
+    "1.01",
+    "2.03",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(the “ Company ” or “ UYSC ”), on July 18, 2025, the Company entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Isdera Group Limited, a Cayman Islands company (“ Isdera Group ”), a company that shall become the parent company of Xinghui Automotive Technology (Hainan) Co.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2036973/000118518526004935/0001185185-26-004935-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2036973/000118518526004935/uysc8k425102226.htm",
+   "filed_at": "2026-10-23T06:03:49-04:00",
+   "filed_kst": "2026-10-23 19:03",
+   "price": 10.94,
+   "change": 0.27,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 10.94,
+     "change": 0.27
+    },
+    {
+     "date": "2026-10-21",
+     "close": 10.91,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.91,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 57118396.0,
+   "shares_outstanding": 5221060.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T19:04:20+09:00"
+  },
+  {
+   "id": "0001185185-26-004933",
+   "company": "UY Scuti Acquisition Corp.",
+   "ticker": "UYSC",
+   "cik": 2036973,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.03",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(the “ Company ” or “ UYSC ”), on July 18, 2025, the Company entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Isdera Group Limited, a Cayman Islands company (“ Isdera Group ”), a company that shall become the parent company of Xinghui Automotive Technology (Hainan) Co.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2036973/000118518526004933/0001185185-26-004933-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2036973/000118518526004933/uysc8k425102226.htm",
+   "filed_at": "2026-10-23T06:00:29-04:00",
+   "filed_kst": "2026-10-23 19:00",
+   "price": 10.94,
+   "change": 0.27,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 10.94,
+     "change": 0.27
+    },
+    {
+     "date": "2026-10-21",
+     "close": 10.91,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.91,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 57118396.0,
+   "shares_outstanding": 5221060.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T19:03:42+09:00"
+  },
+  {
+   "id": "0001213900-26-111832",
+   "company": "Inflection Point Acquisition Corp. VI",
+   "ticker": "IPFX",
+   "cik": 2102041,
+   "form": "425",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation and direct, wholly owned subsidiary of PubCo (“Merger Sub”) and Quantum Space, LLC (“Quantum Space”), a Delaware limited liability company, entered into a Business Combination Agreement (the “Business Combination Agreement”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026111832/0001213900-26-111832-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026111832/ea0309420-8k425_inflect6.htm",
+   "filed_at": "2026-10-22T21:58:59-04:00",
+   "filed_kst": "2026-10-23 10:58",
+   "price": 10.03,
+   "change": -0.1,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 10.03,
+     "change": -0.1
+    },
+    {
+     "date": "2026-10-21",
+     "close": 10.04,
+     "change": 0.3
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.01,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "MIAMI BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T19:03:10+09:00"
+  },
+  {
+   "id": "0001213900-26-111829",
+   "company": "Inflection Point Acquisition Corp. VI",
+   "ticker": "IPFX",
+   "cik": 2102041,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation and direct, wholly owned subsidiary of PubCo (“Merger Sub”) and Quantum Space, LLC (“Quantum Space”), a Delaware limited liability company, entered into a Business Combination Agreement (the “Business Combination Agreement”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026111829/0001213900-26-111829-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026111829/ea0309420-8k425_inflect6.htm",
+   "filed_at": "2026-10-22T21:58:05-04:00",
+   "filed_kst": "2026-10-23 10:58",
+   "price": 10.03,
+   "change": -0.1,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 10.03,
+     "change": -0.1
+    },
+    {
+     "date": "2026-10-21",
+     "close": 10.04,
+     "change": 0.3
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.01,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "MIAMI BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T19:03:05+09:00"
+  },
+  {
+   "id": "0001213900-26-111781",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "4 [14:39] Nick Clayton And I saw you also announced a joint venture in the Middle East region as well recently.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026111781/0001213900-26-111781-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026111781/ea0309424-425_inflection7.htm",
+   "filed_at": "2026-10-22T19:10:30-04:00",
+   "filed_kst": "2026-10-23 08:10",
+   "price": 10.08,
+   "change": -0.2,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 10.08,
+     "change": -0.2
+    },
+    {
+     "date": "2026-10-21",
+     "close": 10.1,
+     "change": 0.2
+    },
+    {
+     "date": "2026-10-20",
+     "close": 10.08,
+     "change": 0.3
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T19:01:27+09:00"
+  },
+  {
+   "id": "0001292814-26-004984",
+   "company": "BANK BRADESCO",
+   "ticker": "BBD",
+   "cik": 1160330,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Renewal of the Company's Shares Buyback Program Banco Bradesco S.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004984/0001292814-26-004984-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004984/bbd20261022_6k.htm",
+   "filed_at": "2026-10-22T18:16:44-04:00",
+   "filed_kst": "2026-10-23 07:16",
+   "price": 3.95,
+   "change": -2.47,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 3.95,
+     "change": -2.47
+    },
+    {
+     "date": "2026-10-21",
+     "close": 4.05,
+     "change": -0.74
+    },
+    {
+     "date": "2026-10-20",
+     "close": 4.08,
+     "change": 3.55
+    }
+   ],
+   "market_cap": 7429278571.0,
+   "shares_outstanding": 1880830018.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "SAO PAULO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T19:01:26+09:00"
+  },
+  {
+   "id": "0001564708-26-000235",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000235/0001564708-26-000235-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000235/appendix3cclassa20261022.htm",
+   "filed_at": "2026-10-22T18:07:07-04:00",
+   "filed_kst": "2026-10-23 07:07",
+   "price": 33.95,
+   "change": 2.01,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 33.95,
+     "change": 2.01
+    },
+    {
+     "date": "2026-10-21",
+     "close": 33.28,
+     "change": -0.36
+    },
+    {
+     "date": "2026-10-20",
+     "close": 33.4,
+     "change": 1.52
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-23T19:00:49+09:00"
+  },
   {
    "id": "0001213900-26-111763",
    "company": "Valor Energy Inc",
@@ -15228,431 +15657,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-15T21:43:13+09:00"
-  },
-  {
-   "id": "0001213900-26-109602",
-   "company": "Mint Inc Ltd",
-   "ticker": "AXNX",
-   "cik": 1998560,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Its indirect majority-owned joint venture entity, Rice Robotics (Hong Kong) Limited (“Rice Robotics HK”), has joined the Embodied AI International Applications Hub (the “Hub”) as one of its first batch of technology partners.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1998560/000121390026109602/0001213900-26-109602-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1998560/000121390026109602/ea030871801ex99-1.htm",
-   "filed_at": "2026-10-15T08:40:13-04:00",
-   "filed_kst": "2026-10-15 21:40",
-   "price": 0.59,
-   "change": -0.17,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 0.59,
-     "change": -0.17
-    },
-    {
-     "date": "2026-10-14",
-     "close": 0.59,
-     "change": -16.48
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.71,
-     "change": -26.27
-    }
-   ],
-   "market_cap": 10627375.0,
-   "shares_outstanding": 18012500.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "HONG KONG, K3",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T21:40:35+09:00"
-  },
-  {
-   "id": "0001214659-26-012934",
-   "company": "OpenWorld, Inc.",
-   "ticker": "OPNW",
-   "cik": 1104038,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "1 OpenWorld (NASDAQ: OPNW) Signs Term Sheet to Finance Solar-Powered, Distributed AI Computing Network Initially Integrated with Residential Battery Storage with Tokenized Financing Program of up to $1 Billion Agreement is entered into with Meridian, a venture led by former Tesla Board Observer and ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012934/0001214659-26-012934-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012934/ex99_1.htm",
-   "filed_at": "2026-10-15T08:30:28-04:00",
-   "filed_kst": "2026-10-15 21:30",
-   "price": 3.05,
-   "change": -8.68,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 3.05,
-     "change": -8.68
-    },
-    {
-     "date": "2026-10-13",
-     "close": 3.34,
-     "change": -16.08
-    },
-    {
-     "date": "2026-10-12",
-     "close": 3.98,
-     "change": -10.96
-    }
-   ],
-   "market_cap": 40153848.0,
-   "shares_outstanding": 13165196.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "NV",
-   "hq": "LAKE MARY, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-15T21:31:13+09:00"
-  },
-  {
-   "id": "0001193125-26-422329",
-   "company": "TheRealReal, Inc.",
-   "ticker": "REAL",
-   "cik": 1573221,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "For purposes of this definition, a Person shall not be deemed to have beneficial ownership of securities subject to a stock purchase agreement, merger agreement or similar agreement until the consummation of the transactions contemplated by such agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1573221/000119312526422329/0001193125-26-422329-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1573221/000119312526422329/d170302dex991.htm",
-   "filed_at": "2026-10-15T08:27:43-04:00",
-   "filed_kst": "2026-10-15 21:27",
-   "price": 9.1,
-   "change": -7.24,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 9.1,
-     "change": -7.24
-    },
-    {
-     "date": "2026-10-13",
-     "close": 9.81,
-     "change": 1.24
-    },
-    {
-     "date": "2026-10-12",
-     "close": 9.69,
-     "change": -0.62
-    }
-   ],
-   "market_cap": 1107207146.0,
-   "shares_outstanding": 121671115.0,
-   "industry": "Retail-Miscellaneous Retail",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-15T21:28:30+09:00"
-  },
-  {
-   "id": "0001193125-26-422325",
-   "company": "ASP Isotopes Inc.",
-   "ticker": "ASPI",
-   "cik": 1921865,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "1 Quantum Leap Energy and Necsa Sign Binding Heads of Agreement to Establish Joint Venture for HALEU Production in South Africa Joint Venture Supported by Offtake Agreements with TerraPower, Initial Regulatory Approvals, and Access to Site Infrastructure to enable QLE and Necsa to Advance Toward Com",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1921865/000119312526422325/0001193125-26-422325-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1921865/000119312526422325/aspi-ex99_1.htm",
-   "filed_at": "2026-10-15T08:22:40-04:00",
-   "filed_kst": "2026-10-15 21:22",
-   "price": 2.07,
-   "change": -9.21,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 2.07,
-     "change": -9.21
-    },
-    {
-     "date": "2026-10-13",
-     "close": 2.28,
-     "change": -6.56
-    },
-    {
-     "date": "2026-10-12",
-     "close": 2.44,
-     "change": -7.92
-    }
-   ],
-   "market_cap": 317350417.0,
-   "shares_outstanding": 153309380.0,
-   "industry": "Miscellaneous Chemical Products",
-   "state_of_incorporation": "DE",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T21:23:07+09:00"
-  },
-  {
-   "id": "0001683168-26-007857",
-   "company": "Valion Bio, Inc.",
-   "ticker": "VBIO",
-   "cik": 1787740,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The product candidate has received Fast Track and Orphan Drug designations from the FDA.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007857/0001683168-26-007857-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826007857/valion_ex9901.htm",
-   "filed_at": "2026-10-15T08:00:14-04:00",
-   "filed_kst": "2026-10-15 21:00",
-   "price": 1.45,
-   "change": -6.45,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 1.45,
-     "change": -6.45
-    },
-    {
-     "date": "2026-10-13",
-     "close": 1.55,
-     "change": -7.74
-    },
-    {
-     "date": "2026-10-12",
-     "close": 1.68,
-     "change": -21.5
-    }
-   ],
-   "market_cap": 32175122.0,
-   "shares_outstanding": 22189739.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T21:00:52+09:00"
-  },
-  {
-   "id": "0001213900-26-109587",
-   "company": "Jasper Therapeutics, Inc.",
-   "ticker": "JSPR",
-   "cik": 1788028,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Vensobafusp alfa is being evaluated in Phase 2 POC trials across multiple renal diseases and hematologic indications and has been granted Orphan Drug Designation by the FDA for the treatment of paroxysmal nocturnal hemoglobinuria (PNH).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1788028/000121390026109587/0001213900-26-109587-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1788028/000121390026109587/ea030865701ex99-1.htm",
-   "filed_at": "2026-10-15T08:00:17-04:00",
-   "filed_kst": "2026-10-15 21:00",
-   "price": 0.5,
-   "change": 1.01,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 0.5,
-     "change": 1.01
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.5,
-     "change": -10.63
-    },
-    {
-     "date": "2026-10-12",
-     "close": 0.56,
-     "change": -2.63
-    }
-   ],
-   "market_cap": 16637280.0,
-   "shares_outstanding": 33274561.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "REDWOOD CITY, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-15T21:00:50+09:00"
-  },
-  {
-   "id": "0001104659-26-115960",
-   "company": "KIMBERLY CLARK CORP",
-   "ticker": "KMB",
-   "cik": 55785,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 59,
-   "summary": "· Equity Company Adjustments – Kimberly-Clark’s proportionate share of charges recognized by the Joint Venture formed as part of the completion of the IFP Transaction for certain acquisition-related accounting impacts and restructuring charges.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926115960/0001104659-26-115960-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926115960/tm2627599d1_ex99-1.htm",
-   "filed_at": "2026-10-15T07:08:22-04:00",
-   "filed_kst": "2026-10-15 20:08",
-   "price": 99.41,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 99.41,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-14",
-     "close": 99.41,
-     "change": 1.14
-    },
-    {
-     "date": "2026-10-13",
-     "close": 98.29,
-     "change": -0.49
-    }
-   ],
-   "market_cap": 33061682168.0,
-   "shares_outstanding": 332579038.0,
-   "industry": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
-   "state_of_incorporation": "DE",
-   "hq": "IRVING, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-15T20:09:01+09:00"
-  },
-  {
-   "id": "0001656472-26-000061",
-   "company": "Cronos Group Inc.",
-   "ticker": "CRON",
-   "cik": 1656472,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Pursuant to the Addendum, Dutch BidCo waived all its conditions to closing under the Purchase Agreement and completed the acquisition of all of the issued and outstanding shares of CanAdelaar, resulting in CanAdelaar becoming a wholly owned subsidiary of the Company on October 15, 2026 (the “Transac",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1656472/000165647226000061/0001656472-26-000061-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1656472/000165647226000061/exhibit21-canadelaarspaadd.htm",
-   "filed_at": "2026-10-15T07:02:21-04:00",
-   "filed_kst": "2026-10-15 20:02",
-   "price": 3.16,
-   "change": -1.25,
-   "price_history": [
-    {
-     "date": "2026-10-14",
-     "close": 3.16,
-     "change": -1.25
-    },
-    {
-     "date": "2026-10-13",
-     "close": 3.2,
-     "change": -0.31
-    },
-    {
-     "date": "2026-10-12",
-     "close": 3.21,
-     "change": -0.62
-    }
-   ],
-   "market_cap": 1164184650.0,
-   "shares_outstanding": 368412864.0,
-   "industry": "Medicinal Chemicals & Botanical Products",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "STAYNER, A6",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-15T20:03:03+09:00"
   }
  ]
 }
