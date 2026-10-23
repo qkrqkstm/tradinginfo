@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-23T21:19:39+09:00",
+ "updated_at": "2026-10-23T21:24:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-118301",
+   "company": "Perfect Corp.",
+   "ticker": "PERF",
+   "cik": 1899830,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "EX-99.1 2 tm2627441d2_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Perfect Announces Completion of Merger New York – October 23, 2026 – Perfect Corp. (NYSE: PERF) (“Perfect” or the “Company”), a leading artificial intelligence (“AI”) company offering AI and augmented reality (“AR”) powered solutions to beau",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1899830/000110465926118301/0001104659-26-118301-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1899830/000110465926118301/tm2627441d2_ex99-1.htm",
+   "filed_at": "2026-10-23T08:20:06-04:00",
+   "filed_kst": "2026-10-23 21:20",
+   "price": 1.99,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 1.99,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1.99,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "close": 1.99,
+     "change": 0.51
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW TAIPEI CITY, F5",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-23T21:21:02+09:00"
+  },
   {
    "id": "0001213900-26-111864",
    "company": "60 DEGREES PHARMACEUTICALS, INC.",
@@ -15613,61 +15664,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-16T05:06:37+09:00"
-  },
-  {
-   "id": "0001213900-26-109826",
-   "company": "Aditxt, Inc.",
-   "ticker": "ADTX",
-   "cik": 1726711,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "1.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(the “ Company ”), entered into a Business Combination Agreement (the “ Business Combination Agreement ”) with Copley Acquisition Corp, a Cayman Islands exempted company (“ Copley ”), Ignite Proteomics Holdings, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1726711/000121390026109826/0001213900-26-109826-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1726711/000121390026109826/ea0308693-8k_aditxt.htm",
-   "filed_at": "2026-10-15T16:05:27-04:00",
-   "filed_kst": "2026-10-16 05:05",
-   "price": 0.0,
-   "change": 25.0,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 0.0,
-     "change": 25.0
-    },
-    {
-     "date": "2026-10-14",
-     "close": 0.0,
-     "change": -33.33
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": 815921.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "RICHMOND, VA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-16T05:06:33+09:00"
   }
  ]
 }
