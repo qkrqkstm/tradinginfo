@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-23T19:04:54+09:00",
+ "updated_at": "2026-10-23T19:09:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001937653-26-000055",
+   "company": "Zymeworks Inc.",
+   "ticker": "ZYME",
+   "cik": 1937653,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 72,
+   "summary": "(together, the “Company”) entered into a Collaboration and License Agreement (the “Collaboration and License Agreement”) with F.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1937653/000193765326000055/0001937653-26-000055-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1937653/000193765326000055/zyme-20261022.htm",
+   "filed_at": "2026-10-23T06:07:04-04:00",
+   "filed_kst": "2026-10-23 19:07",
+   "price": 28.44,
+   "change": 1.16,
+   "price_history": [
+    {
+     "date": "2026-10-22",
+     "close": 28.44,
+     "change": 1.16
+    },
+    {
+     "date": "2026-10-21",
+     "close": 28.11,
+     "change": 4.48
+    },
+    {
+     "date": "2026-10-20",
+     "close": 26.91,
+     "change": 5.36
+    }
+   ],
+   "market_cap": 2018080814.0,
+   "shares_outstanding": 70959241.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "MIDDLETOWN, DE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-23T19:07:29+09:00"
+  },
   {
    "id": "0001493152-26-048160",
    "company": "Limitless X Holdings Inc.",
@@ -15604,59 +15659,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-15T21:44:17+09:00"
-  },
-  {
-   "id": "0001493152-26-047157",
-   "company": "AtlasClear Holdings, Inc.",
-   "ticker": "ATCH",
-   "cik": 1963088,
-   "form": "8-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 79,
-   "summary": "5 , in exchange for the cancellation of the Company Shares outstanding immediately prior to the First Effective Time.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1963088/000149315226047157/0001493152-26-047157-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1963088/000149315226047157/ex99-1.htm",
-   "filed_at": "2026-10-15T08:42:22-04:00",
-   "filed_kst": "2026-10-15 21:42",
-   "price": 0.16,
-   "change": -0.18,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 0.16,
-     "change": -0.18
-    },
-    {
-     "date": "2026-10-14",
-     "close": 0.16,
-     "change": -1.8
-    },
-    {
-     "date": "2026-10-13",
-     "close": 0.17,
-     "change": 1.21
-    }
-   ],
-   "market_cap": 24294199.0,
-   "shares_outstanding": 151838744.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "TAMPA, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-15T21:43:13+09:00"
   }
  ]
 }
