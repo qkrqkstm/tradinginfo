@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-24T06:04:43+09:00",
+ "updated_at": "2026-10-24T06:09:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-118513",
+   "company": "Transocean Ltd.",
+   "ticker": "RIG",
+   "cik": 1451505,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Swiss corporation (“ Transocean ”) and Valaris Limited , an exempted company limited by shares incorporated under the laws of Bermuda (“ Valaris ”), entered into a Business Combination Agreement (the “ Agreement ”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1451505/000110465926118513/0001104659-26-118513-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1451505/000110465926118513/tm2628162d1_8k.htm",
+   "filed_at": "2026-10-23T17:04:52-04:00",
+   "filed_kst": "2026-10-24 06:04",
+   "price": 6.41,
+   "change": 5.43,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 6.41,
+     "change": 5.43
+    },
+    {
+     "date": "2026-10-22",
+     "close": 6.08,
+     "change": 0.66
+    },
+    {
+     "date": "2026-10-21",
+     "close": 6.04,
+     "change": 3.78
+    }
+   ],
+   "market_cap": 7159201345.0,
+   "shares_outstanding": 1116880085.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": "Switzerland",
+   "hq": "STEINHAUSEN, V8",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-24T06:05:28+09:00"
+  },
   {
    "id": "0001087294-26-000070",
    "company": "CUMBERLAND PHARMACEUTICALS INC",
@@ -15611,57 +15663,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-17T05:08:13+09:00"
-  },
-  {
-   "id": "0001140361-26-039921",
-   "company": "Elevra Lithium Ltd",
-   "ticker": "ELVR",
-   "cik": 1739016,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "About Elevra Lithium Elevra Lithium Limited is a North American lithium producer (ASX:ELV; NASDAQ:ELVR) with projects in Québec, Canada, United States, and a joint venture in Western Australia.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126039921/0001140361-26-039921-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126039921/ef20083889_ex99-1.htm",
-   "filed_at": "2026-10-16T16:05:25-04:00",
-   "filed_kst": "2026-10-17 05:05",
-   "price": 27.45,
-   "change": -2.28,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 27.45,
-     "change": -2.28
-    },
-    {
-     "date": "2026-10-15",
-     "close": 28.09,
-     "change": -1.89
-    },
-    {
-     "date": "2026-10-14",
-     "close": 28.63,
-     "change": -4.98
-    }
-   ],
-   "market_cap": 316863475584.0,
-   "shares_outstanding": 11543296014.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "Australia",
-   "hq": "BRISBANE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-17T05:06:02+09:00"
   }
  ]
 }
