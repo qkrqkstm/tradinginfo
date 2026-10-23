@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-24T02:39:29+09:00",
+ "updated_at": "2026-10-24T02:44:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-040631",
+   "company": "IONIS PHARMACEUTICALS INC",
+   "ticker": "IONS",
+   "cik": 874015,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "1 Ionis partner Roche announces new Phase 3 data showing sefaxersen significantly reduced proteinuria in people with IgA nephropathy (IgAN) – Sefaxersen achieved a statistically significant 43.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040631/0001140361-26-040631-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040631/ef20084325_ex99-1.htm",
+   "filed_at": "2026-10-23T13:41:58-04:00",
+   "filed_kst": "2026-10-24 02:41",
+   "price": 42.84,
+   "change": -2.44,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 42.84,
+     "change": -2.44
+    },
+    {
+     "date": "2026-10-22",
+     "close": 43.91,
+     "change": -0.81
+    },
+    {
+     "date": "2026-10-21",
+     "close": 44.27,
+     "change": -2.49
+    }
+   ],
+   "market_cap": 7119336354.0,
+   "shares_outstanding": 166184322.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "CA",
+   "hq": "CARLSBAD, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-24T02:42:39+09:00"
+  },
   {
    "id": "0000939057-26-000275",
    "company": "PROVIDENT FINANCIAL HOLDINGS INC",
@@ -15608,56 +15662,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-16T06:01:31+09:00"
-  },
-  {
-   "id": "0001171843-26-006673",
-   "company": "SNDL Inc.",
-   "ticker": "SNDL",
-   "cik": 1766600,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "4 million common shares under its existing share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1766600/000117184326006673/0001171843-26-006673-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1766600/000117184326006673/exh_991.htm",
-   "filed_at": "2026-10-15T17:00:03-04:00",
-   "filed_kst": "2026-10-16 06:00",
-   "price": 1.21,
-   "change": 5.22,
-   "price_history": [
-    {
-     "date": "2026-10-15",
-     "close": 1.21,
-     "change": 5.22
-    },
-    {
-     "date": "2026-10-14",
-     "close": 1.15,
-     "change": -0.86
-    },
-    {
-     "date": "2026-10-13",
-     "close": 1.16,
-     "change": -0.85
-    }
-   ],
-   "market_cap": 318664539.0,
-   "shares_outstanding": 263359123.0,
-   "industry": "Medicinal Chemicals & Botanical Products",
-   "state_of_incorporation": "Alberta, Canada",
-   "hq": "EDMONTON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-16T06:00:56+09:00"
   }
  ]
 }
