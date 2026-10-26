@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-26T21:29:30+09:00",
+ "updated_at": "2026-10-26T21:34:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-008071",
+   "company": "Empery Digital Inc.",
+   "ticker": "EMPD",
+   "cik": 1829794,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "The Company has resumed repurchasing shares under its existing share repurchase program, reflecting its continued belief that its shares are significantly undervalued relative to its balance sheet and that repurchasing shares at current levels represents an attractive allocation of capital.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826008071/0001683168-26-008071-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826008071/empery_ex9901.htm",
+   "filed_at": "2026-10-26T08:30:17-04:00",
+   "filed_kst": "2026-10-26 21:30",
+   "price": 2.73,
+   "change": -0.36,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 2.73,
+     "change": -0.36
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2.74,
+     "change": -9.27
+    },
+    {
+     "date": "2026-10-21",
+     "close": 3.02,
+     "change": 5.23
+    }
+   ],
+   "market_cap": 76740603.0,
+   "shares_outstanding": 28110111.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "PFLUGERVILLE, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-26T21:30:39+09:00"
+  },
   {
    "id": "0001193125-26-431079",
    "company": "Aptevo Therapeutics Inc.",
@@ -15619,59 +15673,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-19T22:00:54+09:00"
-  },
-  {
-   "id": "0001493152-26-047517",
-   "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
-   "ticker": "BMNR",
-   "cik": 1829311,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "지수편입",
-   "primary_key": "index",
-   "emoji": "📈",
-   "types": [
-    "지수편입"
-   ],
-   "confidence": 57,
-   "summary": "1 million Bitmine is 99% of the way to the ‘Alchemy of 5%’ in just 15 months Bitmine released Chairman’s Message on October 7 titled “Crypto Bull Underway — This Cycle Likely the Largest” Bitmine was added to the Russell 1000 Large-cap index on June 26, 2026 Bitmine’s Series A Preferred Stock is tra",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226047517/0001493152-26-047517-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226047517/ex99-1.htm",
-   "filed_at": "2026-10-19T08:45:44-04:00",
-   "filed_kst": "2026-10-19 21:45",
-   "price": 21.66,
-   "change": -7.28,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 21.66,
-     "change": -7.28
-    },
-    {
-     "date": "2026-10-15",
-     "close": 23.36,
-     "change": 4.99
-    },
-    {
-     "date": "2026-10-14",
-     "close": 22.25,
-     "change": -5.28
-    }
-   ],
-   "market_cap": 13065883694.0,
-   "shares_outstanding": 603226394.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "NORWALK, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-19T21:46:32+09:00"
   }
  ]
 }
