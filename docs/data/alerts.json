@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-26T20:54:46+09:00",
+ "updated_at": "2026-10-26T20:59:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-431041",
+   "company": "Boundless Bio, Inc.",
+   "ticker": "BOLD",
+   "cik": 1782303,
+   "form": "425",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "FDA"
+   ],
+   "confidence": 83,
+   "summary": "The FDA has also granted SERP-01 orphan drug designation and Regenerative Medicine Advanced Therapy (RMAT) designation for the treatment of PiZZ AATD.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1782303/000119312526431041/0001193125-26-431041-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782303/000119312526431041/d81696d425.htm",
+   "filed_at": "2026-10-26T07:57:28-04:00",
+   "filed_kst": "2026-10-26 20:57",
+   "price": 2.36,
+   "change": -3.28,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 2.36,
+     "change": -3.28
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2.44,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2.44,
+     "change": 0.41
+    }
+   ],
+   "market_cap": 53685245.0,
+   "shares_outstanding": 22747985.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "LA JOLLA, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-26T20:57:55+09:00"
+  },
   {
    "id": "0000950103-26-016136",
    "company": "Immatics N.V.",
@@ -15613,56 +15666,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-19T21:19:16+09:00"
-  },
-  {
-   "id": "0000932787-26-000081",
-   "company": "STMicroelectronics N.V.",
-   "ticker": "STM",
-   "cik": 932787,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "PR N°C3417C STMicroelectronics announces status of common share repurchase program Disclosure of Transactions in Own Shares – Period from October 12, 2026 to October 16, 2026 AMSTERDAM – October 19, 2026 -- STMicroelectronics N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000081/0000932787-26-000081-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000081/c3417c-october192026xdiscl.htm",
-   "filed_at": "2026-10-19T08:18:52-04:00",
-   "filed_kst": "2026-10-19 21:18",
-   "price": 45.39,
-   "change": -2.6,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 45.39,
-     "change": -2.6
-    },
-    {
-     "date": "2026-10-15",
-     "close": 46.6,
-     "change": -0.64
-    },
-    {
-     "date": "2026-10-14",
-     "close": 46.9,
-     "change": -5.39
-    }
-   ],
-   "market_cap": 40341186419.0,
-   "shares_outstanding": 888768152.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "Netherlands",
-   "hq": "SCHIPHOL AIRPORT, P7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-19T21:19:14+09:00"
   }
  ]
 }
