@@ -1,7 +1,165 @@
 {
- "updated_at": "2026-10-27T06:24:21+09:00",
+ "updated_at": "2026-10-27T06:29:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-432191",
+   "company": "RANGE RESOURCES CORP",
+   "ticker": "RRC",
+   "cik": 315852,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Moments ago, we announced that we have entered into an agreement to be acquired by EQT Corporation in an all-stock transaction.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315852/000119312526432191/0001193125-26-432191-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/315852/000119312526432191/d141875d425.htm",
+   "filed_at": "2026-10-26T17:26:15-04:00",
+   "filed_kst": "2026-10-27 06:26",
+   "price": 53.56,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 53.56,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 53.56,
+     "change": 17.66
+    },
+    {
+     "date": "2026-10-23",
+     "close": 45.52,
+     "change": 3.78
+    }
+   ],
+   "market_cap": 12515874823.0,
+   "shares_outstanding": 233679515.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "FT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T06:27:25+09:00"
+  },
+  {
+   "id": "0001493152-26-048587",
+   "company": "FF EAI Robotics Ecosystem Inc.",
+   "ticker": "FFR",
+   "cik": 1460702,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "● FFR announced three new strategic partnerships: with well-known California-based professional services company KYA, California Science and Technology University, and with Pinnacle, one of Southern California’s leading real estate brokerages.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226048587/0001493152-26-048587-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226048587/ex99-1.htm",
+   "filed_at": "2026-10-26T17:25:43-04:00",
+   "filed_kst": "2026-10-27 06:25",
+   "price": 1.07,
+   "change": -5.31,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 1.07,
+     "change": -5.31
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1.13,
+     "change": 13.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1.0,
+     "change": -7.41
+    }
+   ],
+   "market_cap": 21651443.0,
+   "shares_outstanding": 20234993.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "EL SEGUNDO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-27T06:26:31+09:00"
+  },
+  {
+   "id": "0001213900-26-112554",
+   "company": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
+   "ticker": "FFAI",
+   "cik": 1805521,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "● FFR announced three new strategic partnerships: with well-known California-based professional services company KYA GROUP, California Science and Technology University, and with Pinnacle, one of Southern California’s leading real estate brokerages.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026112554/0001213900-26-112554-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026112554/ea030973101ex99-1.htm",
+   "filed_at": "2026-10-26T17:25:21-04:00",
+   "filed_kst": "2026-10-27 06:25",
+   "price": 0.56,
+   "change": -10.21,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 0.56,
+     "change": -10.21
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.62,
+     "change": -2.5
+    },
+    {
+     "date": "2026-10-22",
+     "close": 0.64,
+     "change": -1.23
+    }
+   ],
+   "market_cap": 16529246.0,
+   "shares_outstanding": 29516511.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-27T06:25:59+09:00"
+  },
   {
    "id": "0001104659-26-118865",
    "company": "GERDAU S.A.",
@@ -15521,155 +15679,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-20T21:16:40+09:00"
-  },
-  {
-   "id": "0001193125-26-425753",
-   "company": "CHINA YUCHAI INTERNATIONAL LTD",
-   "ticker": "CYD",
-   "cik": 932695,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 Yuchai and Guangxi Zhenye Form New Joint Venture Singapore, Singapore – October 20, 2026 – China Yuchai International Limited (NYSE: CYD) (“ China Yuchai International ” or the “ Company ”), one of the largest powertrain solution manufacturers through its main operating subsidiary in China, G",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/932695/000119312526425753/0001193125-26-425753-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/932695/000119312526425753/ck0000932695-ex99_1.htm",
-   "filed_at": "2026-10-20T08:12:44-04:00",
-   "filed_kst": "2026-10-20 21:12",
-   "price": 25.89,
-   "change": -0.5,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 25.89,
-     "change": -0.5
-    },
-    {
-     "date": "2026-10-16",
-     "close": 26.02,
-     "change": -1.25
-    },
-    {
-     "date": "2026-10-15",
-     "close": 26.35,
-     "change": -0.83
-    }
-   ],
-   "market_cap": 971349357.0,
-   "shares_outstanding": 37518322.0,
-   "industry": "Engines & Turbines",
-   "state_of_incorporation": null,
-   "hq": "SINGAPORE, U0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-20T21:13:09+09:00"
-  },
-  {
-   "id": "0001185185-26-004856",
-   "company": "Fort Technology Inc",
-   "ticker": "FRTT",
-   "cik": 2092967,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 Fort Technology: Logia USA Signs Exclusive Distribution Agreement to Expand Fuel Maintenance Solutions for Data Centers Across the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2092967/000118518526004856/0001185185-26-004856-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2092967/000118518526004856/fortex99-1.htm",
-   "filed_at": "2026-10-20T08:09:24-04:00",
-   "filed_kst": "2026-10-20 21:09",
-   "price": 0.54,
-   "change": -0.57,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 0.54,
-     "change": -0.57
-    },
-    {
-     "date": "2026-10-19",
-     "close": 0.54,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-16",
-     "close": 0.54,
-     "change": -10.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Agricultural Chemicals",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO",
-   "entity_category": null,
-   "detected_at": "2026-10-20T21:10:34+09:00"
-  },
-  {
-   "id": "0001628280-26-066397",
-   "company": "Mount Logan Capital Inc.",
-   "ticker": "MLCI",
-   "cik": 2051820,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "“ Alternative Acquisition Agreement ” means any letter of intent, agreement in principle, term sheet, merger agreement, acquisition agreement, option agreement or other agreement providing for or relating to any Third-Party Transaction.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2051820/000162828026066397/0001628280-26-066397-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051820/000162828026066397/exhibit101-mountloganxafax.htm",
-   "filed_at": "2026-10-20T08:05:39-04:00",
-   "filed_kst": "2026-10-20 21:05",
-   "price": 3.11,
-   "change": -5.18,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 3.11,
-     "change": -5.18
-    },
-    {
-     "date": "2026-10-16",
-     "close": 3.28,
-     "change": 3.47
-    },
-    {
-     "date": "2026-10-15",
-     "close": 3.17,
-     "change": 0.96
-    }
-   ],
-   "market_cap": 34797068.0,
-   "shares_outstanding": 11188768.0,
-   "industry": "Investment Advice",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-20T21:06:27+09:00"
   }
  ]
 }
