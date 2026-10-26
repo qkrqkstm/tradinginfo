@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-26T19:09:12+09:00",
+ "updated_at": "2026-10-26T19:14:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-112236",
+   "company": "Amanat Acquisition Corp.",
+   "ticker": "AMAN",
+   "cik": 2112457,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "1 Corxel US and Amanat Acquisition Corp Announce Definitive Business Combination Agreement to Create Publicly Listed Obesity-Focused Biopharmaceutical Company ● Combined company expected to advance differentiated oral obesity franchise led by CX11, a clinical-stage, once-daily oral small-molecule GL",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2112457/000121390026112236/0001213900-26-112236-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2112457/000121390026112236/ea030895401ex99-2.htm",
+   "filed_at": "2026-10-26T06:13:05-04:00",
+   "filed_kst": "2026-10-26 19:13",
+   "price": 10.22,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 10.22,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 10.22,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "close": 10.22,
+     "change": -0.29
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GEORGE TOWN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-26T19:14:11+09:00"
+  },
   {
    "id": "0001193125-26-430987",
    "company": "SK hynix Inc.",
@@ -15601,62 +15654,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-19T19:02:28+09:00"
-  },
-  {
-   "id": "0001437749-26-032855",
-   "company": "Archimedes Tech SPAC Partners II Co.",
-   "ticker": "ATII",
-   "cik": 2028516,
-   "form": "8-K",
-   "items": [
-    "5.07",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": ", a Cayman Islands exempted company (the “ Company ” or “ ATII ”), entered into an Agreement and Plan of Merger (as it may be amended from time to time, the “ Merger Agreement ”), by and among the Company, ATII Holdings Inc.",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2028516/000143774926032855/0001437749-26-032855-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028516/000143774926032855/atii20261016_8k.htm",
-   "filed_at": "2026-10-16T18:49:35-04:00",
-   "filed_kst": "2026-10-17 07:49",
-   "price": 9.29,
-   "change": 4.85,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 9.29,
-     "change": 4.85
-    },
-    {
-     "date": "2026-10-15",
-     "close": 8.86,
-     "change": -11.93
-    },
-    {
-     "date": "2026-10-14",
-     "close": 10.06,
-     "change": -6.07
-    }
-   ],
-   "market_cap": 274891100.0,
-   "shares_outstanding": 29590000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": null,
-   "hq": "CLAYMONT, DE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-19T19:01:43+09:00"
   }
  ]
 }
