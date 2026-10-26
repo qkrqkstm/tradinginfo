@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-27T01:10:45+09:00",
+ "updated_at": "2026-10-27T01:20:01+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009141",
+   "company": "GSK plc",
+   "ticker": "GSK",
+   "cik": 1131399,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 84,
+   "summary": "Ris-Rez has received several global regulatory designations to date, such as orphan drug designations in the US, Japan and the EU for SCLC; Breakthrough Therapy Designation in the US and Priority Medicines (PRIME) Designation from the EMA for relapsed or refractory ES-SCLC; and Breakthrough Therapy ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009141/0001654954-26-009141-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009141/a4463a.htm",
+   "filed_at": "2026-10-26T12:16:51-04:00",
+   "filed_kst": "2026-10-27 01:16",
+   "price": 51.16,
+   "change": 0.82,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 51.17,
+     "change": 0.82
+    },
+    {
+     "date": "2026-10-23",
+     "close": 50.75,
+     "change": -0.9
+    },
+    {
+     "date": "2026-10-22",
+     "close": 51.21,
+     "change": 2.38
+    }
+   ],
+   "market_cap": 220778167530.0,
+   "shares_outstanding": 4315445026.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T01:17:27+09:00"
+  },
   {
    "id": "0001628280-26-067189",
    "company": "ERICSSON LM TELEPHONE CO",
@@ -15624,58 +15675,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-20T05:06:40+09:00"
-  },
-  {
-   "id": "0001104659-26-116876",
-   "company": "COLLEGIUM PHARMACEUTICAL, INC",
-   "ticker": "COLL",
-   "cik": 1267565,
-   "form": "8-K",
-   "items": [
-    "1.02"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(the “Company”) is party to a License Agreement (U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1267565/000110465926116876/0001104659-26-116876-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1267565/000110465926116876/tm2627827d1_8k.htm",
-   "filed_at": "2026-10-19T16:05:20-04:00",
-   "filed_kst": "2026-10-20 05:05",
-   "price": 23.01,
-   "change": -0.78,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 23.01,
-     "change": -0.78
-    },
-    {
-     "date": "2026-10-16",
-     "close": 23.19,
-     "change": 0.04
-    },
-    {
-     "date": "2026-10-15",
-     "close": 23.18,
-     "change": 2.98
-    }
-   ],
-   "market_cap": 749104655.0,
-   "shares_outstanding": 32555613.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "VA",
-   "hq": "STOUGHTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T05:06:01+09:00"
   }
  ]
 }
