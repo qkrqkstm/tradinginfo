@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-26T19:29:34+09:00",
+ "updated_at": "2026-10-26T19:34:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-118592",
+   "company": "Braemar Hotels & Resorts Inc.",
+   "ticker": "BHR",
+   "cik": 1574085,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "5.02",
+    "5.07",
+    "7.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "From 2013 to 2016, he co-led Farallon’s Real Estate Group, where he helped manage the firm’s real estate team and served as a member of its investment committee, with responsibility for evaluating acquisition opportunities, negotiating transactions and joint ventures, asset and portfolio management,",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1574085/000110465926118592/0001104659-26-118592-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574085/000110465926118592/tm2628258d1_ex99-1.htm",
+   "filed_at": "2026-10-26T06:30:42-04:00",
+   "filed_kst": "2026-10-26 19:30",
+   "price": 1.41,
+   "change": -1.4,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 1.41,
+     "change": -1.4
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1.43,
+     "change": 3.62
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1.38,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 96837838.0,
+   "shares_outstanding": 68679318.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-26T19:31:08+09:00"
+  },
   {
    "id": "0001213900-26-112248",
    "company": "CCH Holdings Ltd",
@@ -15608,59 +15664,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-19T19:30:45+09:00"
-  },
-  {
-   "id": "0001451505-26-000077",
-   "company": "Transocean Ltd.",
-   "ticker": "RIG",
-   "cik": 1451505,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 59,
-   "summary": "In aggregate, the fixtures represent approximately $550 million in firm contract backlog.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000077/0001451505-26-000077-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000077/rig-ex99d1.htm",
-   "filed_at": "2026-10-19T06:12:56-04:00",
-   "filed_kst": "2026-10-19 19:12",
-   "price": 5.62,
-   "change": 2.0,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 5.62,
-     "change": 2.0
-    },
-    {
-     "date": "2026-10-15",
-     "close": 5.51,
-     "change": -1.25
-    },
-    {
-     "date": "2026-10-14",
-     "close": 5.58,
-     "change": -1.24
-    }
-   ],
-   "market_cap": 6276866078.0,
-   "shares_outstanding": 1116880085.0,
-   "industry": "Drilling Oil & Gas Wells",
-   "state_of_incorporation": "Switzerland",
-   "hq": "STEINHAUSEN, V8",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-19T19:13:40+09:00"
   }
  ]
 }
