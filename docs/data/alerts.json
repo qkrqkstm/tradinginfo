@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-26T20:29:13+09:00",
+ "updated_at": "2026-10-26T20:36:49+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950103-26-016136",
+   "company": "Immatics N.V.",
+   "ticker": "IMTX",
+   "cik": 1809196,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "In addition, a Phase 1/2 investigator-initiated trial (IIT) in patients with PRAME-positive pediatric cancers is planned to start in 1H 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1809196/000095010326016136/0000950103-26-016136-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1809196/000095010326016136/dp255472_ex9904.htm",
+   "filed_at": "2026-10-26T07:30:25-04:00",
+   "filed_kst": "2026-10-26 20:30",
+   "price": 7.31,
+   "change": -3.05,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 7.31,
+     "change": -3.05
+    },
+    {
+     "date": "2026-10-22",
+     "close": 7.54,
+     "change": -1.95
+    },
+    {
+     "date": "2026-10-21",
+     "close": 7.69,
+     "change": 2.4
+    }
+   ],
+   "market_cap": 980062168.0,
+   "shares_outstanding": 134071432.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Netherlands",
+   "hq": "TUBINGEN, 2M",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-26T20:33:10+09:00"
+  },
   {
    "id": "0001104659-26-118606",
    "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
@@ -15613,59 +15663,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-19T21:19:14+09:00"
-  },
-  {
-   "id": "0001193125-26-424709",
-   "company": "MKS INC",
-   "ticker": "MKSI",
-   "cik": 1049502,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“TTM”) in an all-cash transaction for $650 million, subject to customary closing adjustments.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1049502/000119312526424709/0001193125-26-424709-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1049502/000119312526424709/mksi-ex99_1.htm",
-   "filed_at": "2026-10-19T08:17:13-04:00",
-   "filed_kst": "2026-10-19 21:17",
-   "price": 214.83,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 214.83,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-16",
-     "close": 214.83,
-     "change": -5.99
-    },
-    {
-     "date": "2026-10-15",
-     "close": 228.52,
-     "change": -2.55
-    }
-   ],
-   "market_cap": 14526279985.0,
-   "shares_outstanding": 67617558.0,
-   "industry": "Industrial Instruments For Measurement, Display, and Control",
-   "state_of_incorporation": "MA",
-   "hq": "ANDOVER, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-19T21:17:40+09:00"
   }
  ]
 }
