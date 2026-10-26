@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-26T19:49:35+09:00",
+ "updated_at": "2026-10-26T19:54:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009130",
+   "company": "GSK plc",
+   "ticker": "GSK",
+   "cik": 1131399,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": ", under a collaboration and exclusive license agreement signed in March 2014.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009130/0001654954-26-009130-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009130/a3301a.htm",
+   "filed_at": "2026-10-26T06:51:18-04:00",
+   "filed_kst": "2026-10-26 19:51",
+   "price": 50.75,
+   "change": -0.9,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 50.75,
+     "change": -0.9
+    },
+    {
+     "date": "2026-10-22",
+     "close": 51.21,
+     "change": 2.38
+    },
+    {
+     "date": "2026-10-21",
+     "close": 50.02,
+     "change": -1.2
+    }
+   ],
+   "market_cap": 219008835070.0,
+   "shares_outstanding": 4315445026.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-26T19:52:03+09:00"
+  },
   {
    "id": "0001622194-26-000032",
    "company": "Easterly Government Properties, Inc.",
@@ -15615,62 +15665,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-19T20:16:00+09:00"
-  },
-  {
-   "id": "0001193125-26-424649",
-   "company": "Disc Medicine, Inc.",
-   "ticker": "IRON",
-   "cik": 1816736,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 90,
-   "summary": "1 Disc Medicine Announces Success on All Primary and Secondary Endpoints in the Pivotal Phase 3 APOLLO Trial of Bitopertin in Adults and Adolescents with Erythropoietic Protoporphyria (EPP) • Positive APOLLO trial topline results demonstrated statistically significant and clinically meaningful benef",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526424649/0001193125-26-424649-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526424649/d156263dex992.htm",
-   "filed_at": "2026-10-19T07:08:08-04:00",
-   "filed_kst": "2026-10-19 20:08",
-   "price": 56.84,
-   "change": 0.34,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 56.84,
-     "change": 0.34
-    },
-    {
-     "date": "2026-10-15",
-     "close": 56.65,
-     "change": 1.63
-    },
-    {
-     "date": "2026-10-14",
-     "close": 55.74,
-     "change": -1.52
-    }
-   ],
-   "market_cap": 2182249253.0,
-   "shares_outstanding": 38392844.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "WATERTOWN, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-19T20:08:32+09:00"
   }
  ]
 }
