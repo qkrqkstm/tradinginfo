@@ -1,7 +1,107 @@
 {
- "updated_at": "2026-10-26T22:29:26+09:00",
+ "updated_at": "2026-10-26T22:34:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001648416-26-000136",
+   "company": "Ferrari N.V.",
+   "ticker": "RACE",
+   "cik": 1648416,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), October 26, 2026 – Ferrari N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000136/0001648416-26-000136-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000136/fnvbb261026prex.htm",
+   "filed_at": "2026-10-26T09:32:30-04:00",
+   "filed_kst": "2026-10-26 22:32",
+   "price": 397.64,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 397.64,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 397.64,
+     "change": 1.11
+    },
+    {
+     "date": "2026-10-23",
+     "close": 393.28,
+     "change": -1.1
+    }
+   ],
+   "market_cap": 73463150980.0,
+   "shares_outstanding": 184747890.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": "Netherlands",
+   "hq": "MARANELLO, L6",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-26T22:33:15+09:00"
+  },
+  {
+   "id": "0000932787-26-000083",
+   "company": "STMicroelectronics N.V.",
+   "ticker": "STM",
+   "cik": 932787,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "PR N°C3418C STMicroelectronics announces status of common share repurchase program Disclosure of Transactions in Own Shares – Period from October 19, 2026 to October 23, 2026 AMSTERDAM – October 26, 2026 -- STMicroelectronics N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000083/0000932787-26-000083-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000083/c3418c-october262026xdiscl.htm",
+   "filed_at": "2026-10-26T09:29:50-04:00",
+   "filed_kst": "2026-10-26 22:29",
+   "price": 44.41,
+   "change": 0.89,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 44.41,
+     "change": 0.89
+    },
+    {
+     "date": "2026-10-23",
+     "close": 44.02,
+     "change": -0.16
+    },
+    {
+     "date": "2026-10-22",
+     "close": 44.09,
+     "change": -7.04
+    }
+   ],
+   "market_cap": 39470193630.0,
+   "shares_outstanding": 888768152.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Netherlands",
+   "hq": "SCHIPHOL AIRPORT, P7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-26T22:30:40+09:00"
+  },
   {
    "id": "0002004711-26-000019",
    "company": "Bending Spoons S.p.A.",
@@ -15584,107 +15684,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-20T04:02:54+09:00"
-  },
-  {
-   "id": "0001654954-26-009036",
-   "company": "GSK plc",
-   "ticker": "GSK",
-   "cik": 1131399,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 84,
-   "summary": "Jemperli has received FDA Fast Track and Breakthrough Therapy designations for this indication.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009036/0001654954-26-009036-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009036/a5712z.htm",
-   "filed_at": "2026-10-19T13:06:46-04:00",
-   "filed_kst": "2026-10-20 02:06",
-   "price": 49.52,
-   "change": 0.01,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 49.51,
-     "change": 0.01
-    },
-    {
-     "date": "2026-10-16",
-     "close": 49.51,
-     "change": 1.0
-    },
-    {
-     "date": "2026-10-15",
-     "close": 49.02,
-     "change": 2.4
-    }
-   ],
-   "market_cap": 213700837688.0,
-   "shares_outstanding": 4315445026.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T02:07:30+09:00"
-  },
-  {
-   "id": "0001171843-26-006686",
-   "company": "Brainsway Ltd.",
-   "ticker": "BWAY",
-   "cik": 1505065,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 BrainsWay Announces Strategic Collaboration with Inland Psychiatry Medical Group Partnership with Established Southern California Behavioral Health Provider Aims to Accelerate Innovative Application of Interventional Psychiatry Treatments BURLINGTON, Mass.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326006686/0001171843-26-006686-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326006686/exh_991.htm",
-   "filed_at": "2026-10-19T12:00:05-04:00",
-   "filed_kst": "2026-10-20 01:00",
-   "price": 12.09,
-   "change": 5.68,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 12.09,
-     "change": 5.68
-    },
-    {
-     "date": "2026-10-16",
-     "close": 11.44,
-     "change": -3.21
-    },
-    {
-     "date": "2026-10-15",
-     "close": 11.82,
-     "change": 2.69
-    }
-   ],
-   "market_cap": 473514595.0,
-   "shares_outstanding": 39165806.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "Israel",
-   "hq": "Jerusalem, L3",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-20T01:01:10+09:00"
   }
  ]
 }
