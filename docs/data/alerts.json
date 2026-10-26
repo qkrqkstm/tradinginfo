@@ -1,7 +1,108 @@
 {
- "updated_at": "2026-10-26T20:04:36+09:00",
+ "updated_at": "2026-10-26T20:09:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000775215-26-000087",
+   "company": "HBT Financial, Inc.",
+   "ticker": "HBT",
+   "cik": 775215,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "As previously announced, TYFG entered into an Agreement and Plan of Merger, dated August 10, 2026 (“ Merger Agreement ”), with HBT and HB-TYFG Merger, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000087/0000775215-26-000087-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000087/hbt-20261026x425.htm",
+   "filed_at": "2026-10-26T07:04:53-04:00",
+   "filed_kst": "2026-10-26 20:04",
+   "price": 36.24,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 36.24,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 36.24,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 36.24,
+     "change": 2.66
+    }
+   ],
+   "market_cap": 1317889779.0,
+   "shares_outstanding": 36365612.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "BLOOMINGTON, IL",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-26T20:05:32+09:00"
+  },
+  {
+   "id": "0000775215-26-000087",
+   "company": "Tri-County Financial Group, Inc.",
+   "ticker": "TYFG",
+   "cik": 1725262,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "As previously announced, TYFG entered into an Agreement and Plan of Merger, dated August 10, 2026 (“ Merger Agreement ”), with HBT and HB-TYFG Merger, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1725262/000077521526000087/0000775215-26-000087-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1725262/000077521526000087/hbt-20261026x425.htm",
+   "filed_at": "2026-10-26T07:04:53-04:00",
+   "filed_kst": "2026-10-26 20:04",
+   "price": 81.0,
+   "change": 0.14,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 81.0,
+     "change": 0.14
+    },
+    {
+     "date": "2026-10-22",
+     "close": 80.89,
+     "change": 1.11
+    },
+    {
+     "date": "2026-10-21",
+     "close": 80.0,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 193595508.0,
+   "shares_outstanding": 2390068.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "MENDOTA, IL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-26T20:05:31+09:00"
+  },
   {
    "id": "0001213900-26-112266",
    "company": "Can-Fite BioPharma Ltd.",
@@ -15566,113 +15667,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-19T21:09:01+09:00"
-  },
-  {
-   "id": "0001178913-26-004786",
-   "company": "RedHill Biopharma Ltd.",
-   "ticker": "RDHL",
-   "cik": 1553846,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA",
-    "대형계약"
-   ],
-   "confidence": 90,
-   "summary": "Opaganib has received Orphan Drug designation from the FDA for the treatment of neuroblastoma and cholangiocarcinoma.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004786/0001178913-26-004786-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004786/exhibit_99-1.htm",
-   "filed_at": "2026-10-19T08:02:54-04:00",
-   "filed_kst": "2026-10-19 21:02",
-   "price": 0.48,
-   "change": 0.02,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 0.48,
-     "change": 0.02
-    },
-    {
-     "date": "2026-10-16",
-     "close": 0.48,
-     "change": -3.81
-    },
-    {
-     "date": "2026-10-15",
-     "close": 0.5,
-     "change": 2.67
-    }
-   ],
-   "market_cap": 24443165280.0,
-   "shares_outstanding": 50923261000.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-19T21:03:32+09:00"
-  },
-  {
-   "id": "0001213900-26-110477",
-   "company": "CorMedix Inc.",
-   "ticker": "CRMD",
-   "cik": 1410098,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 91,
-   "summary": "1 CORMEDIX ANNOUNCES FDA ACCEPTANCE FOR PRIORITY REVIEW OF SUPPLEMENTAL NDA FOR REZZAYO® (REZAFUNGIN) FOR PROPHYLAXIS OF INVASIVE FUNGAL DISEASES Parsippany, NJ – October 19, 2026 – CorMedix Therapeutics (Nasdaq: CRMD) today announced that the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026110477/0001213900-26-110477-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026110477/ea030895701ex99-1.htm",
-   "filed_at": "2026-10-19T08:00:28-04:00",
-   "filed_kst": "2026-10-19 21:00",
-   "price": 7.26,
-   "change": -2.68,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 7.26,
-     "change": -2.68
-    },
-    {
-     "date": "2026-10-15",
-     "close": 7.46,
-     "change": 0.95
-    },
-    {
-     "date": "2026-10-14",
-     "close": 7.39,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 565875792.0,
-   "shares_outstanding": 77944324.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "PARSIPPANY, NJ",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-19T21:01:26+09:00"
   }
  ]
 }
