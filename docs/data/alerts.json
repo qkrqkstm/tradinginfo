@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-26T20:09:39+09:00",
+ "updated_at": "2026-10-26T20:14:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-067129",
+   "company": "Acumen Pharmaceuticals, Inc.",
+   "ticker": "ABOS",
+   "cik": 1576885,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Sabirnetug has been granted Fast Track designation for the treatment of early AD by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026067129/0001628280-26-067129-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026067129/abos-20261026xexx991.htm",
+   "filed_at": "2026-10-26T07:09:32-04:00",
+   "filed_kst": "2026-10-26 20:09",
+   "price": 1.98,
+   "change": -3.88,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 1.98,
+     "change": -3.88
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2.06,
+     "change": 1.48
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2.03,
+     "change": 0.74
+    }
+   ],
+   "market_cap": 143188224.0,
+   "shares_outstanding": 72317285.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "NEWTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-26T20:10:31+09:00"
+  },
   {
    "id": "0000775215-26-000087",
    "company": "HBT Financial, Inc.",
@@ -15614,59 +15669,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-19T21:11:04+09:00"
-  },
-  {
-   "id": "0001104659-26-116736",
-   "company": "ArriVent BioPharma, Inc.",
-   "ticker": "AVBP",
-   "cik": 1868279,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "Food and Drug Administration (FDA) Breakthrough Therapy Designation for the treatment of patients with previously untreated locally advanced or metastatic non-squamous NSCLC with EGFR exon 20 insertion mutations.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926116736/0001104659-26-116736-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926116736/tm2627799d1_ex99-1.htm",
-   "filed_at": "2026-10-19T08:08:31-04:00",
-   "filed_kst": "2026-10-19 21:08",
-   "price": 16.66,
-   "change": -0.77,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 16.66,
-     "change": -0.77
-    },
-    {
-     "date": "2026-10-15",
-     "close": 16.79,
-     "change": 3.64
-    },
-    {
-     "date": "2026-10-14",
-     "close": 16.2,
-     "change": 0.68
-    }
-   ],
-   "market_cap": 821466765.0,
-   "shares_outstanding": 49307729.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEWTOWN SQUARE, PA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-19T21:09:01+09:00"
   }
  ]
 }
