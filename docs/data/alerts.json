@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-27T00:34:19+09:00",
+ "updated_at": "2026-10-27T00:43:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-067189",
+   "company": "ERICSSON LM TELEPHONE CO",
+   "ticker": "ERIC",
+   "cik": 717826,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "00 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026 and which runs between April 23, 2026 and March 31, 2027, at the latest.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026067189/0001628280-26-067189-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026067189/sharebuybacksinericssondur.htm",
+   "filed_at": "2026-10-26T11:34:38-04:00",
+   "filed_kst": "2026-10-27 00:34",
+   "price": 10.87,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 10.87,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 10.87,
+     "change": 1.95
+    },
+    {
+     "date": "2026-10-23",
+     "close": 10.66,
+     "change": 2.7
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM SWEDEN, V7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T00:39:35+09:00"
+  },
   {
    "id": "0001650107-26-000131",
    "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
@@ -15626,60 +15676,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-20T05:06:01+09:00"
-  },
-  {
-   "id": "0001423689-26-000144",
-   "company": "AGNC Investment Corp.",
-   "ticker": "AGNC",
-   "cik": 1423689,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "지수편입",
-   "primary_key": "index",
-   "emoji": "📈",
-   "types": [
-    "대형계약",
-    "지수편입"
-   ],
-   "confidence": 57,
-   "summary": "Finally, AGNC was added to the S&P MidCap 400 Index during the third quarter, an important milestone for the Company and a testament to the scale that AGNC has attained over our 18-year history.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1423689/000142368926000144/0001423689-26-000144-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1423689/000142368926000144/agnc8kexhibit99193026.htm",
-   "filed_at": "2026-10-19T16:03:07-04:00",
-   "filed_kst": "2026-10-20 05:03",
-   "price": 8.44,
-   "change": -3.21,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 8.44,
-     "change": -3.21
-    },
-    {
-     "date": "2026-10-16",
-     "close": 8.72,
-     "change": -1.13
-    },
-    {
-     "date": "2026-10-15",
-     "close": 8.82,
-     "change": 2.44
-    }
-   ],
-   "market_cap": 10005463413.0,
-   "shares_outstanding": 1185481447.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": null,
-   "hq": "BETHESDA, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T05:03:53+09:00"
   }
  ]
 }
