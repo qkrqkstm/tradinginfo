@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-27T01:44:37+09:00",
+ "updated_at": "2026-10-27T01:49:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-112379",
+   "company": "NeuroSense Therapeutics Ltd.",
+   "ticker": "NRSN",
+   "cik": 1875091,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "(the “Company”) announced today that it has signed a strategic collaboration agreement with an advisor to advance a revenue-generating supply of PrimeC, its lead therapeutic candidate for ALS, to eligible patients through a licensed clinical treatment center in a state in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1875091/000121390026112379/0001213900-26-112379-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1875091/000121390026112379/ea0309668-6k_neurosense.htm",
+   "filed_at": "2026-10-26T12:45:28-04:00",
+   "filed_kst": "2026-10-27 01:45",
+   "price": 2.43,
+   "change": -1.22,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 2.43,
+     "change": -1.22
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2.46,
+     "change": 0.82
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2.44,
+     "change": -4.69
+    }
+   ],
+   "market_cap": 79113933.0,
+   "shares_outstanding": 32557174.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "HERZLIYA, L3",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T01:46:00+09:00"
+  },
   {
    "id": "0001171843-26-006813",
    "company": "NOVO NORDISK A S",
@@ -15617,60 +15668,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-20T05:30:38+09:00"
-  },
-  {
-   "id": "0001402057-26-000106",
-   "company": "CDW Corp",
-   "ticker": "CDW",
-   "cik": 1402057,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "His experience also includes strategic partnerships, mergers and acquisitions, and corporate governance.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1402057/000140205726000106/0001402057-26-000106-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1402057/000140205726000106/ex991-xprcdwappointssarang.htm",
-   "filed_at": "2026-10-19T16:23:01-04:00",
-   "filed_kst": "2026-10-20 05:23",
-   "price": 152.65,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 152.65,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 152.65,
-     "change": 1.44
-    },
-    {
-     "date": "2026-10-16",
-     "close": 150.48,
-     "change": -2.49
-    }
-   ],
-   "market_cap": 19083910079.0,
-   "shares_outstanding": 125017426.0,
-   "industry": "Retail-Catalog & Mail-Order Houses",
-   "state_of_incorporation": "DE",
-   "hq": "VERNON HILLS, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T05:23:51+09:00"
   }
  ]
 }
