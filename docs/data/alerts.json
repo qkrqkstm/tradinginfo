@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-26T21:49:27+09:00",
+ "updated_at": "2026-10-26T21:58:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001403475-26-000043",
+   "company": "Bank of Marin Bancorp",
+   "ticker": "BMRC",
+   "cik": 1403475,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 70,
+   "summary": "Share Repurchase Program On July 24, 2025, the Board of Directors authorized the repurchase of up to $25.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/0001403475-26-000043-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/earningsrelease-ex991q32026.htm",
+   "filed_at": "2026-10-26T08:55:20-04:00",
+   "filed_kst": "2026-10-26 21:55",
+   "price": 27.11,
+   "change": -0.84,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 27.11,
+     "change": -0.84
+    },
+    {
+     "date": "2026-10-22",
+     "close": 27.34,
+     "change": 2.63
+    },
+    {
+     "date": "2026-10-21",
+     "close": 26.64,
+     "change": -1.08
+    }
+   ],
+   "market_cap": 439026063.0,
+   "shares_outstanding": 16194248.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "CA",
+   "hq": "NOVATO, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-26T21:56:11+09:00"
+  },
   {
    "id": "0001493152-26-048429",
    "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
@@ -15624,60 +15675,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-19T22:21:36+09:00"
-  },
-  {
-   "id": "0001827635-26-000036",
-   "company": "Veradermics, Inc",
-   "ticker": "MANE",
-   "cik": 1827635,
-   "form": "8-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 91,
-   "summary": "These trials are designed to support the potential FDA approval of VDPHL01 in both male and female pattern hair loss and include: • Study ‘302’ (NCT06724614): Phase 2/3 trial of VDPHL01 8.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1827635/000182763526000036/0001827635-26-000036-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827635/000182763526000036/exhibit991datarelease101926.htm",
-   "filed_at": "2026-10-19T09:06:14-04:00",
-   "filed_kst": "2026-10-19 22:06",
-   "price": 108.82,
-   "change": -5.43,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 108.82,
-     "change": -5.43
-    },
-    {
-     "date": "2026-10-15",
-     "close": 115.07,
-     "change": 1.41
-    },
-    {
-     "date": "2026-10-14",
-     "close": 113.47,
-     "change": -2.4
-    }
-   ],
-   "market_cap": 4546514400.0,
-   "shares_outstanding": 41780136.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW HAVEN, CT",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-19T22:07:16+09:00"
   }
  ]
 }
