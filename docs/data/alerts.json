@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-27T05:59:35+09:00",
+ "updated_at": "2026-10-27T06:04:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001580642-26-007114",
+   "company": "New Mountain Finance Corp",
+   "ticker": "NMFC",
+   "cik": 1496099,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "1 New Mountain Finance Corporation Announces the Extension of its Stock Repurchase Program NEW YORK--(BUSINESS WIRE)—October 26, 2026--New Mountain Finance Corporation (NASDAQ: NMFC) (“NMFC” or “the Company”) today announced that on October 20, 2026, the Company’s board of directors authorized an ex",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1496099/000158064226007114/0001580642-26-007114-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1496099/000158064226007114/ex99-1.htm",
+   "filed_at": "2026-10-26T17:01:43-04:00",
+   "filed_kst": "2026-10-27 06:01",
+   "price": 6.61,
+   "change": -0.9,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 6.61,
+     "change": -0.9
+    },
+    {
+     "date": "2026-10-23",
+     "close": 6.67,
+     "change": -0.74
+    },
+    {
+     "date": "2026-10-22",
+     "close": 6.72,
+     "change": 3.23
+    }
+   ],
+   "market_cap": 624330298.0,
+   "shares_outstanding": 94452390.0,
+   "industry": null,
+   "state_of_incorporation": "United States",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T06:02:24+09:00"
+  },
   {
    "id": "0001193125-26-432123",
    "company": "Rallybio Corp",
@@ -15624,60 +15677,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-20T20:01:23+09:00"
-  },
-  {
-   "id": "0000101829-26-000030",
-   "company": "RTX Corp",
-   "ticker": "RTX",
-   "cik": 101829,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 59,
-   "summary": "Demand for our products remains robust with over $81 billion of new commercial and defense awards, resulting in a record backlog of $340 billion,” said RTX Chairman and CEO Chris Calio.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000030/0000101829-26-000030-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000030/a2026-10x208xkerexhibit99.htm",
-   "filed_at": "2026-10-20T06:57:06-04:00",
-   "filed_kst": "2026-10-20 19:57",
-   "price": 192.11,
-   "change": -0.93,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 192.11,
-     "change": -0.93
-    },
-    {
-     "date": "2026-10-16",
-     "close": 193.92,
-     "change": 3.73
-    },
-    {
-     "date": "2026-10-15",
-     "close": 186.95,
-     "change": 0.26
-    }
-   ],
-   "market_cap": 258917817044.0,
-   "shares_outstanding": 1347758144.0,
-   "industry": "Aircraft Engines & Engine Parts",
-   "state_of_incorporation": "DE",
-   "hq": "ARLINGTON, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T19:57:57+09:00"
   }
  ]
 }
