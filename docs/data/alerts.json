@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-26T19:39:32+09:00",
+ "updated_at": "2026-10-26T19:44:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001564708-26-000236",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000236/0001564708-26-000236-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000236/appendix3cclassa20261023.htm",
+   "filed_at": "2026-10-26T06:40:42-04:00",
+   "filed_kst": "2026-10-26 19:40",
+   "price": 33.77,
+   "change": -0.53,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 33.77,
+     "change": -0.53
+    },
+    {
+     "date": "2026-10-22",
+     "close": 33.95,
+     "change": 2.01
+    },
+    {
+     "date": "2026-10-21",
+     "close": 33.28,
+     "change": -0.36
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-26T19:41:38+09:00"
+  },
   {
    "id": "0001104659-26-118592",
    "company": "Braemar Hotels & Resorts Inc.",
@@ -15614,56 +15667,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-19T19:32:49+09:00"
-  },
-  {
-   "id": "0001104659-26-116703",
-   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
-   "ticker": "BBVA",
-   "cik": 842180,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 tm2626639d4_6k.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October, 2026 Commission file number: 1-10110 BANCO BILBAO VIZCAYA ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926116703/0001104659-26-116703-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926116703/tm2626639d4_6k.htm",
-   "filed_at": "2026-10-19T06:29:31-04:00",
-   "filed_kst": "2026-10-19 19:29",
-   "price": 25.72,
-   "change": -0.89,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 25.72,
-     "change": -0.89
-    },
-    {
-     "date": "2026-10-15",
-     "close": 25.95,
-     "change": 0.74
-    },
-    {
-     "date": "2026-10-14",
-     "close": 25.76,
-     "change": -2.53
-    }
-   ],
-   "market_cap": 146834674964.0,
-   "shares_outstanding": 5708968700.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": null,
-   "hq": "MADRID, U3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-19T19:30:45+09:00"
   }
  ]
 }
