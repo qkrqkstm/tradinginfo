@@ -1,7 +1,217 @@
 {
- "updated_at": "2026-10-26T20:59:27+09:00",
+ "updated_at": "2026-10-26T21:04:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-118617",
+   "company": "SAP SE",
+   "ticker": "SAP",
+   "cik": 1000184,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 73,
+   "summary": "Share Repurchase Program In January 2026, SAP announced a new share repurchase program with an aggregate volume of up to €10 billion and a term until December 31, 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465926118617/0001104659-26-118617-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465926118617/tm2628113d1_ex99-1.htm",
+   "filed_at": "2026-10-26T08:00:25-04:00",
+   "filed_kst": "2026-10-26 21:00",
+   "price": 238.14,
+   "change": -1.02,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 238.14,
+     "change": -1.02
+    },
+    {
+     "date": "2026-10-22",
+     "close": 240.59,
+     "change": 3.38
+    },
+    {
+     "date": "2026-10-21",
+     "close": 232.73,
+     "change": 1.64
+    }
+   ],
+   "market_cap": 292555997808.0,
+   "shares_outstanding": 1228504232.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Germany",
+   "hq": "WALLDORF, 2M",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-26T21:01:30+09:00"
+  },
+  {
+   "id": "0001213900-26-112281",
+   "company": "Oruka Therapeutics, Inc.",
+   "ticker": "ORKA",
+   "cik": 907654,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "61% of patients in the high-dose group achieved the primary endpoint of PASI 100 at Week 16, compared to 0% of patients receiving placebo (p<0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/907654/000121390026112281/0001213900-26-112281-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/907654/000121390026112281/ea030959401ex99-2.htm",
+   "filed_at": "2026-10-26T08:00:22-04:00",
+   "filed_kst": "2026-10-26 21:00",
+   "price": 80.15,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 80.15,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 80.15,
+     "change": -1.23
+    },
+    {
+     "date": "2026-10-22",
+     "close": 81.15,
+     "change": 1.54
+    }
+   ],
+   "market_cap": 5306707375.0,
+   "shares_outstanding": 66209699.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "MENLO PARK, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-26T21:01:28+09:00"
+  },
+  {
+   "id": "0001493152-26-048423",
+   "company": "GameSquare Holdings, Inc.",
+   "ticker": "GAME",
+   "cik": 1714562,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "Amended and Restated 2019 Equity Incentive Plan, under which GameSquare assumed certain FaZe outstanding equity awards pursuant to the Agreement and Plan of Merger, dated October 19, 2023.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226048423/0001493152-26-048423-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226048423/ex99-1.htm",
+   "filed_at": "2026-10-26T08:00:29-04:00",
+   "filed_kst": "2026-10-26 21:00",
+   "price": 2.31,
+   "change": -4.94,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 2.31,
+     "change": -4.94
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2.43,
+     "change": -3.57
+    },
+    {
+     "date": "2026-10-21",
+     "close": 2.52,
+     "change": -1.95
+    }
+   ],
+   "market_cap": 239800028.0,
+   "shares_outstanding": 103809536.0,
+   "industry": "Services-Amusement & Recreation Services",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "FRISCO, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-26T21:01:25+09:00"
+  },
+  {
+   "id": "0001437749-26-033460",
+   "company": "Valion Bio, Inc.",
+   "ticker": "VBIO",
+   "cik": 1787740,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "The product candidate has received Fast Track and Orphan Drug designations from the FDA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926033460/0001437749-26-033460-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926033460/vbio20261023c_8k.htm",
+   "filed_at": "2026-10-26T08:00:08-04:00",
+   "filed_kst": "2026-10-26 21:00",
+   "price": 0.94,
+   "change": -1.67,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 0.94,
+     "change": -1.67
+    },
+    {
+     "date": "2026-10-22",
+     "close": 0.96,
+     "change": -14.64
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1.12,
+     "change": -5.88
+    }
+   ],
+   "market_cap": 20858355.0,
+   "shares_outstanding": 22189739.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-26T21:00:49+09:00"
+  },
   {
    "id": "0001193125-26-431041",
    "company": "Boundless Bio, Inc.",
@@ -15459,213 +15669,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-19T21:46:00+09:00"
-  },
-  {
-   "id": "0001650107-26-000125",
-   "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
-   "ticker": "CCEP",
-   "cik": 1650107,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "The repurchased ordinary shares will be cancelled.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000125/0001650107-26-000125-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000125/a20261019ccepform6-kweekly.htm",
-   "filed_at": "2026-10-19T08:34:17-04:00",
-   "filed_kst": "2026-10-19 21:34",
-   "price": 112.4,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 112.4,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-16",
-     "close": 112.4,
-     "change": 2.4
-    },
-    {
-     "date": "2026-10-15",
-     "close": 109.77,
-     "change": 2.38
-    }
-   ],
-   "market_cap": 50477328332.0,
-   "shares_outstanding": 449086551.0,
-   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "UXBRIDGE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-19T21:35:25+09:00"
-  },
-  {
-   "id": "0001628280-26-066229",
-   "company": "Eos Energy Enterprises, Inc.",
-   "ticker": "EOSE",
-   "cik": 1805077,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "During the quarter, six purchase orders were received from six different customers, including a previously announced $100 million order under an existing capacity reservation agreement, which did not contribute to quarter-over-quarter backlog growth.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026066229/0001628280-26-066229-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026066229/eose-20261019.htm",
-   "filed_at": "2026-10-19T08:33:15-04:00",
-   "filed_kst": "2026-10-19 21:33",
-   "price": 1.82,
-   "change": -15.74,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 1.82,
-     "change": -15.74
-    },
-    {
-     "date": "2026-10-15",
-     "close": 2.16,
-     "change": 10.77
-    },
-    {
-     "date": "2026-10-14",
-     "close": 1.95,
-     "change": -15.95
-    }
-   ],
-   "market_cap": 662785294.0,
-   "shares_outstanding": 364167744.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "PITTSBURGH, PA",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-19T21:33:52+09:00"
-  },
-  {
-   "id": "0001171843-26-006685",
-   "company": "NOVO NORDISK A S",
-   "ticker": "NVO",
-   "cik": 353278,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 f6k_101926.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ________________ FORM 6-K ________________ REPORT OF FOREIGN PRIVATE ISSUER Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 October 19, 2026 ________________ NOVO NORDISK A/",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006685/0001171843-26-006685-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006685/f6k_101926.htm",
-   "filed_at": "2026-10-19T08:31:04-04:00",
-   "filed_kst": "2026-10-19 21:31",
-   "price": 38.83,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 38.83,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-16",
-     "close": 38.83,
-     "change": -0.99
-    },
-    {
-     "date": "2026-10-15",
-     "close": 39.22,
-     "change": 2.89
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "BAGSVAERD DENMARK, G7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-19T21:31:46+09:00"
-  },
-  {
-   "id": "0001213900-26-110486",
-   "company": "Enlivex Ltd.",
-   "ticker": "ENLV",
-   "cik": 1596812,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 86,
-   "summary": "Food and Drug Administration’s (FDA) Regenerative Medicine Advanced Therapy (RMAT) designation give us strong conviction in Allocetra’s™ potential in treating knee osteoarthritis.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1596812/000121390026110486/0001213900-26-110486-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1596812/000121390026110486/ea030897301ex99-1.htm",
-   "filed_at": "2026-10-19T08:18:26-04:00",
-   "filed_kst": "2026-10-19 21:18",
-   "price": 0.2,
-   "change": -8.48,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 0.2,
-     "change": -8.48
-    },
-    {
-     "date": "2026-10-15",
-     "close": 0.22,
-     "change": 3.7
-    },
-    {
-     "date": "2026-10-14",
-     "close": 0.22,
-     "change": -2.7
-    }
-   ],
-   "market_cap": 47476300.0,
-   "shares_outstanding": 237381498.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-19T21:19:16+09:00"
   }
  ]
 }
