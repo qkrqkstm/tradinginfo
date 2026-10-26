@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-26T22:39:06+09:00",
+ "updated_at": "2026-10-26T22:44:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001650107-26-000131",
+   "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
+   "ticker": "CCEP",
+   "cik": 1650107,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "The repurchased ordinary shares will be cancelled.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000131/0001650107-26-000131-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000131/a20261026ccepform6-kweekly.htm",
+   "filed_at": "2026-10-26T09:38:46-04:00",
+   "filed_kst": "2026-10-26 22:38",
+   "price": 111.23,
+   "change": 0.36,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 111.24,
+     "change": 0.36
+    },
+    {
+     "date": "2026-10-23",
+     "close": 110.84,
+     "change": -2.97
+    },
+    {
+     "date": "2026-10-22",
+     "close": 114.23,
+     "change": 3.57
+    }
+   ],
+   "market_cap": 49951897068.0,
+   "shares_outstanding": 449086551.0,
+   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "UXBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-26T22:40:32+09:00"
+  },
   {
    "id": "0001648416-26-000136",
    "company": "Ferrari N.V.",
@@ -15630,60 +15680,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-20T05:03:53+09:00"
-  },
-  {
-   "id": "0001493152-26-047561",
-   "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
-   "ticker": "NIMU",
-   "cik": 720762,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Florida corporation (the “Company”), entered into an Agreement and Plan of Merger and Reorganization (the “Merger Agreement”) with Gravitics Merger Sub, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226047561/0001493152-26-047561-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226047561/form8-k.htm",
-   "filed_at": "2026-10-19T15:02:16-04:00",
-   "filed_kst": "2026-10-20 04:02",
-   "price": 10.81,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 10.81,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-15",
-     "close": 10.81,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-14",
-     "close": 10.81,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 11162838.0,
-   "shares_outstanding": 1032640.0,
-   "industry": "Guided Missiles & Space Vehicles & Parts",
-   "state_of_incorporation": "FL",
-   "hq": "MIAMI BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-20T04:02:54+09:00"
   }
  ]
 }
