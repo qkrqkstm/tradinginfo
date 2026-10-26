@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-26T19:54:36+09:00",
+ "updated_at": "2026-10-26T19:59:03+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000721994-26-000074",
+   "company": "LAKELAND FINANCIAL CORP",
+   "ticker": "LKFN",
+   "cik": 721994,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "36% • Diluted weighted average common shares outstanding declined by 583,478, or 2%, as a result of the company's ongoing share repurchase plan Third Quarter 2026 versus Second Quarter 2026 highlights: • Net interest margin improved 9 basis points to 3.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/721994/000072199426000074/0000721994-26-000074-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/721994/000072199426000074/lkfn-20261026exhibit991.htm",
+   "filed_at": "2026-10-26T06:58:26-04:00",
+   "filed_kst": "2026-10-26 19:58",
+   "price": 58.39,
+   "change": -1.67,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 58.39,
+     "change": -1.67
+    },
+    {
+     "date": "2026-10-22",
+     "close": 59.38,
+     "change": 2.34
+    },
+    {
+     "date": "2026-10-21",
+     "close": 58.02,
+     "change": -0.97
+    }
+   ],
+   "market_cap": 1451449278.0,
+   "shares_outstanding": 24857840.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "IN",
+   "hq": "WARSAW, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-26T19:59:02+09:00"
+  },
   {
    "id": "0001654954-26-009130",
    "company": "GSK plc",
@@ -15612,59 +15666,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-19T20:24:38+09:00"
-  },
-  {
-   "id": "0001628280-26-066204",
-   "company": "EquipmentShare.com Inc",
-   "ticker": "EQPT",
-   "cik": 1693736,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "1 FOR IMMEDIATE RELEASE: EquipmentShare Raises 2026 Financial Outlook on Strong Performance and Customer Demand Midpoint Full-Year Rental Segment (1) Revenue Growth Outlook Increased to 43% from 33% COLUMBIA, MO.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1693736/000162828026066204/0001628280-26-066204-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1693736/000162828026066204/exhibit991-q32026updatedgu.htm",
-   "filed_at": "2026-10-19T07:15:09-04:00",
-   "filed_kst": "2026-10-19 20:15",
-   "price": 13.59,
-   "change": -5.73,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 13.59,
-     "change": -5.73
-    },
-    {
-     "date": "2026-10-15",
-     "close": 14.41,
-     "change": 5.11
-    },
-    {
-     "date": "2026-10-14",
-     "close": 13.71,
-     "change": -10.8
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Equipment Rental & Leasing, NEC",
-   "state_of_incorporation": "TX",
-   "hq": "COLUMBIA, MO",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-19T20:16:00+09:00"
   }
  ]
 }
