@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-27T05:44:15+09:00",
+ "updated_at": "2026-10-27T05:49:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001759425-26-000054",
+   "company": "Mirum Pharmaceuticals, Inc.",
+   "ticker": "MIRM",
+   "cik": 1759425,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "Announcement of Positive Results from Cohort 2 of the Pivotal PROGRESS Study of ATEBRIOZ™ (zilurgisertib) in Pediatric Patients Aged 6 to <12 Years with Fibrodysplasia Ossificans Progressiva On October 26, 2026, Mirum Pharmaceuticals, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000054/0001759425-26-000054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000054/mirm-20261026.htm",
+   "filed_at": "2026-10-26T16:47:03-04:00",
+   "filed_kst": "2026-10-27 05:47",
+   "price": 83.27,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 83.27,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 83.27,
+     "change": 3.58
+    },
+    {
+     "date": "2026-10-23",
+     "close": 80.39,
+     "change": -3.26
+    }
+   ],
+   "market_cap": 5406904544.0,
+   "shares_outstanding": 64932203.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "FOSTER CITY, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T05:47:35+09:00"
+  },
   {
    "id": "0001356576-26-000045",
    "company": "SUPERNUS PHARMACEUTICALS, INC.",
@@ -15634,57 +15686,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-20T19:09:12+09:00"
-  },
-  {
-   "id": "0001193125-26-425650",
-   "company": "SHINHAN FINANCIAL GROUP CO LTD",
-   "ticker": "SHG",
-   "cik": 1263043,
-   "form": "6-K/A",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "주식소각"
-   ],
-   "confidence": 73,
-   "summary": "Scheduled Date of Cancellation’ following the completion of SFG’s share repurchase program on October 20, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1263043/000119312526425650/0001193125-26-425650-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1263043/000119312526425650/6ka_261020_cancellation.htm",
-   "filed_at": "2026-10-20T06:08:18-04:00",
-   "filed_kst": "2026-10-20 19:08",
-   "price": 69.63,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 69.63,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 69.63,
-     "change": -0.97
-    },
-    {
-     "date": "2026-10-16",
-     "close": 70.31,
-     "change": -1.43
-    }
-   ],
-   "market_cap": 33224469692.0,
-   "shares_outstanding": 477157399.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": null,
-   "hq": "SEOUL100-102",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T19:09:10+09:00"
   }
  ]
 }
