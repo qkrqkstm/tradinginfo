@@ -1,7 +1,115 @@
 {
- "updated_at": "2026-10-27T05:39:11+09:00",
+ "updated_at": "2026-10-27T05:44:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001356576-26-000045",
+   "company": "SUPERNUS PHARMACEUTICALS, INC.",
+   "ticker": "SUPN",
+   "cik": 1356576,
+   "form": "8-K",
+   "items": [
+    "1.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "pursuant to the Agreement and Plan of Merger, dated as of August 1, 2026, and in contemplation of the new senior secured credit facility to be entered into by the combined company at the closing of that transaction.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1356576/000135657626000045/0001356576-26-000045-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1356576/000135657626000045/supn-20261026.htm",
+   "filed_at": "2026-10-26T16:41:57-04:00",
+   "filed_kst": "2026-10-27 05:41",
+   "price": 40.77,
+   "change": 0.17,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 40.77,
+     "change": 0.17
+    },
+    {
+     "date": "2026-10-23",
+     "close": 40.7,
+     "change": -3.26
+    },
+    {
+     "date": "2026-10-22",
+     "close": 42.07,
+     "change": 2.09
+    }
+   ],
+   "market_cap": 2369838320.0,
+   "shares_outstanding": 58127013.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "ROCKVILLE, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T05:42:42+09:00"
+  },
+  {
+   "id": "0001087294-26-000072",
+   "company": "CUMBERLAND PHARMACEUTICALS INC",
+   "ticker": "CPIX",
+   "cik": 1087294,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "The drug has received Orphan Drug Designation, Rare Pediatric Disease Designation and Fast Track Designation from the FDA for the indication of cardiomyopathy associated with DMD.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1087294/000108729426000072/0001087294-26-000072-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1087294/000108729426000072/cpix-20261026.htm",
+   "filed_at": "2026-10-26T16:40:50-04:00",
+   "filed_kst": "2026-10-27 05:40",
+   "price": 4.35,
+   "change": -48.76,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 4.35,
+     "change": -48.76
+    },
+    {
+     "date": "2026-10-23",
+     "close": 8.49,
+     "change": 0.12
+    },
+    {
+     "date": "2026-10-22",
+     "close": 8.48,
+     "change": 3.79
+    }
+   ],
+   "market_cap": 65176515.0,
+   "shares_outstanding": 14983107.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "TN",
+   "hq": "NASHVILLE,, TN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-27T05:41:38+09:00"
+  },
   {
    "id": "0001104659-26-118805",
    "company": "SL Science Holding Ltd",
@@ -15577,114 +15685,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-20T19:09:10+09:00"
-  },
-  {
-   "id": "0001193125-26-425647",
-   "company": "Rapport Therapeutics, Inc.",
-   "ticker": "RAPP",
-   "cik": 2012593,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 79,
-   "summary": "1 Rapport Therapeutics Announces Positive Topline Results from its Phase 2 Trial of RAP-219 for the Treatment of Bipolar Mania The trial met the primary and secondary endpoints with statistically significant placebo-adjusted improvements at Week 3 in the YMRS total score (3.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526425647/0001193125-26-425647-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526425647/d185134dex991.htm",
-   "filed_at": "2026-10-20T06:05:17-04:00",
-   "filed_kst": "2026-10-20 19:05",
-   "price": 28.6,
-   "change": 3.74,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 28.6,
-     "change": 3.74
-    },
-    {
-     "date": "2026-10-16",
-     "close": 27.57,
-     "change": -6.76
-    },
-    {
-     "date": "2026-10-15",
-     "close": 29.57,
-     "change": 4.38
-    }
-   ],
-   "market_cap": 1372178980.0,
-   "shares_outstanding": 47978286.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-20T19:06:01+09:00"
-  },
-  {
-   "id": "0001171843-26-006694",
-   "company": "Pacific Airport Group",
-   "ticker": "PAC",
-   "cik": 1347557,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "배당"
-   ],
-   "confidence": 67,
-   "summary": "This transaction was approved by the Shareholders’ Meeting held on December 11, 2025, and formalized through the execution of the merger agreement signed on April 30, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1347557/000117184326006694/0001171843-26-006694-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1347557/000117184326006694/f6k_102026.htm",
-   "filed_at": "2026-10-20T06:00:10-04:00",
-   "filed_kst": "2026-10-20 19:00",
-   "price": 203.09,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 203.09,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 203.09,
-     "change": -0.4
-    },
-    {
-     "date": "2026-10-16",
-     "close": 203.9,
-     "change": 0.87
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Airports, Flying Fields & Airport Terminal Services",
-   "state_of_incorporation": "Mexico",
-   "hq": "GUADALAJARA, JALISCO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T19:04:13+09:00"
   }
  ]
 }
