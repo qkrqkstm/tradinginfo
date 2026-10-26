@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-26T21:09:28+09:00",
+ "updated_at": "2026-10-26T21:14:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-431079",
+   "company": "Aptevo Therapeutics Inc.",
+   "ticker": "APVO",
+   "cik": 1671584,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "Mipletamig has received orphan drug designation for AML under the Orphan Drug Act.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526431079/0001193125-26-431079-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526431079/apvo-ex99_1.htm",
+   "filed_at": "2026-10-26T08:13:27-04:00",
+   "filed_kst": "2026-10-26 21:13",
+   "price": 1.61,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 1.61,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1.61,
+     "change": 0.62
+    },
+    {
+     "date": "2026-10-21",
+     "close": 1.6,
+     "change": -0.93
+    }
+   ],
+   "market_cap": 2901172.0,
+   "shares_outstanding": 1801970.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SEATTLE, WA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-26T21:14:08+09:00"
+  },
   {
    "id": "0001104659-26-118617",
    "company": "SAP SE",
@@ -15617,58 +15672,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-19T21:46:32+09:00"
-  },
-  {
-   "id": "0001104659-26-116748",
-   "company": "Dogwood Therapeutics, Inc.",
-   "ticker": "DWTX",
-   "cik": 1818844,
-   "form": "8-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "Halneuron ® has been granted fast track designation from the FDA for the treatment of chemotherapy-induced neuropathic pain (“CINP”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1818844/000110465926116748/0001104659-26-116748-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1818844/000110465926116748/dwtx-ex99d1.htm",
-   "filed_at": "2026-10-19T08:45:26-04:00",
-   "filed_kst": "2026-10-19 21:45",
-   "price": 1.22,
-   "change": -2.4,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 1.22,
-     "change": -2.4
-    },
-    {
-     "date": "2026-10-15",
-     "close": 1.25,
-     "change": -1.57
-    },
-    {
-     "date": "2026-10-14",
-     "close": 1.27,
-     "change": -2.31
-    }
-   ],
-   "market_cap": 41470915.0,
-   "shares_outstanding": 33992553.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "ALPHARETTA, GA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-19T21:46:00+09:00"
   }
  ]
 }
