@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-10-26T19:04:52+09:00",
+ "updated_at": "2026-10-26T19:09:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-430987",
+   "company": "SK hynix Inc.",
+   "ticker": "SKHY",
+   "cik": 2120882,
+   "form": "6-K/A",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Form 20-F ☒ Form 40-F ☐ Amendment Regarding Decision on Cancellation of Treasury Shares Upon completion of the acquisition of treasury shares to be cancelled, the information set forth in “Item 1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526430987/0001193125-26-430987-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526430987/d377510d6ka.htm",
+   "filed_at": "2026-10-26T06:07:26-04:00",
+   "filed_kst": "2026-10-26 19:07",
+   "price": 137.02,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 137.02,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 137.02,
+     "change": 4.05
+    },
+    {
+     "date": "2026-10-22",
+     "close": 131.69,
+     "change": -8.07
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Korea, Republic of",
+   "hq": "ICHEON-SI",
+   "entity_category": null,
+   "detected_at": "2026-10-26T19:08:11+09:00"
+  },
   {
    "id": "0001171843-26-006796",
    "company": "Nanobiotix S.A.",
@@ -15609,57 +15657,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-19T19:01:43+09:00"
-  },
-  {
-   "id": "0001193125-26-424299",
-   "company": "Navigator Holdings Ltd.",
-   "ticker": "NVGS",
-   "cik": 1581804,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "(described herein as “Navigator Gas” or the “Company”) (NYSE: NVGS) announced today that, on October 8, 2026, it entered into an Agreement and Plan of Merger (the “Merger Agreement”) with its wholly owned English subsidiary, Navigator Gas plc (the “New Parent”), and Navigator Gas Merger Co Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526424299/0001193125-26-424299-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526424299/d93900d425.htm",
-   "filed_at": "2026-10-16T17:28:24-04:00",
-   "filed_kst": "2026-10-17 06:28",
-   "price": 21.33,
-   "change": -2.69,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 21.33,
-     "change": -2.69
-    },
-    {
-     "date": "2026-10-15",
-     "close": 21.92,
-     "change": -4.03
-    },
-    {
-     "date": "2026-10-14",
-     "close": 22.84,
-     "change": -3.83
-    }
-   ],
-   "market_cap": 1391791971.0,
-   "shares_outstanding": 65250444.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-17T06:29:07+09:00"
   }
  ]
 }
