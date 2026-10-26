@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-10-26T22:15:37+09:00",
+ "updated_at": "2026-10-26T22:24:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002004711-26-000019",
+   "company": "Bending Spoons S.p.A.",
+   "ticker": "BSP",
+   "cik": 2004711,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "” Details of the Transaction Under the terms of the agreement, Bending Spoons acquired 100% of the issued and outstanding shares of Miro in an all-cash transaction.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000019/0002004711-26-000019-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000019/bsp_ex99-1.htm",
+   "filed_at": "2026-10-26T09:19:34-04:00",
+   "filed_kst": "2026-10-26 22:19",
+   "price": 44.08,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 44.08,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 44.08,
+     "change": -3.52
+    },
+    {
+     "date": "2026-10-22",
+     "close": 45.69,
+     "change": 3.54
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "Italy",
+   "hq": "MILAN",
+   "entity_category": null,
+   "detected_at": "2026-10-26T22:21:12+09:00"
+  },
   {
    "id": "0001193125-26-431200",
    "company": "Hyperliquid Strategies Inc",
@@ -15637,56 +15685,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-20T01:01:10+09:00"
-  },
-  {
-   "id": "0001243429-26-000086",
-   "company": "ArcelorMittal",
-   "ticker": "MT",
-   "cik": 1243429,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "It is the largest steel producer in Europe, among the largest in the Americas, and has a growing presence in Asia through its joint venture AM/NS India.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1243429/000124342926000086/0001243429-26-000086-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1243429/000124342926000086/arcelormittalform6-koctobe.htm",
-   "filed_at": "2026-10-19T11:38:49-04:00",
-   "filed_kst": "2026-10-20 00:38",
-   "price": 63.44,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 63.44,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 63.44,
-     "change": 0.62
-    },
-    {
-     "date": "2026-10-16",
-     "close": 63.05,
-     "change": -0.86
-    }
-   ],
-   "market_cap": 48285821957.0,
-   "shares_outstanding": 761125819.0,
-   "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
-   "state_of_incorporation": null,
-   "hq": "GRAND DUCHY OF LUXEMBOURG, N4",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T00:39:35+09:00"
   }
  ]
 }
