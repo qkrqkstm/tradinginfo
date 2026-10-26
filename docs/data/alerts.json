@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-26T19:44:42+09:00",
+ "updated_at": "2026-10-26T19:49:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001622194-26-000032",
+   "company": "Easterly Government Properties, Inc.",
+   "ticker": "DEA",
+   "cik": 1622194,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "33 per share on a fully diluted basis Portfolio Operations As of September 30, 2026, the Company or its joint venture owned 106 operating properties in the United States encompassing approximately 10.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1622194/000162219426000032/0001622194-26-000032-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1622194/000162219426000032/dea-ex99_2.htm",
+   "filed_at": "2026-10-26T06:45:17-04:00",
+   "filed_kst": "2026-10-26 19:45",
+   "price": 22.67,
+   "change": 0.44,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 22.67,
+     "change": 0.44
+    },
+    {
+     "date": "2026-10-22",
+     "close": 22.57,
+     "change": 2.13
+    },
+    {
+     "date": "2026-10-21",
+     "close": 22.1,
+     "change": -0.32
+    }
+   ],
+   "market_cap": 1072781057.0,
+   "shares_outstanding": 47321617.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "WASHINGTON, DC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-26T19:46:00+09:00"
+  },
   {
    "id": "0001564708-26-000236",
    "company": "NEWS CORP",
@@ -15617,56 +15671,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-19T20:08:32+09:00"
-  },
-  {
-   "id": "0001062993-26-005392",
-   "company": "Americas Gold & Silver Corp",
-   "ticker": "USAS",
-   "cik": 1286973,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through a 51/49 joint venture, the Company is developing a fully integrated domestic antimony supply chain-from mine to finished product-to help strengthen America's critical mineral independence.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005392/0001062993-26-005392-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326005392/exhibit99-1.htm",
-   "filed_at": "2026-10-19T06:32:19-04:00",
-   "filed_kst": "2026-10-19 19:32",
-   "price": 3.78,
-   "change": -2.07,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 3.78,
-     "change": -2.07
-    },
-    {
-     "date": "2026-10-15",
-     "close": 3.86,
-     "change": 4.32
-    },
-    {
-     "date": "2026-10-14",
-     "close": 3.7,
-     "change": -7.96
-    }
-   ],
-   "market_cap": 1211182996.0,
-   "shares_outstanding": 320418782.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-19T19:32:49+09:00"
   }
  ]
 }
