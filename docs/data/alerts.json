@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-27T06:04:29+09:00",
+ "updated_at": "2026-10-27T06:09:08+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-432157",
+   "company": "Boundless Bio, Inc.",
+   "ticker": "BOLD",
+   "cik": 1782303,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ": 333-299369 Date: October 26, 2026 This filing relates to the proposed transaction pursuant to the terms of that certain Agreement and Plan of Merger and Reorganization, dated as of June 22, 2026, as amended by Amendment No.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1782303/000119312526432157/0001193125-26-432157-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782303/000119312526432157/d172626d425.htm",
+   "filed_at": "2026-10-26T17:07:59-04:00",
+   "filed_kst": "2026-10-27 06:07",
+   "price": 2.41,
+   "change": 2.12,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 2.41,
+     "change": 2.12
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2.36,
+     "change": -3.28
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2.44,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 54822644.0,
+   "shares_outstanding": 22747985.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "LA JOLLA, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T06:08:36+09:00"
+  },
   {
    "id": "0001580642-26-007114",
    "company": "New Mountain Finance Corp",
@@ -15626,57 +15678,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-20T20:01:57+09:00"
-  },
-  {
-   "id": "0001104659-26-117113",
-   "company": "UNITED COMMUNITY BANKS INC",
-   "ticker": "UCB",
-   "cik": 857855,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 72,
-   "summary": "The Board also approved an incremental $100 million share repurchase authorization through the end of 2027, bringing the current outstanding repurchase authorization to $113 million.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/0001104659-26-117113-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/857855/000110465926117113/tm2627820d1_ex99-1.htm",
-   "filed_at": "2026-10-20T07:00:45-04:00",
-   "filed_kst": "2026-10-20 20:00",
-   "price": 33.78,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 33.78,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 33.78,
-     "change": -0.91
-    },
-    {
-     "date": "2026-10-16",
-     "close": 34.09,
-     "change": 0.12
-    }
-   ],
-   "market_cap": 4073040491.0,
-   "shares_outstanding": 120575503.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "GA",
-   "hq": "GREENVILLE, SC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T20:01:23+09:00"
   }
  ]
 }
