@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-26T20:19:36+09:00",
+ "updated_at": "2026-10-26T20:24:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-118606",
+   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+   "ticker": "BBVA",
+   "cik": 842180,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 tm2626639d7_6k.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October, 2026 Commission file number: 1-10110 BANCO BILBAO VIZCAYA ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926118606/0001104659-26-118606-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926118606/tm2626639d7_6k.htm",
+   "filed_at": "2026-10-26T07:20:55-04:00",
+   "filed_kst": "2026-10-26 20:20",
+   "price": 24.88,
+   "change": -0.6,
+   "price_history": [
+    {
+     "date": "2026-10-23",
+     "close": 24.88,
+     "change": -0.6
+    },
+    {
+     "date": "2026-10-22",
+     "close": 25.03,
+     "change": -2.95
+    },
+    {
+     "date": "2026-10-21",
+     "close": 25.79,
+     "change": 1.18
+    }
+   ],
+   "market_cap": 142039141256.0,
+   "shares_outstanding": 5708968700.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": null,
+   "hq": "MADRID, U3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-26T20:21:34+09:00"
+  },
   {
    "id": "0001628280-26-067129",
    "company": "Acumen Pharmaceuticals, Inc.",
@@ -15616,59 +15666,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-19T21:17:40+09:00"
-  },
-  {
-   "id": "0001493152-26-047507",
-   "company": "CALLAN JMB INC.",
-   "ticker": "CJMB",
-   "cik": 2032545,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(the “ Company ”), entered into an Asset Purchase and Sale Agreement (the “ APA ”) with The Pfanenstiel Company, LLC, an Oklahoma limited liability company (the “ Seller ”), pursuant to which the Buyer agreed to acquire fifty percent (50%) of the Seller’s right, title and interest in certain oil and",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226047507/0001493152-26-047507-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226047507/form8-k.htm",
-   "filed_at": "2026-10-19T08:10:17-04:00",
-   "filed_kst": "2026-10-19 21:10",
-   "price": 2.2,
-   "change": -9.09,
-   "price_history": [
-    {
-     "date": "2026-10-16",
-     "close": 2.2,
-     "change": -9.09
-    },
-    {
-     "date": "2026-10-15",
-     "close": 2.42,
-     "change": 11.52
-    },
-    {
-     "date": "2026-10-14",
-     "close": 2.17,
-     "change": 0.93
-    }
-   ],
-   "market_cap": 12655210.0,
-   "shares_outstanding": 5752368.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "NV",
-   "hq": "SPRING BRANCH, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-19T21:11:04+09:00"
   }
  ]
 }
