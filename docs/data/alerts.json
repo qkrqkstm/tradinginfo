@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-27T01:29:45+09:00",
+ "updated_at": "2026-10-27T01:34:49+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006813",
+   "company": "NOVO NORDISK A S",
+   "ticker": "NVO",
+   "cik": 353278,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 f6k_102626.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ________________ FORM 6-K ________________ REPORT OF FOREIGN PRIVATE ISSUER Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 October 26, 2026 ________________ NOVO NORDISK A/",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006813/0001171843-26-006813-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006813/f6k_102626.htm",
+   "filed_at": "2026-10-26T12:33:53-04:00",
+   "filed_kst": "2026-10-27 01:33",
+   "price": 38.98,
+   "change": -0.17,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 38.99,
+     "change": -0.17
+    },
+    {
+     "date": "2026-10-23",
+     "close": 39.05,
+     "change": -0.96
+    },
+    {
+     "date": "2026-10-22",
+     "close": 39.43,
+     "change": 0.95
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "BAGSVAERD DENMARK, G7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T01:34:17+09:00"
+  },
   {
    "id": "0001654954-26-009141",
    "company": "GSK plc",
@@ -15621,60 +15671,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-20T05:23:51+09:00"
-  },
-  {
-   "id": "0000943374-26-000447",
-   "company": "Seneca Bancorp, Inc.",
-   "ticker": "SNNF",
-   "cik": 2072421,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "(the “Company”) announced it has adopted a stock repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2072421/000094337426000447/0000943374-26-000447-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2072421/000094337426000447/none-20261019.htm",
-   "filed_at": "2026-10-19T16:05:53-04:00",
-   "filed_kst": "2026-10-20 05:05",
-   "price": 12.9,
-   "change": -0.08,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 12.9,
-     "change": -0.08
-    },
-    {
-     "date": "2026-10-16",
-     "close": 12.91,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-15",
-     "close": 12.91,
-     "change": 0.47
-    }
-   ],
-   "market_cap": 23225612.0,
-   "shares_outstanding": 1800435.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": "MD",
-   "hq": "BALDWINSVILLE, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-20T05:06:40+09:00"
   }
  ]
 }
