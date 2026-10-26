@@ -1,7 +1,221 @@
 {
- "updated_at": "2026-10-27T05:09:07+09:00",
+ "updated_at": "2026-10-27T05:14:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001630472-26-000031",
+   "company": "TPG RE Finance Trust, Inc.",
+   "ticker": "TRTX",
+   "cik": 1630472,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "Building on this momentum, our Board approved a new $50 million share repurchase program, doubling our prior authorization and underscoring our conviction in the value of TRTX shares and our disciplined approach to capital allocation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1630472/000163047226000031/0001630472-26-000031-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1630472/000163047226000031/trtx3q26exhibit992.htm",
+   "filed_at": "2026-10-26T16:13:09-04:00",
+   "filed_kst": "2026-10-27 05:13",
+   "price": 6.26,
+   "change": -0.32,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 6.26,
+     "change": -0.32
+    },
+    {
+     "date": "2026-10-23",
+     "close": 6.28,
+     "change": 0.96
+    },
+    {
+     "date": "2026-10-22",
+     "close": 6.22,
+     "change": 6.32
+    }
+   ],
+   "market_cap": 474676732.0,
+   "shares_outstanding": 75826954.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-27T05:13:52+09:00"
+  },
+  {
+   "id": "0001628280-26-067283",
+   "company": "Public Storage",
+   "ticker": "PSA",
+   "cik": 1393311,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 62,
+   "summary": "2 Investment and Third-Party Management Activity NSA Acquisition: On July 22, 2026, the Company completed the acquisition of NSA in an all-stock transaction (the \"NSA Acquisition\"), expanding the Public Storage portfolio to over 4,500 locations and more than 327 million operating square feet.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/0001628280-26-067283-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/psa-102626xex99_1.htm",
+   "filed_at": "2026-10-26T16:11:58-04:00",
+   "filed_kst": "2026-10-27 05:11",
+   "price": 306.79,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 306.79,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 306.79,
+     "change": -1.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 309.89,
+     "change": 0.25
+    }
+   ],
+   "market_cap": 53878807700.0,
+   "shares_outstanding": 175621134.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "FRISCO, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T05:12:47+09:00"
+  },
+  {
+   "id": "0001193125-26-431927",
+   "company": "GREENBRIER COMPANIES INC",
+   "ticker": "GBX",
+   "cik": 923120,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through its wholly-owned subsidiaries and joint ventures, Greenbrier designs, builds and markets freight railcars in North America, Europe, and Brazil.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526431927/0001193125-26-431927-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526431927/gbx-ex99_1.htm",
+   "filed_at": "2026-10-26T16:10:15-04:00",
+   "filed_kst": "2026-10-27 05:10",
+   "price": 38.22,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 38.22,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 38.22,
+     "change": 0.34
+    },
+    {
+     "date": "2026-10-23",
+     "close": 38.09,
+     "change": -1.78
+    }
+   ],
+   "market_cap": 1182514799.0,
+   "shares_outstanding": 30939686.0,
+   "industry": "Railroad Equipment",
+   "state_of_incorporation": "OR",
+   "hq": "LAKE OSWEGO, OR",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T05:11:36+09:00"
+  },
+  {
+   "id": "0001104659-26-118780",
+   "company": "AUDIOEYE INC",
+   "ticker": "AEYE",
+   "cik": 1362190,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "We also expect to generate significant cash going forward and recently announced a stock repurchase program of $15 million, which represents 15% of the outstanding shares at current prices,” said Kelly Georgevich, Chief Executive Officer of AudioEye.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1362190/000110465926118780/0001104659-26-118780-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1362190/000110465926118780/aeye-ex99d1.htm",
+   "filed_at": "2026-10-26T16:09:45-04:00",
+   "filed_kst": "2026-10-27 05:09",
+   "price": 7.42,
+   "change": -8.17,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 7.42,
+     "change": -8.17
+    },
+    {
+     "date": "2026-10-23",
+     "close": 8.08,
+     "change": -0.25
+    },
+    {
+     "date": "2026-10-22",
+     "close": 8.1,
+     "change": 2.79
+    }
+   ],
+   "market_cap": 93266981.0,
+   "shares_outstanding": 12569674.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "TUCSON, AZ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-27T05:10:33+09:00"
+  },
   {
    "id": "0001193125-26-431918",
    "company": "RAMBUS INC",
@@ -15469,214 +15683,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-20T06:18:10+09:00"
-  },
-  {
-   "id": "0001104659-26-116950",
-   "company": "LXP Industrial Trust",
-   "ticker": "LXP",
-   "cik": 910108,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously disclosed, on July 19, 2026, LXP Industrial Trust, a Maryland real estate investment trust (the “ Company ”), entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Leopard REIT LLC, a Delaware limited liability company (“ Parent ”), and Leopard Merger Sub LLC, a ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/910108/000110465926116950/0001104659-26-116950-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/910108/000110465926116950/tm2627808d1_8k.htm",
-   "filed_at": "2026-10-19T17:15:38-04:00",
-   "filed_kst": "2026-10-20 06:15",
-   "price": 61.08,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 61.08,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 61.08,
-     "change": 0.03
-    },
-    {
-     "date": "2026-10-16",
-     "close": 61.06,
-     "change": 0.08
-    }
-   ],
-   "market_cap": 3601109685.0,
-   "shares_outstanding": 58957264.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T06:16:36+09:00"
-  },
-  {
-   "id": "0001213900-26-110740",
-   "company": "Launch Two Acquisition Corp.",
-   "ticker": "LPBB",
-   "cik": 2023676,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "On June 25, 2026, NuCube announced that it has entered into a business combination agreement with Launch Two Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026110740/0001213900-26-110740-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026110740/ea0309059-425_nucube.htm",
-   "filed_at": "2026-10-19T17:15:01-04:00",
-   "filed_kst": "2026-10-20 06:15",
-   "price": 10.79,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 10.79,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-16",
-     "close": 10.79,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-15",
-     "close": 10.79,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Fabricated Plate Work (Boiler Shops)",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "OAKLAND, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-20T06:16:04+09:00"
-  },
-  {
-   "id": "0001317861-26-000052",
-   "company": "EUROSEAS LTD.",
-   "ticker": "ESEA",
-   "cik": 1341170,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The charter is expected to generate approximately $17.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1341170/000131786126000052/0001317861-26-000052-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1341170/000131786126000052/f101926esea6k.htm",
-   "filed_at": "2026-10-19T16:54:30-04:00",
-   "filed_kst": "2026-10-20 05:54",
-   "price": 66.59,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 66.59,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 66.59,
-     "change": 0.63
-    },
-    {
-     "date": "2026-10-16",
-     "close": 66.17,
-     "change": -1.9
-    }
-   ],
-   "market_cap": 469851116.0,
-   "shares_outstanding": 7055881.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": null,
-   "hq": "151 25 MAROUSSI, J3",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-20T05:55:27+09:00"
-  },
-  {
-   "id": "0001175680-26-000038",
-   "company": "CytoDyn Inc.",
-   "ticker": "CYDY",
-   "cik": 1175680,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The leadership transition comes as CytoDyn prepares for its next phase of clinical development, with a focus on advancing its oncology pipeline, pursuing regulatory milestones and exploring potential strategic partnerships.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1175680/000117568026000038/0001175680-26-000038-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1175680/000117568026000038/ck0001175680-ex99_2.htm",
-   "filed_at": "2026-10-19T16:50:53-04:00",
-   "filed_kst": "2026-10-20 05:50",
-   "price": 0.25,
-   "change": 8.7,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 0.25,
-     "change": 8.7
-    },
-    {
-     "date": "2026-10-16",
-     "close": 0.23,
-     "change": 9.52
-    },
-    {
-     "date": "2026-10-15",
-     "close": 0.21,
-     "change": 5.0
-    }
-   ],
-   "market_cap": 367379500.0,
-   "shares_outstanding": 1469518000.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "VANCOUVER, WA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-20T05:52:08+09:00"
   }
  ]
 }
