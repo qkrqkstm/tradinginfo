@@ -1,7 +1,271 @@
 {
- "updated_at": "2026-10-27T05:04:39+09:00",
+ "updated_at": "2026-10-27T05:09:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-431918",
+   "company": "RAMBUS INC",
+   "ticker": "RMBS",
+   "cik": 917273,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "3 million, up 22% year over year, exceeding guidance range • GAAP diluted earnings per share of $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/917273/000119312526431918/0001193125-26-431918-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/917273/000119312526431918/rmbs-ex99_1.htm",
+   "filed_at": "2026-10-26T16:07:45-04:00",
+   "filed_kst": "2026-10-27 05:07",
+   "price": 90.32,
+   "change": 5.45,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 90.32,
+     "change": 5.45
+    },
+    {
+     "date": "2026-10-23",
+     "close": 85.65,
+     "change": -0.09
+    },
+    {
+     "date": "2026-10-22",
+     "close": 85.73,
+     "change": -7.62
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "SAN JOSE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T05:09:06+09:00"
+  },
+  {
+   "id": "0001581068-26-000032",
+   "company": "Brixmor Property Group Inc.",
+   "ticker": "BRX",
+   "cik": 1581068,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 72,
+   "summary": "Under the Slate Transaction, Brixmor will acquire a 23-property grocery-anchored portfolio for approximately $636 million and will hold a 20% common equity interest and an approximately $174 million preferred equity investment in a joint venture with Everview Partners (the \"Everview JV\") that will a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1581068/000158106826000032/0001581068-26-000032-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1581068/000158106826000032/brx-20261026ex992.htm",
+   "filed_at": "2026-10-26T16:06:50-04:00",
+   "filed_kst": "2026-10-27 05:06",
+   "price": 28.13,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 28.13,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 28.13,
+     "change": -0.46
+    },
+    {
+     "date": "2026-10-22",
+     "close": 28.26,
+     "change": 3.06
+    }
+   ],
+   "market_cap": 8632318249.0,
+   "shares_outstanding": 306872316.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T05:07:46+09:00"
+  },
+  {
+   "id": "0001213900-26-112478",
+   "company": "Citius Pharmaceuticals, Inc.",
+   "ticker": "CTXR",
+   "cik": 1506251,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Robust intellectual property protections that span orphan drug designation, complex technology, trade secrets, and pending patents for immuno-oncology use as a combination therapy with checkpoint inhibitors would further support Citius Oncology’s competitive positioning.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026112478/0001213900-26-112478-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026112478/ea030934501ex99-1.htm",
+   "filed_at": "2026-10-26T16:05:36-04:00",
+   "filed_kst": "2026-10-27 05:05",
+   "price": 0.45,
+   "change": 11.49,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 0.45,
+     "change": 11.49
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.4,
+     "change": 8.63
+    },
+    {
+     "date": "2026-10-22",
+     "close": 0.37,
+     "change": -6.31
+    }
+   ],
+   "market_cap": 12353656.0,
+   "shares_outstanding": 27452570.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "CRANFORD, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-27T05:06:57+09:00"
+  },
+  {
+   "id": "0001213900-26-112477",
+   "company": "CITIUS ONCOLOGY, INC.",
+   "ticker": "CTOR",
+   "cik": 1851484,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Robust intellectual property protections that span orphan drug designation, complex technology, trade secrets, and pending patents for immuno-oncology use as a combination therapy with checkpoint inhibitors would further support Citius Oncology’s competitive positioning.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026112477/0001213900-26-112477-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026112477/ea030934701ex99-1.htm",
+   "filed_at": "2026-10-26T16:05:36-04:00",
+   "filed_kst": "2026-10-27 05:05",
+   "price": 0.6,
+   "change": 2.71,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 0.6,
+     "change": 2.71
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.58,
+     "change": -17.14
+    },
+    {
+     "date": "2026-10-22",
+     "close": 0.7,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 55788722.0,
+   "shares_outstanding": 92981204.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CRANFORD, NJ",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T05:06:54+09:00"
+  },
+  {
+   "id": "0001419536-26-000166",
+   "company": "Capital Bancorp Inc",
+   "ticker": "CBNK",
+   "cik": 1419536,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 72,
+   "summary": "• There were no shares repurchased and retired during the three months ended September 30, 2026, as part of the Company's stock repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1419536/000141953626000166/0001419536-26-000166-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1419536/000141953626000166/earningsrelease9302026.htm",
+   "filed_at": "2026-10-26T16:04:34-04:00",
+   "filed_kst": "2026-10-27 05:04",
+   "price": 41.69,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 41.69,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 41.69,
+     "change": 0.97
+    },
+    {
+     "date": "2026-10-23",
+     "close": 41.29,
+     "change": 0.24
+    }
+   ],
+   "market_cap": 679149111.0,
+   "shares_outstanding": 16290456.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "MD",
+   "hq": "Rockville, MD",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-27T05:05:31+09:00"
+  },
   {
    "id": "0000930420-26-000070",
    "company": "KFORCE INC",
@@ -15413,263 +15677,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-20T05:52:08+09:00"
-  },
-  {
-   "id": "0001140361-26-040117",
-   "company": "AES CORP",
-   "ticker": "AES",
-   "cik": 874761,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously announced, on March 1, 2026, The AES Corporation (the “ Company ”) entered into an Agreement and Plan of Merger (as it may be amended from time to time, the “ Merger Agreement ”), by and among the Company, Horizon Parent, L.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126040117/0001140361-26-040117-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126040117/ef20083812_8k.htm",
-   "filed_at": "2026-10-19T16:51:31-04:00",
-   "filed_kst": "2026-10-20 05:51",
-   "price": 14.96,
-   "change": 0.07,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 14.96,
-     "change": 0.07
-    },
-    {
-     "date": "2026-10-16",
-     "close": 14.95,
-     "change": -0.13
-    },
-    {
-     "date": "2026-10-15",
-     "close": 14.97,
-     "change": 0.07
-    }
-   ],
-   "market_cap": 10673041905.0,
-   "shares_outstanding": 713438630.0,
-   "industry": "Cogeneration Services & Small Power Producers",
-   "state_of_incorporation": "DE",
-   "hq": "ARLINGTON, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T05:52:05+09:00"
-  },
-  {
-   "id": "0001680247-26-000116",
-   "company": "ProPetro Holding Corp.",
-   "ticker": "PUMP",
-   "cik": 1680247,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "From December 2010 to October 2022, he served as Senior Vice President and Chief Development Officer, leading all mergers, acquisitions, divestitures, joint ventures, and strategic transactions for the company, as well as generation, renewables, and electric transmission development.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1680247/000168024726000116/0001680247-26-000116-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1680247/000168024726000116/pump-20261015.htm",
-   "filed_at": "2026-10-19T16:43:26-04:00",
-   "filed_kst": "2026-10-20 05:43",
-   "price": 7.8,
-   "change": 0.91,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 7.8,
-     "change": 0.91
-    },
-    {
-     "date": "2026-10-16",
-     "close": 7.73,
-     "change": -2.64
-    },
-    {
-     "date": "2026-10-15",
-     "close": 7.94,
-     "change": -3.41
-    }
-   ],
-   "market_cap": 958026553.0,
-   "shares_outstanding": 122823917.0,
-   "industry": "Oil & Gas Field Services, NEC",
-   "state_of_incorporation": "TX",
-   "hq": "MIDLAND, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-20T05:44:08+09:00"
-  },
-  {
-   "id": "0001193125-26-425320",
-   "company": "EMERA INC",
-   "ticker": "EMA",
-   "cik": 1127248,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 d120082dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Execution Version ARRANGEMENT AGREEMENT AMONG EMERA INCORPORATED, ATCO LTD., CANADIAN UTILITIES LIMITED, - and - 2856571 ALBERTA LTD. October 6, 2026 TABLE OF CONTENTS Page ARTICLE 1 INTERPRETATION 3 1.1 Definitions 3 1.2 Interpretation Not Af",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1127248/000119312526425320/0001193125-26-425320-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1127248/000119312526425320/d120082dex991.htm",
-   "filed_at": "2026-10-19T16:38:56-04:00",
-   "filed_kst": "2026-10-20 05:38",
-   "price": 46.58,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 46.58,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 46.58,
-     "change": -2.39
-    },
-    {
-     "date": "2026-10-16",
-     "close": 47.72,
-     "change": 1.38
-    }
-   ],
-   "market_cap": 5727011000.0,
-   "shares_outstanding": 122950000.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": null,
-   "hq": "HALIFAX, A5",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-20T05:39:40+09:00"
-  },
-  {
-   "id": "0001213900-26-110703",
-   "company": "Bitdeer Technologies Group",
-   "ticker": "BTDR",
-   "cik": 1899123,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "● Bitdeer announced a 16-Year AI/HPC Data Center Lease for its Tydal, Norway Campus, representing approximately $4.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026110703/0001213900-26-110703-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1899123/000121390026110703/ea030767901ex99-1.htm",
-   "filed_at": "2026-10-19T16:35:01-04:00",
-   "filed_kst": "2026-10-20 05:35",
-   "price": 7.69,
-   "change": -0.39,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 7.69,
-     "change": -0.39
-    },
-    {
-     "date": "2026-10-16",
-     "close": 7.72,
-     "change": -8.04
-    },
-    {
-     "date": "2026-10-15",
-     "close": 8.4,
-     "change": 2.63
-    }
-   ],
-   "market_cap": 1811395526.0,
-   "shares_outstanding": 235552084.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T05:36:32+09:00"
-  },
-  {
-   "id": "0001140361-26-040112",
-   "company": "MEDALLION FINANCIAL CORP",
-   "ticker": "MFIN",
-   "cik": 1000209,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 3 ef20084038_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 FOR IMMEDIATE RELEASE MEDALLION FINANCIAL CORP. ANNOUNCES REPURCHASE OF TRUST PREFERRED SECURITIES AND SUCCESSFUL RESOLUTION WITH ZIMCAL NEW YORK, NY – October 19, 2026 – Medallion Financial Corp. (NASDAQ: MFIN) (“ Medallion ” or the “ Compan",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1000209/000114036126040112/0001140361-26-040112-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1000209/000114036126040112/ef20084038_ex99-1.htm",
-   "filed_at": "2026-10-19T16:30:52-04:00",
-   "filed_kst": "2026-10-20 05:30",
-   "price": 11.22,
-   "change": 0.27,
-   "price_history": [
-    {
-     "date": "2026-10-19",
-     "close": 11.22,
-     "change": 0.27
-    },
-    {
-     "date": "2026-10-16",
-     "close": 11.19,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-15",
-     "close": 11.19,
-     "change": 1.45
-    }
-   ],
-   "market_cap": 257613994.0,
-   "shares_outstanding": 22960249.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-20T05:31:50+09:00"
   }
  ]
 }
