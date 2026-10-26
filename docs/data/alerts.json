@@ -1,7 +1,164 @@
 {
- "updated_at": "2026-10-27T05:34:35+09:00",
+ "updated_at": "2026-10-27T05:39:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-118805",
+   "company": "SL Science Holding Ltd",
+   "ticker": "SLBT",
+   "cik": 2070534,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA",
+    "대형계약"
+   ],
+   "confidence": 77,
+   "summary": "● FDA Regulatory Submissions: Advanced its regulatory footprint by submitting an Orphan Drug Designation (ODD) request (DRU-2026-11528) to the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2070534/000110465926118805/0001104659-26-118805-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2070534/000110465926118805/slbt-20260630xex99d1.htm",
+   "filed_at": "2026-10-26T16:37:09-04:00",
+   "filed_kst": "2026-10-27 05:37",
+   "price": 1.23,
+   "change": 6.96,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 1.23,
+     "change": 6.96
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1.15,
+     "change": -12.21
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1.31,
+     "change": -9.66
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "TAIPEI CITY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T05:37:38+09:00"
+  },
+  {
+   "id": "0001709442-26-000051",
+   "company": "FIRSTSUN CAPITAL BANCORP",
+   "ticker": "FSUN",
+   "cik": 1709442,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "7 million under our share repurchase program Denver, Colorado – October 26, 2026 – FirstSun Capital Bancorp (“FirstSun”) (NASDAQ: FSUN) reported net income of $38.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/0001709442-26-000051-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/exhibit991-earningspressre.htm",
+   "filed_at": "2026-10-26T16:34:56-04:00",
+   "filed_kst": "2026-10-27 05:34",
+   "price": 39.8,
+   "change": -0.03,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 39.8,
+     "change": -0.03
+    },
+    {
+     "date": "2026-10-23",
+     "close": 39.81,
+     "change": 0.71
+    },
+    {
+     "date": "2026-10-22",
+     "close": 39.53,
+     "change": 2.73
+    }
+   ],
+   "market_cap": 1111348653.0,
+   "shares_outstanding": 27923333.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T05:36:01+09:00"
+  },
+  {
+   "id": "0001628280-26-067303",
+   "company": "APPLIED MATERIALS INC /DE",
+   "ticker": "AMAT",
+   "cik": 6951,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "1 Applied Materials to Increase its Strategic Investment in BE Semiconductor Industries Applied enters into agreement to increase its investment to approximately 20 percent of outstanding shares, reinforcing the companies’ long-term strategic partnership in advanced packaging SANTA CLARA, Calif.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026067303/0001628280-26-067303-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026067303/ex991prforprojectbasil.htm",
+   "filed_at": "2026-10-26T16:34:29-04:00",
+   "filed_kst": "2026-10-27 05:34",
+   "price": 387.59,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 387.59,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 387.59,
+     "change": 2.74
+    },
+    {
+     "date": "2026-10-23",
+     "close": 377.24,
+     "change": 0.44
+    }
+   ],
+   "market_cap": 307590432932.0,
+   "shares_outstanding": 793597443.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DC",
+   "hq": "SANTA CLARA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T05:35:28+09:00"
+  },
   {
    "id": "0001213900-26-112502",
    "company": "Health In Tech, Inc.",
@@ -15528,159 +15685,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-20T19:04:13+09:00"
-  },
-  {
-   "id": "0001193125-26-425640",
-   "company": "SHINHAN FINANCIAL GROUP CO LTD",
-   "ticker": "SHG",
-   "cik": 1263043,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Form 20-F  Form 40-F  Results of Treasury Share Acquisition Shinhan Financial Group announced on October 20, 2026 that the share repurchase program commenced on July 23, 2026 has been completed.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1263043/000119312526425640/0001193125-26-425640-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1263043/000119312526425640/6k_261020_results_of_ts.htm",
-   "filed_at": "2026-10-20T06:01:15-04:00",
-   "filed_kst": "2026-10-20 19:01",
-   "price": 69.63,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 69.63,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 69.63,
-     "change": -0.97
-    },
-    {
-     "date": "2026-10-16",
-     "close": 70.31,
-     "change": -1.43
-    }
-   ],
-   "market_cap": 33224469692.0,
-   "shares_outstanding": 477157399.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": null,
-   "hq": "SEOUL100-102",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T19:04:11+09:00"
-  },
-  {
-   "id": "0001628280-26-066365",
-   "company": "Fox Corp",
-   "ticker": "FOX",
-   "cik": 1754301,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 4 fox-8xkex991october192026t.htm EX-99.1 Document Exhibit 99.1 ADAM CIONGOLI STEPPING DOWN AS CHIEF LEGAL & POLICY OFFICER OF FOX CORPORATION NICHOLAS TRUTANICH TO BE NAMED GENERAL COUNSEL New York, NY and Los Angeles, CA – October 19, 2026 – Fox Corporation (Nasdaq: FOXA, FOX) (“FOX” or the",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1754301/000162828026066365/0001628280-26-066365-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1754301/000162828026066365/fox-8xkex991october192026t.htm",
-   "filed_at": "2026-10-19T19:53:38-04:00",
-   "filed_kst": "2026-10-20 08:53",
-   "price": 58.33,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 58.33,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 58.33,
-     "change": 1.94
-    },
-    {
-     "date": "2026-10-16",
-     "close": 57.22,
-     "change": 0.14
-    }
-   ],
-   "market_cap": 58.0,
-   "shares_outstanding": 1.0,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T19:03:04+09:00"
-  },
-  {
-   "id": "0001564708-26-000232",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000232/0001564708-26-000232-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000232/appendix3cclassa20261019.htm",
-   "filed_at": "2026-10-19T19:47:05-04:00",
-   "filed_kst": "2026-10-20 08:47",
-   "price": 32.9,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 32.9,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 32.9,
-     "change": 0.06
-    },
-    {
-     "date": "2026-10-16",
-     "close": 32.88,
-     "change": -0.54
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-20T19:02:29+09:00"
   }
  ]
 }
