@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-28T05:39:11+09:00",
+ "updated_at": "2026-10-28T05:44:18+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001408534-26-000079",
+   "company": "First Guaranty Bancshares, Inc.",
+   "ticker": "FGBI",
+   "cik": 1408534,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "The largest facility totals $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1408534/000140853426000079/0001408534-26-000079-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1408534/000140853426000079/fgbi-ex991earningspressrel.htm",
+   "filed_at": "2026-10-27T16:43:29-04:00",
+   "filed_kst": "2026-10-28 05:43",
+   "price": 8.89,
+   "change": 2.07,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 8.89,
+     "change": 2.07
+    },
+    {
+     "date": "2026-10-26",
+     "close": 8.71,
+     "change": -2.57
+    },
+    {
+     "date": "2026-10-23",
+     "close": 8.94,
+     "change": 5.92
+    }
+   ],
+   "market_cap": 147032546.0,
+   "shares_outstanding": 16539094.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": "LA",
+   "hq": "HAMMOND, LA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-28T05:44:17+09:00"
+  },
   {
    "id": "0001628280-26-067624",
    "company": "Senti Biosciences Holdings, Inc.",
@@ -15621,60 +15675,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-22T06:17:37+09:00"
-  },
-  {
-   "id": "0000879635-26-000058",
-   "company": "MID PENN BANCORP INC",
-   "ticker": "MPB",
-   "cik": 879635,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "On April 21, 2026, Mid Penn’s Board of Directors authorized a renewal and increase to its treasury stock repurchase program (\"the Program\"), increasing the authorized repurchase amount to an additional $50.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/879635/000087963526000058/0000879635-26-000058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/879635/000087963526000058/mpb-20260930xexx991.htm",
-   "filed_at": "2026-10-21T17:12:53-04:00",
-   "filed_kst": "2026-10-22 06:12",
-   "price": 36.35,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 36.35,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 36.35,
-     "change": -0.44
-    },
-    {
-     "date": "2026-10-20",
-     "close": 36.51,
-     "change": 1.64
-    }
-   ],
-   "market_cap": 920935065.0,
-   "shares_outstanding": 25335215.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "PA",
-   "hq": "HARRISBURG, PA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-22T06:13:23+09:00"
   }
  ]
 }
