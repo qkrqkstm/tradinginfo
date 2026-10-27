@@ -1,7 +1,104 @@
 {
- "updated_at": "2026-10-27T21:04:33+09:00",
+ "updated_at": "2026-10-27T21:09:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000831259-26-000045",
+   "company": "FREEPORT-MCMORAN INC",
+   "ticker": "FCX",
+   "cik": 831259,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "FCX records its 72% undivided joint venture interest in Morenci using the proportionate consolidation method.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/831259/000083125926000045/0000831259-26-000045-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/831259/000083125926000045/a3q2026exhibit991.htm",
+   "filed_at": "2026-10-27T08:08:34-04:00",
+   "filed_kst": "2026-10-27 21:08",
+   "price": 65.16,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 65.16,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 65.16,
+     "change": -0.03
+    },
+    {
+     "date": "2026-10-23",
+     "close": 65.18,
+     "change": 0.91
+    }
+   ],
+   "market_cap": 93570901799.0,
+   "shares_outstanding": 1436017523.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "DE",
+   "hq": "PHOENIX, AZ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T21:09:35+09:00"
+  },
+  {
+   "id": "0001683168-26-008102",
+   "company": "DAVION HEALTHCARE PLC",
+   "ticker": "DAVI",
+   "cik": 2039072,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.1 2 davion_ex9901.htm PRESS RELEASE Exhibit 99.1 For release at 07.30 ET, 26 October 2026 DAVION HEALTHCARE ANNOUNCES US$25 MILLION ACQUISITION OF HUMASKAN MEDICAL TECHNOLOGY IP Acquisition adds battery-free smart wound dressing and two-minute multi-marker screening test to Davion’s growing he",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2039072/000168316826008102/0001683168-26-008102-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2039072/000168316826008102/davion_ex9901.htm",
+   "filed_at": "2026-10-27T08:06:45-04:00",
+   "filed_kst": "2026-10-27 21:06",
+   "price": 4.07,
+   "change": -32.17,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 4.07,
+     "change": -32.17
+    },
+    {
+     "date": "2026-10-23",
+     "close": 6.0,
+     "change": -48.5
+    }
+   ],
+   "market_cap": 101750000.0,
+   "shares_outstanding": 25000000.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Cyprus",
+   "hq": "CLONAKILTY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T21:07:30+09:00"
+  },
   {
    "id": "0001213900-26-112687",
    "company": "Immuron Ltd",
@@ -15569,113 +15666,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-21T20:21:34+09:00"
-  },
-  {
-   "id": "0001140361-26-040332",
-   "company": "Roivant Sciences Ltd.",
-   "ticker": "ROIV",
-   "cik": 1635088,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 68,
-   "summary": "1 Roivant and Priovant Announce Positive Results in CLARITY-1 and CLARITY-2 Phase 3 Trials for Brepocitinib in Non-Infectious Uveitis (NIU) • Brepocitinib 45 mg once-daily achieved statistically significant benefit compared to placebo on the primary and all key secondary endpoints for each of CLARIT",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1635088/000114036126040332/0001140361-26-040332-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1635088/000114036126040332/ef20084121_ex99-1.htm",
-   "filed_at": "2026-10-21T07:05:44-04:00",
-   "filed_kst": "2026-10-21 20:05",
-   "price": 34.92,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 34.92,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-20",
-     "close": 34.92,
-     "change": 0.63
-    },
-    {
-     "date": "2026-10-19",
-     "close": 34.7,
-     "change": 3.49
-    }
-   ],
-   "market_cap": 25223519684.0,
-   "shares_outstanding": 722323015.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Bermuda",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-21T20:06:30+09:00"
-  },
-  {
-   "id": "0000731012-26-000055",
-   "company": "HEALTHCARE SERVICES GROUP INC",
-   "ticker": "HCSG",
-   "cik": 731012,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "NEXDINE Hospitality Acquisition On October 6, 2026, the Company completed the acquisition of NEXDINE Hospitality for an upfront purchase price of $93.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/731012/000073101226000055/0000731012-26-000055-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/731012/000073101226000055/ex99-2026xq3xpressrelease.htm",
-   "filed_at": "2026-10-21T07:01:55-04:00",
-   "filed_kst": "2026-10-21 20:01",
-   "price": 21.5,
-   "change": 1.85,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 21.5,
-     "change": 1.85
-    },
-    {
-     "date": "2026-10-19",
-     "close": 21.11,
-     "change": -0.09
-    },
-    {
-     "date": "2026-10-16",
-     "close": 21.13,
-     "change": -1.4
-    }
-   ],
-   "market_cap": 1475592343.0,
-   "shares_outstanding": 68632202.0,
-   "industry": "Services-Nursing & Personal Care Facilities",
-   "state_of_incorporation": "PA",
-   "hq": "BENSALEM, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-21T20:02:31+09:00"
   }
  ]
 }
