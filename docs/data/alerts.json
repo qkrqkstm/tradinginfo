@@ -1,7 +1,169 @@
 {
- "updated_at": "2026-10-28T05:14:20+09:00",
+ "updated_at": "2026-10-28T05:19:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001289490-26-000061",
+   "company": "Extra Space Storage Inc.",
+   "ticker": "EXR",
+   "cik": 1289490,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "• In conjunction with a joint venture partner, completed the development of one store for a total cost of approximately $16.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1289490/000128949026000061/0001289490-26-000061-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1289490/000128949026000061/q32026ex991earningsrelease.htm",
+   "filed_at": "2026-10-27T16:17:52-04:00",
+   "filed_kst": "2026-10-28 05:17",
+   "price": 144.67,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 144.67,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 144.67,
+     "change": 0.91
+    },
+    {
+     "date": "2026-10-26",
+     "close": 143.37,
+     "change": -0.03
+    }
+   ],
+   "market_cap": 30564366956.0,
+   "shares_outstanding": 211269558.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "SALT LAKE CITY, UT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:18:24+09:00"
+  },
+  {
+   "id": "0001500217-26-000049",
+   "company": "American Assets Trust, Inc.",
+   "ticker": "AAT",
+   "cik": 1500217,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "EX-99.2 3 a3q26supplemental.htm SUPPLEMENTAL INFORMATION Document THIRD QUARTER 2026 Supplemental Information Investor and Media Contact American Assets Trust, Inc. Robert F. Barton Executive Vice President and Chief Financial Officer 858-350-2607 American Assets Trust, Inc.'s Portfolio is concentra",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/0001500217-26-000049-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/a3q26supplemental.htm",
+   "filed_at": "2026-10-27T16:16:27-04:00",
+   "filed_kst": "2026-10-28 05:16",
+   "price": 21.22,
+   "change": -0.89,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 21.22,
+     "change": -0.89
+    },
+    {
+     "date": "2026-10-26",
+     "close": 21.41,
+     "change": 0.23
+    },
+    {
+     "date": "2026-10-23",
+     "close": 21.36,
+     "change": 0.33
+    }
+   ],
+   "market_cap": 1302715662.0,
+   "shares_outstanding": 61390936.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:17:20+09:00"
+  },
+  {
+   "id": "0001193125-26-434245",
+   "company": "Distribution Solutions Group, Inc.",
+   "ticker": "DSGR",
+   "cik": 703604,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Delaware corporation (“DSG” or the “Company”), entered into an Agreement and Plan of Merger (the “Grade Eight Merger Agreement”) with GradeEight Holdings, LLC, a Delaware limited liability company (“GradeEight”), 301 Grade Eight Merger Sub, LLC, a Delaware limited liability company and wholly ow",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526434245/0001193125-26-434245-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526434245/d70829dex991.htm",
+   "filed_at": "2026-10-27T16:15:32-04:00",
+   "filed_kst": "2026-10-28 05:15",
+   "price": 35.02,
+   "change": 0.03,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 35.02,
+     "change": 0.03
+    },
+    {
+     "date": "2026-10-26",
+     "close": 35.01,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 35.01,
+     "change": -0.17
+    }
+   ],
+   "market_cap": 1619864878.0,
+   "shares_outstanding": 46255422.0,
+   "industry": "Wholesale-Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:16:02+09:00"
+  },
   {
    "id": "0001025378-26-000129",
    "company": "W. P. Carey Inc.",
@@ -15516,168 +15678,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T05:13:17+09:00"
-  },
-  {
-   "id": "0001506307-26-000130",
-   "company": "KINDER MORGAN, INC.",
-   "ticker": "KMI",
-   "cik": 1506307,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Products Pipelines • On August 11, 2026, KMI, Phillips 66, and HF Sinclair announced a final joint venture agreement and reached a final investment decision to move forward with the proposed Western Gateway Pipeline.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000130/0001506307-26-000130-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000130/kmi2026q38-kex991.htm",
-   "filed_at": "2026-10-21T16:10:58-04:00",
-   "filed_kst": "2026-10-22 05:10",
-   "price": 34.0,
-   "change": 1.28,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 34.0,
-     "change": 1.28
-    },
-    {
-     "date": "2026-10-20",
-     "close": 33.57,
-     "change": 0.54
-    },
-    {
-     "date": "2026-10-19",
-     "close": 33.39,
-     "change": -2.37
-    }
-   ],
-   "market_cap": 75711271026.0,
-   "shares_outstanding": 2226802089.0,
-   "industry": "Natural Gas Transmission",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T05:13:13+09:00"
-  },
-  {
-   "id": "0001104659-26-117838",
-   "company": "Waste Connections, Inc.",
-   "ticker": "WCN",
-   "cik": 1318220,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 75,
-   "summary": "58 per share, respectively - Year to date closed acquisitions of approximately $130 million in annualized revenues - Increases regular quarterly dividend by 10% and completes year to date share repurchases of over $1 billion - Second increase to full year 2026 outlook for revenue and adjusted EBITDA",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1318220/000110465926117838/0001104659-26-117838-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1318220/000110465926117838/wcn-ex99d1.htm",
-   "filed_at": "2026-10-21T16:08:48-04:00",
-   "filed_kst": "2026-10-22 05:08",
-   "price": 168.51,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 168.51,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 168.51,
-     "change": -0.57
-    },
-    {
-     "date": "2026-10-20",
-     "close": 169.48,
-     "change": 2.29
-    }
-   ],
-   "market_cap": 42472866637.0,
-   "shares_outstanding": 252049532.0,
-   "industry": "Refuse Systems",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "WOODBRIDGE, A6",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T05:10:42+09:00"
-  },
-  {
-   "id": "0001176334-26-000033",
-   "company": "MARTIN MIDSTREAM PARTNERS L.P.",
-   "ticker": "MMLP",
-   "cik": 1176334,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Finally, the DSM Semichem joint venture continues to work through customer qualification ahead of an anticipated ramp in 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1176334/000117633426000033/0001176334-26-000033-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1176334/000117633426000033/exhibit991-09302026earning.htm",
-   "filed_at": "2026-10-21T16:04:49-04:00",
-   "filed_kst": "2026-10-22 05:04",
-   "price": 2.12,
-   "change": 3.41,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 2.12,
-     "change": 3.41
-    },
-    {
-     "date": "2026-10-20",
-     "close": 2.05,
-     "change": 1.99
-    },
-    {
-     "date": "2026-10-19",
-     "close": 2.01,
-     "change": -1.95
-    }
-   ],
-   "market_cap": 82944334.0,
-   "shares_outstanding": 39124686.0,
-   "industry": "Wholesale-Petroleum Bulk Stations & Terminals",
-   "state_of_incorporation": "DE",
-   "hq": "KILGORE, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-22T05:09:50+09:00"
   }
  ]
 }
