@@ -1,7 +1,170 @@
 {
- "updated_at": "2026-10-27T21:14:38+09:00",
+ "updated_at": "2026-10-27T21:19:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-118991",
+   "company": "Altimmune, Inc.",
+   "ticker": "ALT",
+   "cik": 1326190,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 84,
+   "summary": "The FDA granted Fast Track designations to pemvidutide for the treatment of MASH and AUD, as well as Breakthrough Therapy Designation for MASH.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326190/000110465926118991/0001104659-26-118991-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326190/000110465926118991/tm2628339d1_ex99-1.htm",
+   "filed_at": "2026-10-27T08:16:13-04:00",
+   "filed_kst": "2026-10-27 21:16",
+   "price": 2.05,
+   "change": -3.3,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 2.05,
+     "change": -3.3
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2.12,
+     "change": -2.3
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2.17,
+     "change": -2.69
+    }
+   ],
+   "market_cap": 398761287.0,
+   "shares_outstanding": 194517701.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "GAITHERSBURG, MD",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-27T21:17:09+09:00"
+  },
+  {
+   "id": "0001193125-26-432747",
+   "company": "Millrose Properties, Inc.",
+   "ticker": "MRP",
+   "cik": 2017206,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 78,
+   "summary": "84 Per Share Board of Directors Authorized a New $250 Million Share Repurchase Program Expanded Counterparty Base to 22 Homebuilder and Developer Relationships and Redeployed $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/0001193125-26-432747-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
+   "filed_at": "2026-10-27T08:15:00-04:00",
+   "filed_kst": "2026-10-27 21:15",
+   "price": 23.91,
+   "change": 0.21,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 23.91,
+     "change": 0.21
+    },
+    {
+     "date": "2026-10-23",
+     "close": 23.86,
+     "change": -0.46
+    },
+    {
+     "date": "2026-10-22",
+     "close": 23.97,
+     "change": 3.81
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Real Estate",
+   "state_of_incorporation": "MD",
+   "hq": "CHEVY CHASE, MD",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-27T21:16:06+09:00"
+  },
+  {
+   "id": "0001493152-26-048638",
+   "company": "CDT Equity Inc.",
+   "ticker": "CDT",
+   "cik": 1896212,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "3.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(NASDAQ: CDT) is a data-driven biopharmaceutical development company focused on identifying, enhancing, and advancing high-potential therapeutic assets through scientific innovation and strategic partnerships.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226048638/0001493152-26-048638-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226048638/ex99-1.htm",
+   "filed_at": "2026-10-27T08:15:39-04:00",
+   "filed_kst": "2026-10-27 21:15",
+   "price": 0.09,
+   "change": -27.69,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 0.09,
+     "change": -27.69
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.13,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 0.13,
+     "change": -10.34
+    }
+   ],
+   "market_cap": 70800.0,
+   "shares_outstanding": 786670.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NAPLES, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T21:16:04+09:00"
+  },
   {
    "id": "0000831259-26-000045",
    "company": "FREEPORT-MCMORAN INC",
@@ -15506,166 +15669,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-21T20:36:59+09:00"
-  },
-  {
-   "id": "0001493152-26-047847",
-   "company": "Green Circle Decarbonize Technology Ltd",
-   "ticker": "GCDT",
-   "cik": 1926293,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "Menzies Eurus a premier joint venture combining the global airport services expertise of Menzies Aviation Limited (“ Menzies Aviation ”) with the robust logistics network of Eurus Express Limited (“ Eurus Express ”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047847/0001493152-26-047847-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047847/ex99-1.htm",
-   "filed_at": "2026-10-21T07:35:07-04:00",
-   "filed_kst": "2026-10-21 20:35",
-   "price": 0.2,
-   "change": -28.32,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 0.2,
-     "change": -28.32
-    },
-    {
-     "date": "2026-10-19",
-     "close": 0.28,
-     "change": 3.33
-    },
-    {
-     "date": "2026-10-16",
-     "close": 0.27,
-     "change": -18.18
-    }
-   ],
-   "market_cap": 2575000.0,
-   "shares_outstanding": 12875000.0,
-   "industry": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG, K3",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-21T20:35:56+09:00"
-  },
-  {
-   "id": "0001493152-26-047846",
-   "company": "Soluna Holdings, Inc",
-   "ticker": "SLNH",
-   "cik": 64463,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 Soluna Agrees to Form Strategic Partnership with Applied Digital to Develop Wind-Powered AI Data Center in Texas Facility to be powered by Briscoe Wind Farm; ChronoScale signs letter of intent for triple-net lease ALBANY, N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/0001493152-26-047846-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/ex99-1.htm",
-   "filed_at": "2026-10-21T07:30:19-04:00",
-   "filed_kst": "2026-10-21 20:30",
-   "price": 0.58,
-   "change": -0.52,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 0.58,
-     "change": -0.52
-    },
-    {
-     "date": "2026-10-20",
-     "close": 0.58,
-     "change": -1.69
-    },
-    {
-     "date": "2026-10-19",
-     "close": 0.59,
-     "change": -11.94
-    }
-   ],
-   "market_cap": 141862534.0,
-   "shares_outstanding": 244590575.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "NV",
-   "hq": "ALBANY, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-21T20:31:11+09:00"
-  },
-  {
-   "id": "0001213900-26-111181",
-   "company": "INVE Technologies, Inc.",
-   "ticker": "INVE",
-   "cik": 1036044,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "The tender offer is being made as part of the up to $40 million share repurchase program previously authorized by the Company’s Board of Directors.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1036044/000121390026111181/0001213900-26-111181-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1036044/000121390026111181/ea030911901ex99-1.htm",
-   "filed_at": "2026-10-21T07:20:50-04:00",
-   "filed_kst": "2026-10-21 20:20",
-   "price": 2.22,
-   "change": -1.77,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 2.22,
-     "change": -1.77
-    },
-    {
-     "date": "2026-10-19",
-     "close": 2.26,
-     "change": 1.8
-    },
-    {
-     "date": "2026-10-16",
-     "close": 2.22,
-     "change": -3.06
-    }
-   ],
-   "market_cap": 53803372.0,
-   "shares_outstanding": 24235753.0,
-   "industry": "Computer Peripheral Equipment, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SANTA ANA, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-21T20:21:34+09:00"
   }
  ]
 }
