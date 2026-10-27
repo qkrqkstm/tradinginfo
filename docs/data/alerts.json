@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-27T20:59:30+09:00",
+ "updated_at": "2026-10-27T21:04:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-112687",
+   "company": "Immuron Ltd",
+   "ticker": "IMRN",
+   "cik": 1660046,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "ProIBS ® Immuron has an exclusive distribution agreement with Calmino goup AB for the territories of Australia and New Zealand for ProIBS ® .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026112687/0001213900-26-112687-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026112687/ea030975801ex99-1.htm",
+   "filed_at": "2026-10-27T08:00:31-04:00",
+   "filed_kst": "2026-10-27 21:00",
+   "price": 0.92,
+   "change": -3.56,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 0.92,
+     "change": -3.56
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.95,
+     "change": 0.53
+    },
+    {
+     "date": "2026-10-22",
+     "close": 0.95,
+     "change": -2.16
+    }
+   ],
+   "market_cap": 297020235.0,
+   "shares_outstanding": 322848081.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "CARLTON, VICTORIA, C3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-27T21:01:28+09:00"
+  },
   {
    "id": "0002019804-26-000030",
    "company": "Terrestrial Energy Inc. /DE/",
@@ -15626,56 +15676,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-21T20:02:31+09:00"
-  },
-  {
-   "id": "0001178913-26-004808",
-   "company": "RedHill Biopharma Ltd.",
-   "ticker": "RDHL",
-   "cik": 1553846,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "6-K 1 zk2636244.htm 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 For the month of October 2026 Commission File No.:001-35773 REDHILL BIOPHARMA LTD. (Trans",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004808/0001178913-26-004808-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004808/zk2636244.htm",
-   "filed_at": "2026-10-21T07:00:06-04:00",
-   "filed_kst": "2026-10-21 20:00",
-   "price": 0.51,
-   "change": 0.06,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 0.51,
-     "change": 0.06
-    },
-    {
-     "date": "2026-10-20",
-     "close": 0.51,
-     "change": 1.2
-    },
-    {
-     "date": "2026-10-19",
-     "close": 0.5,
-     "change": 4.37
-    }
-   ],
-   "market_cap": 25970863110.0,
-   "shares_outstanding": 50923261000.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-21T20:00:51+09:00"
   }
  ]
 }
