@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-28T06:19:13+09:00",
+ "updated_at": "2026-10-28T06:24:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-434465",
+   "company": "CBIZ, Inc.",
+   "ticker": "CBZ",
+   "cik": 944148,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "7.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "A summary of the final voting results for the following proposals, each of which is described in detail in the Proxy Statement, which was first mailed to the Company’s stockholders on or about September 18, 2026, is set forth below: Proposal 1: Merger Agreement Proposal As previously announced, on J",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/944148/000119312526434465/0001193125-26-434465-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/944148/000119312526434465/d184170d8k.htm",
+   "filed_at": "2026-10-27T17:20:07-04:00",
+   "filed_kst": "2026-10-28 06:20",
+   "price": 54.82,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 54.82,
+     "change": -0.05
+    },
+    {
+     "date": "2026-10-26",
+     "close": 54.85,
+     "change": -0.16
+    },
+    {
+     "date": "2026-10-23",
+     "close": 54.94,
+     "change": 0.09
+    }
+   ],
+   "market_cap": 2974745847.0,
+   "shares_outstanding": 54263879.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "INDEPENDENCE, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T06:21:03+09:00"
+  },
   {
    "id": "0001213900-26-112975",
    "company": "Bold Eagle Acquisition Corp.",
@@ -15633,59 +15686,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T19:04:01+09:00"
-  },
-  {
-   "id": "0001104659-26-117937",
-   "company": "SUPERNUS PHARMACEUTICALS, INC.",
-   "ticker": "SUPN",
-   "cik": 1356576,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "The seven-year market exclusivity for ONAPGO began on February 3, 2025, the date of FDA approval.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1356576/000110465926117937/0001104659-26-117937-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1356576/000110465926117937/tm2628092d1_ex99-1.htm",
-   "filed_at": "2026-10-21T21:07:47-04:00",
-   "filed_kst": "2026-10-22 10:07",
-   "price": 41.21,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 41.21,
-     "change": -0.05
-    },
-    {
-     "date": "2026-10-20",
-     "close": 41.23,
-     "change": 3.49
-    },
-    {
-     "date": "2026-10-19",
-     "close": 39.84,
-     "change": 5.17
-    }
-   ],
-   "market_cap": 2395414206.0,
-   "shares_outstanding": 58127013.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "ROCKVILLE, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T19:03:22+09:00"
   }
  ]
 }
