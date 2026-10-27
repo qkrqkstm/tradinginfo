@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-10-27T22:19:37+09:00",
+ "updated_at": "2026-10-27T22:24:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001292814-26-005014",
+   "company": "AGI Inc",
+   "ticker": "AGBK",
+   "cik": 2081206,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "1 Agi Announces Share Repurchase Program São Paulo, October 27 th , 2026 – Agi Inc (NYSE: AGBK), (“Agi”) announced today that its board of directors has approved a share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2081206/000129281426005014/0001292814-26-005014-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2081206/000129281426005014/ex99-1.htm",
+   "filed_at": "2026-10-27T09:21:08-04:00",
+   "filed_kst": "2026-10-27 22:21",
+   "price": 4.73,
+   "change": -37.6,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 4.73,
+     "change": -37.6
+    },
+    {
+     "date": "2026-10-23",
+     "close": 7.58,
+     "change": 4.26
+    },
+    {
+     "date": "2026-10-22",
+     "close": 7.27,
+     "change": -0.95
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "CAMPINAS",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-27T22:21:37+09:00"
+  },
+  {
+   "id": "0000049826-26-000057",
+   "company": "ILLINOIS TOOL WORKS INC",
+   "ticker": "ITW",
+   "cik": 49826,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과",
+    "가이던스상향"
+   ],
+   "confidence": 69,
+   "summary": "“Our top-line results reflect accelerating demand in our capex-related segments, Welding and Test & Measurement and Electronics, continued strength in Polymers & Fluids segment, and a meaningful increase in the contribution to revenue growth from our Customer-Back",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/49826/000004982626000057/0000049826-26-000057-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/49826/000004982626000057/a20260930-3q26ex991pressre.htm",
+   "filed_at": "2026-10-27T09:20:19-04:00",
+   "filed_kst": "2026-10-27 22:20",
+   "price": 276.22,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 276.22,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 276.22,
+     "change": 0.17
+    },
+    {
+     "date": "2026-10-23",
+     "close": 275.75,
+     "change": -1.25
+    }
+   ],
+   "market_cap": 78667456000.0,
+   "shares_outstanding": 284800000.0,
+   "industry": "General Industrial Machinery & Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "GLENVIEW, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T22:21:04+09:00"
+  },
   {
    "id": "0001718939-26-000062",
    "company": "T Stamp Inc",
@@ -15559,111 +15663,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-21T22:02:00+09:00"
-  },
-  {
-   "id": "0001213900-26-111206",
-   "company": "AIFU Inc.",
-   "ticker": "AIFU",
-   "cik": 1413855,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "Pursuant to the Agreement, the Company agreed to acquire 100% of the equity interests of Waltz Investment for aggregate consideration consisting of (i) 11,203,443 Class A ordinary shares of the Company, par value US$0.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1413855/000121390026111206/0001213900-26-111206-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1413855/000121390026111206/ea030927301ex99-2.htm",
-   "filed_at": "2026-10-21T09:00:02-04:00",
-   "filed_kst": "2026-10-21 22:00",
-   "price": 10.72,
-   "change": -2.99,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 10.72,
-     "change": -2.99
-    },
-    {
-     "date": "2026-10-19",
-     "close": 11.05,
-     "change": -0.54
-    },
-    {
-     "date": "2026-10-16",
-     "close": 11.11,
-     "change": -1.77
-    }
-   ],
-   "market_cap": 12159011892.0,
-   "shares_outstanding": 1134236184.0,
-   "industry": "Insurance Agents, Brokers & Service",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SHENZHEN",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-21T22:00:56+09:00"
-  },
-  {
-   "id": "0001279569-26-000990",
-   "company": "Trilogy Metals Inc.",
-   "ticker": "TMQ",
-   "cik": 1543418,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Ambler Metals is a 50/50 joint venture operating company equally owned by Trilogy and South32 Limited (ASX, LSE, JSE: S32; ADR: SOUHY) (\" South32 \").",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1543418/000127956926000990/0001279569-26-000990-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1543418/000127956926000990/ex991.htm",
-   "filed_at": "2026-10-21T08:42:45-04:00",
-   "filed_kst": "2026-10-21 21:42",
-   "price": 2.28,
-   "change": -2.15,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 2.28,
-     "change": -2.15
-    },
-    {
-     "date": "2026-10-19",
-     "close": 2.33,
-     "change": -1.27
-    },
-    {
-     "date": "2026-10-16",
-     "close": 2.36,
-     "change": -3.67
-    }
-   ],
-   "market_cap": 413503557.0,
-   "shares_outstanding": 181361209.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER, A1",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-21T21:43:35+09:00"
   }
  ]
 }
