@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-28T06:29:33+09:00",
+ "updated_at": "2026-10-28T06:34:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-033667",
+   "company": "RUSH ENTERPRISES INC \\TX\\",
+   "ticker": "RUSHA",
+   "cik": 1012019,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "3 million of its common stock pursuant to its stock repurchase plan, paid a cash dividend of $16.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1012019/000143774926033667/0001437749-26-033667-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1012019/000143774926033667/ex_1032727.htm",
+   "filed_at": "2026-10-27T17:28:51-04:00",
+   "filed_kst": "2026-10-28 06:28",
+   "price": 45.48,
+   "change": 0.26,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 45.48,
+     "change": 0.26
+    },
+    {
+     "date": "2026-10-26",
+     "close": 45.36,
+     "change": 0.91
+    },
+    {
+     "date": "2026-10-23",
+     "close": 44.95,
+     "change": -1.3
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Retail-Auto Dealers & Gasoline Stations",
+   "state_of_incorporation": "TX",
+   "hq": "NEW BRAUNFELS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T06:30:38+09:00"
+  },
   {
    "id": "0001213900-26-112979",
    "company": "EQT Corp",
@@ -15636,56 +15691,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-22T19:06:30+09:00"
-  },
-  {
-   "id": "0001046179-26-000728",
-   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
-   "ticker": "TSM",
-   "cik": 1046179,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 tsm-monthend6kx20261022.htm 6-K Document 1934 Act Registration No. 1-14700 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 _____________________________ FORM 6-K _____________________________ REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE S",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000728/0001046179-26-000728-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000728/tsm-monthend6kx20261022.htm",
-   "filed_at": "2026-10-22T06:02:14-04:00",
-   "filed_kst": "2026-10-22 19:02",
-   "price": 431.89,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 431.89,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 431.89,
-     "change": 1.6
-    },
-    {
-     "date": "2026-10-20",
-     "close": 425.08,
-     "change": 1.16
-    }
-   ],
-   "market_cap": 11199998015375.0,
-   "shares_outstanding": 25932524521.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": null,
-   "hq": "HSINCHU",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T19:04:05+09:00"
   }
  ]
 }
