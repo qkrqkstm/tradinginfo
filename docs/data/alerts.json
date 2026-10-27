@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-27T22:04:34+09:00",
+ "updated_at": "2026-10-27T22:09:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001941536-26-000031",
+   "company": "Bridger Aerospace Group Holdings, Inc.",
+   "ticker": "BAER",
+   "cik": 1941536,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "The Agreement has an estimated total revenue potential of up to $183 million (over the life of the Agreement, assuming full commitment and induction of all three aircraft and exercise of each additional renewal term), which aggregate amount reflects (i) anticipated fees during a modification and cer",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1941536/000194153626000031/0001941536-26-000031-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1941536/000194153626000031/baer-20261022.htm",
+   "filed_at": "2026-10-27T09:07:48-04:00",
+   "filed_kst": "2026-10-27 22:07",
+   "price": 0.46,
+   "change": -0.11,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 0.46,
+     "change": -0.11
+    },
+    {
+     "date": "2026-10-26",
+     "close": 0.46,
+     "change": -5.7
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.49,
+     "change": 4.25
+    }
+   ],
+   "market_cap": 27060024.0,
+   "shares_outstanding": 58826140.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BELGRADE, MT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T22:08:34+09:00"
+  },
   {
    "id": "0000714562-26-000068",
    "company": "FIRST FINANCIAL CORP /IN/",
@@ -15608,60 +15662,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-21T21:33:15+09:00"
-  },
-  {
-   "id": "0001493152-26-047852",
-   "company": "NextTrip, Inc.",
-   "ticker": "NTRP",
-   "cik": 788611,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "1 NextTrip Announces Canadian Travel Joint Venture with The Travel Agent Next Door Venture provides an accelerated path to Canadian travel revenues through an established partner with 1,850 agents and C$620 million in annual travel sales Sunrise, FL – October 21, 2026 – NextTrip, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226047852/0001493152-26-047852-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226047852/ex99-1.htm",
-   "filed_at": "2026-10-21T08:31:24-04:00",
-   "filed_kst": "2026-10-21 21:31",
-   "price": 1.22,
-   "change": -2.4,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 1.22,
-     "change": -2.4
-    },
-    {
-     "date": "2026-10-19",
-     "close": 1.25,
-     "change": -8.09
-    },
-    {
-     "date": "2026-10-16",
-     "close": 1.36,
-     "change": -18.56
-    }
-   ],
-   "market_cap": 18580478.0,
-   "shares_outstanding": 15229900.0,
-   "industry": "Transportation Services",
-   "state_of_incorporation": null,
-   "hq": "SUNRISE, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-21T21:32:12+09:00"
   }
  ]
 }
