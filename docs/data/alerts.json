@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-27T20:39:33+09:00",
+ "updated_at": "2026-10-27T20:44:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001855644-26-000012",
+   "company": "Zura Bio Ltd",
+   "ticker": "ZURA",
+   "cik": 1855644,
+   "form": "8-K",
+   "items": [],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "1 Zura Bio Reports Third Quarter 2026 Financial Results and Recent Corporate Updates • TibuSHIELD topline data in hidradenitis suppurativa (HS) remains on track for Q4 2026; enrollment completed with 247 participants randomized, exceeding target • TibuSURE topline data in systemic sclerosis (SSc) re",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1855644/000185564426000012/0001855644-26-000012-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1855644/000185564426000012/zura-20261027xex991.htm",
+   "filed_at": "2026-10-27T07:40:36-04:00",
+   "filed_kst": "2026-10-27 20:40",
+   "price": 3.56,
+   "change": 5.95,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 3.56,
+     "change": 5.95
+    },
+    {
+     "date": "2026-10-23",
+     "close": 3.36,
+     "change": -4.82
+    },
+    {
+     "date": "2026-10-22",
+     "close": 3.53,
+     "change": -14.53
+    }
+   ],
+   "market_cap": 342918463.0,
+   "shares_outstanding": 96325411.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "LA JOLLA, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T20:41:34+09:00"
+  },
   {
    "id": "0001730430-26-000037",
    "company": "Kiniksa Pharmaceuticals International, plc",
@@ -15623,59 +15673,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-21T19:48:05+09:00"
-  },
-  {
-   "id": "0001493152-26-047837",
-   "company": "Nova Minerals Corp",
-   "ticker": "NVA",
-   "cik": 1852551,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "In parallel, Nova is advancing its critical minerals strategy, fully-funded by a $43.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226047837/0001493152-26-047837-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226047837/ex99-1.htm",
-   "filed_at": "2026-10-21T06:45:18-04:00",
-   "filed_kst": "2026-10-21 19:45",
-   "price": 3.13,
-   "change": -1.26,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 3.13,
-     "change": -1.26
-    },
-    {
-     "date": "2026-10-19",
-     "close": 3.17,
-     "change": 1.28
-    },
-    {
-     "date": "2026-10-16",
-     "close": 3.13,
-     "change": -12.81
-    }
-   ],
-   "market_cap": 119548372.0,
-   "shares_outstanding": 38194368.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "NV",
-   "hq": "CAULFIELD",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-21T19:46:01+09:00"
   }
  ]
 }
