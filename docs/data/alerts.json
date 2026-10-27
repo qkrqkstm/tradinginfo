@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-28T03:39:33+09:00",
+ "updated_at": "2026-10-28T03:44:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001133311-26-000019",
+   "company": "TRAVELZOO",
+   "ticker": "TZOO",
+   "cik": 1133311,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "Share Repurchase Program During Q3 2026, the Company repurchased 256,898 shares of its outstanding common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1133311/000113331126000019/0001133311-26-000019-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1133311/000113331126000019/ex-99109x30x20268xk.htm",
+   "filed_at": "2026-10-27T14:43:36-04:00",
+   "filed_kst": "2026-10-28 03:43",
+   "price": 5.08,
+   "change": -0.78,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 5.08,
+     "change": -0.78
+    },
+    {
+     "date": "2026-10-26",
+     "close": 5.12,
+     "change": 0.99
+    },
+    {
+     "date": "2026-10-23",
+     "close": 5.07,
+     "change": -0.39
+    }
+   ],
+   "market_cap": 51827872.0,
+   "shares_outstanding": 10202337.0,
+   "industry": "Services-Advertising",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-28T03:44:18+09:00"
+  },
   {
    "id": "0001493152-26-048653",
    "company": "One World Products, Inc.",
@@ -15621,57 +15677,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T02:15:35+09:00"
-  },
-  {
-   "id": "0001031203-26-000139",
-   "company": "GROUP 1 AUTOMOTIVE INC",
-   "ticker": "GPI",
-   "cik": 1031203,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "Hennessy, pursuant to which the Company agreed to acquire all of the assets (other than certain excluded assets) relating to the operation of 10 automobile dealerships and one collision center located in the greater Atlanta, Georgia market, together with certain related dealership real estate and le",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000139/0001031203-26-000139-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000139/exhibit21-101926.htm",
-   "filed_at": "2026-10-21T12:41:14-04:00",
-   "filed_kst": "2026-10-22 01:41",
-   "price": 233.91,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 233.91,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 233.9,
-     "change": -3.75
-    },
-    {
-     "date": "2026-10-20",
-     "close": 243.02,
-     "change": 1.56
-    }
-   ],
-   "market_cap": 2788727650.0,
-   "shares_outstanding": 11922225.0,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T01:42:04+09:00"
   }
  ]
 }
