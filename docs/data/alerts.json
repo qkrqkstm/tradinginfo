@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-27T20:29:15+09:00",
+ "updated_at": "2026-10-27T20:34:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001730430-26-000037",
+   "company": "Kiniksa Pharmaceuticals International, plc",
+   "ticker": "KNSA",
+   "cik": 1730430,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 69,
+   "summary": "(Regeneron) and is approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1730430/000173043026000037/0001730430-26-000037-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1730430/000173043026000037/knsa-ex99d1.htm",
+   "filed_at": "2026-10-27T07:32:37-04:00",
+   "filed_kst": "2026-10-27 20:32",
+   "price": 72.98,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 72.98,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 72.98,
+     "change": -4.89
+    },
+    {
+     "date": "2026-10-23",
+     "close": 76.73,
+     "change": -5.03
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T20:33:13+09:00"
+  },
   {
    "id": "0001828316-26-000049",
    "company": "Pharming Group N.V.",
@@ -15623,57 +15676,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-21T19:46:01+09:00"
-  },
-  {
-   "id": "0001493152-26-047836",
-   "company": "APEX Tech Acquisition Inc.",
-   "ticker": "TRAD",
-   "cik": 2085485,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "(“APEX”) (NYSE: TRAD), a blank check company organized to acquire or merge with one or more businesses, today announced that on October 20, 2026, they entered into a definitive agreement and plan of merger (the “Merger Agreement”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2085485/000149315226047836/0001493152-26-047836-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085485/000149315226047836/ex99-1.htm",
-   "filed_at": "2026-10-21T06:45:18-04:00",
-   "filed_kst": "2026-10-21 19:45",
-   "price": 10.06,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 10.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 10.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-16",
-     "close": 10.06,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 147248220.0,
-   "shares_outstanding": 14637000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-21T19:45:59+09:00"
   }
  ]
 }
