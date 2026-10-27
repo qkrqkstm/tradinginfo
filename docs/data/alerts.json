@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-28T05:49:23+09:00",
+ "updated_at": "2026-10-28T05:54:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-067637",
+   "company": "Brightstar Lottery PLC",
+   "ticker": "BRSL",
+   "cik": 1619762,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 a6-kxrepurchasesxoctober20.htm 6-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October 2026 Commission File Number 001-369",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026067637/0001628280-26-067637-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026067637/a6-kxrepurchasesxoctober20.htm",
+   "filed_at": "2026-10-27T16:53:32-04:00",
+   "filed_kst": "2026-10-28 05:53",
+   "price": 9.49,
+   "change": -0.11,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 9.49,
+     "change": -0.11
+    },
+    {
+     "date": "2026-10-26",
+     "close": 9.5,
+     "change": 0.21
+    },
+    {
+     "date": "2026-10-23",
+     "close": 9.48,
+     "change": -0.84
+    }
+   ],
+   "market_cap": 1773221314.0,
+   "shares_outstanding": 186851561.0,
+   "industry": "Services-Miscellaneous Amusement & Recreation",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:54:14+09:00"
+  },
   {
    "id": "0001628280-26-067627",
    "company": "WELLTOWER INC.",
@@ -15638,56 +15688,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-22T19:00:56+09:00"
-  },
-  {
-   "id": "0001104659-26-117888",
-   "company": "Planet 13 Holdings Inc.",
-   "ticker": "PLNH",
-   "cik": 1813452,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a British Columbia corporation (\"Vireo\"), entered into an Agreement and Plan of Merger (the \"Merger Agreement\") with Planet 13 Holdings Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1813452/000110465926117888/0001104659-26-117888-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1813452/000110465926117888/tm2628083d1_425.htm",
-   "filed_at": "2026-10-21T17:44:15-04:00",
-   "filed_kst": "2026-10-22 06:44",
-   "price": 0.11,
-   "change": 2.83,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 0.11,
-     "change": 2.83
-    },
-    {
-     "date": "2026-10-20",
-     "close": 0.11,
-     "change": 3.92
-    },
-    {
-     "date": "2026-10-19",
-     "close": 0.1,
-     "change": -3.77
-    }
-   ],
-   "market_cap": 36885140.0,
-   "shares_outstanding": 335319455.0,
-   "industry": "Agricultural Production-Crops",
-   "state_of_incorporation": "NV",
-   "hq": "LAS VEGAS, NV",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-22T19:00:54+09:00"
   }
  ]
 }
