@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-27T20:09:37+09:00",
+ "updated_at": "2026-10-27T20:14:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001828316-26-000049",
+   "company": "Pharming Group N.V.",
+   "ticker": "PHAR",
+   "cik": 1828316,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 80,
+   "summary": "On September 28, 2026, we announced that the FDA had accepted this sNDA and granted the application Priority Review and assigned a Prescription Drug User Fee Act (PDUFA) target action date of January 30, 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000049/0001828316-26-000049-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000049/a2026q3pressrelease.htm",
+   "filed_at": "2026-10-27T07:11:21-04:00",
+   "filed_kst": "2026-10-27 20:11",
+   "price": 11.9,
+   "change": 6.25,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 11.9,
+     "change": 6.25
+    },
+    {
+     "date": "2026-10-23",
+     "close": 11.2,
+     "change": 4.97
+    },
+    {
+     "date": "2026-10-22",
+     "close": 10.67,
+     "change": 10.57
+    }
+   ],
+   "market_cap": 8349997236.0,
+   "shares_outstanding": 701680440.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Netherlands",
+   "hq": "LEIDEN, P7",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-27T20:12:04+09:00"
+  },
   {
    "id": "0001628280-26-067406",
    "company": "IQVIA HOLDINGS INC.",
@@ -15622,57 +15674,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-21T19:45:59+09:00"
-  },
-  {
-   "id": "0001654954-26-009062",
-   "company": "GSK plc",
-   "ticker": "GSK",
-   "cik": 1131399,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 84,
-   "summary": "htm US FDA APPROVES HIBSAGO FOR CHRONIC HEPATITIS B a7767z UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009062/0001654954-26-009062-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009062/a7767z.htm",
-   "filed_at": "2026-10-21T06:14:05-04:00",
-   "filed_kst": "2026-10-21 19:14",
-   "price": 50.63,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 50.63,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-20",
-     "close": 50.63,
-     "change": 2.37
-    },
-    {
-     "date": "2026-10-19",
-     "close": 49.46,
-     "change": -0.1
-    }
-   ],
-   "market_cap": 218490981666.0,
-   "shares_outstanding": 4315445026.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-21T19:15:33+09:00"
   }
  ]
 }
