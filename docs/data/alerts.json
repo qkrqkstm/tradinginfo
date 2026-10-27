@@ -1,7 +1,215 @@
 {
- "updated_at": "2026-10-28T05:04:36+09:00",
+ "updated_at": "2026-10-28T05:09:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001479094-26-000032",
+   "company": "STAG Industrial, Inc.",
+   "ticker": "STAG",
+   "cik": 1479094,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "Quarterly Dividend Declaration and New Share Repurchase Authorization On October 26, 2026, the Company's Board of Directors authorized a dividend in the amount of $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1479094/000147909426000032/0001479094-26-000032-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1479094/000147909426000032/q32026earningsrelease.htm",
+   "filed_at": "2026-10-27T16:07:31-04:00",
+   "filed_kst": "2026-10-28 05:07",
+   "price": 36.18,
+   "change": -0.33,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 36.18,
+     "change": -0.33
+    },
+    {
+     "date": "2026-10-26",
+     "close": 36.3,
+     "change": -0.36
+    },
+    {
+     "date": "2026-10-23",
+     "close": 36.43,
+     "change": -0.22
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": null,
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:08:23+09:00"
+  },
+  {
+   "id": "0001171843-26-006857",
+   "company": "HANMI FINANCIAL CORP",
+   "ticker": "HAFC",
+   "cik": 1109242,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "During the third quarter, under its share repurchase program, Hanmi repurchased 151,048 shares of common stock at an average price of $31.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1109242/000117184326006857/0001171843-26-006857-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1109242/000117184326006857/exh_991.htm",
+   "filed_at": "2026-10-27T16:06:17-04:00",
+   "filed_kst": "2026-10-28 05:06",
+   "price": 32.41,
+   "change": 0.75,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 32.41,
+     "change": 0.75
+    },
+    {
+     "date": "2026-10-26",
+     "close": 32.17,
+     "change": 0.06
+    },
+    {
+     "date": "2026-10-23",
+     "close": 32.15,
+     "change": -0.28
+    }
+   ],
+   "market_cap": 960932355.0,
+   "shares_outstanding": 29649255.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:07:15+09:00"
+  },
+  {
+   "id": "0001193125-26-434196",
+   "company": "UMB FINANCIAL CORP",
+   "ticker": "UMBF",
+   "cik": 101382,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "On October 27, 2026, UMB Financial Corporation, a Missouri corporation (“UMB”), issued a press release announcing the execution of the Agreement and Plan of Merger (the “Merger Agreement”), dated October 27, 2026, by and among El Dorado Savings Bank, F.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101382/000119312526434196/0001193125-26-434196-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/101382/000119312526434196/umbf-ex99_1.htm",
+   "filed_at": "2026-10-27T16:05:18-04:00",
+   "filed_kst": "2026-10-28 05:05",
+   "price": 133.8,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 133.8,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 133.8,
+     "change": -0.34
+    },
+    {
+     "date": "2026-10-26",
+     "close": 134.26,
+     "change": -0.92
+    }
+   ],
+   "market_cap": 10162114014.0,
+   "shares_outstanding": 75950030.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "MO",
+   "hq": "KANSAS CITY, MO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:06:38+09:00"
+  },
+  {
+   "id": "0001193125-26-434197",
+   "company": "RANGE RESOURCES CORP",
+   "ticker": "RRC",
+   "cik": 315852,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 d193952d425.htm 425 425 Filed by Range Resources Corporation (Commission File No.: 001-12209) Pursuant to Rule 425 under the Securities Act of 1933 and deemed filed pursuant to Rule 14a-12 of the Securities Exchange Act of 1934 Subject Company: Range Resources Corporation (Commission File No.:",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315852/000119312526434197/0001193125-26-434197-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/315852/000119312526434197/d193952d425.htm",
+   "filed_at": "2026-10-27T16:05:06-04:00",
+   "filed_kst": "2026-10-28 05:05",
+   "price": 56.37,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 56.37,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 56.37,
+     "change": 5.25
+    },
+    {
+     "date": "2026-10-26",
+     "close": 53.56,
+     "change": 17.66
+    }
+   ],
+   "market_cap": 13172514261.0,
+   "shares_outstanding": 233679515.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "FT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:06:04+09:00"
+  },
   {
    "id": "0001297989-26-000028",
    "company": "ExlService Holdings, Inc.",
@@ -15468,218 +15676,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T05:09:17+09:00"
-  },
-  {
-   "id": "0000350894-26-000051",
-   "company": "SEI INVESTMENTS CO",
-   "ticker": "SEIC",
-   "cik": 350894,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "In addition, on October 20, 2026, SEI's Board of Directors approved an increase in the stock repurchase program by an additional $800 million, increasing the available authorization under the program to approximately $926 million.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/350894/000035089426000051/0000350894-26-000051-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/350894/000035089426000051/seic-earningsreleaseex9911.htm",
-   "filed_at": "2026-10-21T16:06:55-04:00",
-   "filed_kst": "2026-10-22 05:06",
-   "price": 108.43,
-   "change": 1.19,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 108.43,
-     "change": 1.19
-    },
-    {
-     "date": "2026-10-20",
-     "close": 107.15,
-     "change": 2.25
-    },
-    {
-     "date": "2026-10-19",
-     "close": 104.79,
-     "change": 0.37
-    }
-   ],
-   "market_cap": 13013679904.0,
-   "shares_outstanding": 120019182.0,
-   "industry": "Security Brokers, Dealers & Flotation Companies",
-   "state_of_incorporation": "PA",
-   "hq": "OAKS, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T05:09:10+09:00"
-  },
-  {
-   "id": "0000912767-26-000050",
-   "company": "UFP INDUSTRIES INC",
-   "ticker": "UFPI",
-   "cik": 912767,
-   "form": "8-K",
-   "items": [
-    "5.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "Missad had exceeded expectations during his tenure as CEO and, as a result, recommended the Board approve retirement benefits in the aggregate sum of $5.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/912767/000091276726000050/0000912767-26-000050-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/912767/000091276726000050/ufpi-ex10d1.htm",
-   "filed_at": "2026-10-21T15:57:40-04:00",
-   "filed_kst": "2026-10-22 04:57",
-   "price": 79.98,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 79.98,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 79.98,
-     "change": 0.19
-    },
-    {
-     "date": "2026-10-20",
-     "close": 79.83,
-     "change": 2.06
-    }
-   ],
-   "market_cap": 4411816050.0,
-   "shares_outstanding": 55161491.0,
-   "industry": "Sawmills & Planting Mills, General",
-   "state_of_incorporation": "MI",
-   "hq": "GRAND RAPIDS, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T04:59:03+09:00"
-  },
-  {
-   "id": "0000799233-26-000045",
-   "company": "HEARTLAND EXPRESS INC",
-   "ticker": "HTLD",
-   "cik": 799233,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 63,
-   "summary": "9 million remains at September 30, 2026, down from total combined debt and finance lease obligations of $494.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/799233/000079923326000045/0000799233-26-000045-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/799233/000079923326000045/htld2026q3earningsrelease.htm",
-   "filed_at": "2026-10-21T15:32:27-04:00",
-   "filed_kst": "2026-10-22 04:32",
-   "price": 10.22,
-   "change": -0.44,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 10.23,
-     "change": -0.44
-    },
-    {
-     "date": "2026-10-20",
-     "close": 10.27,
-     "change": -2.47
-    },
-    {
-     "date": "2026-10-19",
-     "close": 10.53,
-     "change": -3.84
-    }
-   ],
-   "market_cap": 790339284.0,
-   "shares_outstanding": 77332611.0,
-   "industry": "Trucking (No Local)",
-   "state_of_incorporation": "NV",
-   "hq": "NORTH LIBERTY, IA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-22T04:32:58+09:00"
-  },
-  {
-   "id": "0000950103-26-015958",
-   "company": "AKZO NOBEL NV",
-   "ticker": "AKZOY",
-   "cik": 3124,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Can I confirm that this has a separate plant? Or is it meant to have some type of licensing agreement that enables a tech transfer together with the brands to a buyer? And my second question is on the Asia business.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/3124/000095010326015958/0000950103-26-015958-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/3124/000095010326015958/dp255352_425-2.htm",
-   "filed_at": "2026-10-21T14:39:36-04:00",
-   "filed_kst": "2026-10-22 03:39",
-   "price": 22.76,
-   "change": 3.6,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 22.76,
-     "change": 3.6
-    },
-    {
-     "date": "2026-10-20",
-     "close": 21.97,
-     "change": 0.09
-    },
-    {
-     "date": "2026-10-19",
-     "close": 21.95,
-     "change": -0.36
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Chemicals & Allied Products",
-   "state_of_incorporation": null,
-   "hq": "AMSTERDAM",
-   "entity_category": null,
-   "detected_at": "2026-10-22T03:40:32+09:00"
   }
  ]
 }
