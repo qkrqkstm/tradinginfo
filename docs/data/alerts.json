@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-27T22:09:06+09:00",
+ "updated_at": "2026-10-27T22:14:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001718939-26-000062",
+   "company": "T Stamp Inc",
+   "ticker": "IDAI",
+   "cik": 1718939,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "- Nasdaq: IDAI (“Trust Stamp” or “The Company’) Trust Stamp signs Multi-Year Agreement to provide AI-Powered Identity Solutions for government programs in Nigeria, in a Multi-Year, Multi-Million-Dollar Engagement ATLANTA, GA - October 26, 2026: Trust Stamp (NASDAQ:IDAI), a global provider of AI-powe",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1718939/000171893926000062/0001718939-26-000062-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1718939/000171893926000062/ex991pr.htm",
+   "filed_at": "2026-10-27T09:14:03-04:00",
+   "filed_kst": "2026-10-27 22:14",
+   "price": 2.38,
+   "change": -12.5,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 2.38,
+     "change": -12.5
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2.72,
+     "change": 2.06
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2.66,
+     "change": -2.38
+    }
+   ],
+   "market_cap": 13421513.0,
+   "shares_outstanding": 5639291.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "ATLANTA, GA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T22:14:40+09:00"
+  },
   {
    "id": "0001941536-26-000031",
    "company": "Bridger Aerospace Group Holdings, Inc.",
@@ -15611,57 +15664,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-21T21:43:35+09:00"
-  },
-  {
-   "id": "0001213900-26-111199",
-   "company": "Elmet Group Co.",
-   "ticker": "ELMT",
-   "cik": 2101698,
-   "form": "8-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "EX-10.1 2 ea030911401ex10-1.htm SUBSCRIPTION AGREEMENT, DATED OCTOBER 16, 2026, BY AND BETWEEN THE ELMET GROUP CO. AND BLUE MOON METALS INC Exhibit 10.1 UNITED STATES BLUE MOON METALS INC. (THE “COMPANY”) SUBSCRIPTION AGREEMENT (PRIVATE PLACEMENT OFFERING OF UNITS) THE UNITS BEING OFFERED FOR SALE M",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026111199/0001213900-26-111199-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026111199/ea030911401ex10-1.htm",
-   "filed_at": "2026-10-21T08:32:44-04:00",
-   "filed_kst": "2026-10-21 21:32",
-   "price": 19.04,
-   "change": 1.55,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 19.04,
-     "change": 1.55
-    },
-    {
-     "date": "2026-10-19",
-     "close": 18.75,
-     "change": -0.95
-    },
-    {
-     "date": "2026-10-16",
-     "close": 18.93,
-     "change": -2.87
-    }
-   ],
-   "market_cap": 579948842.0,
-   "shares_outstanding": 30459498.0,
-   "industry": "Miscellaneous Fabricated Metal Products",
-   "state_of_incorporation": "DE",
-   "hq": "PORTLAND, ME",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-21T21:33:15+09:00"
   }
  ]
 }
