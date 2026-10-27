@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-10-27T19:04:54+09:00",
+ "updated_at": "2026-10-27T19:09:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001648257-26-000070",
+   "company": "HUTCHMED (China) Ltd",
+   "ticker": "HCM",
+   "cik": 1648257,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "The global, randomized, SAFFRON Phase III trial in the same treatment setting comparing the combination with doublet platinum-based chemotherapy reported positive high-level results, demonstrating a statistically significant and clinically meaningful improvement in progression-free survival (“PFS”) ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000070/0001648257-26-000070-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000070/hcm-ex99d1.htm",
+   "filed_at": "2026-10-27T06:08:29-04:00",
+   "filed_kst": "2026-10-27 19:08",
+   "price": 14.27,
+   "change": -0.63,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 14.27,
+     "change": -0.63
+    },
+    {
+     "date": "2026-10-23",
+     "close": 14.36,
+     "change": 0.56
+    },
+    {
+     "date": "2026-10-22",
+     "close": 14.28,
+     "change": -0.63
+    }
+   ],
+   "market_cap": 12448115137.0,
+   "shares_outstanding": 872327620.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HONG KONG",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T19:09:06+09:00"
+  },
+  {
+   "id": "0001104659-26-118952",
+   "company": "Aclaris Therapeutics, Inc.",
+   "ticker": "ACRS",
+   "cik": 1557746,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "2 EMPOWERING PATIENTS THROUGH THERAPEUTIC INNOVATION October 27, 2026 ATI-052 Phase 1b Primary Analysis Results Atopic Dermatitis and Asthma 2 Any statements contained in this presentation that do not describe historical facts may constitute EX-99.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926118952/0001104659-26-118952-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926118952/acrs-ex99d2.htm",
+   "filed_at": "2026-10-27T06:06:18-04:00",
+   "filed_kst": "2026-10-27 19:06",
+   "price": 3.79,
+   "change": 1.07,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 3.79,
+     "change": 1.07
+    },
+    {
+     "date": "2026-10-23",
+     "close": 3.75,
+     "change": -2.09
+    },
+    {
+     "date": "2026-10-22",
+     "close": 3.83,
+     "change": 0.52
+    }
+   ],
+   "market_cap": 557883804.0,
+   "shares_outstanding": 147198893.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WAYNE, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-27T19:07:02+09:00"
+  },
   {
    "id": "0001736946-26-000066",
    "company": "Arlo Technologies, Inc.",
@@ -15556,112 +15662,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-21T05:15:35+09:00"
-  },
-  {
-   "id": "0000917251-26-000075",
-   "company": "AGREE REALTY CORP",
-   "ticker": "ADC",
-   "cik": 917251,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 79,
-   "summary": "2025 Walgreens entered into a definitive agreement to be acquired by private equity firm Sycamore Partners.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/917251/000091725126000075/0000917251-26-000075-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/917251/000091725126000075/adc20260930-ex991.htm",
-   "filed_at": "2026-10-20T16:05:27-04:00",
-   "filed_kst": "2026-10-21 05:05",
-   "price": 67.11,
-   "change": 1.96,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 67.11,
-     "change": 1.96
-    },
-    {
-     "date": "2026-10-19",
-     "close": 65.82,
-     "change": -1.82
-    },
-    {
-     "date": "2026-10-16",
-     "close": 67.04,
-     "change": 0.72
-    }
-   ],
-   "market_cap": 8347095494.0,
-   "shares_outstanding": 124379310.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "DE",
-   "hq": "ROYAL OAK, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-21T05:06:54+09:00"
-  },
-  {
-   "id": "0001104659-26-117409",
-   "company": "QCR HOLDINGS INC",
-   "ticker": "QCRH",
-   "cik": 906465,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "The share repurchase program remains an important capital management tool, providing flexibility to return capital to shareholders while maintaining a strong capital position.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/906465/000110465926117409/0001104659-26-117409-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/906465/000110465926117409/qcrh-ex99d1.htm",
-   "filed_at": "2026-10-20T16:05:47-04:00",
-   "filed_kst": "2026-10-21 05:05",
-   "price": 99.39,
-   "change": 1.96,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 99.39,
-     "change": 1.96
-    },
-    {
-     "date": "2026-10-19",
-     "close": 97.48,
-     "change": -1.4
-    },
-    {
-     "date": "2026-10-16",
-     "close": 98.86,
-     "change": 0.07
-    }
-   ],
-   "market_cap": 1627572275.0,
-   "shares_outstanding": 16375614.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "MOLINE, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-21T05:06:48+09:00"
   }
  ]
 }
