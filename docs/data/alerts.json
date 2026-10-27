@@ -1,7 +1,167 @@
 {
- "updated_at": "2026-10-27T20:04:34+09:00",
+ "updated_at": "2026-10-27T20:09:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-067406",
+   "company": "IQVIA HOLDINGS INC.",
+   "ticker": "IQV",
+   "cik": 1478242,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 69,
+   "summary": "EBP funding, RFP flow, clinical trial starts, FDA approvals, outsourcing trends, and pipeline growth across clinical and commercial are all favorable.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026067406/0001628280-26-067406-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026067406/iqv-q3x2026earningspressre.htm",
+   "filed_at": "2026-10-27T07:08:41-04:00",
+   "filed_kst": "2026-10-27 20:08",
+   "price": 273.6,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 273.6,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 273.6,
+     "change": -2.06
+    },
+    {
+     "date": "2026-10-23",
+     "close": 279.36,
+     "change": 0.37
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Commercial Physical & Biological Research",
+   "state_of_incorporation": "DE",
+   "hq": "DURHAM, NC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T20:09:36+09:00"
+  },
+  {
+   "id": "0001193125-26-432656",
+   "company": "Guidewire Software, Inc.",
+   "ticker": "GWRE",
+   "cik": 1528396,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.03",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) entered into an agreement for the sale and purchase of Hyperexponential Ltd (“hyperexponential”) with the shareholders of hyperexponential (the “Acquisition Agreement”), pursuant to which the Company agreed to acquire all of the issued share capital of hyperexponential (the “Acquisit",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1528396/000119312526432656/0001193125-26-432656-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1528396/000119312526432656/d121813dex991.htm",
+   "filed_at": "2026-10-27T07:05:23-04:00",
+   "filed_kst": "2026-10-27 20:05",
+   "price": 183.96,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 183.96,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 183.96,
+     "change": -2.67
+    },
+    {
+     "date": "2026-10-23",
+     "close": 189.0,
+     "change": -0.34
+    }
+   ],
+   "market_cap": 15083371389.0,
+   "shares_outstanding": 81992669.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "SAN MATEO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T20:06:01+09:00"
+  },
+  {
+   "id": "0001859392-26-000108",
+   "company": "Galaxy Digital Inc.",
+   "ticker": "GLXY",
+   "cik": 1859392,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 73,
+   "summary": "8 million shares year-to-date, more than offsetting equity-based compensation dilution • Board approved additional $200 million share repurchase authorization • Substantially expanded data center footprint bringing total gross power pipeline to over 5.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/0001859392-26-000108-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/glxy-20260930xpressrelease.htm",
+   "filed_at": "2026-10-27T07:04:45-04:00",
+   "filed_kst": "2026-10-27 20:04",
+   "price": 15.68,
+   "change": 6.81,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 15.68,
+     "change": 6.81
+    },
+    {
+     "date": "2026-10-23",
+     "close": 14.68,
+     "change": -3.99
+    },
+    {
+     "date": "2026-10-22",
+     "close": 15.29,
+     "change": -9.69
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Security Brokers, Dealers & Flotation Companies",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-27T20:05:27+09:00"
+  },
   {
    "id": "0001053507-26-000154",
    "company": "AMERICAN TOWER CORP /MA/",
@@ -15513,156 +15673,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-21T19:15:33+09:00"
-  },
-  {
-   "id": "0001437749-26-033045",
-   "company": "ALTERITY THERAPEUTICS LTD",
-   "ticker": "ATHE",
-   "cik": 1131343,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "ATH434, the Company’s lead asset, demonstrated clinically meaningful efficacy in a randomized, double-blind, placebo-controlled Phase 2 clinical trial in participants with MSA.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926033045/0001437749-26-033045-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926033045/ex_1028815.htm",
-   "filed_at": "2026-10-21T06:00:53-04:00",
-   "filed_kst": "2026-10-21 19:00",
-   "price": 2.37,
-   "change": -2.47,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 2.37,
-     "change": -2.47
-    },
-    {
-     "date": "2026-10-19",
-     "close": 2.43,
-     "change": -7.25
-    },
-    {
-     "date": "2026-10-16",
-     "close": 2.62,
-     "change": -3.68
-    }
-   ],
-   "market_cap": 515496003.0,
-   "shares_outstanding": 217508862.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Australia",
-   "hq": "MELBOURNE",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-21T19:05:36+09:00"
-  },
-  {
-   "id": "0001193125-26-427148",
-   "company": "WOODSIDE ENERGY GROUP LTD",
-   "ticker": "WDS",
-   "cik": 844551,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "• Continued progress across the Gippsland Basin Joint Venture wells P&A campaign, including conductor recovery activities at the Cobia field, completion of preparatory work for the Snapper campaign and commencement of the Barracouta A P&A campaign.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/844551/000119312526427148/0001193125-26-427148-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/844551/000119312526427148/d166690dex991.htm",
-   "filed_at": "2026-10-21T06:02:07-04:00",
-   "filed_kst": "2026-10-21 19:02",
-   "price": 23.63,
-   "change": -0.34,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 23.63,
-     "change": -0.34
-    },
-    {
-     "date": "2026-10-19",
-     "close": 23.71,
-     "change": 0.3
-    },
-    {
-     "date": "2026-10-16",
-     "close": 23.64,
-     "change": 1.59
-    }
-   ],
-   "market_cap": 44922996379.0,
-   "shares_outstanding": 1901100143.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": null,
-   "hq": "WESTERN AUSTRALIA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-21T19:05:32+09:00"
-  },
-  {
-   "id": "0001648257-26-000066",
-   "company": "HUTCHMED (China) Ltd",
-   "ticker": "HCM",
-   "cik": 1648257,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.1 2 hcm-ex99d1.htm EX-99.1 Exhibit 99.1 ​ ​ Press Release HUTCHMED Announces Closing of KRAS-EGFR-Antibody Conjugate Therapy License to GSK Outside China Hong Kong, Shanghai & Florham Park, NJ — Wednesday, October 21, 2026: HUTCHMED (China) Limited (“ HUTCHMED ” or the “Company”) (Nasdaq/AIM:H",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000066/0001648257-26-000066-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000066/hcm-ex99d1.htm",
-   "filed_at": "2026-10-21T06:03:47-04:00",
-   "filed_kst": "2026-10-21 19:03",
-   "price": 14.74,
-   "change": 3.95,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 14.74,
-     "change": 3.95
-    },
-    {
-     "date": "2026-10-19",
-     "close": 14.18,
-     "change": 0.93
-    },
-    {
-     "date": "2026-10-16",
-     "close": 14.05,
-     "change": 0.79
-    }
-   ],
-   "market_cap": 12858109119.0,
-   "shares_outstanding": 872327620.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-21T19:05:29+09:00"
   }
  ]
 }
