@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-28T04:44:39+09:00",
+ "updated_at": "2026-10-28T04:49:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-048685",
+   "company": "SDR Drone, Inc.",
+   "ticker": "SDCO",
+   "cik": 1331421,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Position and Duties The Consultant shall serve as an independent contractor and not as an employee, agent, joint venturer, partner, broker-dealer, investment adviser or fiduciary of the Company.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1331421/000149315226048685/0001493152-26-048685-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1331421/000149315226048685/ex99-1.htm",
+   "filed_at": "2026-10-27T15:47:29-04:00",
+   "filed_kst": "2026-10-28 04:47",
+   "price": 1.4,
+   "change": 40.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 1.4,
+     "change": 40.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 1.0,
+     "change": -33.33
+    }
+   ],
+   "market_cap": 93628808.0,
+   "shares_outstanding": 66877720.0,
+   "industry": "Aircraft",
+   "state_of_incorporation": "FL",
+   "hq": "ESCONDIDO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T04:48:05+09:00"
+  },
   {
    "id": "0001133311-26-000019",
    "company": "TRAVELZOO",
@@ -15626,57 +15676,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-22T02:30:43+09:00"
-  },
-  {
-   "id": "0001062993-26-005462",
-   "company": "Hudbay Minerals Inc.",
-   "ticker": "HBM",
-   "cik": 1322422,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "Copper World is 30%-owned by Mitsubishi Corporation (\"Mitsubishi\") pursuant to a joint venture agreement entered into with Hudbay in January 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1322422/000106299326005462/0001062993-26-005462-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1322422/000106299326005462/exhibit99-1.htm",
-   "filed_at": "2026-10-21T13:14:25-04:00",
-   "filed_kst": "2026-10-22 02:14",
-   "price": 24.1,
-   "change": 1.86,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 24.1,
-     "change": 1.86
-    },
-    {
-     "date": "2026-10-20",
-     "close": 23.66,
-     "change": -1.09
-    },
-    {
-     "date": "2026-10-19",
-     "close": 23.92,
-     "change": 1.27
-    }
-   ],
-   "market_cap": 9532077862.0,
-   "shares_outstanding": 395521903.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": null,
-   "hq": "TORONTO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T02:15:35+09:00"
   }
  ]
 }
