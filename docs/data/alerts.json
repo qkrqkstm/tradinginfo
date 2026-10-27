@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-10-27T19:49:37+09:00",
+ "updated_at": "2026-10-27T19:54:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000077360-26-000055",
+   "company": "PENTAIR plc",
+   "ticker": "PNR",
+   "cik": 77360,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "Stauch concluded, “Our solid third-quarter performance increases our confidence in the full-year outlook and enables us to reaffirm the midpoint of our previous guidance range.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/77360/000007736026000055/0000077360-26-000055-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/77360/000007736026000055/q32026pressrelease.htm",
+   "filed_at": "2026-10-27T06:51:51-04:00",
+   "filed_kst": "2026-10-27 19:51",
+   "price": 55.22,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 55.22,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 55.22,
+     "change": -0.14
+    },
+    {
+     "date": "2026-10-23",
+     "close": 55.3,
+     "change": -0.25
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Special Industry Machinery (No Metalworking Machinery)",
+   "state_of_incorporation": "Ireland",
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T19:52:35+09:00"
+  },
+  {
+   "id": "0001654954-26-009155",
+   "company": "ASTRAZENECA PLC",
+   "ticker": "AZN",
+   "cik": 901832,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "For further details on the financial arrangements, please consult the collaboration agreement from March 2019 .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009155/0001654954-26-009155-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009155/a6054a.htm",
+   "filed_at": "2026-10-27T06:51:37-04:00",
+   "filed_kst": "2026-10-27 19:51",
+   "price": 172.06,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 172.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 172.06,
+     "change": 0.33
+    },
+    {
+     "date": "2026-10-23",
+     "close": 171.49,
+     "change": -0.63
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "CAMBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T19:52:03+09:00"
+  },
   {
    "id": "0001493152-26-048631",
    "company": "Nova Minerals Corp",
@@ -15555,110 +15659,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-21T19:04:34+09:00"
-  },
-  {
-   "id": "0001564708-26-000233",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000233/0001564708-26-000233-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000233/appendix3cclassa20261020.htm",
-   "filed_at": "2026-10-20T18:42:57-04:00",
-   "filed_kst": "2026-10-21 07:42",
-   "price": 33.4,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 33.4,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-20",
-     "close": 33.4,
-     "change": 1.52
-    },
-    {
-     "date": "2026-10-19",
-     "close": 32.9,
-     "change": 0.06
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-21T19:01:52+09:00"
-  },
-  {
-   "id": "0001193125-26-426886",
-   "company": "BHP Group Ltd",
-   "ticker": "BHP",
-   "cik": 811809,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 60,
-   "summary": "Strategic partnerships Social value Supporting growth Building long-term, sustainable value In September, BHP signed an MOU with KGHM Polska Miedź S.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/811809/000119312526426886/0001193125-26-426886-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/811809/000119312526426886/d293555d6k.htm",
-   "filed_at": "2026-10-20T17:44:41-04:00",
-   "filed_kst": "2026-10-21 06:44",
-   "price": 81.87,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 81.87,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-20",
-     "close": 81.87,
-     "change": -1.62
-    },
-    {
-     "date": "2026-10-19",
-     "close": 83.22,
-     "change": -0.08
-    }
-   ],
-   "market_cap": 415571484279.0,
-   "shares_outstanding": 5075992235.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "Australia",
-   "hq": "VICTORIA AUSTRALIA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-21T19:01:19+09:00"
   }
  ]
 }
