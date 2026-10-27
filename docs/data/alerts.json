@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-27T20:49:37+09:00",
+ "updated_at": "2026-10-27T20:54:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002019804-26-000030",
+   "company": "Terrestrial Energy Inc. /DE/",
+   "ticker": "IMSR",
+   "cik": 2019804,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "​ Terrestrial Energy Announces Share Repurchase Program ​ CHARLOTTE, N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000030/0002019804-26-000030-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000030/tmb-20261021x8k.htm",
+   "filed_at": "2026-10-27T07:49:55-04:00",
+   "filed_kst": "2026-10-27 20:49",
+   "price": 2.94,
+   "change": 5.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 2.94,
+     "change": 5.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2.8,
+     "change": -2.1
+    },
+    {
+     "date": "2026-10-22",
+     "close": 2.86,
+     "change": -2.72
+    }
+   ],
+   "market_cap": 311449647.0,
+   "shares_outstanding": 105935254.0,
+   "industry": "Fabricated Plate Work (Boiler Shops)",
+   "state_of_incorporation": "DE",
+   "hq": "CHARLOTTE, NC",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-27T20:50:31+09:00"
+  },
   {
    "id": "0001855644-26-000012",
    "company": "Zura Bio Ltd",
@@ -15622,57 +15676,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-21T20:00:51+09:00"
-  },
-  {
-   "id": "0001493152-26-047838",
-   "company": "APEX Tech Acquisition Inc.",
-   "ticker": "TRAD",
-   "cik": 2085485,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "(“APEX”) (NYSE: TRAD), a blank check company organized to acquire or merge with one or more businesses, today announced that on October 20, 2026, they entered into a definitive agreement and plan of merger (the “Merger Agreement”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2085485/000149315226047838/0001493152-26-047838-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085485/000149315226047838/ex99-1.htm",
-   "filed_at": "2026-10-21T06:47:23-04:00",
-   "filed_kst": "2026-10-21 19:47",
-   "price": 10.06,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 10.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 10.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-16",
-     "close": 10.06,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 147248220.0,
-   "shares_outstanding": 14637000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-21T19:48:05+09:00"
   }
  ]
 }
