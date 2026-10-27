@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-28T01:49:39+09:00",
+ "updated_at": "2026-10-28T01:54:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-048653",
+   "company": "One World Products, Inc.",
+   "ticker": "OWPC",
+   "cik": 1622244,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "1 One World Products and Los Gatos Tomato Products Form Strategic Partnership to Develop Engineered Materials from Tomato Pomace Partnership advances AgriBlend through Michigan materials development and a proposed agricultural bin program TROY, Mich.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1622244/000149315226048653/0001493152-26-048653-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1622244/000149315226048653/ex99-1.htm",
+   "filed_at": "2026-10-27T12:52:28-04:00",
+   "filed_kst": "2026-10-28 01:52",
+   "price": 0.0,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 0.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "close": 0.0,
+     "change": -66.67
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 120108774.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "LAS VEGAS, NV",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T01:53:11+09:00"
+  },
   {
    "id": "0001062993-26-005562",
    "company": "Helus Pharma Inc.",
@@ -15617,56 +15672,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T01:42:04+09:00"
-  },
-  {
-   "id": "0001174947-26-000921",
-   "company": "ENI SPA",
-   "ticker": "E",
-   "cik": 1002242,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "86 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000921/0001174947-26-000921-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000921/form6k-36435_eni.htm",
-   "filed_at": "2026-10-21T11:18:46-04:00",
-   "filed_kst": "2026-10-22 00:18",
-   "price": 59.26,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 59.26,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 59.26,
-     "change": 0.68
-    },
-    {
-     "date": "2026-10-20",
-     "close": 58.86,
-     "change": 0.02
-    }
-   ],
-   "market_cap": 186477300656.0,
-   "shares_outstanding": 3146765114.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "Italy",
-   "hq": "ROME ITALY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T00:19:09+09:00"
   }
  ]
 }
