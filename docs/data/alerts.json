@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-27T19:09:07+09:00",
+ "updated_at": "2026-10-27T19:14:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-432563",
+   "company": "ORIX CORP",
+   "ticker": "IX",
+   "cik": 1070304,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "If, during the Transfer Restriction Period, a merger agreement under which the Company will become a defunct company, a share exchange agreement under which the Company will become a wholly owned subsidiary, a share transfer plan, or any other matter relating to organizational restructuring, etc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1070304/000119312526432563/0001193125-26-432563-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1070304/000119312526432563/d125052d6k.htm",
+   "filed_at": "2026-10-27T06:08:55-04:00",
+   "filed_kst": "2026-10-27 19:08",
+   "price": 36.59,
+   "change": 0.3,
+   "price_history": [
+    {
+     "date": "2026-10-26",
+     "close": 36.59,
+     "change": 0.3
+    },
+    {
+     "date": "2026-10-23",
+     "close": 36.48,
+     "change": -0.65
+    },
+    {
+     "date": "2026-10-22",
+     "close": 36.72,
+     "change": -0.78
+    }
+   ],
+   "market_cap": 41131061372.0,
+   "shares_outstanding": 1124106624.0,
+   "industry": "Miscellaneous Business Credit Institution",
+   "state_of_incorporation": "Japan",
+   "hq": "TOKYO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T19:10:33+09:00"
+  },
   {
    "id": "0001648257-26-000070",
    "company": "HUTCHMED (China) Ltd",
@@ -15611,57 +15661,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-21T05:16:43+09:00"
-  },
-  {
-   "id": "0001104659-26-117415",
-   "company": "Nyxoah SA",
-   "ticker": "NYXH",
-   "cik": 1857190,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 69,
-   "summary": "001) and zero device- and procedure-related serious adverse events o Submitted a premarket approval (PMA) supplement to the FDA to expand Genio’s U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926117415/0001104659-26-117415-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926117415/tm2627823d1_ex99-1.htm",
-   "filed_at": "2026-10-20T16:15:05-04:00",
-   "filed_kst": "2026-10-21 05:15",
-   "price": 0.94,
-   "change": -1.47,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 0.94,
-     "change": -1.47
-    },
-    {
-     "date": "2026-10-19",
-     "close": 0.95,
-     "change": -14.05
-    },
-    {
-     "date": "2026-10-16",
-     "close": 1.11,
-     "change": -6.72
-    }
-   ],
-   "market_cap": 40444872.0,
-   "shares_outstanding": 43026460.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "Belgium",
-   "hq": "MONT-SAINT-GUIBERT",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-21T05:15:35+09:00"
   }
  ]
 }
