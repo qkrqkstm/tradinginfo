@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-27T19:54:37+09:00",
+ "updated_at": "2026-10-27T19:59:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-067403",
+   "company": "COCA COLA CO",
+   "ticker": "KO",
+   "cik": 21344,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 65,
+   "summary": "Additionally, the company recorded an other-than-temporary impairment charge of $25 million in Latin America, primarily driven by the restructuring of a joint venture.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067403/0001628280-26-067403-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067403/a2026q3earningsreleaseex-9.htm",
+   "filed_at": "2026-10-27T06:58:13-04:00",
+   "filed_kst": "2026-10-27 19:58",
+   "price": 92.7,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 92.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 92.7,
+     "change": -0.01
+    },
+    {
+     "date": "2026-10-23",
+     "close": 92.71,
+     "change": -2.76
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Beverages",
+   "state_of_incorporation": "DE",
+   "hq": "ATLANTA, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-27T19:59:02+09:00"
+  },
   {
    "id": "0000077360-26-000055",
    "company": "PENTAIR plc",
@@ -15608,57 +15663,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-21T19:04:37+09:00"
-  },
-  {
-   "id": "0001213900-26-111148",
-   "company": "Hotel101 Global Holdings Corp.",
-   "ticker": "HBNB",
-   "cik": 2054507,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "1 HOTEL101 GLOBAL ENTERS EGYPT – ITS FIRST ENTRY IN THE AFRICAN CONTINENT Today, October 20, 2026: Hotel101 Global signs definitive binding agreements for a country-wide joint venture in Egypt, starting with an approx.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2054507/000121390026111148/0001213900-26-111148-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2054507/000121390026111148/ea030900401ex99-1.htm",
-   "filed_at": "2026-10-20T21:55:06-04:00",
-   "filed_kst": "2026-10-21 10:55",
-   "price": 4.58,
-   "change": -1.51,
-   "price_history": [
-    {
-     "date": "2026-10-20",
-     "close": 4.58,
-     "change": -1.51
-    },
-    {
-     "date": "2026-10-19",
-     "close": 4.65,
-     "change": -0.43
-    },
-    {
-     "date": "2026-10-16",
-     "close": 4.67,
-     "change": -0.85
-    }
-   ],
-   "market_cap": 1071868328.0,
-   "shares_outstanding": 234032386.0,
-   "industry": "Hotels & Motels",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-21T19:04:34+09:00"
   }
  ]
 }
