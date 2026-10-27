@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-28T00:59:37+09:00",
+ "updated_at": "2026-10-28T01:04:55+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-005562",
+   "company": "Helus Pharma Inc.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326005562/0001062993-26-005562-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326005562/exhibit99-1.htm",
+   "filed_at": "2026-10-27T12:02:23-04:00",
+   "filed_kst": "2026-10-28 01:02",
+   "price": 10.65,
+   "change": 2.85,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 10.65,
+     "change": 2.85
+    },
+    {
+     "date": "2026-10-26",
+     "close": 10.36,
+     "change": 1.67
+    },
+    {
+     "date": "2026-10-23",
+     "close": 10.19,
+     "change": -2.95
+    }
+   ],
+   "market_cap": 230052865.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T01:02:52+09:00"
+  },
   {
    "id": "0001129928-26-000076",
    "company": "ONCOLYTICS BIOTECH INC",
@@ -15616,57 +15667,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T00:19:09+09:00"
-  },
-  {
-   "id": "0001538263-26-000115",
-   "company": "HomeTrust Bancshares, Inc.",
-   "ticker": "HTB",
-   "cik": 1538263,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 76,
-   "summary": "Earlier this month, we announced the completion of the stock repurchase program initiated in August 2026 and authorized the repurchase of an additional 5% of our outstanding shares.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000115/0001538263-26-000115-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000115/htb-2026x09x30x8kxex99x1.htm",
-   "filed_at": "2026-10-21T09:03:50-04:00",
-   "filed_kst": "2026-10-21 22:03",
-   "price": 47.13,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 47.13,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-20",
-     "close": 47.13,
-     "change": 1.09
-    },
-    {
-     "date": "2026-10-19",
-     "close": 46.62,
-     "change": -0.98
-    }
-   ],
-   "market_cap": 786749573.0,
-   "shares_outstanding": 16693180.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": "MD",
-   "hq": "ASHEVILLE, NC",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-21T22:04:34+09:00"
   }
  ]
 }
