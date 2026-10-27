@@ -1,7 +1,221 @@
 {
- "updated_at": "2026-10-28T05:24:17+09:00",
+ "updated_at": "2026-10-28T05:29:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001039684-26-000036",
+   "company": "ONEOK INC /NEW/",
+   "ticker": "OKE",
+   "cik": 1039684,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 73,
+   "summary": "5 billion of debt principal in September 2026 • Completed $9 billion minority equity investment • Completed the acquisition of Brazos Midstream’s Permian Midland Basin assets • Credit ratings upgraded to BBB+ by S&P Global Ratings and Fitch Ratings 2026 Guidance Increase: • Net income increased to a",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1039684/000103968426000036/0001039684-26-000036-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1039684/000103968426000036/okeq32026earningsrelease.htm",
+   "filed_at": "2026-10-27T16:27:53-04:00",
+   "filed_kst": "2026-10-28 05:27",
+   "price": 96.01,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 96.01,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 96.01,
+     "change": -0.36
+    },
+    {
+     "date": "2026-10-26",
+     "close": 96.36,
+     "change": 0.55
+    }
+   ],
+   "market_cap": 60521791729.0,
+   "shares_outstanding": 630369667.0,
+   "industry": "Natural Gas Transmisison & Distribution",
+   "state_of_incorporation": "OK",
+   "hq": "TULSA, OK",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:28:42+09:00"
+  },
+  {
+   "id": "0001193125-26-434282",
+   "company": "Slide Insurance Holdings, Inc.",
+   "ticker": "SLDE",
+   "cik": 1886428,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 71,
+   "summary": "1 million of availability under the Company’s stock repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1886428/000119312526434282/0001193125-26-434282-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1886428/000119312526434282/slde-ex99_1.htm",
+   "filed_at": "2026-10-27T16:27:25-04:00",
+   "filed_kst": "2026-10-28 05:27",
+   "price": 28.39,
+   "change": -2.37,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 28.39,
+     "change": -2.37
+    },
+    {
+     "date": "2026-10-26",
+     "close": 29.08,
+     "change": 1.86
+    },
+    {
+     "date": "2026-10-23",
+     "close": 28.55,
+     "change": 2.88
+    }
+   ],
+   "market_cap": 3316284702.0,
+   "shares_outstanding": 116811719.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": "DE",
+   "hq": "TAMPA, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T05:28:08+09:00"
+  },
+  {
+   "id": "0001104659-26-119170",
+   "company": "CTO Realty Growth, Inc.",
+   "ticker": "CTO",
+   "cik": 23795,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "0 million preferred equity investment in a joint venture that owns a portfolio of ten shopping centers.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/23795/000110465926119170/0001104659-26-119170-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/23795/000110465926119170/cto-ex99d1.htm",
+   "filed_at": "2026-10-27T16:26:14-04:00",
+   "filed_kst": "2026-10-28 05:26",
+   "price": 19.45,
+   "change": -0.97,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 19.45,
+     "change": -0.97
+    },
+    {
+     "date": "2026-10-26",
+     "close": 19.64,
+     "change": -0.71
+    },
+    {
+     "date": "2026-10-23",
+     "close": 19.78,
+     "change": -2.32
+    }
+   ],
+   "market_cap": 753886512.0,
+   "shares_outstanding": 38760232.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "WINTER PARK, FL",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:27:05+09:00"
+  },
+  {
+   "id": "0001104659-26-119167",
+   "company": "NABORS INDUSTRIES LTD",
+   "ticker": "NBR",
+   "cik": 1163739,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 65,
+   "summary": "1 NEWS RELEASE o The SANAD land drilling joint venture successfully deployed its 17th newbuild rig in Saudi Arabia.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1163739/000110465926119167/0001104659-26-119167-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1163739/000110465926119167/tm2628332d1_ex99-1.htm",
+   "filed_at": "2026-10-27T16:23:58-04:00",
+   "filed_kst": "2026-10-28 05:23",
+   "price": 81.32,
+   "change": -1.18,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 81.32,
+     "change": -1.18
+    },
+    {
+     "date": "2026-10-26",
+     "close": 82.29,
+     "change": 1.55
+    },
+    {
+     "date": "2026-10-23",
+     "close": 81.03,
+     "change": 4.15
+    }
+   ],
+   "market_cap": 1297975112.0,
+   "shares_outstanding": 15961327.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": "Bermuda",
+   "hq": "HAMILTON, HM08, D0",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-28T05:25:28+09:00"
+  },
   {
    "id": "0001413447-26-000057",
    "company": "NXP Semiconductors N.V.",
@@ -15467,220 +15681,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T05:28:03+09:00"
-  },
-  {
-   "id": "0001050441-26-000110",
-   "company": "EAGLE BANCORP INC",
-   "ticker": "EGBN",
-   "cik": 1050441,
-   "form": "8-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "9 million increase in salaries and employee benefits driven by non-recurring $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1050441/000105044126000110/0001050441-26-000110-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1050441/000105044126000110/final-3q2026egbnearnings.htm",
-   "filed_at": "2026-10-21T16:26:31-04:00",
-   "filed_kst": "2026-10-22 05:26",
-   "price": 28.53,
-   "change": -0.11,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 28.53,
-     "change": -0.11
-    },
-    {
-     "date": "2026-10-20",
-     "close": 28.56,
-     "change": 2.51
-    },
-    {
-     "date": "2026-10-19",
-     "close": 27.86,
-     "change": -1.73
-    }
-   ],
-   "market_cap": 869707750.0,
-   "shares_outstanding": 30483973.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "MD",
-   "hq": "BETHESDA, MD",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-22T05:28:00+09:00"
-  },
-  {
-   "id": "0001171843-26-006744",
-   "company": "RELIANCE, INC.",
-   "ticker": "RS",
-   "cik": 861884,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 75,
-   "summary": "9 million, up 115% year-over-year Increased share repurchase program to $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/861884/000117184326006744/0001171843-26-006744-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/861884/000117184326006744/exh_991.htm",
-   "filed_at": "2026-10-21T16:20:17-04:00",
-   "filed_kst": "2026-10-22 05:20",
-   "price": 421.07,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 421.07,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 421.07,
-     "change": 0.91
-    },
-    {
-     "date": "2026-10-20",
-     "close": 417.27,
-     "change": 0.38
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Wholesale-Metals Service Centers & of fices",
-   "state_of_incorporation": "DE",
-   "hq": "PHOENIX, AZ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T05:22:10+09:00"
-  },
-  {
-   "id": "0001140361-26-040388",
-   "company": "IONIS PHARMACEUTICALS INC",
-   "ticker": "IONS",
-   "cik": 874015,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 97,
-   "summary": "The approval was granted under FDA priority review and Breakthrough Therapy Designation, recognizing significant improvement of bepirovirsen and nucleos(t)ide analogue therapy over existing standard of care.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/0001140361-26-040388-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/ef20084189_ex99-1.htm",
-   "filed_at": "2026-10-21T16:15:17-04:00",
-   "filed_kst": "2026-10-22 05:15",
-   "price": 44.27,
-   "change": -2.49,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 44.27,
-     "change": -2.49
-    },
-    {
-     "date": "2026-10-20",
-     "close": 45.4,
-     "change": 2.3
-    },
-    {
-     "date": "2026-10-19",
-     "close": 44.38,
-     "change": 3.35
-    }
-   ],
-   "market_cap": 7356979935.0,
-   "shares_outstanding": 166184322.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "CA",
-   "hq": "CARLSBAD, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T05:21:16+09:00"
-  },
-  {
-   "id": "0000092380-26-000104",
-   "company": "SOUTHWEST AIRLINES CO",
-   "ticker": "LUV",
-   "cik": 92380,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "0 billion share repurchase authorization 5 Conference Call: Southwest will discuss its third quarter 2026 results on a conference call at 10:00 a.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000104/0000092380-26-000104-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000104/er-9302026xerdoc.htm",
-   "filed_at": "2026-10-21T16:16:24-04:00",
-   "filed_kst": "2026-10-22 05:16",
-   "price": 39.88,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 39.88,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 39.88,
-     "change": 0.58
-    },
-    {
-     "date": "2026-10-20",
-     "close": 39.65,
-     "change": 2.19
-    }
-   ],
-   "market_cap": 19509623056.0,
-   "shares_outstanding": 489208201.0,
-   "industry": "Air Transportation, Scheduled",
-   "state_of_incorporation": "TX",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T05:21:12+09:00"
   }
  ]
 }
