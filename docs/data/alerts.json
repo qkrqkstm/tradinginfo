@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-10-28T19:09:18+09:00",
+ "updated_at": "2026-10-28T19:14:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001563411-26-000198",
+   "company": "CONSTELLIUM SE",
+   "ticker": "CSTM",
+   "cik": 1563411,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 68,
+   "summary": "EX-99.1 2 a2026-q3xearningspressre.htm EX-99.1 a2026-q3xearningspressre October 28, 2026 Constellium Reports Strong Third Quarter 2026 Results; Raises Full Year 2026 Guidance Paris - Constellium SE (NYSE: CSTM) (\"Constellium\" or the \"Company\") today reported results for the third quarter and the nin",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1563411/000156341126000198/0001563411-26-000198-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1563411/000156341126000198/a2026-q3xearningspressre.htm",
+   "filed_at": "2026-10-28T06:14:02-04:00",
+   "filed_kst": "2026-10-28 19:14",
+   "price": 24.56,
+   "change": 4.91,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 24.56,
+     "change": 4.91
+    },
+    {
+     "date": "2026-10-26",
+     "close": 23.41,
+     "change": 0.82
+    },
+    {
+     "date": "2026-10-23",
+     "close": 23.22,
+     "change": -3.21
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Secondary Smelting & Refining of  Nonferrous Metals",
+   "state_of_incorporation": null,
+   "hq": "PARIS, I0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:14:43+09:00"
+  },
+  {
+   "id": "0001493152-26-048796",
+   "company": "Elong Power Holding Ltd.",
+   "ticker": "ELPW",
+   "cik": 2015691,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Elong Power Holding Limited (NASDAQ: ELPW) Announces Subsidiary’s Entry into a US$25.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2015691/000149315226048796/0001493152-26-048796-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2015691/000149315226048796/ex99-1.htm",
+   "filed_at": "2026-10-28T06:09:59-04:00",
+   "filed_kst": "2026-10-28 19:09",
+   "price": 2.44,
+   "change": 6.32,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 2.44,
+     "change": 6.32
+    },
+    {
+     "date": "2026-10-26",
+     "close": 2.3,
+     "change": 1.1
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2.27,
+     "change": 0.44
+    }
+   ],
+   "market_cap": 141656882.0,
+   "shares_outstanding": 58056099.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BEIJING",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T19:10:34+09:00"
+  },
   {
    "id": "0001193125-26-435008",
    "company": "SK hynix Inc.",
@@ -15588,114 +15693,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T20:32:36+09:00"
-  },
-  {
-   "id": "0001193125-26-428324",
-   "company": "Lantheus Holdings, Inc.",
-   "ticker": "LNTH",
-   "cik": 1521036,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Delaware corporation (“Lantheus” or the “Company”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) by and among the Company, Curium US Holdings LLC, a Delaware limited liability company (“Parent”), and Coco Merger Sub Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526428324/0001193125-26-428324-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526428324/d19181d8k.htm",
-   "filed_at": "2026-10-22T07:30:06-04:00",
-   "filed_kst": "2026-10-22 20:30",
-   "price": 100.24,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 100.24,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 100.24,
-     "change": -0.15
-    },
-    {
-     "date": "2026-10-20",
-     "close": 100.39,
-     "change": 0.47
-    }
-   ],
-   "market_cap": 6542902269.0,
-   "shares_outstanding": 65272369.0,
-   "industry": "In Vitro & In Vivo Diagnostic Substances",
-   "state_of_incorporation": "DE",
-   "hq": "BEDFORD, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:31:32+09:00"
-  },
-  {
-   "id": "0001120193-26-000017",
-   "company": "NASDAQ, INC.",
-   "ticker": "NDAQ",
-   "cik": 1120193,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 68,
-   "summary": "2 billion remaining under the board authorized share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019326000017/0001120193-26-000017-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019326000017/earningsrelease3q26ex-991.htm",
-   "filed_at": "2026-10-22T07:26:37-04:00",
-   "filed_kst": "2026-10-22 20:26",
-   "price": 96.12,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 96.12,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 96.12,
-     "change": 1.39
-    },
-    {
-     "date": "2026-10-20",
-     "close": 94.8,
-     "change": 1.72
-    }
-   ],
-   "market_cap": 53728904997.0,
-   "shares_outstanding": 558977372.0,
-   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:27:28+09:00"
   }
  ]
 }
