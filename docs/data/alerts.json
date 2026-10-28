@@ -1,7 +1,107 @@
 {
- "updated_at": "2026-10-28T21:29:33+09:00",
+ "updated_at": "2026-10-28T21:34:25+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009178",
+   "company": "Electrovaya Inc.",
+   "ticker": "ELVA",
+   "cik": 1844450,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 News for Immediate Release Electrovaya Provides a Business Update Electrovaya Enters into a Strategic Supply Agreement with Janus Electric with Approximately $26 Million in Initial Orders Electrovaya has also agreed to invest approximately $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1844450/000165495426009178/0001654954-26-009178-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1844450/000165495426009178/elva_ex991.htm",
+   "filed_at": "2026-10-28T08:31:11-04:00",
+   "filed_kst": "2026-10-28 21:31",
+   "price": 5.22,
+   "change": 1.75,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 5.22,
+     "change": 1.75
+    },
+    {
+     "date": "2026-10-26",
+     "close": 5.13,
+     "change": -0.77
+    },
+    {
+     "date": "2026-10-23",
+     "close": 5.17,
+     "change": -0.58
+    }
+   ],
+   "market_cap": 178198611.0,
+   "shares_outstanding": 34137665.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "MISSISSAUGA, A6",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T21:31:49+09:00"
+  },
+  {
+   "id": "0001178913-26-004871",
+   "company": "Evogene Ltd.",
+   "ticker": "EVGN",
+   "cik": 1574565,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Built on this powerful technological foundation, and through strategic partnerships alongside internal product development, Evogene is focused on creating breakthrough products for the pharmaceutical and agricultural industries, driven by the integration of scientific innovation with real-world indu",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004871/0001178913-26-004871-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004871/exhibit_99-1.htm",
+   "filed_at": "2026-10-28T08:30:08-04:00",
+   "filed_kst": "2026-10-28 21:30",
+   "price": 0.36,
+   "change": 1.11,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 0.36,
+     "change": 1.11
+    },
+    {
+     "date": "2026-10-27",
+     "close": 0.36,
+     "change": -2.7
+    },
+    {
+     "date": "2026-10-26",
+     "close": 0.37,
+     "change": 2.78
+    }
+   ],
+   "market_cap": 3138549.0,
+   "shares_outstanding": 8718193.0,
+   "industry": "Agricultural Chemicals",
+   "state_of_incorporation": "Israel",
+   "hq": "REHOVOT, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-28T21:30:45+09:00"
+  },
   {
    "id": "0001493152-26-048825",
    "company": "California BanCorp \\ CA",
@@ -15594,110 +15694,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-23T05:11:54+09:00"
-  },
-  {
-   "id": "0000860413-26-000097",
-   "company": "FIRST INTERSTATE BANCSYSTEM INC",
-   "ticker": "FIBK",
-   "cik": 860413,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "6 million since the board of directors authorized the repurchase program in August of 2025.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/860413/000086041326000097/0000860413-26-000097-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/860413/000086041326000097/fibk-20260930x8kpr.htm",
-   "filed_at": "2026-10-22T16:10:47-04:00",
-   "filed_kst": "2026-10-23 05:10",
-   "price": 36.88,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 36.88,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 36.88,
-     "change": 3.39
-    },
-    {
-     "date": "2026-10-21",
-     "close": 35.67,
-     "change": 0.31
-    }
-   ],
-   "market_cap": 3514833906.0,
-   "shares_outstanding": 95304607.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "BILLINGS, MT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:11:52+09:00"
-  },
-  {
-   "id": "0001104659-26-118158",
-   "company": "CITIZENS & NORTHERN CORP",
-   "ticker": "CZNC",
-   "cik": 810958,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "Capital ◾ On September 25, 2023, C&N announced a treasury stock repurchase program with no expiration that can be suspended or terminated by the Board of Directors, in its sole discretion.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/810958/000110465926118158/0001104659-26-118158-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/810958/000110465926118158/cznc-ex99.htm",
-   "filed_at": "2026-10-22T16:11:16-04:00",
-   "filed_kst": "2026-10-23 05:11",
-   "price": 26.64,
-   "change": 3.94,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 26.64,
-     "change": 3.94
-    },
-    {
-     "date": "2026-10-21",
-     "close": 25.63,
-     "change": -0.27
-    },
-    {
-     "date": "2026-10-20",
-     "close": 25.7,
-     "change": 1.22
-    }
-   ],
-   "market_cap": 477784857.0,
-   "shares_outstanding": 17934867.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "PA",
-   "hq": "WELLSBORO, PA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:11:49+09:00"
   }
  ]
 }
