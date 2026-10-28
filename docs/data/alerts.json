@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-28T22:04:33+09:00",
+ "updated_at": "2026-10-28T22:09:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-067753",
+   "company": "PENSKE AUTOMOTIVE GROUP, INC.",
+   "ticker": "PAG",
+   "cik": 1019849,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "배당"
+   ],
+   "confidence": 67,
+   "summary": "Proposed Take Private Transaction As previously announced on October 15, 2026, the Company entered into a merger agreement (the \"Merger Agreement\") to be taken private by Motown Acquisition Corp.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1019849/000162828026067753/0001628280-26-067753-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1019849/000162828026067753/q326exhibit99_1.htm",
+   "filed_at": "2026-10-28T09:04:27-04:00",
+   "filed_kst": "2026-10-28 22:04",
+   "price": 212.15,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 212.15,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 212.15,
+     "change": 0.03
+    },
+    {
+     "date": "2026-10-26",
+     "close": 212.09,
+     "change": -0.11
+    }
+   ],
+   "market_cap": 13930378507.0,
+   "shares_outstanding": 65662873.0,
+   "industry": "Retail-Auto Dealers & Gasoline Stations",
+   "state_of_incorporation": "DE",
+   "hq": "BLOOMFIELD HILLS, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T22:05:32+09:00"
+  },
   {
    "id": "0001628280-26-067750",
    "company": "ACNB CORP",
@@ -15644,59 +15699,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-23T05:24:17+09:00"
-  },
-  {
-   "id": "0001628280-26-066902",
-   "company": "Dream Finders Homes, Inc.",
-   "ticker": "DFH",
-   "cik": 1825088,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation (“Beazer”), pursuant to the Agreement and Plan of Merger, dated as of August 6, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026066902/0001628280-26-066902-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026066902/dream-20261022.htm",
-   "filed_at": "2026-10-22T16:23:34-04:00",
-   "filed_kst": "2026-10-23 05:23",
-   "price": 10.12,
-   "change": 12.2,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 10.12,
-     "change": 12.2
-    },
-    {
-     "date": "2026-10-21",
-     "close": 9.02,
-     "change": -5.94
-    },
-    {
-     "date": "2026-10-20",
-     "close": 9.59,
-     "change": 10.87
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Operative Builders",
-   "state_of_incorporation": "TX",
-   "hq": "JACKSONVILLE, FL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:24:15+09:00"
   }
  ]
 }
