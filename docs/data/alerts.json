@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-29T05:44:15+09:00",
+ "updated_at": "2026-10-29T05:49:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-041054",
+   "company": "Mistras Group, Inc.",
+   "ticker": "MG",
+   "cik": 1436126,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 71,
+   "summary": "EX-99.1 2 ef20084511_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 MISTRAS Group, Inc. Announces Expiration of “Go-Shop” Period Previously Announced Transaction with H.I.G. Capital Remains Expected to Close in Late 2026 or Early 2027 PRINCETON JUNCTION, NJ – October 28, 2026 – MISTRAS Group, Inc. (NYSE: MG) ",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1436126/000114036126041054/0001140361-26-041054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1436126/000114036126041054/ef20084511_ex99-1.htm",
+   "filed_at": "2026-10-28T16:45:31-04:00",
+   "filed_kst": "2026-10-29 05:45",
+   "price": 20.47,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 20.47,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-27",
+     "close": 20.45,
+     "change": -3.72
+    },
+    {
+     "date": "2026-10-26",
+     "close": 21.24,
+     "change": -1.35
+    }
+   ],
+   "market_cap": 651967310.0,
+   "shares_outstanding": 31849893.0,
+   "industry": "Services-Engineering Services",
+   "state_of_incorporation": "DE",
+   "hq": "PRINCETON JUNCTION, NJ",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-29T05:46:02+09:00"
+  },
   {
    "id": "0000916540-26-000027",
    "company": "DARLING INGREDIENTS INC.",
@@ -15712,56 +15765,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-24T06:21:03+09:00"
-  },
-  {
-   "id": "0001213900-26-112181",
-   "company": "Launch Two Acquisition Corp.",
-   "ticker": "LPBB",
-   "cik": 2023676,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "NuCube LinkedIn Post: Following the announcement of our collaboration agreement with National Tsing Hua University, CEO Cristian Rabiti attended the International Forum on Global Development of SMRs and MMRs in Taiwan.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026112181/0001213900-26-112181-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026112181/ea0309551-425_nucube.htm",
-   "filed_at": "2026-10-23T17:15:01-04:00",
-   "filed_kst": "2026-10-24 06:15",
-   "price": 10.78,
-   "change": -0.18,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 10.78,
-     "change": -0.18
-    },
-    {
-     "date": "2026-10-22",
-     "close": 10.8,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 10.8,
-     "change": 0.09
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Fabricated Plate Work (Boiler Shops)",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "OAKLAND, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-24T06:16:07+09:00"
   }
  ]
 }
