@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-28T21:49:40+09:00",
+ "updated_at": "2026-10-28T21:54:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-033707",
+   "company": "FIRST COMMUNITY BANKSHARES INC /VA/",
+   "ticker": "FCBC",
+   "cik": 859070,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 82,
+   "summary": "1 AGREEMENT AND PLAN OF MERGER DATED AS OF OCTOBER 27, 2026 BY AND BETWEEN FIRST COMMUNITY BANKSHARES, INC.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/859070/000143774926033707/0001437749-26-033707-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/859070/000143774926033707/ex_1031728.htm",
+   "filed_at": "2026-10-28T08:53:56-04:00",
+   "filed_kst": "2026-10-28 21:53",
+   "price": 47.45,
+   "change": -1.88,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 47.45,
+     "change": -1.88
+    },
+    {
+     "date": "2026-10-26",
+     "close": 48.36,
+     "change": -0.37
+    },
+    {
+     "date": "2026-10-23",
+     "close": 48.54,
+     "change": -1.32
+    }
+   ],
+   "market_cap": 897295111.0,
+   "shares_outstanding": 18910329.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "BLUEFIELD, VA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-28T21:54:37+09:00"
+  },
   {
    "id": "0001104659-26-119381",
    "company": "MEXICAN ECONOMIC DEVELOPMENT INC",
@@ -15644,57 +15696,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-23T05:20:36+09:00"
-  },
-  {
-   "id": "0000230557-26-000024",
-   "company": "SELECTIVE INSURANCE GROUP INC",
-   "ticker": "SIGI",
-   "cik": 230557,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 70,
-   "summary": "9% Quarterly Dividend Increased 12%; New $200 Million Share Repurchase Program Authorized In the third quarter of 2026: • The GAAP combined ratio was 96.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/230557/000023055726000024/0000230557-26-000024-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/230557/000023055726000024/pressreleasesupplementexh9.htm",
-   "filed_at": "2026-10-22T16:18:10-04:00",
-   "filed_kst": "2026-10-23 05:18",
-   "price": 91.74,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 91.74,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 91.74,
-     "change": 0.72
-    },
-    {
-     "date": "2026-10-21",
-     "close": 91.08,
-     "change": 1.83
-    }
-   ],
-   "market_cap": 5464870977.0,
-   "shares_outstanding": 59569119.0,
-   "industry": "Fire, Marine & Casualty Insurance",
-   "state_of_incorporation": "NJ",
-   "hq": "BRANCHVILLE, NJ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:18:59+09:00"
   }
  ]
 }
