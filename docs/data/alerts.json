@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-29T04:19:14+09:00",
+ "updated_at": "2026-10-29T04:24:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950103-26-016289",
+   "company": "Banco Santander, S.A.",
+   "ticker": "SAN",
+   "cik": 891478,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "The purpose of the Capital Reduction is the cancellation of the own shares acquired under the Buy-back Programme, contributing to the remuneration of the Bank’s shareholders by increasing the profit per share, which is inherent to the decrease in the number of shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/891478/000095010326016289/0000950103-26-016289-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/891478/000095010326016289/dp255721_6k.htm",
+   "filed_at": "2026-10-28T15:19:04-04:00",
+   "filed_kst": "2026-10-29 04:19",
+   "price": 11.71,
+   "change": -6.05,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 11.72,
+     "change": -6.05
+    },
+    {
+     "date": "2026-10-27",
+     "close": 12.47,
+     "change": 0.81
+    },
+    {
+     "date": "2026-10-26",
+     "close": 12.37,
+     "change": -3.66
+    }
+   ],
+   "market_cap": 172011931368.0,
+   "shares_outstanding": 14689319502.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Spain",
+   "hq": "MADRID, U3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T04:20:32+09:00"
+  },
   {
    "id": "0001243429-26-000091",
    "company": "ArcelorMittal",
@@ -15645,59 +15695,6 @@
    "hq": "STOCKHOLM",
    "entity_category": null,
    "detected_at": "2026-10-23T06:16:35+09:00"
-  },
-  {
-   "id": "0001683168-26-008024",
-   "company": "AUDDIA INC.",
-   "ticker": "AUUD",
-   "cik": 1554818,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Background; Pending Merger Agreement and Interim Bridge Funding for Target Companies As previously disclosed, on February 17, 2026, Auddia Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826008024/0001683168-26-008024-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1554818/000168316826008024/auddia_8k.htm",
-   "filed_at": "2026-10-22T17:00:14-04:00",
-   "filed_kst": "2026-10-23 06:00",
-   "price": 0.93,
-   "change": -2.2,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 0.93,
-     "change": -2.2
-    },
-    {
-     "date": "2026-10-21",
-     "close": 0.95,
-     "change": 2.15
-    },
-    {
-     "date": "2026-10-20",
-     "close": 0.93,
-     "change": -7.82
-    }
-   ],
-   "market_cap": 5396836.0,
-   "shares_outstanding": 5803050.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "DE",
-   "hq": "BOULDER, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-23T06:00:50+09:00"
   }
  ]
 }
