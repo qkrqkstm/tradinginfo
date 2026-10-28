@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-10-28T21:04:35+09:00",
+ "updated_at": "2026-10-28T21:09:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-048825",
+   "company": "California BanCorp \\ CA",
+   "ticker": "BCAL",
+   "cik": 1795815,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "6 million under the stock repurchase program in the third quarter of 2026, compared to 102,594 shares of common stock at an average price of $19.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1795815/000149315226048825/0001493152-26-048825-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1795815/000149315226048825/ex99-1.htm",
+   "filed_at": "2026-10-28T08:05:22-04:00",
+   "filed_kst": "2026-10-28 21:05",
+   "price": 21.95,
+   "change": -0.09,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 21.95,
+     "change": -0.09
+    },
+    {
+     "date": "2026-10-26",
+     "close": 21.97,
+     "change": -0.32
+    },
+    {
+     "date": "2026-10-23",
+     "close": 22.04,
+     "change": -0.14
+    }
+   ],
+   "market_cap": 705704375.0,
+   "shares_outstanding": 32150541.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "CA",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T21:06:34+09:00"
+  },
+  {
+   "id": "0001213900-26-113107",
+   "company": "PolyPid Ltd.",
+   "ticker": "PYPD",
+   "cik": 1611842,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 84,
+   "summary": "PolyPid’s management will also review the Company’s plans to maximize the value of D-PLEX₁₀₀, for which a New Drug Application (“NDA”) is under FDA Priority Review with a PDUFA goal date of November 28, 2026, including potential label expansion beyond colorectal surgery and potential geographic expa",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026113107/0001213900-26-113107-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026113107/ea030979101ex99-1.htm",
+   "filed_at": "2026-10-28T08:05:29-04:00",
+   "filed_kst": "2026-10-28 21:05",
+   "price": 5.77,
+   "change": 9.07,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 5.77,
+     "change": 9.07
+    },
+    {
+     "date": "2026-10-26",
+     "close": 5.29,
+     "change": 0.76
+    },
+    {
+     "date": "2026-10-23",
+     "close": 5.25,
+     "change": 2.34
+    }
+   ],
+   "market_cap": 105037092.0,
+   "shares_outstanding": 18204002.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Israel",
+   "hq": "PETACH TIKVA, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-28T21:06:01+09:00"
+  },
   {
    "id": "0001193125-26-435159",
    "company": "Benitec Biopharma Inc.",
@@ -15591,113 +15698,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-23T05:11:49+09:00"
-  },
-  {
-   "id": "0001628280-26-066890",
-   "company": "Bloom Energy Corp",
-   "ticker": "BE",
-   "cik": 1664703,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "지수편입",
-   "primary_key": "index",
-   "emoji": "📈",
-   "types": [
-    "지수편입",
-    "가이던스상향"
-   ],
-   "confidence": 65,
-   "summary": "6 billion, representing 122% year-over-year growth at the midpoint • Added to the S&P 500, marking an important milestone for Bloom Energy as a public company SAN JOSE, Calif.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066890/0001628280-26-066890-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066890/ex991_q326financialresults.htm",
-   "filed_at": "2026-10-22T16:09:25-04:00",
-   "filed_kst": "2026-10-23 05:09",
-   "price": 217.77,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 217.77,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 217.77,
-     "change": -8.7
-    },
-    {
-     "date": "2026-10-21",
-     "close": 238.53,
-     "change": 7.13
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Electrical Industrial Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "SAN JOSE, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:10:36+09:00"
-  },
-  {
-   "id": "0001609151-26-000115",
-   "company": "Weave Communications, Inc.",
-   "ticker": "WEAV",
-   "cik": 1609151,
-   "form": "8-K",
-   "items": [
-    "5.07"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": ", a Delaware corporation (the “Company”), held a special meeting of stockholders (the “Special Meeting”) to consider certain proposals related to the Agreement and Plan of Merger, dated as of August 18, 2026 (the “Merger Agreement”), by and among the Company, Willow Parent, LLC, a Delaware limited l",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1609151/000160915126000115/0001609151-26-000115-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1609151/000160915126000115/weav-20261022.htm",
-   "filed_at": "2026-10-22T16:06:03-04:00",
-   "filed_kst": "2026-10-23 05:06",
-   "price": 7.4,
-   "change": 0.14,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 7.4,
-     "change": 0.14
-    },
-    {
-     "date": "2026-10-21",
-     "close": 7.39,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-20",
-     "close": 7.39,
-     "change": -0.14
-    }
-   ],
-   "market_cap": 591993481.0,
-   "shares_outstanding": 79999119.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "LEHI, UT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-23T05:06:35+09:00"
   }
  ]
 }
