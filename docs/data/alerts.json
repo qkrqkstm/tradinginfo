@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-10-28T19:19:39+09:00",
+ "updated_at": "2026-10-28T19:24:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000891478-26-000091",
+   "company": "Banco Santander, S.A.",
+   "ticker": "SAN",
+   "cik": 891478,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "• Santander completed the acquisition of Webster on 20 August, strengthening Santander’s US franchise, expanding its customer base by 4.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000091/0000891478-26-000091-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000091/q32026pr.htm",
+   "filed_at": "2026-10-28T06:22:01-04:00",
+   "filed_kst": "2026-10-28 19:22",
+   "price": 12.47,
+   "change": 0.81,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 12.47,
+     "change": 0.81
+    },
+    {
+     "date": "2026-10-26",
+     "close": 12.37,
+     "change": -3.66
+    },
+    {
+     "date": "2026-10-23",
+     "close": 12.84,
+     "change": -0.47
+    }
+   ],
+   "market_cap": 183175814190.0,
+   "shares_outstanding": 14689319502.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Spain",
+   "hq": "MADRID, U3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:23:09+09:00"
+  },
+  {
+   "id": "0000701347-26-000074",
+   "company": "CENTRAL PACIFIC FINANCIAL CORP",
+   "ticker": "CPF",
+   "cik": 701347,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 66,
+   "summary": "0 million remained available under the Company's share repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/701347/000070134726000074/0000701347-26-000074-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/701347/000070134726000074/exhibit99-1erxq32026.htm",
+   "filed_at": "2026-10-28T06:20:48-04:00",
+   "filed_kst": "2026-10-28 19:20",
+   "price": 37.82,
+   "change": 0.24,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 37.82,
+     "change": 0.24
+    },
+    {
+     "date": "2026-10-26",
+     "close": 37.73,
+     "change": 0.11
+    },
+    {
+     "date": "2026-10-23",
+     "close": 37.69,
+     "change": -0.21
+    }
+   ],
+   "market_cap": 973767878.0,
+   "shares_outstanding": 25747432.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "HI",
+   "hq": "HONOLULU, HI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:21:36+09:00"
+  },
   {
    "id": "0001996810-26-000162",
    "company": "GE Vernova Inc.",
@@ -15587,112 +15692,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-22T21:01:27+09:00"
-  },
-  {
-   "id": "0001437749-26-033175",
-   "company": "Valion Bio, Inc.",
-   "ticker": "VBIO",
-   "cik": 1787740,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 71,
-   "summary": "Food and Drug Administration (“FDA”) Fast Track and Orphan Drug designations for ARS, and is supported by a substantial body of human safety data that provides an established foundation for continued development.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926033175/0001437749-26-033175-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000143774926033175/vbio20261021_8k.htm",
-   "filed_at": "2026-10-22T08:00:25-04:00",
-   "filed_kst": "2026-10-22 21:00",
-   "price": 1.12,
-   "change": -5.88,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 1.12,
-     "change": -5.88
-    },
-    {
-     "date": "2026-10-20",
-     "close": 1.19,
-     "change": 2.59
-    },
-    {
-     "date": "2026-10-19",
-     "close": 1.16,
-     "change": -0.85
-    }
-   ],
-   "market_cap": 24852508.0,
-   "shares_outstanding": 22189739.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-22T21:00:52+09:00"
-  },
-  {
-   "id": "0001776985-26-000072",
-   "company": "BioNTech SE",
-   "ticker": "BNTX",
-   "cik": 1776985,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.1 2 a991261022_bntxrosettabrea.htm EX-99.1 Document Exhibit 99.1 BioNTech Advances Phase 3 Clinical Trial of Pumitamig in Combination with Gilead’s TROP2-Directed ADC Sacituzumab Govitecan in Triple-Negative Breast Cancer • BioNTech enters a clinical trial collaboration with Gilead Sciences wi",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000072/0001776985-26-000072-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000072/a991261022_bntxrosettabrea.htm",
-   "filed_at": "2026-10-22T07:49:20-04:00",
-   "filed_kst": "2026-10-22 20:49",
-   "price": 91.29,
-   "change": 0.13,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 91.29,
-     "change": 0.13
-    },
-    {
-     "date": "2026-10-20",
-     "close": 91.17,
-     "change": 2.2
-    },
-    {
-     "date": "2026-10-19",
-     "close": 89.21,
-     "change": 1.71
-    }
-   ],
-   "market_cap": 23085804187.0,
-   "shares_outstanding": 252884261.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Germany",
-   "hq": "MAINZ, 2M",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:50:31+09:00"
   }
  ]
 }
