@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-29T05:49:10+09:00",
+ "updated_at": "2026-10-29T05:54:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001570585-26-000141",
+   "company": "Liberty Global Ltd.",
+   "ticker": "LBTYA",
+   "cik": 1570585,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The business generates aggregate revenue of $22 billion, including approximately $13 billion from the nonconsolidated VMO2 joint venture and $9 billion* from consolidated operations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000141/0001570585-26-000141-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000141/ex991libertyglobaltopresen.htm",
+   "filed_at": "2026-10-28T16:49:41-04:00",
+   "filed_kst": "2026-10-29 05:49",
+   "price": 7.64,
+   "change": -2.3,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 7.64,
+     "change": -2.3
+    },
+    {
+     "date": "2026-10-27",
+     "close": 7.82,
+     "change": 3.71
+    },
+    {
+     "date": "2026-10-26",
+     "close": 7.54,
+     "change": -4.07
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Cable & Other Pay Television Services",
+   "state_of_incorporation": null,
+   "hq": "HAMILTON, D0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T05:50:37+09:00"
+  },
   {
    "id": "0001140361-26-041054",
    "company": "Mistras Group, Inc.",
@@ -15714,57 +15767,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-26T19:02:35+09:00"
-  },
-  {
-   "id": "0001493152-26-048280",
-   "company": "HomesToLife Ltd",
-   "ticker": "HTLM",
-   "cik": 2023153,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "We also intend to extend the HomesToLife retail store concept into selected cities in the Asia-Pacific region and explore mergers and acquisitions, strategic partnerships and distributorship arrangements with local companies to deepen our connection with local markets.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2023153/000149315226048280/0001493152-26-048280-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023153/000149315226048280/ex99-1.htm",
-   "filed_at": "2026-10-23T17:20:06-04:00",
-   "filed_kst": "2026-10-24 06:20",
-   "price": 1.6,
-   "change": -2.44,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 1.6,
-     "change": -2.44
-    },
-    {
-     "date": "2026-10-22",
-     "close": 1.64,
-     "change": -4.37
-    },
-    {
-     "date": "2026-10-21",
-     "close": 1.72,
-     "change": 3.94
-    }
-   ],
-   "market_cap": 143500000.0,
-   "shares_outstanding": 89687500.0,
-   "industry": "Retail-Furniture Stores",
-   "state_of_incorporation": null,
-   "hq": "SINGAPORE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-24T06:21:03+09:00"
   }
  ]
 }
