@@ -1,7 +1,165 @@
 {
- "updated_at": "2026-10-29T05:24:25+09:00",
+ "updated_at": "2026-10-29T05:29:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001562528-26-000035",
+   "company": "Franklin BSP Realty Trust, Inc.",
+   "ticker": "FBRT",
+   "cik": 1562528,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "Share Repurchase Program During the quarter ended September 30, 2026, the Company repurchased 7,433,748 shares of common stock at an average price of $8.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1562528/000156252826000035/0001562528-26-000035-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1562528/000156252826000035/fbrtq32026earningsrelease.htm",
+   "filed_at": "2026-10-28T16:28:15-04:00",
+   "filed_kst": "2026-10-29 05:28",
+   "price": 6.34,
+   "change": -1.09,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 6.34,
+     "change": -1.09
+    },
+    {
+     "date": "2026-10-27",
+     "close": 6.41,
+     "change": 1.75
+    },
+    {
+     "date": "2026-10-26",
+     "close": 6.3,
+     "change": 0.96
+    }
+   ],
+   "market_cap": 479766154.0,
+   "shares_outstanding": 75672895.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T05:29:13+09:00"
+  },
+  {
+   "id": "0001437749-26-033798",
+   "company": "NWPX Infrastructure, Inc.",
+   "ticker": "NWPX",
+   "cik": 1001385,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "Acquisition of Serpentix • As previously announced, on September 2, 2026 , the Company completed the acquisition of Serpentix, a manufacturer of engineered conveyor systems used primarily in municipal wastewater treatment plants and industrial manufacturing facilities.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1001385/000143774926033798/0001437749-26-033798-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1001385/000143774926033798/ex_996700.htm",
+   "filed_at": "2026-10-28T16:27:19-04:00",
+   "filed_kst": "2026-10-29 05:27",
+   "price": 99.67,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 99.67,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 99.67,
+     "change": -0.17
+    },
+    {
+     "date": "2026-10-27",
+     "close": 99.84,
+     "change": 3.08
+    }
+   ],
+   "market_cap": 960539923.0,
+   "shares_outstanding": 9637202.0,
+   "industry": "Steel Pipe & Tubes",
+   "state_of_incorporation": "OR",
+   "hq": "VANCOUVER, WA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-29T05:28:07+09:00"
+  },
+  {
+   "id": "0000860731-26-000056",
+   "company": "TYLER TECHNOLOGIES INC",
+   "ticker": "TYL",
+   "cik": 860731,
+   "form": "8-K",
+   "items": [
+    "2.02"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 72,
+   "summary": "Supported by our strong balance sheet, robust cash generation, and significant remaining share repurchase authorization, we maintain financial flexibility to invest in growth initiatives, pursue disciplined acquisition opportunities, and continue building shareholder value,\" concluded Miller.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000056/0000860731-26-000056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000056/a991earningsrelease-9302026.htm",
+   "filed_at": "2026-10-28T16:25:26-04:00",
+   "filed_kst": "2026-10-29 05:25",
+   "price": 360.9,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 360.9,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 360.9,
+     "change": -4.68
+    },
+    {
+     "date": "2026-10-27",
+     "close": 378.62,
+     "change": -2.01
+    }
+   ],
+   "market_cap": 14779675687.0,
+   "shares_outstanding": 40952274.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "PLANO, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T05:25:58+09:00"
+  },
   {
    "id": "0001140361-26-041045",
    "company": "AES CORP",
@@ -15590,147 +15748,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-24T05:34:48+09:00"
-  },
-  {
-   "id": "0001213900-26-112143",
-   "company": "XCF Global, Inc.",
-   "ticker": "SAFX",
-   "cik": 2019793,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "XCF intends to capitalize on its strategic partnership with BGN to supply feedstock to New Rise Renewables Paramount as the operation relaunches and to offtake the sustainable fuels that the facility produces in support of the company’s aviation and transportation customers.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2019793/000121390026112143/0001213900-26-112143-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019793/000121390026112143/ea030946101ex99-1.htm",
-   "filed_at": "2026-10-23T16:30:17-04:00",
-   "filed_kst": "2026-10-24 05:30",
-   "price": 0.16,
-   "change": -0.37,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 0.16,
-     "change": -0.37
-    },
-    {
-     "date": "2026-10-22",
-     "close": 0.16,
-     "change": -9.6
-    },
-    {
-     "date": "2026-10-21",
-     "close": 0.18,
-     "change": -14.49
-    }
-   ],
-   "market_cap": 65730703.0,
-   "shares_outstanding": 410816896.0,
-   "industry": "Industrial Organic Chemicals",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-24T05:32:12+09:00"
-  },
-  {
-   "id": "0001185185-26-004973",
-   "company": "Southport Acquisition Corp. II",
-   "ticker": "PORT",
-   "cik": 2148436,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "Such forfeited shares were cancelled by the Company.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2148436/000118518526004973/0001185185-26-004973-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2148436/000118518526004973/southacq28k102326.htm",
-   "filed_at": "2026-10-23T16:30:27-04:00",
-   "filed_kst": "2026-10-24 05:30",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GREENWICH, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-24T05:32:10+09:00"
-  },
-  {
-   "id": "0001213900-26-112140",
-   "company": "AMTD Digital Inc.",
-   "ticker": "HKD",
-   "cik": 1809691,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Subsequent events Subsequent to the reporting period ended April 30, 2026, the Group successfully completed the acquisition of three additional premier hotel properties to further scale its global hospitality footprint: ● Australia: On May 29, 2026, the Group completed the acquisition of a 50% equit",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1809691/000121390026112140/0001213900-26-112140-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1809691/000121390026112140/ea030948901ex99-1.htm",
-   "filed_at": "2026-10-23T16:30:01-04:00",
-   "filed_kst": "2026-10-24 05:30",
-   "price": 1.72,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 1.72,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 1.72,
-     "change": -2.82
-    },
-    {
-     "date": "2026-10-21",
-     "close": 1.77,
-     "change": 2.91
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Finance Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "PARIS, I0",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-24T05:31:36+09:00"
   }
  ]
 }
