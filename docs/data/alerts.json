@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-28T19:14:44+09:00",
+ "updated_at": "2026-10-28T19:19:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001996810-26-000162",
+   "company": "GE Vernova Inc.",
+   "ticker": "GEV",
+   "cik": 1996810,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 75,
+   "summary": "htm EX-99 GEV Press Release 3Q'26 1 Defined as remaining performance obligation (RPO) *Non-GAAP Financial Measure Page 1 GE Vernova reports strong third quarter 2026 financial performance, raises 2026 guidance, an d increases share repurchase authorization Third Quarter 2026 Highlights: • Orders of ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000162/0001996810-26-000162-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000162/gevpressrelease3q26.htm",
+   "filed_at": "2026-10-28T06:16:59-04:00",
+   "filed_kst": "2026-10-28 19:16",
+   "price": 895.08,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 895.08,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 895.08,
+     "change": 4.67
+    },
+    {
+     "date": "2026-10-26",
+     "close": 855.12,
+     "change": 4.92
+    }
+   ],
+   "market_cap": 238389861681.0,
+   "shares_outstanding": 266333581.0,
+   "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:17:34+09:00"
+  },
   {
    "id": "0001563411-26-000198",
    "company": "CONSTELLIUM SE",
@@ -15639,60 +15693,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T20:50:31+09:00"
-  },
-  {
-   "id": "0001482981-26-000183",
-   "company": "Vita Coco Company, Inc.",
-   "ticker": "COCO",
-   "cik": 1482981,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "As of September 30, 2026, the Company had repurchased approximately $86 million of its common stock under its share repurchase program and had $19 million remaining under the existing authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1482981/000148298126000183/0001482981-26-000183-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1482981/000148298126000183/coco-20260930xexx991pressr.htm",
-   "filed_at": "2026-10-22T07:32:07-04:00",
-   "filed_kst": "2026-10-22 20:32",
-   "price": 63.5,
-   "change": 2.8,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 63.5,
-     "change": 2.8
-    },
-    {
-     "date": "2026-10-20",
-     "close": 61.77,
-     "change": 4.55
-    },
-    {
-     "date": "2026-10-19",
-     "close": 59.08,
-     "change": 0.66
-    }
-   ],
-   "market_cap": 3644714707.0,
-   "shares_outstanding": 57397082.0,
-   "industry": "Beverages",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:32:36+09:00"
   }
  ]
 }
