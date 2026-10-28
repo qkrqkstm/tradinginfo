@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-28T20:19:39+09:00",
+ "updated_at": "2026-10-28T20:24:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006884",
+   "company": "Costamare Inc.",
+   "ticker": "CMRE",
+   "cik": 1503584,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "The Company also has 22 newbuild containerships under construction and has agreed to acquire two secondhand containerships, which together represent a total capacity of approximately 152,600 TEU.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1503584/000117184326006884/0001171843-26-006884-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1503584/000117184326006884/exh_992.htm",
+   "filed_at": "2026-10-28T07:23:39-04:00",
+   "filed_kst": "2026-10-28 20:23",
+   "price": 14.35,
+   "change": 3.02,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 14.35,
+     "change": 3.02
+    },
+    {
+     "date": "2026-10-26",
+     "close": 13.93,
+     "change": -0.64
+    },
+    {
+     "date": "2026-10-23",
+     "close": 14.02,
+     "change": -0.92
+    }
+   ],
+   "market_cap": 1753005155.0,
+   "shares_outstanding": 122160638.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "MONACO",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-28T20:24:38+09:00"
+  },
   {
    "id": "0001280058-26-000029",
    "company": "BLACKBAUD INC",
@@ -15650,56 +15701,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-23T02:13:16+09:00"
-  },
-  {
-   "id": "0001171843-26-006766",
-   "company": "GREAT SOUTHERN BANCORP, INC.",
-   "ticker": "GSBC",
-   "cik": 854560,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 57,
-   "summary": "During the third quarter of 2026, we repurchased 159,212 common shares, and in October 2026, our Board of Directors approved a new repurchase authorization of up to one million shares to succeed our existing program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/854560/000117184326006766/0001171843-26-006766-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/854560/000117184326006766/exh_991.htm",
-   "filed_at": "2026-10-22T12:01:19-04:00",
-   "filed_kst": "2026-10-23 01:01",
-   "price": 78.0,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 78.0,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 78.0,
-     "change": -0.11
-    },
-    {
-     "date": "2026-10-21",
-     "close": 78.08,
-     "change": -0.65
-    }
-   ],
-   "market_cap": 850005546.0,
-   "shares_outstanding": 10897507.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "MD",
-   "hq": "SPRINGFIELD, MO",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-23T01:01:57+09:00"
   }
  ]
 }
