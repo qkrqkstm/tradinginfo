@@ -1,7 +1,165 @@
 {
- "updated_at": "2026-10-28T21:34:25+09:00",
+ "updated_at": "2026-10-28T21:39:08+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-119381",
+   "company": "MEXICAN ECONOMIC DEVELOPMENT INC",
+   "ticker": "FMX",
+   "cik": 1061736,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "· On September 14, 2026, FEMSA announced that, as part of its ongoing efforts and consistent with its capital allocation framework and commitment to enhance capital returns to shareholders, it entered into a new derivative instrument known as an accelerated share repurchase (“ASR”) agreement with a ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1061736/000110465926119381/0001104659-26-119381-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1061736/000110465926119381/tm2628435d1_ex99-1.htm",
+   "filed_at": "2026-10-28T08:37:44-04:00",
+   "filed_kst": "2026-10-28 21:37",
+   "price": 124.26,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 124.26,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 124.26,
+     "change": -0.58
+    },
+    {
+     "date": "2026-10-26",
+     "close": 124.98,
+     "change": -2.75
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+   "state_of_incorporation": "Mexico",
+   "hq": "MONTERREY, N.L.",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T21:38:06+09:00"
+  },
+  {
+   "id": "0000763744-26-000096",
+   "company": "LCI INDUSTRIES",
+   "ticker": "LCII",
+   "cik": 763744,
+   "form": "425",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "01 Other Events As previously disclosed, on June 30, 2026, LCI Industries (the “Company”), a Delaware corporation, entered into an Agreement and Plan of Merger with Patrick Industries, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000096/0000763744-26-000096-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000096/lciiform-pressrelease20261.htm",
+   "filed_at": "2026-10-28T08:36:33-04:00",
+   "filed_kst": "2026-10-28 21:36",
+   "price": 89.84,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 89.84,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 89.84,
+     "change": 2.21
+    },
+    {
+     "date": "2026-10-26",
+     "close": 87.9,
+     "change": 3.57
+    }
+   ],
+   "market_cap": 2184145789.0,
+   "shares_outstanding": 24311507.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T21:37:03+09:00"
+  },
+  {
+   "id": "0001213900-26-113120",
+   "company": "Evolution Metals & Technologies Corp.",
+   "ticker": "EMAT",
+   "cik": 1866226,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026113120/0001213900-26-113120-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026113120/ea030993701ex99-1.htm",
+   "filed_at": "2026-10-28T08:35:57-04:00",
+   "filed_kst": "2026-10-28 21:35",
+   "price": 1.43,
+   "change": 1.42,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 1.43,
+     "change": 1.42
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1.41,
+     "change": -1.4
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1.43,
+     "change": 5.93
+    }
+   ],
+   "market_cap": 889174924.0,
+   "shares_outstanding": 621800646.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T21:36:31+09:00"
+  },
   {
    "id": "0001654954-26-009178",
    "company": "Electrovaya Inc.",
@@ -15537,163 +15695,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-23T05:18:59+09:00"
-  },
-  {
-   "id": "0000887343-26-000184",
-   "company": "COLUMBIA BANKING SYSTEM, INC.",
-   "ticker": "COLB",
-   "cik": 887343,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "2 billion share repurchase program, reflecting confidence in our long-term strategy and our outlook for continued excess capital generation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000184/0000887343-26-000184-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000184/colb-20260930ex991earnings.htm",
-   "filed_at": "2026-10-22T16:15:56-04:00",
-   "filed_kst": "2026-10-23 05:15",
-   "price": 29.89,
-   "change": 2.36,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 29.89,
-     "change": 2.36
-    },
-    {
-     "date": "2026-10-21",
-     "close": 29.2,
-     "change": 0.72
-    },
-    {
-     "date": "2026-10-20",
-     "close": 28.99,
-     "change": 2.33
-    }
-   ],
-   "market_cap": 8455948791.0,
-   "shares_outstanding": 282902268.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "WA",
-   "hq": "TACOMA, WA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:16:43+09:00"
-  },
-  {
-   "id": "0001171843-26-006779",
-   "company": "CHEMUNG FINANCIAL CORP",
-   "ticker": "CHMG",
-   "cik": 763563,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 71,
-   "summary": "Other Items As previously announced on January 8, 2021, the Corporation's Board of Directors approved a stock repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/763563/000117184326006779/0001171843-26-006779-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/763563/000117184326006779/exh_991.htm",
-   "filed_at": "2026-10-22T16:15:14-04:00",
-   "filed_kst": "2026-10-23 05:15",
-   "price": 83.23,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 83.23,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 83.23,
-     "change": 1.94
-    },
-    {
-     "date": "2026-10-21",
-     "close": 81.65,
-     "change": 0.54
-    }
-   ],
-   "market_cap": 401291115.0,
-   "shares_outstanding": 4821472.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "NY",
-   "hq": "ELMIRA, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-23T05:16:07+09:00"
-  },
-  {
-   "id": "0001104659-26-118157",
-   "company": "Alpine Income Property Trust, Inc.",
-   "ticker": "PINE",
-   "cik": 1786117,
-   "form": "8-K",
-   "items": [],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 57,
-   "summary": "Given this strong investment activity and the continued performance of our portfolio we are raising our full-year 2026 guidance.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1786117/000110465926118157/0001104659-26-118157-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1786117/000110465926118157/pine-ex99d1.htm",
-   "filed_at": "2026-10-22T16:10:44-04:00",
-   "filed_kst": "2026-10-23 05:10",
-   "price": 17.43,
-   "change": 1.78,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 17.42,
-     "change": 1.78
-    },
-    {
-     "date": "2026-10-21",
-     "close": 17.12,
-     "change": -3.28
-    },
-    {
-     "date": "2026-10-20",
-     "close": 17.7,
-     "change": 0.06
-    }
-   ],
-   "market_cap": 307129010.0,
-   "shares_outstanding": 17620712.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "WINTER PARK, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-23T05:11:54+09:00"
   }
  ]
 }
