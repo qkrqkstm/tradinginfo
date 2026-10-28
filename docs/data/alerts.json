@@ -1,7 +1,161 @@
 {
- "updated_at": "2026-10-28T20:59:31+09:00",
+ "updated_at": "2026-10-28T21:04:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-435159",
+   "company": "Benitec Biopharma Inc.",
+   "ticker": "BNTC",
+   "cik": 1808898,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "BB-301 has received Orphan Drug Designation from the EMA and Orphan Drug and Fast Track Designations from the FDA and is currently being evaluated in a Phase 1b/2a, first-in-human, open-label dose escalation study to evaluate the safety and clinical activity of intramuscular dose",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526435159/0001193125-26-435159-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526435159/bntc-ex99_1.htm",
+   "filed_at": "2026-10-28T08:03:30-04:00",
+   "filed_kst": "2026-10-28 21:03",
+   "price": 8.68,
+   "change": 1.05,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 8.68,
+     "change": 1.05
+    },
+    {
+     "date": "2026-10-26",
+     "close": 8.59,
+     "change": -0.69
+    },
+    {
+     "date": "2026-10-23",
+     "close": 8.65,
+     "change": -1.93
+    }
+   ],
+   "market_cap": 302782062.0,
+   "shares_outstanding": 34882726.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "HAYWARD, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-28T21:04:03+09:00"
+  },
+  {
+   "id": "0001213900-26-113101",
+   "company": "Immuron Ltd",
+   "ticker": "IMRN",
+   "cik": 1660046,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "ProIBS® Immuron has an exclusive distribution agreement with Calmino goup AB for the territories of Australia and New Zealand for ProIBS®.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026113101/0001213900-26-113101-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026113101/ea030992701ex99-1.htm",
+   "filed_at": "2026-10-28T08:00:30-04:00",
+   "filed_kst": "2026-10-28 21:00",
+   "price": 0.93,
+   "change": 1.09,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 0.93,
+     "change": 1.09
+    },
+    {
+     "date": "2026-10-26",
+     "close": 0.92,
+     "change": -3.56
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.95,
+     "change": 0.53
+    }
+   ],
+   "market_cap": 300248715.0,
+   "shares_outstanding": 322848081.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "CARLTON, VICTORIA, C3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-28T21:01:26+09:00"
+  },
+  {
+   "id": "0001213900-26-113103",
+   "company": "Enlivex Ltd.",
+   "ticker": "ENLV",
+   "cik": 1596812,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "EX-99.1 2 ea030985701ex99-1.htm PRESS RELEASE Exhibit 99.1 Enlivex Announces Randomization of 135 Patients in Phase 2b Trial of Allocetra in Age-Related Primary Moderate-to-Severe Knee Osteoarthritis ● 135 patients, out of a total planned 182, have been randomized and were administered the first inj",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596812/000121390026113103/0001213900-26-113103-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1596812/000121390026113103/ea030985701ex99-1.htm",
+   "filed_at": "2026-10-28T08:01:01-04:00",
+   "filed_kst": "2026-10-28 21:01",
+   "price": 2.7,
+   "change": 1460.69,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 2.7,
+     "change": 1460.69
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.17,
+     "change": -13.07
+    },
+    {
+     "date": "2026-10-22",
+     "close": 0.2,
+     "change": -1.49
+    }
+   ],
+   "market_cap": 640930045.0,
+   "shares_outstanding": 237381498.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Israel",
+   "hq": "TEL AVIV",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-28T21:01:24+09:00"
+  },
   {
    "id": "0001493152-26-048819",
    "company": "Fusion Fuel Green PLC",
@@ -15544,162 +15698,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-23T05:06:35+09:00"
-  },
-  {
-   "id": "0000099780-26-000131",
-   "company": "TRINITY INDUSTRIES INC",
-   "ticker": "TRN",
-   "cik": 99780,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "EX-10.1 2 exhibit101-termloanagreeme.htm EX-10.1 Document Exhibit 10.1 EXECUTION VERSION TERM LOAN AGREEMENT dated as of October 19, 2026 among TRINITY RAIL LEASING 2026 LLC, as Borrower, THE LENDERS FROM TIME TO TIME PARTY HERETO, REGIONS BANK, as Administrative Agent, U.S. BANK TRUST COMPANY, NATI",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/99780/000009978026000131/0000099780-26-000131-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/99780/000009978026000131/exhibit101-termloanagreeme.htm",
-   "filed_at": "2026-10-22T16:04:34-04:00",
-   "filed_kst": "2026-10-23 05:04",
-   "price": 25.84,
-   "change": 2.42,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 25.84,
-     "change": 2.42
-    },
-    {
-     "date": "2026-10-21",
-     "close": 25.23,
-     "change": 1.65
-    },
-    {
-     "date": "2026-10-20",
-     "close": 24.82,
-     "change": -0.2
-    }
-   ],
-   "market_cap": 2058659518.0,
-   "shares_outstanding": 79669486.0,
-   "industry": "Railroad Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:05:27+09:00"
-  },
-  {
-   "id": "0001163370-26-000034",
-   "company": "NORTHRIM BANCORP INC",
-   "ticker": "NRIM",
-   "cik": 1163370,
-   "form": "8-K",
-   "items": [
-    "5.07",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "(the \"Northrim\") held a virtual special meeting of shareholders (the \"Special Meeting\") in connection with the Agreement and Plan of Merger, dated as of July 22, 2026 (the “Merger Agreement”), among Northrim, PBCO Financial Corporation (“PBCO”), and Whitewater Sub, Inc.",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1163370/000116337026000034/0001163370-26-000034-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1163370/000116337026000034/nrim-20261020.htm",
-   "filed_at": "2026-10-22T15:25:42-04:00",
-   "filed_kst": "2026-10-23 04:25",
-   "price": 24.16,
-   "change": 2.14,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 24.16,
-     "change": 2.14
-    },
-    {
-     "date": "2026-10-21",
-     "close": 23.65,
-     "change": -0.3
-    },
-    {
-     "date": "2026-10-20",
-     "close": 23.72,
-     "change": 1.8
-    }
-   ],
-   "market_cap": 537433547.0,
-   "shares_outstanding": 22244766.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": "AK",
-   "hq": "ANCHORAGE, AK",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-23T04:26:31+09:00"
-  },
-  {
-   "id": "0001628280-26-066842",
-   "company": "SL GREEN REALTY CORP",
-   "ticker": "SLG",
-   "cik": 1040971,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 55,
-   "summary": "10 per share of incremental income from the sale of a 20% joint venture interest in an entity related to the Company's food and beverage hospitality operations, offset by $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1040971/000162828026066842/0001628280-26-066842-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1040971/000162828026066842/a26q3supplemental.htm",
-   "filed_at": "2026-10-22T13:45:18-04:00",
-   "filed_kst": "2026-10-23 02:45",
-   "price": 47.47,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 47.47,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 47.47,
-     "change": 1.69
-    },
-    {
-     "date": "2026-10-21",
-     "close": 46.68,
-     "change": -0.72
-    }
-   ],
-   "market_cap": 3376279208.0,
-   "shares_outstanding": 71124483.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T02:46:00+09:00"
   }
  ]
 }
