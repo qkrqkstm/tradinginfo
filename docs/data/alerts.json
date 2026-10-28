@@ -1,7 +1,531 @@
 {
- "updated_at": "2026-10-28T18:59:29+09:00",
+ "updated_at": "2026-10-28T19:05:01+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-113048",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "In June, Elroy Air announced that it has entered into a definitive business combination agreement (hereinafter “Business Combination”) with Inflection Point Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026113048/0001213900-26-113048-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026113048/ea0309770-425_inflect7.htm",
+   "filed_at": "2026-10-28T06:02:33-04:00",
+   "filed_kst": "2026-10-28 19:02",
+   "price": 10.12,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 10.12,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 10.12,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-23",
+     "close": 10.12,
+     "change": 0.4
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T19:05:00+09:00"
+  },
+  {
+   "id": "0001104659-26-119300",
+   "company": "SiteOne Landscape Supply, Inc.",
+   "ticker": "SITE",
+   "cik": 1650729,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 71,
+   "summary": "2 million of shares under the share repurchase authorization · Acquired Patterson Nursery Sales Post Quarter Highlights · Board of Directors authorized a $500 million increase to the share repurchase program ROSWELL, Ga.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650729/000110465926119300/0001104659-26-119300-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650729/000110465926119300/tm2628388d1_ex99-1.htm",
+   "filed_at": "2026-10-28T06:02:31-04:00",
+   "filed_kst": "2026-10-28 19:02",
+   "price": 103.03,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 103.03,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 103.03,
+     "change": 1.5
+    },
+    {
+     "date": "2026-10-26",
+     "close": 101.51,
+     "change": -1.6
+    }
+   ],
+   "market_cap": 4443883366.0,
+   "shares_outstanding": 43131936.0,
+   "industry": "Wholesale-Professional & Commercial Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "ROSWELL, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:04:52+09:00"
+  },
+  {
+   "id": "0001062993-26-005574",
+   "company": "Western Copper & Gold Corp",
+   "ticker": "WRN",
+   "cik": 1364125,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "At DUMAS, he led a successful turnaround and international growth strategy, while overseeing the company's strategic partnerships, including with Canadian First Nations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1364125/000106299326005574/0001062993-26-005574-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1364125/000106299326005574/exhibit99-1.htm",
+   "filed_at": "2026-10-28T06:00:51-04:00",
+   "filed_kst": "2026-10-28 19:00",
+   "price": 1.75,
+   "change": 2.34,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 1.75,
+     "change": 2.34
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1.71,
+     "change": 1.18
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1.69,
+     "change": -1.17
+    }
+   ],
+   "market_cap": 354090786.0,
+   "shares_outstanding": 202337592.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-28T19:04:15+09:00"
+  },
+  {
+   "id": "0001193125-26-434992",
+   "company": "UNITED MICROELECTRONICS CORP",
+   "ticker": "UMC",
+   "cik": 1033767,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "3 Announcement on 2026/10/28: The Board of Directors Approved the Cancellation of Restricted Shares to Employees Stock Awards 99.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1033767/000119312526434992/0001193125-26-434992-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1033767/000119312526434992/umc-ex99.htm",
+   "filed_at": "2026-10-28T06:01:05-04:00",
+   "filed_kst": "2026-10-28 19:01",
+   "price": 19.45,
+   "change": 1.41,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 19.45,
+     "change": 1.41
+    },
+    {
+     "date": "2026-10-26",
+     "close": 19.18,
+     "change": 1.54
+    },
+    {
+     "date": "2026-10-23",
+     "close": 18.89,
+     "change": 1.94
+    }
+   ],
+   "market_cap": 244839640891.0,
+   "shares_outstanding": 12588156344.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Taiwan",
+   "hq": "TAIPEI, F5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:04:14+09:00"
+  },
+  {
+   "id": "0001140361-26-040940",
+   "company": "ENERPAC TOOL GROUP CORP",
+   "ticker": "EPAC",
+   "cik": 6955,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "2 FIRST AMENDMENT TO AGREEMENT AND PLAN OF MERGER THIS FIRST AMENDMENT TO AGREEMENT AND PLAN OF MERGER (this “ Amendment ”) is made and entered into as of October 27, 2026, by and among Enerpac Tool Group Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6955/000114036126040940/0001140361-26-040940-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/6955/000114036126040940/ef20084465_ex2-2.htm",
+   "filed_at": "2026-10-27T21:10:37-04:00",
+   "filed_kst": "2026-10-28 10:10",
+   "price": 35.36,
+   "change": 0.2,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 35.36,
+     "change": 0.2
+    },
+    {
+     "date": "2026-10-26",
+     "close": 35.29,
+     "change": -1.4
+    },
+    {
+     "date": "2026-10-23",
+     "close": 35.79,
+     "change": 0.45
+    }
+   ],
+   "market_cap": 1808227163.0,
+   "shares_outstanding": 51137646.0,
+   "industry": "Misc Industrial & Commercial Machinery & Equipment",
+   "state_of_incorporation": "WI",
+   "hq": "MILWAUKEE, WI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:04:12+09:00"
+  },
+  {
+   "id": "0001193125-26-434993",
+   "company": "TTM TECHNOLOGIES INC",
+   "ticker": "TTMI",
+   "cik": 1116942,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "com +1 339 466 7737 TTM Announces Completion of Existing 2025 Share Repurchase Program and Authorization of New $100 Million Program SANTA ANA, Calif.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526434993/0001193125-26-434993-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526434993/d28453dex991.htm",
+   "filed_at": "2026-10-28T06:01:44-04:00",
+   "filed_kst": "2026-10-28 19:01",
+   "price": 86.78,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 86.78,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 86.78,
+     "change": 1.5
+    },
+    {
+     "date": "2026-10-26",
+     "close": 85.5,
+     "change": 6.73
+    }
+   ],
+   "market_cap": 9142174418.0,
+   "shares_outstanding": 105348864.0,
+   "industry": "Printed Circuit Boards",
+   "state_of_incorporation": "DE",
+   "hq": "SANTA ANA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:04:07+09:00"
+  },
+  {
+   "id": "0000091142-26-000100",
+   "company": "SMITH A O CORP",
+   "ticker": "AOS",
+   "cik": 91142,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "Smith will retain a 19% interest and enter into a long-term brand licensing agreement, both of which allow it to participate in the business's future growth.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000100/0000091142-26-000100-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000100/aos-20261027.htm",
+   "filed_at": "2026-10-27T20:57:19-04:00",
+   "filed_kst": "2026-10-28 09:57",
+   "price": 62.06,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 62.06,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 62.06,
+     "change": 0.24
+    },
+    {
+     "date": "2026-10-26",
+     "close": 61.91,
+     "change": 0.42
+    }
+   ],
+   "market_cap": 4699939587.0,
+   "shares_outstanding": 75732188.0,
+   "industry": "Household Appliances",
+   "state_of_incorporation": "DE",
+   "hq": "MILWAUKEE, WI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:03:32+09:00"
+  },
+  {
+   "id": "0001108426-26-000064",
+   "company": "TXNM ENERGY INC",
+   "ticker": "TXNM",
+   "cik": 1108426,
+   "form": "8-K",
+   "items": [
+    "7.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(the “Merger Sub”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), pursuant to which Merger Sub will merge with and into TXNM, with TXNM surviving the Merger as a direct wholly owned subsidiary of Parent (the “Merger”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1108426/000110842626000064/0001108426-26-000064-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1108426/000110842626000064/pnm-20261027.htm",
+   "filed_at": "2026-10-27T19:03:24-04:00",
+   "filed_kst": "2026-10-28 08:03",
+   "price": 58.63,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 58.63,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 58.63,
+     "change": 0.39
+    },
+    {
+     "date": "2026-10-26",
+     "close": 58.4,
+     "change": 0.22
+    }
+   ],
+   "market_cap": 6490766478.0,
+   "shares_outstanding": 110707257.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "NM",
+   "hq": "ALBUQUERQUE, NM",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:02:57+09:00"
+  },
+  {
+   "id": "0001836981-26-000088",
+   "company": "BigBear.ai Holdings, Inc.",
+   "ticker": "BBAI",
+   "cik": 1836981,
+   "form": "8-K/A",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "6 million; third straight quarter of organic growth • Increases FY 2026 revenue guidance range to $150 million - $165 million • >25 new contract wins since second quarter 2026, worth more than $225 million in contract value* • 878 basis point gross margin expansion, to 31.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1836981/000183698126000088/0001836981-26-000088-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1836981/000183698126000088/earningsrelease-3q26.htm",
+   "filed_at": "2026-10-27T18:20:53-04:00",
+   "filed_kst": "2026-10-28 07:20",
+   "price": 2.35,
+   "change": 10.85,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 2.35,
+     "change": 10.85
+    },
+    {
+     "date": "2026-10-26",
+     "close": 2.12,
+     "change": -0.93
+    },
+    {
+     "date": "2026-10-23",
+     "close": 2.14,
+     "change": 0.47
+    }
+   ],
+   "market_cap": 1126812059.0,
+   "shares_outstanding": 479494493.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "MCLEAN, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:02:25+09:00"
+  },
+  {
+   "id": "0001564708-26-000238",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000238/0001564708-26-000238-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000238/appendix3cclassa20261027.htm",
+   "filed_at": "2026-10-27T18:31:23-04:00",
+   "filed_kst": "2026-10-28 07:31",
+   "price": 32.76,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 32.76,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 32.76,
+     "change": -2.12
+    },
+    {
+     "date": "2026-10-26",
+     "close": 33.47,
+     "change": -0.89
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:02:23+09:00"
+  },
   {
    "id": "0001437749-26-033667",
    "company": "RUSH ENTERPRISES INC \\TX\\",
@@ -15161,536 +15685,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T20:04:38+09:00"
-  },
-  {
-   "id": "0001111335-26-000054",
-   "company": "VISTEON CORP",
-   "ticker": "VC",
-   "cik": 1111335,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "9 billion driven by ongoing momentum in displays • Completed $200 million accelerated share repurchase program and paid $9 million quarterly dividend Third Quarter Results Visteon reported net sales of $970 million, compared to $917 million in the prior year, an increase of 6% year-over-year.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1111335/000111133526000054/0001111335-26-000054-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1111335/000111133526000054/visteonq32026pr.htm",
-   "filed_at": "2026-10-22T07:03:51-04:00",
-   "filed_kst": "2026-10-22 20:03",
-   "price": 84.83,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 84.83,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 84.83,
-     "change": -3.36
-    },
-    {
-     "date": "2026-10-20",
-     "close": 87.78,
-     "change": 1.15
-    }
-   ],
-   "market_cap": 2264573242.0,
-   "shares_outstanding": 26695429.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "DE",
-   "hq": "VAN BUREN TOWNSHIP, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:04:37+09:00"
-  },
-  {
-   "id": "0001104659-26-117964",
-   "company": "UNITED THERAPEUTICS Corp",
-   "ticker": "UTHR",
-   "cik": 1082554,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 67,
-   "summary": "1 For Immediate Release United Therapeutics Corporation Announces Additional $2 Billion Share Repurchase Authorization SILVER SPRING, M.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926117964/0001104659-26-117964-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926117964/tm2628087d1_ex99-1.htm",
-   "filed_at": "2026-10-22T07:00:35-04:00",
-   "filed_kst": "2026-10-22 20:00",
-   "price": 563.49,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 563.49,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 563.49,
-     "change": 1.74
-    },
-    {
-     "date": "2026-10-20",
-     "close": 553.88,
-     "change": 1.98
-    }
-   ],
-   "market_cap": 24168476035.0,
-   "shares_outstanding": 42890692.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SILVER SPRING, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:01:23+09:00"
-  },
-  {
-   "id": "0000929869-26-000073",
-   "company": "RELX PLC",
-   "ticker": "RELX",
-   "cik": 929869,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "1 ​ 22 October 2026 RELX PLC Announcement of Non-Discretionary Share Buyback Programme and Cancellation of Shares held in Treasury RELX PLC (the “Company”) announces in compliance with the UK and EU Market Abuse Regulations that it will implement an irrevocable, non-discretionary programme to repurc",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/929869/000092986926000073/0000929869-26-000073-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/929869/000092986926000073/relx-ex99d1.htm",
-   "filed_at": "2026-10-22T06:58:37-04:00",
-   "filed_kst": "2026-10-22 19:58",
-   "price": 39.13,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 39.13,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 39.13,
-     "change": -0.66
-    },
-    {
-     "date": "2026-10-20",
-     "close": 39.39,
-     "change": 0.36
-    }
-   ],
-   "market_cap": 71179874382.0,
-   "shares_outstanding": 1819061446.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T19:59:26+09:00"
-  },
-  {
-   "id": "0001022079-26-000097",
-   "company": "QUEST DIAGNOSTICS INC",
-   "ticker": "DGX",
-   "cik": 1022079,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 60,
-   "summary": "Continued to advance our Co-Lab Solutions implementation and joint venture lab with Corewell Health in Michigan.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1022079/000102207926000097/0001022079-26-000097-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1022079/000102207926000097/dgx093020268-kex991.htm",
-   "filed_at": "2026-10-22T06:49:59-04:00",
-   "filed_kst": "2026-10-22 19:49",
-   "price": 238.93,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 238.93,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 238.93,
-     "change": 0.76
-    },
-    {
-     "date": "2026-10-20",
-     "close": 237.12,
-     "change": 0.94
-    }
-   ],
-   "market_cap": 26371506905.0,
-   "shares_outstanding": 110373360.0,
-   "industry": "Services-Medical Laboratories",
-   "state_of_incorporation": "DE",
-   "hq": "SECAUCUS, NJ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T19:50:31+09:00"
-  },
-  {
-   "id": "0001193125-26-428293",
-   "company": "LINDSAY CORP",
-   "ticker": "LNN",
-   "cik": 836157,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "5.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 68,
-   "summary": "During the year, we announced a new share repurchase authorization of $150.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/836157/000119312526428293/0001193125-26-428293-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/836157/000119312526428293/lnn-ex99_1.htm",
-   "filed_at": "2026-10-22T06:45:18-04:00",
-   "filed_kst": "2026-10-22 19:45",
-   "price": 106.59,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 106.59,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 106.59,
-     "change": -0.21
-    },
-    {
-     "date": "2026-10-20",
-     "close": 106.81,
-     "change": 0.3
-    }
-   ],
-   "market_cap": 1083901452.0,
-   "shares_outstanding": 10168885.0,
-   "industry": "Farm Machinery & Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "OMAHA, NE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T19:46:05+09:00"
-  },
-  {
-   "id": "0001654954-26-009084",
-   "company": "PEARSON PLC",
-   "ticker": "PSO",
-   "cik": 938323,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "Investing for growth through disciplined capital deployment ● We completed the acquisition of ITS, a trusted assessment technology provider: o Strengthening our core assessment and verification capabilities through bringing in-house a long-standing partner; o Expanding our assessment offering across",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/0001654954-26-009084-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
-   "filed_at": "2026-10-22T06:43:18-04:00",
-   "filed_kst": "2026-10-22 19:43",
-   "price": 18.15,
-   "change": -0.49,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 18.15,
-     "change": -0.49
-    },
-    {
-     "date": "2026-10-20",
-     "close": 18.24,
-     "change": 0.27
-    },
-    {
-     "date": "2026-10-19",
-     "close": 18.19,
-     "change": -0.27
-    }
-   ],
-   "market_cap": 11540040072.0,
-   "shares_outstanding": 635814880.0,
-   "industry": "Books: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON ENGLAND, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T19:44:22+09:00"
-  },
-  {
-   "id": "0001213900-26-111470",
-   "company": "Churchill Capital Corp XI",
-   "ticker": "CCXI",
-   "cik": 2074973,
-   "form": "425",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Agility has also secured more than $300 million in multi-year orders for Digit 5, subject to satisfaction of certain contractual milestones.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026111470/0001213900-26-111470-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026111470/ea0309365-425_churchill11.htm",
-   "filed_at": "2026-10-22T06:30:01-04:00",
-   "filed_kst": "2026-10-22 19:30",
-   "price": 10.35,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 10.35,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-20",
-     "close": 10.36,
-     "change": -1.15
-    },
-    {
-     "date": "2026-10-19",
-     "close": 10.48,
-     "change": -1.69
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "General Industrial Machinery & Equipment, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-22T19:30:41+09:00"
-  },
-  {
-   "id": "0001628280-26-066780",
-   "company": "LOCKHEED MARTIN CORP",
-   "ticker": "LMT",
-   "cik": 936468,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "The sustained financial momentum across our portfolio gives us confidence to increase our outlook for sales, earnings per share and free cash flow, the second consecutive quarter we have raised our financial guidance.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026066780/0001628280-26-066780-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026066780/ex991q32026.htm",
-   "filed_at": "2026-10-22T06:26:08-04:00",
-   "filed_kst": "2026-10-22 19:26",
-   "price": 551.51,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 551.51,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 551.51,
-     "change": 0.51
-    },
-    {
-     "date": "2026-10-20",
-     "close": 548.71,
-     "change": 0.09
-    }
-   ],
-   "market_cap": 127283408187.0,
-   "shares_outstanding": 230790753.0,
-   "industry": "Guided Missiles & Space Vehicles & Parts",
-   "state_of_incorporation": "MD",
-   "hq": "BETHESDA, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T19:26:42+09:00"
-  },
-  {
-   "id": "0001193125-26-428275",
-   "company": "Gentherm Inc",
-   "ticker": "THRM",
-   "cik": 903129,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 66,
-   "summary": "• In July, the Board of Directors authorized a new stock repurchase program of up to $400 million of the Company’s issued and outstanding common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526428275/0001193125-26-428275-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526428275/thrm-ex99_1.htm",
-   "filed_at": "2026-10-22T06:10:14-04:00",
-   "filed_kst": "2026-10-22 19:10",
-   "price": 28.44,
-   "change": -2.84,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 28.44,
-     "change": -2.84
-    },
-    {
-     "date": "2026-10-20",
-     "close": 29.27,
-     "change": 2.31
-    },
-    {
-     "date": "2026-10-19",
-     "close": 28.61,
-     "change": -1.48
-    }
-   ],
-   "market_cap": 873256116.0,
-   "shares_outstanding": 30705208.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "MI",
-   "hq": "NOVI, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T19:11:04+09:00"
-  },
-  {
-   "id": "0001493152-26-047966",
-   "company": "Pulmatrix, Inc.",
-   "ticker": "PULM",
-   "cik": 1574235,
-   "form": "425",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "M&A",
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 94,
-   "summary": "PTC-2105 is an investigational compound that has not been tested for lifespan in humans and has not been approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226047966/0001493152-26-047966-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226047966/form425.htm",
-   "filed_at": "2026-10-22T06:05:24-04:00",
-   "filed_kst": "2026-10-22 19:05",
-   "price": 1.57,
-   "change": 9.79,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 1.57,
-     "change": 9.79
-    },
-    {
-     "date": "2026-10-20",
-     "close": 1.43,
-     "change": 0.7
-    },
-    {
-     "date": "2026-10-19",
-     "close": 1.42,
-     "change": 4.41
-    }
-   ],
-   "market_cap": 5734087.0,
-   "shares_outstanding": 3652285.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "FRAMINGHAM, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-22T19:06:30+09:00"
   }
  ]
 }
