@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-29T00:09:35+09:00",
+ "updated_at": "2026-10-29T00:14:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001174947-26-000943",
+   "company": "ENI SPA",
+   "ticker": "E",
+   "cik": 1002242,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "28 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000943/0001174947-26-000943-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000943/form6k-36465_eni.htm",
+   "filed_at": "2026-10-28T11:10:47-04:00",
+   "filed_kst": "2026-10-29 00:10",
+   "price": 59.36,
+   "change": 0.7,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 59.36,
+     "change": 0.7
+    },
+    {
+     "date": "2026-10-27",
+     "close": 58.95,
+     "change": -2.64
+    },
+    {
+     "date": "2026-10-26",
+     "close": 60.55,
+     "change": -2.46
+    }
+   ],
+   "market_cap": 186791977167.0,
+   "shares_outstanding": 3146765114.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Italy",
+   "hq": "ROME ITALY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T00:11:36+09:00"
+  },
   {
    "id": "0001654954-26-009181",
    "company": "GSK plc",
@@ -15653,57 +15703,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-23T05:33:07+09:00"
-  },
-  {
-   "id": "0001571283-26-000058",
-   "company": "Rexford Industrial Realty, Inc.",
-   "ticker": "REXR",
-   "cik": 1571283,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "3 million remaining available under its current stock repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1571283/000157128326000058/0001571283-26-000058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1571283/000157128326000058/rexrex992q3-2026.htm",
-   "filed_at": "2026-10-22T16:28:26-04:00",
-   "filed_kst": "2026-10-23 05:28",
-   "price": 36.28,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 36.28,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 36.28,
-     "change": -1.41
-    },
-    {
-     "date": "2026-10-21",
-     "close": 36.8,
-     "change": -0.84
-    }
-   ],
-   "market_cap": 8090009139.0,
-   "shares_outstanding": 222988124.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "LOS ANGELES, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:30:46+09:00"
   }
  ]
 }
