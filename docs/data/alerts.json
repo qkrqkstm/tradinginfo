@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-29T00:34:48+09:00",
+ "updated_at": "2026-10-29T00:39:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000840489-26-000101",
+   "company": "FirstCash Holdings, Inc.",
+   "ticker": "FCFS",
+   "cik": 840489,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 79,
+   "summary": "On October 28, 2026, the Company announced that the Board of Directors approved an increase of $200 million to the Company’s current stock repurchase authorization (the “Authorization”), bringing the total authorization under the program to $350 million of which $128 million has been utilized to dat",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000101/0000840489-26-000101-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000101/fcfs-20261027.htm",
+   "filed_at": "2026-10-28T11:36:50-04:00",
+   "filed_kst": "2026-10-29 00:36",
+   "price": 188.0,
+   "change": 1.43,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 188.0,
+     "change": 1.43
+    },
+    {
+     "date": "2026-10-27",
+     "close": 185.35,
+     "change": 5.75
+    },
+    {
+     "date": "2026-10-26",
+     "close": 175.27,
+     "change": 1.46
+    }
+   ],
+   "market_cap": 8062882148.0,
+   "shares_outstanding": 42887671.0,
+   "industry": "Retail-Miscellaneous Retail",
+   "state_of_incorporation": "TX",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T00:37:33+09:00"
+  },
   {
    "id": "0001174947-26-000943",
    "company": "ENI SPA",
@@ -15649,60 +15703,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-23T05:51:03+09:00"
-  },
-  {
-   "id": "0001032033-26-000051",
-   "company": "SLM Corp",
-   "ticker": "SLM",
-   "cik": 1032033,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "30, 2026, $111 million of capacity remained available under the Company’s 2026 Share Repurchase Program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1032033/000103203326000051/0001032033-26-000051-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1032033/000103203326000051/slm102226ex991.htm",
-   "filed_at": "2026-10-22T16:32:31-04:00",
-   "filed_kst": "2026-10-23 05:32",
-   "price": 21.76,
-   "change": -4.69,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 21.76,
-     "change": -4.69
-    },
-    {
-     "date": "2026-10-21",
-     "close": 22.83,
-     "change": 2.56
-    },
-    {
-     "date": "2026-10-20",
-     "close": 22.26,
-     "change": 3.2
-    }
-   ],
-   "market_cap": 4089725806.0,
-   "shares_outstanding": 187946958.0,
-   "industry": "Personal Credit Institutions",
-   "state_of_incorporation": "DE",
-   "hq": "NEWARK, DE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:33:07+09:00"
   }
  ]
 }
