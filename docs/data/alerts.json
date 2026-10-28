@@ -1,7 +1,171 @@
 {
- "updated_at": "2026-10-28T20:04:44+09:00",
+ "updated_at": "2026-10-28T20:09:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001370637-26-000090",
+   "company": "ETSY INC",
+   "ticker": "ETSY",
+   "cik": 1370637,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "10 Strong Cash Flow Generation and Continued Accelerated Share Repurchases As of September 30, 2026 , Etsy held $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1370637/000137063726000090/0001370637-26-000090-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370637/000137063726000090/q326shareholderletter.htm",
+   "filed_at": "2026-10-28T07:07:04-04:00",
+   "filed_kst": "2026-10-28 20:07",
+   "price": 87.66,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 87.66,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 87.66,
+     "change": 2.61
+    },
+    {
+     "date": "2026-10-26",
+     "close": 85.43,
+     "change": -1.73
+    }
+   ],
+   "market_cap": 8045588030.0,
+   "shares_outstanding": 91781748.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BROOKLYN, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T20:08:36+09:00"
+  },
+  {
+   "id": "0001193125-26-435081",
+   "company": "AMARIN CORP PLC\\UK",
+   "ticker": "AMRN",
+   "cik": 897448,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "About VASCEPA®/VAZKEPA® (icosapent ethyl) Capsules VASCEPA (icosapent ethyl) capsules are the first prescription treatment approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/897448/000119312526435081/0001193125-26-435081-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/897448/000119312526435081/amrn-ex99_1.htm",
+   "filed_at": "2026-10-28T07:05:13-04:00",
+   "filed_kst": "2026-10-28 20:05",
+   "price": 11.95,
+   "change": -1.16,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 11.95,
+     "change": -1.16
+    },
+    {
+     "date": "2026-10-26",
+     "close": 12.09,
+     "change": 2.54
+    },
+    {
+     "date": "2026-10-23",
+     "close": 11.79,
+     "change": 1.64
+    }
+   ],
+   "market_cap": 4549293.0,
+   "shares_outstanding": 380694.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "DUBLIN 2",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-28T20:06:00+09:00"
+  },
+  {
+   "id": "0000805928-26-000106",
+   "company": "Axogen, Inc.",
+   "ticker": "AXGN",
+   "cik": 805928,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 68,
+   "summary": "• On October 1, 2026, we completed the acquisition of BioCircuit Technologies, Inc.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/805928/000080592826000106/0000805928-26-000106-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/805928/000080592826000106/ex991axgnearningsreleaseda.htm",
+   "filed_at": "2026-10-28T07:04:29-04:00",
+   "filed_kst": "2026-10-28 20:04",
+   "price": 37.46,
+   "change": -1.47,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 37.46,
+     "change": -1.47
+    },
+    {
+     "date": "2026-10-26",
+     "close": 38.02,
+     "change": -0.11
+    },
+    {
+     "date": "2026-10-23",
+     "close": 38.06,
+     "change": 3.76
+    }
+   ],
+   "market_cap": 2013906277.0,
+   "shares_outstanding": 53761513.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "MN",
+   "hq": "ALACHUA, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T20:05:27+09:00"
+  },
   {
    "id": "0000832101-26-000026",
    "company": "IDEX CORP /DE/",
@@ -15538,166 +15702,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-23T00:51:17+09:00"
-  },
-  {
-   "id": "0001104659-26-118023",
-   "company": "CION Investment Corp",
-   "ticker": "CION",
-   "cik": 1534254,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Further information about the proposed business combination will also be provided when and if a business combination agreement is entered into in a separate Current Report on Form 8-K.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926118023/0001104659-26-118023-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926118023/tm2628044d1_ex99-1.htm",
-   "filed_at": "2026-10-22T10:40:00-04:00",
-   "filed_kst": "2026-10-22 23:40",
-   "price": 6.5,
-   "change": 2.93,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 6.49,
-     "change": 2.93
-    },
-    {
-     "date": "2026-10-21",
-     "close": 6.31,
-     "change": -0.79
-    },
-    {
-     "date": "2026-10-20",
-     "close": 6.36,
-     "change": -0.16
-    }
-   ],
-   "market_cap": 319817576.0,
-   "shares_outstanding": 49202704.0,
-   "industry": null,
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-22T23:40:32+09:00"
-  },
-  {
-   "id": "0001493152-26-048030",
-   "company": "Outdoor Holding Co",
-   "ticker": "POWW",
-   "cik": 1015383,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "1 Outdoor Holding Company Increases Share Repurchase Authorization to $35 Million and Extends Program Through July 2027 Dallas, Texas, October 22, 2026 (GLOBE NEWSWIRE) — Outdoor Holding Company (Nasdaq: POWW, POWWP) (“OHC,” “we,” “us,” “our” or the “Company”), the owner of GunBroker.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1015383/000149315226048030/0001493152-26-048030-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1015383/000149315226048030/ex99-1.htm",
-   "filed_at": "2026-10-22T09:15:35-04:00",
-   "filed_kst": "2026-10-22 22:15",
-   "price": 2.34,
-   "change": 3.08,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 2.34,
-     "change": 3.08
-    },
-    {
-     "date": "2026-10-20",
-     "close": 2.27,
-     "change": -2.58
-    },
-    {
-     "date": "2026-10-19",
-     "close": 2.33,
-     "change": 6.88
-    }
-   ],
-   "market_cap": 271475935.0,
-   "shares_outstanding": 116015357.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-22T22:16:34+09:00"
-  },
-  {
-   "id": "0001493152-26-048029",
-   "company": "Data443 Risk Mitigation, Inc.",
-   "ticker": "ATDS",
-   "cik": 1068689,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "In October 2026, Proofpoint agreed to acquire Varonis — an Israeli-founded data security company and a direct competitor of Data443 — for approximately $6.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226048029/0001493152-26-048029-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226048029/ex99-1.htm",
-   "filed_at": "2026-10-22T09:10:21-04:00",
-   "filed_kst": "2026-10-22 22:10",
-   "price": 0.0,
-   "change": -50.0,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 0.0,
-     "change": -50.0
-    },
-    {
-     "date": "2026-10-20",
-     "close": 0.0,
-     "change": 33.33
-    },
-    {
-     "date": "2026-10-19",
-     "close": 0.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": 1313420344.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "NV",
-   "hq": "RESEARCH TRIANGLE PARK, NC",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-22T22:11:03+09:00"
   }
  ]
 }
