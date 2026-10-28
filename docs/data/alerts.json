@@ -1,7 +1,209 @@
 {
- "updated_at": "2026-10-28T19:05:01+09:00",
+ "updated_at": "2026-10-28T19:09:18+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-435008",
+   "company": "SK hynix Inc.",
+   "ticker": "SKHY",
+   "cik": 2120882,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "배당"
+   ],
+   "confidence": 67,
+   "summary": "6-K 1 d236990d6k.htm FORM 6-K Form 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE MONTH OF OCTOBER 2026 Commission File Number: 001-43391 SK hynix I",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526435008/0001193125-26-435008-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526435008/d236990d6k.htm",
+   "filed_at": "2026-10-28T06:06:14-04:00",
+   "filed_kst": "2026-10-28 19:06",
+   "price": 145.36,
+   "change": 1.92,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 145.36,
+     "change": 1.92
+    },
+    {
+     "date": "2026-10-26",
+     "close": 142.62,
+     "change": 4.09
+    },
+    {
+     "date": "2026-10-23",
+     "close": 137.02,
+     "change": 4.05
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Korea, Republic of",
+   "hq": "ICHEON-SI",
+   "entity_category": null,
+   "detected_at": "2026-10-28T19:07:13+09:00"
+  },
+  {
+   "id": "0001171843-26-006878",
+   "company": "EQUINOR ASA",
+   "ticker": "EQNR",
+   "cik": 1140625,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "An agreement between Equinor and the Norwegian State governs the State's participation in the share buy-back programme: at the annual general meeting of the company in May 2027, the State will, as per proposal by the board of directors, vote for the cancellation of shares purchased in the market pur",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140625/000117184326006878/0001171843-26-006878-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1140625/000117184326006878/exh_991.htm",
+   "filed_at": "2026-10-28T06:05:03-04:00",
+   "filed_kst": "2026-10-28 19:05",
+   "price": 47.06,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 47.06,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 47.06,
+     "change": -2.16
+    },
+    {
+     "date": "2026-10-26",
+     "close": 48.1,
+     "change": -1.47
+    }
+   ],
+   "market_cap": 117662754672.0,
+   "shares_outstanding": 2500271030.0,
+   "industry": "Petroleum Refining",
+   "state_of_incorporation": null,
+   "hq": "STAVANGER NORWAY, Q8",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:06:09+09:00"
+  },
+  {
+   "id": "0001159508-26-000044",
+   "company": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+   "ticker": "DB",
+   "cik": 1159508,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "In the third quarter of 2026, Deutsche Bank completed its second share repurchase program, bringing buybacks in 2026 to € 1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1159508/000115950826000044/0001159508-26-000044-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1159508/000115950826000044/db20261028991.htm",
+   "filed_at": "2026-10-28T06:04:31-04:00",
+   "filed_kst": "2026-10-28 19:04",
+   "price": 32.12,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 32.12,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 32.12,
+     "change": 0.6
+    },
+    {
+     "date": "2026-10-26",
+     "close": 31.93,
+     "change": 2.34
+    }
+   ],
+   "market_cap": 61120289240.0,
+   "shares_outstanding": 1902873264.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:05:36+09:00"
+  },
+  {
+   "id": "0000763744-26-000094",
+   "company": "LCI INDUSTRIES",
+   "ticker": "LCII",
+   "cik": 763744,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "01 Other Events As previously disclosed, on June 30, 2026, LCI Industries (the “Company”), a Delaware corporation, entered into an Agreement and Plan of Merger with Patrick Industries, Inc.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000094/0000763744-26-000094-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000094/lcii-20261028.htm",
+   "filed_at": "2026-10-28T06:04:36-04:00",
+   "filed_kst": "2026-10-28 19:04",
+   "price": 89.84,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 89.84,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 89.84,
+     "change": 2.21
+    },
+    {
+     "date": "2026-10-26",
+     "close": 87.9,
+     "change": 3.57
+    }
+   ],
+   "market_cap": 2184145789.0,
+   "shares_outstanding": 24311507.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:05:29+09:00"
+  },
   {
    "id": "0001213900-26-113048",
    "company": "Inflection Point Acquisition Corp. VII",
@@ -15494,197 +15696,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-22T20:27:28+09:00"
-  },
-  {
-   "id": "0001654954-26-009093",
-   "company": "ASTRAZENECA PLC",
-   "ticker": "AZN",
-   "cik": 901832,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "1 The trial is ongoing and will assess the primary endpoint of change from baseline in estimated glomerular filtration rate (eGFR) at week 106, with data intended to support traditional FDA approval.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009093/0001654954-26-009093-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009093/a9580z.htm",
-   "filed_at": "2026-10-22T07:10:20-04:00",
-   "filed_kst": "2026-10-22 20:10",
-   "price": 168.45,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 168.45,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 168.45,
-     "change": -0.22
-    },
-    {
-     "date": "2026-10-20",
-     "close": 168.82,
-     "change": 2.97
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "CAMBRIDGE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:11:05+09:00"
-  },
-  {
-   "id": "0001828316-26-000047",
-   "company": "Pharming Group N.V.",
-   "ticker": "PHAR",
-   "cik": 1828316,
-   "form": "6-K",
-   "items": [],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "Topline results from the pivotal FALCON study are expected approximately one year after the completion of enrollment.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000047/0001828316-26-000047-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1828316/000182831626000047/q3announcementpr.htm",
-   "filed_at": "2026-10-22T07:06:13-04:00",
-   "filed_kst": "2026-10-22 20:06",
-   "price": 9.65,
-   "change": -1.03,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 9.65,
-     "change": -1.03
-    },
-    {
-     "date": "2026-10-20",
-     "close": 9.75,
-     "change": 7.03
-    },
-    {
-     "date": "2026-10-19",
-     "close": 9.11,
-     "change": -2.67
-    }
-   ],
-   "market_cap": 6771216246.0,
-   "shares_outstanding": 701680440.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Netherlands",
-   "hq": "LEIDEN, P7",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:07:03+09:00"
-  },
-  {
-   "id": "0001628280-26-066783",
-   "company": "COMCAST CORP",
-   "ticker": "CCZ",
-   "cik": 1166691,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "As previously announced, Comcast suspended its share repurchase program beginning in the third quarter and expects the pause to remain in place through the proposed separation of its businesses into two independent publicly traded companies.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/0001628280-26-066783-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/ex991-9302026.htm",
-   "filed_at": "2026-10-22T07:05:59-04:00",
-   "filed_kst": "2026-10-22 20:05",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": 2063073161.0,
-   "industry": "Cable & Other Pay Television Services",
-   "state_of_incorporation": "PA",
-   "hq": "PHILADELPHIA, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:07:00+09:00"
-  },
-  {
-   "id": "0001138118-26-000028",
-   "company": "CBRE GROUP, INC.",
-   "ticker": "CBRE",
-   "cik": 1138118,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "• Stock Repurchase Program – Year-to-date, the company repurchased nearly $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000028/0001138118-26-000028-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000028/cbre-20261022x8kexx991.htm",
-   "filed_at": "2026-10-22T07:03:46-04:00",
-   "filed_kst": "2026-10-22 20:03",
-   "price": 134.65,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 134.65,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-21",
-     "close": 134.65,
-     "change": 0.31
-    },
-    {
-     "date": "2026-10-20",
-     "close": 134.23,
-     "change": 2.65
-    }
-   ],
-   "market_cap": 38991313876.0,
-   "shares_outstanding": 289575298.0,
-   "industry": "Real Estate",
-   "state_of_incorporation": "DE",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-22T20:04:38+09:00"
   }
  ]
 }
