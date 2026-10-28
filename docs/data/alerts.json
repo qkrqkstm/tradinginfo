@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-28T21:54:38+09:00",
+ "updated_at": "2026-10-28T21:59:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-033708",
+   "company": "FIRST COMMUNITY BANKSHARES INC /VA/",
+   "ticker": "FCBC",
+   "cik": 859070,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 82,
+   "summary": "1 AGREEMENT AND PLAN OF MERGER DATED AS OF OCTOBER 27, 2026 BY AND BETWEEN FIRST COMMUNITY BANKSHARES, INC.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/859070/000143774926033708/0001437749-26-033708-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/859070/000143774926033708/ex_1033013.htm",
+   "filed_at": "2026-10-28T08:54:18-04:00",
+   "filed_kst": "2026-10-28 21:54",
+   "price": 47.45,
+   "change": -1.88,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 47.45,
+     "change": -1.88
+    },
+    {
+     "date": "2026-10-26",
+     "close": 48.36,
+     "change": -0.37
+    },
+    {
+     "date": "2026-10-23",
+     "close": 48.54,
+     "change": -1.32
+    }
+   ],
+   "market_cap": 897295111.0,
+   "shares_outstanding": 18910329.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "BLUEFIELD, VA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-28T21:55:26+09:00"
+  },
   {
    "id": "0001437749-26-033707",
    "company": "FIRST COMMUNITY BANKSHARES INC /VA/",
@@ -15646,56 +15698,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-23T05:23:43+09:00"
-  },
-  {
-   "id": "0000076605-26-000099",
-   "company": "PATRICK INDUSTRIES INC",
-   "ticker": "PATK",
-   "cik": 76605,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "1 A proposal to approve the issuance of shares of common stock to LCI Industries stockholders pursuant to the Agreement and Plan of Merger signed by LCI Industries and Patrick on June 30, 2026; 2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000099/0000076605-26-000099-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000099/patk102226-425filingxspeci.htm",
-   "filed_at": "2026-10-22T16:19:25-04:00",
-   "filed_kst": "2026-10-23 05:19",
-   "price": 70.27,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 70.27,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 70.27,
-     "change": 4.41
-    },
-    {
-     "date": "2026-10-21",
-     "close": 67.3,
-     "change": 0.66
-    }
-   ],
-   "market_cap": 2256950411.0,
-   "shares_outstanding": 32118264.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "IN",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:20:36+09:00"
   }
  ]
 }
