@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-28T20:29:30+09:00",
+ "updated_at": "2026-10-28T20:34:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-435113",
+   "company": "PALVELLA THERAPEUTICS, INC.",
+   "ticker": "PVLA",
+   "cik": 1583648,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 81,
+   "summary": "1 Palvella Announces FDA Acceptance and Priority Review of QTORIN™ Rapamycin NDA; February 28, 2027 PDUFA Target Action Date Set QTORIN™ rapamycin could become the first FDA-approved therapy for microcystic lymphatic malformations, a serious, lifelong rare disease affecting an estimated more than",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526435113/0001193125-26-435113-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526435113/pvla-ex99_1.htm",
+   "filed_at": "2026-10-28T07:30:13-04:00",
+   "filed_kst": "2026-10-28 20:30",
+   "price": 132.91,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 132.91,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 132.91,
+     "change": 5.29
+    },
+    {
+     "date": "2026-10-26",
+     "close": 126.23,
+     "change": 0.9
+    }
+   ],
+   "market_cap": 1915021374.0,
+   "shares_outstanding": 14408407.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "WAYNE, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-28T20:30:44+09:00"
+  },
   {
    "id": "0001171843-26-006884",
    "company": "Costamare Inc.",
@@ -15647,60 +15701,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-23T02:22:05+09:00"
-  },
-  {
-   "id": "0000840489-26-000097",
-   "company": "FirstCash Holdings, Inc.",
-   "ticker": "FCFS",
-   "cik": 840489,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "The Company has $50 million remaining on the share repurchase program authorized in July 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000097/0000840489-26-000097-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000097/fcfs10222026exhibit991.htm",
-   "filed_at": "2026-10-22T13:12:33-04:00",
-   "filed_kst": "2026-10-23 02:12",
-   "price": 189.41,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 189.41,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 189.41,
-     "change": -12.61
-    },
-    {
-     "date": "2026-10-21",
-     "close": 216.75,
-     "change": 0.92
-    }
-   ],
-   "market_cap": 8215052638.0,
-   "shares_outstanding": 43371800.0,
-   "industry": "Retail-Miscellaneous Retail",
-   "state_of_incorporation": "TX",
-   "hq": "FORT WORTH, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T02:13:16+09:00"
   }
  ]
 }
