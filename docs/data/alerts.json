@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-28T23:44:36+09:00",
+ "updated_at": "2026-10-28T23:49:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009181",
+   "company": "GSK plc",
+   "ticker": "GSK",
+   "cik": 1131399,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "탑라인결과",
+    "FDA",
+    "배당"
+   ],
+   "confidence": 97,
+   "summary": "6-K 1 a6993a.htm 3RD QUARTER RESULTS a6993a UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October 2026 Commission File Number 001-15170 GSK",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009181/0001654954-26-009181-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009181/a6993a.htm",
+   "filed_at": "2026-10-28T10:45:42-04:00",
+   "filed_kst": "2026-10-28 23:45",
+   "price": 49.09,
+   "change": -3.64,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 49.08,
+     "change": -3.64
+    },
+    {
+     "date": "2026-10-27",
+     "close": 50.94,
+     "change": -0.31
+    },
+    {
+     "date": "2026-10-26",
+     "close": 51.1,
+     "change": 0.69
+    }
+   ],
+   "market_cap": 211845196326.0,
+   "shares_outstanding": 4315445026.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T23:46:37+09:00"
+  },
   {
    "id": "0001434265-26-000140",
    "company": "GENMAB A/S",
@@ -15651,60 +15704,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-23T05:30:46+09:00"
-  },
-  {
-   "id": "0001350593-26-000040",
-   "company": "Mueller Water Products, Inc.",
-   "ticker": "MWA",
-   "cik": 1350593,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 83,
-   "summary": "Additional Share Repurchase Authorization On October 22, 2026, the Board also authorized the repurchase of up to an additional $300 million of the Company’s common stock under its existing stock repurchase program, effective immediately.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000040/0001350593-26-000040-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000040/mwa-20261022.htm",
-   "filed_at": "2026-10-22T16:28:40-04:00",
-   "filed_kst": "2026-10-23 05:28",
-   "price": 22.27,
-   "change": 1.88,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 22.27,
-     "change": 1.88
-    },
-    {
-     "date": "2026-10-21",
-     "close": 21.86,
-     "change": -0.59
-    },
-    {
-     "date": "2026-10-20",
-     "close": 21.99,
-     "change": 1.1
-    }
-   ],
-   "market_cap": 3476918871.0,
-   "shares_outstanding": 156125679.0,
-   "industry": "Miscellaneous Fabricated Metal Products",
-   "state_of_incorporation": "DE",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:30:44+09:00"
   }
  ]
 }
