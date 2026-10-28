@@ -1,7 +1,268 @@
 {
- "updated_at": "2026-10-29T05:29:14+09:00",
+ "updated_at": "2026-10-29T05:34:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-119657",
+   "company": "MATERIALISE NV",
+   "ticker": "MTLS",
+   "cik": 1091223,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "At the same time we significantly improved our net cash position driven by strong operational cash flow while we continued to buy back shares under our share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926119657/0001104659-26-119657-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926119657/tm2628474d1_ex99-1.htm",
+   "filed_at": "2026-10-28T16:34:03-04:00",
+   "filed_kst": "2026-10-29 05:34",
+   "price": 6.78,
+   "change": -21.35,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 6.78,
+     "change": -21.35
+    },
+    {
+     "date": "2026-10-27",
+     "close": 8.62,
+     "change": -0.35
+    },
+    {
+     "date": "2026-10-26",
+     "close": 8.65,
+     "change": 0.23
+    }
+   ],
+   "market_cap": 400475521.0,
+   "shares_outstanding": 59067186.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": null,
+   "hq": "LEVUEN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-29T05:34:38+09:00"
+  },
+  {
+   "id": "0001573516-26-000193",
+   "company": "Murphy USA Inc.",
+   "ticker": "MUSA",
+   "cik": 1573516,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 66,
+   "summary": "88 per share on an annualized basis, reflecting an increase of 11% from the Q3 2026 dividend.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1573516/000157351626000193/0001573516-26-000193-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1573516/000157351626000193/exh991_09302026er.htm",
+   "filed_at": "2026-10-28T16:32:04-04:00",
+   "filed_kst": "2026-10-29 05:32",
+   "price": 515.28,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 515.28,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 515.28,
+     "change": -2.98
+    },
+    {
+     "date": "2026-10-27",
+     "close": 531.11,
+     "change": -1.49
+    }
+   ],
+   "market_cap": 9471025202.0,
+   "shares_outstanding": 18380347.0,
+   "industry": "Retail-Auto Dealers & Gasoline Stations",
+   "state_of_incorporation": "DE",
+   "hq": "EL DORADO, AR",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T05:33:00+09:00"
+  },
+  {
+   "id": "0001213900-26-113338",
+   "company": "Scage Future",
+   "ticker": "SCAG",
+   "cik": 2000366,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through strategic partnerships with top-tier vehicle manufacturers and a strong quality control framework, the Company delivers intelligent, high-performance NEVs addressing the transport needs across logistics, mining and port operations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2000366/000121390026113338/0001213900-26-113338-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2000366/000121390026113338/ea031002501ex99-1.htm",
+   "filed_at": "2026-10-28T16:30:13-04:00",
+   "filed_kst": "2026-10-29 05:30",
+   "price": 2.15,
+   "change": 1235.4,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 2.15,
+     "change": 1235.4
+    },
+    {
+     "date": "2026-10-23",
+     "close": 0.16,
+     "change": -4.17
+    }
+   ],
+   "market_cap": 155324583.0,
+   "shares_outstanding": 72243992.0,
+   "industry": "Truck & Bus Bodies",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NANJING CITY, JIANGSU PROVINCE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-29T05:31:17+09:00"
+  },
+  {
+   "id": "0001213900-26-113337",
+   "company": "ADIAL PHARMACEUTICALS, INC.",
+   "ticker": "ADIL",
+   "cik": 1513525,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "5.03",
+    "5.07",
+    "7.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "FDA"
+   ],
+   "confidence": 83,
+   "summary": ", who invented a treatment for a viral skin condition he had himself and developed it into a controlled-drug leading to FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026113337/0001213900-26-113337-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026113337/ea030997701ex99-1.htm",
+   "filed_at": "2026-10-28T16:30:23-04:00",
+   "filed_kst": "2026-10-29 05:30",
+   "price": 5.05,
+   "change": 36.12,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 5.05,
+     "change": 36.12
+    },
+    {
+     "date": "2026-10-27",
+     "close": 3.71,
+     "change": 0.82
+    },
+    {
+     "date": "2026-10-26",
+     "close": 3.68,
+     "change": -6.12
+    }
+   ],
+   "market_cap": 13260744.0,
+   "shares_outstanding": 2625890.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CHARLOTTESVILLE, VA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-29T05:31:14+09:00"
+  },
+  {
+   "id": "0000020212-26-000088",
+   "company": "Churchill Downs Inc",
+   "ticker": "CHDN",
+   "cik": 20212,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "On October 27, 2026, Churchill Downs Incorporated (the “Company”) announced that the Company’s Board of Directors approved a $750 million share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/20212/000002021226000088/0000020212-26-000088-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/20212/000002021226000088/chdn-20261027.htm",
+   "filed_at": "2026-10-28T16:29:18-04:00",
+   "filed_kst": "2026-10-29 05:29",
+   "price": 81.95,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 81.95,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 81.95,
+     "change": 0.53
+    },
+    {
+     "date": "2026-10-27",
+     "close": 81.52,
+     "change": -3.0
+    }
+   ],
+   "market_cap": 5617536627.0,
+   "shares_outstanding": 68548342.0,
+   "industry": "Services-Racing, Including Track Operation",
+   "state_of_incorporation": "KY",
+   "hq": "LOUISVILLE, KY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T05:30:38+09:00"
+  },
   {
    "id": "0001562528-26-000035",
    "company": "Franklin BSP Realty Trust, Inc.",
@@ -15493,261 +15754,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-24T06:02:40+09:00"
-  },
-  {
-   "id": "0001213900-26-112171",
-   "company": "Bold Eagle Acquisition Corp.",
-   "ticker": "BEAG",
-   "cik": 1852207,
-   "form": "425",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The strength of its technology is reflected in its business performance, with $246 million in revenue for the last twelve months, ended December 31, 2025, alongside $233 million in contracted backlog.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1852207/000121390026112171/0001213900-26-112171-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852207/000121390026112171/ea0309564-425_redlinter.htm",
-   "filed_at": "2026-10-23T17:01:01-04:00",
-   "filed_kst": "2026-10-24 06:01",
-   "price": 10.52,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 10.52,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 10.52,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-21",
-     "close": 10.51,
-     "change": -0.66
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-24T06:02:08+09:00"
-  },
-  {
-   "id": "0001140361-26-040674",
-   "company": "Valaris Ltd",
-   "ticker": "VAL",
-   "cik": 314808,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Swiss corporation (“ Transocean ”), entered into a Business Combination Agreement (the “ Agreement ”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/314808/000114036126040674/0001140361-26-040674-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/314808/000114036126040674/ef20084275_8k.htm",
-   "filed_at": "2026-10-23T17:00:40-04:00",
-   "filed_kst": "2026-10-24 06:00",
-   "price": 97.33,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 97.33,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 97.33,
-     "change": 5.58
-    },
-    {
-     "date": "2026-10-22",
-     "close": 92.19,
-     "change": 0.51
-    }
-   ],
-   "market_cap": 6758187095.0,
-   "shares_outstanding": 69435807.0,
-   "industry": "Drilling Oil & Gas Wells",
-   "state_of_incorporation": null,
-   "hq": "HAMILTON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-24T06:01:31+09:00"
-  },
-  {
-   "id": "0001193125-26-430532",
-   "company": "Avidia Bancorp, Inc.",
-   "ticker": "AVBC",
-   "cik": 2058758,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "During the quarter, we announced a $30 million stock repurchase authorization and commenced repurchases, further supporting stockholder returns.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2058758/000119312526430532/0001193125-26-430532-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2058758/000119312526430532/avbc-ex99_1.htm",
-   "filed_at": "2026-10-23T16:36:31-04:00",
-   "filed_kst": "2026-10-24 05:36",
-   "price": 22.66,
-   "change": 1.39,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 22.66,
-     "change": 1.39
-    },
-    {
-     "date": "2026-10-22",
-     "close": 22.35,
-     "change": 0.68
-    },
-    {
-     "date": "2026-10-21",
-     "close": 22.2,
-     "change": 0.54
-    }
-   ],
-   "market_cap": 452527134.0,
-   "shares_outstanding": 19970306.0,
-   "industry": "Savings Institutions, Not Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "HUDSON, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-24T05:37:31+09:00"
-  },
-  {
-   "id": "0001317861-26-000053",
-   "company": "Dynagas LNG Partners LP",
-   "ticker": "DLNG",
-   "cik": 1578453,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(NYSE: DLNG) is a master limited partnership which owns and operates liquefied natural gas (LNG) carriers employed on multi-year charters.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000053/0001317861-26-000053-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000053/f102326dlng6k.htm",
-   "filed_at": "2026-10-23T16:34:20-04:00",
-   "filed_kst": "2026-10-24 05:34",
-   "price": 3.32,
-   "change": -1.19,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 3.32,
-     "change": -1.19
-    },
-    {
-     "date": "2026-10-22",
-     "close": 3.36,
-     "change": 0.6
-    },
-    {
-     "date": "2026-10-21",
-     "close": 3.34,
-     "change": -0.3
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Water Transportation",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "ATHENS",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-24T05:35:25+09:00"
-  },
-  {
-   "id": "0001104659-26-118496",
-   "company": "Workday, Inc.",
-   "ticker": "WDAY",
-   "cik": 1327811,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The Company will not, directly or indirectly, use the proceeds of the sale of the Notes, or lend, contribute or otherwise make available such proceeds to any subsidiaries, joint venture partners or other Person, to fund any activities of or business with any Person, or in any country or territory, t",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000110465926118496/0001104659-26-118496-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1327811/000110465926118496/tm2626731d6_ex4-2.htm",
-   "filed_at": "2026-10-23T16:34:15-04:00",
-   "filed_kst": "2026-10-24 05:34",
-   "price": 209.99,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 209.99,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 209.99,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 209.99,
-     "change": 3.46
-    }
-   ],
-   "market_cap": 46197800000.0,
-   "shares_outstanding": 220000000.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "DE",
-   "hq": "PLEASANTON, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-24T05:34:48+09:00"
   }
  ]
 }
