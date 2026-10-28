@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-28T21:59:34+09:00",
+ "updated_at": "2026-10-28T22:04:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-067750",
+   "company": "ACNB CORP",
+   "ticker": "ACNB",
+   "cik": 715579,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "배당",
+   "primary_key": "dividend",
+   "emoji": "💵",
+   "types": [
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "In addition, on October 27, 2026, the Board of ACNB declared a special cash dividend of $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715579/000162828026067750/0001628280-26-067750-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/715579/000162828026067750/acnb-20261027.htm",
+   "filed_at": "2026-10-28T08:59:23-04:00",
+   "filed_kst": "2026-10-28 21:59",
+   "price": 65.29,
+   "change": 0.46,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 65.29,
+     "change": 0.46
+    },
+    {
+     "date": "2026-10-26",
+     "close": 64.99,
+     "change": -0.66
+    },
+    {
+     "date": "2026-10-23",
+     "close": 65.42,
+     "change": 0.05
+    }
+   ],
+   "market_cap": 663994730.0,
+   "shares_outstanding": 10169930.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "PA",
+   "hq": "GETTYSBURG, PA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-28T22:00:51+09:00"
+  },
   {
    "id": "0001437749-26-033708",
    "company": "FIRST COMMUNITY BANKSHARES INC /VA/",
@@ -15644,60 +15697,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-23T05:24:15+09:00"
-  },
-  {
-   "id": "0001193125-26-428973",
-   "company": "BOSTON BEER CO INC",
-   "ticker": "SAM",
-   "cik": 949870,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 60,
-   "summary": "“Our results reflect continued progress from our multi-year supply chain transformation, disciplined investment, and an ongoing focus on productivity across the organization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/949870/000119312526428973/0001193125-26-428973-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/949870/000119312526428973/sam-ex99_1.htm",
-   "filed_at": "2026-10-22T16:23:13-04:00",
-   "filed_kst": "2026-10-23 05:23",
-   "price": 195.72,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 195.72,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 195.72,
-     "change": 7.65
-    },
-    {
-     "date": "2026-10-21",
-     "close": 181.81,
-     "change": -1.3
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Malt Beverages",
-   "state_of_incorporation": "MA",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:23:43+09:00"
   }
  ]
 }
