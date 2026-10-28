@@ -1,7 +1,274 @@
 {
- "updated_at": "2026-10-28T19:59:36+09:00",
+ "updated_at": "2026-10-28T20:04:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000832101-26-000026",
+   "company": "IDEX CORP /DE/",
+   "ticker": "IEX",
+   "cik": 832101,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "This quarter, we delivered both record sales and adjusted EPS while expanding margins and booked nearly $1 billion in orders.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000026/0000832101-26-000026-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000026/iex-20260930xex991.htm",
+   "filed_at": "2026-10-28T07:01:11-04:00",
+   "filed_kst": "2026-10-28 20:01",
+   "price": 233.21,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 233.21,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 233.21,
+     "change": 0.93
+    },
+    {
+     "date": "2026-10-26",
+     "close": 231.06,
+     "change": 0.88
+    }
+   ],
+   "market_cap": 17192216946.0,
+   "shares_outstanding": 73719896.0,
+   "industry": "Pumps & Pumping Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "NORTHBROOK, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T20:01:35+09:00"
+  },
+  {
+   "id": "0001193125-26-435065",
+   "company": "NovaBridge Biosciences",
+   "ticker": "NBP",
+   "cik": 1778016,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "He joins NovaBridge as the Company advances its lead programs and continues to execute its strategy of creating value through clinical development, strategic partnerships and disciplined capital allocation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1778016/000119312526435065/0001193125-26-435065-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1778016/000119312526435065/nbp-ex99_1.htm",
+   "filed_at": "2026-10-28T07:00:04-04:00",
+   "filed_kst": "2026-10-28 20:00",
+   "price": 1.25,
+   "change": 3.29,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 1.25,
+     "change": 3.29
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1.22,
+     "change": -11.31
+    },
+    {
+     "date": "2026-10-23",
+     "close": 1.37,
+     "change": 3.01
+    }
+   ],
+   "market_cap": 331722364.0,
+   "shares_outstanding": 265377891.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "ROCKVILLE, MD",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-28T20:01:01+09:00"
+  },
+  {
+   "id": "0000004904-26-000069",
+   "company": "AMERICAN ELECTRIC POWER CO INC",
+   "ticker": "AEP",
+   "cik": 4904,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 69,
+   "summary": "EX-99 2 a3q20268kpressreleaseex991.htm EX-99 Document Exhibit 99.1 News from AEP AEP Reports Third-Quarter 2026 Earnings, Expands Capital Plan and Increases Growth Outlook • Reporting third-quarter GAAP and operating earnings per share of $2.18 and $2.23, respectively • Forecasting 2026 operating ea",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000069/0000004904-26-000069-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000069/a3q20268kpressreleaseex991.htm",
+   "filed_at": "2026-10-28T06:59:45-04:00",
+   "filed_kst": "2026-10-28 19:59",
+   "price": 130.3,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 130.3,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 130.3,
+     "change": 0.84
+    },
+    {
+     "date": "2026-10-26",
+     "close": 129.22,
+     "change": -0.36
+    }
+   ],
+   "market_cap": 70896875636.0,
+   "shares_outstanding": 544104955.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "NY",
+   "hq": "COLUMBUS, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T20:00:58+09:00"
+  },
+  {
+   "id": "0001193125-26-435063",
+   "company": "ONESPAWORLD HOLDINGS Ltd",
+   "ticker": "OSW",
+   "cik": 1758488,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 83,
+   "summary": "0 Million in Adjusted EBITDA Board Approves a New $100 Million Share Repurchase Program and a 25% Increase in Quarterly Dividend to $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1758488/000119312526435063/0001193125-26-435063-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1758488/000119312526435063/osw-ex99_1.htm",
+   "filed_at": "2026-10-28T07:00:15-04:00",
+   "filed_kst": "2026-10-28 20:00",
+   "price": 24.95,
+   "change": 4.0,
+   "price_history": [
+    {
+     "date": "2026-10-27",
+     "close": 24.95,
+     "change": 4.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 23.99,
+     "change": 0.54
+    },
+    {
+     "date": "2026-10-23",
+     "close": 23.86,
+     "change": -1.77
+    }
+   ],
+   "market_cap": 2532392864.0,
+   "shares_outstanding": 101498712.0,
+   "industry": "Services-Membership Sports & Recreation Clubs",
+   "state_of_incorporation": "Bahamas",
+   "hq": "NASSAU, C5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T20:00:54+09:00"
+  },
+  {
+   "id": "0001193125-26-435066",
+   "company": "GARMIN LTD",
+   "ticker": "GRMN",
+   "cik": 1121788,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "We paid a quarterly dividend of $202 million and repurchased $41 million of the Company’s shares within the quarter, leaving approximately $407 million remaining as of September 26, 2026 in the $500 million share repurchase program authorized through December 2028.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526435066/0001193125-26-435066-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526435066/grmn-ex99_1.htm",
+   "filed_at": "2026-10-28T07:00:16-04:00",
+   "filed_kst": "2026-10-28 20:00",
+   "price": 289.34,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 289.34,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 289.34,
+     "change": -1.22
+    },
+    {
+     "date": "2026-10-26",
+     "close": 292.92,
+     "change": -0.28
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+   "state_of_incorporation": "Switzerland",
+   "hq": "SCHAFFHAUSEN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T20:00:52+09:00"
+  },
   {
    "id": "0000920148-26-000213",
    "company": "LABCORP HOLDINGS INC.",
@@ -15431,268 +15698,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-22T22:11:03+09:00"
-  },
-  {
-   "id": "0001213900-26-111505",
-   "company": "Wearable Devices Ltd.",
-   "ticker": "WLDS",
-   "cik": 1887673,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 64,
-   "summary": "ON OCTOBER 22, 2026, TITLED \"WEARABLE DEVICES AND ENCORD SIGN STRATEGIC COLLABORATION AGREEMENT TO ADVANCE NEURAL-ENHANCED DATA FOR PHYSICAL AI.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1887673/000121390026111505/0001213900-26-111505-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1887673/000121390026111505/ea030936001ex99-1.htm",
-   "filed_at": "2026-10-22T09:05:01-04:00",
-   "filed_kst": "2026-10-22 22:05",
-   "price": 1.35,
-   "change": -1.46,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 1.35,
-     "change": -1.46
-    },
-    {
-     "date": "2026-10-20",
-     "close": 1.37,
-     "change": -0.36
-    },
-    {
-     "date": "2026-10-19",
-     "close": 1.38,
-     "change": 10.0
-    }
-   ],
-   "market_cap": 3891783.0,
-   "shares_outstanding": 2882802.0,
-   "industry": "Computer Communications Equipment",
-   "state_of_incorporation": "Israel",
-   "hq": "YOKNE'AM ILLIT, L3",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-22T22:05:32+09:00"
-  },
-  {
-   "id": "0001104659-26-117986",
-   "company": "Graf Global Corp.",
-   "ticker": "TONT",
-   "cik": 1897463,
-   "form": "425",
-   "items": [
-    "7.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Cayman Islands exempted company (“ GRAF ”), entered into a Business Combination Agreement (as it may be amended, supplemented or otherwise modified from time to time in accordance with its terms, the “ Business Combination Agreement ”), by and among GRAF, Halfcourt Holdco, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926117986/0001104659-26-117986-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926117986/tm2618324d26_ex99-1.htm",
-   "filed_at": "2026-10-22T09:02:09-04:00",
-   "filed_kst": "2026-10-22 22:02",
-   "price": 10.94,
-   "change": 0.09,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 10.94,
-     "change": 0.09
-    },
-    {
-     "date": "2026-10-20",
-     "close": 10.93,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 10.93,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-22T22:03:15+09:00"
-  },
-  {
-   "id": "0001104659-26-117985",
-   "company": "Graf Global Corp.",
-   "ticker": "TONT",
-   "cik": 1897463,
-   "form": "8-K",
-   "items": [
-    "7.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Cayman Islands exempted company (“ GRAF ”), entered into a Business Combination Agreement (as it may be amended, supplemented or otherwise modified from time to time in accordance with its terms, the “ Business Combination Agreement ”), by and among GRAF, Halfcourt Holdco, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926117985/0001104659-26-117985-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926117985/tm2618324d26_ex99-1.htm",
-   "filed_at": "2026-10-22T09:00:39-04:00",
-   "filed_kst": "2026-10-22 22:00",
-   "price": 10.94,
-   "change": 0.09,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 10.94,
-     "change": 0.09
-    },
-    {
-     "date": "2026-10-20",
-     "close": 10.93,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-19",
-     "close": 10.93,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-22T22:01:36+09:00"
-  },
-  {
-   "id": "0001437749-26-033185",
-   "company": "Climb Global Solutions, Inc.",
-   "ticker": "CLMB",
-   "cik": 945983,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "(NASDAQ:CLMB) (“Climb” or the “Company”), a value-added global IT channel company providing unique sales and distribution solutions for innovative technology vendors, has completed the acquisition of NeoVAD, a France-based value-added IT distributor focused on cybersecurity, cloud services and virtu",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/945983/000143774926033185/0001437749-26-033185-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/945983/000143774926033185/ex_1029763.htm",
-   "filed_at": "2026-10-22T08:59:03-04:00",
-   "filed_kst": "2026-10-22 21:59",
-   "price": 31.33,
-   "change": 0.26,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 31.33,
-     "change": 0.26
-    },
-    {
-     "date": "2026-10-20",
-     "close": 31.25,
-     "change": -1.95
-    },
-    {
-     "date": "2026-10-19",
-     "close": 31.87,
-     "change": 0.03
-    }
-   ],
-   "market_cap": 584637820.0,
-   "shares_outstanding": 18660639.0,
-   "industry": "Wholesale-Computers & Peripheral Equipment & Software",
-   "state_of_incorporation": "DE",
-   "hq": "EATONTOWN, NJ",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-22T21:59:35+09:00"
-  },
-  {
-   "id": "0001185185-26-004911",
-   "company": "Newbury Street II Acquisition Corp",
-   "ticker": "NTWO",
-   "cik": 2028027,
-   "form": "425",
-   "items": [
-    "1.01",
-    "3.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "EX-99.1 2 ntwo2ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 FORT Robotics Secures Approximately $20 Million in Additional Funding led by Tiger Global and Mark Cuban Companies Investors increase their commitments as FORT plans to become the first public company dedicated principally to physical AI safety PHI",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004911/0001185185-26-004911-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028027/000118518526004911/ntwo2ex99-1.htm",
-   "filed_at": "2026-10-22T08:32:11-04:00",
-   "filed_kst": "2026-10-22 21:32",
-   "price": 10.83,
-   "change": -0.09,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 10.83,
-     "change": -0.09
-    },
-    {
-     "date": "2026-10-20",
-     "close": 10.84,
-     "change": 0.18
-    },
-    {
-     "date": "2026-10-19",
-     "close": 10.82,
-     "change": -0.05
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Electrical Industrial Apparatus",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-22T21:32:52+09:00"
   }
  ]
 }
