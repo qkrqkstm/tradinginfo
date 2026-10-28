@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-29T00:49:35+09:00",
+ "updated_at": "2026-10-29T00:54:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-067786",
+   "company": "AerCap Holdings N.V.",
+   "ticker": "AER",
+   "cik": 1378789,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "• New $1 billion share repurchase program announced during the third quarter of 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1378789/000162828026067786/0001628280-26-067786-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1378789/000162828026067786/aer-09302026xinterimreport.htm",
+   "filed_at": "2026-10-28T11:51:00-04:00",
+   "filed_kst": "2026-10-29 00:51",
+   "price": 157.16,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 157.16,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 157.16,
+     "change": 4.74
+    },
+    {
+     "date": "2026-10-27",
+     "close": 150.05,
+     "change": 1.47
+    }
+   ],
+   "market_cap": 26226318127.0,
+   "shares_outstanding": 166876547.0,
+   "industry": "Services-Equipment Rental & Leasing, NEC",
+   "state_of_incorporation": "Netherlands",
+   "hq": "DUBLIN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T00:51:39+09:00"
+  },
   {
    "id": "0000840489-26-000101",
    "company": "FirstCash Holdings, Inc.",
@@ -15648,61 +15699,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-23T05:55:55+09:00"
-  },
-  {
-   "id": "0001384905-26-000058",
-   "company": "RingCentral, Inc.",
-   "ticker": "RNG",
-   "cik": 1384905,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 74,
-   "summary": "Our cash balance reflects the repurchase of $18 million in shares during the third quarter of 2026 under the share repurchase plans previously authorized by our Board.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1384905/000138490526000058/0001384905-26-000058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1384905/000138490526000058/rng-20260930x8kxex991.htm",
-   "filed_at": "2026-10-22T16:50:07-04:00",
-   "filed_kst": "2026-10-23 05:50",
-   "price": 79.42,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-22",
-     "close": 79.42,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 79.42,
-     "change": -3.64
-    },
-    {
-     "date": "2026-10-21",
-     "close": 82.42,
-     "change": 0.98
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": null,
-   "hq": "BELMONT, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-23T05:51:03+09:00"
   }
  ]
 }
