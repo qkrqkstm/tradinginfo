@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-29T06:24:12+09:00",
+ "updated_at": "2026-10-29T06:29:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-049110",
+   "company": "First Breach, Inc.",
+   "ticker": "FBDT",
+   "cik": 1892704,
+   "form": "8-K",
+   "items": [
+    "1.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Parties executed a joint venture agreement dated September 23, 2025 (“ JV Agreement ”) to jointly undertake the Business ( as defined in the JV Agreement ) through a C Corporation proposed to be incorporated under the laws of Delaware in the name “First Forge Technology Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1892704/000149315226049110/0001493152-26-049110-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1892704/000149315226049110/ex99-1.htm",
+   "filed_at": "2026-10-28T17:26:26-04:00",
+   "filed_kst": "2026-10-29 06:26",
+   "price": 0.98,
+   "change": 13.22,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 0.99,
+     "change": 13.22
+    },
+    {
+     "date": "2026-10-27",
+     "close": 0.87,
+     "change": 4.82
+    },
+    {
+     "date": "2026-10-26",
+     "close": 0.83,
+     "change": 10.67
+    }
+   ],
+   "market_cap": 54660677.0,
+   "shares_outstanding": 55776201.0,
+   "industry": "Ordnance & Accessories, (No Vehicles/Guided Missiles)",
+   "state_of_incorporation": "DE",
+   "hq": "BALTIMORE, MD",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-29T06:26:59+09:00"
+  },
   {
    "id": "0000918541-26-000118",
    "company": "NN INC",
@@ -15728,56 +15782,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-26T19:24:09+09:00"
-  },
-  {
-   "id": "0001648257-26-000068",
-   "company": "HUTCHMED (China) Ltd",
-   "ticker": "HCM",
-   "cik": 1648257,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.1 2 hcm-ex99d1.htm EX-99.1 Exhibit 99.1 ​ ​ Press Release ​ HUTCHMED Highlights SAFFRON Global Phase III Data Presented at ESMO Congress 2026 and Simultaneously Published in The New England Journal of Medicine ​ — ORPATHYS ® plus TAGRISSO ® reduced the risk of disease progression or death by 4",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000068/0001648257-26-000068-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000068/hcm-ex99d1.htm",
-   "filed_at": "2026-10-26T06:22:54-04:00",
-   "filed_kst": "2026-10-26 19:22",
-   "price": 14.36,
-   "change": 0.56,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 14.36,
-     "change": 0.56
-    },
-    {
-     "date": "2026-10-22",
-     "close": 14.28,
-     "change": -0.63
-    },
-    {
-     "date": "2026-10-21",
-     "close": 14.37,
-     "change": -2.51
-    }
-   ],
-   "market_cap": 12526624623.0,
-   "shares_outstanding": 872327620.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-26T19:23:37+09:00"
   }
  ]
 }
