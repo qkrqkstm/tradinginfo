@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-29T05:39:09+09:00",
+ "updated_at": "2026-10-29T05:44:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000916540-26-000027",
+   "company": "DARLING INGREDIENTS INC.",
+   "ticker": "DAR",
+   "cik": 916540,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "The Company’s announced share repurchase program may be suspended or discontinued at any time and purchases of shares under the program are su bject to market conditions and other factors, which are likely to change from time to time.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916540/000091654026000027/0000916540-26-000027-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/916540/000091654026000027/exh991-pressreleaseq32026.htm",
+   "filed_at": "2026-10-28T16:43:36-04:00",
+   "filed_kst": "2026-10-29 05:43",
+   "price": 55.46,
+   "change": -0.38,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 55.46,
+     "change": -0.38
+    },
+    {
+     "date": "2026-10-27",
+     "close": 55.67,
+     "change": -2.61
+    },
+    {
+     "date": "2026-10-26",
+     "close": 57.16,
+     "change": 1.64
+    }
+   ],
+   "market_cap": 8751749721.0,
+   "shares_outstanding": 157802916.0,
+   "industry": "Fats & Oils",
+   "state_of_incorporation": "DE",
+   "hq": "IRVING, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T05:44:14+09:00"
+  },
   {
    "id": "0001554855-26-002241",
    "company": "YPF SOCIEDAD ANONIMA",
@@ -15707,56 +15762,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-24T06:16:07+09:00"
-  },
-  {
-   "id": "0001213900-26-112183",
-   "company": "TREASURE GLOBAL INC",
-   "ticker": "TGL",
-   "cik": 1905956,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "6 Relationship of Parties: Nothing in this Agreement shall create a partnership, joint venture or relationship of principal and agent between the Parties.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1905956/000121390026112183/0001213900-26-112183-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1905956/000121390026112183/ea030952001ex10-1.htm",
-   "filed_at": "2026-10-23T17:15:27-04:00",
-   "filed_kst": "2026-10-24 06:15",
-   "price": 0.22,
-   "change": -6.54,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 0.22,
-     "change": -6.54
-    },
-    {
-     "date": "2026-10-22",
-     "close": 0.24,
-     "change": -8.85
-    },
-    {
-     "date": "2026-10-21",
-     "close": 0.26,
-     "change": -2.99
-    }
-   ],
-   "market_cap": 1135177.0,
-   "shares_outstanding": 5159897.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-24T06:16:04+09:00"
   }
  ]
 }
