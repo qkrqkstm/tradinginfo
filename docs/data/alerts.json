@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-28T19:54:38+09:00",
+ "updated_at": "2026-10-28T19:59:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000920148-26-000213",
+   "company": "LABCORP HOLDINGS INC.",
+   "ticker": "LH",
+   "cik": 920148,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "자사주매입",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 74,
+   "summary": "70; up 18 cents at the midpoint • Advanced M&A strategy by announcing or closing four transactions; each are expected to be accretive to adjusted EPS in year one and return cost of capital by year three • Received FDA approval of PGDx elio® tissue complete CDx as a companion diagnostic to help ident",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000213/0000920148-26-000213-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000213/form8-kexhibit9913q26.htm",
+   "filed_at": "2026-10-28T06:57:40-04:00",
+   "filed_kst": "2026-10-28 19:57",
+   "price": 331.17,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 331.17,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 331.17,
+     "change": 0.38
+    },
+    {
+     "date": "2026-10-26",
+     "close": 329.9,
+     "change": 0.29
+    }
+   ],
+   "market_cap": 26857887000.0,
+   "shares_outstanding": 81100000.0,
+   "industry": "Services-Medical Laboratories",
+   "state_of_incorporation": null,
+   "hq": "BURLINGTON, NC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-28T19:58:34+09:00"
+  },
   {
    "id": "0002127043-26-000015",
    "company": "Jersey Mike's Subs Inc.",
@@ -15638,63 +15693,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-22T21:32:52+09:00"
-  },
-  {
-   "id": "0001829126-26-011430",
-   "company": "CXApp Inc.",
-   "ticker": "CXAI",
-   "cik": 1820875,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "3.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "1 CXAI Announces $1 Million Share Repurchase Program and Standstill Agreement with Financing Partner; Targets Positive Operating Cash Flow by Q3 2027 Strategic initiatives designed to strengthen capital structure, enhance financial discipline and support long-term shareholder value P",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1820875/000182912626011430/0001829126-26-011430-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1820875/000182912626011430/cxappinc_ex99-1.htm",
-   "filed_at": "2026-10-22T08:30:27-04:00",
-   "filed_kst": "2026-10-22 21:30",
-   "price": 1.92,
-   "change": -2.54,
-   "price_history": [
-    {
-     "date": "2026-10-21",
-     "close": 1.92,
-     "change": -2.54
-    },
-    {
-     "date": "2026-10-20",
-     "close": 1.97,
-     "change": 4.23
-    },
-    {
-     "date": "2026-10-19",
-     "close": 1.89,
-     "change": -1.56
-    }
-   ],
-   "market_cap": 224391005.0,
-   "shares_outstanding": 116870315.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-22T21:31:18+09:00"
   }
  ]
 }
