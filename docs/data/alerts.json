@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-29T19:14:40+09:00",
+ "updated_at": "2026-10-29T19:19:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001590364-26-000092",
+   "company": "FTAI Aviation Ltd.",
+   "ticker": "FTAI",
+   "cik": 1590364,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 77,
+   "summary": "0 Million Accelerated Share Repurchase Third Quarter 2026 Highlights • Net income attributable to shareholders up 26.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1590364/000159036426000092/0001590364-26-000092-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1590364/000159036426000092/ftai9302026earningsrelease.htm",
+   "filed_at": "2026-10-29T06:17:08-04:00",
+   "filed_kst": "2026-10-29 19:17",
+   "price": 167.14,
+   "change": 5.34,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 167.14,
+     "change": 5.34
+    },
+    {
+     "date": "2026-10-27",
+     "close": 158.67,
+     "change": 0.69
+    },
+    {
+     "date": "2026-10-26",
+     "close": 157.59,
+     "change": 2.09
+    }
+   ],
+   "market_cap": 17166463190.0,
+   "shares_outstanding": 102707091.0,
+   "industry": "Services-Miscellaneous Equipment Rental & Leasing",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T19:18:04+09:00"
+  },
   {
    "id": "0001292814-26-005038",
    "company": "AMBEV S.A.",
@@ -15733,57 +15787,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-26T20:05:32+09:00"
-  },
-  {
-   "id": "0000775215-26-000087",
-   "company": "Tri-County Financial Group, Inc.",
-   "ticker": "TYFG",
-   "cik": 1725262,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously announced, TYFG entered into an Agreement and Plan of Merger, dated August 10, 2026 (“ Merger Agreement ”), with HBT and HB-TYFG Merger, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1725262/000077521526000087/0000775215-26-000087-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1725262/000077521526000087/hbt-20261026x425.htm",
-   "filed_at": "2026-10-26T07:04:53-04:00",
-   "filed_kst": "2026-10-26 20:04",
-   "price": 81.0,
-   "change": 0.14,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 81.0,
-     "change": 0.14
-    },
-    {
-     "date": "2026-10-22",
-     "close": 80.89,
-     "change": 1.11
-    },
-    {
-     "date": "2026-10-21",
-     "close": 80.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 193595508.0,
-   "shares_outstanding": 2390068.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "MENDOTA, IL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-26T20:05:31+09:00"
   }
  ]
 }
