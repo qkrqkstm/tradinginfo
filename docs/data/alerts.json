@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-29T20:19:21+09:00",
+ "updated_at": "2026-10-29T20:24:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001792789-26-000062",
+   "company": "DoorDash, Inc.",
+   "ticker": "DASH",
+   "cik": 1792789,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "In February 2025, our board of directors authorized the repurchase of up to $5.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000062/0001792789-26-000062-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000062/proddashex991-pressrelease.htm",
+   "filed_at": "2026-10-29T07:21:00-04:00",
+   "filed_kst": "2026-10-29 20:21",
+   "price": 169.49,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 169.49,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 169.49,
+     "change": -0.63
+    },
+    {
+     "date": "2026-10-27",
+     "close": 170.56,
+     "change": 1.26
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "NV",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:21:36+09:00"
+  },
   {
    "id": "0000876883-26-000030",
    "company": "Stagwell Inc",
@@ -15776,61 +15831,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T05:11:36+09:00"
-  },
-  {
-   "id": "0001104659-26-118780",
-   "company": "AUDIOEYE INC",
-   "ticker": "AEYE",
-   "cik": 1362190,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "We also expect to generate significant cash going forward and recently announced a stock repurchase program of $15 million, which represents 15% of the outstanding shares at current prices,” said Kelly Georgevich, Chief Executive Officer of AudioEye.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1362190/000110465926118780/0001104659-26-118780-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1362190/000110465926118780/aeye-ex99d1.htm",
-   "filed_at": "2026-10-26T16:09:45-04:00",
-   "filed_kst": "2026-10-27 05:09",
-   "price": 7.42,
-   "change": -8.17,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 7.42,
-     "change": -8.17
-    },
-    {
-     "date": "2026-10-23",
-     "close": 8.08,
-     "change": -0.25
-    },
-    {
-     "date": "2026-10-22",
-     "close": 8.1,
-     "change": 2.79
-    }
-   ],
-   "market_cap": 93266981.0,
-   "shares_outstanding": 12569674.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "TUCSON, AZ",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-27T05:10:33+09:00"
   }
  ]
 }
