@@ -1,7 +1,117 @@
 {
- "updated_at": "2026-10-29T20:24:40+09:00",
+ "updated_at": "2026-10-29T20:29:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001792789-26-000065",
+   "company": "Maplebear Inc.",
+   "ticker": "CART",
+   "cik": 1579091,
+   "form": "425",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "In February 2025, our board of directors authorized the repurchase of up to $5.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579091/000179278926000065/0001792789-26-000065-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579091/000179278926000065/dashform425combined.htm",
+   "filed_at": "2026-10-29T07:28:55-04:00",
+   "filed_kst": "2026-10-29 20:28",
+   "price": 58.42,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 58.42,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 58.42,
+     "change": -2.76
+    },
+    {
+     "date": "2026-10-27",
+     "close": 60.08,
+     "change": -1.31
+    }
+   ],
+   "market_cap": 13524233914.0,
+   "shares_outstanding": 231500067.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:29:34+09:00"
+  },
+  {
+   "id": "0001792789-26-000065",
+   "company": "DoorDash, Inc.",
+   "ticker": "DASH",
+   "cik": 1792789,
+   "form": "425",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "In February 2025, our board of directors authorized the repurchase of up to $5.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000065/0001792789-26-000065-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000065/dashform425combined.htm",
+   "filed_at": "2026-10-29T07:28:55-04:00",
+   "filed_kst": "2026-10-29 20:28",
+   "price": 169.49,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 169.49,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 169.49,
+     "change": -0.63
+    },
+    {
+     "date": "2026-10-27",
+     "close": 170.56,
+     "change": 1.26
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "NV",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:29:32+09:00"
+  },
   {
    "id": "0001792789-26-000062",
    "company": "DoorDash, Inc.",
@@ -15722,115 +15832,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-27T05:13:52+09:00"
-  },
-  {
-   "id": "0001628280-26-067283",
-   "company": "Public Storage",
-   "ticker": "PSA",
-   "cik": 1393311,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 62,
-   "summary": "2 Investment and Third-Party Management Activity NSA Acquisition: On July 22, 2026, the Company completed the acquisition of NSA in an all-stock transaction (the \"NSA Acquisition\"), expanding the Public Storage portfolio to over 4,500 locations and more than 327 million operating square feet.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/0001628280-26-067283-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/psa-102626xex99_1.htm",
-   "filed_at": "2026-10-26T16:11:58-04:00",
-   "filed_kst": "2026-10-27 05:11",
-   "price": 306.79,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 306.79,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 306.79,
-     "change": -1.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 309.89,
-     "change": 0.25
-    }
-   ],
-   "market_cap": 53878807700.0,
-   "shares_outstanding": 175621134.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "FRISCO, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T05:12:47+09:00"
-  },
-  {
-   "id": "0001193125-26-431927",
-   "company": "GREENBRIER COMPANIES INC",
-   "ticker": "GBX",
-   "cik": 923120,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through its wholly-owned subsidiaries and joint ventures, Greenbrier designs, builds and markets freight railcars in North America, Europe, and Brazil.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526431927/0001193125-26-431927-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526431927/gbx-ex99_1.htm",
-   "filed_at": "2026-10-26T16:10:15-04:00",
-   "filed_kst": "2026-10-27 05:10",
-   "price": 38.22,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 38.22,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 38.22,
-     "change": 0.34
-    },
-    {
-     "date": "2026-10-23",
-     "close": 38.09,
-     "change": -1.78
-    }
-   ],
-   "market_cap": 1182514799.0,
-   "shares_outstanding": 30939686.0,
-   "industry": "Railroad Equipment",
-   "state_of_incorporation": "OR",
-   "hq": "LAKE OSWEGO, OR",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T05:11:36+09:00"
   }
  ]
 }
