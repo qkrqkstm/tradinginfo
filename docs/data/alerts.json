@@ -1,7 +1,56 @@
 {
- "updated_at": "2026-10-30T02:44:27+09:00",
+ "updated_at": "2026-10-30T02:49:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178819-26-000094",
+   "company": "ALAMOS GOLD INC",
+   "ticker": "AGI",
+   "cik": 1178819,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "5 — Repurchase and cancellation of common shares (Note 10 ( a)) (15.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178819/000117881926000094/0001178819-26-000094-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1178819/000117881926000094/ex99209302026mda.htm",
+   "filed_at": "2026-10-29T13:43:47-04:00",
+   "filed_kst": "2026-10-30 02:43",
+   "price": 29.0,
+   "change": -8.43,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 29.0,
+     "change": -8.43
+    },
+    {
+     "date": "2026-10-28",
+     "close": 31.67,
+     "change": 1.57
+    },
+    {
+     "date": "2026-10-27",
+     "close": 31.18,
+     "change": 3.21
+    }
+   ],
+   "market_cap": 12175961576.0,
+   "shares_outstanding": 419860744.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO",
+   "entity_category": null,
+   "detected_at": "2026-10-30T02:45:32+09:00"
+  },
   {
    "id": "0001193125-26-437439",
    "company": "Enerflex Ltd.",
@@ -15819,56 +15868,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T19:32:48+09:00"
-  },
-  {
-   "id": "0001193125-26-432589",
-   "company": "SHINHAN FINANCIAL GROUP CO LTD",
-   "ticker": "SHG",
-   "cik": 1263043,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "Form 20-F  Form 40-F  Announcement on Cancellation of Shares On October 27, 2026, the board of directors of Shinhan Financial Group Co.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1263043/000119312526432589/0001193125-26-432589-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1263043/000119312526432589/6k_261027_cancellation.htm",
-   "filed_at": "2026-10-27T06:21:38-04:00",
-   "filed_kst": "2026-10-27 19:21",
-   "price": 65.24,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 65.24,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 65.24,
-     "change": -1.6
-    },
-    {
-     "date": "2026-10-23",
-     "close": 66.3,
-     "change": -2.37
-    }
-   ],
-   "market_cap": 31129748711.0,
-   "shares_outstanding": 477157399.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": null,
-   "hq": "SEOUL100-102",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:22:04+09:00"
   }
  ]
 }
