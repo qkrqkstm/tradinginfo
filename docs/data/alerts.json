@@ -1,7 +1,222 @@
 {
- "updated_at": "2026-10-30T05:49:17+09:00",
+ "updated_at": "2026-10-30T05:54:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001590584-26-000089",
+   "company": "Civeo Corp",
+   "ticker": "CVEO",
+   "cik": 1590584,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 77,
+   "summary": "3 million, completing the 20% share repurchase authorization approved by the Board of Directors in April 2025 and bringing the Company’s additional 10% authorization to approximately 50% complete as of September 30, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1590584/000159058426000089/0001590584-26-000089-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1590584/000159058426000089/cveo-09302026xrelease.htm",
+   "filed_at": "2026-10-29T16:52:00-04:00",
+   "filed_kst": "2026-10-30 05:52",
+   "price": 30.55,
+   "change": 1.09,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 30.55,
+     "change": 1.09
+    },
+    {
+     "date": "2026-10-28",
+     "close": 30.22,
+     "change": -0.76
+    },
+    {
+     "date": "2026-10-27",
+     "close": 30.45,
+     "change": 5.36
+    }
+   ],
+   "market_cap": 315791042.0,
+   "shares_outstanding": 10336859.0,
+   "industry": "Hotels, Rooming Houses, Camps & Other Lodging Places",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:52:43+09:00"
+  },
+  {
+   "id": "0001493152-26-049292",
+   "company": "OFA Group",
+   "ticker": "OFAL",
+   "cik": 2036307,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Nothing in this Agreement creates a partnership, agency, joint venture or agreement among the Investor Parties to act as a group for purposes of the federal securities laws, and each Investor Party retains the independent right to enforce its rights.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2036307/000149315226049292/0001493152-26-049292-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2036307/000149315226049292/ex10-2.htm",
+   "filed_at": "2026-10-29T16:50:56-04:00",
+   "filed_kst": "2026-10-30 05:50",
+   "price": 0.31,
+   "change": 0.06,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 0.31,
+     "change": 0.06
+    },
+    {
+     "date": "2026-10-29",
+     "close": 0.31,
+     "change": 1.57
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.31,
+     "change": -1.29
+    }
+   ],
+   "market_cap": 8174862.0,
+   "shares_outstanding": 26370521.0,
+   "industry": "Services-Engineering Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "ROLLING HILLS, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-30T05:51:36+09:00"
+  },
+  {
+   "id": "0001008886-26-000226",
+   "company": "COVENANT LOGISTICS GROUP, INC.",
+   "ticker": "CVLG",
+   "cik": 928658,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "During the quarter, our Expedited fleet continued to transition to multi-year committed capacity agreements.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000226/0001008886-26-000226-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/928658/000100888626000226/exhibit991.htm",
+   "filed_at": "2026-10-29T16:50:05-04:00",
+   "filed_kst": "2026-10-30 05:50",
+   "price": 28.82,
+   "change": -0.52,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 28.82,
+     "change": -0.52
+    },
+    {
+     "date": "2026-10-28",
+     "close": 28.97,
+     "change": -3.21
+    },
+    {
+     "date": "2026-10-27",
+     "close": 29.93,
+     "change": 3.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Trucking (No Local)",
+   "state_of_incorporation": "NV",
+   "hq": "CHATTANOOGA, TN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:51:03+09:00"
+  },
+  {
+   "id": "0000015615-26-000127",
+   "company": "MASTEC INC",
+   "ticker": "MTZ",
+   "cik": 15615,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 70,
+   "summary": "Our estimated backlog also includes amounts under master service and other service agreements and our proportionate share of estimated revenue from proportionately consolidated non-controlled contractual joint ventures.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/15615/000001561526000127/0000015615-26-000127-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/15615/000001561526000127/mtz930268-kex991.htm",
+   "filed_at": "2026-10-29T16:49:54-04:00",
+   "filed_kst": "2026-10-30 05:49",
+   "price": 177.82,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 177.82,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 177.82,
+     "change": -1.76
+    },
+    {
+     "date": "2026-10-28",
+     "close": 181.0,
+     "change": 2.55
+    }
+   ],
+   "market_cap": 14279094124.0,
+   "shares_outstanding": 80300833.0,
+   "industry": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+   "state_of_incorporation": "FL",
+   "hq": "CORAL GABLES, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:50:29+09:00"
+  },
   {
    "id": "0000779152-26-000092",
    "company": "JACK HENRY & ASSOCIATES INC",
@@ -15698,218 +15913,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T05:18:24+09:00"
-  },
-  {
-   "id": "0001500217-26-000049",
-   "company": "American Assets Trust, Inc.",
-   "ticker": "AAT",
-   "cik": 1500217,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.2 3 a3q26supplemental.htm SUPPLEMENTAL INFORMATION Document THIRD QUARTER 2026 Supplemental Information Investor and Media Contact American Assets Trust, Inc. Robert F. Barton Executive Vice President and Chief Financial Officer 858-350-2607 American Assets Trust, Inc.'s Portfolio is concentra",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/0001500217-26-000049-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/a3q26supplemental.htm",
-   "filed_at": "2026-10-27T16:16:27-04:00",
-   "filed_kst": "2026-10-28 05:16",
-   "price": 21.22,
-   "change": -0.89,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 21.22,
-     "change": -0.89
-    },
-    {
-     "date": "2026-10-26",
-     "close": 21.41,
-     "change": 0.23
-    },
-    {
-     "date": "2026-10-23",
-     "close": 21.36,
-     "change": 0.33
-    }
-   ],
-   "market_cap": 1302715662.0,
-   "shares_outstanding": 61390936.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:17:20+09:00"
-  },
-  {
-   "id": "0001193125-26-434245",
-   "company": "Distribution Solutions Group, Inc.",
-   "ticker": "DSGR",
-   "cik": 703604,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a Delaware corporation (“DSG” or the “Company”), entered into an Agreement and Plan of Merger (the “Grade Eight Merger Agreement”) with GradeEight Holdings, LLC, a Delaware limited liability company (“GradeEight”), 301 Grade Eight Merger Sub, LLC, a Delaware limited liability company and wholly ow",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526434245/0001193125-26-434245-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526434245/d70829dex991.htm",
-   "filed_at": "2026-10-27T16:15:32-04:00",
-   "filed_kst": "2026-10-28 05:15",
-   "price": 35.02,
-   "change": 0.03,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 35.02,
-     "change": 0.03
-    },
-    {
-     "date": "2026-10-26",
-     "close": 35.01,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 35.01,
-     "change": -0.17
-    }
-   ],
-   "market_cap": 1619864878.0,
-   "shares_outstanding": 46255422.0,
-   "industry": "Wholesale-Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "FORT WORTH, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:16:02+09:00"
-  },
-  {
-   "id": "0001025378-26-000129",
-   "company": "W. P. Carey Inc.",
-   "ticker": "WPC",
-   "cik": 1025378,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 73,
-   "summary": "EX-99.2 3 wpc2026q3supplementalexh992.htm EX-99.2 Document Exhibit 99.2 W. P. Carey Inc. Supplemental Information Third Quarter 2026 Terms and Definitions As used in this supplemental package, the terms “W. P. Carey,” “WPC,” “we,” “us” and “our” include W. P. Carey Inc., its consolidated subsidiarie",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1025378/000102537826000129/0001025378-26-000129-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1025378/000102537826000129/wpc2026q3supplementalexh992.htm",
-   "filed_at": "2026-10-27T16:13:01-04:00",
-   "filed_kst": "2026-10-28 05:13",
-   "price": 63.48,
-   "change": -1.41,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 63.48,
-     "change": -1.41
-    },
-    {
-     "date": "2026-10-26",
-     "close": 64.39,
-     "change": 0.77
-    },
-    {
-     "date": "2026-10-23",
-     "close": 63.9,
-     "change": -0.99
-    }
-   ],
-   "market_cap": 14461815479.0,
-   "shares_outstanding": 227816879.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:13:48+09:00"
-  },
-  {
-   "id": "0001037540-26-000041",
-   "company": "BXP, Inc.",
-   "ticker": "BXP",
-   "cik": 1037540,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 59,
-   "summary": "As of September 30, 2026, including properties owned by joint ventures, BXP’s portfolio totals 50.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1037540/000103754026000041/0001037540-26-000041-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1037540/000103754026000041/q32026supplemental.htm",
-   "filed_at": "2026-10-27T16:10:19-04:00",
-   "filed_kst": "2026-10-28 05:10",
-   "price": 60.92,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 60.92,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 60.92,
-     "change": -2.15
-    },
-    {
-     "date": "2026-10-26",
-     "close": 62.26,
-     "change": 0.26
-    }
-   ],
-   "market_cap": 9726581992.0,
-   "shares_outstanding": 159661556.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:12:13+09:00"
   }
  ]
 }
