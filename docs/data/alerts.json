@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-29T19:29:29+09:00",
+ "updated_at": "2026-10-29T19:34:18+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001804176-26-000038",
+   "company": "Butterfly Network, Inc.",
+   "ticker": "BFLY",
+   "cik": 1804176,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 65,
+   "summary": "• Medical Education: Announced the Lighthouse program with VCOM, a multi-year partnership to equip every VCOM student with a Butterfly device and generate insights on POCUS use from medical school into residency.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1804176/000180417626000038/0001804176-26-000038-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1804176/000180417626000038/bfly-20261029xexx991.htm",
+   "filed_at": "2026-10-29T06:33:45-04:00",
+   "filed_kst": "2026-10-29 19:33",
+   "price": 7.81,
+   "change": 5.83,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 7.81,
+     "change": 5.83
+    },
+    {
+     "date": "2026-10-27",
+     "close": 7.38,
+     "change": 10.81
+    },
+    {
+     "date": "2026-10-26",
+     "close": 6.66,
+     "change": -1.48
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "X-Ray Apparatus & Tubes & Related Irradiation Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "BURLINGTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-29T19:34:16+09:00"
+  },
   {
    "id": "0001590364-26-000092",
    "company": "FTAI Aviation Ltd.",
@@ -15737,56 +15792,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-26T20:10:31+09:00"
-  },
-  {
-   "id": "0000775215-26-000087",
-   "company": "HBT Financial, Inc.",
-   "ticker": "HBT",
-   "cik": 775215,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously announced, TYFG entered into an Agreement and Plan of Merger, dated August 10, 2026 (“ Merger Agreement ”), with HBT and HB-TYFG Merger, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000087/0000775215-26-000087-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000087/hbt-20261026x425.htm",
-   "filed_at": "2026-10-26T07:04:53-04:00",
-   "filed_kst": "2026-10-26 20:04",
-   "price": 36.24,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 36.24,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 36.24,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 36.24,
-     "change": 2.66
-    }
-   ],
-   "market_cap": 1317889779.0,
-   "shares_outstanding": 36365612.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "BLOOMINGTON, IL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-26T20:05:32+09:00"
   }
  ]
 }
