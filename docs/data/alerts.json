@@ -1,7 +1,543 @@
 {
- "updated_at": "2026-10-30T05:09:39+09:00",
+ "updated_at": "2026-10-30T05:14:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000868671-26-000078",
+   "company": "GLACIER BANCORP, INC.",
+   "ticker": "GBCI",
+   "cik": 868671,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "1 to this report, announcing that the Board of Directors of the Company approved a share repurchase program on October 29, 2026, under which the Company’s Chief Executive Officer, Chief Financial Officer, Deputy Chief Financial Officer, and each of them, are authorized to direct the purchase of up t",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/868671/000086867126000078/0000868671-26-000078-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/868671/000086867126000078/gbci-20261029.htm",
+   "filed_at": "2026-10-29T16:13:37-04:00",
+   "filed_kst": "2026-10-30 05:13",
+   "price": 48.77,
+   "change": 1.37,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 48.77,
+     "change": 1.37
+    },
+    {
+     "date": "2026-10-28",
+     "close": 48.11,
+     "change": -1.94
+    },
+    {
+     "date": "2026-10-27",
+     "close": 49.06,
+     "change": 0.12
+    }
+   ],
+   "market_cap": 6350436948.0,
+   "shares_outstanding": 130211953.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "MT",
+   "hq": "KALISPELL, MT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:14:33+09:00"
+  },
+  {
+   "id": "0001213900-26-113807",
+   "company": "EQT Corp",
+   "ticker": "EQT",
+   "cik": 33213,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Rice, President and Chief Executive Officer of EQT Corporation (“EQT”), to CNBC on October 29, 2026 regarding EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agree",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026113807/0001213900-26-113807-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026113807/ea0310233-425_eqtcorp.htm",
+   "filed_at": "2026-10-29T16:12:39-04:00",
+   "filed_kst": "2026-10-30 05:12",
+   "price": 54.55,
+   "change": -2.97,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 54.55,
+     "change": -2.97
+    },
+    {
+     "date": "2026-10-28",
+     "close": 56.22,
+     "change": -0.09
+    },
+    {
+     "date": "2026-10-27",
+     "close": 56.27,
+     "change": 2.59
+    }
+   ],
+   "market_cap": 34123697950.0,
+   "shares_outstanding": 625549000.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "PA",
+   "hq": "CANONSBURG, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:13:28+09:00"
+  },
+  {
+   "id": "0001213900-26-113807",
+   "company": "RANGE RESOURCES CORP",
+   "ticker": "RRC",
+   "cik": 315852,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Rice, President and Chief Executive Officer of EQT Corporation (“EQT”), to CNBC on October 29, 2026 regarding EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agree",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026113807/0001213900-26-113807-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026113807/ea0310233-425_eqtcorp.htm",
+   "filed_at": "2026-10-29T16:12:39-04:00",
+   "filed_kst": "2026-10-30 05:12",
+   "price": 53.88,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 53.88,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 53.88,
+     "change": -3.57
+    },
+    {
+     "date": "2026-10-28",
+     "close": 55.88,
+     "change": -0.89
+    }
+   ],
+   "market_cap": 12591260789.0,
+   "shares_outstanding": 233690809.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "FT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:13:26+09:00"
+  },
+  {
+   "id": "0001790340-26-000095",
+   "company": "Immuneering Corp",
+   "ticker": "IMRX",
+   "cik": 1790340,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "EX-99.1 2 imrx-20261029xexx991.htm EX-99.1 Document Exhibit 99.1 Immuneering Reports Third Quarter 2026 Financial Results and Provides Business Updates - Phase 2 pancreatic cancer follow-up extended as patients on atebimetinib combinations live longer than projected - - Updated Phase 2 atebimetinib ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1790340/000179034026000095/0001790340-26-000095-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1790340/000179034026000095/imrx-20261029xexx991.htm",
+   "filed_at": "2026-10-29T16:12:11-04:00",
+   "filed_kst": "2026-10-30 05:12",
+   "price": 4.02,
+   "change": 0.75,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 4.02,
+     "change": 0.75
+    },
+    {
+     "date": "2026-10-28",
+     "close": 3.99,
+     "change": 4.18
+    },
+    {
+     "date": "2026-10-27",
+     "close": 3.83,
+     "change": 3.23
+    }
+   ],
+   "market_cap": 104271017.0,
+   "shares_outstanding": 25938064.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-30T05:13:13+09:00"
+  },
+  {
+   "id": "0001743725-26-000029",
+   "company": "GRID DYNAMICS HOLDINGS, INC.",
+   "ticker": "GDYN",
+   "cik": 1743725,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "3 million shares during the nine months ended September 30, 2026, under its $50 million share repurchase program, which included $6.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1743725/000174372526000029/0001743725-26-000029-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1743725/000174372526000029/grid-20260930xex991.htm",
+   "filed_at": "2026-10-29T16:11:48-04:00",
+   "filed_kst": "2026-10-30 05:11",
+   "price": 9.49,
+   "change": 8.46,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 9.49,
+     "change": 8.46
+    },
+    {
+     "date": "2026-10-28",
+     "close": 8.75,
+     "change": 1.04
+    },
+    {
+     "date": "2026-10-27",
+     "close": 8.66,
+     "change": 0.58
+    }
+   ],
+   "market_cap": 769894101.0,
+   "shares_outstanding": 81126881.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "SAN RAMON, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:12:37+09:00"
+  },
+  {
+   "id": "0001628280-26-068235",
+   "company": "Roblox Corp",
+   "ticker": "RBLX",
+   "cik": 1315098,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "2 billion as of September 30, 2026, a year-over-year increase of $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1315098/000162828026068235/0001628280-26-068235-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1315098/000162828026068235/ex991-q32026earningsshar.htm",
+   "filed_at": "2026-10-29T16:10:59-04:00",
+   "filed_kst": "2026-10-30 05:10",
+   "price": 52.53,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 52.53,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 52.53,
+     "change": -1.41
+    },
+    {
+     "date": "2026-10-28",
+     "close": 53.28,
+     "change": -2.18
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "NV",
+   "hq": "SAN MATEO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:11:58+09:00"
+  },
+  {
+   "id": "0000310764-26-000059",
+   "company": "STRYKER CORP",
+   "ticker": "SYK",
+   "cik": 310764,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "In October 2026 our Board of Directors approved an increase of $3.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/310764/000031076426000059/0000310764-26-000059-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/310764/000031076426000059/sykex991earningsq32026.htm",
+   "filed_at": "2026-10-29T16:11:16-04:00",
+   "filed_kst": "2026-10-30 05:11",
+   "price": 311.75,
+   "change": 2.55,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 311.75,
+     "change": 2.55
+    },
+    {
+     "date": "2026-10-28",
+     "close": 304.0,
+     "change": 0.86
+    },
+    {
+     "date": "2026-10-27",
+     "close": 301.42,
+     "change": -1.54
+    }
+   ],
+   "market_cap": 119578897090.0,
+   "shares_outstanding": 383573046.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "MI",
+   "hq": "PORTAGE, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:11:56+09:00"
+  },
+  {
+   "id": "0001356576-26-000050",
+   "company": "SUPERNUS PHARMACEUTICALS, INC.",
+   "ticker": "SUPN",
+   "cik": 1356576,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "In addition, the Company submitted a supplemental New Drug Application (sNDA) for a second supplier for ONAPGO, with potential FDA approval by mid-year 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1356576/000135657626000050/0001356576-26-000050-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1356576/000135657626000050/ex991earningsrelease.htm",
+   "filed_at": "2026-10-29T16:08:49-04:00",
+   "filed_kst": "2026-10-30 05:08",
+   "price": 41.84,
+   "change": 1.85,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 41.84,
+     "change": 1.85
+    },
+    {
+     "date": "2026-10-28",
+     "close": 41.08,
+     "change": 0.29
+    },
+    {
+     "date": "2026-10-27",
+     "close": 40.96,
+     "change": 0.47
+    }
+   ],
+   "market_cap": 2432034224.0,
+   "shares_outstanding": 58127013.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "ROCKVILLE, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:10:51+09:00"
+  },
+  {
+   "id": "0001628280-26-068232",
+   "company": "Ingram Micro Holding Corp",
+   "ticker": "INGM",
+   "cik": 1897762,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 61,
+   "summary": "1 Ingram Micro Reports Record Q3 2026 Results, with Solid Double-Digit Growth in Net Sales and Net Income and Strong Cash Flow Generation; Raised Full Year Guidance from September Capital Markets Day Fiscal Third Quarter 2026 Highlights: • Exceeded high end of guidance on all financial metrics • Net",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1897762/000162828026068232/0001628280-26-068232-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1897762/000162828026068232/earningsreleaseq326.htm",
+   "filed_at": "2026-10-29T16:09:27-04:00",
+   "filed_kst": "2026-10-30 05:09",
+   "price": 28.59,
+   "change": 0.67,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 28.59,
+     "change": 0.67
+    },
+    {
+     "date": "2026-10-28",
+     "close": 28.4,
+     "change": 0.35
+    },
+    {
+     "date": "2026-10-27",
+     "close": 28.3,
+     "change": -0.63
+    }
+   ],
+   "market_cap": 6594623835.0,
+   "shares_outstanding": 230661904.0,
+   "industry": "Wholesale-Computers & Peripheral Equipment & Software",
+   "state_of_incorporation": "DE",
+   "hq": "IRVINE, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:10:45+09:00"
+  },
+  {
+   "id": "0000939767-26-000114",
+   "company": "EXELIXIS, INC.",
+   "ticker": "EXEL",
+   "cik": 939767,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "As we execute on our priorities, we remain disciplined in our deployment of capital as we invest in our R&D portfolio, return value to shareholders through our stock repurchase program and actively evaluate external innovation opportunities that can strengthen our pipeline and create long-term value",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/939767/000093976726000114/0000939767-26-000114-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/939767/000093976726000114/exel20260930exhibit991.htm",
+   "filed_at": "2026-10-29T16:09:44-04:00",
+   "filed_kst": "2026-10-30 05:09",
+   "price": 66.2,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 66.2,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 66.2,
+     "change": -0.12
+    },
+    {
+     "date": "2026-10-28",
+     "close": 66.28,
+     "change": 1.42
+    }
+   ],
+   "market_cap": 16403148010.0,
+   "shares_outstanding": 247781692.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "ALAMEDA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:10:44+09:00"
+  },
   {
    "id": "0001381668-26-000045",
    "company": "TFS Financial CORP",
@@ -15363,541 +15899,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-27T22:21:37+09:00"
-  },
-  {
-   "id": "0000049826-26-000057",
-   "company": "ILLINOIS TOOL WORKS INC",
-   "ticker": "ITW",
-   "cik": 49826,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과",
-    "가이던스상향"
-   ],
-   "confidence": 69,
-   "summary": "“Our top-line results reflect accelerating demand in our capex-related segments, Welding and Test & Measurement and Electronics, continued strength in Polymers & Fluids segment, and a meaningful increase in the contribution to revenue growth from our Customer-Back",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/49826/000004982626000057/0000049826-26-000057-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/49826/000004982626000057/a20260930-3q26ex991pressre.htm",
-   "filed_at": "2026-10-27T09:20:19-04:00",
-   "filed_kst": "2026-10-27 22:20",
-   "price": 276.22,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 276.22,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 276.22,
-     "change": 0.17
-    },
-    {
-     "date": "2026-10-23",
-     "close": 275.75,
-     "change": -1.25
-    }
-   ],
-   "market_cap": 78667456000.0,
-   "shares_outstanding": 284800000.0,
-   "industry": "General Industrial Machinery & Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "GLENVIEW, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T22:21:04+09:00"
-  },
-  {
-   "id": "0001718939-26-000062",
-   "company": "T Stamp Inc",
-   "ticker": "IDAI",
-   "cik": 1718939,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "- Nasdaq: IDAI (“Trust Stamp” or “The Company’) Trust Stamp signs Multi-Year Agreement to provide AI-Powered Identity Solutions for government programs in Nigeria, in a Multi-Year, Multi-Million-Dollar Engagement ATLANTA, GA - October 26, 2026: Trust Stamp (NASDAQ:IDAI), a global provider of AI-powe",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1718939/000171893926000062/0001718939-26-000062-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1718939/000171893926000062/ex991pr.htm",
-   "filed_at": "2026-10-27T09:14:03-04:00",
-   "filed_kst": "2026-10-27 22:14",
-   "price": 2.38,
-   "change": -12.5,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 2.38,
-     "change": -12.5
-    },
-    {
-     "date": "2026-10-23",
-     "close": 2.72,
-     "change": 2.06
-    },
-    {
-     "date": "2026-10-22",
-     "close": 2.66,
-     "change": -2.38
-    }
-   ],
-   "market_cap": 13421513.0,
-   "shares_outstanding": 5639291.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T22:14:40+09:00"
-  },
-  {
-   "id": "0001941536-26-000031",
-   "company": "Bridger Aerospace Group Holdings, Inc.",
-   "ticker": "BAER",
-   "cik": 1941536,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The Agreement has an estimated total revenue potential of up to $183 million (over the life of the Agreement, assuming full commitment and induction of all three aircraft and exercise of each additional renewal term), which aggregate amount reflects (i) anticipated fees during a modification and cer",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1941536/000194153626000031/0001941536-26-000031-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1941536/000194153626000031/baer-20261022.htm",
-   "filed_at": "2026-10-27T09:07:48-04:00",
-   "filed_kst": "2026-10-27 22:07",
-   "price": 0.46,
-   "change": -0.11,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 0.46,
-     "change": -0.11
-    },
-    {
-     "date": "2026-10-26",
-     "close": 0.46,
-     "change": -5.7
-    },
-    {
-     "date": "2026-10-23",
-     "close": 0.49,
-     "change": 4.25
-    }
-   ],
-   "market_cap": 27060024.0,
-   "shares_outstanding": 58826140.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "BELGRADE, MT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T22:08:34+09:00"
-  },
-  {
-   "id": "0000714562-26-000068",
-   "company": "FIRST FINANCIAL CORP /IN/",
-   "ticker": "THFF",
-   "cik": 714562,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 76,
-   "summary": "518,860 shares remain available for repurchase under the current repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/714562/000071456226000068/0000714562-26-000068-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/714562/000071456226000068/thff-ex99d1.htm",
-   "filed_at": "2026-10-27T09:01:30-04:00",
-   "filed_kst": "2026-10-27 22:01",
-   "price": 76.46,
-   "change": -0.27,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 76.46,
-     "change": -0.27
-    },
-    {
-     "date": "2026-10-23",
-     "close": 76.67,
-     "change": 0.64
-    },
-    {
-     "date": "2026-10-22",
-     "close": 76.18,
-     "change": 2.13
-    }
-   ],
-   "market_cap": 909254368.0,
-   "shares_outstanding": 11891896.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "IN",
-   "hq": "TERRE HAUTE, IN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-27T22:02:30+09:00"
-  },
-  {
-   "id": "0001104659-26-119002",
-   "company": "COMMUNITY FINANCIAL SYSTEM, INC.",
-   "ticker": "CBU",
-   "cik": 723188,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 80,
-   "summary": "Dividend Increase and Stock Repurchase Program The payment of a meaningful and growing dividend is an important component of the Company’s commitment to provide consistent and favorable long-term returns to its shareholders, and it reflects the continued strength of",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/723188/000110465926119002/0001104659-26-119002-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/723188/000110465926119002/tm2628320d1_ex99-1.htm",
-   "filed_at": "2026-10-27T09:00:21-04:00",
-   "filed_kst": "2026-10-27 22:00",
-   "price": 62.32,
-   "change": -0.16,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 62.32,
-     "change": -0.16
-    },
-    {
-     "date": "2026-10-23",
-     "close": 62.42,
-     "change": 0.08
-    },
-    {
-     "date": "2026-10-22",
-     "close": 62.37,
-     "change": 2.68
-    }
-   ],
-   "market_cap": 3279023200.0,
-   "shares_outstanding": 52615905.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "SYRACUSE, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T22:00:52+09:00"
-  },
-  {
-   "id": "0001213900-26-112716",
-   "company": "Onconetix, Inc.",
-   "ticker": "ONCO",
-   "cik": 1782107,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "This communication includes information regarding Realbotix, a company that Onconetix has agreed to acquire, and is being provided for informational purposes only.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026112716/0001213900-26-112716-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026112716/ea0309763-425_onconetix.htm",
-   "filed_at": "2026-10-27T08:31:29-04:00",
-   "filed_kst": "2026-10-27 21:31",
-   "price": 0.4,
-   "change": -4.55,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 0.4,
-     "change": -4.55
-    },
-    {
-     "date": "2026-10-23",
-     "close": 0.42,
-     "change": 2.7
-    },
-    {
-     "date": "2026-10-22",
-     "close": 0.41,
-     "change": -6.44
-    }
-   ],
-   "market_cap": 1579643.0,
-   "shares_outstanding": 3949107.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CINCINNATI, OH",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T21:32:19+09:00"
-  },
-  {
-   "id": "0001017386-26-000149",
-   "company": "Securetech Innovations, Inc.",
-   "ticker": "SCTH",
-   "cik": 1703157,
-   "form": "8-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 87,
-   "summary": "EX-99.1 8 ex991.htm PRESS RELEASE OF SECURETECH INNOVATIONS, INC PRESS RELEASE SecureTech Acquires Exclusive License to QSTAK Blockchain and Post-Quantum Technology Company Forms QSTAK Market, LLC Joint Venture and Simultaneously Acquires 15% Net Interest in QSTAK Holding, LLC for $4.5 Million Rosev",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1703157/000101738626000149/0001017386-26-000149-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1703157/000101738626000149/ex991.htm",
-   "filed_at": "2026-10-27T08:30:22-04:00",
-   "filed_kst": "2026-10-27 21:30",
-   "price": 20.1,
-   "change": 0.5,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 20.1,
-     "change": 0.5
-    },
-    {
-     "date": "2026-10-23",
-     "close": 20.0,
-     "change": 14.74
-    },
-    {
-     "date": "2026-10-22",
-     "close": 17.43,
-     "change": -0.34
-    }
-   ],
-   "market_cap": 344307312.0,
-   "shares_outstanding": 17129717.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "WY",
-   "hq": "ROSEVILLE, MN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-27T21:31:15+09:00"
-  },
-  {
-   "id": "0001193125-26-432788",
-   "company": "GrabAGun Digital Holdings Inc.",
-   "ticker": "PEW",
-   "cik": 2051380,
-   "form": "8-K",
-   "items": [
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 73,
-   "summary": "0 million all-cash transaction, funded entirely from cash on hand with no external financing or equity issuance October 27, 2026— COPPELL, Texas – (BUSINESSWIRE) – GrabAGun Digital Holdings Inc.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2051380/000119312526432788/0001193125-26-432788-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051380/000119312526432788/d832695dex991.htm",
-   "filed_at": "2026-10-27T08:24:53-04:00",
-   "filed_kst": "2026-10-27 21:24",
-   "price": 2.05,
-   "change": 6.77,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 2.05,
-     "change": 6.77
-    },
-    {
-     "date": "2026-10-23",
-     "close": 1.92,
-     "change": -1.03
-    },
-    {
-     "date": "2026-10-22",
-     "close": 1.94,
-     "change": -1.02
-    }
-   ],
-   "market_cap": 60502548.0,
-   "shares_outstanding": 29513438.0,
-   "industry": "Retail-Miscellaneous Shopping Goods Stores",
-   "state_of_incorporation": "TX",
-   "hq": "COPPELL, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T21:25:28+09:00"
-  },
-  {
-   "id": "0001104659-26-118991",
-   "company": "Altimmune, Inc.",
-   "ticker": "ALT",
-   "cik": 1326190,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 84,
-   "summary": "The FDA granted Fast Track designations to pemvidutide for the treatment of MASH and AUD, as well as Breakthrough Therapy Designation for MASH.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1326190/000110465926118991/0001104659-26-118991-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326190/000110465926118991/tm2628339d1_ex99-1.htm",
-   "filed_at": "2026-10-27T08:16:13-04:00",
-   "filed_kst": "2026-10-27 21:16",
-   "price": 2.05,
-   "change": -3.3,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 2.05,
-     "change": -3.3
-    },
-    {
-     "date": "2026-10-23",
-     "close": 2.12,
-     "change": -2.3
-    },
-    {
-     "date": "2026-10-22",
-     "close": 2.17,
-     "change": -2.69
-    }
-   ],
-   "market_cap": 398761287.0,
-   "shares_outstanding": 194517701.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "GAITHERSBURG, MD",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-27T21:17:09+09:00"
-  },
-  {
-   "id": "0001193125-26-432747",
-   "company": "Millrose Properties, Inc.",
-   "ticker": "MRP",
-   "cik": 2017206,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 78,
-   "summary": "84 Per Share Board of Directors Authorized a New $250 Million Share Repurchase Program Expanded Counterparty Base to 22 Homebuilder and Developer Relationships and Redeployed $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/0001193125-26-432747-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2017206/000119312526432747/ck0002017206-ex99_1.htm",
-   "filed_at": "2026-10-27T08:15:00-04:00",
-   "filed_kst": "2026-10-27 21:15",
-   "price": 23.91,
-   "change": 0.21,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 23.91,
-     "change": 0.21
-    },
-    {
-     "date": "2026-10-23",
-     "close": 23.86,
-     "change": -0.46
-    },
-    {
-     "date": "2026-10-22",
-     "close": 23.97,
-     "change": 3.81
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Real Estate",
-   "state_of_incorporation": "MD",
-   "hq": "CHEVY CHASE, MD",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-27T21:16:06+09:00"
   }
  ]
 }
