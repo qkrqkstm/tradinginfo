@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-29T22:14:10+09:00",
+ "updated_at": "2026-10-29T22:19:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-113595",
+   "company": "Inflection Point Acquisition Corp. VI",
+   "ticker": "IPFX",
+   "cik": 2102041,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", Quantum Space and Inflection Point as co-registrants (the “Registration Statement”), relating to the companies’ previously announced definitive business combination agreement and the proposed business combination contemplated thereby (the “Business Combination”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026113595/0001213900-26-113595-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026113595/ea031001601ex99-1.htm",
+   "filed_at": "2026-10-29T09:14:33-04:00",
+   "filed_kst": "2026-10-29 22:14",
+   "price": 10.1,
+   "change": 0.4,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 10.1,
+     "change": 0.4
+    },
+    {
+     "date": "2026-10-27",
+     "close": 10.06,
+     "change": 0.3
+    },
+    {
+     "date": "2026-10-26",
+     "close": 10.03,
+     "change": -0.2
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "MIAMI BEACH, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-29T22:15:30+09:00"
+  },
   {
    "id": "0001104659-26-119968",
    "company": "Catalyst Bancorp, Inc.",
@@ -15814,59 +15867,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-27T19:04:20+09:00"
-  },
-  {
-   "id": "0001140361-26-040815",
-   "company": "ioneer Ltd",
-   "ticker": "IONR",
-   "cik": 1896084,
-   "form": "6-K",
-   "items": [
-    "3.10"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Ioneer signed separate offtake agreements with Ford Motor Company and Prime Planet Energy & Solutions (joint venture between Toyota and Panasonic) in 2022 and Korea’s EcoPro Innovation in 2021.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1896084/000114036126040815/0001140361-26-040815-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1896084/000114036126040815/ef20084223_ex99-1.htm",
-   "filed_at": "2026-10-27T06:01:15-04:00",
-   "filed_kst": "2026-10-27 19:01",
-   "price": 2.7,
-   "change": 5.88,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 2.7,
-     "change": 5.88
-    },
-    {
-     "date": "2026-10-23",
-     "close": 2.55,
-     "change": -7.27
-    },
-    {
-     "date": "2026-10-22",
-     "close": 2.75,
-     "change": -1.79
-    }
-   ],
-   "market_cap": 7221511684.0,
-   "shares_outstanding": 2674633957.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "Australia",
-   "hq": "NORTH SYDNEY, NV",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T19:03:47+09:00"
   }
  ]
 }
