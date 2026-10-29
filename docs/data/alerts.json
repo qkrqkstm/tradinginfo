@@ -1,7 +1,383 @@
 {
- "updated_at": "2026-10-30T04:59:10+09:00",
+ "updated_at": "2026-10-30T05:04:50+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001093557-26-000193",
+   "company": "DEXCOM INC",
+   "ticker": "DXCM",
+   "cik": 1093557,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "25 billion (approximately 12-13% growth) • Non-GAAP Gross Profit Margin of approximately 64% • Non-GAAP Operating Margin of approximately 24% • Adjusted EBITDA Margin of approximately 32% The company also announced a share repurchase authorization of up to $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000193/0001093557-26-000193-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000193/dxcm09302026-exhibit991.htm",
+   "filed_at": "2026-10-29T16:03:50-04:00",
+   "filed_kst": "2026-10-30 05:03",
+   "price": 79.93,
+   "change": 1.67,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 79.93,
+     "change": 1.67
+    },
+    {
+     "date": "2026-10-28",
+     "close": 78.62,
+     "change": 0.08
+    },
+    {
+     "date": "2026-10-27",
+     "close": 78.56,
+     "change": -0.01
+    }
+   ],
+   "market_cap": 30162445946.0,
+   "shares_outstanding": 377360765.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:04:48+09:00"
+  },
+  {
+   "id": "0001274494-26-000211",
+   "company": "FIRST SOLAR, INC.",
+   "ticker": "FSLR",
+   "cik": 1274494,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 66,
+   "summary": "Announces Third Quarter 2026 Financial Results, Updates Guidance, and Announces $500 Million Share Repurchase Program • Net sales of $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000211/0001274494-26-000211-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000211/ex991pressreleaseq3-2026.htm",
+   "filed_at": "2026-10-29T16:03:20-04:00",
+   "filed_kst": "2026-10-30 05:03",
+   "price": 176.89,
+   "change": 0.33,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 176.89,
+     "change": 0.33
+    },
+    {
+     "date": "2026-10-28",
+     "close": 176.3,
+     "change": 0.26
+    },
+    {
+     "date": "2026-10-27",
+     "close": 175.85,
+     "change": 4.58
+    }
+   ],
+   "market_cap": 19010330799.0,
+   "shares_outstanding": 107469788.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "PHOENIX, AZ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:04:15+09:00"
+  },
+  {
+   "id": "0001559053-26-000026",
+   "company": "PROTHENA CORP PUBLIC LTD CO",
+   "ticker": "PRTA",
+   "cik": 1559053,
+   "form": "8-K",
+   "items": [
+    "1.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과"
+   ],
+   "confidence": 79,
+   "summary": "In the first half of 2026, the Company completed the Phase 1 trial for PRX019, which successfully demonstrated a benign safety and tolerability profile, no immunogenicity, and dose-dependent pharmacokinetics and pharmacodynamic effects, meeting the Company’s prespecified pharmacodynamic targets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1559053/000155905326000026/0001559053-26-000026-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1559053/000155905326000026/prta-20261028.htm",
+   "filed_at": "2026-10-29T16:03:27-04:00",
+   "filed_kst": "2026-10-30 05:03",
+   "price": 8.88,
+   "change": -2.42,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 8.88,
+     "change": -2.42
+    },
+    {
+     "date": "2026-10-28",
+     "close": 9.1,
+     "change": 3.29
+    },
+    {
+     "date": "2026-10-27",
+     "close": 8.81,
+     "change": 4.88
+    }
+   ],
+   "market_cap": 455872329.0,
+   "shares_outstanding": 51336974.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Ireland",
+   "hq": "DUBLIN 2, L2",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:04:12+09:00"
+  },
+  {
+   "id": "0001743881-26-000033",
+   "company": "BridgeBio Pharma, Inc.",
+   "ticker": "BBIO",
+   "cik": 1743881,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "탑라인결과",
+    "FDA",
+    "대형계약",
+    "배당"
+   ],
+   "confidence": 97,
+   "summary": "The first participant was dosed in ASCEND-ATTR, the Phase 3b/4 study to prospectively test disease reversal with Attruby - BBP-418 for LGMD2I/R9 has a November 27, 2026 PDUFA date, with Priority Review.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1743881/000174388126000033/0001743881-26-000033-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1743881/000174388126000033/bbio-20260930xex991.htm",
+   "filed_at": "2026-10-29T16:03:01-04:00",
+   "filed_kst": "2026-10-30 05:03",
+   "price": 70.73,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 70.73,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 70.73,
+     "change": -0.13
+    },
+    {
+     "date": "2026-10-28",
+     "close": 70.82,
+     "change": 2.09
+    }
+   ],
+   "market_cap": 13826829036.0,
+   "shares_outstanding": 195487474.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:03:34+09:00"
+  },
+  {
+   "id": "0001185185-26-005064",
+   "company": "AGM GROUP HOLDINGS, INC.",
+   "ticker": "AGMH",
+   "cik": 1705402,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "67 per share), and the related share repurchase agreement (the “Share Repurchase Agreement”), including the cancellation of such shares upon completion of the repurchase, and the related matters as set forth in the notice of the Meeting.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1705402/000118518526005064/0001185185-26-005064-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1705402/000118518526005064/agmh6k102826.htm",
+   "filed_at": "2026-10-29T16:01:10-04:00",
+   "filed_kst": "2026-10-30 05:01",
+   "price": 0.52,
+   "change": -0.17,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 0.52,
+     "change": -0.17
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.52,
+     "change": 2.77
+    },
+    {
+     "date": "2026-10-27",
+     "close": 0.5,
+     "change": 5.21
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming Services",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "WANCHAI",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:02:27+09:00"
+  },
+  {
+   "id": "0001493152-26-049263",
+   "company": "FOXO TECHNOLOGIES INC.",
+   "ticker": "FOXO",
+   "cik": 1812360,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Under the Share Purchase Agreements, the Company agreed to acquire (i) 3,000,000 shares of Ludwig convertible preferred stock (the “ Ludwig Preferred Stock ”) from the Trust in exchange for 1,250,000 shares of a new series of the Company’s preferred stock to be created and designated as Series F Con",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1812360/000149315226049263/0001493152-26-049263-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1812360/000149315226049263/ex99-1.htm",
+   "filed_at": "2026-10-29T16:01:28-04:00",
+   "filed_kst": "2026-10-30 05:01",
+   "price": 0.09,
+   "change": -10.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 0.09,
+     "change": -10.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 0.1,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 0.1,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 149230.0,
+   "shares_outstanding": 1658116.0,
+   "industry": "Services-Commercial Physical & Biological Research",
+   "state_of_incorporation": "DE",
+   "hq": "WEST PALM BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-30T05:02:19+09:00"
+  },
+  {
+   "id": "0001292814-26-005044",
+   "company": "Enel Chile S.A.",
+   "ticker": "ENIC",
+   "cik": 1659939,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "As of the current date, the Enel Chile Group holds cross-currency swap contracts totaling US$ 148 million and forward contracts totaling US$ 210 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1659939/000129281426005044/0001292814-26-005044-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1659939/000129281426005044/enicfs3q26_6k.htm",
+   "filed_at": "2026-10-29T16:00:20-04:00",
+   "filed_kst": "2026-10-30 05:00",
+   "price": 4.24,
+   "change": -0.47,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 4.24,
+     "change": -0.47
+    },
+    {
+     "date": "2026-10-28",
+     "close": 4.26,
+     "change": -1.84
+    },
+    {
+     "date": "2026-10-27",
+     "close": 4.34,
+     "change": 0.23
+    }
+   ],
+   "market_cap": 293266202609.0,
+   "shares_outstanding": 69166557219.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "Chile",
+   "hq": "SANTIAGO, F3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:01:31+09:00"
+  },
   {
    "id": "0001493152-26-049251",
    "company": "Digital Brands Group, Inc.",
@@ -15500,374 +15876,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T20:04:02+09:00"
-  },
-  {
-   "id": "0001193125-26-432650",
-   "company": "CoinShares PLC",
-   "ticker": "CSHR",
-   "cik": 2087587,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "1 CoinShares Board Approve $40 Million Share Repurchase Program JERSEY, Channel Islands, 27th October 2026 - CoinShares PLC (Nasdaq: CSHR) (“CoinShares” or the “Company”) today announced that its Board of Directors has approved a program to repurchase up to $40 million of the Company’s ordinary s",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2087587/000119312526432650/0001193125-26-432650-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2087587/000119312526432650/cshr-ex99_1.htm",
-   "filed_at": "2026-10-27T07:00:02-04:00",
-   "filed_kst": "2026-10-27 20:00",
-   "price": 3.79,
-   "change": -3.56,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 3.79,
-     "change": -3.56
-    },
-    {
-     "date": "2026-10-23",
-     "close": 3.93,
-     "change": -2.48
-    },
-    {
-     "date": "2026-10-22",
-     "close": 4.03,
-     "change": -0.74
-    }
-   ],
-   "market_cap": 499446992.0,
-   "shares_outstanding": 131780209.0,
-   "industry": "Security Brokers, Dealers & Flotation Companies",
-   "state_of_incorporation": "Jersey",
-   "hq": "ST. HELIER",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T20:00:51+09:00"
-  },
-  {
-   "id": "0001628280-26-067403",
-   "company": "COCA COLA CO",
-   "ticker": "KO",
-   "cik": 21344,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 65,
-   "summary": "Additionally, the company recorded an other-than-temporary impairment charge of $25 million in Latin America, primarily driven by the restructuring of a joint venture.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067403/0001628280-26-067403-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067403/a2026q3earningsreleaseex-9.htm",
-   "filed_at": "2026-10-27T06:58:13-04:00",
-   "filed_kst": "2026-10-27 19:58",
-   "price": 92.7,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 92.7,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 92.7,
-     "change": -0.01
-    },
-    {
-     "date": "2026-10-23",
-     "close": 92.71,
-     "change": -2.76
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Beverages",
-   "state_of_incorporation": "DE",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:59:02+09:00"
-  },
-  {
-   "id": "0000077360-26-000055",
-   "company": "PENTAIR plc",
-   "ticker": "PNR",
-   "cik": 77360,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 57,
-   "summary": "Stauch concluded, “Our solid third-quarter performance increases our confidence in the full-year outlook and enables us to reaffirm the midpoint of our previous guidance range.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/77360/000007736026000055/0000077360-26-000055-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/77360/000007736026000055/q32026pressrelease.htm",
-   "filed_at": "2026-10-27T06:51:51-04:00",
-   "filed_kst": "2026-10-27 19:51",
-   "price": 55.22,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 55.22,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 55.22,
-     "change": -0.14
-    },
-    {
-     "date": "2026-10-23",
-     "close": 55.3,
-     "change": -0.25
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Special Industry Machinery (No Metalworking Machinery)",
-   "state_of_incorporation": "Ireland",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:52:35+09:00"
-  },
-  {
-   "id": "0001654954-26-009155",
-   "company": "ASTRAZENECA PLC",
-   "ticker": "AZN",
-   "cik": 901832,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "For further details on the financial arrangements, please consult the collaboration agreement from March 2019 .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009155/0001654954-26-009155-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009155/a6054a.htm",
-   "filed_at": "2026-10-27T06:51:37-04:00",
-   "filed_kst": "2026-10-27 19:51",
-   "price": 172.06,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 172.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 172.06,
-     "change": 0.33
-    },
-    {
-     "date": "2026-10-23",
-     "close": 171.49,
-     "change": -0.63
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "CAMBRIDGE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:52:03+09:00"
-  },
-  {
-   "id": "0001493152-26-048631",
-   "company": "Nova Minerals Corp",
-   "ticker": "NVA",
-   "cik": 1852551,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The Company’s Phase 1 development program is supported by a $43.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226048631/0001493152-26-048631-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226048631/ex99-1.htm",
-   "filed_at": "2026-10-27T06:45:16-04:00",
-   "filed_kst": "2026-10-27 19:45",
-   "price": 2.98,
-   "change": 3.83,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 2.98,
-     "change": 3.83
-    },
-    {
-     "date": "2026-10-23",
-     "close": 2.87,
-     "change": -6.51
-    },
-    {
-     "date": "2026-10-22",
-     "close": 3.07,
-     "change": -4.66
-    }
-   ],
-   "market_cap": 113819217.0,
-   "shares_outstanding": 38194368.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "NV",
-   "hq": "CAULFIELD",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T19:46:02+09:00"
-  },
-  {
-   "id": "0001628280-26-067393",
-   "company": "Vertiv Holdings Co",
-   "ticker": "VRT",
-   "cik": 1674101,
-   "form": "8-K",
-   "items": [
-    "2.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "vrt-20261027 0001674101 FALSE 0001674101 2026-10-27 2026-10-27 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 Date of Report (Date of earliest event reported): October 27, 2026 VER",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067393/0001628280-26-067393-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067393/vrt-20261027.htm",
-   "filed_at": "2026-10-27T06:34:09-04:00",
-   "filed_kst": "2026-10-27 19:34",
-   "price": 199.78,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 199.78,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 199.78,
-     "change": 2.81
-    },
-    {
-     "date": "2026-10-23",
-     "close": 194.32,
-     "change": -0.65
-    }
-   ],
-   "market_cap": 76912937202.0,
-   "shares_outstanding": 384988173.0,
-   "industry": "Electronic Components, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "WESTERVILLE, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:35:28+09:00"
-  },
-  {
-   "id": "0001628280-26-067394",
-   "company": "INNIO N.V.",
-   "ticker": "INIO",
-   "cik": 2109150,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 78,
-   "summary": "EX-99.1 2 ex991.htm EX-99.1 Document Exhibit 99.1 INNIO Reports Record Third Quarter 2026 Financial Results with Revenue Up 57%, Net Income Up 176% and Adjusted EBITDA Up 70%; Raises 2026 Full-Year Guidance Third Quarter 2026 Financial Highlights • Record Revenue: $1.2 billion, up 57% year-over-year",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2109150/000162828026067394/0001628280-26-067394-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2109150/000162828026067394/ex991.htm",
-   "filed_at": "2026-10-27T06:34:39-04:00",
-   "filed_kst": "2026-10-27 19:34",
-   "price": 16.63,
-   "change": 9.34,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 16.63,
-     "change": 9.34
-    },
-    {
-     "date": "2026-10-23",
-     "close": 15.21,
-     "change": 0.66
-    },
-    {
-     "date": "2026-10-22",
-     "close": 15.11,
-     "change": -10.43
-    }
-   ],
-   "market_cap": 12472500000.0,
-   "shares_outstanding": 750000000.0,
-   "industry": "Motors & Generators",
-   "state_of_incorporation": "Germany",
-   "hq": "MUNICH",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:35:26+09:00"
   }
  ]
 }
