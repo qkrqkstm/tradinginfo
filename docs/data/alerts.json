@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-10-29T21:44:37+09:00",
+ "updated_at": "2026-10-29T21:49:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-041117",
+   "company": "IPERIONX Ltd",
+   "ticker": "IPX",
+   "cik": 1898601,
+   "form": "6-K",
+   "items": [
+    "3.10"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "2 million available under the existing US$99 million contract ceiling.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1898601/000114036126041117/0001140361-26-041117-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1898601/000114036126041117/ef20084556_ex99-1.htm",
+   "filed_at": "2026-10-29T08:47:12-04:00",
+   "filed_kst": "2026-10-29 21:47",
+   "price": 15.59,
+   "change": 7.52,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 15.59,
+     "change": 7.52
+    },
+    {
+     "date": "2026-10-27",
+     "close": 14.5,
+     "change": 11.03
+    },
+    {
+     "date": "2026-10-26",
+     "close": 13.06,
+     "change": 4.98
+    }
+   ],
+   "market_cap": 5290997589.0,
+   "shares_outstanding": 339384066.0,
+   "industry": "Miscellaneous Metal Ores",
+   "state_of_incorporation": "Australia",
+   "hq": "SOUTH BOSTON, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T21:47:37+09:00"
+  },
+  {
+   "id": "0001493152-26-049192",
+   "company": "Eightco Holdings Inc.",
+   "ticker": "ORBS",
+   "cik": 1892492,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "(NASDAQ: ORBS) (“Eightco” or the “Company”) today announced that it has repurchased more than 55 million shares of its common stock under its previously announced $125 million share repurchase program, while maintaining significant exposure to OpenAI and World.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1892492/000149315226049192/0001493152-26-049192-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1892492/000149315226049192/ex99-1.htm",
+   "filed_at": "2026-10-29T08:45:22-04:00",
+   "filed_kst": "2026-10-29 21:45",
+   "price": 0.78,
+   "change": -0.03,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 0.78,
+     "change": -0.03
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.78,
+     "change": -2.38
+    },
+    {
+     "date": "2026-10-27",
+     "close": 0.8,
+     "change": 5.28
+    }
+   ],
+   "market_cap": 335226372.0,
+   "shares_outstanding": 429777400.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "TX",
+   "hq": "EASTON, PA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-29T21:46:03+09:00"
+  },
   {
    "id": "0001213900-26-113580",
    "company": "Evolution Metals & Technologies Corp.",
@@ -15761,106 +15866,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-27T19:03:10+09:00"
-  },
-  {
-   "id": "0001213900-26-112578",
-   "company": "Amanat Acquisition Corp.",
-   "ticker": "AMAN",
-   "cik": 2112457,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The parties to the Business Combination Agreement intend to file with the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2112457/000121390026112578/0001213900-26-112578-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2112457/000121390026112578/ea0309753-425_amanat.htm",
-   "filed_at": "2026-10-26T18:17:51-04:00",
-   "filed_kst": "2026-10-27 07:17",
-   "price": 10.2,
-   "change": -0.2,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 10.2,
-     "change": -0.2
-    },
-    {
-     "date": "2026-10-23",
-     "close": 10.22,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-22",
-     "close": 10.22,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GEORGE TOWN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T19:02:05+09:00"
-  },
-  {
-   "id": "0001062993-26-005554",
-   "company": "Elemental Royalty Corp",
-   "ticker": "ELE",
-   "cik": 2086771,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 2 exhibit99-1.htm EXHIBIT 99.1 Elemental Royalty Corporation: Exhibit 99.1 - Filed by newsfilecorp.com Elemental Royalty Announces First Close of Royalty and Streaming Portfolio Alongside Upsized US$250m Credit Facility October 26, 2026 - Denver, Colorado : Elemental Royalty Corporation (NAS",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2086771/000106299326005554/0001062993-26-005554-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2086771/000106299326005554/exhibit99-1.htm",
-   "filed_at": "2026-10-26T18:53:45-04:00",
-   "filed_kst": "2026-10-27 07:53",
-   "price": 15.72,
-   "change": -1.01,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 15.72,
-     "change": -1.01
-    },
-    {
-     "date": "2026-10-23",
-     "close": 15.88,
-     "change": -0.69
-    },
-    {
-     "date": "2026-10-22",
-     "close": 15.99,
-     "change": -4.54
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "LITTLETON, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T19:02:02+09:00"
   }
  ]
 }
