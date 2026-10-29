@@ -1,7 +1,163 @@
 {
- "updated_at": "2026-10-29T19:04:55+09:00",
+ "updated_at": "2026-10-29T19:09:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001648257-26-000072",
+   "company": "HUTCHMED (China) Ltd",
+   "ticker": "HCM",
+   "cik": 1648257,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "1 ​ ​ Press Release ​ HUTCHMED Announces Sovleplenib Granted US FDA Orphan Drug Designation for Primary Immune Thrombocytopenia — Orphan Drug Designation granted for the treatment of primary i mmune t hrombocytopenia — — Underscores the potential of sovleplenib to address significant unmet medical n",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000072/0001648257-26-000072-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000072/hcm-ex99d1.htm",
+   "filed_at": "2026-10-29T06:08:14-04:00",
+   "filed_kst": "2026-10-29 19:08",
+   "price": 13.32,
+   "change": -3.48,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 13.32,
+     "change": -3.48
+    },
+    {
+     "date": "2026-10-27",
+     "close": 13.8,
+     "change": -3.29
+    },
+    {
+     "date": "2026-10-26",
+     "close": 14.27,
+     "change": -0.63
+    }
+   ],
+   "market_cap": 11619403898.0,
+   "shares_outstanding": 872327620.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HONG KONG",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T19:08:41+09:00"
+  },
+  {
+   "id": "0001292814-26-005034",
+   "company": "AMBEV S.A.",
+   "ticker": "ABEV",
+   "cik": 1565025,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "9 million 190 million shares buyback program Cash flow from operating activities increased 11.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1565025/000129281426005034/0001292814-26-005034-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1565025/000129281426005034/abevpr3q26_6k.htm",
+   "filed_at": "2026-10-29T06:06:22-04:00",
+   "filed_kst": "2026-10-29 19:06",
+   "price": 2.78,
+   "change": -3.14,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 2.78,
+     "change": -3.14
+    },
+    {
+     "date": "2026-10-27",
+     "close": 2.87,
+     "change": 1.41
+    },
+    {
+     "date": "2026-10-26",
+     "close": 2.83,
+     "change": -14.24
+    }
+   ],
+   "market_cap": 43817355742.0,
+   "shares_outstanding": 15761638756.0,
+   "industry": "Beverages",
+   "state_of_incorporation": "Brazil",
+   "hq": "SAO PAULO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T19:07:07+09:00"
+  },
+  {
+   "id": "0000202058-26-000084",
+   "company": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+   "ticker": "LHX",
+   "cik": 202058,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "7 billion (excluding escalations), seven-year undefinitized contract to scale propulsion production for the PAC-3 Missile Segment Enhancement (MSE) interceptor • Announced a $250 million follow-on contract to manufacture standard-range Guided Multiple Launch Rocket System (GMLRS) propulsion units • ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000084/0000202058-26-000084-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000084/exhibit991q3cy26earnings.htm",
+   "filed_at": "2026-10-29T06:04:22-04:00",
+   "filed_kst": "2026-10-29 19:04",
+   "price": 260.61,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 260.61,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 260.61,
+     "change": 0.47
+    },
+    {
+     "date": "2026-10-27",
+     "close": 259.4,
+     "change": -0.32
+    }
+   ],
+   "market_cap": 48529391076.0,
+   "shares_outstanding": 186214616.0,
+   "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+   "state_of_incorporation": "DE",
+   "hq": "MELBOURNE, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T19:05:26+09:00"
+  },
   {
    "id": "0001193125-26-436795",
    "company": "Builders FirstSource, Inc.",
@@ -15632,164 +15788,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-26T20:00:52+09:00"
-  },
-  {
-   "id": "0000732712-26-000049",
-   "company": "VERIZON COMMUNICATIONS INC",
-   "ticker": "VZ",
-   "cik": 732712,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 60,
-   "summary": "EX-99 2 a2026q3exhibit99.htm EX-99 Document VZQTR20FIN Exhibit 99 News Release FOR IMMEDIATE RELEASE Media contacts: October 26, 2026 Katie Magnotta 201-602-9235 katie.magnotta@verizon.com Jamie Serino 201-401-5460 jamie.serino@verizon.com Verizon Delivers Another Record-Breaking Quarter with 3Q 202",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000049/0000732712-26-000049-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000049/a2026q3exhibit99.htm",
-   "filed_at": "2026-10-26T07:00:28-04:00",
-   "filed_kst": "2026-10-26 20:00",
-   "price": 44.66,
-   "change": -1.19,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 44.66,
-     "change": -1.19
-    },
-    {
-     "date": "2026-10-22",
-     "close": 45.2,
-     "change": 3.76
-    },
-    {
-     "date": "2026-10-21",
-     "close": 43.56,
-     "change": -2.2
-    }
-   ],
-   "market_cap": 185552260521.0,
-   "shares_outstanding": 4154775202.0,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-26T20:00:49+09:00"
-  },
-  {
-   "id": "0000721994-26-000074",
-   "company": "LAKELAND FINANCIAL CORP",
-   "ticker": "LKFN",
-   "cik": 721994,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "36% • Diluted weighted average common shares outstanding declined by 583,478, or 2%, as a result of the company's ongoing share repurchase plan Third Quarter 2026 versus Second Quarter 2026 highlights: • Net interest margin improved 9 basis points to 3.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/721994/000072199426000074/0000721994-26-000074-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/721994/000072199426000074/lkfn-20261026exhibit991.htm",
-   "filed_at": "2026-10-26T06:58:26-04:00",
-   "filed_kst": "2026-10-26 19:58",
-   "price": 58.39,
-   "change": -1.67,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 58.39,
-     "change": -1.67
-    },
-    {
-     "date": "2026-10-22",
-     "close": 59.38,
-     "change": 2.34
-    },
-    {
-     "date": "2026-10-21",
-     "close": 58.02,
-     "change": -0.97
-    }
-   ],
-   "market_cap": 1451449278.0,
-   "shares_outstanding": 24857840.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "IN",
-   "hq": "WARSAW, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-26T19:59:02+09:00"
-  },
-  {
-   "id": "0001654954-26-009130",
-   "company": "GSK plc",
-   "ticker": "GSK",
-   "cik": 1131399,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": ", under a collaboration and exclusive license agreement signed in March 2014.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009130/0001654954-26-009130-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009130/a3301a.htm",
-   "filed_at": "2026-10-26T06:51:18-04:00",
-   "filed_kst": "2026-10-26 19:51",
-   "price": 50.75,
-   "change": -0.9,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 50.75,
-     "change": -0.9
-    },
-    {
-     "date": "2026-10-22",
-     "close": 51.21,
-     "change": 2.38
-    },
-    {
-     "date": "2026-10-21",
-     "close": 50.02,
-     "change": -1.2
-    }
-   ],
-   "market_cap": 219008835070.0,
-   "shares_outstanding": 4315445026.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-26T19:52:03+09:00"
   }
  ]
 }
