@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-29T21:39:09+09:00",
+ "updated_at": "2026-10-29T21:44:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-113580",
+   "company": "Evolution Metals & Technologies Corp.",
+   "ticker": "EMAT",
+   "cik": 1866226,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is one of the only vertically integrated critical materials supply chains spanning end-of-life electronics and batteries, high-grade concentrates, and the ma",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026113580/0001213900-26-113580-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026113580/ea031009601ex99-1.htm",
+   "filed_at": "2026-10-29T08:43:25-04:00",
+   "filed_kst": "2026-10-29 21:43",
+   "price": 1.68,
+   "change": 17.48,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 1.68,
+     "change": 17.48
+    },
+    {
+     "date": "2026-10-27",
+     "close": 1.43,
+     "change": 1.42
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1.41,
+     "change": -1.4
+    }
+   ],
+   "market_cap": 1044625085.0,
+   "shares_outstanding": 621800646.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-29T21:44:06+09:00"
+  },
   {
    "id": "0001193125-26-437079",
    "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
@@ -15808,56 +15861,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-27T19:02:02+09:00"
-  },
-  {
-   "id": "0001213900-26-112590",
-   "company": "CEMENTOS PACASMAYO SAA",
-   "ticker": "CPAC",
-   "cik": 1221029,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Source: INEI, Aduanet (1) On March 30, 2026, Holcim Ltd (“Holcim”) completed the acquisition of 99.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1221029/000121390026112590/0001213900-26-112590-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1221029/000121390026112590/ea030963501ex99-1.htm",
-   "filed_at": "2026-10-26T19:32:58-04:00",
-   "filed_kst": "2026-10-27 08:32",
-   "price": 12.77,
-   "change": 0.31,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 12.77,
-     "change": 0.31
-    },
-    {
-     "date": "2026-10-23",
-     "close": 12.73,
-     "change": -0.31
-    },
-    {
-     "date": "2026-10-22",
-     "close": 12.77,
-     "change": 0.87
-    }
-   ],
-   "market_cap": 5412800094.0,
-   "shares_outstanding": 423868449.0,
-   "industry": "Cement, Hydraulic",
-   "state_of_incorporation": null,
-   "hq": "LIMA 33, R5",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:01:59+09:00"
   }
  ]
 }
