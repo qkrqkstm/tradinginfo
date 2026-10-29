@@ -1,7 +1,163 @@
 {
- "updated_at": "2026-10-29T20:39:07+09:00",
+ "updated_at": "2026-10-29T20:44:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001289877-26-000039",
+   "company": "SFL Corp Ltd.",
+   "ticker": "SFL",
+   "cik": 1289877,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(NYSE: SFL) (“SFL” or the “Company”), dated October 28, 2026, announcing that it has agreed to acquire two 8,800 TEU Container Vessels with scheduled delivery in 2027 and one 93,000 cbm dual-fuel Very Large Ammonia Carrier (VLAC) with scheduled delivery in 2028.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1289877/000128987726000039/0001289877-26-000039-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1289877/000128987726000039/sflnewbuildagreementsandlo.htm",
+   "filed_at": "2026-10-29T07:43:04-04:00",
+   "filed_kst": "2026-10-29 20:43",
+   "price": 12.78,
+   "change": 0.63,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 12.78,
+     "change": 0.63
+    },
+    {
+     "date": "2026-10-27",
+     "close": 12.7,
+     "change": -0.55
+    },
+    {
+     "date": "2026-10-26",
+     "close": 12.77,
+     "change": 0.87
+    }
+   ],
+   "market_cap": 1847514207.0,
+   "shares_outstanding": 144562927.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": null,
+   "hq": "HAMILTON, HM 08, D0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:43:42+09:00"
+  },
+  {
+   "id": "0000849395-26-000012",
+   "company": "CRH PUBLIC LTD CO",
+   "ticker": "CRH",
+   "cik": 849395,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "배당"
+   ],
+   "confidence": 84,
+   "summary": "0B • Announcing new share buyback program of up to $6B expiring at the end of 2030 • $8.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/849395/000084939526000012/0000849395-26-000012-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/849395/000084939526000012/q3resultsannouncement2026.htm",
+   "filed_at": "2026-10-29T07:41:19-04:00",
+   "filed_kst": "2026-10-29 20:41",
+   "price": 86.54,
+   "change": 0.9,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 86.54,
+     "change": 0.9
+    },
+    {
+     "date": "2026-10-27",
+     "close": 85.77,
+     "change": 0.4
+    },
+    {
+     "date": "2026-10-26",
+     "close": 85.43,
+     "change": 0.64
+    }
+   ],
+   "market_cap": 57573721582.0,
+   "shares_outstanding": 665284511.0,
+   "industry": "Cement, Hydraulic",
+   "state_of_incorporation": "Ireland",
+   "hq": "DUBLIN 16, L2",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:42:07+09:00"
+  },
+  {
+   "id": "0001193125-26-437018",
+   "company": "Virax Biolabs Group Ltd",
+   "ticker": "VRAX",
+   "cik": 1885827,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": ", it has entered into non-exclusive distribution agreements with AmyJet Scientific Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1885827/000119312526437018/0001193125-26-437018-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1885827/000119312526437018/vrax-ex99_1.htm",
+   "filed_at": "2026-10-29T07:40:18-04:00",
+   "filed_kst": "2026-10-29 20:40",
+   "price": 1.2,
+   "change": 0.84,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 1.2,
+     "change": 0.84
+    },
+    {
+     "date": "2026-10-27",
+     "close": 1.19,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1.19,
+     "change": -2.46
+    }
+   ],
+   "market_cap": 695062.0,
+   "shares_outstanding": 579218.0,
+   "industry": "In Vitro & In Vivo Diagnostic Substances",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "LANARKSHIRE, X0",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-29T20:41:04+09:00"
+  },
   {
    "id": "0001193125-26-437014",
    "company": "Maplebear Inc.",
@@ -15686,163 +15842,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-27T05:41:38+09:00"
-  },
-  {
-   "id": "0001104659-26-118805",
-   "company": "SL Science Holding Ltd",
-   "ticker": "SLBT",
-   "cik": 2070534,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA",
-    "대형계약"
-   ],
-   "confidence": 77,
-   "summary": "● FDA Regulatory Submissions: Advanced its regulatory footprint by submitting an Orphan Drug Designation (ODD) request (DRU-2026-11528) to the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2070534/000110465926118805/0001104659-26-118805-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2070534/000110465926118805/slbt-20260630xex99d1.htm",
-   "filed_at": "2026-10-26T16:37:09-04:00",
-   "filed_kst": "2026-10-27 05:37",
-   "price": 1.23,
-   "change": 6.96,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 1.23,
-     "change": 6.96
-    },
-    {
-     "date": "2026-10-23",
-     "close": 1.15,
-     "change": -12.21
-    },
-    {
-     "date": "2026-10-22",
-     "close": 1.31,
-     "change": -9.66
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "TAIPEI CITY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T05:37:38+09:00"
-  },
-  {
-   "id": "0001709442-26-000051",
-   "company": "FIRSTSUN CAPITAL BANCORP",
-   "ticker": "FSUN",
-   "cik": 1709442,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 57,
-   "summary": "7 million under our share repurchase program Denver, Colorado – October 26, 2026 – FirstSun Capital Bancorp (“FirstSun”) (NASDAQ: FSUN) reported net income of $38.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/0001709442-26-000051-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/exhibit991-earningspressre.htm",
-   "filed_at": "2026-10-26T16:34:56-04:00",
-   "filed_kst": "2026-10-27 05:34",
-   "price": 39.8,
-   "change": -0.03,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 39.8,
-     "change": -0.03
-    },
-    {
-     "date": "2026-10-23",
-     "close": 39.81,
-     "change": 0.71
-    },
-    {
-     "date": "2026-10-22",
-     "close": 39.53,
-     "change": 2.73
-    }
-   ],
-   "market_cap": 1111348653.0,
-   "shares_outstanding": 27923333.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "DENVER, CO",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T05:36:01+09:00"
-  },
-  {
-   "id": "0001628280-26-067303",
-   "company": "APPLIED MATERIALS INC /DE",
-   "ticker": "AMAT",
-   "cik": 6951,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 Applied Materials to Increase its Strategic Investment in BE Semiconductor Industries Applied enters into agreement to increase its investment to approximately 20 percent of outstanding shares, reinforcing the companies’ long-term strategic partnership in advanced packaging SANTA CLARA, Calif.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026067303/0001628280-26-067303-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026067303/ex991prforprojectbasil.htm",
-   "filed_at": "2026-10-26T16:34:29-04:00",
-   "filed_kst": "2026-10-27 05:34",
-   "price": 387.59,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 387.59,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 387.59,
-     "change": 2.74
-    },
-    {
-     "date": "2026-10-23",
-     "close": 377.24,
-     "change": 0.44
-    }
-   ],
-   "market_cap": 307590432932.0,
-   "shares_outstanding": 793597443.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "DC",
-   "hq": "SANTA CLARA, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T05:35:28+09:00"
   }
  ]
 }
