@@ -1,7 +1,221 @@
 {
- "updated_at": "2026-10-29T20:29:34+09:00",
+ "updated_at": "2026-10-29T20:34:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001929561-26-000046",
+   "company": "RXO, Inc.",
+   "ticker": "RXO",
+   "cik": 1929561,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "Robinson Transaction As announced on October 5, 2026, RXO entered into a definitive agreement to be acquired by C.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1929561/000192956126000046/0001929561-26-000046-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1929561/000192956126000046/rxo2026q3pressrelease.htm",
+   "filed_at": "2026-10-29T07:33:34-04:00",
+   "filed_kst": "2026-10-29 20:33",
+   "price": 27.6,
+   "change": -5.15,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 27.6,
+     "change": -5.15
+    },
+    {
+     "date": "2026-10-27",
+     "close": 29.1,
+     "change": 1.46
+    },
+    {
+     "date": "2026-10-26",
+     "close": 28.68,
+     "change": -0.24
+    }
+   ],
+   "market_cap": 4551961133.0,
+   "shares_outstanding": 164926128.0,
+   "industry": "Transportation Services",
+   "state_of_incorporation": "DE",
+   "hq": "CHARLOTTE, NC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:34:23+09:00"
+  },
+  {
+   "id": "0000003570-26-000040",
+   "company": "Cheniere Energy, Inc.",
+   "ticker": "LNG",
+   "cik": 3570,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "NEWS RELEASE Cheniere Reports Third Quarter 2026 Results, Raises Full Year 2026 Financial Guidance, and Increases Quarterly Dividend by Over 12% HOUSTON--(BUSINESS WIRE)-- Cheniere Energy, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/3570/000000357026000040/0000003570-26-000040-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/3570/000000357026000040/cei20263rdqtrerex991.htm",
+   "filed_at": "2026-10-29T07:31:19-04:00",
+   "filed_kst": "2026-10-29 20:31",
+   "price": 297.77,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 297.77,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 297.77,
+     "change": -0.66
+    },
+    {
+     "date": "2026-10-27",
+     "close": 299.74,
+     "change": -0.28
+    }
+   ],
+   "market_cap": 60805799472.0,
+   "shares_outstanding": 204203914.0,
+   "industry": "Natural Gas Distribution",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:31:45+09:00"
+  },
+  {
+   "id": "0001140361-26-041101",
+   "company": "Hilton Grand Vacations Inc.",
+   "ticker": "HGV",
+   "cik": 1674168,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 6 ef20084461_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Investor Contact: Media Contact: Mark Melnyk Lauren George 407-613-3327 407-613-8431 mark.melnyk@hgv.com lauren.george@hgv.com FOR IMMEDIATE RELEASE Hilton Grand Vacations Appoints Mike Riley as EVP, Chief Sales & Marketing Officer ORLANDO, F",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674168/000114036126041101/0001140361-26-041101-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1674168/000114036126041101/ef20084461_ex99-1.htm",
+   "filed_at": "2026-10-29T07:29:18-04:00",
+   "filed_kst": "2026-10-29 20:29",
+   "price": 35.53,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 35.53,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 35.53,
+     "change": -0.56
+    },
+    {
+     "date": "2026-10-27",
+     "close": 35.73,
+     "change": 0.03
+    }
+   ],
+   "market_cap": 2761538872.0,
+   "shares_outstanding": 77724145.0,
+   "industry": "Hotels, Rooming Houses, Camps & Other Lodging Places",
+   "state_of_incorporation": "DE",
+   "hq": "ORLANDO, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:30:41+09:00"
+  },
+  {
+   "id": "0001833756-26-000042",
+   "company": "Leonardo DRS, Inc.",
+   "ticker": "DRS",
+   "cik": 1833756,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "In addition, the company repurchased 288,633 shares of its common stock for approximately $12 million in the third quarter, pursuant to a previously announced stock repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833756/000183375626000042/0001833756-26-000042-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833756/000183375626000042/q32026earningspressrelease.htm",
+   "filed_at": "2026-10-29T07:29:55-04:00",
+   "filed_kst": "2026-10-29 20:29",
+   "price": 35.5,
+   "change": -1.36,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 35.5,
+     "change": -1.36
+    },
+    {
+     "date": "2026-10-27",
+     "close": 35.99,
+     "change": 0.42
+    },
+    {
+     "date": "2026-10-26",
+     "close": 35.84,
+     "change": 3.85
+    }
+   ],
+   "market_cap": 9474648782.0,
+   "shares_outstanding": 266891515.0,
+   "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+   "state_of_incorporation": "DE",
+   "hq": "ARLINGTON, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:30:39+09:00"
+  },
   {
    "id": "0001792789-26-000065",
    "company": "Maplebear Inc.",
@@ -15628,210 +15842,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T05:34:02+09:00"
-  },
-  {
-   "id": "0001336706-26-000075",
-   "company": "NORTHPOINTE BANCSHARES INC",
-   "ticker": "NPB",
-   "cik": 1336706,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "(NYSE: NPB) (the \"Company\"), the holding company of Northpointe Bank, issued a press release announcing that its Board of Directors has authorized and approved a stock repurchase program for up to $30 million of the currently outstanding shares of the Company’s common stock over a period of 12 month",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1336706/000133670626000075/0001336706-26-000075-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1336706/000133670626000075/npb-20261026.htm",
-   "filed_at": "2026-10-26T16:31:23-04:00",
-   "filed_kst": "2026-10-27 05:31",
-   "price": 15.23,
-   "change": -1.36,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 15.23,
-     "change": -1.36
-    },
-    {
-     "date": "2026-10-23",
-     "close": 15.44,
-     "change": -0.06
-    },
-    {
-     "date": "2026-10-22",
-     "close": 15.45,
-     "change": 2.12
-    }
-   ],
-   "market_cap": 526681454.0,
-   "shares_outstanding": 34581842.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "MI",
-   "hq": "GRAND RAPIDS, MI",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T05:31:54+09:00"
-  },
-  {
-   "id": "0001213900-26-112499",
-   "company": "Churchill Capital Corp XI",
-   "ticker": "CCXI",
-   "cik": 2074973,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 66,
-   "summary": "● GXO Logistics , where Digit has moved more than 100,000 totes at its Georgia facility under a multi-year commercial agreement that began in June 2024, marking the first formal commercial deployment of a humanoid robot in live operations.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026112499/0001213900-26-112499-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026112499/ea0309659-425_churchill11.htm",
-   "filed_at": "2026-10-26T16:30:24-04:00",
-   "filed_kst": "2026-10-27 05:30",
-   "price": 10.25,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 10.25,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-23",
-     "close": 10.26,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-22",
-     "close": 10.27,
-     "change": -0.77
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "General Industrial Machinery & Equipment, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T05:31:22+09:00"
-  },
-  {
-   "id": "0001213900-26-112500",
-   "company": "Churchill Capital Corp XI",
-   "ticker": "CCXI",
-   "cik": 2074973,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The announcement builds on the companies’ industry-first, multi-year agreement in 2024 to deploy Agility Robotics’ Digit® humanoid robot in a live GXO warehouse environment in Flowery Branch, Georgia.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026112500/0001213900-26-112500-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026112500/ea0309662-425_churchill11.htm",
-   "filed_at": "2026-10-26T16:30:24-04:00",
-   "filed_kst": "2026-10-27 05:30",
-   "price": 10.25,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 10.25,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-23",
-     "close": 10.26,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-22",
-     "close": 10.27,
-     "change": -0.77
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "General Industrial Machinery & Equipment, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T05:31:20+09:00"
-  },
-  {
-   "id": "0001630472-26-000031",
-   "company": "TPG RE Finance Trust, Inc.",
-   "ticker": "TRTX",
-   "cik": 1630472,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "Building on this momentum, our Board approved a new $50 million share repurchase program, doubling our prior authorization and underscoring our conviction in the value of TRTX shares and our disciplined approach to capital allocation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1630472/000163047226000031/0001630472-26-000031-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1630472/000163047226000031/trtx3q26exhibit992.htm",
-   "filed_at": "2026-10-26T16:13:09-04:00",
-   "filed_kst": "2026-10-27 05:13",
-   "price": 6.26,
-   "change": -0.32,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 6.26,
-     "change": -0.32
-    },
-    {
-     "date": "2026-10-23",
-     "close": 6.28,
-     "change": 0.96
-    },
-    {
-     "date": "2026-10-22",
-     "close": 6.22,
-     "change": 6.32
-    }
-   ],
-   "market_cap": 474676732.0,
-   "shares_outstanding": 75826954.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-27T05:13:52+09:00"
   }
  ]
 }
