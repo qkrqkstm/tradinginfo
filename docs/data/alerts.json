@@ -1,7 +1,115 @@
 {
- "updated_at": "2026-10-29T21:14:10+09:00",
+ "updated_at": "2026-10-29T21:19:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000076605-26-000106",
+   "company": "PATRICK INDUSTRIES INC",
+   "ticker": "PATK",
+   "cik": 76605,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 72,
+   "summary": "At the end of the third quarter, the Company had $62 million of unused capacity under its current share repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000106/0000076605-26-000106-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000106/earningsreleaseq32026.htm",
+   "filed_at": "2026-10-29T08:17:06-04:00",
+   "filed_kst": "2026-10-29 21:17",
+   "price": 69.93,
+   "change": -2.78,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 69.93,
+     "change": -2.78
+    },
+    {
+     "date": "2026-10-27",
+     "close": 71.93,
+     "change": 2.09
+    },
+    {
+     "date": "2026-10-26",
+     "close": 70.46,
+     "change": 2.32
+    }
+   ],
+   "market_cap": 2246030202.0,
+   "shares_outstanding": 32118264.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "IN",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T21:17:37+09:00"
+  },
+  {
+   "id": "0001213900-26-113562",
+   "company": "Quanome Technologies, Inc.",
+   "ticker": "QNME",
+   "cik": 1996192,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Quanome first announced an approximately US$18.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026113562/0001213900-26-113562-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026113562/ea030999901ex99-1.htm",
+   "filed_at": "2026-10-29T08:15:30-04:00",
+   "filed_kst": "2026-10-29 21:15",
+   "price": 0.44,
+   "change": -0.11,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 0.44,
+     "change": -0.11
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.44,
+     "change": 17.02
+    },
+    {
+     "date": "2026-10-27",
+     "close": 0.38,
+     "change": -9.4
+    }
+   ],
+   "market_cap": 15148126.0,
+   "shares_outstanding": 34427559.0,
+   "industry": "Arrangement of  Transportation of  Freight & Cargo",
+   "state_of_incorporation": "NV",
+   "hq": "ITASCA, IL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-29T21:16:31+09:00"
+  },
   {
    "id": "0001104659-26-119912",
    "company": "Coherus Oncology, Inc.",
@@ -15748,111 +15856,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-27T06:16:02+09:00"
-  },
-  {
-   "id": "0001193125-26-432157",
-   "company": "Boundless Bio, Inc.",
-   "ticker": "BOLD",
-   "cik": 1782303,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ": 333-299369 Date: October 26, 2026 This filing relates to the proposed transaction pursuant to the terms of that certain Agreement and Plan of Merger and Reorganization, dated as of June 22, 2026, as amended by Amendment No.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1782303/000119312526432157/0001193125-26-432157-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782303/000119312526432157/d172626d425.htm",
-   "filed_at": "2026-10-26T17:07:59-04:00",
-   "filed_kst": "2026-10-27 06:07",
-   "price": 2.41,
-   "change": 2.12,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 2.41,
-     "change": 2.12
-    },
-    {
-     "date": "2026-10-23",
-     "close": 2.36,
-     "change": -3.28
-    },
-    {
-     "date": "2026-10-22",
-     "close": 2.44,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 54822644.0,
-   "shares_outstanding": 22747985.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "LA JOLLA, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T06:08:36+09:00"
-  },
-  {
-   "id": "0001580642-26-007114",
-   "company": "New Mountain Finance Corp",
-   "ticker": "NMFC",
-   "cik": 1496099,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "1 New Mountain Finance Corporation Announces the Extension of its Stock Repurchase Program NEW YORK--(BUSINESS WIRE)—October 26, 2026--New Mountain Finance Corporation (NASDAQ: NMFC) (“NMFC” or “the Company”) today announced that on October 20, 2026, the Company’s board of directors authorized an ex",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1496099/000158064226007114/0001580642-26-007114-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1496099/000158064226007114/ex99-1.htm",
-   "filed_at": "2026-10-26T17:01:43-04:00",
-   "filed_kst": "2026-10-27 06:01",
-   "price": 6.61,
-   "change": -0.9,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 6.61,
-     "change": -0.9
-    },
-    {
-     "date": "2026-10-23",
-     "close": 6.67,
-     "change": -0.74
-    },
-    {
-     "date": "2026-10-22",
-     "close": 6.72,
-     "change": 3.23
-    }
-   ],
-   "market_cap": 624330298.0,
-   "shares_outstanding": 94452390.0,
-   "industry": null,
-   "state_of_incorporation": "United States",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T06:02:24+09:00"
   }
  ]
 }
