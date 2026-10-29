@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-29T21:04:25+09:00",
+ "updated_at": "2026-10-29T21:09:04+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-437051",
+   "company": "Anheuser-Busch InBev SA/NV",
+   "ticker": "BUD",
+   "cik": 1668717,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6 billion USD of our 6 billion USD share buyback program announced on 30 October 2025.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1668717/000119312526437051/0001193125-26-437051-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1668717/000119312526437051/d159047dex991.htm",
+   "filed_at": "2026-10-29T08:07:24-04:00",
+   "filed_kst": "2026-10-29 21:07",
+   "price": 80.98,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 80.98,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 80.98,
+     "change": -0.48
+    },
+    {
+     "date": "2026-10-27",
+     "close": 81.37,
+     "change": -0.74
+    }
+   ],
+   "market_cap": 145537255514.0,
+   "shares_outstanding": 1797199994.0,
+   "industry": "Malt Beverages",
+   "state_of_incorporation": "Belgium",
+   "hq": "LEUVEN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T21:08:02+09:00"
+  },
   {
    "id": "0001193125-26-437037",
    "company": "UPBOUND GROUP, INC.",
@@ -15799,58 +15849,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-27T05:58:02+09:00"
-  },
-  {
-   "id": "0001193125-26-432114",
-   "company": "Rallybio Corp",
-   "ticker": "RLYB",
-   "cik": 1739410,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously disclosed, on May 31, 2026, the Rallybio Corporation, a Delaware corporation (the “Company”), entered into an Agreement and Plan of Merger and Reorganization (the “Merger Agreement”) with Avenzo Therapeutics, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1739410/000119312526432114/0001193125-26-432114-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1739410/000119312526432114/d353286d8k.htm",
-   "filed_at": "2026-10-26T16:53:10-04:00",
-   "filed_kst": "2026-10-27 05:53",
-   "price": 16.65,
-   "change": 0.06,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 16.65,
-     "change": 0.06
-    },
-    {
-     "date": "2026-10-23",
-     "close": 16.64,
-     "change": 1.46
-    },
-    {
-     "date": "2026-10-22",
-     "close": 16.4,
-     "change": 1.11
-    }
-   ],
-   "market_cap": 88419808.0,
-   "shares_outstanding": 5310499.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW HAVEN, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T05:53:42+09:00"
   }
  ]
 }
