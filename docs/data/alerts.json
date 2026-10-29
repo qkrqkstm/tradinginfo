@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-30T05:59:13+09:00",
+ "updated_at": "2026-10-30T06:04:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-120260",
+   "company": "DoubleVerify Holdings, Inc.",
+   "ticker": "DV",
+   "cik": 1819928,
+   "form": "8-K",
+   "items": [
+    "5.07"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "The final voting results for each of the proposals submitted to a vote of the Company’s stockholders at the Special Meeting are as follows: Proposal 1 - Adoption of the Merger Agreement : The Company’s stockholders adopted the Agreement and Plan of Merger, dated as of August 6, 2026 (as the same may",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1819928/000110465926120260/0001104659-26-120260-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1819928/000110465926120260/tm2627835d3_8k.htm",
+   "filed_at": "2026-10-29T17:00:22-04:00",
+   "filed_kst": "2026-10-30 06:00",
+   "price": 13.57,
+   "change": 0.3,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 13.57,
+     "change": 0.3
+    },
+    {
+     "date": "2026-10-28",
+     "close": 13.53,
+     "change": -0.07
+    },
+    {
+     "date": "2026-10-27",
+     "close": 13.54,
+     "change": -0.07
+    }
+   ],
+   "market_cap": 2103171514.0,
+   "shares_outstanding": 154986847.0,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T06:00:49+09:00"
+  },
   {
    "id": "0001590584-26-000089",
    "company": "Civeo Corp",
@@ -15859,60 +15911,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T05:24:16+09:00"
-  },
-  {
-   "id": "0001289490-26-000061",
-   "company": "Extra Space Storage Inc.",
-   "ticker": "EXR",
-   "cik": 1289490,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "• In conjunction with a joint venture partner, completed the development of one store for a total cost of approximately $16.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1289490/000128949026000061/0001289490-26-000061-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1289490/000128949026000061/q32026ex991earningsrelease.htm",
-   "filed_at": "2026-10-27T16:17:52-04:00",
-   "filed_kst": "2026-10-28 05:17",
-   "price": 144.67,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 144.67,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 144.67,
-     "change": 0.91
-    },
-    {
-     "date": "2026-10-26",
-     "close": 143.37,
-     "change": -0.03
-    }
-   ],
-   "market_cap": 30564366956.0,
-   "shares_outstanding": 211269558.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "SALT LAKE CITY, UT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:18:24+09:00"
   }
  ]
 }
