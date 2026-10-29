@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-10-29T20:34:23+09:00",
+ "updated_at": "2026-10-29T20:39:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-437014",
+   "company": "Maplebear Inc.",
+   "ticker": "CART",
+   "cik": 1579091,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.1 2 d24470dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Instacart Announces Third Quarter 2026 Financial Results GTV grew 15% year-over-year and total revenue grew 17% year-over-year GAAP net income of $147 million; Adjusted EBITDA of $342 million, up 23% year-over-year Instacart enters into definit",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526437014/0001193125-26-437014-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526437014/d24470dex991.htm",
+   "filed_at": "2026-10-29T07:38:32-04:00",
+   "filed_kst": "2026-10-29 20:38",
+   "price": 58.42,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 58.42,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 58.42,
+     "change": -2.76
+    },
+    {
+     "date": "2026-10-27",
+     "close": 60.08,
+     "change": -1.31
+    }
+   ],
+   "market_cap": 13524233914.0,
+   "shares_outstanding": 231500067.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:39:05+09:00"
+  },
+  {
+   "id": "0001018963-26-000004",
+   "company": "ATI INC",
+   "ticker": "ATI",
+   "cik": 1018963,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 75,
+   "summary": "As of the end of third quarter 2026, total share repurchase authorization remaining was $425 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1018963/000101896326000004/0001018963-26-000004-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1018963/000101896326000004/form8-kq2026ex9911.htm",
+   "filed_at": "2026-10-29T07:34:00-04:00",
+   "filed_kst": "2026-10-29 20:34",
+   "price": 165.3,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 165.3,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 165.3,
+     "change": -0.51
+    },
+    {
+     "date": "2026-10-27",
+     "close": 166.14,
+     "change": 0.97
+    }
+   ],
+   "market_cap": 22508964310.0,
+   "shares_outstanding": 136170383.0,
+   "industry": "Steel Pipe & Tubes",
+   "state_of_incorporation": "DE",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:35:27+09:00"
+  },
   {
    "id": "0001929561-26-000046",
    "company": "RXO, Inc.",
@@ -15736,112 +15843,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T05:35:28+09:00"
-  },
-  {
-   "id": "0001213900-26-112502",
-   "company": "Health In Tech, Inc.",
-   "ticker": "HIT",
-   "cik": 2019505,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "· Expanded focus on strategic growth opportunities: New CEO mandate encompasses scaling existing businesses, accelerating commercialization, identifying acquisition opportunities, developing strategic partnerships and pursuing disciplined initiatives to create long-term shareholder value.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026112502/0001213900-26-112502-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026112502/ea030971701ex99-1.htm",
-   "filed_at": "2026-10-26T16:33:59-04:00",
-   "filed_kst": "2026-10-27 05:33",
-   "price": 0.54,
-   "change": -4.64,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 0.54,
-     "change": -4.64
-    },
-    {
-     "date": "2026-10-23",
-     "close": 0.56,
-     "change": -2.26
-    },
-    {
-     "date": "2026-10-22",
-     "close": 0.57,
-     "change": -4.17
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Insurance Agents, Brokers & Service",
-   "state_of_incorporation": null,
-   "hq": "STUART, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T05:34:34+09:00"
-  },
-  {
-   "id": "0000766704-26-000043",
-   "company": "WELLTOWER INC.",
-   "ticker": "WELL",
-   "cik": 766704,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 65,
-   "summary": "While we consider pro rata disclosures useful, they may not accurately depict the legal and economic implications of our joint venture arrangements and should be used with caution.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/766704/000076670426000043/0000766704-26-000043-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/766704/000076670426000043/a3q26pressreleaseprnnewswi.htm",
-   "filed_at": "2026-10-26T16:33:01-04:00",
-   "filed_kst": "2026-10-27 05:33",
-   "price": 240.61,
-   "change": 1.39,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 240.61,
-     "change": 1.39
-    },
-    {
-     "date": "2026-10-23",
-     "close": 237.32,
-     "change": -0.03
-    },
-    {
-     "date": "2026-10-22",
-     "close": 237.4,
-     "change": 1.37
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "DE",
-   "hq": "TOLEDO, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T05:34:02+09:00"
   }
  ]
 }
