@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-30T04:29:22+09:00",
+ "updated_at": "2026-10-30T04:34:55+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-049251",
+   "company": "Digital Brands Group, Inc.",
+   "ticker": "DBGI",
+   "cik": 1668010,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "This cash flow stems from the Company’s two-year, $165 million binding contract.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226049251/0001493152-26-049251-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226049251/ex99-1.htm",
+   "filed_at": "2026-10-29T15:33:54-04:00",
+   "filed_kst": "2026-10-30 04:33",
+   "price": 0.73,
+   "change": -13.33,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 0.73,
+     "change": -13.33
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.84,
+     "change": -15.92
+    },
+    {
+     "date": "2026-10-27",
+     "close": 1.0,
+     "change": -14.62
+    }
+   ],
+   "market_cap": 681462.0,
+   "shares_outstanding": 933509.0,
+   "industry": "Retail-Apparel & Accessory Stores",
+   "state_of_incorporation": "DE",
+   "hq": "ROUND ROCK, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-30T04:34:55+09:00"
+  },
   {
    "id": "0001654954-26-009233",
    "company": "HSBC HOLDINGS PLC",
@@ -15813,57 +15868,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-27T19:35:26+09:00"
-  },
-  {
-   "id": "0001654954-26-009151",
-   "company": "Wise Group plc",
-   "ticker": "WSE",
-   "cik": 2099039,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": "9250 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009151/0001654954-26-009151-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009151/a5121a.htm",
-   "filed_at": "2026-10-27T06:32:10-04:00",
-   "filed_kst": "2026-10-27 19:32",
-   "price": 10.99,
-   "change": -0.72,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 10.99,
-     "change": -0.72
-    },
-    {
-     "date": "2026-10-23",
-     "close": 11.07,
-     "change": -0.09
-    },
-    {
-     "date": "2026-10-22",
-     "close": 11.08,
-     "change": 0.27
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Jersey",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:32:49+09:00"
   }
  ]
 }
