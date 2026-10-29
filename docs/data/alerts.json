@@ -1,7 +1,595 @@
 {
- "updated_at": "2026-10-29T19:59:21+09:00",
+ "updated_at": "2026-10-29T20:04:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000879169-26-000063",
+   "company": "INCYTE CORP",
+   "ticker": "INCY",
+   "cik": 879169,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "탑라인결과",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 97,
+   "summary": "Key Business Updates Hematology INCA033989 (mutCALR) • A Phase 3 study (EXCALIBUR-MF2) is expected to initiate by year end 2026, following positive End-of-Phase 2 interactions with the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000063/0000879169-26-000063-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000063/incy-q32026xexx991.htm",
+   "filed_at": "2026-10-29T07:03:57-04:00",
+   "filed_kst": "2026-10-29 20:03",
+   "price": 116.87,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 116.87,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 116.87,
+     "change": 0.23
+    },
+    {
+     "date": "2026-10-27",
+     "close": 116.6,
+     "change": 2.9
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Commercial Physical & Biological Research",
+   "state_of_incorporation": "DE",
+   "hq": "WILMINGTON, DE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:04:51+09:00"
+  },
+  {
+   "id": "0001372514-26-000088",
+   "company": "KIORA PHARMACEUTICALS INC",
+   "ticker": "KPRX",
+   "cik": 1372514,
+   "form": "8-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과"
+   ],
+   "confidence": 83,
+   "summary": "1 In the randomized Phase 2a study in Japan conducted by Senju and its partners, KIO-401 demonstrated a statistically significant improvement from baseline in Early Treatment Diabetic Retinopathy Study (ETDRS) visual acuity compared with a prospective, observational registry (p=0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000088/0001372514-26-000088-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000088/ex992-companypresentatio.htm",
+   "filed_at": "2026-10-29T07:03:26-04:00",
+   "filed_kst": "2026-10-29 20:03",
+   "price": 2.36,
+   "change": 2.61,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 2.36,
+     "change": 2.61
+    },
+    {
+     "date": "2026-10-27",
+     "close": 2.3,
+     "change": 4.07
+    },
+    {
+     "date": "2026-10-26",
+     "close": 2.21,
+     "change": -3.49
+    }
+   ],
+   "market_cap": 10441553.0,
+   "shares_outstanding": 4424387.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "ENCINITAS, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-29T20:04:17+09:00"
+  },
+  {
+   "id": "0001326190-26-000060",
+   "company": "Altimmune, Inc.",
+   "ticker": "ALT",
+   "cik": 1326190,
+   "form": "8-K",
+   "items": [
+    "2.03"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "0 million in an aggregate principal amount (“Tranche Three”) from its $125.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326190/000132619026000060/0001326190-26-000060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326190/000132619026000060/alt-20261027x8k.htm",
+   "filed_at": "2026-10-29T07:03:28-04:00",
+   "filed_kst": "2026-10-29 20:03",
+   "price": 2.1,
+   "change": 2.94,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 2.1,
+     "change": 2.94
+    },
+    {
+     "date": "2026-10-27",
+     "close": 2.04,
+     "change": -0.49
+    },
+    {
+     "date": "2026-10-26",
+     "close": 2.05,
+     "change": -3.3
+    }
+   ],
+   "market_cap": 408487172.0,
+   "shares_outstanding": 194517701.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "GAITHERSBURG, MD",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-29T20:04:16+09:00"
+  },
+  {
+   "id": "0000059478-26-000104",
+   "company": "ELI LILLY & Co",
+   "ticker": "LLY",
+   "cik": 59478,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "탑라인결과",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 97,
+   "summary": "FDA approvals of Mounjaro to reduce cardiovascular risk in adults with type 2 diabetes; Onswik, a once-weekly basal insulin for adults with type 2 diabetes; Inluriyo with Verzenio for adults with ER+, HER2-, ESR1-mutated advanced or metastatic breast cancer; a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000104/0000059478-26-000104-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000104/q326lillysalesandearningsp.htm",
+   "filed_at": "2026-10-29T07:03:30-04:00",
+   "filed_kst": "2026-10-29 20:03",
+   "price": 1288.3,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 1288.3,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 1288.3,
+     "change": 0.5
+    },
+    {
+     "date": "2026-10-27",
+     "close": 1281.91,
+     "change": 0.22
+    }
+   ],
+   "market_cap": 1212750306840.0,
+   "shares_outstanding": 941357065.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "IN",
+   "hq": "INDIANAPOLIS, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:04:14+09:00"
+  },
+  {
+   "id": "0001193125-26-436954",
+   "company": "Indivior Pharmaceuticals, Inc.",
+   "ticker": "INDV",
+   "cik": 1625297,
+   "form": "425",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "배당"
+   ],
+   "confidence": 63,
+   "summary": "“Upon the imminent closing of our merger with Supernus, we will have successfully completed all three phases of the Indivior Action Agenda.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1625297/000119312526436954/0001193125-26-436954-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1625297/000119312526436954/d169609d425.htm",
+   "filed_at": "2026-10-29T07:02:22-04:00",
+   "filed_kst": "2026-10-29 20:02",
+   "price": 34.77,
+   "change": 0.14,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 34.77,
+     "change": 0.14
+    },
+    {
+     "date": "2026-10-27",
+     "close": 34.72,
+     "change": 0.46
+    },
+    {
+     "date": "2026-10-26",
+     "close": 34.56,
+     "change": 0.26
+    }
+   ],
+   "market_cap": 4103334576.0,
+   "shares_outstanding": 118013649.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NORTH CHESTERFIELD, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:03:11+09:00"
+  },
+  {
+   "id": "0001334036-26-000058",
+   "company": "Crocs, Inc.",
+   "ticker": "CROX",
+   "cik": 1334036,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "7 billion of share repurchase authorization remained available for future repurchases.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1334036/000133403626000058/0001334036-26-000058-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1334036/000133403626000058/croxq32026-pressrelease.htm",
+   "filed_at": "2026-10-29T07:02:04-04:00",
+   "filed_kst": "2026-10-29 20:02",
+   "price": 119.69,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 119.69,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 119.69,
+     "change": 0.16
+    },
+    {
+     "date": "2026-10-27",
+     "close": 119.5,
+     "change": 0.55
+    }
+   ],
+   "market_cap": 5738546027.0,
+   "shares_outstanding": 47945075.0,
+   "industry": "Rubber & Plastics Footwear",
+   "state_of_incorporation": null,
+   "hq": "BROOMFIELD, CO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:02:38+09:00"
+  },
+  {
+   "id": "0001758730-26-000143",
+   "company": "Tradeweb Markets Inc.",
+   "ticker": "TW",
+   "cik": 1758730,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 73,
+   "summary": "7% on a constant currency basis), primarily due to amendments to our LSEG market data license agreement which were effective as of November 2025.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1758730/000175873026000143/0001758730-26-000143-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1758730/000175873026000143/tw-2026xq3xex991.htm",
+   "filed_at": "2026-10-29T07:01:07-04:00",
+   "filed_kst": "2026-10-29 20:01",
+   "price": 119.82,
+   "change": 0.13,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 119.82,
+     "change": 0.13
+    },
+    {
+     "date": "2026-10-27",
+     "close": 119.67,
+     "change": -3.06
+    },
+    {
+     "date": "2026-10-26",
+     "close": 123.45,
+     "change": 0.72
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:02:05+09:00"
+  },
+  {
+   "id": "0001140361-26-041097",
+   "company": "INSMED Inc",
+   "ticker": "INSM",
+   "cik": 1104506,
+   "form": "8-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 65,
+   "summary": "The FDA granted Priority Review to the sNDA and set a target action date of January 28, 2027, under the Prescription Drug User Fee Act (PDUFA).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/0001140361-26-041097-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_ex99-1.htm",
+   "filed_at": "2026-10-29T07:01:15-04:00",
+   "filed_kst": "2026-10-29 20:01",
+   "price": 96.98,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 96.98,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 96.98,
+     "change": 2.13
+    },
+    {
+     "date": "2026-10-27",
+     "close": 94.96,
+     "change": 1.75
+    }
+   ],
+   "market_cap": 21275502367.0,
+   "shares_outstanding": 219380309.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "VA",
+   "hq": "BRIDGEWATER, NJ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:02:03+09:00"
+  },
+  {
+   "id": "0001645113-26-000081",
+   "company": "NovoCure Ltd",
+   "ticker": "NVCR",
+   "cik": 1645113,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향"
+   ],
+   "confidence": 58,
+   "summary": "1 Document Novocure Reports Third Quarter 2026 Financial Results and Raises 2026 Guidance Third quarter net revenues of $193 million an increase of 16% year-over-year, driven by 19% growth in active patients worldwide Strong performance drove increased net revenue guidance for full-year 2026 to $736",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000081/0001645113-26-000081-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000081/nvcr-20260930xpr.htm",
+   "filed_at": "2026-10-29T07:00:28-04:00",
+   "filed_kst": "2026-10-29 20:00",
+   "price": 14.17,
+   "change": -3.08,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 14.17,
+     "change": -3.08
+    },
+    {
+     "date": "2026-10-27",
+     "close": 14.62,
+     "change": 1.53
+    },
+    {
+     "date": "2026-10-26",
+     "close": 14.4,
+     "change": -1.91
+    }
+   ],
+   "market_cap": 1656699139.0,
+   "shares_outstanding": 116915959.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": null,
+   "hq": "ST. HELIER",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:01:26+09:00"
+  },
+  {
+   "id": "0001104659-26-119841",
+   "company": "Norwegian Cruise Line Holdings Ltd.",
+   "ticker": "NCLH",
+   "cik": 1513761,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 2 nclh-ex10d1.htm EX-10.1 ​ Exhibit 10.1 EMPLOYMENT AGREEMENT THIS EMPLOYMENT AGREEMENT (this “ Agreement ”) is made and entered into this 27th day of October 2026, by and between NCL (Bahamas) Ltd., a company organized under the laws of Bermuda (the “ Company ”), and Meghan Montana (the “ E",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926119841/0001104659-26-119841-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926119841/nclh-ex10d1.htm",
+   "filed_at": "2026-10-29T07:00:13-04:00",
+   "filed_kst": "2026-10-29 20:00",
+   "price": 16.06,
+   "change": 1.97,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 16.06,
+     "change": 1.97
+    },
+    {
+     "date": "2026-10-27",
+     "close": 15.75,
+     "change": 3.28
+    },
+    {
+     "date": "2026-10-26",
+     "close": 15.25,
+     "change": 0.99
+    }
+   ],
+   "market_cap": 7374556807.0,
+   "shares_outstanding": 459187846.0,
+   "industry": "Water Transportation",
+   "state_of_incorporation": "Bermuda",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:00:50+09:00"
+  },
+  {
+   "id": "0001193125-26-436953",
+   "company": "Indivior Pharmaceuticals, Inc.",
+   "ticker": "INDV",
+   "cik": 1625297,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "배당"
+   ],
+   "confidence": 63,
+   "summary": "“Upon the imminent closing of our merger with Supernus, we will have successfully completed all three phases of the Indivior Action Agenda.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1625297/000119312526436953/0001193125-26-436953-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1625297/000119312526436953/d169609dex991.htm",
+   "filed_at": "2026-10-29T07:00:15-04:00",
+   "filed_kst": "2026-10-29 20:00",
+   "price": 34.77,
+   "change": 0.14,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 34.77,
+     "change": 0.14
+    },
+    {
+     "date": "2026-10-27",
+     "close": 34.72,
+     "change": 0.46
+    },
+    {
+     "date": "2026-10-26",
+     "close": 34.56,
+     "change": 0.26
+    }
+   ],
+   "market_cap": 4103334576.0,
+   "shares_outstanding": 118013649.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NORTH CHESTERFIELD, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:00:48+09:00"
+  },
   {
    "id": "0001735707-26-000033",
    "company": "Garrett Motion Inc.",
@@ -15217,575 +15805,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T01:34:17+09:00"
-  },
-  {
-   "id": "0001654954-26-009141",
-   "company": "GSK plc",
-   "ticker": "GSK",
-   "cik": 1131399,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 84,
-   "summary": "Ris-Rez has received several global regulatory designations to date, such as orphan drug designations in the US, Japan and the EU for SCLC; Breakthrough Therapy Designation in the US and Priority Medicines (PRIME) Designation from the EMA for relapsed or refractory ES-SCLC; and Breakthrough Therapy ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009141/0001654954-26-009141-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009141/a4463a.htm",
-   "filed_at": "2026-10-26T12:16:51-04:00",
-   "filed_kst": "2026-10-27 01:16",
-   "price": 51.16,
-   "change": 0.82,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 51.17,
-     "change": 0.82
-    },
-    {
-     "date": "2026-10-23",
-     "close": 50.75,
-     "change": -0.9
-    },
-    {
-     "date": "2026-10-22",
-     "close": 51.21,
-     "change": 2.38
-    }
-   ],
-   "market_cap": 220778167530.0,
-   "shares_outstanding": 4315445026.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T01:17:27+09:00"
-  },
-  {
-   "id": "0001628280-26-067189",
-   "company": "ERICSSON LM TELEPHONE CO",
-   "ticker": "ERIC",
-   "cik": 717826,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "00 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026 and which runs between April 23, 2026 and March 31, 2027, at the latest.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026067189/0001628280-26-067189-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026067189/sharebuybacksinericssondur.htm",
-   "filed_at": "2026-10-26T11:34:38-04:00",
-   "filed_kst": "2026-10-27 00:34",
-   "price": 10.87,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 10.87,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 10.87,
-     "change": 1.95
-    },
-    {
-     "date": "2026-10-23",
-     "close": 10.66,
-     "change": 2.7
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": "Sweden",
-   "hq": "STOCKHOLM SWEDEN, V7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T00:39:35+09:00"
-  },
-  {
-   "id": "0001650107-26-000131",
-   "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
-   "ticker": "CCEP",
-   "cik": 1650107,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "The repurchased ordinary shares will be cancelled.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000131/0001650107-26-000131-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000131/a20261026ccepform6-kweekly.htm",
-   "filed_at": "2026-10-26T09:38:46-04:00",
-   "filed_kst": "2026-10-26 22:38",
-   "price": 111.23,
-   "change": 0.36,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 111.24,
-     "change": 0.36
-    },
-    {
-     "date": "2026-10-23",
-     "close": 110.84,
-     "change": -2.97
-    },
-    {
-     "date": "2026-10-22",
-     "close": 114.23,
-     "change": 3.57
-    }
-   ],
-   "market_cap": 49951897068.0,
-   "shares_outstanding": 449086551.0,
-   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "UXBRIDGE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-26T22:40:32+09:00"
-  },
-  {
-   "id": "0001648416-26-000136",
-   "company": "Ferrari N.V.",
-   "ticker": "RACE",
-   "cik": 1648416,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), October 26, 2026 – Ferrari N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000136/0001648416-26-000136-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000136/fnvbb261026prex.htm",
-   "filed_at": "2026-10-26T09:32:30-04:00",
-   "filed_kst": "2026-10-26 22:32",
-   "price": 397.64,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 397.64,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 397.64,
-     "change": 1.11
-    },
-    {
-     "date": "2026-10-23",
-     "close": 393.28,
-     "change": -1.1
-    }
-   ],
-   "market_cap": 73463150980.0,
-   "shares_outstanding": 184747890.0,
-   "industry": "Motor Vehicles & Passenger Car Bodies",
-   "state_of_incorporation": "Netherlands",
-   "hq": "MARANELLO, L6",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-26T22:33:15+09:00"
-  },
-  {
-   "id": "0000932787-26-000083",
-   "company": "STMicroelectronics N.V.",
-   "ticker": "STM",
-   "cik": 932787,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "PR N°C3418C STMicroelectronics announces status of common share repurchase program Disclosure of Transactions in Own Shares – Period from October 19, 2026 to October 23, 2026 AMSTERDAM – October 26, 2026 -- STMicroelectronics N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000083/0000932787-26-000083-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000083/c3418c-october262026xdiscl.htm",
-   "filed_at": "2026-10-26T09:29:50-04:00",
-   "filed_kst": "2026-10-26 22:29",
-   "price": 44.41,
-   "change": 0.89,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 44.41,
-     "change": 0.89
-    },
-    {
-     "date": "2026-10-23",
-     "close": 44.02,
-     "change": -0.16
-    },
-    {
-     "date": "2026-10-22",
-     "close": 44.09,
-     "change": -7.04
-    }
-   ],
-   "market_cap": 39470193630.0,
-   "shares_outstanding": 888768152.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "Netherlands",
-   "hq": "SCHIPHOL AIRPORT, P7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-26T22:30:40+09:00"
-  },
-  {
-   "id": "0002004711-26-000019",
-   "company": "Bending Spoons S.p.A.",
-   "ticker": "BSP",
-   "cik": 2004711,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "” Details of the Transaction Under the terms of the agreement, Bending Spoons acquired 100% of the issued and outstanding shares of Miro in an all-cash transaction.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000019/0002004711-26-000019-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000019/bsp_ex99-1.htm",
-   "filed_at": "2026-10-26T09:19:34-04:00",
-   "filed_kst": "2026-10-26 22:19",
-   "price": 44.08,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 44.08,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 44.08,
-     "change": -3.52
-    },
-    {
-     "date": "2026-10-22",
-     "close": 45.69,
-     "change": 3.54
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "Italy",
-   "hq": "MILAN",
-   "entity_category": null,
-   "detected_at": "2026-10-26T22:21:12+09:00"
-  },
-  {
-   "id": "0001193125-26-431200",
-   "company": "Hyperliquid Strategies Inc",
-   "ticker": "PURR",
-   "cik": 2078856,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 67,
-   "summary": "1 Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million New York, New York, October 23, 2026 — Hyperliquid Strategies Inc (NASDAQ: PURR) (“HSI” or the “Company”), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526431200/0001193125-26-431200-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526431200/purr-ex99_1.htm",
-   "filed_at": "2026-10-26T09:13:32-04:00",
-   "filed_kst": "2026-10-26 22:13",
-   "price": 8.78,
-   "change": 1.15,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 8.78,
-     "change": 1.15
-    },
-    {
-     "date": "2026-10-22",
-     "close": 8.68,
-     "change": -9.77
-    },
-    {
-     "date": "2026-10-21",
-     "close": 9.62,
-     "change": 5.14
-    }
-   ],
-   "market_cap": 1737014102.0,
-   "shares_outstanding": 197837597.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-26T22:14:04+09:00"
-  },
-  {
-   "id": "0001193125-26-431191",
-   "company": "GigCapital9 Corp.",
-   "ticker": "GIX",
-   "cik": 2098712,
-   "form": "425",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Under the terms contemplated by the LOI, GigCapital9 and the target company intend to continue discussions and due diligence toward a potential definitive business combination agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2098712/000119312526431191/0001193125-26-431191-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2098712/000119312526431191/gix-ex99_1.htm",
-   "filed_at": "2026-10-26T09:07:37-04:00",
-   "filed_kst": "2026-10-26 22:07",
-   "price": 10.0,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 10.0,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-22",
-     "close": 10.01,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-21",
-     "close": 10.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-26T22:11:59+09:00"
-  },
-  {
-   "id": "0001193125-26-431190",
-   "company": "GigCapital9 Corp.",
-   "ticker": "GIX",
-   "cik": 2098712,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Under the terms contemplated by the LOI, GigCapital9 and the target company intend to continue discussions and due diligence toward a potential definitive business combination agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2098712/000119312526431190/0001193125-26-431190-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2098712/000119312526431190/gix-ex99_1.htm",
-   "filed_at": "2026-10-26T09:06:57-04:00",
-   "filed_kst": "2026-10-26 22:06",
-   "price": 10.0,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 10.0,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-22",
-     "close": 10.01,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-21",
-     "close": 10.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-26T22:11:58+09:00"
-  },
-  {
-   "id": "0001213900-26-112303",
-   "company": "FORUM MARKETS Inc",
-   "ticker": "FRMM",
-   "cik": 1690080,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 ea030957801ex99-1.htm PRESS RELEASE, DATED OCTOBER 26, 2026 Exhibit 99.1 Forum Edge AI Announces $94.4 Million Definitive AI Cloud Services Compute Agreement with Fireworks PALM BEACH, Fla., Oct. 26, 2026 /PRNewswire/ — Forum Markets, Incorporated (“Forum” or “the Company”) (Nasdaq: FRMM),",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1690080/000121390026112303/0001213900-26-112303-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1690080/000121390026112303/ea030957801ex99-1.htm",
-   "filed_at": "2026-10-26T09:00:19-04:00",
-   "filed_kst": "2026-10-26 22:00",
-   "price": 3.38,
-   "change": 1.5,
-   "price_history": [
-    {
-     "date": "2026-10-23",
-     "close": 3.38,
-     "change": 1.5
-    },
-    {
-     "date": "2026-10-22",
-     "close": 3.33,
-     "change": -6.2
-    },
-    {
-     "date": "2026-10-21",
-     "close": 3.55,
-     "change": 9.23
-    }
-   ],
-   "market_cap": 44612444.0,
-   "shares_outstanding": 13198948.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": null,
-   "hq": "PALM BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-26T22:03:34+09:00"
-  },
-  {
-   "id": "0001437749-26-033465",
-   "company": "SIERRA BANCORP",
-   "ticker": "BSRR",
-   "cik": 1130144,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "8 million at September 30, 2026 , consisting of $113.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1130144/000143774926033465/0001437749-26-033465-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1130144/000143774926033465/ex_1016422.htm",
-   "filed_at": "2026-10-26T09:00:40-04:00",
-   "filed_kst": "2026-10-26 22:00",
-   "price": 41.74,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 41.74,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 41.74,
-     "change": 3.29
-    },
-    {
-     "date": "2026-10-22",
-     "close": 40.41,
-     "change": 1.92
-    }
-   ],
-   "market_cap": 541092191.0,
-   "shares_outstanding": 12963397.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "CA",
-   "hq": "PORTERVILLE, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-26T22:03:32+09:00"
   }
  ]
 }
