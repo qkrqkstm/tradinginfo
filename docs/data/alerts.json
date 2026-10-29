@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-29T22:44:40+09:00",
+ "updated_at": "2026-10-29T22:49:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-006962",
+   "company": "Shell plc",
+   "ticker": "SHEL",
+   "cik": 1306965,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The terms “joint venture”, “joint operations”, “joint arrangements”, and “associates” may also be used to refer to a commercial arrangement in which Shell has a direct or indirect ownership interest with one or more parties.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1306965/000117184326006962/0001171843-26-006962-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1306965/000117184326006962/exh_993.htm",
+   "filed_at": "2026-10-29T09:47:30-04:00",
+   "filed_kst": "2026-10-29 22:47",
+   "price": 107.42,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 107.42,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 107.42,
+     "change": 2.12
+    },
+    {
+     "date": "2026-10-28",
+     "close": 105.19,
+     "change": 0.39
+    }
+   ],
+   "market_cap": 611208163191.0,
+   "shares_outstanding": 5689891670.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DC",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T22:48:04+09:00"
+  },
   {
    "id": "0000842633-26-000057",
    "company": "TRIMAS CORP",
@@ -15816,62 +15866,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T19:09:06+09:00"
-  },
-  {
-   "id": "0001104659-26-118952",
-   "company": "Aclaris Therapeutics, Inc.",
-   "ticker": "ACRS",
-   "cik": 1557746,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "2 EMPOWERING PATIENTS THROUGH THERAPEUTIC INNOVATION October 27, 2026 ATI-052 Phase 1b Primary Analysis Results Atopic Dermatitis and Asthma 2 Any statements contained in this presentation that do not describe historical facts may constitute EX-99.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926118952/0001104659-26-118952-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926118952/acrs-ex99d2.htm",
-   "filed_at": "2026-10-27T06:06:18-04:00",
-   "filed_kst": "2026-10-27 19:06",
-   "price": 3.79,
-   "change": 1.07,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 3.79,
-     "change": 1.07
-    },
-    {
-     "date": "2026-10-23",
-     "close": 3.75,
-     "change": -2.09
-    },
-    {
-     "date": "2026-10-22",
-     "close": 3.83,
-     "change": 0.52
-    }
-   ],
-   "market_cap": 557883804.0,
-   "shares_outstanding": 147198893.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "WAYNE, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-27T19:07:02+09:00"
   }
  ]
 }
