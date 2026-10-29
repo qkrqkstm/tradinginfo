@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-29T23:24:41+09:00",
+ "updated_at": "2026-10-29T23:29:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-120019",
+   "company": "ODNB Financial Corp",
+   "ticker": "NACB",
+   "cik": 1947463,
+   "form": "425",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(“NACB”) announced a definitive merger agreement on June 15, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1947463/000110465926120019/0001104659-26-120019-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1947463/000110465926120019/tm2628451d1_ex99-1.htm",
+   "filed_at": "2026-10-29T10:25:41-04:00",
+   "filed_kst": "2026-10-29 23:25",
+   "price": 87.0,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 87.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "close": 87.0,
+     "change": 1.16
+    },
+    {
+     "date": "2026-10-26",
+     "close": 86.0,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "TYSONS CORNER, VA",
+   "entity_category": null,
+   "detected_at": "2026-10-29T23:26:27+09:00"
+  },
   {
    "id": "0001104659-26-119943",
    "company": "ODNB Financial Corp",
@@ -15818,56 +15870,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T19:15:33+09:00"
-  },
-  {
-   "id": "0001193125-26-432563",
-   "company": "ORIX CORP",
-   "ticker": "IX",
-   "cik": 1070304,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "If, during the Transfer Restriction Period, a merger agreement under which the Company will become a defunct company, a share exchange agreement under which the Company will become a wholly owned subsidiary, a share transfer plan, or any other matter relating to organizational restructuring, etc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1070304/000119312526432563/0001193125-26-432563-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1070304/000119312526432563/d125052d6k.htm",
-   "filed_at": "2026-10-27T06:08:55-04:00",
-   "filed_kst": "2026-10-27 19:08",
-   "price": 36.59,
-   "change": 0.3,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 36.59,
-     "change": 0.3
-    },
-    {
-     "date": "2026-10-23",
-     "close": 36.48,
-     "change": -0.65
-    },
-    {
-     "date": "2026-10-22",
-     "close": 36.72,
-     "change": -0.78
-    }
-   ],
-   "market_cap": 41131061372.0,
-   "shares_outstanding": 1124106624.0,
-   "industry": "Miscellaneous Business Credit Institution",
-   "state_of_incorporation": "Japan",
-   "hq": "TOKYO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:10:33+09:00"
   }
  ]
 }
