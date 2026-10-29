@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-30T06:09:13+09:00",
+ "updated_at": "2026-10-30T06:14:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-041191",
+   "company": "Shutterstock, Inc.",
+   "ticker": "SSTK",
+   "cik": 1549346,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "Shutterstock offers access to one of the world's largest and most diverse collections of high-quality licensable assets, specialized training datasets, evaluation tools, and end-to-end strategic partnerships for the full model training lifecycle, as well as advertising and distribution solutions, ex",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1549346/000114036126041191/0001140361-26-041191-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1549346/000114036126041191/ef20084541_ex99-1.htm",
+   "filed_at": "2026-10-29T17:11:17-04:00",
+   "filed_kst": "2026-10-30 06:11",
+   "price": 4.34,
+   "change": -1.59,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 4.34,
+     "change": -1.59
+    },
+    {
+     "date": "2026-10-28",
+     "close": 4.41,
+     "change": 0.68
+    },
+    {
+     "date": "2026-10-27",
+     "close": 4.38,
+     "change": -0.23
+    }
+   ],
+   "market_cap": 160352949.0,
+   "shares_outstanding": 36947684.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T06:12:05+09:00"
+  },
   {
    "id": "0001140361-26-041190",
    "company": "Maplebear Inc.",
@@ -15836,60 +15887,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T05:31:17+09:00"
-  },
-  {
-   "id": "0000019584-26-000022",
-   "company": "CHEMED CORP",
-   "ticker": "CHE",
-   "cik": 19584,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 68,
-   "summary": "7 million of remaining share repurchase authorization under the Company’s plan.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/19584/000001958426000022/0000019584-26-000022-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/19584/000001958426000022/che-20261027xex99.htm",
-   "filed_at": "2026-10-27T16:30:19-04:00",
-   "filed_kst": "2026-10-28 05:30",
-   "price": 509.09,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 509.09,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 509.09,
-     "change": -0.74
-    },
-    {
-     "date": "2026-10-26",
-     "close": 512.9,
-     "change": -0.02
-    }
-   ],
-   "market_cap": 6653786445.0,
-   "shares_outstanding": 13069961.0,
-   "industry": "Services-Home Health Care Services",
-   "state_of_incorporation": "DE",
-   "hq": "CINCINNATI, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:31:14+09:00"
   }
  ]
 }
