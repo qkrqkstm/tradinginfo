@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-30T03:44:19+09:00",
+ "updated_at": "2026-10-30T03:49:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009233",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009233/0001654954-26-009233-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009233/a0756b.htm",
+   "filed_at": "2026-10-29T14:47:31-04:00",
+   "filed_kst": "2026-10-30 03:47",
+   "price": 86.38,
+   "change": 0.01,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 86.38,
+     "change": 0.01
+    },
+    {
+     "date": "2026-10-28",
+     "close": 86.37,
+     "change": 0.42
+    },
+    {
+     "date": "2026-10-27",
+     "close": 86.01,
+     "change": -5.7
+    }
+   ],
+   "market_cap": 1483597219280.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T03:48:08+09:00"
+  },
   {
    "id": "0001178819-26-000094",
    "company": "ALAMOS GOLD INC",
@@ -15814,60 +15864,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-27T19:32:49+09:00"
-  },
-  {
-   "id": "0000884887-26-000042",
-   "company": "ROYAL CARIBBEAN CRUISES LTD",
-   "ticker": "RCL",
-   "cik": 884887,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 64,
-   "summary": "The company operates 71 ships sailing to more than 1,000 destinations across all seven continents through its three wholly owned brands - Royal Caribbean, Celebrity Cruises, and Silversea - and a 50% joint venture interest in TUI Cruises which operates the Mein Schiff and Hapag-Lloyd brands .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000042/0000884887-26-000042-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000042/a2026q3earningsrelease.htm",
-   "filed_at": "2026-10-27T06:32:00-04:00",
-   "filed_kst": "2026-10-27 19:32",
-   "price": 280.6,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 280.6,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 280.6,
-     "change": 1.49
-    },
-    {
-     "date": "2026-10-23",
-     "close": 276.48,
-     "change": -3.37
-    }
-   ],
-   "market_cap": 75047054770.0,
-   "shares_outstanding": 267452084.0,
-   "industry": "Water Transportation",
-   "state_of_incorporation": null,
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:32:48+09:00"
   }
  ]
 }
