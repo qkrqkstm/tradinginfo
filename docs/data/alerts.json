@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-30T05:34:37+09:00",
+ "updated_at": "2026-10-30T05:39:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178913-26-004911",
+   "company": "NICE Ltd.",
+   "ticker": "NICE",
+   "cik": 1003935,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "We also accelerated our buyback program and repurchased $489 million of shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1003935/000117891326004911/0001178913-26-004911-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1003935/000117891326004911/exhibit_99-1.htm",
+   "filed_at": "2026-10-29T16:34:34-04:00",
+   "filed_kst": "2026-10-30 05:34",
+   "price": 114.99,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 114.99,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 114.99,
+     "change": -2.63
+    },
+    {
+     "date": "2026-10-28",
+     "close": 118.09,
+     "change": -2.87
+    }
+   ],
+   "market_cap": 6948565354.0,
+   "shares_outstanding": 60427562.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": null,
+   "hq": "RA'ANANA, L3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T05:35:30+09:00"
+  },
   {
    "id": "0001437749-26-033950",
    "company": "TWIN DISC INC",
@@ -15861,60 +15911,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T05:12:10+09:00"
-  },
-  {
-   "id": "0001479094-26-000032",
-   "company": "STAG Industrial, Inc.",
-   "ticker": "STAG",
-   "cik": 1479094,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "Quarterly Dividend Declaration and New Share Repurchase Authorization On October 26, 2026, the Company's Board of Directors authorized a dividend in the amount of $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1479094/000147909426000032/0001479094-26-000032-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1479094/000147909426000032/q32026earningsrelease.htm",
-   "filed_at": "2026-10-27T16:07:31-04:00",
-   "filed_kst": "2026-10-28 05:07",
-   "price": 36.18,
-   "change": -0.33,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 36.18,
-     "change": -0.33
-    },
-    {
-     "date": "2026-10-26",
-     "close": 36.3,
-     "change": -0.36
-    },
-    {
-     "date": "2026-10-23",
-     "close": 36.43,
-     "change": -0.22
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": null,
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:08:23+09:00"
   }
  ]
 }
