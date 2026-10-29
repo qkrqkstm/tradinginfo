@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-29T22:39:31+09:00",
+ "updated_at": "2026-10-29T22:44:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000842633-26-000057",
+   "company": "TRIMAS CORP",
+   "ticker": "TRS",
+   "cik": 842633,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "3 million remaining under the Company's share repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842633/000084263326000057/0000842633-26-000057-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/842633/000084263326000057/trs_09302026xexhibit991.htm",
+   "filed_at": "2026-10-29T09:44:00-04:00",
+   "filed_kst": "2026-10-29 22:44",
+   "price": 39.4,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 39.4,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 39.4,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-28",
+     "close": 39.36,
+     "change": -0.38
+    }
+   ],
+   "market_cap": 1413430596.0,
+   "shares_outstanding": 35873873.0,
+   "industry": "Metal Forgings & Stampings",
+   "state_of_incorporation": "DE",
+   "hq": "BLOOMFIELD HILLS, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T22:44:39+09:00"
+  },
   {
    "id": "0001493152-26-049203",
    "company": "Celularity Inc",
@@ -15818,59 +15872,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-27T19:07:02+09:00"
-  },
-  {
-   "id": "0001736946-26-000066",
-   "company": "Arlo Technologies, Inc.",
-   "ticker": "ARLO",
-   "cik": 1736946,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 67,
-   "summary": "1 Arlo Adopts New Stock Repurchase Program Carlsbad, California – October 27, 2026 – Arlo Technologies, Inc .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1736946/000173694626000066/0001736946-26-000066-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1736946/000173694626000066/arloex991-stockrepurchase.htm",
-   "filed_at": "2026-10-27T06:04:14-04:00",
-   "filed_kst": "2026-10-27 19:04",
-   "price": 12.38,
-   "change": -4.99,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 12.38,
-     "change": -4.99
-    },
-    {
-     "date": "2026-10-23",
-     "close": 13.03,
-     "change": 3.41
-    },
-    {
-     "date": "2026-10-22",
-     "close": 12.6,
-     "change": 3.7
-    }
-   ],
-   "market_cap": 1332252704.0,
-   "shares_outstanding": 107613304.0,
-   "industry": "Services-Detective, Guard & Armored Car Services",
-   "state_of_incorporation": "DE",
-   "hq": "CARLSBAD, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:04:54+09:00"
   }
  ]
 }
