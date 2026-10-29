@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-29T20:09:15+09:00",
+ "updated_at": "2026-10-29T20:14:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-436965",
+   "company": "Kymera Therapeutics, Inc.",
+   "ticker": "KYMR",
+   "cik": 1815442,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "1 Kymera Therapeutics Announces Third Quarter 2026 Financial Results and Reports Positive Results from the KT-579 Phase 1 Healthy Volunteer Trial KT-579 (IRF5) Phase 1 healthy volunteer data demonstrated deep, sustained IRF5 degradation, robust modulation of disease-relevant biomarkers and a favorab",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526436965/0001193125-26-436965-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526436965/kymr-ex99_1.htm",
+   "filed_at": "2026-10-29T07:10:14-04:00",
+   "filed_kst": "2026-10-29 20:10",
+   "price": 122.51,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 122.51,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 122.51,
+     "change": 4.2
+    },
+    {
+     "date": "2026-10-27",
+     "close": 117.57,
+     "change": 2.38
+    }
+   ],
+   "market_cap": 10186782211.0,
+   "shares_outstanding": 83150618.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "WATERTOWN, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-29T20:11:06+09:00"
+  },
   {
    "id": "0001104659-26-119857",
    "company": "Howmet Aerospace Inc.",
@@ -15776,57 +15830,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-27T05:06:54+09:00"
-  },
-  {
-   "id": "0001419536-26-000166",
-   "company": "Capital Bancorp Inc",
-   "ticker": "CBNK",
-   "cik": 1419536,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 72,
-   "summary": "• There were no shares repurchased and retired during the three months ended September 30, 2026, as part of the Company's stock repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1419536/000141953626000166/0001419536-26-000166-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1419536/000141953626000166/earningsrelease9302026.htm",
-   "filed_at": "2026-10-26T16:04:34-04:00",
-   "filed_kst": "2026-10-27 05:04",
-   "price": 41.69,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 41.69,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 41.69,
-     "change": 0.97
-    },
-    {
-     "date": "2026-10-23",
-     "close": 41.29,
-     "change": 0.24
-    }
-   ],
-   "market_cap": 679149111.0,
-   "shares_outstanding": 16290456.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": "MD",
-   "hq": "Rockville, MD",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-27T05:05:31+09:00"
   }
  ]
 }
