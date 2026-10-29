@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-29T22:24:38+09:00",
+ "updated_at": "2026-10-29T22:29:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-049203",
+   "company": "Celularity Inc",
+   "ticker": "CELU",
+   "cik": 1752828,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "FDA establishment registration, facility inspection, advisory committee consideration or recommendations, cGMP terminology, a certificate of analysis or domestic manufacture does not constitute FDA approval or endorsement of a substance, API, compounded drug, manufacturer or pharmacy.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1752828/000149315226049203/0001493152-26-049203-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1752828/000149315226049203/ex99-1.htm",
+   "filed_at": "2026-10-29T09:24:54-04:00",
+   "filed_kst": "2026-10-29 22:24",
+   "price": 0.94,
+   "change": 0.01,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 0.94,
+     "change": 0.01
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.94,
+     "change": 18.99
+    },
+    {
+     "date": "2026-10-27",
+     "close": 0.79,
+     "change": 5.33
+    }
+   ],
+   "market_cap": 30503638.0,
+   "shares_outstanding": 32450679.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "FLORHAM PARK, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-29T22:25:26+09:00"
+  },
   {
    "id": "0001213900-26-113595",
    "company": "Inflection Point Acquisition Corp. VI",
@@ -15816,57 +15871,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T19:04:54+09:00"
-  },
-  {
-   "id": "0000039311-26-000065",
-   "company": "INDEPENDENT BANK CORP /MI/",
-   "ticker": "IBCP",
-   "cik": 39311,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 68,
-   "summary": "Share Repurchase Plan On December 16, 2025, the Board of Directors of the Company authorized the 2026 share repurchase plan.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/39311/000003931126000065/0000039311-26-000065-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/39311/000003931126000065/ibcp-20261027ex991.htm",
-   "filed_at": "2026-10-27T06:01:22-04:00",
-   "filed_kst": "2026-10-27 19:01",
-   "price": 37.01,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 37.01,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 37.01,
-     "change": 0.08
-    },
-    {
-     "date": "2026-10-23",
-     "close": 36.98,
-     "change": 0.05
-    }
-   ],
-   "market_cap": 821595908.0,
-   "shares_outstanding": 22199295.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "MI",
-   "hq": "GRAND RAPIDS, MI",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:04:20+09:00"
   }
  ]
 }
