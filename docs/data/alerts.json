@@ -1,7 +1,56 @@
 {
- "updated_at": "2026-10-30T02:19:08+09:00",
+ "updated_at": "2026-10-30T02:24:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-437439",
+   "company": "Enerflex Ltd.",
+   "ticker": "EFXT",
+   "cik": 1904856,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 64,
+   "summary": "EX-99.2 3 efxt-ex99_2.htm FINANCIAL STATEMENTS EX-99.2 Interim Condensed Consolidated Financial Statements Interim Condensed Consolidated Statements of Financial Position (unaudited) ($ United States millions) Notes September 30, 2026 December 31, 2025 Assets Current assets Cash and cash equivalents",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1904856/000119312526437439/0001193125-26-437439-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1904856/000119312526437439/efxt-ex99_2.htm",
+   "filed_at": "2026-10-29T13:20:00-04:00",
+   "filed_kst": "2026-10-30 02:20",
+   "price": 24.91,
+   "change": -0.36,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 24.91,
+     "change": -0.36
+    },
+    {
+     "date": "2026-10-28",
+     "close": 25.0,
+     "change": 4.12
+    },
+    {
+     "date": "2026-10-27",
+     "close": 24.01,
+     "change": 2.52
+    }
+   ],
+   "market_cap": 3034082315.0,
+   "shares_outstanding": 121801779.0,
+   "industry": "General Industrial Machinery & Equipment",
+   "state_of_incorporation": "Canada (Federal Level)",
+   "hq": "CALGARY ALBERTA, Z4",
+   "entity_category": null,
+   "detected_at": "2026-10-30T02:21:05+09:00"
+  },
   {
    "id": "0000882184-26-000119",
    "company": "HORTON D R INC /DE/",
@@ -15820,59 +15869,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T19:22:04+09:00"
-  },
-  {
-   "id": "0000825313-26-000076",
-   "company": "ALLIANCEBERNSTEIN HOLDING L.P.",
-   "ticker": "AB",
-   "cik": 825313,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "As we strengthen this flywheel, deepen our strategic partnerships and maintain expense discipline, we believe AB is well positioned to deliver durable organic growth and long-term value for clients and unitholders.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/825313/000082531326000076/0000825313-26-000076-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/825313/000082531326000076/a3q26earningsrelease.htm",
-   "filed_at": "2026-10-27T06:15:51-04:00",
-   "filed_kst": "2026-10-27 19:15",
-   "price": 35.28,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 35.28,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 35.28,
-     "change": 1.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 34.93,
-     "change": -0.57
-    }
-   ],
-   "market_cap": 3283693726.0,
-   "shares_outstanding": 93075219.0,
-   "industry": "Investment Advice",
-   "state_of_incorporation": "DE",
-   "hq": "NASHVILLE, TN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:16:39+09:00"
   }
  ]
 }
