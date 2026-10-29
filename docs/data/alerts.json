@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-10-29T21:09:04+09:00",
+ "updated_at": "2026-10-29T21:14:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-119912",
+   "company": "Coherus Oncology, Inc.",
+   "ticker": "CHRS",
+   "cik": 1512762,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "​ Tagmokitug is an investigational product candidate and has not been approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1512762/000110465926119912/0001104659-26-119912-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1512762/000110465926119912/chrs-ex99d1.htm",
+   "filed_at": "2026-10-29T08:10:05-04:00",
+   "filed_kst": "2026-10-29 21:10",
+   "price": 1.16,
+   "change": 8.41,
+   "price_history": [
+    {
+     "date": "2026-10-28",
+     "close": 1.16,
+     "change": 8.41
+    },
+    {
+     "date": "2026-10-27",
+     "close": 1.07,
+     "change": 5.94
+    },
+    {
+     "date": "2026-10-26",
+     "close": 1.01,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 179221121.0,
+   "shares_outstanding": 154500966.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "REDWOOD CITY, CA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-29T21:11:03+09:00"
+  },
   {
    "id": "0001193125-26-437051",
    "company": "Anheuser-Busch InBev SA/NV",
@@ -15797,58 +15853,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T06:02:24+09:00"
-  },
-  {
-   "id": "0001193125-26-432123",
-   "company": "Rallybio Corp",
-   "ticker": "RLYB",
-   "cik": 1739410,
-   "form": "425",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously disclosed, on May 31, 2026, the Rallybio Corporation, a Delaware corporation (the “Company”), entered into an Agreement and Plan of Merger and Reorganization (the “Merger Agreement”) with Avenzo Therapeutics, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1739410/000119312526432123/0001193125-26-432123-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1739410/000119312526432123/d353286d425.htm",
-   "filed_at": "2026-10-26T16:57:17-04:00",
-   "filed_kst": "2026-10-27 05:57",
-   "price": 16.65,
-   "change": 0.06,
-   "price_history": [
-    {
-     "date": "2026-10-26",
-     "close": 16.65,
-     "change": 0.06
-    },
-    {
-     "date": "2026-10-23",
-     "close": 16.64,
-     "change": 1.46
-    },
-    {
-     "date": "2026-10-22",
-     "close": 16.4,
-     "change": 1.11
-    }
-   ],
-   "market_cap": 88419808.0,
-   "shares_outstanding": 5310499.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW HAVEN, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-27T05:58:02+09:00"
   }
  ]
 }
