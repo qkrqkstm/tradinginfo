@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-30T01:49:14+09:00",
+ "updated_at": "2026-10-30T01:54:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000882184-26-000119",
+   "company": "HORTON D R INC /DE/",
+   "ticker": "DHI",
+   "cik": 882184,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 61,
+   "summary": "4 million, down 8% from a year ago, and the remaining stock repurchase authorization was $4.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000119/0000882184-26-000119-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000119/a9302026exhibit991.htm",
+   "filed_at": "2026-10-29T12:51:14-04:00",
+   "filed_kst": "2026-10-30 01:51",
+   "price": 143.25,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 143.25,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 143.26,
+     "change": 0.18
+    },
+    {
+     "date": "2026-10-28",
+     "close": 143.0,
+     "change": -2.73
+    }
+   ],
+   "market_cap": 40067206498.0,
+   "shares_outstanding": 279701267.0,
+   "industry": "Operative Builders",
+   "state_of_incorporation": "DE",
+   "hq": "ARLINGTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T01:52:26+09:00"
+  },
   {
    "id": "0001468522-26-000081",
    "company": "Ferrovial N.V.",
@@ -15819,57 +15873,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-27T19:16:39+09:00"
-  },
-  {
-   "id": "0001552033-26-000056",
-   "company": "TransUnion",
-   "ticker": "TRU",
-   "cik": 1552033,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "EX-99.1 2 exhibit99109302026.htm EX-99.1 Document Exhibit 99.1 News Release TransUnion Announces Strong Third Quarter 2026 Results • Delivered 12 percent revenue growth, or 8 percent organic constant currency, led by Financial Services, Insurance and International • Exceeded high end of guidance for",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1552033/000155203326000056/0001552033-26-000056-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1552033/000155203326000056/exhibit99109302026.htm",
-   "filed_at": "2026-10-27T06:15:27-04:00",
-   "filed_kst": "2026-10-27 19:15",
-   "price": 79.62,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 79.62,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 79.62,
-     "change": -2.28
-    },
-    {
-     "date": "2026-10-23",
-     "close": 81.48,
-     "change": -2.37
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Consumer Credit Reporting, Collection Agencies",
-   "state_of_incorporation": "DE",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-27T19:16:06+09:00"
   }
  ]
 }
