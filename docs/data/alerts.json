@@ -1,7 +1,269 @@
 {
- "updated_at": "2026-10-31T05:14:11+09:00",
+ "updated_at": "2026-10-31T05:19:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-114403",
+   "company": "Silicon Valley Acquisition Corp.",
+   "ticker": "SVAQ",
+   "cik": 2085659,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "As previously publicly-disclosed, on June 17, 2026, EigenQ and SVAQ entered into a definitive Business Combination Agreement (as amended, and as may be further amended, modified or supplemented, the \"Business Combination Agreement\" or \"BCA\") to consummate a proposed Business Combination transaction ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026114403/0001213900-26-114403-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026114403/ea030980001ex99-2.htm",
+   "filed_at": "2026-10-30T16:16:42-04:00",
+   "filed_kst": "2026-10-31 05:16",
+   "price": 10.15,
+   "change": -0.1,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 10.15,
+     "change": -0.1
+    },
+    {
+     "date": "2026-10-29",
+     "close": 10.16,
+     "change": -0.1
+    },
+    {
+     "date": "2026-10-28",
+     "close": 10.17,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-31T05:18:39+09:00"
+  },
+  {
+   "id": "0000893847-26-000096",
+   "company": "HAWTHORN BANCSHARES, INC.",
+   "ticker": "HWBK",
+   "cik": 893847,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 68,
+   "summary": "The Board of Directors amended the plan on July 29, 2026 to increase the authorized repurchase limit to $10 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000096/0000893847-26-000096-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000096/q32026earnings-ex991926.htm",
+   "filed_at": "2026-10-30T16:17:26-04:00",
+   "filed_kst": "2026-10-31 05:17",
+   "price": 38.96,
+   "change": -1.86,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 38.96,
+     "change": -1.86
+    },
+    {
+     "date": "2026-10-29",
+     "close": 39.7,
+     "change": 1.33
+    },
+    {
+     "date": "2026-10-28",
+     "close": 39.18,
+     "change": -0.36
+    }
+   ],
+   "market_cap": 268850415.0,
+   "shares_outstanding": 6900678.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "MO",
+   "hq": "JEFFERSON CITY, MO",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-31T05:18:06+09:00"
+  },
+  {
+   "id": "0001683168-26-008197",
+   "company": "PRECISION OPTICS CORPORATION, INC.",
+   "ticker": "POCI",
+   "cik": 867840,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Nothing contained herein shall be deemed or construed by the parties hereto nor by any third party as creating the relationship of principal and agent or of partnership or of a joint venture between the parties hereto, it being understood and agreed that neither any provision contained herein, nor a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/867840/000168316826008197/0001683168-26-008197-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/867840/000168316826008197/poci_ex1001.htm",
+   "filed_at": "2026-10-30T16:17:30-04:00",
+   "filed_kst": "2026-10-31 05:17",
+   "price": 4.65,
+   "change": 1.31,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 4.65,
+     "change": 1.31
+    },
+    {
+     "date": "2026-10-29",
+     "close": 4.59,
+     "change": 5.76
+    },
+    {
+     "date": "2026-10-28",
+     "close": 4.34,
+     "change": -1.59
+    }
+   ],
+   "market_cap": 51023483.0,
+   "shares_outstanding": 10972792.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "MA",
+   "hq": "LITTLETON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-31T05:18:04+09:00"
+  },
+  {
+   "id": "0001213900-26-114399",
+   "company": "Grande Group Ltd/HK",
+   "ticker": "GRAN",
+   "cik": 2027722,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 2 ea030697201ex10-1.htm EMPLOYMENT AGREEMENT BY AND BETWEEN CHING MAN, TAM AND GRANDE GROUP LIMITED Exhibit 10.1 EMPLOYMENT AGREEMENT This EMPLOYMENT AGREEMENT (the “ Agreement” ) is entered into as of 30 October, 2026 by and between GRANDE GROUP LIMITED, a business company with limited liab",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2027722/000121390026114399/0001213900-26-114399-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2027722/000121390026114399/ea030697201ex10-1.htm",
+   "filed_at": "2026-10-30T16:15:09-04:00",
+   "filed_kst": "2026-10-31 05:15",
+   "price": 1.2,
+   "change": 5.26,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 1.2,
+     "change": 5.26
+    },
+    {
+     "date": "2026-10-29",
+     "close": 1.14,
+     "change": -2.56
+    },
+    {
+     "date": "2026-10-28",
+     "close": 1.17,
+     "change": 3.54
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Finance Services",
+   "state_of_incorporation": null,
+   "hq": "HONG KONG, K3",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-31T05:16:09+09:00"
+  },
+  {
+   "id": "0000915913-26-000124",
+   "company": "ALBEMARLE CORP",
+   "ticker": "ALB",
+   "cik": 915913,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 3 creditagreement-8xkexhibit.htm EX-10.1 Document Exhibit 10.1 EXECUTION COPY CREDIT AGREEMENT Dated as of October 29, 2026 among ALBEMARLE CORPORATION , (the “ Company ”), CERTAIN OTHER SUBSIDIARIES OF THE COMPANY, THE LENDERS PARTY HERETO, JPMORGAN CHASE BANK, N.A. , as Administrative Agen",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000124/0000915913-26-000124-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000124/creditagreement-8xkexhibit.htm",
+   "filed_at": "2026-10-30T16:15:26-04:00",
+   "filed_kst": "2026-10-31 05:15",
+   "price": 90.62,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 90.62,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 90.62,
+     "change": -2.84
+    },
+    {
+     "date": "2026-10-29",
+     "close": 93.27,
+     "change": -3.81
+    }
+   ],
+   "market_cap": 10693618265.0,
+   "shares_outstanding": 118005057.0,
+   "industry": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+   "state_of_incorporation": "VA",
+   "hq": "CHARLOTTE, NC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-31T05:16:04+09:00"
+  },
   {
    "id": "0001213900-26-114385",
    "company": "Silicon Valley Acquisition Corp.",
@@ -15588,267 +15850,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-28T21:31:49+09:00"
-  },
-  {
-   "id": "0001178913-26-004871",
-   "company": "Evogene Ltd.",
-   "ticker": "EVGN",
-   "cik": 1574565,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Built on this powerful technological foundation, and through strategic partnerships alongside internal product development, Evogene is focused on creating breakthrough products for the pharmaceutical and agricultural industries, driven by the integration of scientific innovation with real-world indu",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004871/0001178913-26-004871-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574565/000117891326004871/exhibit_99-1.htm",
-   "filed_at": "2026-10-28T08:30:08-04:00",
-   "filed_kst": "2026-10-28 21:30",
-   "price": 0.36,
-   "change": 1.11,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 0.36,
-     "change": 1.11
-    },
-    {
-     "date": "2026-10-27",
-     "close": 0.36,
-     "change": -2.7
-    },
-    {
-     "date": "2026-10-26",
-     "close": 0.37,
-     "change": 2.78
-    }
-   ],
-   "market_cap": 3138549.0,
-   "shares_outstanding": 8718193.0,
-   "industry": "Agricultural Chemicals",
-   "state_of_incorporation": "Israel",
-   "hq": "REHOVOT, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-28T21:30:45+09:00"
-  },
-  {
-   "id": "0001493152-26-048825",
-   "company": "California BanCorp \\ CA",
-   "ticker": "BCAL",
-   "cik": 1795815,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "6 million under the stock repurchase program in the third quarter of 2026, compared to 102,594 shares of common stock at an average price of $19.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1795815/000149315226048825/0001493152-26-048825-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1795815/000149315226048825/ex99-1.htm",
-   "filed_at": "2026-10-28T08:05:22-04:00",
-   "filed_kst": "2026-10-28 21:05",
-   "price": 21.95,
-   "change": -0.09,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 21.95,
-     "change": -0.09
-    },
-    {
-     "date": "2026-10-26",
-     "close": 21.97,
-     "change": -0.32
-    },
-    {
-     "date": "2026-10-23",
-     "close": 22.04,
-     "change": -0.14
-    }
-   ],
-   "market_cap": 705704375.0,
-   "shares_outstanding": 32150541.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": "CA",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-28T21:06:34+09:00"
-  },
-  {
-   "id": "0001213900-26-113107",
-   "company": "PolyPid Ltd.",
-   "ticker": "PYPD",
-   "cik": 1611842,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 84,
-   "summary": "PolyPid’s management will also review the Company’s plans to maximize the value of D-PLEX₁₀₀, for which a New Drug Application (“NDA”) is under FDA Priority Review with a PDUFA goal date of November 28, 2026, including potential label expansion beyond colorectal surgery and potential geographic expa",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026113107/0001213900-26-113107-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026113107/ea030979101ex99-1.htm",
-   "filed_at": "2026-10-28T08:05:29-04:00",
-   "filed_kst": "2026-10-28 21:05",
-   "price": 5.77,
-   "change": 9.07,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 5.77,
-     "change": 9.07
-    },
-    {
-     "date": "2026-10-26",
-     "close": 5.29,
-     "change": 0.76
-    },
-    {
-     "date": "2026-10-23",
-     "close": 5.25,
-     "change": 2.34
-    }
-   ],
-   "market_cap": 105037092.0,
-   "shares_outstanding": 18204002.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "Israel",
-   "hq": "PETACH TIKVA, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-28T21:06:01+09:00"
-  },
-  {
-   "id": "0001193125-26-435159",
-   "company": "Benitec Biopharma Inc.",
-   "ticker": "BNTC",
-   "cik": 1808898,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "BB-301 has received Orphan Drug Designation from the EMA and Orphan Drug and Fast Track Designations from the FDA and is currently being evaluated in a Phase 1b/2a, first-in-human, open-label dose escalation study to evaluate the safety and clinical activity of intramuscular dose",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526435159/0001193125-26-435159-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526435159/bntc-ex99_1.htm",
-   "filed_at": "2026-10-28T08:03:30-04:00",
-   "filed_kst": "2026-10-28 21:03",
-   "price": 8.68,
-   "change": 1.05,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 8.68,
-     "change": 1.05
-    },
-    {
-     "date": "2026-10-26",
-     "close": 8.59,
-     "change": -0.69
-    },
-    {
-     "date": "2026-10-23",
-     "close": 8.65,
-     "change": -1.93
-    }
-   ],
-   "market_cap": 302782062.0,
-   "shares_outstanding": 34882726.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "HAYWARD, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-28T21:04:03+09:00"
-  },
-  {
-   "id": "0001213900-26-113101",
-   "company": "Immuron Ltd",
-   "ticker": "IMRN",
-   "cik": 1660046,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "ProIBS® Immuron has an exclusive distribution agreement with Calmino goup AB for the territories of Australia and New Zealand for ProIBS®.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026113101/0001213900-26-113101-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026113101/ea030992701ex99-1.htm",
-   "filed_at": "2026-10-28T08:00:30-04:00",
-   "filed_kst": "2026-10-28 21:00",
-   "price": 0.93,
-   "change": 1.09,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 0.93,
-     "change": 1.09
-    },
-    {
-     "date": "2026-10-26",
-     "close": 0.92,
-     "change": -3.56
-    },
-    {
-     "date": "2026-10-23",
-     "close": 0.95,
-     "change": 0.53
-    }
-   ],
-   "market_cap": 300248715.0,
-   "shares_outstanding": 322848081.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Australia",
-   "hq": "CARLTON, VICTORIA, C3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-28T21:01:26+09:00"
   }
  ]
 }
