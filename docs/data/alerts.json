@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-30T19:49:07+09:00",
+ "updated_at": "2026-10-30T19:54:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000872589-26-000032",
+   "company": "REGENERON PHARMACEUTICALS, INC.",
+   "ticker": "REGN",
+   "cik": 872589,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "자사주매입",
+    "FDA"
+   ],
+   "confidence": 74,
+   "summary": "Other Oncology Programs • The FDA accepted for review the resubmission of the BLA for Ordspono ™ (odronextamab) in relapsed or refractory diffuse large B-cell lymphoma (DLBCL), which has a target action date in February 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000032/0000872589-26-000032-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000032/exhibit991q32026.htm",
+   "filed_at": "2026-10-30T06:50:20-04:00",
+   "filed_kst": "2026-10-30 19:50",
+   "price": 818.77,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 818.77,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 818.77,
+     "change": 0.68
+    },
+    {
+     "date": "2026-10-28",
+     "close": 813.27,
+     "change": -0.35
+    }
+   ],
+   "market_cap": 76927625415.0,
+   "shares_outstanding": 93955110.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NY",
+   "hq": "TARRYTOWN, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:51:00+09:00"
+  },
   {
    "id": "0002115436-26-000018",
    "company": "ExxonMobil Holdings Corp",
@@ -15805,60 +15859,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:02:57+09:00"
-  },
-  {
-   "id": "0001836981-26-000088",
-   "company": "BigBear.ai Holdings, Inc.",
-   "ticker": "BBAI",
-   "cik": 1836981,
-   "form": "8-K/A",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "6 million; third straight quarter of organic growth • Increases FY 2026 revenue guidance range to $150 million - $165 million • >25 new contract wins since second quarter 2026, worth more than $225 million in contract value* • 878 basis point gross margin expansion, to 31.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1836981/000183698126000088/0001836981-26-000088-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1836981/000183698126000088/earningsrelease-3q26.htm",
-   "filed_at": "2026-10-27T18:20:53-04:00",
-   "filed_kst": "2026-10-28 07:20",
-   "price": 2.35,
-   "change": 10.85,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 2.35,
-     "change": 10.85
-    },
-    {
-     "date": "2026-10-26",
-     "close": 2.12,
-     "change": -0.93
-    },
-    {
-     "date": "2026-10-23",
-     "close": 2.14,
-     "change": 0.47
-    }
-   ],
-   "market_cap": 1126812059.0,
-   "shares_outstanding": 479494493.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "MCLEAN, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:02:25+09:00"
   }
  ]
 }
