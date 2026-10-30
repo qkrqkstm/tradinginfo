@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-30T19:24:39+09:00",
+ "updated_at": "2026-10-30T19:29:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-068387",
+   "company": "VALERO ENERGY CORP/TX",
+   "ticker": "VLO",
+   "cik": 1035002,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Valero is a joint venture member in Diamond Green Diesel Holdings LLC, which produces low-carbon fuels including renewable diesel and sustainable aviation fuel (SAF), with a production capacity of approximately 1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026068387/0001628280-26-068387-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026068387/vlo-20261029.htm",
+   "filed_at": "2026-10-30T06:27:06-04:00",
+   "filed_kst": "2026-10-30 19:27",
+   "price": 384.57,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 384.57,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 384.57,
+     "change": -1.01
+    },
+    {
+     "date": "2026-10-28",
+     "close": 388.48,
+     "change": 0.29
+    }
+   ],
+   "market_cap": 107250573708.0,
+   "shares_outstanding": 278884400.0,
+   "industry": "Petroleum Refining",
+   "state_of_incorporation": "DE",
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:27:28+09:00"
+  },
   {
    "id": "0001193125-26-439824",
    "company": "NOVONIX Ltd",
@@ -15803,61 +15857,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:02:23+09:00"
-  },
-  {
-   "id": "0001437749-26-033667",
-   "company": "RUSH ENTERPRISES INC \\TX\\",
-   "ticker": "RUSHA",
-   "cik": 1012019,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "3 million of its common stock pursuant to its stock repurchase plan, paid a cash dividend of $16.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1012019/000143774926033667/0001437749-26-033667-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1012019/000143774926033667/ex_1032727.htm",
-   "filed_at": "2026-10-27T17:28:51-04:00",
-   "filed_kst": "2026-10-28 06:28",
-   "price": 45.48,
-   "change": 0.26,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 45.48,
-     "change": 0.26
-    },
-    {
-     "date": "2026-10-26",
-     "close": 45.36,
-     "change": 0.91
-    },
-    {
-     "date": "2026-10-23",
-     "close": 44.95,
-     "change": -1.3
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "TX",
-   "hq": "NEW BRAUNFELS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T06:30:38+09:00"
   }
  ]
 }
