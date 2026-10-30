@@ -1,7 +1,262 @@
 {
- "updated_at": "2026-10-30T19:04:29+09:00",
+ "updated_at": "2026-10-30T19:09:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-439149",
+   "company": "Maplebear Inc.",
+   "ticker": "CART",
+   "cik": 1579091,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Advancing the Future of Grocery with DoorDash Today, we announced that Instacart has signed a definitive agreement to be acquired by DoorDash, marking an exciting new chapter for our company.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526439149/0001193125-26-439149-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526439149/d346005d425.htm",
+   "filed_at": "2026-10-29T20:20:25-04:00",
+   "filed_kst": "2026-10-30 09:20",
+   "price": 57.11,
+   "change": -2.24,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 57.11,
+     "change": -2.24
+    },
+    {
+     "date": "2026-10-28",
+     "close": 58.42,
+     "change": -2.76
+    },
+    {
+     "date": "2026-10-27",
+     "close": 60.08,
+     "change": -1.31
+    }
+   ],
+   "market_cap": 13220968826.0,
+   "shares_outstanding": 231500067.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:09:09+09:00"
+  },
+  {
+   "id": "0001564708-26-000240",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000240/0001564708-26-000240-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000240/appendix3cclassa20261029.htm",
+   "filed_at": "2026-10-29T19:28:38-04:00",
+   "filed_kst": "2026-10-30 08:28",
+   "price": 32.18,
+   "change": 0.5,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 32.18,
+     "change": 0.5
+    },
+    {
+     "date": "2026-10-28",
+     "close": 32.02,
+     "change": -2.26
+    },
+    {
+     "date": "2026-10-27",
+     "close": 32.76,
+     "change": -2.12
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:07:30+09:00"
+  },
+  {
+   "id": "0001292814-26-005054",
+   "company": "Vale S.A.",
+   "ticker": "VALE",
+   "cik": 917851,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "i) (23,090) (19,456) (23,090) (19,456) Shares buyback program 25(c) (1,091) – (1,091) – Net cash used in financing activities (29,528) (3,957) (23,908) (12,340) Net (decrease) increase in cash and cash equivalents (13,980) 3,867 (5,477) 912 Cash and cash equivalents at the",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426005054/0001292814-26-005054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426005054/valedfbrgaap3q26_6k.htm",
+   "filed_at": "2026-10-29T18:55:10-04:00",
+   "filed_kst": "2026-10-30 07:55",
+   "price": 11.18,
+   "change": -2.53,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 11.18,
+     "change": -2.53
+    },
+    {
+     "date": "2026-10-28",
+     "close": 11.47,
+     "change": -3.12
+    },
+    {
+     "date": "2026-10-27",
+     "close": 11.84,
+     "change": -1.33
+    }
+   ],
+   "market_cap": 36410179709.0,
+   "shares_outstanding": 3256724482.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": null,
+   "hq": "RIO DE JANEIRO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:06:28+09:00"
+  },
+  {
+   "id": "0001292814-26-005056",
+   "company": "Vale S.A.",
+   "ticker": "VALE",
+   "cik": 917851,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "i) (4,421) (3,464) Shares buyback program 25(c) (214) – Net cash used in financing activities (5,665) (702) Net (decrease) increase in cash and cash equivalents (2,661) 790 Cash and cash equivalents at the beginning of the period 7,372 4,953 Effect of exchange",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426005056/0001292814-26-005056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426005056/valedfifrs3q26_6k.htm",
+   "filed_at": "2026-10-29T18:58:03-04:00",
+   "filed_kst": "2026-10-30 07:58",
+   "price": 11.18,
+   "change": -2.53,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 11.18,
+     "change": -2.53
+    },
+    {
+     "date": "2026-10-28",
+     "close": 11.47,
+     "change": -3.12
+    },
+    {
+     "date": "2026-10-27",
+     "close": 11.84,
+     "change": -1.33
+    }
+   ],
+   "market_cap": 36410179709.0,
+   "shares_outstanding": 3256724482.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": null,
+   "hq": "RIO DE JANEIRO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:06:26+09:00"
+  },
+  {
+   "id": "0001171843-26-006988",
+   "company": "AETHERION TECHNOLOGIES INC.",
+   "ticker": "AETR",
+   "cik": 1370416,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through its portfolio of differentiated technologies and strategic partnerships, Aetherion is accelerating practical, scalable pathways to affordable, lower-emission transportation worldwide.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1370416/000117184326006988/0001171843-26-006988-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370416/000117184326006988/f6k_102926.htm",
+   "filed_at": "2026-10-29T18:54:16-04:00",
+   "filed_kst": "2026-10-30 07:54",
+   "price": 1.9,
+   "change": -4.52,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 1.9,
+     "change": -4.52
+    },
+    {
+     "date": "2026-10-28",
+     "close": 1.99,
+     "change": -2.93
+    },
+    {
+     "date": "2026-10-27",
+     "close": 2.05,
+     "change": -5.96
+    }
+   ],
+   "market_cap": 33012905.0,
+   "shares_outstanding": 17375213.0,
+   "industry": "Engines & Turbines",
+   "state_of_incorporation": "Alberta, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:05:54+09:00"
+  },
   {
    "id": "0001140361-26-041195",
    "company": "Maplebear Inc.",
@@ -15611,272 +15866,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T06:06:32+09:00"
-  },
-  {
-   "id": "0001628280-26-067637",
-   "company": "Brightstar Lottery PLC",
-   "ticker": "BRSL",
-   "cik": 1619762,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 a6-kxrepurchasesxoctober20.htm 6-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October 2026 Commission File Number 001-369",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026067637/0001628280-26-067637-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026067637/a6-kxrepurchasesxoctober20.htm",
-   "filed_at": "2026-10-27T16:53:32-04:00",
-   "filed_kst": "2026-10-28 05:53",
-   "price": 9.49,
-   "change": -0.11,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 9.49,
-     "change": -0.11
-    },
-    {
-     "date": "2026-10-26",
-     "close": 9.5,
-     "change": 0.21
-    },
-    {
-     "date": "2026-10-23",
-     "close": 9.48,
-     "change": -0.84
-    }
-   ],
-   "market_cap": 1773221314.0,
-   "shares_outstanding": 186851561.0,
-   "industry": "Services-Miscellaneous Amusement & Recreation",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:54:14+09:00"
-  },
-  {
-   "id": "0001628280-26-067627",
-   "company": "WELLTOWER INC.",
-   "ticker": "WELL",
-   "cik": 766704,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "well-20261027 0000766704 false 0000766704 2026-10-27 2026-10-27 0000766704 us-gaap:CommonStockMember 2026-07-28 2026-07-28 0000766704 well:NotesDue20284.800Member 2026-07-28 2026-07-28 0000766704 well:NotesDue20344.500Member 2026-07-28 2026-07-28 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Wash",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/766704/000162828026067627/0001628280-26-067627-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/766704/000162828026067627/well-20261027.htm",
-   "filed_at": "2026-10-27T16:43:58-04:00",
-   "filed_kst": "2026-10-28 05:43",
-   "price": 226.72,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 226.72,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 226.72,
-     "change": -5.77
-    },
-    {
-     "date": "2026-10-26",
-     "close": 240.61,
-     "change": 1.39
-    }
-   ],
-   "market_cap": 166324028139.0,
-   "shares_outstanding": 733609863.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "DE",
-   "hq": "TOLEDO, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:45:36+09:00"
-  },
-  {
-   "id": "0001408534-26-000079",
-   "company": "First Guaranty Bancshares, Inc.",
-   "ticker": "FGBI",
-   "cik": 1408534,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The largest facility totals $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1408534/000140853426000079/0001408534-26-000079-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1408534/000140853426000079/fgbi-ex991earningspressrel.htm",
-   "filed_at": "2026-10-27T16:43:29-04:00",
-   "filed_kst": "2026-10-28 05:43",
-   "price": 8.89,
-   "change": 2.07,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 8.89,
-     "change": 2.07
-    },
-    {
-     "date": "2026-10-26",
-     "close": 8.71,
-     "change": -2.57
-    },
-    {
-     "date": "2026-10-23",
-     "close": 8.94,
-     "change": 5.92
-    }
-   ],
-   "market_cap": 147032546.0,
-   "shares_outstanding": 16539094.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": "LA",
-   "hq": "HAMMOND, LA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-28T05:44:17+09:00"
-  },
-  {
-   "id": "0001628280-26-067624",
-   "company": "Senti Biosciences Holdings, Inc.",
-   "ticker": "SNTI",
-   "cik": 1854270,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "snti-20261026 0001854270 FALSE Senti Biosciences Holdings, Inc. 0001854270 2026-10-26 2026-10-26 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ___________________________________ FORM 8-K ___________________________________ CURRENT REPORT Pursuant to Section 13 or 15(d) of ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1854270/000162828026067624/0001628280-26-067624-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1854270/000162828026067624/snti-20261026.htm",
-   "filed_at": "2026-10-27T16:38:03-04:00",
-   "filed_kst": "2026-10-28 05:38",
-   "price": 0.19,
-   "change": 6.69,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 0.19,
-     "change": 6.69
-    },
-    {
-     "date": "2026-10-26",
-     "close": 0.17,
-     "change": -6.91
-    },
-    {
-     "date": "2026-10-23",
-     "close": 0.19,
-     "change": -1.57
-    }
-   ],
-   "market_cap": 5917503.0,
-   "shares_outstanding": 31144754.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-28T05:38:39+09:00"
-  },
-  {
-   "id": "0001140361-26-040903",
-   "company": "ESSEX PROPERTY TRUST, INC.",
-   "ticker": "ESS",
-   "cik": 920522,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 83,
-   "summary": "During the third quarter of 2026, the Company did not repurchase any shares through its stock repurchase plan.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/920522/000114036126040903/0001140361-26-040903-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/920522/000114036126040903/ef20084268_ex99-1.htm",
-   "filed_at": "2026-10-27T16:34:17-04:00",
-   "filed_kst": "2026-10-28 05:34",
-   "price": 274.85,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 274.85,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 274.85,
-     "change": -0.16
-    },
-    {
-     "date": "2026-10-26",
-     "close": 275.3,
-     "change": -1.1
-    }
-   ],
-   "market_cap": 17664180459.0,
-   "shares_outstanding": 64268439.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "SAN MATEO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T05:35:27+09:00"
   }
  ]
 }
