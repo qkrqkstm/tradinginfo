@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-10-31T04:59:12+09:00",
+ "updated_at": "2026-10-31T05:04:54+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-120653",
+   "company": "Prologis, Inc.",
+   "ticker": "PLD",
+   "cik": 1045609,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 59,
+   "summary": "Treasury Department (“ OFAC ”); and the Company and the Operating Partnership will not directly or indirectly use the proceeds of the offering, or lend, contribute or otherwise make available such proceeds, to any subsidiary, joint venture partner or other person or entity for the purpose of financi",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045609/000110465926120653/0001104659-26-120653-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1045609/000110465926120653/tm2621013d3_ex1-1.htm",
+   "filed_at": "2026-10-30T16:02:54-04:00",
+   "filed_kst": "2026-10-31 05:02",
+   "price": 128.02,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 128.02,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 128.02,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 128.02,
+     "change": 2.24
+    }
+   ],
+   "market_cap": 119357910760.0,
+   "shares_outstanding": 932338000.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-31T05:03:48+09:00"
+  },
   {
    "id": "0001104659-26-120638",
    "company": "MAGNA INTERNATIONAL INC",
@@ -15794,60 +15845,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-28T20:24:38+09:00"
-  },
-  {
-   "id": "0001280058-26-000029",
-   "company": "BLACKBAUD INC",
-   "ticker": "BLKB",
-   "cik": 1280058,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "Stock Repurchase Program As of September 30, 2026, Blackbaud had approximately $832 million remaining under its common stock repurchase program that was expanded, replenished and reauthorized in December 2025.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1280058/000128005826000029/0001280058-26-000029-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1280058/000128005826000029/blkbq32026exhibit991.htm",
-   "filed_at": "2026-10-28T07:08:50-04:00",
-   "filed_kst": "2026-10-28 20:08",
-   "price": 53.7,
-   "change": -2.49,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 53.7,
-     "change": -2.49
-    },
-    {
-     "date": "2026-10-26",
-     "close": 55.07,
-     "change": -0.85
-    },
-    {
-     "date": "2026-10-23",
-     "close": 55.54,
-     "change": -1.66
-    }
-   ],
-   "market_cap": 2437448209.0,
-   "shares_outstanding": 45390097.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "CHARLESTON, SC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T20:11:02+09:00"
   }
  ]
 }
