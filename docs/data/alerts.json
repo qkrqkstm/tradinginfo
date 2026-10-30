@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-30T21:54:15+09:00",
+ "updated_at": "2026-10-30T21:59:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000763744-26-000105",
+   "company": "LCI INDUSTRIES",
+   "ticker": "LCII",
+   "cik": 763744,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "425 1 updateonmonomoyproposal.htm 425 updateonmonomoyproposal Filed by LCI Industries pursuant to Rule 425 under the Securities Act of 1933 and deemed filed pursuant to Rule 14a-6 under the Securities Act of 1934 Subject Company: LCI Industries Commission File No. 001-13646 Date: October 30, 2026 On",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000105/0000763744-26-000105-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000105/updateonmonomoyproposal.htm",
+   "filed_at": "2026-10-30T08:55:14-04:00",
+   "filed_kst": "2026-10-30 21:55",
+   "price": 98.97,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 98.97,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 98.97,
+     "change": 1.41
+    },
+    {
+     "date": "2026-10-28",
+     "close": 97.59,
+     "change": 8.63
+    }
+   ],
+   "market_cap": 2406109848.0,
+   "shares_outstanding": 24311507.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T21:55:57+09:00"
+  },
   {
    "id": "0001121404-26-000009",
    "company": "Sanofi",
@@ -15828,61 +15878,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T20:00:52+09:00"
-  },
-  {
-   "id": "0000920148-26-000213",
-   "company": "LABCORP HOLDINGS INC.",
-   "ticker": "LH",
-   "cik": 920148,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "자사주매입",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 74,
-   "summary": "70; up 18 cents at the midpoint • Advanced M&A strategy by announcing or closing four transactions; each are expected to be accretive to adjusted EPS in year one and return cost of capital by year three • Received FDA approval of PGDx elio® tissue complete CDx as a companion diagnostic to help ident",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000213/0000920148-26-000213-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/920148/000092014826000213/form8-kexhibit9913q26.htm",
-   "filed_at": "2026-10-28T06:57:40-04:00",
-   "filed_kst": "2026-10-28 19:57",
-   "price": 331.17,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 331.17,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 331.17,
-     "change": 0.38
-    },
-    {
-     "date": "2026-10-26",
-     "close": 329.9,
-     "change": 0.29
-    }
-   ],
-   "market_cap": 26857887000.0,
-   "shares_outstanding": 81100000.0,
-   "industry": "Services-Medical Laboratories",
-   "state_of_incorporation": null,
-   "hq": "BURLINGTON, NC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:58:34+09:00"
   }
  ]
 }
