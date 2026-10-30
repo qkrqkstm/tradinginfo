@@ -1,7 +1,117 @@
 {
- "updated_at": "2026-10-30T20:59:31+09:00",
+ "updated_at": "2026-10-30T21:04:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-068443",
+   "company": "Azenta, Inc.",
+   "ticker": "AZTA",
+   "cik": 933974,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "(“Azenta” or the “Company”) entered into a Technology, Equipment and License Agreement (the “License Agreement”) and a Master Services and Supply Agreement (the “Supply Agreement” and, together with the License Agreement, the “Elegen Agreements”) with Elegen Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026068443/0001628280-26-068443-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026068443/azta-20261028.htm",
+   "filed_at": "2026-10-30T08:02:38-04:00",
+   "filed_kst": "2026-10-30 21:02",
+   "price": 41.27,
+   "change": 1.58,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 41.27,
+     "change": 1.58
+    },
+    {
+     "date": "2026-10-28",
+     "close": 40.63,
+     "change": 3.97
+    },
+    {
+     "date": "2026-10-27",
+     "close": 39.08,
+     "change": 5.14
+    }
+   ],
+   "market_cap": 1807972379.0,
+   "shares_outstanding": 43808393.0,
+   "industry": "Special Industry Machinery, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BURLINGTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T21:03:29+09:00"
+  },
+  {
+   "id": "0001213900-26-114071",
+   "company": "Radiopharm Theranostics Ltd",
+   "ticker": "RADX",
+   "cik": 1949257,
+   "form": "6-K",
+   "items": [
+    "3.10"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 90,
+   "summary": "RAD101 has received FDA Fast Track Designation to distinguish between recurrent disease and treatment effect of brain metastases originating from solid tumors of different origin including leptomeningeal disease.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1949257/000121390026114071/0001213900-26-114071-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1949257/000121390026114071/ea031030701ex99-1.htm",
+   "filed_at": "2026-10-30T08:00:15-04:00",
+   "filed_kst": "2026-10-30 21:00",
+   "price": 1.12,
+   "change": 17.47,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 1.12,
+     "change": 17.47
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.95,
+     "change": 5.56
+    },
+    {
+     "date": "2026-10-27",
+     "close": 0.9,
+     "change": -9.64
+    }
+   ],
+   "market_cap": 3969522099.0,
+   "shares_outstanding": 3544216160.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "CARLTON VIC",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-30T21:00:48+09:00"
+  },
   {
    "id": "0001037976-26-000191",
    "company": "JONES LANG LASALLE INC",
@@ -15781,111 +15891,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:31:14+09:00"
-  },
-  {
-   "id": "0001193125-26-435040",
-   "company": "PROSPERITY BANCSHARES INC",
-   "ticker": "PB",
-   "cik": 1068851,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "배당"
-   ],
-   "confidence": 76,
-   "summary": "Stock Repurchase Program On January 26, 2026, Prosperity Bancshares announced a stock repurchase program under which up to 5%, or approximately 4.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1068851/000119312526435040/0001193125-26-435040-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1068851/000119312526435040/pb-ex99_1.htm",
-   "filed_at": "2026-10-28T06:30:17-04:00",
-   "filed_kst": "2026-10-28 19:30",
-   "price": 69.64,
-   "change": -0.14,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 69.64,
-     "change": -0.14
-    },
-    {
-     "date": "2026-10-26",
-     "close": 69.74,
-     "change": 0.35
-    },
-    {
-     "date": "2026-10-23",
-     "close": 69.5,
-     "change": -0.5
-    }
-   ],
-   "market_cap": 8369110332.0,
-   "shares_outstanding": 120176771.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "TX",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:31:12+09:00"
-  },
-  {
-   "id": "0000891478-26-000093",
-   "company": "Banco Santander, S.A.",
-   "ticker": "SAN",
-   "cik": 891478,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Completion of the TSB acquisition • On 30 April 2026, Santander completed the acquisition of TSB Banking Group plc (TSB), the UK subsidiary of Banco de Sabadell, S.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000093/0000891478-26-000093-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000093/0000891478-26-000093-index-headers.html",
-   "filed_at": "2026-10-28T06:27:28-04:00",
-   "filed_kst": "2026-10-28 19:27",
-   "price": 12.47,
-   "change": 0.81,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 12.47,
-     "change": 0.81
-    },
-    {
-     "date": "2026-10-26",
-     "close": 12.37,
-     "change": -3.66
-    },
-    {
-     "date": "2026-10-23",
-     "close": 12.84,
-     "change": -0.47
-    }
-   ],
-   "market_cap": 183175814190.0,
-   "shares_outstanding": 14689319502.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": "Spain",
-   "hq": "MADRID, U3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:28:01+09:00"
   }
  ]
 }
