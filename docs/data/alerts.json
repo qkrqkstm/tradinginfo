@@ -1,7 +1,56 @@
 {
- "updated_at": "2026-10-31T04:49:31+09:00",
+ "updated_at": "2026-10-31T04:54:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-120638",
+   "company": "MAGNA INTERNATIONAL INC",
+   "ticker": "MGA",
+   "cik": 749098,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.1 2 tm2628312d2_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 FINANCIAL REVIEW OF MAGNA INTERNATIONAL INC. (United States dollars in millions, except per share figures) (Unaudited) Prepared in accordance with U.S. GAAP 2024 2025 2026 Note 1st Q 2nd Q 3rd Q 4th Q TOTAL 1st Q 2nd Q 3rd Q 4th Q TOTAL 1st ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/749098/000110465926120638/0001104659-26-120638-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/749098/000110465926120638/tm2628312d2_ex99-1.htm",
+   "filed_at": "2026-10-30T15:50:16-04:00",
+   "filed_kst": "2026-10-31 04:50",
+   "price": 63.48,
+   "change": -1.89,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 63.48,
+     "change": -1.89
+    },
+    {
+     "date": "2026-10-29",
+     "close": 64.7,
+     "change": 1.11
+    },
+    {
+     "date": "2026-10-28",
+     "close": 63.99,
+     "change": -0.22
+    }
+   ],
+   "market_cap": 17789762541.0,
+   "shares_outstanding": 280242006.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": null,
+   "hq": "AURORA, ONTARIO, CAN, A6",
+   "entity_category": null,
+   "detected_at": "2026-10-31T04:51:12+09:00"
+  },
   {
    "id": "0001654954-26-009299",
    "company": "HSBC HOLDINGS PLC",
@@ -15799,61 +15848,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T20:11:02+09:00"
-  },
-  {
-   "id": "0001370637-26-000090",
-   "company": "ETSY INC",
-   "ticker": "ETSY",
-   "cik": 1370637,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "10 Strong Cash Flow Generation and Continued Accelerated Share Repurchases As of September 30, 2026 , Etsy held $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1370637/000137063726000090/0001370637-26-000090-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370637/000137063726000090/q326shareholderletter.htm",
-   "filed_at": "2026-10-28T07:07:04-04:00",
-   "filed_kst": "2026-10-28 20:07",
-   "price": 87.66,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 87.66,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 87.66,
-     "change": 2.61
-    },
-    {
-     "date": "2026-10-26",
-     "close": 85.43,
-     "change": -1.73
-    }
-   ],
-   "market_cap": 8045588030.0,
-   "shares_outstanding": 91781748.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "BROOKLYN, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T20:08:36+09:00"
   }
  ]
 }
