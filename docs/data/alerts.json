@@ -1,7 +1,166 @@
 {
- "updated_at": "2026-10-30T20:24:38+09:00",
+ "updated_at": "2026-10-30T20:29:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-114063",
+   "company": "Churchill Capital Corp XI",
+   "ticker": "CCXI",
+   "cik": 2074973,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 73,
+   "summary": "☐ Explanatory Note As previously disclosed, on June 24, 2026, Churchill Capital Corp XI, a Cayman Islands exempted company (“Churchill”), entered into an Agreement and Plan of Merger (as amended, modified, supplemented or waived from time to time, the “Merger Agreement”) by and among Churchill, BLB ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026114063/0001213900-26-114063-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026114063/ea031030301ex99-1.htm",
+   "filed_at": "2026-10-30T07:27:44-04:00",
+   "filed_kst": "2026-10-30 20:27",
+   "price": 9.94,
+   "change": -3.02,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 9.94,
+     "change": -3.02
+    },
+    {
+     "date": "2026-10-28",
+     "close": 10.25,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-27",
+     "close": 10.24,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "General Industrial Machinery & Equipment, NEC",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-30T20:28:32+09:00"
+  },
+  {
+   "id": "0001018164-26-000087",
+   "company": "WILLIS LEASE FINANCE CORP",
+   "ticker": "WLFC",
+   "cik": 1018164,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 67,
+   "summary": "0112 Willis Lease Finance Corporation Declares Fourth Quarter 2026 Dividend and Renewal and Increase of Share Repurchase Plan COCONUT CREEK, FL — October 30, 2026 — Willis Lease Finance Corporation (NASDAQ: WLFC) (“WLFC” or the “Company”), announced today the Company’s quarterly dividend of $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000087/0001018164-26-000087-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000087/q32026ex991dividend.htm",
+   "filed_at": "2026-10-30T07:26:55-04:00",
+   "filed_kst": "2026-10-30 20:26",
+   "price": 41.86,
+   "change": 4.05,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 41.86,
+     "change": 4.05
+    },
+    {
+     "date": "2026-10-28",
+     "close": 40.23,
+     "change": 1.28
+    },
+    {
+     "date": "2026-10-27",
+     "close": 39.72,
+     "change": 2.64
+    }
+   ],
+   "market_cap": 885092486.0,
+   "shares_outstanding": 21144111.0,
+   "industry": "Wholesale-Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "COCONUT CREEK, FL",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-30T20:27:29+09:00"
+  },
+  {
+   "id": "0001493152-26-049353",
+   "company": "Pulmatrix, Inc.",
+   "ticker": "PULM",
+   "cik": 1574235,
+   "form": "425",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "FDA"
+   ],
+   "confidence": 79,
+   "summary": "PTC-2105 is an investigational compound that has not been tested for lifespan in humans and has not been approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226049353/0001493152-26-049353-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226049353/form425.htm",
+   "filed_at": "2026-10-30T07:24:19-04:00",
+   "filed_kst": "2026-10-30 20:24",
+   "price": 1.42,
+   "change": -5.67,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 1.41,
+     "change": -5.67
+    },
+    {
+     "date": "2026-10-28",
+     "close": 1.5,
+     "change": 0.67
+    },
+    {
+     "date": "2026-10-27",
+     "close": 1.49,
+     "change": 3.47
+    }
+   ],
+   "market_cap": 5186245.0,
+   "shares_outstanding": 3652285.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "FRAMINGHAM, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-10-30T20:25:25+09:00"
+  },
   {
    "id": "0001062993-26-005617",
    "company": "Largo Inc.",
@@ -15713,159 +15872,6 @@
    "hq": "ICHEON-SI",
    "entity_category": null,
    "detected_at": "2026-10-28T19:07:13+09:00"
-  },
-  {
-   "id": "0001171843-26-006878",
-   "company": "EQUINOR ASA",
-   "ticker": "EQNR",
-   "cik": 1140625,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "An agreement between Equinor and the Norwegian State governs the State's participation in the share buy-back programme: at the annual general meeting of the company in May 2027, the State will, as per proposal by the board of directors, vote for the cancellation of shares purchased in the market pur",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1140625/000117184326006878/0001171843-26-006878-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1140625/000117184326006878/exh_991.htm",
-   "filed_at": "2026-10-28T06:05:03-04:00",
-   "filed_kst": "2026-10-28 19:05",
-   "price": 47.06,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 47.06,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 47.06,
-     "change": -2.16
-    },
-    {
-     "date": "2026-10-26",
-     "close": 48.1,
-     "change": -1.47
-    }
-   ],
-   "market_cap": 117662754672.0,
-   "shares_outstanding": 2500271030.0,
-   "industry": "Petroleum Refining",
-   "state_of_incorporation": null,
-   "hq": "STAVANGER NORWAY, Q8",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:06:09+09:00"
-  },
-  {
-   "id": "0001159508-26-000044",
-   "company": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
-   "ticker": "DB",
-   "cik": 1159508,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "In the third quarter of 2026, Deutsche Bank completed its second share repurchase program, bringing buybacks in 2026 to € 1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1159508/000115950826000044/0001159508-26-000044-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1159508/000115950826000044/db20261028991.htm",
-   "filed_at": "2026-10-28T06:04:31-04:00",
-   "filed_kst": "2026-10-28 19:04",
-   "price": 32.12,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 32.12,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 32.12,
-     "change": 0.6
-    },
-    {
-     "date": "2026-10-26",
-     "close": 31.93,
-     "change": 2.34
-    }
-   ],
-   "market_cap": 61120289240.0,
-   "shares_outstanding": 1902873264.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:05:36+09:00"
-  },
-  {
-   "id": "0000763744-26-000094",
-   "company": "LCI INDUSTRIES",
-   "ticker": "LCII",
-   "cik": 763744,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "01 Other Events As previously disclosed, on June 30, 2026, LCI Industries (the “Company”), a Delaware corporation, entered into an Agreement and Plan of Merger with Patrick Industries, Inc.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000094/0000763744-26-000094-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000094/lcii-20261028.htm",
-   "filed_at": "2026-10-28T06:04:36-04:00",
-   "filed_kst": "2026-10-28 19:04",
-   "price": 89.84,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 89.84,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 89.84,
-     "change": 2.21
-    },
-    {
-     "date": "2026-10-26",
-     "close": 87.9,
-     "change": 3.57
-    }
-   ],
-   "market_cap": 2184145789.0,
-   "shares_outstanding": 24311507.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "DE",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:05:29+09:00"
   }
  ]
 }
