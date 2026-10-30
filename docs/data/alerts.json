@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-10-30T20:29:34+09:00",
+ "updated_at": "2026-10-30T20:34:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000763744-26-000101",
+   "company": "LCI INDUSTRIES",
+   "ticker": "LCII",
+   "cik": 763744,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "01 Other Events As previously disclosed, on June 30, 2026, LCI Industries (the “Company”), a Delaware corporation, entered into an Agreement and Plan of Merger with Patrick Industries, Inc.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000101/0000763744-26-000101-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000101/lcii-20261030.htm",
+   "filed_at": "2026-10-30T07:31:36-04:00",
+   "filed_kst": "2026-10-30 20:31",
+   "price": 98.97,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 98.97,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 98.97,
+     "change": 1.41
+    },
+    {
+     "date": "2026-10-28",
+     "close": 97.59,
+     "change": 8.63
+    }
+   ],
+   "market_cap": 2406109848.0,
+   "shares_outstanding": 24311507.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T20:32:16+09:00"
+  },
+  {
+   "id": "0001213900-26-114065",
+   "company": "Churchill Capital Corp XI",
+   "ticker": "CCXI",
+   "cik": 2074973,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 73,
+   "summary": "☐ Explanatory Note As previously disclosed, on June 24, 2026, Churchill Capital Corp XI, a Cayman Islands exempted company (“Churchill”), entered into an Agreement and Plan of Merger (as amended, modified, supplemented or waived from time to time, the “Merger Agreement”) by and among Churchill, BLB ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026114065/0001213900-26-114065-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026114065/ea031030301ex99-1.htm",
+   "filed_at": "2026-10-30T07:29:23-04:00",
+   "filed_kst": "2026-10-30 20:29",
+   "price": 9.94,
+   "change": -3.02,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 9.94,
+     "change": -3.02
+    },
+    {
+     "date": "2026-10-28",
+     "close": 10.25,
+     "change": 0.1
+    },
+    {
+     "date": "2026-10-27",
+     "close": 10.24,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "General Industrial Machinery & Equipment, NEC",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-30T20:30:39+09:00"
+  },
   {
    "id": "0001213900-26-114063",
    "company": "Churchill Capital Corp XI",
@@ -15772,106 +15879,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:14:43+09:00"
-  },
-  {
-   "id": "0001493152-26-048796",
-   "company": "Elong Power Holding Ltd.",
-   "ticker": "ELPW",
-   "cik": 2015691,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "1 Elong Power Holding Limited (NASDAQ: ELPW) Announces Subsidiary’s Entry into a US$25.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2015691/000149315226048796/0001493152-26-048796-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2015691/000149315226048796/ex99-1.htm",
-   "filed_at": "2026-10-28T06:09:59-04:00",
-   "filed_kst": "2026-10-28 19:09",
-   "price": 2.44,
-   "change": 6.32,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 2.44,
-     "change": 6.32
-    },
-    {
-     "date": "2026-10-26",
-     "close": 2.3,
-     "change": 1.1
-    },
-    {
-     "date": "2026-10-23",
-     "close": 2.27,
-     "change": 0.44
-    }
-   ],
-   "market_cap": 141656882.0,
-   "shares_outstanding": 58056099.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BEIJING",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-28T19:10:34+09:00"
-  },
-  {
-   "id": "0001193125-26-435008",
-   "company": "SK hynix Inc.",
-   "ticker": "SKHY",
-   "cik": 2120882,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "배당"
-   ],
-   "confidence": 67,
-   "summary": "6-K 1 d236990d6k.htm FORM 6-K Form 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE MONTH OF OCTOBER 2026 Commission File Number: 001-43391 SK hynix I",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526435008/0001193125-26-435008-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2120882/000119312526435008/d236990d6k.htm",
-   "filed_at": "2026-10-28T06:06:14-04:00",
-   "filed_kst": "2026-10-28 19:06",
-   "price": 145.36,
-   "change": 1.92,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 145.36,
-     "change": 1.92
-    },
-    {
-     "date": "2026-10-26",
-     "close": 142.62,
-     "change": 4.09
-    },
-    {
-     "date": "2026-10-23",
-     "close": 137.02,
-     "change": 4.05
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "Korea, Republic of",
-   "hq": "ICHEON-SI",
-   "entity_category": null,
-   "detected_at": "2026-10-28T19:07:13+09:00"
   }
  ]
 }
