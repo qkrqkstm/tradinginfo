@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-10-30T21:04:34+09:00",
+ "updated_at": "2026-10-30T21:09:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001230245-26-000038",
+   "company": "PIPER SANDLER COMPANIES",
+   "ticker": "PIPR",
+   "cik": 1230245,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 70,
+   "summary": "20 Per Share; Announces New Share Repurchase Authorization MINNEAPOLIS—October 30, 2026—Piper Sandler Companies (NYSE: PIPR), a leading investment bank, today announced its results for the third quarter of 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1230245/000123024526000038/0001230245-26-000038-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1230245/000123024526000038/q32026ex99earningspressrel.htm",
+   "filed_at": "2026-10-30T08:06:16-04:00",
+   "filed_kst": "2026-10-30 21:06",
+   "price": 68.72,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 68.72,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 68.72,
+     "change": 2.63
+    },
+    {
+     "date": "2026-10-28",
+     "close": 66.96,
+     "change": 2.54
+    }
+   ],
+   "market_cap": 4856462398.0,
+   "shares_outstanding": 70670291.0,
+   "industry": "Security Brokers, Dealers & Flotation Companies",
+   "state_of_incorporation": "DE",
+   "hq": "MINNEAPOLIS, MN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T21:06:59+09:00"
+  },
   {
    "id": "0001628280-26-068443",
    "company": "Azenta, Inc.",
@@ -15837,60 +15891,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:34:51+09:00"
-  },
-  {
-   "id": "0001193125-26-435041",
-   "company": "PARSONS CORP",
-   "ticker": "PSN",
-   "cik": 275880,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 65,
-   "summary": "8 billion ▪ Signed a definitive purchase agreement and finalizing novation for the divestiture of the remote-location contracts; made measurable progress on the Critical Infrastructure joint venture program ▪ Narrowing and reiterating mid-point of fiscal year 2026 revenue and adjusted EBITDA guidanc",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/275880/000119312526435041/0001193125-26-435041-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/275880/000119312526435041/psn-ex99_1.htm",
-   "filed_at": "2026-10-28T06:30:17-04:00",
-   "filed_kst": "2026-10-28 19:30",
-   "price": 50.73,
-   "change": 1.48,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 50.73,
-     "change": 1.48
-    },
-    {
-     "date": "2026-10-26",
-     "close": 49.99,
-     "change": 1.94
-    },
-    {
-     "date": "2026-10-23",
-     "close": 49.04,
-     "change": 2.59
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "DE",
-   "hq": "CENTREVILLE, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:31:14+09:00"
   }
  ]
 }
