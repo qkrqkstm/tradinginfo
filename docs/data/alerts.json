@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-31T03:29:37+09:00",
+ "updated_at": "2026-10-31T03:34:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009299",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009299/0001654954-26-009299-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009299/a2777b.htm",
+   "filed_at": "2026-10-30T14:32:16-04:00",
+   "filed_kst": "2026-10-31 03:32",
+   "price": 85.04,
+   "change": -1.8,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 85.04,
+     "change": -1.8
+    },
+    {
+     "date": "2026-10-29",
+     "close": 86.6,
+     "change": 0.27
+    },
+    {
+     "date": "2026-10-28",
+     "close": 86.37,
+     "change": 0.42
+    }
+   ],
+   "market_cap": 1460582397864.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-31T03:32:57+09:00"
+  },
   {
    "id": "0001104659-26-120476",
    "company": "Troops, Inc. /Cayman Islands/",
@@ -15804,60 +15854,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T20:08:36+09:00"
-  },
-  {
-   "id": "0001193125-26-435081",
-   "company": "AMARIN CORP PLC\\UK",
-   "ticker": "AMRN",
-   "cik": 897448,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "About VASCEPA®/VAZKEPA® (icosapent ethyl) Capsules VASCEPA (icosapent ethyl) capsules are the first prescription treatment approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/897448/000119312526435081/0001193125-26-435081-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/897448/000119312526435081/amrn-ex99_1.htm",
-   "filed_at": "2026-10-28T07:05:13-04:00",
-   "filed_kst": "2026-10-28 20:05",
-   "price": 11.95,
-   "change": -1.16,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 11.95,
-     "change": -1.16
-    },
-    {
-     "date": "2026-10-26",
-     "close": 12.09,
-     "change": 2.54
-    },
-    {
-     "date": "2026-10-23",
-     "close": 11.79,
-     "change": 1.64
-    }
-   ],
-   "market_cap": 4549293.0,
-   "shares_outstanding": 380694.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "DUBLIN 2",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-28T20:06:00+09:00"
   }
  ]
 }
