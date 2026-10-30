@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-30T20:54:36+09:00",
+ "updated_at": "2026-10-30T20:59:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001037976-26-000191",
+   "company": "JONES LANG LASALLE INC",
+   "ticker": "JLL",
+   "cik": 1037976,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "01 Other Events On October 29, 2026, Jones Lang LaSalle Incorporated (the “Company”) entered into a confirmation with Wells Fargo Bank for an accelerated share repurchase transaction (the “ASR”) to repurchase $500 million of the Company’s common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1037976/000103797626000191/0001037976-26-000191-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1037976/000103797626000191/jll-20261029.htm",
+   "filed_at": "2026-10-30T07:56:01-04:00",
+   "filed_kst": "2026-10-30 20:56",
+   "price": 353.47,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 353.47,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 353.47,
+     "change": 6.04
+    },
+    {
+     "date": "2026-10-28",
+     "close": 333.34,
+     "change": 11.14
+    }
+   ],
+   "market_cap": 16146269947.0,
+   "shares_outstanding": 45679322.0,
+   "industry": "Real Estate Agents & Managers (For Others)",
+   "state_of_incorporation": "MD",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T20:56:56+09:00"
+  },
   {
    "id": "0001551152-26-000033",
    "company": "AbbVie Inc.",
@@ -15834,56 +15886,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:28:01+09:00"
-  },
-  {
-   "id": "0000891478-26-000091",
-   "company": "Banco Santander, S.A.",
-   "ticker": "SAN",
-   "cik": 891478,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "• Santander completed the acquisition of Webster on 20 August, strengthening Santander’s US franchise, expanding its customer base by 4.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000091/0000891478-26-000091-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000091/q32026pr.htm",
-   "filed_at": "2026-10-28T06:22:01-04:00",
-   "filed_kst": "2026-10-28 19:22",
-   "price": 12.47,
-   "change": 0.81,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 12.47,
-     "change": 0.81
-    },
-    {
-     "date": "2026-10-26",
-     "close": 12.37,
-     "change": -3.66
-    },
-    {
-     "date": "2026-10-23",
-     "close": 12.84,
-     "change": -0.47
-    }
-   ],
-   "market_cap": 183175814190.0,
-   "shares_outstanding": 14689319502.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": "Spain",
-   "hq": "MADRID, U3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:23:09+09:00"
   }
  ]
 }
