@@ -1,7 +1,170 @@
 {
- "updated_at": "2026-10-30T19:59:04+09:00",
+ "updated_at": "2026-10-30T20:04:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-439864",
+   "company": "CHURCH & DWIGHT CO INC /DE/",
+   "ticker": "CHD",
+   "cik": 313927,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 72,
+   "summary": "The Company’s Board of Directors has approved a new share repurchase program authorizing the Company to repurchase up to $1 billion of its common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/313927/000119312526439864/0001193125-26-439864-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/313927/000119312526439864/chd-ex99_1.htm",
+   "filed_at": "2026-10-30T07:04:05-04:00",
+   "filed_kst": "2026-10-30 20:04",
+   "price": 106.0,
+   "change": 1.19,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 106.0,
+     "change": 1.19
+    },
+    {
+     "date": "2026-10-28",
+     "close": 104.75,
+     "change": -0.25
+    },
+    {
+     "date": "2026-10-27",
+     "close": 105.01,
+     "change": -0.35
+    }
+   ],
+   "market_cap": 25143614142.0,
+   "shares_outstanding": 237203907.0,
+   "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+   "state_of_incorporation": "DE",
+   "hq": "EWING, NJ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T20:04:34+09:00"
+  },
+  {
+   "id": "0001530721-26-000092",
+   "company": "Capri Holdings Ltd",
+   "ticker": "CPRI",
+   "cik": 1530721,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 72,
+   "summary": "Share Repurchase Program During the fiscal second quarter, the Company spent $150 million to repurchase approximately 10.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1530721/000153072126000092/0001530721-26-000092-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1530721/000153072126000092/cpri8-k9262026exhibit991.htm",
+   "filed_at": "2026-10-30T07:03:14-04:00",
+   "filed_kst": "2026-10-30 20:03",
+   "price": 16.06,
+   "change": 5.04,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 16.06,
+     "change": 5.04
+    },
+    {
+     "date": "2026-10-28",
+     "close": 15.29,
+     "change": -0.84
+    },
+    {
+     "date": "2026-10-27",
+     "close": 15.42,
+     "change": -0.96
+    }
+   ],
+   "market_cap": 1825244985.0,
+   "shares_outstanding": 113651618.0,
+   "industry": "Leather & Leather Products",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T20:04:02+09:00"
+  },
+  {
+   "id": "0001121484-26-000036",
+   "company": "OIL STATES INTERNATIONAL, INC",
+   "ticker": "OIS",
+   "cik": 1121484,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 76,
+   "summary": "3x • Downhole Technologies segment generated revenues of $42 million, a 6% sequential increase • Purchased $4 million of our common stock • Board of Directors approved a new $50 million common stock repurchase authorization, expiring in October 2028 HOUSTON, October 30, 2026 – Oil States Internation",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121484/000112148426000036/0001121484-26-000036-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1121484/000112148426000036/ois_20261030x991.htm",
+   "filed_at": "2026-10-30T07:01:34-04:00",
+   "filed_kst": "2026-10-30 20:01",
+   "price": 9.08,
+   "change": -1.2,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 9.08,
+     "change": -1.2
+    },
+    {
+     "date": "2026-10-28",
+     "close": 9.19,
+     "change": 3.14
+    },
+    {
+     "date": "2026-10-27",
+     "close": 8.91,
+     "change": 1.95
+    }
+   ],
+   "market_cap": 547729381.0,
+   "shares_outstanding": 60322619.0,
+   "industry": "Oil & Gas Field Machinery & Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-30T20:01:58+09:00"
+  },
   {
    "id": "0001193125-26-439858",
    "company": "CAMECO CORP",
@@ -15700,162 +15863,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-28T19:04:15+09:00"
-  },
-  {
-   "id": "0001193125-26-434992",
-   "company": "UNITED MICROELECTRONICS CORP",
-   "ticker": "UMC",
-   "cik": 1033767,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "3 Announcement on 2026/10/28: The Board of Directors Approved the Cancellation of Restricted Shares to Employees Stock Awards 99.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1033767/000119312526434992/0001193125-26-434992-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1033767/000119312526434992/umc-ex99.htm",
-   "filed_at": "2026-10-28T06:01:05-04:00",
-   "filed_kst": "2026-10-28 19:01",
-   "price": 19.45,
-   "change": 1.41,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 19.45,
-     "change": 1.41
-    },
-    {
-     "date": "2026-10-26",
-     "close": 19.18,
-     "change": 1.54
-    },
-    {
-     "date": "2026-10-23",
-     "close": 18.89,
-     "change": 1.94
-    }
-   ],
-   "market_cap": 244839640891.0,
-   "shares_outstanding": 12588156344.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "Taiwan",
-   "hq": "TAIPEI, F5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:04:14+09:00"
-  },
-  {
-   "id": "0001140361-26-040940",
-   "company": "ENERPAC TOOL GROUP CORP",
-   "ticker": "EPAC",
-   "cik": 6955,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "2 FIRST AMENDMENT TO AGREEMENT AND PLAN OF MERGER THIS FIRST AMENDMENT TO AGREEMENT AND PLAN OF MERGER (this “ Amendment ”) is made and entered into as of October 27, 2026, by and among Enerpac Tool Group Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/6955/000114036126040940/0001140361-26-040940-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/6955/000114036126040940/ef20084465_ex2-2.htm",
-   "filed_at": "2026-10-27T21:10:37-04:00",
-   "filed_kst": "2026-10-28 10:10",
-   "price": 35.36,
-   "change": 0.2,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 35.36,
-     "change": 0.2
-    },
-    {
-     "date": "2026-10-26",
-     "close": 35.29,
-     "change": -1.4
-    },
-    {
-     "date": "2026-10-23",
-     "close": 35.79,
-     "change": 0.45
-    }
-   ],
-   "market_cap": 1808227163.0,
-   "shares_outstanding": 51137646.0,
-   "industry": "Misc Industrial & Commercial Machinery & Equipment",
-   "state_of_incorporation": "WI",
-   "hq": "MILWAUKEE, WI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:04:12+09:00"
-  },
-  {
-   "id": "0001193125-26-434993",
-   "company": "TTM TECHNOLOGIES INC",
-   "ticker": "TTMI",
-   "cik": 1116942,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "com +1 339 466 7737 TTM Announces Completion of Existing 2025 Share Repurchase Program and Authorization of New $100 Million Program SANTA ANA, Calif.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526434993/0001193125-26-434993-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526434993/d28453dex991.htm",
-   "filed_at": "2026-10-28T06:01:44-04:00",
-   "filed_kst": "2026-10-28 19:01",
-   "price": 86.78,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 86.78,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 86.78,
-     "change": 1.5
-    },
-    {
-     "date": "2026-10-26",
-     "close": 85.5,
-     "change": 6.73
-    }
-   ],
-   "market_cap": 9142174418.0,
-   "shares_outstanding": 105348864.0,
-   "industry": "Printed Circuit Boards",
-   "state_of_incorporation": "DE",
-   "hq": "SANTA ANA, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:04:07+09:00"
   }
  ]
 }
