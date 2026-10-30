@@ -1,7 +1,65 @@
 {
- "updated_at": "2026-10-30T20:39:32+09:00",
+ "updated_at": "2026-10-30T20:44:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001846253-26-000049",
+   "company": "OmniAb, Inc.",
+   "ticker": "OABI",
+   "cik": 1846253,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "탑라인결과",
+    "가이던스상향"
+   ],
+   "confidence": 97,
+   "summary": "The study met its primary endpoint, demonstrating statistically significant and clinically meaningful prevention of gluten-induced intestinal damage versus placebo at week 8.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1846253/000184625326000049/0001846253-26-000049-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1846253/000184625326000049/a2026q3ex991.htm",
+   "filed_at": "2026-10-30T07:42:56-04:00",
+   "filed_kst": "2026-10-30 20:42",
+   "price": 5.23,
+   "change": -0.95,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 5.23,
+     "change": -0.95
+    },
+    {
+     "date": "2026-10-28",
+     "close": 5.28,
+     "change": 6.45
+    },
+    {
+     "date": "2026-10-27",
+     "close": 4.96,
+     "change": 7.59
+    }
+   ],
+   "market_cap": 760391782.0,
+   "shares_outstanding": 145390398.0,
+   "industry": "Services-Commercial Physical & Biological Research",
+   "state_of_incorporation": "DE",
+   "hq": "EMERYVILLE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-10-30T20:43:33+09:00"
+  },
   {
    "id": "0000763744-26-000103",
    "company": "LCI INDUSTRIES",
@@ -15824,60 +15882,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:21:36+09:00"
-  },
-  {
-   "id": "0001996810-26-000162",
-   "company": "GE Vernova Inc.",
-   "ticker": "GEV",
-   "cik": 1996810,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 75,
-   "summary": "htm EX-99 GEV Press Release 3Q'26 1 Defined as remaining performance obligation (RPO) *Non-GAAP Financial Measure Page 1 GE Vernova reports strong third quarter 2026 financial performance, raises 2026 guidance, an d increases share repurchase authorization Third Quarter 2026 Highlights: • Orders of ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000162/0001996810-26-000162-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000162/gevpressrelease3q26.htm",
-   "filed_at": "2026-10-28T06:16:59-04:00",
-   "filed_kst": "2026-10-28 19:16",
-   "price": 895.08,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 895.08,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 895.08,
-     "change": 4.67
-    },
-    {
-     "date": "2026-10-26",
-     "close": 855.12,
-     "change": 4.92
-    }
-   ],
-   "market_cap": 238389861681.0,
-   "shares_outstanding": 266333581.0,
-   "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:17:34+09:00"
   }
  ]
 }
