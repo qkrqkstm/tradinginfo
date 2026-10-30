@@ -1,7 +1,160 @@
 {
- "updated_at": "2026-10-31T05:59:27+09:00",
+ "updated_at": "2026-10-31T06:04:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-068615",
+   "company": "HF Sinclair Corp",
+   "ticker": "DINO",
+   "cik": 1915657,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "This share repurchase is the twenty-third privately negotiated transaction between the Company and the Selling Stockholder and will be made pursuant to the Company’s Share Repurchase Program described below.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026068615/0001628280-26-068615-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026068615/dino-stockrepurchaseagreem.htm",
+   "filed_at": "2026-10-30T17:03:41-04:00",
+   "filed_kst": "2026-10-31 06:03",
+   "price": 115.0,
+   "change": 2.78,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 115.0,
+     "change": 2.78
+    },
+    {
+     "date": "2026-10-29",
+     "close": 111.89,
+     "change": -0.06
+    },
+    {
+     "date": "2026-10-28",
+     "close": 111.96,
+     "change": -1.97
+    }
+   ],
+   "market_cap": 19707683860.0,
+   "shares_outstanding": 171371164.0,
+   "industry": "Pipe Lines (No Natural Gas)",
+   "state_of_incorporation": "DE",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-31T06:04:32+09:00"
+  },
+  {
+   "id": "0001140361-26-041319",
+   "company": "Maplebear Inc.",
+   "ticker": "CART",
+   "cik": 1579091,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579091/000114036126041319/0001140361-26-041319-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579091/000114036126041319/ef20084660_425.htm",
+   "filed_at": "2026-10-30T17:00:21-04:00",
+   "filed_kst": "2026-10-31 06:00",
+   "price": 56.45,
+   "change": -1.16,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 56.45,
+     "change": -1.16
+    },
+    {
+     "date": "2026-10-29",
+     "close": 57.11,
+     "change": -2.24
+    },
+    {
+     "date": "2026-10-28",
+     "close": 58.42,
+     "change": -2.76
+    }
+   ],
+   "market_cap": 13068178782.0,
+   "shares_outstanding": 231500067.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-31T06:01:24+09:00"
+  },
+  {
+   "id": "0001140361-26-041319",
+   "company": "DoorDash, Inc.",
+   "ticker": "DASH",
+   "cik": 1792789,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126041319/0001140361-26-041319-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126041319/ef20084660_425.htm",
+   "filed_at": "2026-10-30T17:00:21-04:00",
+   "filed_kst": "2026-10-31 06:00",
+   "price": 178.99,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 178.99,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 178.99,
+     "change": -0.01
+    },
+    {
+     "date": "2026-10-29",
+     "close": 179.0,
+     "change": 5.61
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "NV",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-31T06:01:21+09:00"
+  },
   {
    "id": "0000895345-26-000475",
    "company": "GRUPO TELEVISA, S.A.B.",
@@ -15679,161 +15832,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T00:37:33+09:00"
-  },
-  {
-   "id": "0001174947-26-000943",
-   "company": "ENI SPA",
-   "ticker": "E",
-   "cik": 1002242,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "28 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000943/0001174947-26-000943-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000943/form6k-36465_eni.htm",
-   "filed_at": "2026-10-28T11:10:47-04:00",
-   "filed_kst": "2026-10-29 00:10",
-   "price": 59.36,
-   "change": 0.7,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 59.36,
-     "change": 0.7
-    },
-    {
-     "date": "2026-10-27",
-     "close": 58.95,
-     "change": -2.64
-    },
-    {
-     "date": "2026-10-26",
-     "close": 60.55,
-     "change": -2.46
-    }
-   ],
-   "market_cap": 186791977167.0,
-   "shares_outstanding": 3146765114.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "Italy",
-   "hq": "ROME ITALY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T00:11:36+09:00"
-  },
-  {
-   "id": "0001654954-26-009181",
-   "company": "GSK plc",
-   "ticker": "GSK",
-   "cik": 1131399,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA",
-    "배당"
-   ],
-   "confidence": 97,
-   "summary": "6-K 1 a6993a.htm 3RD QUARTER RESULTS a6993a UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of October 2026 Commission File Number 001-15170 GSK",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009181/0001654954-26-009181-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009181/a6993a.htm",
-   "filed_at": "2026-10-28T10:45:42-04:00",
-   "filed_kst": "2026-10-28 23:45",
-   "price": 49.09,
-   "change": -3.64,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 49.08,
-     "change": -3.64
-    },
-    {
-     "date": "2026-10-27",
-     "close": 50.94,
-     "change": -0.31
-    },
-    {
-     "date": "2026-10-26",
-     "close": 51.1,
-     "change": 0.69
-    }
-   ],
-   "market_cap": 211845196326.0,
-   "shares_outstanding": 4315445026.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T23:46:37+09:00"
-  },
-  {
-   "id": "0001434265-26-000140",
-   "company": "GENMAB A/S",
-   "ticker": "GMAB",
-   "cik": 1434265,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 91,
-   "summary": "Food and Drug Administration (FDA) Breakthrough Therapy Designation for the first-line treatment of patients with recurrent or metastatic PD-L1-positive HNSCC in combination with pembrolizumab and for the treatment of patients with recurrent or metastatic HNSCC whose disease has progressed foll",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000140/0001434265-26-000140-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000140/gmab_20261028xex99d1.htm",
-   "filed_at": "2026-10-28T09:43:06-04:00",
-   "filed_kst": "2026-10-28 22:43",
-   "price": 50.39,
-   "change": 12.81,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 50.39,
-     "change": 12.81
-    },
-    {
-     "date": "2026-10-27",
-     "close": 44.67,
-     "change": -0.03
-    },
-    {
-     "date": "2026-10-26",
-     "close": 44.69,
-     "change": 2.04
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "1253 COPENHAGEN K, G7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T22:43:40+09:00"
   }
  ]
 }
