@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-10-30T19:29:31+09:00",
+ "updated_at": "2026-10-30T19:34:47+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002115436-26-000018",
+   "company": "ExxonMobil Holdings Corp",
+   "ticker": "XOM",
+   "cik": 2115436,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 73,
+   "summary": "This includes the cancellation of treasury shares as of July 1, 2026, the effects of which had no impact on total equity.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2115436/000211543626000018/0002115436-26-000018-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2115436/000211543626000018/livef8k3q26991.htm",
+   "filed_at": "2026-10-30T06:32:50-04:00",
+   "filed_kst": "2026-10-30 19:32",
+   "price": 183.29,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 183.29,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 183.29,
+     "change": 0.7
+    },
+    {
+     "date": "2026-10-28",
+     "close": 182.02,
+     "change": 1.17
+    }
+   ],
+   "market_cap": 753672343148.0,
+   "shares_outstanding": 4111911960.0,
+   "industry": "Petroleum Refining",
+   "state_of_incorporation": "TX",
+   "hq": "SPRING, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:33:15+09:00"
+  },
   {
    "id": "0001628280-26-068387",
    "company": "VALERO ENERGY CORP/TX",
@@ -15804,59 +15859,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:02:25+09:00"
-  },
-  {
-   "id": "0001564708-26-000238",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000238/0001564708-26-000238-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000238/appendix3cclassa20261027.htm",
-   "filed_at": "2026-10-27T18:31:23-04:00",
-   "filed_kst": "2026-10-28 07:31",
-   "price": 32.76,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 32.76,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 32.76,
-     "change": -2.12
-    },
-    {
-     "date": "2026-10-26",
-     "close": 33.47,
-     "change": -0.89
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:02:23+09:00"
   }
  ]
 }
