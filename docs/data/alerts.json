@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-30T21:49:12+09:00",
+ "updated_at": "2026-10-30T21:54:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001121404-26-000009",
+   "company": "Sanofi",
+   "ticker": "SNY",
+   "cik": 1121404,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 97,
+   "summary": "52 Pipeline update • Two regulatory approvals; in rare diseases and vaccines • One regulatory submission acceptance and two regulatory designations (priority review and PRIME) Guidance upgraded • 2026 guidance is upgraded: sales are expected to grow by a low-teens percentage at CER.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121404/000112140426000009/0001121404-26-000009-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1121404/000112140426000009/pressreleaseq32026english.htm",
+   "filed_at": "2026-10-30T08:49:56-04:00",
+   "filed_kst": "2026-10-30 21:49",
+   "price": 43.13,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 43.13,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 43.13,
+     "change": 2.11
+    },
+    {
+     "date": "2026-10-28",
+     "close": 42.24,
+     "change": 0.84
+    }
+   ],
+   "market_cap": 52593890650.0,
+   "shares_outstanding": 1219427096.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "France",
+   "hq": "PARIS, I0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T21:50:31+09:00"
+  },
   {
    "id": "0001140361-26-041230",
    "company": "Hilton Grand Vacations Inc.",
@@ -15830,60 +15883,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:58:34+09:00"
-  },
-  {
-   "id": "0002127043-26-000015",
-   "company": "Jersey Mike's Subs Inc.",
-   "ticker": "JMKE",
-   "cik": 2127043,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 70,
-   "summary": "1 Document Jersey Mike’s Reports Third Quarter Financial Results Company updates full-year 2026 outlook Announces $100 million share repurchase authorization Declares $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2127043/000212704326000015/0002127043-26-000015-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2127043/000212704326000015/q32026earningsrelease.htm",
-   "filed_at": "2026-10-28T06:46:13-04:00",
-   "filed_kst": "2026-10-28 19:46",
-   "price": 16.96,
-   "change": 0.3,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 16.96,
-     "change": 0.3
-    },
-    {
-     "date": "2026-10-26",
-     "close": 16.91,
-     "change": 0.89
-    },
-    {
-     "date": "2026-10-23",
-     "close": 16.76,
-     "change": -5.26
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Retail-Eating  Places",
-   "state_of_incorporation": "DE",
-   "hq": "TINTON FALLS, NJ",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:47:07+09:00"
   }
  ]
 }
