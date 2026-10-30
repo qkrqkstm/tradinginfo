@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-30T20:34:22+09:00",
+ "updated_at": "2026-10-30T20:39:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000763744-26-000103",
+   "company": "LCI INDUSTRIES",
+   "ticker": "LCII",
+   "cik": 763744,
+   "form": "425",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "01 Other Events As previously disclosed, on June 30, 2026, LCI Industries (the “Company”), a Delaware corporation, entered into an Agreement and Plan of Merger with Patrick Industries, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000103/0000763744-26-000103-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000103/lciiform-pressrelease20261.htm",
+   "filed_at": "2026-10-30T07:34:39-04:00",
+   "filed_kst": "2026-10-30 20:34",
+   "price": 98.97,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 98.97,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 98.97,
+     "change": 1.41
+    },
+    {
+     "date": "2026-10-28",
+     "close": 97.59,
+     "change": 8.63
+    }
+   ],
+   "market_cap": 2406109848.0,
+   "shares_outstanding": 24311507.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T20:35:25+09:00"
+  },
   {
    "id": "0000763744-26-000101",
    "company": "LCI INDUSTRIES",
@@ -15825,60 +15878,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:17:34+09:00"
-  },
-  {
-   "id": "0001563411-26-000198",
-   "company": "CONSTELLIUM SE",
-   "ticker": "CSTM",
-   "cik": 1563411,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 68,
-   "summary": "EX-99.1 2 a2026-q3xearningspressre.htm EX-99.1 a2026-q3xearningspressre October 28, 2026 Constellium Reports Strong Third Quarter 2026 Results; Raises Full Year 2026 Guidance Paris - Constellium SE (NYSE: CSTM) (\"Constellium\" or the \"Company\") today reported results for the third quarter and the nin",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1563411/000156341126000198/0001563411-26-000198-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1563411/000156341126000198/a2026-q3xearningspressre.htm",
-   "filed_at": "2026-10-28T06:14:02-04:00",
-   "filed_kst": "2026-10-28 19:14",
-   "price": 24.56,
-   "change": 4.91,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 24.56,
-     "change": 4.91
-    },
-    {
-     "date": "2026-10-26",
-     "close": 23.41,
-     "change": 0.82
-    },
-    {
-     "date": "2026-10-23",
-     "close": 23.22,
-     "change": -3.21
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Secondary Smelting & Refining of  Nonferrous Metals",
-   "state_of_incorporation": null,
-   "hq": "PARIS, I0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:14:43+09:00"
   }
  ]
 }
