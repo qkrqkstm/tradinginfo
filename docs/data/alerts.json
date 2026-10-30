@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-10-30T23:29:57+09:00",
+ "updated_at": "2026-10-30T23:34:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-120476",
+   "company": "Troops, Inc. /Cayman Islands/",
+   "ticker": "TROO",
+   "cik": 1412095,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Term Sheet will become binding on November 1, 2026 and sets out principal terms and conditions upon which the parties shall execute a license agreement (the “License Agreement”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1412095/000110465926120476/0001104659-26-120476-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1412095/000110465926120476/tm2628621d1_ex99-1.htm",
+   "filed_at": "2026-10-30T10:30:23-04:00",
+   "filed_kst": "2026-10-30 23:30",
+   "price": 2.15,
+   "change": -7.14,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 2.14,
+     "change": -7.14
+    },
+    {
+     "date": "2026-10-29",
+     "close": 2.31,
+     "change": 6.94
+    },
+    {
+     "date": "2026-10-28",
+     "close": 2.16,
+     "change": -4.0
+    }
+   ],
+   "market_cap": 262644357.0,
+   "shares_outstanding": 122160166.0,
+   "industry": "Miscellaneous Business Credit Institution",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW TERRITORIES HONG KONG",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-30T23:31:16+09:00"
+  },
   {
    "id": "0001104659-26-120456",
    "company": "Sony Group Corp",
@@ -15808,61 +15858,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-28T20:06:00+09:00"
-  },
-  {
-   "id": "0000805928-26-000106",
-   "company": "Axogen, Inc.",
-   "ticker": "AXGN",
-   "cik": 805928,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 68,
-   "summary": "• On October 1, 2026, we completed the acquisition of BioCircuit Technologies, Inc.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/805928/000080592826000106/0000805928-26-000106-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/805928/000080592826000106/ex991axgnearningsreleaseda.htm",
-   "filed_at": "2026-10-28T07:04:29-04:00",
-   "filed_kst": "2026-10-28 20:04",
-   "price": 37.46,
-   "change": -1.47,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 37.46,
-     "change": -1.47
-    },
-    {
-     "date": "2026-10-26",
-     "close": 38.02,
-     "change": -0.11
-    },
-    {
-     "date": "2026-10-23",
-     "close": 38.06,
-     "change": 3.76
-    }
-   ],
-   "market_cap": 2013906277.0,
-   "shares_outstanding": 53761513.0,
-   "industry": "Electromedical & Electrotherapeutic Apparatus",
-   "state_of_incorporation": "MN",
-   "hq": "ALACHUA, FL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T20:05:27+09:00"
   }
  ]
 }
