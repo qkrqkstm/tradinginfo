@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-10-30T20:09:33+09:00",
+ "updated_at": "2026-10-30T20:14:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-068426",
+   "company": "AUTONATION, INC.",
+   "ticker": "AN",
+   "cik": 350698,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "11, seventh consecutive quarter of YoY growth • Strong cash flow generation and cash conversion • Share repurchases of $620 million year-to-date, 9% reduction of shares outstanding • Additional $1 billion of share repurchase authorization approved • Record After-Sales gross profit; Customer Pay grow",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/350698/000162828026068426/0001628280-26-068426-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/350698/000162828026068426/anearningsrelease93026ex991.htm",
+   "filed_at": "2026-10-30T07:11:15-04:00",
+   "filed_kst": "2026-10-30 20:11",
+   "price": 169.34,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 169.34,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 169.34,
+     "change": 3.14
+    },
+    {
+     "date": "2026-10-28",
+     "close": 164.18,
+     "change": -0.38
+    }
+   ],
+   "market_cap": 5598516888.0,
+   "shares_outstanding": 33060806.0,
+   "industry": "Retail-Auto Dealers & Gasoline Stations",
+   "state_of_incorporation": "DE",
+   "hq": "FORT LAUDERDALE, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T20:12:05+09:00"
+  },
   {
    "id": "0001193125-26-439864",
    "company": "CHURCH & DWIGHT CO INC /DE/",
@@ -15813,56 +15866,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:04:52+09:00"
-  },
-  {
-   "id": "0001062993-26-005574",
-   "company": "Western Copper & Gold Corp",
-   "ticker": "WRN",
-   "cik": 1364125,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "At DUMAS, he led a successful turnaround and international growth strategy, while overseeing the company's strategic partnerships, including with Canadian First Nations.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1364125/000106299326005574/0001062993-26-005574-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1364125/000106299326005574/exhibit99-1.htm",
-   "filed_at": "2026-10-28T06:00:51-04:00",
-   "filed_kst": "2026-10-28 19:00",
-   "price": 1.75,
-   "change": 2.34,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 1.75,
-     "change": 2.34
-    },
-    {
-     "date": "2026-10-26",
-     "close": 1.71,
-     "change": 1.18
-    },
-    {
-     "date": "2026-10-23",
-     "close": 1.69,
-     "change": -1.17
-    }
-   ],
-   "market_cap": 354090786.0,
-   "shares_outstanding": 202337592.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-28T19:04:15+09:00"
   }
  ]
 }
