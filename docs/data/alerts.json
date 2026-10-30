@@ -1,7 +1,64 @@
 {
- "updated_at": "2026-10-30T20:49:34+09:00",
+ "updated_at": "2026-10-30T20:54:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001551152-26-000033",
+   "company": "AbbVie Inc.",
+   "ticker": "ABBV",
+   "cik": 1551152,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 97,
+   "summary": "3 Recent Events (Continued) • AbbVie announced the FDA approved Juvmo (tavapadon) tablets as the only selective D1/D5 receptor agonist for the treatment of adults with Parkinson's disease (PD).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000033/0001551152-26-000033-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000033/abbv-20260930xexhibit991.htm",
+   "filed_at": "2026-10-30T07:51:51-04:00",
+   "filed_kst": "2026-10-30 20:51",
+   "price": 290.79,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 290.79,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 290.79,
+     "change": 1.68
+    },
+    {
+     "date": "2026-10-28",
+     "close": 285.99,
+     "change": -0.14
+    }
+   ],
+   "market_cap": 513860035305.0,
+   "shares_outstanding": 1767117285.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NORTH CHICAGO, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T20:52:32+09:00"
+  },
   {
    "id": "0001846253-26-000049",
    "company": "OmniAb, Inc.",
@@ -15827,61 +15884,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:23:09+09:00"
-  },
-  {
-   "id": "0000701347-26-000074",
-   "company": "CENTRAL PACIFIC FINANCIAL CORP",
-   "ticker": "CPF",
-   "cik": 701347,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 66,
-   "summary": "0 million remained available under the Company's share repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/701347/000070134726000074/0000701347-26-000074-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/701347/000070134726000074/exhibit99-1erxq32026.htm",
-   "filed_at": "2026-10-28T06:20:48-04:00",
-   "filed_kst": "2026-10-28 19:20",
-   "price": 37.82,
-   "change": 0.24,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 37.82,
-     "change": 0.24
-    },
-    {
-     "date": "2026-10-26",
-     "close": 37.73,
-     "change": 0.11
-    },
-    {
-     "date": "2026-10-23",
-     "close": 37.69,
-     "change": -0.21
-    }
-   ],
-   "market_cap": 973767878.0,
-   "shares_outstanding": 25747432.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "HI",
-   "hq": "HONOLULU, HI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:21:36+09:00"
   }
  ]
 }
