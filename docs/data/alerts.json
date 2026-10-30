@@ -1,7 +1,109 @@
 {
- "updated_at": "2026-10-30T19:54:35+09:00",
+ "updated_at": "2026-10-30T19:59:04+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-439858",
+   "company": "CAMECO CORP",
+   "ticker": "CCJ",
+   "cik": 1009001,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 64,
+   "summary": "The Company has operations in northern Saskatchewan and the United States, as well as a 40% interest in Joint Venture Inkai LLP (JV Inkai), a joint arrangement with Joint Stock Company National Atomic Company Kazatomprom (Kazatomprom), located in Kazakhstan.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/0001193125-26-439858-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex992.htm",
+   "filed_at": "2026-10-30T06:57:37-04:00",
+   "filed_kst": "2026-10-30 19:57",
+   "price": 83.49,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 83.49,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 83.49,
+     "change": -0.42
+    },
+    {
+     "date": "2026-10-28",
+     "close": 83.84,
+     "change": 1.74
+    }
+   ],
+   "market_cap": 36356386583.0,
+   "shares_outstanding": 435457978.0,
+   "industry": "Miscellaneous Metal Ores",
+   "state_of_incorporation": null,
+   "hq": "SASKATOON",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:58:33+09:00"
+  },
+  {
+   "id": "0001654954-26-009252",
+   "company": "VODAFONE GROUP PUBLIC LTD CO",
+   "ticker": "VOD",
+   "cik": 839923,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "has completed the acquisition of a 50% shareholding in its fibre joint venture in Germany, OXG Glasfaser Beteiligungs-GmbH (\"OXG\"), from Geodesia Holding S.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/839923/000165495426009252/0001654954-26-009252-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/839923/000165495426009252/a0228b.htm",
+   "filed_at": "2026-10-30T06:54:37-04:00",
+   "filed_kst": "2026-10-30 19:54",
+   "price": 15.57,
+   "change": -0.38,
+   "price_history": [
+    {
+     "date": "2026-10-29",
+     "close": 15.57,
+     "change": -0.38
+    },
+    {
+     "date": "2026-10-28",
+     "close": 15.63,
+     "change": -0.76
+    },
+    {
+     "date": "2026-10-27",
+     "close": 15.75,
+     "change": 0.32
+    }
+   ],
+   "market_cap": 448678133063.0,
+   "shares_outstanding": 28816835778.0,
+   "industry": "Radiotelephone Communications",
+   "state_of_incorporation": null,
+   "hq": "NEWBURY, BERKSHIRE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-10-30T19:55:22+09:00"
+  },
   {
    "id": "0000872589-26-000032",
    "company": "REGENERON PHARMACEUTICALS, INC.",
@@ -15754,111 +15856,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-28T19:04:07+09:00"
-  },
-  {
-   "id": "0000091142-26-000100",
-   "company": "SMITH A O CORP",
-   "ticker": "AOS",
-   "cik": 91142,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "Smith will retain a 19% interest and enter into a long-term brand licensing agreement, both of which allow it to participate in the business's future growth.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000100/0000091142-26-000100-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000100/aos-20261027.htm",
-   "filed_at": "2026-10-27T20:57:19-04:00",
-   "filed_kst": "2026-10-28 09:57",
-   "price": 62.06,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 62.06,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 62.06,
-     "change": 0.24
-    },
-    {
-     "date": "2026-10-26",
-     "close": 61.91,
-     "change": 0.42
-    }
-   ],
-   "market_cap": 4699939587.0,
-   "shares_outstanding": 75732188.0,
-   "industry": "Household Appliances",
-   "state_of_incorporation": "DE",
-   "hq": "MILWAUKEE, WI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:03:32+09:00"
-  },
-  {
-   "id": "0001108426-26-000064",
-   "company": "TXNM ENERGY INC",
-   "ticker": "TXNM",
-   "cik": 1108426,
-   "form": "8-K",
-   "items": [
-    "7.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(the “Merger Sub”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), pursuant to which Merger Sub will merge with and into TXNM, with TXNM surviving the Merger as a direct wholly owned subsidiary of Parent (the “Merger”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1108426/000110842626000064/0001108426-26-000064-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1108426/000110842626000064/pnm-20261027.htm",
-   "filed_at": "2026-10-27T19:03:24-04:00",
-   "filed_kst": "2026-10-28 08:03",
-   "price": 58.63,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 58.63,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 58.63,
-     "change": 0.39
-    },
-    {
-     "date": "2026-10-26",
-     "close": 58.4,
-     "change": 0.22
-    }
-   ],
-   "market_cap": 6490766478.0,
-   "shares_outstanding": 110707257.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "NM",
-   "hq": "ALBUQUERQUE, NM",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-28T19:02:57+09:00"
   }
  ]
 }
