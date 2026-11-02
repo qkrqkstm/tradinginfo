@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-03T00:44:16+09:00",
+ "updated_at": "2026-11-03T00:49:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-121098",
+   "company": "GeoPark Ltd",
+   "ticker": "GPRK",
+   "cik": 1464591,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "​ With the CPP now effective, GeoPark has completed the acquisition of the remaining 95% interest in the CPP holding company (“CPP Holdco”) from a subsidiary of Grupo Gilinski in exchange for the issuance to such subsidiary of GeoPark common shares.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1464591/000110465926121098/0001104659-26-121098-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1464591/000110465926121098/gprk-20261102x6k.htm",
+   "filed_at": "2026-11-02T10:45:24-05:00",
+   "filed_kst": "2026-11-03 00:45",
+   "price": 10.67,
+   "change": -1.93,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 10.67,
+     "change": -1.93
+    },
+    {
+     "date": "2026-10-30",
+     "close": 10.88,
+     "change": 0.55
+    },
+    {
+     "date": "2026-10-29",
+     "close": 10.82,
+     "change": -1.64
+    }
+   ],
+   "market_cap": 551715803.0,
+   "shares_outstanding": 51707198.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Bermuda",
+   "hq": "BOGOTA, F8",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-03T00:46:04+09:00"
+  },
   {
    "id": "0000950157-26-001150",
    "company": "British American Tobacco p.l.c.",
@@ -15716,57 +15766,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-29T05:56:39+09:00"
-  },
-  {
-   "id": "0001104659-26-119664",
-   "company": "Liberty Capital Corp/NV",
-   "ticker": "GLIBA",
-   "cik": 2057463,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "EX-10.1 2 tm2628376d1_ex10-1.htm EXHIBIT 10.1 Exhibit 10.1 AMENDMENT NO. 3 TO NINTH AMENDED AND RESTATED CREDIT AGREEMENT AMENDMENT NO. 3 TO NINTH AMENDED AND RESTATED CREDIT AGREEMENT (this “ Amendment ”) dated as of October 28, 2026, by and among GCI, LLC (the “ Borrower ”), the Subsidiary Guarant",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2057463/000110465926119664/0001104659-26-119664-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2057463/000110465926119664/tm2628376d1_ex10-1.htm",
-   "filed_at": "2026-10-28T16:54:42-04:00",
-   "filed_kst": "2026-10-29 05:54",
-   "price": 21.0,
-   "change": -0.9,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 21.0,
-     "change": -0.9
-    },
-    {
-     "date": "2026-10-27",
-     "close": 21.19,
-     "change": 1.58
-    },
-    {
-     "date": "2026-10-26",
-     "close": 20.86,
-     "change": -2.34
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Cable & Other Pay Television Services",
-   "state_of_incorporation": "NV",
-   "hq": "ENGLEWOOD, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T05:55:35+09:00"
   }
  ]
 }
