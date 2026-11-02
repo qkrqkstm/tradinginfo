@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-03T06:59:04+09:00",
+ "updated_at": "2026-11-03T07:04:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-007034",
+   "company": "Foremost Clean Energy Ltd.",
+   "ticker": "FMST",
+   "cik": 1935418,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(“Denison”) (NYSE American: DNN) (TSX: DML) to increase its interest to up to 70% in eight prospective uranium properties (other than Hatchet Lake, in which Foremost can earn up to 51%), and a minority (20%) ownership interest in the GR and Blackwing joint ventures with Denison.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1935418/000117184326007034/0001171843-26-007034-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1935418/000117184326007034/exh_991.htm",
+   "filed_at": "2026-11-02T17:00:04-05:00",
+   "filed_kst": "2026-11-03 07:00",
+   "price": 0.63,
+   "change": 8.12,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 0.63,
+     "change": 8.12
+    },
+    {
+     "date": "2026-10-30",
+     "close": 0.58,
+     "change": -4.6
+    },
+    {
+     "date": "2026-10-29",
+     "close": 0.61,
+     "change": 0.16
+    }
+   ],
+   "market_cap": 10256765.0,
+   "shares_outstanding": 16280580.0,
+   "industry": "Miscellaneous Metal Ores",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-03T07:00:46+09:00"
+  },
   {
    "id": "0001193125-26-443818",
    "company": "Atlas Energy Solutions Inc.",
@@ -15708,61 +15759,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T20:34:23+09:00"
-  },
-  {
-   "id": "0000003570-26-000040",
-   "company": "Cheniere Energy, Inc.",
-   "ticker": "LNG",
-   "cik": 3570,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "NEWS RELEASE Cheniere Reports Third Quarter 2026 Results, Raises Full Year 2026 Financial Guidance, and Increases Quarterly Dividend by Over 12% HOUSTON--(BUSINESS WIRE)-- Cheniere Energy, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/3570/000000357026000040/0000003570-26-000040-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/3570/000000357026000040/cei20263rdqtrerex991.htm",
-   "filed_at": "2026-10-29T07:31:19-04:00",
-   "filed_kst": "2026-10-29 20:31",
-   "price": 297.77,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 297.77,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 297.77,
-     "change": -0.66
-    },
-    {
-     "date": "2026-10-27",
-     "close": 299.74,
-     "change": -0.28
-    }
-   ],
-   "market_cap": 60805799472.0,
-   "shares_outstanding": 204203914.0,
-   "industry": "Natural Gas Distribution",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T20:31:45+09:00"
   }
  ]
 }
