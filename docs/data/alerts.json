@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-03T00:24:16+09:00",
+ "updated_at": "2026-11-03T00:29:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001648416-26-000138",
+   "company": "Ferrari N.V.",
+   "ticker": "RACE",
+   "cik": 1648416,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), November 2, 2026 – Ferrari N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000138/0001648416-26-000138-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000138/fnvbb21126prex.htm",
+   "filed_at": "2026-11-02T10:27:24-05:00",
+   "filed_kst": "2026-11-03 00:27",
+   "price": 401.85,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 401.85,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 401.85,
+     "change": 1.48
+    },
+    {
+     "date": "2026-10-30",
+     "close": 395.99,
+     "change": -0.95
+    }
+   ],
+   "market_cap": 74240939596.0,
+   "shares_outstanding": 184747890.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": "Netherlands",
+   "hq": "MARANELLO, L6",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T00:28:18+09:00"
+  },
   {
    "id": "0001650107-26-000133",
    "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
@@ -15720,59 +15770,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T05:50:37+09:00"
-  },
-  {
-   "id": "0001140361-26-041054",
-   "company": "Mistras Group, Inc.",
-   "ticker": "MG",
-   "cik": 1436126,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 71,
-   "summary": "EX-99.1 2 ef20084511_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 MISTRAS Group, Inc. Announces Expiration of “Go-Shop” Period Previously Announced Transaction with H.I.G. Capital Remains Expected to Close in Late 2026 or Early 2027 PRINCETON JUNCTION, NJ – October 28, 2026 – MISTRAS Group, Inc. (NYSE: MG) ",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1436126/000114036126041054/0001140361-26-041054-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1436126/000114036126041054/ef20084511_ex99-1.htm",
-   "filed_at": "2026-10-28T16:45:31-04:00",
-   "filed_kst": "2026-10-29 05:45",
-   "price": 20.47,
-   "change": 0.1,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 20.47,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-27",
-     "close": 20.45,
-     "change": -3.72
-    },
-    {
-     "date": "2026-10-26",
-     "close": 21.24,
-     "change": -1.35
-    }
-   ],
-   "market_cap": 651967310.0,
-   "shares_outstanding": 31849893.0,
-   "industry": "Services-Engineering Services",
-   "state_of_incorporation": "DE",
-   "hq": "PRINCETON JUNCTION, NJ",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:46:02+09:00"
   }
  ]
 }
