@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-02T20:19:12+09:00",
+ "updated_at": "2026-11-02T20:24:49+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-034271",
+   "company": "BIOLARGO, INC.",
+   "ticker": "BLGO",
+   "cik": 880242,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "I think as it unfolds, we'll see more and more strategic alliances come together with major players around the world.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/880242/000143774926034271/0001437749-26-034271-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/880242/000143774926034271/blgo20261101_8k.htm",
+   "filed_at": "2026-11-02T06:20:13-05:00",
+   "filed_kst": "2026-11-02 20:20",
+   "price": 0.07,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 0.07,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 0.07,
+     "change": 16.67
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.06,
+     "change": -14.29
+    }
+   ],
+   "market_cap": 23011195.0,
+   "shares_outstanding": 328731362.0,
+   "industry": "Chemicals & Allied Products",
+   "state_of_incorporation": "DE",
+   "hq": "WESTMINSTER, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-02T20:20:41+09:00"
+  },
   {
    "id": "0000950103-26-016577",
    "company": "GeoPark Ltd",
@@ -15737,61 +15791,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-29T05:06:09+09:00"
-  },
-  {
-   "id": "0001829126-26-011651",
-   "company": "Wintergreen Acquisition Corp.",
-   "ticker": "WTG",
-   "cik": 2053927,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03",
-    "3.02",
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "pursuant to the Merger Agreement dated November 17, 2025.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2053927/000182912626011651/0001829126-26-011651-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2053927/000182912626011651/wintergreenacq_8k.htm",
-   "filed_at": "2026-10-28T16:05:14-04:00",
-   "filed_kst": "2026-10-29 05:05",
-   "price": 10.69,
-   "change": -0.19,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 10.69,
-     "change": -0.19
-    },
-    {
-     "date": "2026-10-26",
-     "close": 10.71,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 10.71,
-     "change": 0.09
-    }
-   ],
-   "market_cap": 18264667.0,
-   "shares_outstanding": 1708575.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "TONGZHOU DISTRICT, BEIJING",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T05:06:07+09:00"
   }
  ]
 }
