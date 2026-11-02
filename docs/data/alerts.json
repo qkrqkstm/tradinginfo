@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-03T00:29:21+09:00",
+ "updated_at": "2026-11-03T00:34:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950157-26-001150",
+   "company": "British American Tobacco p.l.c.",
+   "ticker": "BTI",
+   "cik": 1303523,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Following the purchase and cancellation of these Shares, the Company will have 2,157,210,108 ordinary shares in issue (excluding treasury shares) which carry voting rights and will hold 132,648,864 ordinary shares in treasury.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1303523/000095015726001150/0000950157-26-001150-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1303523/000095015726001150/ex99-6.htm",
+   "filed_at": "2026-11-02T10:32:13-05:00",
+   "filed_kst": "2026-11-03 00:32",
+   "price": 61.42,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 61.42,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 61.42,
+     "change": -0.16
+    },
+    {
+     "date": "2026-10-30",
+     "close": 61.52,
+     "change": 0.74
+    }
+   ],
+   "market_cap": 142030955451.0,
+   "shares_outstanding": 2312454501.0,
+   "industry": "Cigarettes",
+   "state_of_incorporation": null,
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T00:32:54+09:00"
+  },
   {
    "id": "0001648416-26-000138",
    "company": "Ferrari N.V.",
@@ -15717,59 +15767,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-29T05:55:35+09:00"
-  },
-  {
-   "id": "0001570585-26-000141",
-   "company": "Liberty Global Ltd.",
-   "ticker": "LBTYA",
-   "cik": 1570585,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The business generates aggregate revenue of $22 billion, including approximately $13 billion from the nonconsolidated VMO2 joint venture and $9 billion* from consolidated operations.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000141/0001570585-26-000141-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000141/ex991libertyglobaltopresen.htm",
-   "filed_at": "2026-10-28T16:49:41-04:00",
-   "filed_kst": "2026-10-29 05:49",
-   "price": 7.64,
-   "change": -2.3,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 7.64,
-     "change": -2.3
-    },
-    {
-     "date": "2026-10-27",
-     "close": 7.82,
-     "change": 3.71
-    },
-    {
-     "date": "2026-10-26",
-     "close": 7.54,
-     "change": -4.07
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Cable & Other Pay Television Services",
-   "state_of_incorporation": null,
-   "hq": "HAMILTON, D0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:50:37+09:00"
   }
  ]
 }
