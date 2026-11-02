@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-03T07:14:18+09:00",
+ "updated_at": "2026-11-03T07:19:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-034471",
+   "company": "BROADWIND, INC.",
+   "ticker": "BWEN",
+   "cik": 1120370,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 63,
+   "summary": "EX-10.1 2 ex_1034446.htm EXHIBIT 10.1 ex_1034446.htm EXHIBIT 10.1 STOCK PURCHASE AGREEMENT DATED AS OF OCTOBER 30, 2026 BY AND AMONG MCM ACQUISITION COMPANY INC., THE SHAREHOLDERS OF MCM ACQUISITION COMPANY INC., SUMMIT EQUITY GROUP, L.L.C., AS SHAREHOLDER REPRESENTATIVE AND BROADWIND, INC. AS BUYER",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1120370/000143774926034471/0001437749-26-034471-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1120370/000143774926034471/ex_1034446.htm",
+   "filed_at": "2026-11-02T17:16:32-05:00",
+   "filed_kst": "2026-11-03 07:16",
+   "price": 2.81,
+   "change": -3.44,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 2.81,
+     "change": -3.44
+    },
+    {
+     "date": "2026-10-30",
+     "close": 2.91,
+     "change": -8.2
+    },
+    {
+     "date": "2026-10-29",
+     "close": 3.17,
+     "change": -2.16
+    }
+   ],
+   "market_cap": 66477218.0,
+   "shares_outstanding": 23657373.0,
+   "industry": "Nonferrous Foundries (Castings)",
+   "state_of_incorporation": "DE",
+   "hq": "CICERO, IL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-03T07:17:34+09:00"
+  },
   {
    "id": "0001171843-26-007034",
    "company": "Foremost Clean Energy Ltd.",
@@ -15705,60 +15757,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T20:35:27+09:00"
-  },
-  {
-   "id": "0001929561-26-000046",
-   "company": "RXO, Inc.",
-   "ticker": "RXO",
-   "cik": 1929561,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "Robinson Transaction As announced on October 5, 2026, RXO entered into a definitive agreement to be acquired by C.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1929561/000192956126000046/0001929561-26-000046-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1929561/000192956126000046/rxo2026q3pressrelease.htm",
-   "filed_at": "2026-10-29T07:33:34-04:00",
-   "filed_kst": "2026-10-29 20:33",
-   "price": 27.6,
-   "change": -5.15,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 27.6,
-     "change": -5.15
-    },
-    {
-     "date": "2026-10-27",
-     "close": 29.1,
-     "change": 1.46
-    },
-    {
-     "date": "2026-10-26",
-     "close": 28.68,
-     "change": -0.24
-    }
-   ],
-   "market_cap": 4551961133.0,
-   "shares_outstanding": 164926128.0,
-   "industry": "Transportation Services",
-   "state_of_incorporation": "DE",
-   "hq": "CHARLOTTE, NC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T20:34:23+09:00"
   }
  ]
 }
