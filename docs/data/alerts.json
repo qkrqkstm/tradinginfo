@@ -1,7 +1,110 @@
 {
- "updated_at": "2026-11-02T22:59:05+09:00",
+ "updated_at": "2026-11-02T23:04:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-049577",
+   "company": "Bradbury Capital Inc.",
+   "ticker": "BBCI",
+   "cik": 1986694,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(“Super Apps”) and strategic partnerships, today announced an adjustment to the exercise price and the number of shares of common stock issuable upon exercise of its outstanding public warrants (the “Public Warrants”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1986694/000149315226049577/0001493152-26-049577-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1986694/000149315226049577/ex99-2.htm",
+   "filed_at": "2026-11-02T09:01:39-05:00",
+   "filed_kst": "2026-11-02 23:01",
+   "price": 1.69,
+   "change": -7.14,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 1.69,
+     "change": -7.14
+    },
+    {
+     "date": "2026-10-29",
+     "close": 1.82,
+     "change": -13.33
+    },
+    {
+     "date": "2026-10-28",
+     "close": 2.1,
+     "change": 12.3
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": null,
+   "hq": "KUALA LUMPUR",
+   "entity_category": null,
+   "detected_at": "2026-11-02T23:02:29+09:00"
+  },
+  {
+   "id": "0001140361-26-041436",
+   "company": "Bank7 Corp.",
+   "ticker": "BSVN",
+   "cik": 1746129,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(the “Company”) , consummated the previously announced merger (the “Merger”) pursuant to the Agreement and Plan of Merger, dated as of September 16, 2026 (the “Merger Agreement”), by and between the Company and Century Financial Services Corporation (“Century”), a New Mexico corporation and register",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1746129/000114036126041436/0001140361-26-041436-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1746129/000114036126041436/ef2008464_ex99-1.htm",
+   "filed_at": "2026-11-02T09:00:33-05:00",
+   "filed_kst": "2026-11-02 23:00",
+   "price": 58.63,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 58.63,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 58.63,
+     "change": -1.13
+    },
+    {
+     "date": "2026-10-29",
+     "close": 59.3,
+     "change": 0.46
+    }
+   ],
+   "market_cap": 558500937.0,
+   "shares_outstanding": 9525856.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": null,
+   "hq": "OKLAHOMA CITY, OK",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-02T23:01:20+09:00"
+  },
   {
    "id": "0001193125-26-442767",
    "company": "SYNLOGIC, INC.",
@@ -15680,106 +15783,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-29T05:34:38+09:00"
-  },
-  {
-   "id": "0001573516-26-000193",
-   "company": "Murphy USA Inc.",
-   "ticker": "MUSA",
-   "cik": 1573516,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 66,
-   "summary": "88 per share on an annualized basis, reflecting an increase of 11% from the Q3 2026 dividend.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1573516/000157351626000193/0001573516-26-000193-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1573516/000157351626000193/exh991_09302026er.htm",
-   "filed_at": "2026-10-28T16:32:04-04:00",
-   "filed_kst": "2026-10-29 05:32",
-   "price": 515.28,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 515.28,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 515.28,
-     "change": -2.98
-    },
-    {
-     "date": "2026-10-27",
-     "close": 531.11,
-     "change": -1.49
-    }
-   ],
-   "market_cap": 9471025202.0,
-   "shares_outstanding": 18380347.0,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "DE",
-   "hq": "EL DORADO, AR",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:33:00+09:00"
-  },
-  {
-   "id": "0001213900-26-113338",
-   "company": "Scage Future",
-   "ticker": "SCAG",
-   "cik": 2000366,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through strategic partnerships with top-tier vehicle manufacturers and a strong quality control framework, the Company delivers intelligent, high-performance NEVs addressing the transport needs across logistics, mining and port operations.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2000366/000121390026113338/0001213900-26-113338-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2000366/000121390026113338/ea031002501ex99-1.htm",
-   "filed_at": "2026-10-28T16:30:13-04:00",
-   "filed_kst": "2026-10-29 05:30",
-   "price": 2.15,
-   "change": 1235.4,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 2.15,
-     "change": 1235.4
-    },
-    {
-     "date": "2026-10-23",
-     "close": 0.16,
-     "change": -4.17
-    }
-   ],
-   "market_cap": 155324583.0,
-   "shares_outstanding": 72243992.0,
-   "industry": "Truck & Bus Bodies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NANJING CITY, JIANGSU PROVINCE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T05:31:17+09:00"
   }
  ]
 }
