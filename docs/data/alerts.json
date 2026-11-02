@@ -1,7 +1,331 @@
 {
- "updated_at": "2026-11-02T20:59:29+09:00",
+ "updated_at": "2026-11-02T21:04:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-442625",
+   "company": "Seaport Therapeutics, Inc.",
+   "ticker": "SPTX",
+   "cik": 2042347,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "The trial met its primary endpoint, showing that evening dosing of GlyphAllo at 375 mg did not impair next-morning driving performance compared to placebo on Day 5, following multiple-day dosing.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2042347/000119312526442625/0001193125-26-442625-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2042347/000119312526442625/sptx-ex99_1.htm",
+   "filed_at": "2026-11-02T07:03:54-05:00",
+   "filed_kst": "2026-11-02 21:03",
+   "price": 19.6,
+   "change": -7.11,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 19.6,
+     "change": -7.11
+    },
+    {
+     "date": "2026-10-29",
+     "close": 21.1,
+     "change": 3.53
+    },
+    {
+     "date": "2026-10-28",
+     "close": 20.38,
+     "change": -4.23
+    }
+   ],
+   "market_cap": 1049198780.0,
+   "shares_outstanding": 53530550.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-02T21:04:32+09:00"
+  },
+  {
+   "id": "0001213900-26-114652",
+   "company": "Can-Fite BioPharma Ltd.",
+   "ticker": "CANF",
+   "cik": 1536196,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "Namodenoson has been granted Orphan Drug Designation in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026114652/0001213900-26-114652-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026114652/ea031046201ex99-1.htm",
+   "filed_at": "2026-11-02T07:03:34-05:00",
+   "filed_kst": "2026-11-02 21:03",
+   "price": 1.62,
+   "change": -2.41,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 1.62,
+     "change": -2.41
+    },
+    {
+     "date": "2026-10-29",
+     "close": 1.66,
+     "change": 0.61
+    },
+    {
+     "date": "2026-10-28",
+     "close": 1.65,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 4241848.0,
+   "shares_outstanding": 2618425.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "RAMAT GAN, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-02T21:04:00+09:00"
+  },
+  {
+   "id": "0001437749-26-034277",
+   "company": "Eton Pharmaceuticals, Inc.",
+   "ticker": "ETON",
+   "cik": 1710340,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company has entered into a license agreement with Baylor College of Medicine covering patent rights related to the use of insulin-like growth factor 1 (IGF-1) for the treatment of spasms.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926034277/0001437749-26-034277-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926034277/eton20261027_8k.htm",
+   "filed_at": "2026-11-02T07:00:21-05:00",
+   "filed_kst": "2026-11-02 21:00",
+   "price": 52.18,
+   "change": -2.78,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 52.18,
+     "change": -2.78
+    },
+    {
+     "date": "2026-10-29",
+     "close": 53.67,
+     "change": 3.61
+    },
+    {
+     "date": "2026-10-28",
+     "close": 51.8,
+     "change": 1.25
+    }
+   ],
+   "market_cap": 1491467984.0,
+   "shares_outstanding": 28583135.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "DEER PARK, IL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-02T21:01:22+09:00"
+  },
+  {
+   "id": "0001493152-26-049552",
+   "company": "Vertical Data Inc.",
+   "ticker": "VDTA",
+   "cik": 2033264,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "3.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Data Center Joint Venture Letter of Intent In September 2026, the Company entered into a non-binding letter of intent with a data center developer (the “Developer”) to form a joint venture, special purpose vehicle or similar structure to develop, finance and operate up",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226049552/0001493152-26-049552-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226049552/form8-k.htm",
+   "filed_at": "2026-11-02T07:00:43-05:00",
+   "filed_kst": "2026-11-02 21:00",
+   "price": 3.46,
+   "change": -1.03,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 3.46,
+     "change": -1.03
+    },
+    {
+     "date": "2026-10-29",
+     "close": 3.5,
+     "change": 4.15
+    },
+    {
+     "date": "2026-10-28",
+     "close": 3.36,
+     "change": -7.95
+    }
+   ],
+   "market_cap": 47212883.0,
+   "shares_outstanding": 13645342.0,
+   "industry": "Services-Management Consulting Services",
+   "state_of_incorporation": "NV",
+   "hq": "LAS VEGAS, NV",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-02T21:01:20+09:00"
+  },
+  {
+   "id": "0001213900-26-114650",
+   "company": "Tiziana Life Sciences Ltd",
+   "ticker": "TLSA",
+   "cik": 1723069,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 79,
+   "summary": "1 Tiziana Announces Positive Topline Results from Phase 2a INFORM-MS Trial of Intranasal Foralumab in Non-Active Secondary Progressive Multiple Sclerosis ● Trial met its dual primary endpoints for (1) statistically significant reduction (p=0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026114650/0001213900-26-114650-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026114650/ea031046501ex99-1.htm",
+   "filed_at": "2026-11-02T07:00:08-05:00",
+   "filed_kst": "2026-11-02 21:00",
+   "price": 0.8,
+   "change": -11.11,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 0.8,
+     "change": -11.11
+    },
+    {
+     "date": "2026-10-29",
+     "close": 0.9,
+     "change": -5.26
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.95,
+     "change": 9.2
+    }
+   ],
+   "market_cap": 96405921.0,
+   "shares_outstanding": 120507401.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Bermuda",
+   "hq": "LONDON, ENGLAND, X0",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-02T21:00:47+09:00"
+  },
+  {
+   "id": "0001193125-26-442619",
+   "company": "Tempus AI, Inc.",
+   "ticker": "TEM",
+   "cik": 1717115,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 80,
+   "summary": "605 billion and expect full year Adjusted EBITDA of ~$65 million • Announced multi-year strategic collaboration with Merck and Moderna to support commercialization of their individualized neoantigen therapy (INT) class of drugs • In October, announced a strategic collaboration with BMS bringing Temp",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/0001193125-26-442619-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/tem-ex99_1.htm",
+   "filed_at": "2026-11-02T07:00:15-05:00",
+   "filed_kst": "2026-11-02 21:00",
+   "price": 72.22,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 72.22,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 72.22,
+     "change": -7.22
+    },
+    {
+     "date": "2026-10-29",
+     "close": 77.84,
+     "change": 1.61
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "NV",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T21:00:45+09:00"
+  },
   {
    "id": "0001104659-26-120907",
    "company": "Alpine Income Property Trust, Inc.",
@@ -15455,334 +15779,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T05:10:32+09:00"
-  },
-  {
-   "id": "0001065088-26-000209",
-   "company": "EBAY INC",
-   "ticker": "EBAY",
-   "cik": 1065088,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 68,
-   "summary": "The company's total repurchase authorization remaining as of September 30, 2026 was approximately $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000209/0001065088-26-000209-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000209/exhibit991erebayq32026.htm",
-   "filed_at": "2026-10-28T16:07:46-04:00",
-   "filed_kst": "2026-10-29 05:07",
-   "price": 118.02,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 118.02,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 118.02,
-     "change": 0.16
-    },
-    {
-     "date": "2026-10-27",
-     "close": 117.83,
-     "change": -0.67
-    }
-   ],
-   "market_cap": 52518900000.0,
-   "shares_outstanding": 445000000.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SAN JOSE, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:08:43+09:00"
-  },
-  {
-   "id": "0000912767-26-000058",
-   "company": "UFP INDUSTRIES INC",
-   "ticker": "UFPI",
-   "cik": 912767,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "As of October 28, 2026, approximately $198 million remains available under this latest repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/912767/000091276726000058/0000912767-26-000058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/912767/000091276726000058/ufpi-ex99d1.htm",
-   "filed_at": "2026-10-28T16:07:49-04:00",
-   "filed_kst": "2026-10-29 05:07",
-   "price": 78.3,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 78.3,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 78.3,
-     "change": -2.03
-    },
-    {
-     "date": "2026-10-27",
-     "close": 79.92,
-     "change": -1.25
-    }
-   ],
-   "market_cap": 4319144745.0,
-   "shares_outstanding": 55161491.0,
-   "industry": "Sawmills & Planting Mills, General",
-   "state_of_incorporation": "MI",
-   "hq": "GRAND RAPIDS, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:08:41+09:00"
-  },
-  {
-   "id": "0001628280-26-067886",
-   "company": "Vanda Pharmaceuticals Inc.",
-   "ticker": "VNDA",
-   "cik": 1347178,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA",
-    "대형계약"
-   ],
-   "confidence": 96,
-   "summary": "EX-99.1 2 vnda8-k10282026exhibit991.htm EX-99.1 Document Exhibit 99.1 Vanda Pharmaceuticals Reports Third Quarter 2026 Financial Results • Q3 2026 Total Revenues increased 24% to $69.8 million compared to Q3 2025 and 38% compared to Q2 2026 • Q3 2026 Total Operating Expenses decreased by 18% to $93.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026067886/0001628280-26-067886-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026067886/vnda8-k10282026exhibit991.htm",
-   "filed_at": "2026-10-28T16:07:24-04:00",
-   "filed_kst": "2026-10-29 05:07",
-   "price": 4.0,
-   "change": 0.25,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 4.0,
-     "change": 0.25
-    },
-    {
-     "date": "2026-10-27",
-     "close": 3.99,
-     "change": 1.27
-    },
-    {
-     "date": "2026-10-26",
-     "close": 3.94,
-     "change": -1.75
-    }
-   ],
-   "market_cap": 241850748.0,
-   "shares_outstanding": 60462687.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "WASHINGTON, DC",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:08:05+09:00"
-  },
-  {
-   "id": "0000790051-26-000048",
-   "company": "CARLISLE COMPANIES INC",
-   "ticker": "CSL",
-   "cik": 790051,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 57,
-   "summary": "8% • Increased quarterly dividend 14%, Carlisle’s 50th consecutive annual increase • Fourth quarter outlook of high-single-digit revenue growth with flat adj.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/790051/000079005126000048/0000790051-26-000048-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/790051/000079005126000048/q32026-ex991xearningsrelea.htm",
-   "filed_at": "2026-10-28T16:07:26-04:00",
-   "filed_kst": "2026-10-29 05:07",
-   "price": 345.55,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 345.55,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 345.55,
-     "change": -0.87
-    },
-    {
-     "date": "2026-10-27",
-     "close": 348.57,
-     "change": 0.75
-    }
-   ],
-   "market_cap": 13723218658.0,
-   "shares_outstanding": 39714133.0,
-   "industry": "Fabricated Rubber Products, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SCOTTSDALE, AZ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:08:03+09:00"
-  },
-  {
-   "id": "0000885590-26-000121",
-   "company": "Bausch Health Companies Inc.",
-   "ticker": "BHC",
-   "cik": 885590,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "The Company also announced that its Board of Directors has authorized a $50 million share repurchase program, with the primary objective of offsetting dilution associated with the anticipated vesting of management equity awards in 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/885590/000088559026000121/0000885590-26-000121-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/885590/000088559026000121/ex991-q32026.htm",
-   "filed_at": "2026-10-28T16:07:31-04:00",
-   "filed_kst": "2026-10-29 05:07",
-   "price": 6.95,
-   "change": 10.14,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 6.95,
-     "change": 10.14
-    },
-    {
-     "date": "2026-10-27",
-     "close": 6.31,
-     "change": -0.63
-    },
-    {
-     "date": "2026-10-26",
-     "close": 6.35,
-     "change": -1.4
-    }
-   ],
-   "market_cap": 2599234399.0,
-   "shares_outstanding": 373990561.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NJ",
-   "hq": "QUEBEC, A8",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:08:02+09:00"
-  },
-  {
-   "id": "0002089271-26-000031",
-   "company": "Honeywell Aerospace Inc.",
-   "ticker": "HONA",
-   "cik": 2089271,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 58,
-   "summary": "◦ Honeywell Aerospace secured over $2 billion in new awards to provide its advanced navigation and RF systems for several missiles and munitions programs, including some initial contracts on platforms prioritized by the Munitions Acceleration Council.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2089271/000208927126000031/0002089271-26-000031-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2089271/000208927126000031/exhibit991q32026earningsre.htm",
-   "filed_at": "2026-10-28T16:07:35-04:00",
-   "filed_kst": "2026-10-29 05:07",
-   "price": 177.03,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 177.03,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 177.03,
-     "change": 5.44
-    },
-    {
-     "date": "2026-10-27",
-     "close": 167.9,
-     "change": -0.44
-    }
-   ],
-   "market_cap": 56110140907.0,
-   "shares_outstanding": 316952725.0,
-   "industry": "Aircraft Engines & Engine Parts",
-   "state_of_incorporation": "DE",
-   "hq": "PHOENIX, AZ",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:08:00+09:00"
   }
  ]
 }
