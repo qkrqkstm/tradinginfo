@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-02T20:44:52+09:00",
+ "updated_at": "2026-11-02T20:49:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009310",
+   "company": "BARCLAYS PLC",
+   "ticker": "BCS",
+   "cik": 312069,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Following the cancellation of the repurchased shares, the Company’s issued share capital will consist of 13,366,146,890 ordinary shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/312069/000165495426009310/0001654954-26-009310-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/312069/000165495426009310/a02november2026.htm",
+   "filed_at": "2026-11-02T06:47:06-05:00",
+   "filed_kst": "2026-11-02 20:47",
+   "price": 22.3,
+   "change": -3.55,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 22.3,
+     "change": -3.55
+    },
+    {
+     "date": "2026-10-29",
+     "close": 23.12,
+     "change": 1.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 22.89,
+     "change": 1.91
+    }
+   ],
+   "market_cap": 309226556579.0,
+   "shares_outstanding": 13866661730.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T20:47:49+09:00"
+  },
   {
    "id": "0001564708-26-000241",
    "company": "NEWS CORP",
@@ -15733,57 +15783,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-29T05:07:28+09:00"
-  },
-  {
-   "id": "0001493152-26-048982",
-   "company": "RedCloud Holdings plc",
-   "ticker": "RCT",
-   "cik": 2027360,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "RedCloud uses this proprietary transaction data to develop RAID (Real-time AI for Distribution), its prediction model for distribution, and deploys its infrastructure and associated products (“RedAI”) either directly or through joint ventures with partners who fund and operate local markets.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2027360/000149315226048982/0001493152-26-048982-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2027360/000149315226048982/ex99-1.htm",
-   "filed_at": "2026-10-28T16:05:27-04:00",
-   "filed_kst": "2026-10-29 05:05",
-   "price": 0.06,
-   "change": -6.52,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 0.06,
-     "change": -6.52
-    },
-    {
-     "date": "2026-10-27",
-     "close": 0.07,
-     "change": -20.48
-    },
-    {
-     "date": "2026-10-26",
-     "close": 0.08,
-     "change": 9.21
-    }
-   ],
-   "market_cap": 4102837.0,
-   "shares_outstanding": 68380615.0,
-   "industry": "Retail-Retail Stores, NEC",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T05:06:51+09:00"
   }
  ]
 }
