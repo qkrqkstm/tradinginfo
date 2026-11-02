@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-03T02:49:11+09:00",
+ "updated_at": "2026-11-03T02:54:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000939057-26-000287",
+   "company": "TIMBERLAND BANCORP INC",
+   "ticker": "TSBK",
+   "cik": 1046050,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "At September 30, 2026, Timberland had 117,582 shares available to be repurchased in accordance with the terms of its existing stock repurchase plan.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1046050/000093905726000287/0000939057-26-000287-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1046050/000093905726000287/tsbk9302026earningsrelease_f.htm",
+   "filed_at": "2026-11-02T12:48:54-05:00",
+   "filed_kst": "2026-11-03 02:48",
+   "price": 47.92,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 47.92,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 47.92,
+     "change": 2.35
+    },
+    {
+     "date": "2026-10-30",
+     "close": 46.82,
+     "change": -0.93
+    }
+   ],
+   "market_cap": 372610011.0,
+   "shares_outstanding": 7775668.0,
+   "industry": "Savings Institutions, Not Federally Chartered",
+   "state_of_incorporation": "WA",
+   "hq": "HOQUIAM, WA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-03T02:50:32+09:00"
+  },
   {
    "id": "0001104659-26-121185",
    "company": "AGNICO EAGLE MINES LTD",
@@ -15707,61 +15763,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-29T06:11:40+09:00"
-  },
-  {
-   "id": "0001373715-26-000095",
-   "company": "ServiceNow, Inc.",
-   "ticker": "NOW",
-   "cik": 1373715,
-   "form": "8-K/A",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 70,
-   "summary": "1 Recent Business Highlights Partner and Customer Momentum • Today, ServiceNow announced an expanded partnership with OpenAI to help enterprises move seamlessly from AI reasoning to governed action.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000095/0001373715-26-000095-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000095/erq3fy262.htm",
-   "filed_at": "2026-10-28T17:10:49-04:00",
-   "filed_kst": "2026-10-29 06:10",
-   "price": 150.13,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 150.13,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 150.13,
-     "change": -3.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 154.78,
-     "change": -2.15
-    }
-   ],
-   "market_cap": 155234420000.0,
-   "shares_outstanding": 1034000000.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "SANTA CLARA, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T06:11:38+09:00"
   }
  ]
 }
