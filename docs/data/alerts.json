@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-03T02:44:20+09:00",
+ "updated_at": "2026-11-03T02:49:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-121185",
+   "company": "AGNICO EAGLE MINES LTD",
+   "ticker": "AEM",
+   "cik": 2809,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "[Boston Deposit at Hope Bay – Composite Longitudinal Section] 18 San Nicolás Copper Project (50/50 joint venture with Teck Resources Limited) Minas de San Nicolás (\"MDSN\") received the land use change (ETJ) and the environmental impact assessment (MIA-R) permits in July 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2809/000110465926121185/0001104659-26-121185-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2809/000110465926121185/tm2628539d1_ex99-1.htm",
+   "filed_at": "2026-11-02T12:44:00-05:00",
+   "filed_kst": "2026-11-03 02:44",
+   "price": 170.75,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 170.75,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 170.76,
+     "change": 3.25
+    },
+    {
+     "date": "2026-10-30",
+     "close": 165.38,
+     "change": -5.99
+    }
+   ],
+   "market_cap": 85382956950.0,
+   "shares_outstanding": 500046600.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO, A6",
+   "entity_category": [
+    "Large Accelerated"
+   ],
+   "detected_at": "2026-11-03T02:45:33+09:00"
+  },
   {
    "id": "0001104659-26-121154",
    "company": "Grifols SA",
@@ -15712,57 +15762,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T06:11:38+09:00"
-  },
-  {
-   "id": "0001193125-26-436302",
-   "company": "Bank of New York Mellon Corp",
-   "ticker": "BNY",
-   "cik": 1390777,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "EX-4.2 4 d17537dex42.htm EX-4.2 EX-4.2 Exhibit 4.2 DEPOSIT AGREEMENT among THE BANK OF NEW YORK MELLON CORPORATION, as Issuer and COMPUTERSHARE INC. AND COMPUTERSHARE TRUST COMPANY, N.A., acting jointly as Depositary and THE HOLDERS FROM TIME TO TIME OF THE DEPOSITARY RECEIPTS DESCRIBED HEREIN Dated",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526436302/0001193125-26-436302-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526436302/d17537dex42.htm",
-   "filed_at": "2026-10-28T17:00:33-04:00",
-   "filed_kst": "2026-10-29 06:00",
-   "price": 148.59,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 148.59,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 148.59,
-     "change": 0.68
-    },
-    {
-     "date": "2026-10-27",
-     "close": 147.58,
-     "change": 0.27
-    }
-   ],
-   "market_cap": 100818930460.0,
-   "shares_outstanding": 678504142.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T06:01:29+09:00"
   }
  ]
 }
