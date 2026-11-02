@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-03T02:59:05+09:00",
+ "updated_at": "2026-11-03T03:04:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-068756",
+   "company": "ERICSSON LM TELEPHONE CO",
+   "ticker": "ERIC",
+   "cik": 717826,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "00 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026 and which runs between April 23, 2026 and March 31, 2027, at the latest.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026068756/0001628280-26-068756-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026068756/sharebuybacksinericssondur.htm",
+   "filed_at": "2026-11-02T13:02:46-05:00",
+   "filed_kst": "2026-11-03 03:02",
+   "price": 11.14,
+   "change": -0.31,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 11.15,
+     "change": -0.31
+    },
+    {
+     "date": "2026-10-30",
+     "close": 11.18,
+     "change": 0.36
+    },
+    {
+     "date": "2026-10-29",
+     "close": 11.14,
+     "change": 0.63
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM SWEDEN, V7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T03:03:31+09:00"
+  },
   {
    "id": "0000939057-26-000287",
    "company": "TIMBERLAND BANCORP INC",
@@ -15712,57 +15762,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T06:11:42+09:00"
-  },
-  {
-   "id": "0001493152-26-049093",
-   "company": "Cloopen Group Holding Ltd",
-   "ticker": "RAASY",
-   "cik": 1804583,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 Exhibit 99.1 Cloopen Group Holding Limited Announces Completion of Going Private Transaction BEIJING, Oct. 28, 2026 /PRNewswire/ — Cloopen Group Holding Limited (OTC: RAASY) (“ Cloopen ” or the “ Company ”), a leading multi-capability cloud-based communications solution ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1804583/000149315226049093/0001493152-26-049093-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1804583/000149315226049093/ex99-1.htm",
-   "filed_at": "2026-10-28T17:11:02-04:00",
-   "filed_kst": "2026-10-29 06:11",
-   "price": 2.53,
-   "change": -1.94,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 2.53,
-     "change": -1.94
-    },
-    {
-     "date": "2026-10-27",
-     "close": 2.58,
-     "change": 2.79
-    },
-    {
-     "date": "2026-10-26",
-     "close": 2.51,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BEIJING",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T06:11:40+09:00"
   }
  ]
 }
