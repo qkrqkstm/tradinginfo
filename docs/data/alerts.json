@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-02T20:54:42+09:00",
+ "updated_at": "2026-11-02T20:59:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-120907",
+   "company": "Alpine Income Property Trust, Inc.",
+   "ticker": "PINE",
+   "cik": 1786117,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(NYSE: PINE) (the \"Company\"), an owner and operator of single-tenant net leased commercial income properties, today announced that it has completed the acquisition of the previously announced 13-property industrial portfolio for $117.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1786117/000110465926120907/0001104659-26-120907-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1786117/000110465926120907/pine-ex99d1.htm",
+   "filed_at": "2026-11-02T06:57:38-05:00",
+   "filed_kst": "2026-11-02 20:57",
+   "price": 16.39,
+   "change": -0.97,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 16.39,
+     "change": -0.97
+    },
+    {
+     "date": "2026-10-29",
+     "close": 16.55,
+     "change": 2.16
+    },
+    {
+     "date": "2026-10-28",
+     "close": 16.2,
+     "change": -0.37
+    }
+   ],
+   "market_cap": 294047532.0,
+   "shares_outstanding": 17940667.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "WINTER PARK, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-02T20:58:28+09:00"
+  },
   {
    "id": "0001654954-26-009310",
    "company": "BARCLAYS PLC",
@@ -15728,61 +15783,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-29T05:08:00+09:00"
-  },
-  {
-   "id": "0001213900-26-113306",
-   "company": "ClimateRock",
-   "ticker": "CLRCF",
-   "cik": 1903392,
-   "form": "425",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "1 filed therein) to reflect certain clarifications to the Amendment to the Merger Agreement (as defined herein) with respect to the aggregate merger consideration to be issued in the Business Combination (as defined herein).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1903392/000121390026113306/0001213900-26-113306-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1903392/000121390026113306/ea0309861-8ka425_climate.htm",
-   "filed_at": "2026-10-28T16:06:56-04:00",
-   "filed_kst": "2026-10-29 05:06",
-   "price": 12.75,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 12.75,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 12.75,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 12.75,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T05:07:28+09:00"
   }
  ]
 }
