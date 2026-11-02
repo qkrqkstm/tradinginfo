@@ -1,7 +1,417 @@
 {
- "updated_at": "2026-11-02T20:04:55+09:00",
+ "updated_at": "2026-11-02T20:09:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950103-26-016577",
+   "company": "GeoPark Ltd",
+   "ticker": "GPRK",
+   "cik": 1464591,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "With the CPP now effective, GeoPark has completed the acquisition of the remaining 95% interest in the CPP holding company (“CPP Holdco”) from a subsidiary of Grupo Gilinski in exchange for the issuance to such subsidiary of GeoPark common shares.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1464591/000095010326016577/0000950103-26-016577-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1464591/000095010326016577/dp255970_6k.htm",
+   "filed_at": "2026-11-02T06:07:05-05:00",
+   "filed_kst": "2026-11-02 20:07",
+   "price": 10.88,
+   "change": 0.55,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 10.88,
+     "change": 0.55
+    },
+    {
+     "date": "2026-10-29",
+     "close": 10.82,
+     "change": -1.64
+    },
+    {
+     "date": "2026-10-28",
+     "close": 11.0,
+     "change": -1.79
+    }
+   ],
+   "market_cap": 562574314.0,
+   "shares_outstanding": 51707198.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Bermuda",
+   "hq": "BOGOTA, F8",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-02T20:07:43+09:00"
+  },
+  {
+   "id": "0001292814-26-005106",
+   "company": "TIM S.A.",
+   "ticker": "TIMB",
+   "cik": 1826168,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각"
+   ],
+   "confidence": 68,
+   "summary": "Amendment to reflect the updated breakdown of the Company’s share capital into shares, as a result of the cancellation of treasury shares, with no reduction of the share capital, which were acquired under the Company’s share repurchase program, as disclosed in the material fact released on September",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426005106/0001292814-26-005106-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426005106/timb20261030_6k7.htm",
+   "filed_at": "2026-10-30T21:57:40-04:00",
+   "filed_kst": "2026-10-31 10:57",
+   "price": 17.68,
+   "change": -2.37,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 17.68,
+     "change": -2.37
+    },
+    {
+     "date": "2026-10-29",
+     "close": 18.11,
+     "change": 2.03
+    },
+    {
+     "date": "2026-10-28",
+     "close": 17.75,
+     "change": -0.28
+    }
+   ],
+   "market_cap": 42292785718.0,
+   "shares_outstanding": 2392125889.0,
+   "industry": "Telephone Communications (No Radiotelephone)",
+   "state_of_incorporation": "Brazil",
+   "hq": "RIO DE JANEIRO, RJ, D5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T20:07:11+09:00"
+  },
+  {
+   "id": "0001213900-26-114616",
+   "company": "Hotel101 Global Holdings Corp.",
+   "ticker": "HBNB",
+   "cik": 2054507,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 69,
+   "summary": "Management expects Hotel101-Madrid’s performance to support the replication of the Hotel101 business model through joint ventures and, in the future, license agreements, advancing Hotel101 Global’s long-term vision of developing one million standardized rooms across 100 countries and its aspiration ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2054507/000121390026114616/0001213900-26-114616-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2054507/000121390026114616/ea031031601ex99-1.htm",
+   "filed_at": "2026-11-02T06:01:24-05:00",
+   "filed_kst": "2026-11-02 20:01",
+   "price": 4.75,
+   "change": 1.93,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 4.75,
+     "change": 1.93
+    },
+    {
+     "date": "2026-10-29",
+     "close": 4.66,
+     "change": -5.09
+    },
+    {
+     "date": "2026-10-28",
+     "close": 4.91,
+     "change": 2.94
+    }
+   ],
+   "market_cap": 1111653834.0,
+   "shares_outstanding": 234032386.0,
+   "industry": "Hotels & Motels",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-02T20:07:09+09:00"
+  },
+  {
+   "id": "0001178913-26-004919",
+   "company": "ELBIT SYSTEMS LTD",
+   "ticker": "ESLT",
+   "cik": 1027664,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "htm EXHIBIT 1 Exhibit 1 Elbit Systems Awarded Approximately $170 Million Contract to Establish and Operate an Advanced Training and Simulation Center for the IDF Artillery Corps Haifa, Israel, November 2, 2026 – Elbit Systems Ltd .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1027664/000117891326004919/0001178913-26-004919-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1027664/000117891326004919/exhibit_1.htm",
+   "filed_at": "2026-11-02T06:04:45-05:00",
+   "filed_kst": "2026-11-02 20:04",
+   "price": 779.68,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 779.68,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 779.68,
+     "change": -3.43
+    },
+    {
+     "date": "2026-10-29",
+     "close": 807.41,
+     "change": 3.61
+    }
+   ],
+   "market_cap": 36210173007.0,
+   "shares_outstanding": 46442352.0,
+   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
+   "state_of_incorporation": "Israel",
+   "hq": "HAIFA, ISRAEL, L3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T20:07:04+09:00"
+  },
+  {
+   "id": "0001648257-26-000074",
+   "company": "HUTCHMED (China) Ltd",
+   "ticker": "HCM",
+   "cik": 1648257,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 64,
+   "summary": "EX-99.1 2 hcm-ex99d1.htm EX-99.1 Exhibit 99.1 ​ ​ Press Release ​ HUTCHMED Announces Regulatory Filings Accepted for Review for ORPATHYS ® plus TAGRISSO ® in MET-Driven EGFR-Mutated Lung Cancer in Europe and Japan — Follows US FDA new drug application submission in September 2026, marking important ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000074/0001648257-26-000074-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000074/hcm-ex99d1.htm",
+   "filed_at": "2026-11-02T06:06:00-05:00",
+   "filed_kst": "2026-11-02 20:06",
+   "price": 13.15,
+   "change": -3.24,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 13.15,
+     "change": -3.24
+    },
+    {
+     "date": "2026-10-29",
+     "close": 13.59,
+     "change": 2.03
+    },
+    {
+     "date": "2026-10-28",
+     "close": 13.32,
+     "change": -3.48
+    }
+   ],
+   "market_cap": 11471108203.0,
+   "shares_outstanding": 872327620.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "HONG KONG",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T20:07:00+09:00"
+  },
+  {
+   "id": "0000060086-26-000054",
+   "company": "LOEWS CORP",
+   "ticker": "L",
+   "cik": 60086,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 59,
+   "summary": "• Loews Hotels’ net income increased year-over-year primarily due to a higher overall average daily rate and an increase in occupied room nights across most of the portfolio, partially offset by lower equity income from joint ventures.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/60086/000006008626000054/0000060086-26-000054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/60086/000006008626000054/exhibit991-q32026.htm",
+   "filed_at": "2026-11-02T06:03:39-05:00",
+   "filed_kst": "2026-11-02 20:03",
+   "price": 111.32,
+   "change": -0.33,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 111.32,
+     "change": -0.33
+    },
+    {
+     "date": "2026-10-29",
+     "close": 111.69,
+     "change": 1.35
+    },
+    {
+     "date": "2026-10-28",
+     "close": 110.2,
+     "change": -0.74
+    }
+   ],
+   "market_cap": 22756893790.0,
+   "shares_outstanding": 204427720.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T20:06:57+09:00"
+  },
+  {
+   "id": "0001193125-26-442214",
+   "company": "IMMUTEP Ltd",
+   "ticker": "IMMP",
+   "cik": 1506184,
+   "form": "6-K",
+   "items": [
+    "3.10"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 79,
+   "summary": "Immutep also received Orphan Drug Designation for efti in this setting from the FDA in April 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526442214/0001193125-26-442214-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526442214/d183841dex991.htm",
+   "filed_at": "2026-10-30T20:46:30-04:00",
+   "filed_kst": "2026-10-31 09:46",
+   "price": 3.06,
+   "change": -8.11,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 3.06,
+     "change": -8.11
+    },
+    {
+     "date": "2026-10-29",
+     "close": 3.33,
+     "change": 0.3
+    },
+    {
+     "date": "2026-10-28",
+     "close": 3.32,
+     "change": 5.4
+    }
+   ],
+   "market_cap": 4509587196.0,
+   "shares_outstanding": 1473721306.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "SYDNEY,, C3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-02T20:06:14+09:00"
+  },
+  {
+   "id": "0001292814-26-005094",
+   "company": "TIM S.A.",
+   "ticker": "TIMB",
+   "cik": 1826168,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 timb20261030_6k2.htm 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 Date of Report: October 30, 2026 Commission File Number: 001-39570 TIM S.A. (Ex",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426005094/0001292814-26-005094-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426005094/timb20261030_6k2.htm",
+   "filed_at": "2026-10-30T19:57:32-04:00",
+   "filed_kst": "2026-10-31 08:57",
+   "price": 17.68,
+   "change": -2.37,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 17.68,
+     "change": -2.37
+    },
+    {
+     "date": "2026-10-29",
+     "close": 18.11,
+     "change": 2.03
+    },
+    {
+     "date": "2026-10-28",
+     "close": 17.75,
+     "change": -0.28
+    }
+   ],
+   "market_cap": 42292785718.0,
+   "shares_outstanding": 2392125889.0,
+   "industry": "Telephone Communications (No Radiotelephone)",
+   "state_of_incorporation": "Brazil",
+   "hq": "RIO DE JANEIRO, RJ, D5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T20:05:39+09:00"
+  },
   {
    "id": "0001185185-26-005108",
    "company": "Cartesian Growth Corp II",
@@ -15382,432 +15792,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-29T05:06:07+09:00"
-  },
-  {
-   "id": "0001213900-26-113300",
-   "company": "ClimateRock",
-   "ticker": "CLRCF",
-   "cik": 1903392,
-   "form": "8-K/A",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "1 filed therein) to reflect certain clarifications to the Amendment to the Merger Agreement (as defined herein) with respect to the aggregate merger consideration to be issued in the Business Combination (as defined herein).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1903392/000121390026113300/0001213900-26-113300-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1903392/000121390026113300/ea0309861-8ka425_climate.htm",
-   "filed_at": "2026-10-28T16:05:23-04:00",
-   "filed_kst": "2026-10-29 05:05",
-   "price": 12.75,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-27",
-     "close": 12.75,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 12.75,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-23",
-     "close": 12.75,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T05:06:05+09:00"
-  },
-  {
-   "id": "0001376339-26-000094",
-   "company": "MIMEDX GROUP, INC.",
-   "ticker": "MDXG",
-   "cik": 1376339,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.3 4 mimedxinvestorpresentati.htm EX-99.3 mimedxinvestorpresentati Investor Presentation October 2026 Disclaimer & Cautionary Statements This presentation and our earnings call includes mdxg-20261028 0001376339 False 0001376339 2026-10-28 2026-10-28 UNITED STATES SECURITIES AND EXCHANGE COMMISS",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1376339/000137633926000094/0001376339-26-000094-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1376339/000137633926000094/mimedxinvestorpresentati.htm",
-   "filed_at": "2026-10-28T16:03:46-04:00",
-   "filed_kst": "2026-10-29 05:03",
-   "price": 3.95,
-   "change": 1.28,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 3.95,
-     "change": 1.28
-    },
-    {
-     "date": "2026-10-27",
-     "close": 3.9,
-     "change": 1.3
-    },
-    {
-     "date": "2026-10-26",
-     "close": 3.85,
-     "change": -1.53
-    }
-   ],
-   "market_cap": 575753849.0,
-   "shares_outstanding": 145760468.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": null,
-   "hq": "MARIETTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:04:42+09:00"
-  },
-  {
-   "id": "0001516912-26-000064",
-   "company": "Origin Bancorp, Inc.",
-   "ticker": "OBK",
-   "cik": 1516912,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "8 million remains available for share repurchases under the share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1516912/000151691226000064/0001516912-26-000064-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1516912/000151691226000064/a09302026obkexhibit991er.htm",
-   "filed_at": "2026-10-28T16:02:52-04:00",
-   "filed_kst": "2026-10-29 05:02",
-   "price": 51.38,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 51.38,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 51.38,
-     "change": -0.75
-    },
-    {
-     "date": "2026-10-27",
-     "close": 51.77,
-     "change": -0.67
-    }
-   ],
-   "market_cap": 1585056456.0,
-   "shares_outstanding": 30849678.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "LA",
-   "hq": "RUSTON, LA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:04:07+09:00"
-  },
-  {
-   "id": "0001728117-26-000109",
-   "company": "Gossamer Bio, Inc.",
-   "ticker": "GOSS",
-   "cik": 1728117,
-   "form": "8-K",
-   "items": [
-    "5.07"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "goss-20261027 0001728117 FALSE 0001728117 2026-10-27 2026-10-27 UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): October 27, 2026 GO",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1728117/000172811726000109/0001728117-26-000109-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1728117/000172811726000109/goss-20261027.htm",
-   "filed_at": "2026-10-28T16:02:09-04:00",
-   "filed_kst": "2026-10-29 05:02",
-   "price": 10.69,
-   "change": 9.42,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 10.69,
-     "change": 9.42
-    },
-    {
-     "date": "2026-10-27",
-     "close": 9.77,
-     "change": 6.78
-    },
-    {
-     "date": "2026-10-26",
-     "close": 9.15,
-     "change": -4.74
-    }
-   ],
-   "market_cap": 5225771458.0,
-   "shares_outstanding": 488846722.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-29T05:02:58+09:00"
-  },
-  {
-   "id": "0001193125-26-436108",
-   "company": "Bilibili Inc.",
-   "ticker": "BILI",
-   "cik": 1723690,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "15 Adjustment to result from the cancellation of the Repurchased Shares from the Concurrent Delta Repurchase also remains pending.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1723690/000119312526436108/0001193125-26-436108-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723690/000119312526436108/d32541dex992.htm",
-   "filed_at": "2026-10-28T16:01:23-04:00",
-   "filed_kst": "2026-10-29 05:01",
-   "price": 12.9,
-   "change": -1.6,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 12.9,
-     "change": -1.6
-    },
-    {
-     "date": "2026-10-27",
-     "close": 13.11,
-     "change": -1.72
-    },
-    {
-     "date": "2026-10-26",
-     "close": 13.34,
-     "change": -1.04
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SHANGHAI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:02:24+09:00"
-  },
-  {
-   "id": "0001493152-26-048978",
-   "company": "MIRA PHARMACEUTICALS, INC.",
-   "ticker": "MIRA",
-   "cik": 1904286,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "Conducted in an established diet-induced obesity (DIO) mouse model, the study demonstrated statistically significant reductions in body weight and fat mass following oral administration of SKNY-1 compared with vehicle-treated controls.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1904286/000149315226048978/0001493152-26-048978-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1904286/000149315226048978/ex99-1.htm",
-   "filed_at": "2026-10-28T16:01:20-04:00",
-   "filed_kst": "2026-10-29 05:01",
-   "price": 0.56,
-   "change": -0.02,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 0.56,
-     "change": -0.02
-    },
-    {
-     "date": "2026-10-28",
-     "close": 0.56,
-     "change": 1.11
-    },
-    {
-     "date": "2026-10-27",
-     "close": 0.55,
-     "change": 3.19
-    }
-   ],
-   "market_cap": 23532369.0,
-   "shares_outstanding": 42022087.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "FL",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T05:02:21+09:00"
-  },
-  {
-   "id": "0001289945-26-000058",
-   "company": "Spok Holdings, Inc",
-   "ticker": "SPOK",
-   "cik": 1289945,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "(2) Software backlog excludes $15.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1289945/000128994526000058/0001289945-26-000058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1289945/000128994526000058/a3q26-ex991earningspressre.htm",
-   "filed_at": "2026-10-28T16:00:46-04:00",
-   "filed_kst": "2026-10-29 05:00",
-   "price": 10.18,
-   "change": 0.69,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 10.18,
-     "change": 0.69
-    },
-    {
-     "date": "2026-10-27",
-     "close": 10.11,
-     "change": -0.98
-    },
-    {
-     "date": "2026-10-26",
-     "close": 10.21,
-     "change": -0.87
-    }
-   ],
-   "market_cap": 212946635.0,
-   "shares_outstanding": 20918137.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": "DE",
-   "hq": "PLANO, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:01:45+09:00"
-  },
-  {
-   "id": "0001140361-26-041034",
-   "company": "ENERPAC TOOL GROUP CORP",
-   "ticker": "EPAC",
-   "cik": 6955,
-   "form": "8-K",
-   "items": [
-    "2.01",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 73,
-   "summary": "(the “Company”) and its wholly owned subsidiary, Rodeo Merger Sub, LLC, a Delaware limited liability company (“Merger Sub”), entered into an Agreement and Plan of Merger (the “Agreement”), dated as of July 7, 2026, with Specialized Fabrication Equipment Group LLC, a Delaware limited liability compan",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/6955/000114036126041034/0001140361-26-041034-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/6955/000114036126041034/ef20084507_ex99-1.htm",
-   "filed_at": "2026-10-28T16:00:49-04:00",
-   "filed_kst": "2026-10-29 05:00",
-   "price": 35.64,
-   "change": 0.79,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 35.64,
-     "change": 0.79
-    },
-    {
-     "date": "2026-10-27",
-     "close": 35.36,
-     "change": 0.2
-    },
-    {
-     "date": "2026-10-26",
-     "close": 35.29,
-     "change": -1.4
-    }
-   ],
-   "market_cap": 1822545703.0,
-   "shares_outstanding": 51137646.0,
-   "industry": "Misc Industrial & Commercial Machinery & Equipment",
-   "state_of_incorporation": "WI",
-   "hq": "MILWAUKEE, WI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:01:43+09:00"
   }
  ]
 }
