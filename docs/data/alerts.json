@@ -1,7 +1,115 @@
 {
- "updated_at": "2026-11-02T21:49:38+09:00",
+ "updated_at": "2026-11-02T21:54:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-114672",
+   "company": "Iron Horse Acquisition II Corp.",
+   "ticker": "IRHO",
+   "cik": 2051985,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Electra is currently party to a business combination agreement with Iron Horse Acquisition II Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026114672/0001213900-26-114672-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026114672/ea031040801ex99-2.htm",
+   "filed_at": "2026-11-02T07:51:38-05:00",
+   "filed_kst": "2026-11-02 21:51",
+   "price": 10.09,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 10.09,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 10.09,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 10.09,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 295838800.0,
+   "shares_outstanding": 29320000.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": null,
+   "hq": "BOCA RATON, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-02T21:52:44+09:00"
+  },
+  {
+   "id": "0001683168-26-008221",
+   "company": "Valion Bio, Inc.",
+   "ticker": "VBIO",
+   "cik": 1787740,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "The product candidate has received Fast Track and Orphan Drug designations from the FDA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826008221/0001683168-26-008221-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787740/000168316826008221/valion_ex9901.htm",
+   "filed_at": "2026-11-02T07:50:14-05:00",
+   "filed_kst": "2026-11-02 21:50",
+   "price": 0.55,
+   "change": -10.86,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 0.55,
+     "change": -10.86
+    },
+    {
+     "date": "2026-10-29",
+     "close": 0.62,
+     "change": -9.13
+    },
+    {
+     "date": "2026-10-28",
+     "close": 0.68,
+     "change": -13.17
+    }
+   ],
+   "market_cap": 12204356.0,
+   "shares_outstanding": 22189739.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-02T21:51:09+09:00"
+  },
   {
    "id": "0001171843-26-007014",
    "company": "Brainsway Ltd.",
@@ -15663,112 +15771,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T05:15:36+09:00"
-  },
-  {
-   "id": "0000020212-26-000082",
-   "company": "Churchill Downs Inc",
-   "ticker": "CHDN",
-   "cik": 20212,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 85,
-   "summary": "▪ The Board of Directors approved a new $750 million share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/20212/000002021226000082/0000020212-26-000082-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/20212/000002021226000082/ex991pressrelease10-28x26.htm",
-   "filed_at": "2026-10-28T16:14:39-04:00",
-   "filed_kst": "2026-10-29 05:14",
-   "price": 81.95,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 81.95,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 81.95,
-     "change": 0.53
-    },
-    {
-     "date": "2026-10-27",
-     "close": 81.52,
-     "change": -3.0
-    }
-   ],
-   "market_cap": 5711934914.0,
-   "shares_outstanding": 69700243.0,
-   "industry": "Services-Racing, Including Track Operation",
-   "state_of_incorporation": "KY",
-   "hq": "LOUISVILLE, KY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:15:35+09:00"
-  },
-  {
-   "id": "0000076605-26-000103",
-   "company": "PATRICK INDUSTRIES INC",
-   "ticker": "PATK",
-   "cik": 76605,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Reaffirms Merger Agreement with LCI Industries — October 28, 2026 https://ir.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000103/0000076605-26-000103-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000103/patk102826-425filingxpress.htm",
-   "filed_at": "2026-10-28T16:13:43-04:00",
-   "filed_kst": "2026-10-29 05:13",
-   "price": 69.93,
-   "change": -2.78,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 69.93,
-     "change": -2.78
-    },
-    {
-     "date": "2026-10-27",
-     "close": 71.93,
-     "change": 2.09
-    },
-    {
-     "date": "2026-10-26",
-     "close": 70.46,
-     "change": 2.32
-    }
-   ],
-   "market_cap": 2246030202.0,
-   "shares_outstanding": 32118264.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "IN",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:14:12+09:00"
   }
  ]
 }
