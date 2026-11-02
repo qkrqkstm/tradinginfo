@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-02T22:49:22+09:00",
+ "updated_at": "2026-11-02T22:54:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-442767",
+   "company": "SYNLOGIC, INC.",
+   "ticker": "SYBX",
+   "cik": 1527599,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ": 001-37566 Date: November 2, 2026 This filing relates to the proposed transaction pursuant to the terms of that certain Agreement and Plan of Merger, dated as of July 28, 2026 (the “Merger Agreement”), by and among Synlogic, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1527599/000119312526442767/0001193125-26-442767-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1527599/000119312526442767/d81585d425.htm",
+   "filed_at": "2026-11-02T08:49:32-05:00",
+   "filed_kst": "2026-11-02 22:49",
+   "price": 0.96,
+   "change": -8.57,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 0.96,
+     "change": -8.57
+    },
+    {
+     "date": "2026-10-29",
+     "close": 1.05,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "close": 1.05,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 11758992.0,
+   "shares_outstanding": 12248950.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WINCHESTER, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-02T22:50:33+09:00"
+  },
   {
    "id": "0001493152-26-049572",
    "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
@@ -15729,63 +15780,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-29T05:31:17+09:00"
-  },
-  {
-   "id": "0001213900-26-113337",
-   "company": "ADIAL PHARMACEUTICALS, INC.",
-   "ticker": "ADIL",
-   "cik": 1513525,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "5.03",
-    "5.07",
-    "7.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "M&A",
-    "FDA"
-   ],
-   "confidence": 83,
-   "summary": ", who invented a treatment for a viral skin condition he had himself and developed it into a controlled-drug leading to FDA approval.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026113337/0001213900-26-113337-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026113337/ea030997701ex99-1.htm",
-   "filed_at": "2026-10-28T16:30:23-04:00",
-   "filed_kst": "2026-10-29 05:30",
-   "price": 5.05,
-   "change": 36.12,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 5.05,
-     "change": 36.12
-    },
-    {
-     "date": "2026-10-27",
-     "close": 3.71,
-     "change": 0.82
-    },
-    {
-     "date": "2026-10-26",
-     "close": 3.68,
-     "change": -6.12
-    }
-   ],
-   "market_cap": 13260744.0,
-   "shares_outstanding": 2625890.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CHARLOTTESVILLE, VA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-29T05:31:14+09:00"
   }
  ]
 }
