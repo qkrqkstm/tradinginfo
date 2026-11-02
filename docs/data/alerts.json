@@ -1,7 +1,276 @@
 {
- "updated_at": "2026-11-02T22:04:54+09:00",
+ "updated_at": "2026-11-02T22:09:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001046311-26-000030",
+   "company": "CHOICE HOTELS INTERNATIONAL INC /DE",
+   "ticker": "CHH",
+   "cik": 1046311,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 87,
+   "summary": "3 Share repurchases include repurchases under the Company's stock repurchase program and repurchases from employees in connection with tax withholding and option exercises relating to awards under the Company's equity incentive plans.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1046311/000104631126000030/0001046311-26-000030-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1046311/000104631126000030/exhibit991earningspressrel.htm",
+   "filed_at": "2026-11-02T08:07:30-05:00",
+   "filed_kst": "2026-11-02 22:07",
+   "price": 111.16,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 111.16,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 111.16,
+     "change": -1.6
+    },
+    {
+     "date": "2026-10-29",
+     "close": 112.97,
+     "change": 2.68
+    }
+   ],
+   "market_cap": 5003158422.0,
+   "shares_outstanding": 45008622.0,
+   "industry": "Hotels & Motels",
+   "state_of_incorporation": "DE",
+   "hq": "NORTH BETHESDA, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T22:08:25+09:00"
+  },
+  {
+   "id": "0001104659-26-120936",
+   "company": "VEECO INSTRUMENTS INC",
+   "ticker": "VECO",
+   "cik": 103145,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "The completion of the transactions contemplated by the merger agreement is subject to the satisfaction or waiver of customary closing conditions, including the pending regulatory approval from the State Administration for Market Regulation of the People’s Republic of China (“SAMR”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/103145/000110465926120936/0001104659-26-120936-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/103145/000110465926120936/tm2628709d1_ex99-1.htm",
+   "filed_at": "2026-11-02T08:07:35-05:00",
+   "filed_kst": "2026-11-02 22:07",
+   "price": 38.87,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 38.87,
+     "change": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 38.87,
+     "change": -9.18
+    },
+    {
+     "date": "2026-10-29",
+     "close": 42.8,
+     "change": -2.37
+    }
+   ],
+   "market_cap": 2376109107.0,
+   "shares_outstanding": 61129640.0,
+   "industry": "Special Industry Machinery, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "PLAINVIEW, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T22:08:23+09:00"
+  },
+  {
+   "id": "0001437749-26-034284",
+   "company": "NRX Pharmaceuticals, Inc.",
+   "ticker": "NRXP",
+   "cik": 1719406,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "대형계약"
+   ],
+   "confidence": 79,
+   "summary": "1 NRx Pharmaceuticals (Nasdaq:NRXP) Receives FDA Approval of Preservative-Free Ketamine Ahead of November 10 FDA Goal Date October 30, 2026 ● Preservative-Free Ketamine is an American-manufactured presentation of ketamine that contains no benzethonium chloride (BZT), a toxic antimicrobial preservati",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1719406/000143774926034284/0001437749-26-034284-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1719406/000143774926034284/nrxp20261030_8k.htm",
+   "filed_at": "2026-11-02T08:06:07-05:00",
+   "filed_kst": "2026-11-02 22:06",
+   "price": 2.27,
+   "change": -14.66,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 2.27,
+     "change": -14.66
+    },
+    {
+     "date": "2026-10-29",
+     "close": 2.66,
+     "change": -1.12
+    },
+    {
+     "date": "2026-10-28",
+     "close": 2.69,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 98281391.0,
+   "shares_outstanding": 43295767.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WILMINGTON, DE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-02T22:07:20+09:00"
+  },
+  {
+   "id": "0001808834-26-000126",
+   "company": "PROG Holdings, Inc.",
+   "ticker": "PRG",
+   "cik": 1808834,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "(the “Company”) entered into an accelerated share repurchase program (the “ASR Program”) with Bank of America, N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1808834/000180883426000126/0001808834-26-000126-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1808834/000180883426000126/prg-20261029.htm",
+   "filed_at": "2026-11-02T08:06:25-05:00",
+   "filed_kst": "2026-11-02 22:06",
+   "price": 34.75,
+   "change": 3.79,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 34.75,
+     "change": 3.79
+    },
+    {
+     "date": "2026-10-29",
+     "close": 33.48,
+     "change": 8.42
+    },
+    {
+     "date": "2026-10-28",
+     "close": 30.88,
+     "change": 4.29
+    }
+   ],
+   "market_cap": 1355134491.0,
+   "shares_outstanding": 38996676.0,
+   "industry": "Services-Equipment Rental & Leasing, NEC",
+   "state_of_incorporation": "GA",
+   "hq": "DRAPER, UT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T22:07:19+09:00"
+  },
+  {
+   "id": "0001140361-26-041421",
+   "company": "FTAI Aviation Ltd.",
+   "ticker": "FTAI",
+   "cik": 1590364,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "The Issuer intends to use a portion of the net proceeds from the Private Offering to (i) repay in full all amounts outstanding under the Revolving Credit Facility (incurred to fund FTAI Aviation’s accelerated share repurchase program) without a reduction in commitments, (ii) redeem a portion of the ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1590364/000114036126041421/0001140361-26-041421-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1590364/000114036126041421/ef20084709_8k.htm",
+   "filed_at": "2026-11-02T08:05:44-05:00",
+   "filed_kst": "2026-11-02 22:05",
+   "price": 187.27,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 187.27,
+     "change": -0.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 187.27,
+     "change": -4.46
+    },
+    {
+     "date": "2026-10-29",
+     "close": 196.01,
+     "change": 17.27
+    }
+   ],
+   "market_cap": 19150527210.0,
+   "shares_outstanding": 102261586.0,
+   "industry": "Services-Miscellaneous Equipment Rental & Leasing",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-02T22:06:47+09:00"
+  },
   {
    "id": "0001628280-26-068663",
    "company": "Fox Corp",
@@ -15511,273 +15780,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T05:21:05+09:00"
-  },
-  {
-   "id": "0001379041-26-000075",
-   "company": "Employers Holdings, Inc.",
-   "ticker": "EIG",
-   "cik": 1379041,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "9 million of repurchase authorization remaining under the 2026 Program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1379041/000137904126000075/0001379041-26-000075-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1379041/000137904126000075/ex992_finsupplementx9302026.htm",
-   "filed_at": "2026-10-28T16:18:50-04:00",
-   "filed_kst": "2026-10-29 05:18",
-   "price": 51.41,
-   "change": -1.02,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 51.41,
-     "change": -1.02
-    },
-    {
-     "date": "2026-10-27",
-     "close": 51.94,
-     "change": -0.17
-    },
-    {
-     "date": "2026-10-26",
-     "close": 52.03,
-     "change": -0.1
-    }
-   ],
-   "market_cap": 923349613.0,
-   "shares_outstanding": 17960506.0,
-   "industry": "Fire, Marine & Casualty Insurance",
-   "state_of_incorporation": "NV",
-   "hq": "RENO, NV",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:20:31+09:00"
-  },
-  {
-   "id": "0001193125-26-436183",
-   "company": "Ryerson Holding Corp",
-   "ticker": "RYZ",
-   "cik": 1481582,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "2 million remaining under its share repurchase authorization, which expires on April 30, 2028.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1481582/000119312526436183/0001193125-26-436183-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1481582/000119312526436183/ryz-ex99_1.htm",
-   "filed_at": "2026-10-28T16:17:56-04:00",
-   "filed_kst": "2026-10-29 05:17",
-   "price": 29.67,
-   "change": 1.12,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 29.67,
-     "change": 1.12
-    },
-    {
-     "date": "2026-10-27",
-     "close": 29.34,
-     "change": 4.67
-    },
-    {
-     "date": "2026-10-26",
-     "close": 28.03,
-     "change": 0.11
-    }
-   ],
-   "market_cap": 1534226502.0,
-   "shares_outstanding": 51709690.0,
-   "industry": "Wholesale-Metals Service Centers & of fices",
-   "state_of_incorporation": "DE",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:18:43+09:00"
-  },
-  {
-   "id": "0002035989-26-000087",
-   "company": "Amrize Ltd",
-   "ticker": "AMRZ",
-   "cik": 2035989,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "On October 28, 2026, the company completed its $1 billion share repurchase program, representing approximately 4% of the share capital.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2035989/000203598926000087/0002035989-26-000087-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2035989/000203598926000087/amrizeq32026pressrelease.htm",
-   "filed_at": "2026-10-28T16:16:59-04:00",
-   "filed_kst": "2026-10-29 05:16",
-   "price": 40.03,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 40.03,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 40.03,
-     "change": -0.5
-    },
-    {
-     "date": "2026-10-27",
-     "close": 40.23,
-     "change": 2.52
-    }
-   ],
-   "market_cap": 21893433529.0,
-   "shares_outstanding": 546925644.0,
-   "industry": "Cement, Hydraulic",
-   "state_of_incorporation": "Switzerland",
-   "hq": "ZUG",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:18:08+09:00"
-  },
-  {
-   "id": "0000785786-26-000062",
-   "company": "PLEXUS CORP",
-   "ticker": "PLXS",
-   "cik": 785786,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "Todd Kelsey, President and Chief Executive Officer, “ Plexus delivered an outstanding fiscal 2026 that exceeded expectations, achieving record revenue of $5 billion, representing 23% year-over-year growth, and non-GAAP operating margin of 6.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/785786/000078578626000062/0000785786-26-000062-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/785786/000078578626000062/plxsf26q4earningsrelease-e.htm",
-   "filed_at": "2026-10-28T16:17:28-04:00",
-   "filed_kst": "2026-10-29 05:17",
-   "price": 239.34,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 239.34,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 239.34,
-     "change": 3.93
-    },
-    {
-     "date": "2026-10-27",
-     "close": 230.29,
-     "change": 3.58
-    }
-   ],
-   "market_cap": 6378913375.0,
-   "shares_outstanding": 26652099.0,
-   "industry": "Printed Circuit Boards",
-   "state_of_incorporation": "WI",
-   "hq": "NEENAH, WI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:18:06+09:00"
-  },
-  {
-   "id": "0001705696-26-000119",
-   "company": "VICI PROPERTIES INC.",
-   "ticker": "VICI",
-   "cik": 1705696,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 71,
-   "summary": "48 per diluted share • Subsequent to quarter-end, our Board of Directors authorized a share repurchase program for up to $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1705696/000170569626000119/0001705696-26-000119-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1705696/000170569626000119/viciq32026earningsrelease.htm",
-   "filed_at": "2026-10-28T16:16:17-04:00",
-   "filed_kst": "2026-10-29 05:16",
-   "price": 23.52,
-   "change": -0.76,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 23.52,
-     "change": -0.76
-    },
-    {
-     "date": "2026-10-27",
-     "close": 23.7,
-     "change": -1.33
-    },
-    {
-     "date": "2026-10-26",
-     "close": 24.02,
-     "change": 1.09
-    }
-   ],
-   "market_cap": 25897344258.0,
-   "shares_outstanding": 1101077562.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:17:32+09:00"
   }
  ]
 }
