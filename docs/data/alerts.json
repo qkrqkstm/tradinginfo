@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-02T22:14:28+09:00",
+ "updated_at": "2026-11-02T22:19:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-049569",
+   "company": "XMax Inc.",
+   "ticker": "XMAX",
+   "cik": 1473334,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "No partnership, joint venture, agency or authority to bind the other is created.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1473334/000149315226049569/0001493152-26-049569-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1473334/000149315226049569/ex99-1.htm",
+   "filed_at": "2026-11-02T08:15:39-05:00",
+   "filed_kst": "2026-11-02 22:15",
+   "price": 6.42,
+   "change": -0.08,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 6.42,
+     "change": -0.08
+    },
+    {
+     "date": "2026-10-30",
+     "close": 6.42,
+     "change": -20.64
+    },
+    {
+     "date": "2026-10-29",
+     "close": 8.09,
+     "change": -0.98
+    }
+   ],
+   "market_cap": 414240395.0,
+   "shares_outstanding": 64523426.0,
+   "industry": "Household Furniture",
+   "state_of_incorporation": "NV",
+   "hq": "COMMERCE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-02T22:16:37+09:00"
+  },
   {
    "id": "0001193125-26-442723",
    "company": "Marvell Technology, Inc.",
@@ -15736,59 +15787,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-29T05:28:07+09:00"
-  },
-  {
-   "id": "0000860731-26-000056",
-   "company": "TYLER TECHNOLOGIES INC",
-   "ticker": "TYL",
-   "cik": 860731,
-   "form": "8-K",
-   "items": [
-    "2.02"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 72,
-   "summary": "Supported by our strong balance sheet, robust cash generation, and significant remaining share repurchase authorization, we maintain financial flexibility to invest in growth initiatives, pursue disciplined acquisition opportunities, and continue building shareholder value,\" concluded Miller.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000056/0000860731-26-000056-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000056/a991earningsrelease-9302026.htm",
-   "filed_at": "2026-10-28T16:25:26-04:00",
-   "filed_kst": "2026-10-29 05:25",
-   "price": 360.9,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 360.9,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 360.9,
-     "change": -4.68
-    },
-    {
-     "date": "2026-10-27",
-     "close": 378.62,
-     "change": -2.01
-    }
-   ],
-   "market_cap": 14779675687.0,
-   "shares_outstanding": 40952274.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "PLANO, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:25:58+09:00"
   }
  ]
 }
