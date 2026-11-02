@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-02T21:29:35+09:00",
+ "updated_at": "2026-11-02T21:34:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-007014",
+   "company": "Brainsway Ltd.",
+   "ticker": "BWAY",
+   "cik": 1505065,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "1 BrainsWay Announces Strategic Collaboration with Mindful Health Solutions Latest Collaboration Comes Amid Progress in Other Strategic Initiatives, Including Follow-on Investment in Earlier Minority Stake Investment Target BURLINGTON, Mass.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326007014/0001171843-26-007014-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326007014/exh_991.htm",
+   "filed_at": "2026-11-02T07:30:05-05:00",
+   "filed_kst": "2026-11-02 21:30",
+   "price": 11.36,
+   "change": -4.78,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 11.36,
+     "change": -4.78
+    },
+    {
+     "date": "2026-10-29",
+     "close": 11.93,
+     "change": 4.93
+    },
+    {
+     "date": "2026-10-28",
+     "close": 11.37,
+     "change": -2.24
+    }
+   ],
+   "market_cap": 444923556.0,
+   "shares_outstanding": 39165806.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Israel",
+   "hq": "Jerusalem, L3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-02T21:30:38+09:00"
+  },
   {
    "id": "0001819989-26-000047",
    "company": "Cipher Digital Inc.",
@@ -15719,60 +15769,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T05:14:12+09:00"
-  },
-  {
-   "id": "0001048911-26-000128",
-   "company": "FEDEX CORP",
-   "ticker": "FDX",
-   "cik": 1048911,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "0 billion in stock repurchases via open market and accelerated share repurchase transactions in June through September.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000128/0001048911-26-000128-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000128/fdx-earningsreleasety2026q3.htm",
-   "filed_at": "2026-10-28T16:12:47-04:00",
-   "filed_kst": "2026-10-29 05:12",
-   "price": 304.87,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 304.87,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 304.87,
-     "change": -0.73
-    },
-    {
-     "date": "2026-10-27",
-     "close": 307.1,
-     "change": 2.17
-    }
-   ],
-   "market_cap": 72126506786.0,
-   "shares_outstanding": 236581188.0,
-   "industry": "Air Courier Services",
-   "state_of_incorporation": "DE",
-   "hq": "MEMPHIS, TN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:13:38+09:00"
   }
  ]
 }
