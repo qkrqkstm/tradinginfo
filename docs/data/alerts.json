@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-02T22:44:12+09:00",
+ "updated_at": "2026-11-02T22:49:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-049572",
+   "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
+   "ticker": "BMNR",
+   "cik": 1829311,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "지수편입",
+   "primary_key": "index",
+   "emoji": "📈",
+   "types": [
+    "지수편입"
+   ],
+   "confidence": 57,
+   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 Exhibit 99.1 Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.06 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $14.5 Billion Bitmine owns 4.9% of the total ETH coin supply of 122.2 million Bitmine sees 6 reasons t",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226049572/0001493152-26-049572-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226049572/ex99-1.htm",
+   "filed_at": "2026-11-02T08:45:42-05:00",
+   "filed_kst": "2026-11-02 22:45",
+   "price": 20.18,
+   "change": -6.83,
+   "price_history": [
+    {
+     "date": "2026-10-30",
+     "close": 20.18,
+     "change": -6.83
+    },
+    {
+     "date": "2026-10-29",
+     "close": 21.66,
+     "change": -1.77
+    },
+    {
+     "date": "2026-10-28",
+     "close": 22.05,
+     "change": 1.99
+    }
+   ],
+   "market_cap": 12173108631.0,
+   "shares_outstanding": 603226394.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "NORWALK, CT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-02T22:46:45+09:00"
+  },
   {
    "id": "0000932787-26-000091",
    "company": "STMicroelectronics N.V.",
@@ -15733,59 +15786,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-29T05:31:14+09:00"
-  },
-  {
-   "id": "0000020212-26-000088",
-   "company": "Churchill Downs Inc",
-   "ticker": "CHDN",
-   "cik": 20212,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "On October 27, 2026, Churchill Downs Incorporated (the “Company”) announced that the Company’s Board of Directors approved a $750 million share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/20212/000002021226000088/0000020212-26-000088-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/20212/000002021226000088/chdn-20261027.htm",
-   "filed_at": "2026-10-28T16:29:18-04:00",
-   "filed_kst": "2026-10-29 05:29",
-   "price": 81.95,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 81.95,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 81.95,
-     "change": 0.53
-    },
-    {
-     "date": "2026-10-27",
-     "close": 81.52,
-     "change": -3.0
-    }
-   ],
-   "market_cap": 5617536627.0,
-   "shares_outstanding": 68548342.0,
-   "industry": "Services-Racing, Including Track Operation",
-   "state_of_incorporation": "KY",
-   "hq": "LOUISVILLE, KY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T05:30:38+09:00"
   }
  ]
 }
