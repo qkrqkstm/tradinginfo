@@ -1,7 +1,221 @@
 {
- "updated_at": "2026-11-03T22:14:46+09:00",
+ "updated_at": "2026-11-03T22:19:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001855612-26-000150",
+   "company": "Grab Holdings Ltd",
+   "ticker": "GRAB",
+   "cik": 1855612,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "In September and October, we repurchased $400 million worth of Class A ordinary shares, after which we have $500 million remaining under our share repurchase programs.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000150/0001855612-26-000150-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000150/a2026q3-earningspressrelea.htm",
+   "filed_at": "2026-11-03T08:16:35-05:00",
+   "filed_kst": "2026-11-03 22:16",
+   "price": 2.86,
+   "change": 5.54,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 2.86,
+     "change": 5.54
+    },
+    {
+     "date": "2026-10-30",
+     "close": 2.71,
+     "change": -1.81
+    },
+    {
+     "date": "2026-10-29",
+     "close": 2.76,
+     "change": 0.36
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Singapore",
+   "hq": "SINGAPORE, U0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:17:26+09:00"
+  },
+  {
+   "id": "0001104659-26-121676",
+   "company": "Ryman Hospitality Properties, Inc.",
+   "ticker": "RHP",
+   "cik": 1040829,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "● The Company completed the acquisition of the 1,592-room Grande Lakes Orlando Resort (“Grande Lakes Orlando”) on September 1, 2026, adding a turnkey asset in the nation’s top meetings market (2) and creating incremental group customer rotation opportunities.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1040829/000110465926121676/0001104659-26-121676-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1040829/000110465926121676/tmb-ex99d1.htm",
+   "filed_at": "2026-11-03T08:15:35-05:00",
+   "filed_kst": "2026-11-03 22:15",
+   "price": 134.9,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 134.9,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 134.9,
+     "change": 1.29
+    },
+    {
+     "date": "2026-10-30",
+     "close": 133.18,
+     "change": -1.16
+    }
+   ],
+   "market_cap": 8514791951.0,
+   "shares_outstanding": 63119288.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "DE",
+   "hq": "NASHVILLE, TN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:16:50+09:00"
+  },
+  {
+   "id": "0001193125-26-444410",
+   "company": "Faeth Therapeutics, Inc.",
+   "ticker": "FTH",
+   "cik": 1829802,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 71,
+   "summary": "1 Faeth Therapeutics Reports Third Quarter 2026 Financial Results and Operational Updates • Topline results from the Phase 2 PIK-201 trial in endometrial cancer expected by year-end • FDA granted Fast Track designation to PIKTOR plus paclitaxel in biomarker-selected advanced endometrial cancer • Pre",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1829802/000119312526444410/0001193125-26-444410-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829802/000119312526444410/d144290dex991.htm",
+   "filed_at": "2026-11-03T08:14:10-05:00",
+   "filed_kst": "2026-11-03 22:14",
+   "price": 19.23,
+   "change": 2.89,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 19.23,
+     "change": 2.89
+    },
+    {
+     "date": "2026-10-30",
+     "close": 18.69,
+     "change": -0.32
+    },
+    {
+     "date": "2026-10-29",
+     "close": 18.75,
+     "change": -2.34
+    }
+   ],
+   "market_cap": 496979062.0,
+   "shares_outstanding": 25843945.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "AUSTIN, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-03T22:15:31+09:00"
+  },
+  {
+   "id": "0001628280-26-069122",
+   "company": "Enpro Inc.",
+   "ticker": "NPO",
+   "cik": 1164863,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 70,
+   "summary": "Share Repurchase Authorization Enpro’s Board of Directors approved a new share repurchase authorization in October 2026, replacing the previous $50 million authorization that recently expired.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1164863/000162828026069122/0001628280-26-069122-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1164863/000162828026069122/q32026npoearningsrelease.htm",
+   "filed_at": "2026-11-03T08:14:26-05:00",
+   "filed_kst": "2026-11-03 22:14",
+   "price": 268.98,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 268.98,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 268.98,
+     "change": -0.94
+    },
+    {
+     "date": "2026-10-30",
+     "close": 271.53,
+     "change": -4.54
+    }
+   ],
+   "market_cap": 5693682835.0,
+   "shares_outstanding": 21167681.0,
+   "industry": "Gaskets, Packg & Sealg Devices & Rubber & Plastics Hose",
+   "state_of_incorporation": "NC",
+   "hq": "CHARLOTTE, NC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:15:29+09:00"
+  },
   {
    "id": "0001855612-26-000148",
    "company": "Grab Holdings Ltd",
@@ -15549,209 +15763,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T05:01:31+09:00"
-  },
-  {
-   "id": "0001493152-26-049251",
-   "company": "Digital Brands Group, Inc.",
-   "ticker": "DBGI",
-   "cik": 1668010,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "This cash flow stems from the Company’s two-year, $165 million binding contract.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226049251/0001493152-26-049251-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226049251/ex99-1.htm",
-   "filed_at": "2026-10-29T15:33:54-04:00",
-   "filed_kst": "2026-10-30 04:33",
-   "price": 0.73,
-   "change": -13.33,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 0.73,
-     "change": -13.33
-    },
-    {
-     "date": "2026-10-28",
-     "close": 0.84,
-     "change": -15.92
-    },
-    {
-     "date": "2026-10-27",
-     "close": 1.0,
-     "change": -14.62
-    }
-   ],
-   "market_cap": 681462.0,
-   "shares_outstanding": 933509.0,
-   "industry": "Retail-Apparel & Accessory Stores",
-   "state_of_incorporation": "DE",
-   "hq": "ROUND ROCK, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T04:34:55+09:00"
-  },
-  {
-   "id": "0001654954-26-009233",
-   "company": "HSBC HOLDINGS PLC",
-   "ticker": "HSBC",
-   "cik": 1089113,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009233/0001654954-26-009233-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009233/a0756b.htm",
-   "filed_at": "2026-10-29T14:47:31-04:00",
-   "filed_kst": "2026-10-30 03:47",
-   "price": 86.38,
-   "change": 0.01,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 86.38,
-     "change": 0.01
-    },
-    {
-     "date": "2026-10-28",
-     "close": 86.37,
-     "change": 0.42
-    },
-    {
-     "date": "2026-10-27",
-     "close": 86.01,
-     "change": -5.7
-    }
-   ],
-   "market_cap": 1483597219280.0,
-   "shares_outstanding": 17175239862.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T03:48:08+09:00"
-  },
-  {
-   "id": "0001178819-26-000094",
-   "company": "ALAMOS GOLD INC",
-   "ticker": "AGI",
-   "cik": 1178819,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "5 — Repurchase and cancellation of common shares (Note 10 ( a)) (15.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1178819/000117881926000094/0001178819-26-000094-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1178819/000117881926000094/ex99209302026mda.htm",
-   "filed_at": "2026-10-29T13:43:47-04:00",
-   "filed_kst": "2026-10-30 02:43",
-   "price": 29.0,
-   "change": -8.43,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 29.0,
-     "change": -8.43
-    },
-    {
-     "date": "2026-10-28",
-     "close": 31.67,
-     "change": 1.57
-    },
-    {
-     "date": "2026-10-27",
-     "close": 31.18,
-     "change": 3.21
-    }
-   ],
-   "market_cap": 12175961576.0,
-   "shares_outstanding": 419860744.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO",
-   "entity_category": null,
-   "detected_at": "2026-10-30T02:45:32+09:00"
-  },
-  {
-   "id": "0001193125-26-437439",
-   "company": "Enerflex Ltd.",
-   "ticker": "EFXT",
-   "cik": 1904856,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.2 3 efxt-ex99_2.htm FINANCIAL STATEMENTS EX-99.2 Interim Condensed Consolidated Financial Statements Interim Condensed Consolidated Statements of Financial Position (unaudited) ($ United States millions) Notes September 30, 2026 December 31, 2025 Assets Current assets Cash and cash equivalents",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1904856/000119312526437439/0001193125-26-437439-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1904856/000119312526437439/efxt-ex99_2.htm",
-   "filed_at": "2026-10-29T13:20:00-04:00",
-   "filed_kst": "2026-10-30 02:20",
-   "price": 24.91,
-   "change": -0.36,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 24.91,
-     "change": -0.36
-    },
-    {
-     "date": "2026-10-28",
-     "close": 25.0,
-     "change": 4.12
-    },
-    {
-     "date": "2026-10-27",
-     "close": 24.01,
-     "change": 2.52
-    }
-   ],
-   "market_cap": 3034082315.0,
-   "shares_outstanding": 121801779.0,
-   "industry": "General Industrial Machinery & Equipment",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "CALGARY ALBERTA, Z4",
-   "entity_category": null,
-   "detected_at": "2026-10-30T02:21:05+09:00"
   }
  ]
 }
