@@ -1,7 +1,495 @@
 {
- "updated_at": "2026-11-04T06:14:31+09:00",
+ "updated_at": "2026-11-04T06:19:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-445405",
+   "company": "First Tracks Biotherapeutics, Inc.",
+   "ticker": "TRAX",
+   "cik": 2091349,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Food and Drug Administration (FDA), which has already granted ANB033 Fast Track designation, to discuss and align on the next phase of development for ANB033 in CeD o Anticipate initiating a late-stage clinical trial in CeD in 2027 • Phase 1b trial in eosinophilic esophagitis is ongoing o Includes a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2091349/000119312526445405/0001193125-26-445405-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2091349/000119312526445405/trax-ex99_1.htm",
+   "filed_at": "2026-11-03T16:18:40-05:00",
+   "filed_kst": "2026-11-04 06:18",
+   "price": 46.34,
+   "change": 2.86,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 46.34,
+     "change": 2.86
+    },
+    {
+     "date": "2026-11-02",
+     "close": 45.05,
+     "change": -0.07
+    },
+    {
+     "date": "2026-10-30",
+     "close": 45.08,
+     "change": -0.33
+    }
+   ],
+   "market_cap": 1655767265.0,
+   "shares_outstanding": 35730843.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-04T06:19:39+09:00"
+  },
+  {
+   "id": "0001125345-26-000069",
+   "company": "MACROGENICS INC",
+   "ticker": "MGNX",
+   "cik": 1125345,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The combination of MacroGenics’ technology platforms and protein engineering expertise has allowed the Company to generate promising product candidates and enter into several strategic collaborations with global pharmaceutical and biotechnology companies.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1125345/000112534526000069/0001125345-26-000069-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1125345/000112534526000069/mgnx-20261030.htm",
+   "filed_at": "2026-11-03T16:18:05-05:00",
+   "filed_kst": "2026-11-04 06:18",
+   "price": 2.33,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 2.33,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 2.33,
+     "change": -2.92
+    },
+    {
+     "date": "2026-10-30",
+     "close": 2.4,
+     "change": 0.84
+    }
+   ],
+   "market_cap": 148421436.0,
+   "shares_outstanding": 63700187.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "Rockville, MD",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-04T06:19:07+09:00"
+  },
+  {
+   "id": "0001822993-26-000170",
+   "company": "Jackson Financial Inc.",
+   "ticker": "JXN",
+   "cik": 1822993,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "4 billion as of September 30, 2026, well above our targeted $325 million minimum liquidity buffer ▪ Received Board approval for a $1 billion increase to the existing common share repurchase authorization 1 Excludes certain internal exchanges 2 For the reconciliation of non-GAAP measures to the most ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1822993/000182299326000170/0001822993-26-000170-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1822993/000182299326000170/exhibit991-3q26.htm",
+   "filed_at": "2026-11-03T16:18:19-05:00",
+   "filed_kst": "2026-11-04 06:18",
+   "price": 140.65,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 140.65,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 140.65,
+     "change": 2.19
+    },
+    {
+     "date": "2026-11-02",
+     "close": 137.64,
+     "change": 2.01
+    }
+   ],
+   "market_cap": 9526047844.0,
+   "shares_outstanding": 67728744.0,
+   "industry": "Life Insurance",
+   "state_of_incorporation": "DE",
+   "hq": "LANSING, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:19:04+09:00"
+  },
+  {
+   "id": "0001104659-26-122015",
+   "company": "Jackson Financial Inc.",
+   "ticker": "JXN",
+   "cik": 1822993,
+   "form": "8-K",
+   "items": [
+    "7.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 64,
+   "summary": "EX-99.1 2 tm2628205d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 For Presentation on November 4, 2026 Jackson Financial Inc. Third Quarter 2026 Financial Results Forward - Looking Statements and Non - GAAP Measures The information in this document contains forward - looking statements about future events ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1822993/000110465926122015/0001104659-26-122015-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1822993/000110465926122015/tm2628205d1_ex99-1.htm",
+   "filed_at": "2026-11-03T16:17:28-05:00",
+   "filed_kst": "2026-11-04 06:17",
+   "price": 140.65,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 140.65,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 140.65,
+     "change": 2.19
+    },
+    {
+     "date": "2026-11-02",
+     "close": 137.64,
+     "change": 2.01
+    }
+   ],
+   "market_cap": 9526047844.0,
+   "shares_outstanding": 67728744.0,
+   "industry": "Life Insurance",
+   "state_of_incorporation": "DE",
+   "hq": "LANSING, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:18:30+09:00"
+  },
+  {
+   "id": "0001398733-26-000073",
+   "company": "Aquestive Therapeutics, Inc.",
+   "ticker": "AQST",
+   "cik": 1398733,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 60,
+   "summary": "launch of Anaphylm following FDA approval • Ex-U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1398733/000139873326000073/0001398733-26-000073-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1398733/000139873326000073/q32026-ex991earningsrelease.htm",
+   "filed_at": "2026-11-03T16:15:41-05:00",
+   "filed_kst": "2026-11-04 06:15",
+   "price": 3.88,
+   "change": 2.92,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 3.88,
+     "change": 2.92
+    },
+    {
+     "date": "2026-11-02",
+     "close": 3.77,
+     "change": -3.08
+    },
+    {
+     "date": "2026-10-30",
+     "close": 3.89,
+     "change": -3.71
+    }
+   ],
+   "market_cap": 486985194.0,
+   "shares_outstanding": 125511648.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WARREN, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-04T06:17:23+09:00"
+  },
+  {
+   "id": "0001833197-26-000039",
+   "company": "Latham Group, Inc.",
+   "ticker": "SWIM",
+   "cik": 1833197,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 72,
+   "summary": "In-Ground Pool Market in 2027 • Board of Directors Approved $100 Million Share Buyback Program Third Quarter 2026 Financial Highlights: • Net sales of $182.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833197/000183319726000039/0001833197-26-000039-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833197/000183319726000039/swim-20261103xexhibit99.htm",
+   "filed_at": "2026-11-03T16:15:41-05:00",
+   "filed_kst": "2026-11-04 06:15",
+   "price": 7.32,
+   "change": -1.88,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 7.32,
+     "change": -1.88
+    },
+    {
+     "date": "2026-11-02",
+     "close": 7.46,
+     "change": 2.05
+    },
+    {
+     "date": "2026-10-30",
+     "close": 7.31,
+     "change": 0.69
+    }
+   ],
+   "market_cap": 861169350.0,
+   "shares_outstanding": 117646086.0,
+   "industry": "Plastics Products, NEC",
+   "state_of_incorporation": "NY",
+   "hq": "LATHAM, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-04T06:17:22+09:00"
+  },
+  {
+   "id": "0001193125-26-445380",
+   "company": "Oculis Holding AG",
+   "ticker": "OCS",
+   "cik": 1953530,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 77,
+   "summary": "I’m particularly encouraged by the continued momentum in Privosegtor PIONEER-1 registrational trial in optic neuritis, an indication backed by FDA Breakthrough Therapy designation and EMA Priority Medicines designation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1953530/000119312526445380/0001193125-26-445380-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1953530/000119312526445380/ocs-ex99_1.htm",
+   "filed_at": "2026-11-03T16:15:05-05:00",
+   "filed_kst": "2026-11-04 06:15",
+   "price": 7.63,
+   "change": -1.04,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 7.63,
+     "change": -1.04
+    },
+    {
+     "date": "2026-11-02",
+     "close": 7.71,
+     "change": -6.66
+    },
+    {
+     "date": "2026-10-30",
+     "close": 8.26,
+     "change": 0.24
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Switzerland",
+   "hq": "ZUG, V8",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:16:43+09:00"
+  },
+  {
+   "id": "0001737706-26-000029",
+   "company": "SEADRILL Ltd",
+   "ticker": "SDRL",
+   "cik": 1737706,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 65,
+   "summary": "• In Angola, Sonadrill Holding Ltd (“Sonadrill”), Seadrill’s 50:50 joint venture with an affiliate of Sonangol E.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1737706/000173770626000029/0001737706-26-000029-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1737706/000173770626000029/seadrillpressreleaseq32026.htm",
+   "filed_at": "2026-11-03T16:15:20-05:00",
+   "filed_kst": "2026-11-04 06:15",
+   "price": 46.32,
+   "change": -2.95,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 46.32,
+     "change": -2.95
+    },
+    {
+     "date": "2026-11-02",
+     "close": 47.73,
+     "change": -9.21
+    },
+    {
+     "date": "2026-10-30",
+     "close": 52.57,
+     "change": 1.49
+    }
+   ],
+   "market_cap": 2896919640.0,
+   "shares_outstanding": 62541443.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": null,
+   "hq": "HAMILTON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:16:37+09:00"
+  },
+  {
+   "id": "0001559865-26-000052",
+   "company": "EVERTEC, Inc.",
+   "ticker": "EVTC",
+   "cik": 1559865,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 89,
+   "summary": "On July 31, 2026, the Company's Board of Directors approved an increase to the share repurchase authorization to an aggregate $150 million, while maintaining the expiration date of December 31, 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1559865/000155986526000052/0001559865-26-000052-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1559865/000155986526000052/ex99109302026.htm",
+   "filed_at": "2026-11-03T16:14:14-05:00",
+   "filed_kst": "2026-11-04 06:14",
+   "price": 31.26,
+   "change": -4.46,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 31.26,
+     "change": -4.46
+    },
+    {
+     "date": "2026-11-02",
+     "close": 32.72,
+     "change": 3.74
+    },
+    {
+     "date": "2026-10-30",
+     "close": 31.54,
+     "change": 1.61
+    }
+   ],
+   "market_cap": 1867864463.0,
+   "shares_outstanding": 59752542.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "PR",
+   "hq": "RIO PIEDRAS, PR",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:15:49+09:00"
+  },
   {
    "id": "0001047716-26-000108",
    "company": "LATAM AIRLINES GROUP S.A.",
@@ -15184,461 +15672,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T19:12:35+09:00"
-  },
-  {
-   "id": "0001193125-26-439149",
-   "company": "Maplebear Inc.",
-   "ticker": "CART",
-   "cik": 1579091,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Advancing the Future of Grocery with DoorDash Today, we announced that Instacart has signed a definitive agreement to be acquired by DoorDash, marking an exciting new chapter for our company.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526439149/0001193125-26-439149-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526439149/d346005d425.htm",
-   "filed_at": "2026-10-29T20:20:25-04:00",
-   "filed_kst": "2026-10-30 09:20",
-   "price": 57.11,
-   "change": -2.24,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 57.11,
-     "change": -2.24
-    },
-    {
-     "date": "2026-10-28",
-     "close": 58.42,
-     "change": -2.76
-    },
-    {
-     "date": "2026-10-27",
-     "close": 60.08,
-     "change": -1.31
-    }
-   ],
-   "market_cap": 13220968826.0,
-   "shares_outstanding": 231500067.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:09:09+09:00"
-  },
-  {
-   "id": "0001564708-26-000240",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000240/0001564708-26-000240-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000240/appendix3cclassa20261029.htm",
-   "filed_at": "2026-10-29T19:28:38-04:00",
-   "filed_kst": "2026-10-30 08:28",
-   "price": 32.18,
-   "change": 0.5,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 32.18,
-     "change": 0.5
-    },
-    {
-     "date": "2026-10-28",
-     "close": 32.02,
-     "change": -2.26
-    },
-    {
-     "date": "2026-10-27",
-     "close": 32.76,
-     "change": -2.12
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:07:30+09:00"
-  },
-  {
-   "id": "0001292814-26-005054",
-   "company": "Vale S.A.",
-   "ticker": "VALE",
-   "cik": 917851,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "i) (23,090) (19,456) (23,090) (19,456) Shares buyback program 25(c) (1,091) – (1,091) – Net cash used in financing activities (29,528) (3,957) (23,908) (12,340) Net (decrease) increase in cash and cash equivalents (13,980) 3,867 (5,477) 912 Cash and cash equivalents at the",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426005054/0001292814-26-005054-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426005054/valedfbrgaap3q26_6k.htm",
-   "filed_at": "2026-10-29T18:55:10-04:00",
-   "filed_kst": "2026-10-30 07:55",
-   "price": 11.18,
-   "change": -2.53,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 11.18,
-     "change": -2.53
-    },
-    {
-     "date": "2026-10-28",
-     "close": 11.47,
-     "change": -3.12
-    },
-    {
-     "date": "2026-10-27",
-     "close": 11.84,
-     "change": -1.33
-    }
-   ],
-   "market_cap": 36410179709.0,
-   "shares_outstanding": 3256724482.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": null,
-   "hq": "RIO DE JANEIRO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:06:28+09:00"
-  },
-  {
-   "id": "0001292814-26-005056",
-   "company": "Vale S.A.",
-   "ticker": "VALE",
-   "cik": 917851,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "i) (4,421) (3,464) Shares buyback program 25(c) (214) – Net cash used in financing activities (5,665) (702) Net (decrease) increase in cash and cash equivalents (2,661) 790 Cash and cash equivalents at the beginning of the period 7,372 4,953 Effect of exchange",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426005056/0001292814-26-005056-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426005056/valedfifrs3q26_6k.htm",
-   "filed_at": "2026-10-29T18:58:03-04:00",
-   "filed_kst": "2026-10-30 07:58",
-   "price": 11.18,
-   "change": -2.53,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 11.18,
-     "change": -2.53
-    },
-    {
-     "date": "2026-10-28",
-     "close": 11.47,
-     "change": -3.12
-    },
-    {
-     "date": "2026-10-27",
-     "close": 11.84,
-     "change": -1.33
-    }
-   ],
-   "market_cap": 36410179709.0,
-   "shares_outstanding": 3256724482.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": null,
-   "hq": "RIO DE JANEIRO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:06:26+09:00"
-  },
-  {
-   "id": "0001171843-26-006988",
-   "company": "AETHERION TECHNOLOGIES INC.",
-   "ticker": "AETR",
-   "cik": 1370416,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through its portfolio of differentiated technologies and strategic partnerships, Aetherion is accelerating practical, scalable pathways to affordable, lower-emission transportation worldwide.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1370416/000117184326006988/0001171843-26-006988-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370416/000117184326006988/f6k_102926.htm",
-   "filed_at": "2026-10-29T18:54:16-04:00",
-   "filed_kst": "2026-10-30 07:54",
-   "price": 1.9,
-   "change": -4.52,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 1.9,
-     "change": -4.52
-    },
-    {
-     "date": "2026-10-28",
-     "close": 1.99,
-     "change": -2.93
-    },
-    {
-     "date": "2026-10-27",
-     "close": 2.05,
-     "change": -5.96
-    }
-   ],
-   "market_cap": 33012905.0,
-   "shares_outstanding": 17375213.0,
-   "industry": "Engines & Turbines",
-   "state_of_incorporation": "Alberta, Canada",
-   "hq": "VANCOUVER",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:05:54+09:00"
-  },
-  {
-   "id": "0001140361-26-041195",
-   "company": "Maplebear Inc.",
-   "ticker": "CART",
-   "cik": 1579091,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1579091/000114036126041195/0001140361-26-041195-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579091/000114036126041195/ef20084600_425.htm",
-   "filed_at": "2026-10-29T17:22:27-04:00",
-   "filed_kst": "2026-10-30 06:22",
-   "price": 57.11,
-   "change": -2.24,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 57.11,
-     "change": -2.24
-    },
-    {
-     "date": "2026-10-28",
-     "close": 58.42,
-     "change": -2.76
-    },
-    {
-     "date": "2026-10-27",
-     "close": 60.08,
-     "change": -1.31
-    }
-   ],
-   "market_cap": 13220968826.0,
-   "shares_outstanding": 231500067.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T06:23:14+09:00"
-  },
-  {
-   "id": "0001140361-26-041195",
-   "company": "DoorDash, Inc.",
-   "ticker": "DASH",
-   "cik": 1792789,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126041195/0001140361-26-041195-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126041195/ef20084600_425.htm",
-   "filed_at": "2026-10-29T17:22:27-04:00",
-   "filed_kst": "2026-10-30 06:22",
-   "price": 179.0,
-   "change": 5.61,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 179.0,
-     "change": 5.61
-    },
-    {
-     "date": "2026-10-28",
-     "close": 169.49,
-     "change": -0.63
-    },
-    {
-     "date": "2026-10-27",
-     "close": 170.56,
-     "change": 1.26
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "NV",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T06:23:12+09:00"
-  },
-  {
-   "id": "0001140361-26-041193",
-   "company": "Maplebear Inc.",
-   "ticker": "CART",
-   "cik": 1579091,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1579091/000114036126041193/0001140361-26-041193-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579091/000114036126041193/ef20084599_425.htm",
-   "filed_at": "2026-10-29T17:19:51-04:00",
-   "filed_kst": "2026-10-30 06:19",
-   "price": 57.11,
-   "change": -2.24,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 57.11,
-     "change": -2.24
-    },
-    {
-     "date": "2026-10-28",
-     "close": 58.42,
-     "change": -2.76
-    },
-    {
-     "date": "2026-10-27",
-     "close": 60.08,
-     "change": -1.31
-    }
-   ],
-   "market_cap": 13220968826.0,
-   "shares_outstanding": 231500067.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T06:20:34+09:00"
-  },
-  {
-   "id": "0001140361-26-041193",
-   "company": "DoorDash, Inc.",
-   "ticker": "DASH",
-   "cik": 1792789,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126041193/0001140361-26-041193-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126041193/ef20084599_425.htm",
-   "filed_at": "2026-10-29T17:19:51-04:00",
-   "filed_kst": "2026-10-30 06:19",
-   "price": 179.0,
-   "change": 5.61,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 179.0,
-     "change": 5.61
-    },
-    {
-     "date": "2026-10-28",
-     "close": 169.49,
-     "change": -0.63
-    },
-    {
-     "date": "2026-10-27",
-     "close": 170.56,
-     "change": 1.26
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "NV",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T06:20:32+09:00"
   }
  ]
 }
