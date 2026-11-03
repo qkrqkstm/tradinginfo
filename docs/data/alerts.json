@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-04T07:04:59+09:00",
+ "updated_at": "2026-11-04T07:09:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950103-26-016864",
+   "company": "newcleo plc",
+   "ticker": "NWCL",
+   "cik": 2131813,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through a vertically integrated supply chain and a growing network of strategic partnerships, newcleo is working to turn proven scientific and engineering solutions into deployable nuclear energy assets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326016864/0000950103-26-016864-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326016864/dp255904_ex9901.htm",
+   "filed_at": "2026-11-03T17:08:14-05:00",
+   "filed_kst": "2026-11-04 07:08",
+   "price": 4.72,
+   "change": 7.52,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 4.72,
+     "change": 7.52
+    },
+    {
+     "date": "2026-11-02",
+     "close": 4.39,
+     "change": 3.29
+    },
+    {
+     "date": "2026-10-30",
+     "close": 4.25,
+     "change": -7.81
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Fabricated Plate Work (Boiler Shops)",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": null,
+   "detected_at": "2026-11-04T07:09:10+09:00"
+  },
+  {
+   "id": "0001193125-26-445597",
+   "company": "TALOS ENERGY INC.",
+   "ticker": "TALO",
+   "cik": 1724965,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 85,
+   "summary": "Share Repurchase Program: During the third quarter of 2026, Talos repurchased 1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1724965/000119312526445597/0001193125-26-445597-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1724965/000119312526445597/talo-ex99_1.htm",
+   "filed_at": "2026-11-03T17:05:13-05:00",
+   "filed_kst": "2026-11-04 07:05",
+   "price": 16.1,
+   "change": -2.19,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 16.1,
+     "change": -2.19
+    },
+    {
+     "date": "2026-11-02",
+     "close": 16.46,
+     "change": -9.71
+    },
+    {
+     "date": "2026-10-30",
+     "close": 18.23,
+     "change": 2.36
+    }
+   ],
+   "market_cap": 2688144035.0,
+   "shares_outstanding": 166965468.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T07:05:55+09:00"
+  },
   {
    "id": "0001493152-26-049815",
    "company": "XMax Inc.",
@@ -15574,114 +15678,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-30T20:24:38+09:00"
-  },
-  {
-   "id": "0001298675-26-000047",
-   "company": "CubeSmart",
-   "ticker": "CUBE",
-   "cik": 1298675,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "1 million common shares of beneficial interest through our share repurchase program for $83.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000047/0001298675-26-000047-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1298675/000129867526000047/cube-ex99d1.htm",
-   "filed_at": "2026-10-30T07:23:40-04:00",
-   "filed_kst": "2026-10-30 20:23",
-   "price": 41.08,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 41.08,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 41.08,
-     "change": 1.86
-    },
-    {
-     "date": "2026-10-28",
-     "close": 40.33,
-     "change": -0.69
-    }
-   ],
-   "market_cap": 9301071920.0,
-   "shares_outstanding": 226413630.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "MALVERN, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:24:36+09:00"
-  },
-  {
-   "id": "0001628280-26-068426",
-   "company": "AUTONATION, INC.",
-   "ticker": "AN",
-   "cik": 350698,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "11, seventh consecutive quarter of YoY growth • Strong cash flow generation and cash conversion • Share repurchases of $620 million year-to-date, 9% reduction of shares outstanding • Additional $1 billion of share repurchase authorization approved • Record After-Sales gross profit; Customer Pay grow",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/350698/000162828026068426/0001628280-26-068426-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/350698/000162828026068426/anearningsrelease93026ex991.htm",
-   "filed_at": "2026-10-30T07:11:15-04:00",
-   "filed_kst": "2026-10-30 20:11",
-   "price": 169.34,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 169.34,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 169.34,
-     "change": 3.14
-    },
-    {
-     "date": "2026-10-28",
-     "close": 164.18,
-     "change": -0.38
-    }
-   ],
-   "market_cap": 5598516888.0,
-   "shares_outstanding": 33060806.0,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "DE",
-   "hq": "FORT LAUDERDALE, FL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:12:05+09:00"
   }
  ]
 }
