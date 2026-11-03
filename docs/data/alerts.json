@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-04T03:34:47+09:00",
+ "updated_at": "2026-11-04T03:44:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000022356-26-000211",
+   "company": "COMMERCE BANCSHARES INC /MO/",
+   "ticker": "CBSH",
+   "cik": 22356,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "A copy of the press release announcing this share repurchase program is filed as Exhibit 99.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/22356/000002235626000211/0000022356-26-000211-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/22356/000002235626000211/cbsh-20261030.htm",
+   "filed_at": "2026-11-03T13:35:22-05:00",
+   "filed_kst": "2026-11-04 03:35",
+   "price": 56.04,
+   "change": 0.43,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 56.04,
+     "change": 0.43
+    },
+    {
+     "date": "2026-11-02",
+     "close": 55.8,
+     "change": 1.34
+    },
+    {
+     "date": "2026-10-30",
+     "close": 55.06,
+     "change": -0.97
+    }
+   ],
+   "market_cap": 8037939255.0,
+   "shares_outstanding": 143432178.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "MO",
+   "hq": "KANSAS CITY, MO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T03:40:35+09:00"
+  },
   {
    "id": "0001654954-26-009462",
    "company": "HSBC HOLDINGS PLC",
@@ -15668,56 +15720,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T05:14:33+09:00"
-  },
-  {
-   "id": "0001213900-26-113807",
-   "company": "EQT Corp",
-   "ticker": "EQT",
-   "cik": 33213,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Rice, President and Chief Executive Officer of EQT Corporation (“EQT”), to CNBC on October 29, 2026 regarding EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agree",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026113807/0001213900-26-113807-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026113807/ea0310233-425_eqtcorp.htm",
-   "filed_at": "2026-10-29T16:12:39-04:00",
-   "filed_kst": "2026-10-30 05:12",
-   "price": 54.55,
-   "change": -2.97,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 54.55,
-     "change": -2.97
-    },
-    {
-     "date": "2026-10-28",
-     "close": 56.22,
-     "change": -0.09
-    },
-    {
-     "date": "2026-10-27",
-     "close": 56.27,
-     "change": 2.59
-    }
-   ],
-   "market_cap": 34123697950.0,
-   "shares_outstanding": 625549000.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "PA",
-   "hq": "CANONSBURG, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T05:13:28+09:00"
   }
  ]
 }
