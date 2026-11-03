@@ -1,7 +1,214 @@
 {
- "updated_at": "2026-11-04T06:19:41+09:00",
+ "updated_at": "2026-11-04T06:24:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-115562",
+   "company": "EQT Corp",
+   "ticker": "EQT",
+   "cik": 33213,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Rice discussed, among other things, EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agreement”), by and among EQT, EQT Holdings LLC, Rhino Merger Sub Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026115562/0001213900-26-115562-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026115562/ea0310783-425_eqtcorp.htm",
+   "filed_at": "2026-11-03T16:23:22-05:00",
+   "filed_kst": "2026-11-04 06:23",
+   "price": 54.25,
+   "change": -1.08,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 54.25,
+     "change": -1.08
+    },
+    {
+     "date": "2026-11-02",
+     "close": 54.84,
+     "change": -0.98
+    },
+    {
+     "date": "2026-10-30",
+     "close": 55.38,
+     "change": 1.54
+    }
+   ],
+   "market_cap": 33936033250.0,
+   "shares_outstanding": 625549000.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "PA",
+   "hq": "CANONSBURG, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:24:09+09:00"
+  },
+  {
+   "id": "0001213900-26-115562",
+   "company": "RANGE RESOURCES CORP",
+   "ticker": "RRC",
+   "cik": 315852,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Rice discussed, among other things, EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agreement”), by and among EQT, EQT Holdings LLC, Rhino Merger Sub Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026115562/0001213900-26-115562-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026115562/ea0310783-425_eqtcorp.htm",
+   "filed_at": "2026-11-03T16:23:22-05:00",
+   "filed_kst": "2026-11-04 06:23",
+   "price": 54.01,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 54.01,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 54.01,
+     "change": -0.84
+    },
+    {
+     "date": "2026-11-02",
+     "close": 54.47,
+     "change": -0.29
+    }
+   ],
+   "market_cap": 12621640594.0,
+   "shares_outstanding": 233690809.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "FT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:24:07+09:00"
+  },
+  {
+   "id": "0001267238-26-000043",
+   "company": "ASSURANT, INC.",
+   "ticker": "AIZ",
+   "cik": 1267238,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "As of October 31, 2026, $469 million remained under the current repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000043/0001267238-26-000043-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000043/aiz-20260930exx991pressrel.htm",
+   "filed_at": "2026-11-03T16:20:34-05:00",
+   "filed_kst": "2026-11-04 06:20",
+   "price": 296.13,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 296.13,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 296.13,
+     "change": -0.37
+    },
+    {
+     "date": "2026-11-02",
+     "close": 297.23,
+     "change": 1.51
+    }
+   ],
+   "market_cap": 14606247122.0,
+   "shares_outstanding": 49323767.0,
+   "industry": "Insurance Carriers, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "ATLANTA, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:21:11+09:00"
+  },
+  {
+   "id": "0000051253-26-000039",
+   "company": "INTERNATIONAL FLAVORS & FRAGRANCES INC",
+   "ticker": "IFF",
+   "cik": 51253,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "com IFF Reports Third Quarter 2026 Results Delivered Strong Sales, Profit and Cash Flow Performance in Third Quarter 2026 Raising Low-End of Full Year 2026 Financial Guidance Ranges Recently Completed $500M Share Repurchase Authorization Food Ingredients Divestiture Progressing Well and On Track to ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/51253/000005125326000039/0000051253-26-000039-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/51253/000005125326000039/q32026991pressreleaseofiff.htm",
+   "filed_at": "2026-11-03T16:19:41-05:00",
+   "filed_kst": "2026-11-04 06:19",
+   "price": 92.18,
+   "change": -2.59,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 92.18,
+     "change": -2.59
+    },
+    {
+     "date": "2026-11-02",
+     "close": 94.63,
+     "change": 1.73
+    },
+    {
+     "date": "2026-10-30",
+     "close": 93.02,
+     "change": 2.43
+    }
+   ],
+   "market_cap": 23519723589.0,
+   "shares_outstanding": 255149963.0,
+   "industry": "Industrial Organic Chemicals",
+   "state_of_incorporation": "NY",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:20:33+09:00"
+  },
   {
    "id": "0001193125-26-445405",
    "company": "First Tracks Biotherapeutics, Inc.",
@@ -15472,206 +15679,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-10-30T19:13:48+09:00"
-  },
-  {
-   "id": "0001104659-26-120352",
-   "company": "MAGNA INTERNATIONAL INC",
-   "ticker": "MGA",
-   "cik": 749098,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "MAGNA ANNOUNCES STRONG THIRD QUARTER RESULTS CONNECT WITH MAGNA 4 OTHER MATTERS Subject to the approval by the Toronto Stock Exchange, our Board of Directors approved a new NCIB to repurchase up to approximately 25.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/749098/000110465926120352/0001104659-26-120352-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/749098/000110465926120352/tm2628312d1_ex99-2.htm",
-   "filed_at": "2026-10-30T06:04:15-04:00",
-   "filed_kst": "2026-10-30 19:04",
-   "price": 64.7,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 64.7,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 64.7,
-     "change": 1.11
-    },
-    {
-     "date": "2026-10-28",
-     "close": 63.99,
-     "change": -0.22
-    }
-   ],
-   "market_cap": 18131657788.0,
-   "shares_outstanding": 280242006.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": null,
-   "hq": "AURORA, ONTARIO, CAN, A6",
-   "entity_category": null,
-   "detected_at": "2026-10-30T19:13:44+09:00"
-  },
-  {
-   "id": "0001104659-26-120337",
-   "company": "Graf Global Corp.",
-   "ticker": "TONT",
-   "cik": 1897463,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ": 001-42142 Date: October 29, 2026 On October 29, 2026, O'Shea Jackson (“Ice Cube”), an executive officer of BIG3 HoldCo LLC, which is a party to the previously disclosed Business Combination Agreement, dated as of June 12, 2026, with Graf Global Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926120337/0001104659-26-120337-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926120337/tm2628603d1_425.htm",
-   "filed_at": "2026-10-29T21:56:04-04:00",
-   "filed_kst": "2026-10-30 10:56",
-   "price": 10.96,
-   "change": 0.09,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 10.96,
-     "change": 0.09
-    },
-    {
-     "date": "2026-10-28",
-     "close": 10.95,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-27",
-     "close": 10.95,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T19:13:10+09:00"
-  },
-  {
-   "id": "0001104659-26-120330",
-   "company": "BUENAVENTURA MINING CO INC",
-   "ticker": "BVN",
-   "cik": 1013131,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The Company engages in the exploration, development, mining, processing and sale of gold, silver and base metals through its wholly-owned operations and interests in joint ventures.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1013131/000110465926120330/0001104659-26-120330-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1013131/000110465926120330/tm2628586d1_6k.htm",
-   "filed_at": "2026-10-29T21:04:32-04:00",
-   "filed_kst": "2026-10-30 10:04",
-   "price": 27.59,
-   "change": -3.57,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 27.59,
-     "change": -3.57
-    },
-    {
-     "date": "2026-10-28",
-     "close": 28.61,
-     "change": -0.42
-    },
-    {
-     "date": "2026-10-27",
-     "close": 28.73,
-     "change": 1.02
-    }
-   ],
-   "market_cap": 7000002092.0,
-   "shares_outstanding": 253715190.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": null,
-   "hq": "LIMA, R5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:12:36+09:00"
-  },
-  {
-   "id": "0001628280-26-068370",
-   "company": "CareTrust REIT, Inc.",
-   "ticker": "CTRE",
-   "cik": 1590717,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "It is understood and agreed that a Person shall not be deemed to have beneficial ownership of Capital Stock subject to a stock purchase agreement, merger agreement or similar agreement until the consummation of the transactions contemplated by such agreement so long as Payment in Full of the Obligat",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1590717/000162828026068370/0001628280-26-068370-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1590717/000162828026068370/caretrust-xfourthamendedan.htm",
-   "filed_at": "2026-10-29T21:12:23-04:00",
-   "filed_kst": "2026-10-30 10:12",
-   "price": 36.26,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 36.26,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 36.26,
-     "change": 2.28
-    },
-    {
-     "date": "2026-10-28",
-     "close": 35.45,
-     "change": -1.91
-    }
-   ],
-   "market_cap": 8567991396.0,
-   "shares_outstanding": 236293199.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "DANA POINT, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:12:35+09:00"
   }
  ]
 }
