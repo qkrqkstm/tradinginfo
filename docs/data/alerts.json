@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-04T01:19:19+09:00",
+ "updated_at": "2026-11-04T01:24:47+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-005696",
+   "company": "Helus Pharma Inc.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326005696/0001062993-26-005696-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326005696/exhibit99-1.htm",
+   "filed_at": "2026-11-03T11:23:32-05:00",
+   "filed_kst": "2026-11-04 01:23",
+   "price": 9.2,
+   "change": 4.55,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 9.2,
+     "change": 4.55
+    },
+    {
+     "date": "2026-11-02",
+     "close": 8.8,
+     "change": -16.94
+    },
+    {
+     "date": "2026-10-30",
+     "close": 10.6,
+     "change": -1.07
+    }
+   ],
+   "market_cap": 198731114.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-04T01:24:15+09:00"
+  },
   {
    "id": "0001171843-26-007060",
    "company": "NOVO NORDISK A S",
@@ -15669,60 +15719,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-30T05:13:13+09:00"
-  },
-  {
-   "id": "0001743725-26-000029",
-   "company": "GRID DYNAMICS HOLDINGS, INC.",
-   "ticker": "GDYN",
-   "cik": 1743725,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "3 million shares during the nine months ended September 30, 2026, under its $50 million share repurchase program, which included $6.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1743725/000174372526000029/0001743725-26-000029-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1743725/000174372526000029/grid-20260930xex991.htm",
-   "filed_at": "2026-10-29T16:11:48-04:00",
-   "filed_kst": "2026-10-30 05:11",
-   "price": 9.49,
-   "change": 8.46,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 9.49,
-     "change": 8.46
-    },
-    {
-     "date": "2026-10-28",
-     "close": 8.75,
-     "change": 1.04
-    },
-    {
-     "date": "2026-10-27",
-     "close": 8.66,
-     "change": 0.58
-    }
-   ],
-   "market_cap": 769894101.0,
-   "shares_outstanding": 81126881.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "SAN RAMON, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-30T05:12:37+09:00"
   }
  ]
 }
