@@ -1,7 +1,172 @@
 {
- "updated_at": "2026-11-04T06:34:46+09:00",
+ "updated_at": "2026-11-04T06:39:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-445487",
+   "company": "Ceribell, Inc.",
+   "ticker": "CBLL",
+   "cik": 1861107,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 70,
+   "summary": "Food and Drug Administration 510(k) clearance for Quantitative EEG Trending and Amplitude-Integrated EEG Analysis “Our third quarter results reflect new highs in account additions and utilization within our existing account base, demonstrating the strength of our core seizure business a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1861107/000119312526445487/0001193125-26-445487-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1861107/000119312526445487/cbll-ex99_1.htm",
+   "filed_at": "2026-11-03T16:36:25-05:00",
+   "filed_kst": "2026-11-04 06:36",
+   "price": 28.27,
+   "change": 4.86,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 28.27,
+     "change": 4.86
+    },
+    {
+     "date": "2026-11-02",
+     "close": 26.96,
+     "change": 1.43
+    },
+    {
+     "date": "2026-10-30",
+     "close": 26.58,
+     "change": -4.46
+    }
+   ],
+   "market_cap": 1084948915.0,
+   "shares_outstanding": 38378101.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "SUNNYVALE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-04T06:36:54+09:00"
+  },
+  {
+   "id": "0001421461-26-000026",
+   "company": "Intrepid Potash, Inc.",
+   "ticker": "IPI",
+   "cik": 1421461,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "We see attractive value in our shares and have accelerated repurchases since the end of the third quarter with a total of approximately 88 thousand sh ares purchased under the expanded repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1421461/000142146126000026/0001421461-26-000026-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1421461/000142146126000026/ex991q32026pressrelease.htm",
+   "filed_at": "2026-11-03T16:34:08-05:00",
+   "filed_kst": "2026-11-04 06:34",
+   "price": 30.75,
+   "change": -0.77,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 30.75,
+     "change": -0.77
+    },
+    {
+     "date": "2026-11-02",
+     "close": 30.99,
+     "change": -1.87
+    },
+    {
+     "date": "2026-10-30",
+     "close": 31.58,
+     "change": 1.74
+    }
+   ],
+   "market_cap": 413792726.0,
+   "shares_outstanding": 13456674.0,
+   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+   "state_of_incorporation": "DE",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:35:42+09:00"
+  },
+  {
+   "id": "0002015845-26-000059",
+   "company": "Everus Construction Group, Inc.",
+   "ticker": "ECG",
+   "cik": 2015845,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "1, 2026, Everus completed the acquisition of Epsilon Industries.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2015845/000201584526000059/0002015845-26-000059-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2015845/000201584526000059/q32026ex99-ecg.htm",
+   "filed_at": "2026-11-03T16:34:48-05:00",
+   "filed_kst": "2026-11-04 06:34",
+   "price": 112.73,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 112.73,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 112.73,
+     "change": 9.46
+    },
+    {
+     "date": "2026-11-02",
+     "close": 102.99,
+     "change": 0.35
+    }
+   ],
+   "market_cap": 5756426232.0,
+   "shares_outstanding": 51063836.0,
+   "industry": "Operative Builders",
+   "state_of_incorporation": "DE",
+   "hq": "BISMARCK, ND",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:35:37+09:00"
+  },
   {
    "id": "0001185185-26-005142",
    "company": "Blue Acquisition Corp/Cayman",
@@ -15521,162 +15686,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-30T20:01:58+09:00"
-  },
-  {
-   "id": "0001193125-26-439858",
-   "company": "CAMECO CORP",
-   "ticker": "CCJ",
-   "cik": 1009001,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 64,
-   "summary": "The Company has operations in northern Saskatchewan and the United States, as well as a 40% interest in Joint Venture Inkai LLP (JV Inkai), a joint arrangement with Joint Stock Company National Atomic Company Kazatomprom (Kazatomprom), located in Kazakhstan.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/0001193125-26-439858-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex992.htm",
-   "filed_at": "2026-10-30T06:57:37-04:00",
-   "filed_kst": "2026-10-30 19:57",
-   "price": 83.49,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 83.49,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 83.49,
-     "change": -0.42
-    },
-    {
-     "date": "2026-10-28",
-     "close": 83.84,
-     "change": 1.74
-    }
-   ],
-   "market_cap": 36356386583.0,
-   "shares_outstanding": 435457978.0,
-   "industry": "Miscellaneous Metal Ores",
-   "state_of_incorporation": null,
-   "hq": "SASKATOON",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:58:33+09:00"
-  },
-  {
-   "id": "0001654954-26-009252",
-   "company": "VODAFONE GROUP PUBLIC LTD CO",
-   "ticker": "VOD",
-   "cik": 839923,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "has completed the acquisition of a 50% shareholding in its fibre joint venture in Germany, OXG Glasfaser Beteiligungs-GmbH (\"OXG\"), from Geodesia Holding S.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/839923/000165495426009252/0001654954-26-009252-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/839923/000165495426009252/a0228b.htm",
-   "filed_at": "2026-10-30T06:54:37-04:00",
-   "filed_kst": "2026-10-30 19:54",
-   "price": 15.57,
-   "change": -0.38,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 15.57,
-     "change": -0.38
-    },
-    {
-     "date": "2026-10-28",
-     "close": 15.63,
-     "change": -0.76
-    },
-    {
-     "date": "2026-10-27",
-     "close": 15.75,
-     "change": 0.32
-    }
-   ],
-   "market_cap": 448678133063.0,
-   "shares_outstanding": 28816835778.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": null,
-   "hq": "NEWBURY, BERKSHIRE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:55:22+09:00"
-  },
-  {
-   "id": "0000872589-26-000032",
-   "company": "REGENERON PHARMACEUTICALS, INC.",
-   "ticker": "REGN",
-   "cik": 872589,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "자사주매입",
-    "FDA"
-   ],
-   "confidence": 74,
-   "summary": "Other Oncology Programs • The FDA accepted for review the resubmission of the BLA for Ordspono ™ (odronextamab) in relapsed or refractory diffuse large B-cell lymphoma (DLBCL), which has a target action date in February 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000032/0000872589-26-000032-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000032/exhibit991q32026.htm",
-   "filed_at": "2026-10-30T06:50:20-04:00",
-   "filed_kst": "2026-10-30 19:50",
-   "price": 818.77,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 818.77,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 818.77,
-     "change": 0.68
-    },
-    {
-     "date": "2026-10-28",
-     "close": 813.27,
-     "change": -0.35
-    }
-   ],
-   "market_cap": 76927625415.0,
-   "shares_outstanding": 93955110.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NY",
-   "hq": "TARRYTOWN, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T19:51:00+09:00"
   }
  ]
 }
