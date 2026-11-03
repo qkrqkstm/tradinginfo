@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-04T00:54:26+09:00",
+ "updated_at": "2026-11-04T00:59:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-007060",
+   "company": "NOVO NORDISK A S",
+   "ticker": "NVO",
+   "cik": 353278,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 f6k_110326.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ________________ FORM 6-K ________________ REPORT OF FOREIGN PRIVATE ISSUER Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 November 3, 2026 ________________ NOVO NORDISK A/",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326007060/0001171843-26-007060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326007060/f6k_110326.htm",
+   "filed_at": "2026-11-03T10:54:38-05:00",
+   "filed_kst": "2026-11-04 00:54",
+   "price": 40.58,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 40.58,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 40.58,
+     "change": 0.32
+    },
+    {
+     "date": "2026-11-02",
+     "close": 40.45,
+     "change": 1.13
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "BAGSVAERD DENMARK, G7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T00:55:29+09:00"
+  },
   {
    "id": "0001648416-26-000141",
    "company": "Ferrari N.V.",
@@ -15673,60 +15723,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-30T05:12:37+09:00"
-  },
-  {
-   "id": "0001628280-26-068235",
-   "company": "Roblox Corp",
-   "ticker": "RBLX",
-   "cik": 1315098,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "2 billion as of September 30, 2026, a year-over-year increase of $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1315098/000162828026068235/0001628280-26-068235-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1315098/000162828026068235/ex991-q32026earningsshar.htm",
-   "filed_at": "2026-10-29T16:10:59-04:00",
-   "filed_kst": "2026-10-30 05:10",
-   "price": 52.53,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 52.53,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 52.53,
-     "change": -1.41
-    },
-    {
-     "date": "2026-10-28",
-     "close": 53.28,
-     "change": -2.18
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "NV",
-   "hq": "SAN MATEO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T05:11:58+09:00"
   }
  ]
 }
