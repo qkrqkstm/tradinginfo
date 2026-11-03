@@ -1,7 +1,549 @@
 {
- "updated_at": "2026-11-03T22:04:57+09:00",
+ "updated_at": "2026-11-03T22:09:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001551182-26-000037",
+   "company": "Eaton Corp plc",
+   "ticker": "ETN",
+   "cik": 1551182,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향"
+   ],
+   "confidence": 58,
+   "summary": "htm EX-99 Document Exhibit 99 Eaton Reports Record Third Quarter 2026 Results, with Strong Organic Growth, Accelerating Record Orders and Backlog; Raises Organic Growth Guidance • Third quarter sales increased 28%, with organic sales growth of 19%, above the high end of guidance • Twelve-month rolli",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000037/0001551182-26-000037-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000037/etn09302026exhibit99.htm",
+   "filed_at": "2026-11-03T08:08:03-05:00",
+   "filed_kst": "2026-11-03 22:08",
+   "price": 366.07,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 366.07,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 366.07,
+     "change": -1.05
+    },
+    {
+     "date": "2026-10-30",
+     "close": 369.97,
+     "change": -6.03
+    }
+   ],
+   "market_cap": 142181588000.0,
+   "shares_outstanding": 388400000.0,
+   "industry": "Misc Industrial & Commercial Machinery & Equipment",
+   "state_of_incorporation": null,
+   "hq": "DUBLIN, L2",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:09:11+09:00"
+  },
+  {
+   "id": "0001171843-26-007054",
+   "company": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+   "ticker": "TEVA",
+   "cik": 818686,
+   "form": "8-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 84,
+   "summary": "Building the next wave of neuroscience growth: Teva received FDA approval for WELTRUZA in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/818686/000117184326007054/0001171843-26-007054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/818686/000117184326007054/exh_991.htm",
+   "filed_at": "2026-11-03T08:08:05-05:00",
+   "filed_kst": "2026-11-03 22:08",
+   "price": 40.7,
+   "change": -3.3,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 40.7,
+     "change": -3.3
+    },
+    {
+     "date": "2026-10-30",
+     "close": 42.09,
+     "change": 1.5
+    },
+    {
+     "date": "2026-10-29",
+     "close": 41.47,
+     "change": 3.75
+    }
+   ],
+   "market_cap": 47427550619.0,
+   "shares_outstanding": 1165296084.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "TEL AVIV",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:09:10+09:00"
+  },
+  {
+   "id": "0001622536-26-000084",
+   "company": "Talen Energy Corp",
+   "ticker": "TLN",
+   "cik": 1622536,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 67,
+   "summary": "5 billion accelerated share repurchase program (“ASR”) expected to be complete by the end of the first quarter 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000084/0001622536-26-000084-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000084/a20261103q32026earningsrel.htm",
+   "filed_at": "2026-11-03T08:08:11-05:00",
+   "filed_kst": "2026-11-03 22:08",
+   "price": 332.99,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 332.99,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 332.99,
+     "change": -2.95
+    },
+    {
+     "date": "2026-10-30",
+     "close": 343.12,
+     "change": -1.64
+    }
+   ],
+   "market_cap": 15954969104.0,
+   "shares_outstanding": 47914259.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:09:09+09:00"
+  },
+  {
+   "id": "0002067876-26-000050",
+   "company": "Versant Media Group, Inc.",
+   "ticker": "VSNT",
+   "cik": 2067876,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "375 Per Share • Completed $100 Million Accelerated Share Repurchase (ASR) Transaction • Announced an Additional Planned $100 Million ASR in the Fourth Quarter of 2026 NEW YORK, NY – November 3, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/0002067876-26-000050-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/versantmediagroupincex991q.htm",
+   "filed_at": "2026-11-03T08:08:26-05:00",
+   "filed_kst": "2026-11-03 22:08",
+   "price": 32.34,
+   "change": 2.93,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 32.34,
+     "change": 2.93
+    },
+    {
+     "date": "2026-10-30",
+     "close": 31.42,
+     "change": 1.34
+    },
+    {
+     "date": "2026-10-29",
+     "close": 31.0,
+     "change": 1.09
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": "PA",
+   "hq": "PHILADELPHIA, PA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:09:05+09:00"
+  },
+  {
+   "id": "0001193125-26-444354",
+   "company": "Xometry, Inc.",
+   "ticker": "XMTR",
+   "cik": 1657573,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 64,
+   "summary": "• Xometry expanded its partnership with TradeCentric, adding Purchase Order Automation and Invoice Automation to the PunchOut capability already available between its marketplace and customers’ eProcurement systems.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1657573/000119312526444354/0001193125-26-444354-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1657573/000119312526444354/xmtr-ex99_1.htm",
+   "filed_at": "2026-11-03T08:08:35-05:00",
+   "filed_kst": "2026-11-03 22:08",
+   "price": 95.49,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 95.49,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 95.49,
+     "change": 1.96
+    },
+    {
+     "date": "2026-10-30",
+     "close": 93.65,
+     "change": -7.11
+    }
+   ],
+   "market_cap": 4404338362.0,
+   "shares_outstanding": 46123556.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "MD",
+   "hq": "NORTH BETHESDA, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:09:03+09:00"
+  },
+  {
+   "id": "0001510295-26-000069",
+   "company": "Marathon Petroleum Corp",
+   "ticker": "MPC",
+   "cik": 1510295,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 74,
+   "summary": "1 billion remaining under its share repurchase authorizations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000069/0001510295-26-000069-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000069/mpcq32026earningsrelease.htm",
+   "filed_at": "2026-11-03T08:07:30-05:00",
+   "filed_kst": "2026-11-03 22:07",
+   "price": 430.39,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 430.39,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 430.39,
+     "change": -3.22
+    },
+    {
+     "date": "2026-10-30",
+     "close": 444.73,
+     "change": 2.83
+    }
+   ],
+   "market_cap": 120864169748.0,
+   "shares_outstanding": 280824763.0,
+   "industry": "Petroleum Refining",
+   "state_of_incorporation": "DE",
+   "hq": "FINDLAY, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:08:28+09:00"
+  },
+  {
+   "id": "0001552000-26-000045",
+   "company": "MPLX LP",
+   "ticker": "MPLX",
+   "cik": 1552000,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "0 billion remaining available under its unit repurchase authorizations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1552000/000155200026000045/0001552000-26-000045-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1552000/000155200026000045/mplxq32026earningsrelease.htm",
+   "filed_at": "2026-11-03T08:07:31-05:00",
+   "filed_kst": "2026-11-03 22:07",
+   "price": 58.94,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 58.94,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 58.94,
+     "change": -2.03
+    },
+    {
+     "date": "2026-10-30",
+     "close": 60.16,
+     "change": 0.45
+    }
+   ],
+   "market_cap": 59756805314.0,
+   "shares_outstanding": 1013858251.0,
+   "industry": "Pipe Lines (No Natural Gas)",
+   "state_of_incorporation": null,
+   "hq": "FINDLAY, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:08:26+09:00"
+  },
+  {
+   "id": "0000078003-26-000125",
+   "company": "PFIZER INC",
+   "ticker": "PFE",
+   "cik": 78003,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "임상통과",
+    "탑라인결과",
+    "FDA",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 97,
+   "summary": "Announced FDA approval of Tukysa in combination with trastuzumab and pertuzumab for the maintenance treatment of adults with unresectable locally advanced or metastatic human epidermal growth factor receptor 2-positive (HER2+) breast cancer following induction treatment",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000125/0000078003-26-000125-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000125/pfe-9272026xex99.htm",
+   "filed_at": "2026-11-03T08:07:34-05:00",
+   "filed_kst": "2026-11-03 22:07",
+   "price": 30.67,
+   "change": 0.49,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 30.67,
+     "change": 0.49
+    },
+    {
+     "date": "2026-10-30",
+     "close": 30.52,
+     "change": 1.9
+    },
+    {
+     "date": "2026-10-29",
+     "close": 29.95,
+     "change": 1.7
+    }
+   ],
+   "market_cap": 174808988975.0,
+   "shares_outstanding": 5699673589.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:08:25+09:00"
+  },
+  {
+   "id": "0001628280-26-069069",
+   "company": "Xenia Hotels & Resorts, Inc.",
+   "ticker": "XHR",
+   "cik": 1616000,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 62,
+   "summary": "5 million in capacity remaining under its repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1616000/000162828026069069/0001628280-26-069069-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1616000/000162828026069069/ex991q32026xhrearningsrele.htm",
+   "filed_at": "2026-11-03T08:06:28-05:00",
+   "filed_kst": "2026-11-03 22:06",
+   "price": 20.99,
+   "change": 2.64,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 20.99,
+     "change": 2.64
+    },
+    {
+     "date": "2026-10-30",
+     "close": 20.45,
+     "change": -1.3
+    },
+    {
+     "date": "2026-10-29",
+     "close": 20.72,
+     "change": 0.14
+    }
+   ],
+   "market_cap": 1936240077.0,
+   "shares_outstanding": 92245835.0,
+   "industry": "Hotels & Motels",
+   "state_of_incorporation": "FL",
+   "hq": "ORLANDO, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:07:17+09:00"
+  },
+  {
+   "id": "0001193125-26-444225",
+   "company": "IDEAYA Biosciences, Inc.",
+   "ticker": "IDYA",
+   "cik": 1676725,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과"
+   ],
+   "confidence": 83,
+   "summary": "The OptimUM-01 update focused on the Phase 2 expansion results in 101 HLA-A*02:01-positive patients, including both treatment naïve and 2L patients who received prior tebentafusp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1676725/000119312526444225/0001193125-26-444225-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1676725/000119312526444225/idya-ex99_1.htm",
+   "filed_at": "2026-11-03T08:04:27-05:00",
+   "filed_kst": "2026-11-03 22:04",
+   "price": 31.64,
+   "change": -1.0,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 31.64,
+     "change": -1.0
+    },
+    {
+     "date": "2026-10-30",
+     "close": 31.96,
+     "change": -2.83
+    },
+    {
+     "date": "2026-10-29",
+     "close": 32.89,
+     "change": -3.15
+    }
+   ],
+   "market_cap": 3052927274.0,
+   "shares_outstanding": 96489484.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SOUTH SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:05:24+09:00"
+  },
   {
    "id": "0001345099-26-000095",
    "company": "MESOBLAST LTD",
@@ -15212,534 +15754,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-29T21:33:53+09:00"
-  },
-  {
-   "id": "0001213900-26-113574",
-   "company": "Eco Wave Power Global AB (publ)",
-   "ticker": "WAVE",
-   "cik": 1846715,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "This development represents an important step in translating the strategic collaboration between Eco Wave Power and BPCL into concrete project development activities and reflects continued progress toward introducing wave energy technology into the Indian energy market.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1846715/000121390026113574/0001213900-26-113574-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1846715/000121390026113574/ea031001401ex99-1.htm",
-   "filed_at": "2026-10-29T08:30:22-04:00",
-   "filed_kst": "2026-10-29 21:30",
-   "price": 4.63,
-   "change": 16.12,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 4.63,
-     "change": 16.12
-    },
-    {
-     "date": "2026-10-27",
-     "close": 3.99,
-     "change": -16.0
-    },
-    {
-     "date": "2026-10-26",
-     "close": 4.75,
-     "change": -1.45
-    }
-   ],
-   "market_cap": 216301136.0,
-   "shares_outstanding": 46717308.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "Sweden",
-   "hq": "STOCKHOLM, V7",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T21:31:15+09:00"
-  },
-  {
-   "id": "0000105634-26-000132",
-   "company": "EMCOR Group, Inc.",
-   "ticker": "EME",
-   "cik": 105634,
-   "form": "8-K",
-   "items": [
-    "2.02"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 81,
-   "summary": "25 Increases Share Repurchase Program $500 million NORWALK, CONNECTICUT, October 29, 2026 - EMCOR Group, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/105634/000010563426000132/0000105634-26-000132-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/105634/000010563426000132/eme-ex991_2026930xq3.htm",
-   "filed_at": "2026-10-29T08:27:14-04:00",
-   "filed_kst": "2026-10-29 21:27",
-   "price": 678.55,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 678.55,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 678.55,
-     "change": 1.83
-    },
-    {
-     "date": "2026-10-27",
-     "close": 666.36,
-     "change": 0.06
-    }
-   ],
-   "market_cap": 29708278814.0,
-   "shares_outstanding": 43782004.0,
-   "industry": "Electrical Work",
-   "state_of_incorporation": "DE",
-   "hq": "NORWALK, CT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T21:28:03+09:00"
-  },
-  {
-   "id": "0001688757-26-000056",
-   "company": "ESTABLISHMENT LABS HOLDINGS INC.",
-   "ticker": "ESTA",
-   "cik": 1688757,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 70,
-   "summary": "• Received FDA approval for additional smaller Motiva implant sizes, expanding the range of options available to U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1688757/000168875726000056/0001688757-26-000056-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1688757/000168875726000056/estaerq32026-ex991.htm",
-   "filed_at": "2026-10-29T08:25:24-04:00",
-   "filed_kst": "2026-10-29 21:25",
-   "price": 68.97,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 68.97,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 68.97,
-     "change": 3.02
-    },
-    {
-     "date": "2026-10-27",
-     "close": 66.95,
-     "change": 1.78
-    }
-   ],
-   "market_cap": 2055436422.0,
-   "shares_outstanding": 29801891.0,
-   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "ALAJUELA, G2",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T21:25:58+09:00"
-  },
-  {
-   "id": "0001628280-26-068042",
-   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
-   "ticker": "BBVA",
-   "cik": 842180,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Added to this a new extraordinary share buyback program amounting to € 2 billion, structured into two tranches of €1 billion each.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000162828026068042/0001628280-26-068042-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000162828026068042/quarterlyreport_3q26xsec.htm",
-   "filed_at": "2026-10-29T08:21:47-04:00",
-   "filed_kst": "2026-10-29 21:21",
-   "price": 25.01,
-   "change": -0.91,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 25.01,
-     "change": -0.91
-    },
-    {
-     "date": "2026-10-27",
-     "close": 25.24,
-     "change": -0.39
-    },
-    {
-     "date": "2026-10-26",
-     "close": 25.34,
-     "change": 1.85
-    }
-   ],
-   "market_cap": 142781307187.0,
-   "shares_outstanding": 5708968700.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": null,
-   "hq": "MADRID, U3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T21:22:38+09:00"
-  },
-  {
-   "id": "0000076605-26-000106",
-   "company": "PATRICK INDUSTRIES INC",
-   "ticker": "PATK",
-   "cik": 76605,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 72,
-   "summary": "At the end of the third quarter, the Company had $62 million of unused capacity under its current share repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000106/0000076605-26-000106-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/76605/000007660526000106/earningsreleaseq32026.htm",
-   "filed_at": "2026-10-29T08:17:06-04:00",
-   "filed_kst": "2026-10-29 21:17",
-   "price": 69.93,
-   "change": -2.78,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 69.93,
-     "change": -2.78
-    },
-    {
-     "date": "2026-10-27",
-     "close": 71.93,
-     "change": 2.09
-    },
-    {
-     "date": "2026-10-26",
-     "close": 70.46,
-     "change": 2.32
-    }
-   ],
-   "market_cap": 2246030202.0,
-   "shares_outstanding": 32118264.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "IN",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T21:17:37+09:00"
-  },
-  {
-   "id": "0001213900-26-113562",
-   "company": "Quanome Technologies, Inc.",
-   "ticker": "QNME",
-   "cik": 1996192,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Quanome first announced an approximately US$18.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026113562/0001213900-26-113562-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1996192/000121390026113562/ea030999901ex99-1.htm",
-   "filed_at": "2026-10-29T08:15:30-04:00",
-   "filed_kst": "2026-10-29 21:15",
-   "price": 0.44,
-   "change": -0.11,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 0.44,
-     "change": -0.11
-    },
-    {
-     "date": "2026-10-28",
-     "close": 0.44,
-     "change": 17.02
-    },
-    {
-     "date": "2026-10-27",
-     "close": 0.38,
-     "change": -9.4
-    }
-   ],
-   "market_cap": 15148126.0,
-   "shares_outstanding": 34427559.0,
-   "industry": "Arrangement of  Transportation of  Freight & Cargo",
-   "state_of_incorporation": "NV",
-   "hq": "ITASCA, IL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-29T21:16:31+09:00"
-  },
-  {
-   "id": "0001104659-26-119912",
-   "company": "Coherus Oncology, Inc.",
-   "ticker": "CHRS",
-   "cik": 1512762,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 72,
-   "summary": "​ Tagmokitug is an investigational product candidate and has not been approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1512762/000110465926119912/0001104659-26-119912-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1512762/000110465926119912/chrs-ex99d1.htm",
-   "filed_at": "2026-10-29T08:10:05-04:00",
-   "filed_kst": "2026-10-29 21:10",
-   "price": 1.16,
-   "change": 8.41,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 1.16,
-     "change": 8.41
-    },
-    {
-     "date": "2026-10-27",
-     "close": 1.07,
-     "change": 5.94
-    },
-    {
-     "date": "2026-10-26",
-     "close": 1.01,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 179221121.0,
-   "shares_outstanding": 154500966.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "REDWOOD CITY, CA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-29T21:11:03+09:00"
-  },
-  {
-   "id": "0001193125-26-437051",
-   "company": "Anheuser-Busch InBev SA/NV",
-   "ticker": "BUD",
-   "cik": 1668717,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6 billion USD of our 6 billion USD share buyback program announced on 30 October 2025.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1668717/000119312526437051/0001193125-26-437051-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1668717/000119312526437051/d159047dex991.htm",
-   "filed_at": "2026-10-29T08:07:24-04:00",
-   "filed_kst": "2026-10-29 21:07",
-   "price": 80.98,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 80.98,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 80.98,
-     "change": -0.48
-    },
-    {
-     "date": "2026-10-27",
-     "close": 81.37,
-     "change": -0.74
-    }
-   ],
-   "market_cap": 145537255514.0,
-   "shares_outstanding": 1797199994.0,
-   "industry": "Malt Beverages",
-   "state_of_incorporation": "Belgium",
-   "hq": "LEUVEN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T21:08:02+09:00"
-  },
-  {
-   "id": "0001193125-26-437037",
-   "company": "UPBOUND GROUP, INC.",
-   "ticker": "UPBD",
-   "cik": 933036,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "Given our strong cash flow generation and confidence in our strategic plan, we intend to repurchase up to $50 million of our common stock under our existing share repurchase program, originally authorized by the Board of Directors in December 2021, with the timing and amount of any repurchases to be",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/933036/000119312526437037/0001193125-26-437037-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/933036/000119312526437037/upbd-ex99_2.htm",
-   "filed_at": "2026-10-29T08:00:31-04:00",
-   "filed_kst": "2026-10-29 21:00",
-   "price": 16.91,
-   "change": -0.24,
-   "price_history": [
-    {
-     "date": "2026-10-28",
-     "close": 16.91,
-     "change": -0.24
-    },
-    {
-     "date": "2026-10-27",
-     "close": 16.95,
-     "change": -0.24
-    },
-    {
-     "date": "2026-10-26",
-     "close": 16.99,
-     "change": -0.53
-    }
-   ],
-   "market_cap": 985842939.0,
-   "shares_outstanding": 58299405.0,
-   "industry": "Services-Equipment Rental & Leasing, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "PLANO, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T21:01:51+09:00"
-  },
-  {
-   "id": "0000913142-26-000039",
-   "company": "BELDEN INC.",
-   "ticker": "BDC",
-   "cik": 913142,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.1 2 companynewsreleasedatedoct.htm EX-99.1 Document Belden Reports Record Third Quarter 2026 Results and Announces $100 Million Data Center Agreement for 2027 St. Louis, Missouri – October 29, 2026 - Belden Inc. (NYSE: BDC) (“Belden” or the “Company”), a global full-stack networking solutions ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/913142/000091314226000039/0000913142-26-000039-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/913142/000091314226000039/companynewsreleasedatedoct.htm",
-   "filed_at": "2026-10-29T07:54:20-04:00",
-   "filed_kst": "2026-10-29 20:54",
-   "price": 106.66,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 106.66,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 106.66,
-     "change": -0.76
-    },
-    {
-     "date": "2026-10-27",
-     "close": 107.48,
-     "change": 4.36
-    }
-   ],
-   "market_cap": 4168079852.0,
-   "shares_outstanding": 39078191.0,
-   "industry": "Drawing & Insulating of  Nonferrous Wire",
-   "state_of_incorporation": "DE",
-   "hq": "ST. LOUIS, MO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-29T20:55:28+09:00"
   }
  ]
 }
