@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-03T22:44:48+09:00",
+ "updated_at": "2026-11-03T22:49:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009431",
+   "company": "Wise Group plc",
+   "ticker": "WSE",
+   "cik": 2099039,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "6200 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009431/0001654954-26-009431-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009431/a5035b.htm",
+   "filed_at": "2026-11-03T08:47:59-05:00",
+   "filed_kst": "2026-11-03 22:47",
+   "price": 10.87,
+   "change": 1.87,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 10.87,
+     "change": 1.87
+    },
+    {
+     "date": "2026-10-30",
+     "close": 10.67,
+     "change": -3.0
+    },
+    {
+     "date": "2026-10-29",
+     "close": 11.0,
+     "change": 0.82
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Jersey",
+   "hq": "LONDON",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:48:37+09:00"
+  },
   {
    "id": "0001213900-26-115177",
    "company": "Cre8 Enterprise Ltd",
@@ -15698,60 +15749,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T05:08:48+09:00"
-  },
-  {
-   "id": "0001447669-26-000106",
-   "company": "TWILIO INC",
-   "ticker": "TWLO",
-   "cik": 1447669,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "65 Share Repurchase Program In January 2025, Twilio’s Board of Directors authorized a share repurchase program pursuant to which Twilio may repurchase up to $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000106/0001447669-26-000106-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1447669/000144766926000106/twloq326ex991.htm",
-   "filed_at": "2026-10-29T16:07:30-04:00",
-   "filed_kst": "2026-10-30 05:07",
-   "price": 241.84,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 241.84,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 241.84,
-     "change": -4.7
-    },
-    {
-     "date": "2026-10-28",
-     "close": 253.77,
-     "change": -0.31
-    }
-   ],
-   "market_cap": 37140631205.0,
-   "shares_outstanding": 153575220.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "San Francisco, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T05:08:47+09:00"
   }
  ]
 }
