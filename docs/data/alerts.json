@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-03T22:29:25+09:00",
+ "updated_at": "2026-11-03T22:34:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-034531",
+   "company": "SeaStar Medical Holding Corp",
+   "ticker": "ICU",
+   "cik": 1831868,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "It is the only FDA approved product for the ultra-rare condition of life-threatening Acute Kidney Injury (AKI) due to sepsis or a septic condition requiring renal replacement therapy (RRT) in critically ill pediatric patients.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1831868/000143774926034531/0001437749-26-034531-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1831868/000143774926034531/icu20261102_8k.htm",
+   "filed_at": "2026-11-03T08:30:35-05:00",
+   "filed_kst": "2026-11-03 22:30",
+   "price": 2.19,
+   "change": -2.23,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 2.19,
+     "change": -2.23
+    },
+    {
+     "date": "2026-10-30",
+     "close": 2.24,
+     "change": -3.03
+    },
+    {
+     "date": "2026-10-29",
+     "close": 2.31,
+     "change": -6.85
+    }
+   ],
+   "market_cap": 9650982.0,
+   "shares_outstanding": 4406841.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-03T22:31:12+09:00"
+  },
+  {
+   "id": "0001213900-26-115167",
+   "company": "Eco Wave Power Global AB (publ)",
+   "ticker": "WAVE",
+   "cik": 1846715,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과"
+   ],
+   "confidence": 78,
+   "summary": "November 2026: Successful Completion of Phase 1 Just two months after announcing the collaboration, Eco Wave Power and AI engineering successfully completed the first phase of the Digital Twin program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1846715/000121390026115167/0001213900-26-115167-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1846715/000121390026115167/ea031061201ex99-1.htm",
+   "filed_at": "2026-11-03T08:30:01-05:00",
+   "filed_kst": "2026-11-03 22:30",
+   "price": 4.71,
+   "change": -0.84,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 4.71,
+     "change": -0.84
+    },
+    {
+     "date": "2026-10-30",
+     "close": 4.75,
+     "change": 5.56
+    },
+    {
+     "date": "2026-10-29",
+     "close": 4.5,
+     "change": -2.87
+    }
+   ],
+   "market_cap": 220038521.0,
+   "shares_outstanding": 46717308.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM, V7",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-03T22:30:40+09:00"
+  },
   {
    "id": "0001140361-26-041709",
    "company": "International Money Express, Inc.",
@@ -15650,116 +15756,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-30T05:08:05+09:00"
-  },
-  {
-   "id": "0001635282-26-000075",
-   "company": "Rimini Street, Inc.",
-   "ticker": "RMNI",
-   "cik": 1635282,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 65,
-   "summary": "• Announced a strategic partnership with Datacom, one of Australasia’s largest technology services and solutions providers, to offer Rimini Support™ for Oracle and SAP to public and private sector clients across Australia and New Zealand, helping clients reduce enterprise s",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1635282/000163528226000075/0001635282-26-000075-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1635282/000163528226000075/rmniq32026earningreleaseex.htm",
-   "filed_at": "2026-10-29T16:05:43-04:00",
-   "filed_kst": "2026-10-30 05:05",
-   "price": 3.99,
-   "change": -0.87,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 3.99,
-     "change": -0.87
-    },
-    {
-     "date": "2026-10-28",
-     "close": 4.03,
-     "change": 0.37
-    },
-    {
-     "date": "2026-10-27",
-     "close": 4.01,
-     "change": -0.74
-    }
-   ],
-   "market_cap": 369857040.0,
-   "shares_outstanding": 92696000.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "LAS VEGAS, NV",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-30T05:07:29+09:00"
-  },
-  {
-   "id": "0001193125-26-437770",
-   "company": "FORRESTER RESEARCH, INC.",
-   "ticker": "FORR",
-   "cik": 1023313,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "“We continue to see stabilization of the business, with results above consensus, a strong stock buyback program, and prudent expense management,” said CEO and Chairman George F.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1023313/000119312526437770/0001193125-26-437770-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1023313/000119312526437770/forr-ex99_1.htm",
-   "filed_at": "2026-10-29T16:05:16-04:00",
-   "filed_kst": "2026-10-30 05:05",
-   "price": 12.18,
-   "change": 1.16,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 12.18,
-     "change": 1.16
-    },
-    {
-     "date": "2026-10-28",
-     "close": 12.04,
-     "change": 0.17
-    },
-    {
-     "date": "2026-10-27",
-     "close": 12.02,
-     "change": -2.51
-    }
-   ],
-   "market_cap": 231895020.0,
-   "shares_outstanding": 19039000.0,
-   "industry": "Services-Engineering, Accounting, Research, Management",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-30T05:06:06+09:00"
   }
  ]
 }
