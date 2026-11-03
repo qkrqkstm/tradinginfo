@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-04T06:59:14+09:00",
+ "updated_at": "2026-11-04T07:04:59+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-049815",
+   "company": "XMax Inc.",
+   "ticker": "XMAX",
+   "cik": 1473334,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Our Board of Directors recently approved a share repurchase program of up to $30 million, which reflects our confidence in our long-term strategy and our commitment to disciplined capital allocation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1473334/000149315226049815/0001493152-26-049815-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1473334/000149315226049815/ex99-1.htm",
+   "filed_at": "2026-11-03T16:59:50-05:00",
+   "filed_kst": "2026-11-04 06:59",
+   "price": 4.2,
+   "change": 4.61,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 4.2,
+     "change": 4.61
+    },
+    {
+     "date": "2026-11-02",
+     "close": 4.01,
+     "change": -37.54
+    },
+    {
+     "date": "2026-10-30",
+     "close": 6.42,
+     "change": -20.64
+    }
+   ],
+   "market_cap": 270998389.0,
+   "shares_outstanding": 64523426.0,
+   "industry": "Household Furniture",
+   "state_of_incorporation": "NV",
+   "hq": "COMMERCE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-04T07:00:50+09:00"
+  },
   {
    "id": "0001292814-26-005132",
    "company": "UNITED BREWERIES CO INC",
@@ -15627,60 +15682,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T20:12:05+09:00"
-  },
-  {
-   "id": "0001193125-26-439864",
-   "company": "CHURCH & DWIGHT CO INC /DE/",
-   "ticker": "CHD",
-   "cik": 313927,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 72,
-   "summary": "The Company’s Board of Directors has approved a new share repurchase program authorizing the Company to repurchase up to $1 billion of its common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/313927/000119312526439864/0001193125-26-439864-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/313927/000119312526439864/chd-ex99_1.htm",
-   "filed_at": "2026-10-30T07:04:05-04:00",
-   "filed_kst": "2026-10-30 20:04",
-   "price": 106.0,
-   "change": 1.19,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 106.0,
-     "change": 1.19
-    },
-    {
-     "date": "2026-10-28",
-     "close": 104.75,
-     "change": -0.25
-    },
-    {
-     "date": "2026-10-27",
-     "close": 105.01,
-     "change": -0.35
-    }
-   ],
-   "market_cap": 25143614142.0,
-   "shares_outstanding": 237203907.0,
-   "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
-   "state_of_incorporation": "DE",
-   "hq": "EWING, NJ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:04:34+09:00"
   }
  ]
 }
