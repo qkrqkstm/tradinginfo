@@ -1,7 +1,108 @@
 {
- "updated_at": "2026-11-04T07:14:17+09:00",
+ "updated_at": "2026-11-04T07:19:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-034704",
+   "company": "Vicore Pharma Holding AB",
+   "ticker": "VCRE",
+   "cik": 2124403,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "The company ’ s lead program, buloxibutid, is an oral small-molecule angiotensin II type 2 receptor agonist, which received Orphan Drug and Fast Track designations from the United States Food and Drug Administration and is currently being investigated in the global 52-week Phase 2b ASPIRE trial in I",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2124403/000143774926034704/0001437749-26-034704-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2124403/000143774926034704/vcre20261103_6k.htm",
+   "filed_at": "2026-11-03T17:15:50-05:00",
+   "filed_kst": "2026-11-04 07:15",
+   "price": 9.16,
+   "change": -4.48,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 9.16,
+     "change": -4.48
+    },
+    {
+     "date": "2026-11-02",
+     "close": 9.59,
+     "change": -2.14
+    },
+    {
+     "date": "2026-10-30",
+     "close": 9.8,
+     "change": -3.92
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM",
+   "entity_category": null,
+   "detected_at": "2026-11-04T07:17:06+09:00"
+  },
+  {
+   "id": "0001171843-26-007082",
+   "company": "SLR Investment Corp.",
+   "ticker": "SLRC",
+   "cik": 1418076,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "0 million through its share repurchase plan previously authorized by the Board.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418076/000117184326007082/0001171843-26-007082-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1418076/000117184326007082/exh_991.htm",
+   "filed_at": "2026-11-03T17:15:15-05:00",
+   "filed_kst": "2026-11-04 07:15",
+   "price": 11.8,
+   "change": -0.08,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 11.8,
+     "change": -0.08
+    },
+    {
+     "date": "2026-11-02",
+     "close": 11.81,
+     "change": 1.55
+    },
+    {
+     "date": "2026-10-30",
+     "close": 11.63,
+     "change": -1.36
+    }
+   ],
+   "market_cap": 633313458.0,
+   "shares_outstanding": 53670632.0,
+   "industry": null,
+   "state_of_incorporation": "MD",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T07:16:54+09:00"
+  },
   {
    "id": "0001520006-26-000055",
    "company": "Matador Resources Co",
@@ -15575,113 +15676,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-30T20:30:39+09:00"
-  },
-  {
-   "id": "0001213900-26-114063",
-   "company": "Churchill Capital Corp XI",
-   "ticker": "CCXI",
-   "cik": 2074973,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 73,
-   "summary": "☐ Explanatory Note As previously disclosed, on June 24, 2026, Churchill Capital Corp XI, a Cayman Islands exempted company (“Churchill”), entered into an Agreement and Plan of Merger (as amended, modified, supplemented or waived from time to time, the “Merger Agreement”) by and among Churchill, BLB ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026114063/0001213900-26-114063-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026114063/ea031030301ex99-1.htm",
-   "filed_at": "2026-10-30T07:27:44-04:00",
-   "filed_kst": "2026-10-30 20:27",
-   "price": 9.94,
-   "change": -3.02,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 9.94,
-     "change": -3.02
-    },
-    {
-     "date": "2026-10-28",
-     "close": 10.25,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-27",
-     "close": 10.24,
-     "change": -0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "General Industrial Machinery & Equipment, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T20:28:32+09:00"
-  },
-  {
-   "id": "0001018164-26-000087",
-   "company": "WILLIS LEASE FINANCE CORP",
-   "ticker": "WLFC",
-   "cik": 1018164,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 67,
-   "summary": "0112 Willis Lease Finance Corporation Declares Fourth Quarter 2026 Dividend and Renewal and Increase of Share Repurchase Plan COCONUT CREEK, FL — October 30, 2026 — Willis Lease Finance Corporation (NASDAQ: WLFC) (“WLFC” or the “Company”), announced today the Company’s quarterly dividend of $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000087/0001018164-26-000087-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000087/q32026ex991dividend.htm",
-   "filed_at": "2026-10-30T07:26:55-04:00",
-   "filed_kst": "2026-10-30 20:26",
-   "price": 41.86,
-   "change": 4.05,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 41.86,
-     "change": 4.05
-    },
-    {
-     "date": "2026-10-28",
-     "close": 40.23,
-     "change": 1.28
-    },
-    {
-     "date": "2026-10-27",
-     "close": 39.72,
-     "change": 2.64
-    }
-   ],
-   "market_cap": 885092486.0,
-   "shares_outstanding": 21144111.0,
-   "industry": "Wholesale-Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "COCONUT CREEK, FL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:27:29+09:00"
   }
  ]
 }
