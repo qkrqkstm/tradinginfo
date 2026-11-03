@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-04T03:54:56+09:00",
+ "updated_at": "2026-11-04T03:59:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001172052-26-000026",
+   "company": "SAFETY INSURANCE GROUP INC",
+   "ticker": "SAFT",
+   "cik": 1172052,
+   "form": "8-K",
+   "items": [
+    "5.07"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "1 – The Merger Proposal : The proposal to adopt the Agreement and Plan of Merger, dated as of July 23, 2026 (as it may be amended, supplemented or modified from time to time, the “ Merger Agreement ”), by and among Safety, MAPFRE U.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1172052/000117205226000026/0001172052-26-000026-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1172052/000117205226000026/saft-20261103x8k.htm",
+   "filed_at": "2026-11-03T13:57:05-05:00",
+   "filed_kst": "2026-11-04 03:57",
+   "price": 104.24,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 104.24,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 104.24,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 104.24,
+     "change": 0.33
+    }
+   ],
+   "market_cap": 1530293444.0,
+   "shares_outstanding": 14680482.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T03:57:36+09:00"
+  },
   {
    "id": "0000022356-26-000211",
    "company": "COMMERCE BANCSHARES INC /MO/",
@@ -15667,59 +15719,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-10-30T05:16:12+09:00"
-  },
-  {
-   "id": "0000868671-26-000078",
-   "company": "GLACIER BANCORP, INC.",
-   "ticker": "GBCI",
-   "cik": 868671,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "1 to this report, announcing that the Board of Directors of the Company approved a share repurchase program on October 29, 2026, under which the Company’s Chief Executive Officer, Chief Financial Officer, Deputy Chief Financial Officer, and each of them, are authorized to direct the purchase of up t",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/868671/000086867126000078/0000868671-26-000078-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/868671/000086867126000078/gbci-20261029.htm",
-   "filed_at": "2026-10-29T16:13:37-04:00",
-   "filed_kst": "2026-10-30 05:13",
-   "price": 48.77,
-   "change": 1.37,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 48.77,
-     "change": 1.37
-    },
-    {
-     "date": "2026-10-28",
-     "close": 48.11,
-     "change": -1.94
-    },
-    {
-     "date": "2026-10-27",
-     "close": 49.06,
-     "change": 0.12
-    }
-   ],
-   "market_cap": 6350436948.0,
-   "shares_outstanding": 130211953.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "MT",
-   "hq": "KALISPELL, MT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T05:14:33+09:00"
   }
  ]
 }
