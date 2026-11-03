@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-11-04T07:09:10+09:00",
+ "updated_at": "2026-11-04T07:14:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001520006-26-000055",
+   "company": "Matador Resources Co",
+   "ticker": "MTDR",
+   "cik": 1520006,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 68,
+   "summary": "Continued growth is expected to be driven by San Mateo’s strategic alliance with Matador and expanding relationships with third-party San Mateo customers.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1520006/000152000626000055/0001520006-26-000055-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1520006/000152000626000055/a20260930mtdr8ker-ex991.htm",
+   "filed_at": "2026-11-03T17:12:52-05:00",
+   "filed_kst": "2026-11-04 07:12",
+   "price": 54.31,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 54.31,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 54.31,
+     "change": -2.6
+    },
+    {
+     "date": "2026-11-02",
+     "close": 55.76,
+     "change": -8.41
+    }
+   ],
+   "market_cap": 6721091471.0,
+   "shares_outstanding": 123754216.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "TX",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T07:13:44+09:00"
+  },
+  {
+   "id": "0001104659-26-122160",
+   "company": "Triple Flag Precious Metals Corp.",
+   "ticker": "TFPM",
+   "cik": 1829726,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 68,
+   "summary": "The all-cash transaction will be funded from SSR Mining's existing cash position and is expected to close in the fourth quarter of 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1829726/000110465926122160/0001104659-26-122160-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829726/000110465926122160/tm2628908d1_ex99-1.htm",
+   "filed_at": "2026-11-03T17:11:55-05:00",
+   "filed_kst": "2026-11-04 07:11",
+   "price": 28.25,
+   "change": -2.15,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 28.25,
+     "change": -2.15
+    },
+    {
+     "date": "2026-11-02",
+     "close": 28.87,
+     "change": 2.63
+    },
+    {
+     "date": "2026-10-30",
+     "close": 28.13,
+     "change": -3.6
+    }
+   ],
+   "market_cap": 5834523520.0,
+   "shares_outstanding": 206531806.0,
+   "industry": "Mineral Royalty Traders",
+   "state_of_incorporation": "Canada (Federal Level)",
+   "hq": "TORONTO, A6",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-04T07:12:38+09:00"
+  },
   {
    "id": "0000950103-26-016864",
    "company": "newcleo plc",
@@ -15575,109 +15682,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-10-30T20:27:29+09:00"
-  },
-  {
-   "id": "0001493152-26-049353",
-   "company": "Pulmatrix, Inc.",
-   "ticker": "PULM",
-   "cik": 1574235,
-   "form": "425",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "M&A",
-    "FDA"
-   ],
-   "confidence": 79,
-   "summary": "PTC-2105 is an investigational compound that has not been tested for lifespan in humans and has not been approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226049353/0001493152-26-049353-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226049353/form425.htm",
-   "filed_at": "2026-10-30T07:24:19-04:00",
-   "filed_kst": "2026-10-30 20:24",
-   "price": 1.42,
-   "change": -5.67,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 1.41,
-     "change": -5.67
-    },
-    {
-     "date": "2026-10-28",
-     "close": 1.5,
-     "change": 0.67
-    },
-    {
-     "date": "2026-10-27",
-     "close": 1.49,
-     "change": 3.47
-    }
-   ],
-   "market_cap": 5186245.0,
-   "shares_outstanding": 3652285.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "FRAMINGHAM, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-30T20:25:25+09:00"
-  },
-  {
-   "id": "0001062993-26-005617",
-   "company": "Largo Inc.",
-   "ticker": "LGO",
-   "cik": 1400438,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 65,
-   "summary": "Page 4 of 6 Largo is also strategically invested in the clean energy storage sector through its investment in Storion Energy, a joint venture with Stryten Energy focused on scalable domestic electrolyte production for utility-scale vanadium flow battery long-duration energy storage solutions in the ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1400438/000106299326005617/0001062993-26-005617-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1400438/000106299326005617/exhibit99-1.htm",
-   "filed_at": "2026-10-30T07:23:53-04:00",
-   "filed_kst": "2026-10-30 20:23",
-   "price": 0.37,
-   "change": 0.81,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 0.37,
-     "change": 0.81
-    },
-    {
-     "date": "2026-10-29",
-     "close": 0.37,
-     "change": -5.13
-    },
-    {
-     "date": "2026-10-28",
-     "close": 0.39,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 30959345.0,
-   "shares_outstanding": 83673905.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "Toronto, Ontario",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T20:24:38+09:00"
   }
  ]
 }
