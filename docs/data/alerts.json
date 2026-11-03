@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-04T07:19:29+09:00",
+ "updated_at": "2026-11-04T07:24:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-041841",
+   "company": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+   "ticker": "WAB",
+   "cik": 943452,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99 3 ef20084613_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 News Release Wabtec Announces Pricing of Senior Notes Offering PITTSBURGH, November 2, 2026 - Wabtec Corporation (NYSE: WAB) (“Wabtec”) today announced that it has priced a public offering (the “Offering”) of $500 million aggregate principal am",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000114036126041841/0001140361-26-041841-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/943452/000114036126041841/ef20084613_ex99-1.htm",
+   "filed_at": "2026-11-03T17:20:01-05:00",
+   "filed_kst": "2026-11-04 07:20",
+   "price": 291.78,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 291.78,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 291.78,
+     "change": 1.74
+    },
+    {
+     "date": "2026-11-02",
+     "close": 286.79,
+     "change": 2.57
+    }
+   ],
+   "market_cap": 48961379604.0,
+   "shares_outstanding": 167802384.0,
+   "industry": "Railroad Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "PITTSBURGH, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T07:20:41+09:00"
+  },
   {
    "id": "0001437749-26-034704",
    "company": "Vicore Pharma Holding AB",
@@ -15622,60 +15672,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T20:32:16+09:00"
-  },
-  {
-   "id": "0001213900-26-114065",
-   "company": "Churchill Capital Corp XI",
-   "ticker": "CCXI",
-   "cik": 2074973,
-   "form": "425",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 73,
-   "summary": "☐ Explanatory Note As previously disclosed, on June 24, 2026, Churchill Capital Corp XI, a Cayman Islands exempted company (“Churchill”), entered into an Agreement and Plan of Merger (as amended, modified, supplemented or waived from time to time, the “Merger Agreement”) by and among Churchill, BLB ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026114065/0001213900-26-114065-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026114065/ea031030301ex99-1.htm",
-   "filed_at": "2026-10-30T07:29:23-04:00",
-   "filed_kst": "2026-10-30 20:29",
-   "price": 9.94,
-   "change": -3.02,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 9.94,
-     "change": -3.02
-    },
-    {
-     "date": "2026-10-28",
-     "close": 10.25,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-27",
-     "close": 10.24,
-     "change": -0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "General Industrial Machinery & Equipment, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T20:30:39+09:00"
   }
  ]
 }
