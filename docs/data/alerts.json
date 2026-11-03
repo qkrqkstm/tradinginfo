@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-04T06:49:22+09:00",
+ "updated_at": "2026-11-04T06:54:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001292814-26-005132",
+   "company": "UNITED BREWERIES CO INC",
+   "ticker": "CCU",
+   "cik": 888746,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company’s principal licensing, distribution and / or joint venture agreements include Heineken Brouwerijen B.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/888746/000129281426005132/0001292814-26-005132-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/888746/000129281426005132/ccu20261103_6k.htm",
+   "filed_at": "2026-11-03T16:52:48-05:00",
+   "filed_kst": "2026-11-04 06:52",
+   "price": 10.37,
+   "change": 0.19,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 10.37,
+     "change": 0.19
+    },
+    {
+     "date": "2026-11-02",
+     "close": 10.35,
+     "change": 0.19
+    },
+    {
+     "date": "2026-10-30",
+     "close": 10.33,
+     "change": -0.96
+    }
+   ],
+   "market_cap": 3831744783.0,
+   "shares_outstanding": 369502872.0,
+   "industry": "Malt Beverages",
+   "state_of_incorporation": null,
+   "hq": "SANTIAGO CHILE, F3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T06:53:34+09:00"
+  },
+  {
+   "id": "0001104659-26-122107",
+   "company": "Solid Power, Inc.",
+   "ticker": "SLDP",
+   "cik": 1844862,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "· Furthered discussions with leading battery material manufacturing companies regarding a potential joint venture for commercial-scale electrolyte production in the Republic of Korea.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1844862/000110465926122107/0001104659-26-122107-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1844862/000110465926122107/tm2628929d2_ex99-1.htm",
+   "filed_at": "2026-11-03T16:50:20-05:00",
+   "filed_kst": "2026-11-04 06:50",
+   "price": 2.03,
+   "change": 3.05,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 2.03,
+     "change": 3.05
+    },
+    {
+     "date": "2026-11-02",
+     "close": 1.97,
+     "change": 0.51
+    },
+    {
+     "date": "2026-10-30",
+     "close": 1.96,
+     "change": -3.45
+    }
+   ],
+   "market_cap": 463207860.0,
+   "shares_outstanding": 228181212.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "LOUISVILLE, CO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-04T06:51:13+09:00"
+  },
   {
    "id": "0001193125-26-445487",
    "company": "Ceribell, Inc.",
@@ -15577,115 +15681,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T20:04:34+09:00"
-  },
-  {
-   "id": "0001530721-26-000092",
-   "company": "Capri Holdings Ltd",
-   "ticker": "CPRI",
-   "cik": 1530721,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 72,
-   "summary": "Share Repurchase Program During the fiscal second quarter, the Company spent $150 million to repurchase approximately 10.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1530721/000153072126000092/0001530721-26-000092-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1530721/000153072126000092/cpri8-k9262026exhibit991.htm",
-   "filed_at": "2026-10-30T07:03:14-04:00",
-   "filed_kst": "2026-10-30 20:03",
-   "price": 16.06,
-   "change": 5.04,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 16.06,
-     "change": 5.04
-    },
-    {
-     "date": "2026-10-28",
-     "close": 15.29,
-     "change": -0.84
-    },
-    {
-     "date": "2026-10-27",
-     "close": 15.42,
-     "change": -0.96
-    }
-   ],
-   "market_cap": 1825244985.0,
-   "shares_outstanding": 113651618.0,
-   "industry": "Leather & Leather Products",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:04:02+09:00"
-  },
-  {
-   "id": "0001121484-26-000036",
-   "company": "OIL STATES INTERNATIONAL, INC",
-   "ticker": "OIS",
-   "cik": 1121484,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 76,
-   "summary": "3x • Downhole Technologies segment generated revenues of $42 million, a 6% sequential increase • Purchased $4 million of our common stock • Board of Directors approved a new $50 million common stock repurchase authorization, expiring in October 2028 HOUSTON, October 30, 2026 – Oil States Internation",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1121484/000112148426000036/0001121484-26-000036-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1121484/000112148426000036/ois_20261030x991.htm",
-   "filed_at": "2026-10-30T07:01:34-04:00",
-   "filed_kst": "2026-10-30 20:01",
-   "price": 9.08,
-   "change": -1.2,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 9.08,
-     "change": -1.2
-    },
-    {
-     "date": "2026-10-28",
-     "close": 9.19,
-     "change": 3.14
-    },
-    {
-     "date": "2026-10-27",
-     "close": 8.91,
-     "change": 1.95
-    }
-   ],
-   "market_cap": 547729381.0,
-   "shares_outstanding": 60322619.0,
-   "industry": "Oil & Gas Field Machinery & Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:01:58+09:00"
   }
  ]
 }
