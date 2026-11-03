@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-04T01:49:42+09:00",
+ "updated_at": "2026-11-04T01:54:49+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-049744",
+   "company": "Kairos Pharma, LTD.",
+   "ticker": "KAPA",
+   "cik": 1962011,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "The positive interim analysis demonstrated a statistically significant difference in progression-free survival (PFS) between all patients in the trial treated with ENV-105 plus apalutamide and those treated with apalutamide alone.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226049744/0001493152-26-049744-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226049744/ex99-1.htm",
+   "filed_at": "2026-11-03T11:50:36-05:00",
+   "filed_kst": "2026-11-04 01:50",
+   "price": 0.48,
+   "change": 0.23,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 0.48,
+     "change": 0.23
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.47,
+     "change": -10.57
+    },
+    {
+     "date": "2026-10-30",
+     "close": 0.53,
+     "change": -1.85
+    }
+   ],
+   "market_cap": 11374888.0,
+   "shares_outstanding": 23697683.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-04T01:51:34+09:00"
+  },
   {
    "id": "0001062993-26-005696",
    "company": "Helus Pharma Inc.",
@@ -15664,61 +15718,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T05:13:26+09:00"
-  },
-  {
-   "id": "0001790340-26-000095",
-   "company": "Immuneering Corp",
-   "ticker": "IMRX",
-   "cik": 1790340,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.1 2 imrx-20261029xexx991.htm EX-99.1 Document Exhibit 99.1 Immuneering Reports Third Quarter 2026 Financial Results and Provides Business Updates - Phase 2 pancreatic cancer follow-up extended as patients on atebimetinib combinations live longer than projected - - Updated Phase 2 atebimetinib ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1790340/000179034026000095/0001790340-26-000095-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1790340/000179034026000095/imrx-20261029xexx991.htm",
-   "filed_at": "2026-10-29T16:12:11-04:00",
-   "filed_kst": "2026-10-30 05:12",
-   "price": 4.02,
-   "change": 0.75,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 4.02,
-     "change": 0.75
-    },
-    {
-     "date": "2026-10-28",
-     "close": 3.99,
-     "change": 4.18
-    },
-    {
-     "date": "2026-10-27",
-     "close": 3.83,
-     "change": 3.23
-    }
-   ],
-   "market_cap": 104271017.0,
-   "shares_outstanding": 25938064.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T05:13:13+09:00"
   }
  ]
 }
