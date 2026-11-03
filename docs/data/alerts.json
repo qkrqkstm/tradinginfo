@@ -1,7 +1,108 @@
 {
- "updated_at": "2026-11-03T22:39:06+09:00",
+ "updated_at": "2026-11-03T22:44:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-115177",
+   "company": "Cre8 Enterprise Ltd",
+   "ticker": "CRE",
+   "cik": 2003977,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "03, 2026 (GLOBE NEWSWIRE) -- Cre8 Enterprise Limited (Nasdaq: CRE) (“Cre8” or the “Company”), a Hong Kong-based integrated financial printing service provider, announced today that its wholly owned subsidiary, Cre8 Incorporation Limited, has completed the acquisition of 100% of the issued shares of ",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2003977/000121390026115177/0001213900-26-115177-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2003977/000121390026115177/ea031046001ex99-1.htm",
+   "filed_at": "2026-11-03T08:40:28-05:00",
+   "filed_kst": "2026-11-03 22:40",
+   "price": 2.5,
+   "change": 1.42,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 2.49,
+     "change": 1.42
+    },
+    {
+     "date": "2026-10-30",
+     "close": 2.46,
+     "change": -3.91
+    },
+    {
+     "date": "2026-10-29",
+     "close": 2.56,
+     "change": 4.07
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Commercial Printing",
+   "state_of_incorporation": null,
+   "hq": "HONG KONG, K3",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-03T22:42:43+09:00"
+  },
+  {
+   "id": "0001654954-26-009429",
+   "company": "RENTOKIL INITIAL PLC /FI",
+   "ticker": "RTO",
+   "cik": 930157,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Following the cancellation of the repurchased shares, the Company has 2,524,184,660 ordinary shares in issue.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/930157/000165495426009429/0001654954-26-009429-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/930157/000165495426009429/a5028b.htm",
+   "filed_at": "2026-11-03T08:39:24-05:00",
+   "filed_kst": "2026-11-03 22:39",
+   "price": 24.07,
+   "change": 3.22,
+   "price_history": [
+    {
+     "date": "2026-11-02",
+     "close": 24.07,
+     "change": 3.22
+    },
+    {
+     "date": "2026-10-30",
+     "close": 23.32,
+     "change": 0.26
+    },
+    {
+     "date": "2026-10-29",
+     "close": 23.26,
+     "change": 2.06
+    }
+   ],
+   "market_cap": 60801780032.0,
+   "shares_outstanding": 2526039885.0,
+   "industry": "Services-Management Services",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "CRAWLEY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-03T22:41:07+09:00"
+  },
   {
    "id": "0001437749-26-034531",
    "company": "SeaStar Medical Holding Corp",
@@ -15651,111 +15752,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T05:08:47+09:00"
-  },
-  {
-   "id": "0001933414-26-000136",
-   "company": "Mineralys Therapeutics, Inc.",
-   "ticker": "MLYS",
-   "cik": 1933414,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "1.02"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "(the Company) and Tanabe Pharma Corporation (Tanabe) were previously parties to that certain License Agreement, dated July 9, 2020 and amended on November 24, 2020, June 15, 2023, May 29, 2025 and June 2, 2026 (as amended, the License Agreement), pursuant to which Tanabe had granted to the Company a",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341426000136/0001933414-26-000136-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1933414/000193341426000136/mlys-20261027.htm",
-   "filed_at": "2026-10-29T16:08:07-04:00",
-   "filed_kst": "2026-10-30 05:08",
-   "price": 21.24,
-   "change": -0.65,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 21.24,
-     "change": -0.65
-    },
-    {
-     "date": "2026-10-28",
-     "close": 21.38,
-     "change": 1.18
-    },
-    {
-     "date": "2026-10-27",
-     "close": 21.13,
-     "change": 2.77
-    }
-   ],
-   "market_cap": 1877762237.0,
-   "shares_outstanding": 88406885.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "RADNOR, PA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T05:08:42+09:00"
-  },
-  {
-   "id": "0001681622-26-000080",
-   "company": "Varex Imaging Corp",
-   "ticker": "VREX",
-   "cik": 1681622,
-   "form": "8-K/A",
-   "items": [
-    "5.07"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "07 Submission of Matters to a Vote of Security Holders On October 28, 2026, the Company, held the Special Meeting to consider certain proposals related to the Agreement and Plan of Merger, dated as of August 10, 2026 (the “Merger Agreement”), by and among the Company, Teledyne Technologies Incorpora",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1681622/000168162226000080/0001681622-26-000080-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681622/000168162226000080/vrex-20261028.htm",
-   "filed_at": "2026-10-29T16:06:49-04:00",
-   "filed_kst": "2026-10-30 05:06",
-   "price": 18.44,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 18.44,
-     "change": -0.05
-    },
-    {
-     "date": "2026-10-28",
-     "close": 18.45,
-     "change": -0.05
-    },
-    {
-     "date": "2026-10-27",
-     "close": 18.46,
-     "change": 0.27
-    }
-   ],
-   "market_cap": 776324000.0,
-   "shares_outstanding": 42100000.0,
-   "industry": "Electronic Components, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SALT LAKE CITY, UT",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-30T05:08:05+09:00"
   }
  ]
 }
