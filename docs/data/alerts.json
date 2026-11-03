@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-04T00:24:11+09:00",
+ "updated_at": "2026-11-04T00:29:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001037868-26-000194",
+   "company": "AMETEK INC/",
+   "ticker": "AME",
+   "cik": 1037868,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "In addition, during the third quarter we completed the acquisition of Indicor Instrumentation, an outstanding group of highly differentiated industrial technology businesses.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000194/0001037868-26-000194-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000194/ametek8kexhibit99111032026.htm",
+   "filed_at": "2026-11-03T10:28:59-05:00",
+   "filed_kst": "2026-11-04 00:28",
+   "price": 254.03,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 254.03,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 254.04,
+     "change": 5.01
+    },
+    {
+     "date": "2026-11-02",
+     "close": 241.91,
+     "change": 0.33
+    }
+   ],
+   "market_cap": 58239233813.0,
+   "shares_outstanding": 229261244.0,
+   "industry": "Industrial Instruments For Measurement, Display, and Control",
+   "state_of_incorporation": "DE",
+   "hq": "BERWYN, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T00:29:35+09:00"
+  },
   {
    "id": "0001026655-26-000072",
    "company": "CORE MOLDING TECHNOLOGIES INC",
@@ -15675,61 +15729,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T05:11:56+09:00"
-  },
-  {
-   "id": "0001356576-26-000050",
-   "company": "SUPERNUS PHARMACEUTICALS, INC.",
-   "ticker": "SUPN",
-   "cik": 1356576,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "In addition, the Company submitted a supplemental New Drug Application (sNDA) for a second supplier for ONAPGO, with potential FDA approval by mid-year 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1356576/000135657626000050/0001356576-26-000050-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1356576/000135657626000050/ex991earningsrelease.htm",
-   "filed_at": "2026-10-29T16:08:49-04:00",
-   "filed_kst": "2026-10-30 05:08",
-   "price": 41.84,
-   "change": 1.85,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 41.84,
-     "change": 1.85
-    },
-    {
-     "date": "2026-10-28",
-     "close": 41.08,
-     "change": 0.29
-    },
-    {
-     "date": "2026-10-27",
-     "close": 40.96,
-     "change": 0.47
-    }
-   ],
-   "market_cap": 2432034224.0,
-   "shares_outstanding": 58127013.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "ROCKVILLE, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T05:10:51+09:00"
   }
  ]
 }
