@@ -1,7 +1,117 @@
 {
- "updated_at": "2026-11-04T23:34:37+09:00",
+ "updated_at": "2026-11-04T23:39:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001552781-26-000537",
+   "company": "Essential Utilities, Inc.",
+   "ticker": "WTRG",
+   "cik": 78128,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약",
+    "배당"
+   ],
+   "confidence": 72,
+   "summary": "In October 2026, the Company completed the acquisition of Dril-Quip, Inc.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000537/0001552781-26-000537-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000537/e26437_ex99-1.htm",
+   "filed_at": "2026-11-04T09:37:51-05:00",
+   "filed_kst": "2026-11-04 23:37",
+   "price": 44.32,
+   "change": 0.64,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 44.32,
+     "change": 0.64
+    },
+    {
+     "date": "2026-11-03",
+     "close": 44.04,
+     "change": -0.9
+    },
+    {
+     "date": "2026-11-02",
+     "close": 44.44,
+     "change": 2.11
+    }
+   ],
+   "market_cap": 12577067774.0,
+   "shares_outstanding": 283778605.0,
+   "industry": "Water Supply",
+   "state_of_incorporation": "PA",
+   "hq": "BRYN MAWR, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T23:38:56+09:00"
+  },
+  {
+   "id": "0001129928-26-000078",
+   "company": "ONCOLYTICS BIOTECH INC",
+   "ticker": "ONCY",
+   "cik": 1129928,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "The Company is advancing pelareorep in combination with chemotherapy and/or checkpoint inhibitors in metastatic gastrointestinal cancers, where pelareorep has received Fast Track designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000078/0001129928-26-000078-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000078/oncy-20261104.htm",
+   "filed_at": "2026-11-04T09:36:18-05:00",
+   "filed_kst": "2026-11-04 23:36",
+   "price": 0.41,
+   "change": -0.1,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 0.41,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-04",
+     "close": 0.41,
+     "change": 4.72
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.39,
+     "change": -2.5
+    }
+   ],
+   "market_cap": 52279307.0,
+   "shares_outstanding": 127510505.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-04T23:37:10+09:00"
+  },
   {
    "id": "0001193125-26-446348",
    "company": "Cullinan Therapeutics, Inc.",
@@ -15662,109 +15772,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-02T20:07:43+09:00"
-  },
-  {
-   "id": "0001292814-26-005106",
-   "company": "TIM S.A.",
-   "ticker": "TIMB",
-   "cik": 1826168,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "주식소각"
-   ],
-   "confidence": 68,
-   "summary": "Amendment to reflect the updated breakdown of the Company’s share capital into shares, as a result of the cancellation of treasury shares, with no reduction of the share capital, which were acquired under the Company’s share repurchase program, as disclosed in the material fact released on September",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426005106/0001292814-26-005106-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426005106/timb20261030_6k7.htm",
-   "filed_at": "2026-10-30T21:57:40-04:00",
-   "filed_kst": "2026-10-31 10:57",
-   "price": 17.68,
-   "change": -2.37,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 17.68,
-     "change": -2.37
-    },
-    {
-     "date": "2026-10-29",
-     "close": 18.11,
-     "change": 2.03
-    },
-    {
-     "date": "2026-10-28",
-     "close": 17.75,
-     "change": -0.28
-    }
-   ],
-   "market_cap": 42292785718.0,
-   "shares_outstanding": 2392125889.0,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": "Brazil",
-   "hq": "RIO DE JANEIRO, RJ, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T20:07:11+09:00"
-  },
-  {
-   "id": "0001213900-26-114616",
-   "company": "Hotel101 Global Holdings Corp.",
-   "ticker": "HBNB",
-   "cik": 2054507,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 69,
-   "summary": "Management expects Hotel101-Madrid’s performance to support the replication of the Hotel101 business model through joint ventures and, in the future, license agreements, advancing Hotel101 Global’s long-term vision of developing one million standardized rooms across 100 countries and its aspiration ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2054507/000121390026114616/0001213900-26-114616-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2054507/000121390026114616/ea031031601ex99-1.htm",
-   "filed_at": "2026-11-02T06:01:24-05:00",
-   "filed_kst": "2026-11-02 20:01",
-   "price": 4.75,
-   "change": 1.93,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 4.75,
-     "change": 1.93
-    },
-    {
-     "date": "2026-10-29",
-     "close": 4.66,
-     "change": -5.09
-    },
-    {
-     "date": "2026-10-28",
-     "close": 4.91,
-     "change": 2.94
-    }
-   ],
-   "market_cap": 1111653834.0,
-   "shares_outstanding": 234032386.0,
-   "industry": "Hotels & Motels",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-02T20:07:09+09:00"
   }
  ]
 }
