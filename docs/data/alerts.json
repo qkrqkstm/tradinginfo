@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-04T21:29:37+09:00",
+ "updated_at": "2026-11-04T21:34:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-122368",
+   "company": "Riot Platforms, Inc.",
+   "ticker": "RIOT",
+   "cik": 1167419,
+   "form": "8-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Riot Platforms Reports Third Quarter 2026 Financial Results and Strategic Highlights Executed a 15-year, 910 critical IT MW triple-net powered land lease with a leading Frontier AI Lab at Corsicana, representing approximately $28 billion in total contract value and approximately $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926122368/0001104659-26-122368-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926122368/riot-ex99d1.htm",
+   "filed_at": "2026-11-04T07:30:37-05:00",
+   "filed_kst": "2026-11-04 21:30",
+   "price": 14.02,
+   "change": 18.41,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 14.02,
+     "change": 18.41
+    },
+    {
+     "date": "2026-11-02",
+     "close": 11.84,
+     "change": -7.57
+    },
+    {
+     "date": "2026-10-30",
+     "close": 12.81,
+     "change": -6.77
+    }
+   ],
+   "market_cap": 5261130269.0,
+   "shares_outstanding": 375258935.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "NV",
+   "hq": "CASTLE ROCK, CO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T21:31:42+09:00"
+  },
+  {
+   "id": "0000879407-26-000063",
+   "company": "ARROWHEAD PHARMACEUTICALS, INC.",
+   "ticker": "ARWR",
+   "cik": 879407,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.03"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "대형계약"
+   ],
+   "confidence": 71,
+   "summary": "EX-99.1 2 arwr-202611048kex991.htm EX-99.1 Document EXHIBIT 99.1 PRESS RELEASE November 4 , 2026 Arrowhead Pharmaceuticals Refinances Existing Credit Facility, Lowering Borrowing Costs and Extending Maturity – Existing $400 million facility prepaid at a $68 million discount to the contractual minimu",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000063/0000879407-26-000063-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000063/arwr-202611048kex991.htm",
+   "filed_at": "2026-11-04T07:30:14-05:00",
+   "filed_kst": "2026-11-04 21:30",
+   "price": 59.53,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 59.53,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 59.53,
+     "change": -0.07
+    },
+    {
+     "date": "2026-11-02",
+     "close": 59.57,
+     "change": -0.55
+    }
+   ],
+   "market_cap": 8408878421.0,
+   "shares_outstanding": 141254467.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PASADENA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T21:31:09+09:00"
+  },
   {
    "id": "0001193125-26-446212",
    "company": "Array Technologies, Inc.",
@@ -15605,107 +15709,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-10-31T05:31:35+09:00"
-  },
-  {
-   "id": "0001193125-26-441751",
-   "company": "FTI CONSULTING, INC",
-   "ticker": "FCN",
-   "cik": 887936,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "7 million remained available for common stock repurchases under the Company’s stock repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/887936/000119312526441751/0001193125-26-441751-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/887936/000119312526441751/fcn-ex99_1.htm",
-   "filed_at": "2026-10-30T16:30:19-04:00",
-   "filed_kst": "2026-10-31 05:30",
-   "price": 182.84,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 182.84,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 182.84,
-     "change": 0.88
-    },
-    {
-     "date": "2026-10-29",
-     "close": 181.24,
-     "change": 14.28
-    }
-   ],
-   "market_cap": 4983155551.0,
-   "shares_outstanding": 27254187.0,
-   "industry": "Services-Management Consulting Services",
-   "state_of_incorporation": "MD",
-   "hq": "WASHINGTON, DC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-31T05:31:34+09:00"
-  },
-  {
-   "id": "0001213900-26-114418",
-   "company": "EQT Corp",
-   "ticker": "EQT",
-   "cik": 33213,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Rice, President and Chief Executive Officer of EQT, to CNBC regarding EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agreement”), by and among EQT, EQT Holdings L",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026114418/0001213900-26-114418-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026114418/ea0310379-425_eqtcorp.htm",
-   "filed_at": "2026-10-30T16:30:01-04:00",
-   "filed_kst": "2026-10-31 05:30",
-   "price": 55.38,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 55.38,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 55.38,
-     "change": 1.54
-    },
-    {
-     "date": "2026-10-29",
-     "close": 54.54,
-     "change": -2.99
-    }
-   ],
-   "market_cap": 34642903620.0,
-   "shares_outstanding": 625549000.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "PA",
-   "hq": "CANONSBURG, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-31T05:30:55+09:00"
   }
  ]
 }
