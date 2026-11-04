@@ -1,7 +1,487 @@
 {
- "updated_at": "2026-11-05T06:29:13+09:00",
+ "updated_at": "2026-11-05T06:34:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001070750-26-000152",
+   "company": "HOST HOTELS & RESORTS, INC.",
+   "ticker": "HST",
+   "cik": 1070750,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 72,
+   "summary": "The Company also holds non-controlling interests in seven domestic joint ventures.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1070750/000107075026000152/0001070750-26-000152-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1070750/000107075026000152/hst-ex991.htm",
+   "filed_at": "2026-11-04T16:33:28-05:00",
+   "filed_kst": "2026-11-05 06:33",
+   "price": 26.11,
+   "change": 1.28,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 26.11,
+     "change": 1.28
+    },
+    {
+     "date": "2026-11-03",
+     "close": 25.78,
+     "change": 0.82
+    },
+    {
+     "date": "2026-11-02",
+     "close": 25.57,
+     "change": 1.07
+    }
+   ],
+   "market_cap": 17888598058.0,
+   "shares_outstanding": 685124399.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "BETHESDA, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:34:16+09:00"
+  },
+  {
+   "id": "0001580345-26-000037",
+   "company": "TriplePoint Venture Growth BDC Corp.",
+   "ticker": "TPVG",
+   "cik": 1580345,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 73,
+   "summary": "confirmed TPVG’s investment grade rating, with a BBB (low) Long-Term Issuer rating, with a stable trend outlook; ▪ The Company’s Board of Directors authorized a 12-month stock repurchase program for the purpose of repurchasing up to an aggregate of $12.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1580345/000158034526000037/0001580345-26-000037-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1580345/000158034526000037/tpvgq32026earningsrelease.htm",
+   "filed_at": "2026-11-04T16:33:49-05:00",
+   "filed_kst": "2026-11-05 06:33",
+   "price": 4.67,
+   "change": 3.78,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 4.67,
+     "change": 3.78
+    },
+    {
+     "date": "2026-11-03",
+     "close": 4.5,
+     "change": -2.17
+    },
+    {
+     "date": "2026-11-02",
+     "close": 4.6,
+     "change": 1.55
+    }
+   ],
+   "market_cap": 190114406.0,
+   "shares_outstanding": 40709723.0,
+   "industry": null,
+   "state_of_incorporation": "MD",
+   "hq": "MENLO PARK, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:34:14+09:00"
+  },
+  {
+   "id": "0000851205-26-000079",
+   "company": "COGNEX CORP",
+   "ticker": "CGNX",
+   "cik": 851205,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "The all-cash transaction is expected to close during the fourth quarter of 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000079/0000851205-26-000079-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/851205/000085120526000079/a10042026-xex991xq32026ear.htm",
+   "filed_at": "2026-11-04T16:32:27-05:00",
+   "filed_kst": "2026-11-05 06:32",
+   "price": 53.06,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 53.06,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 53.06,
+     "change": -8.69
+    },
+    {
+     "date": "2026-11-03",
+     "close": 58.11,
+     "change": 3.01
+    }
+   ],
+   "market_cap": 8925957057.0,
+   "shares_outstanding": 168223842.0,
+   "industry": "Industrial Instruments For Measurement, Display, and Control",
+   "state_of_incorporation": "MA",
+   "hq": "NATICK, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:33:01+09:00"
+  },
+  {
+   "id": "0001213900-26-115962",
+   "company": "Citius Pharmaceuticals, Inc.",
+   "ticker": "CTXR",
+   "cik": 1506251,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Robust intellectual property protections that span orphan drug designation, complex technology, trade secrets, and pending patents for immuno-oncology use as a combination therapy with checkpoint inhibitors would further support Citius Oncology’s competitive positioning.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026115962/0001213900-26-115962-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026115962/ea031093101ex99-1.htm",
+   "filed_at": "2026-11-04T16:30:13-05:00",
+   "filed_kst": "2026-11-05 06:30",
+   "price": 0.55,
+   "change": -3.84,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 0.55,
+     "change": -3.84
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.57,
+     "change": 1.96
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.56,
+     "change": 7.46
+    }
+   ],
+   "market_cap": 15098914.0,
+   "shares_outstanding": 27452570.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "CRANFORD, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-05T06:31:19+09:00"
+  },
+  {
+   "id": "0001213900-26-115964",
+   "company": "CITIUS ONCOLOGY, INC.",
+   "ticker": "CTOR",
+   "cik": 1851484,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Robust intellectual property protections that span orphan drug designation, complex technology, trade secrets, and pending patents for immuno-oncology use as a combination therapy with checkpoint inhibitors would further support Citius Oncology’s competitive positioning.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026115964/0001213900-26-115964-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026115964/ea031092801ex99-1.htm",
+   "filed_at": "2026-11-04T16:30:14-05:00",
+   "filed_kst": "2026-11-05 06:30",
+   "price": 0.55,
+   "change": -0.55,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 0.55,
+     "change": -0.55
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.55,
+     "change": -7.41
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.59,
+     "change": 7.22
+    }
+   ],
+   "market_cap": 51139662.0,
+   "shares_outstanding": 92981204.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CRANFORD, NJ",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T06:31:17+09:00"
+  },
+  {
+   "id": "0001788999-26-000022",
+   "company": "Xperi Inc.",
+   "ticker": "XPER",
+   "cik": 1788999,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "Pay TV Continued revenue growth in video-over-broadband, along with key design wins, demonstrates partner commitment to the TiVo platform • Extended multi-year video-over-broadband agreements with Hotwire and Armstrong, including expanded commercial commitments.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1788999/000178899926000022/0001788999-26-000022-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1788999/000178899926000022/xper-ex99_1.htm",
+   "filed_at": "2026-11-04T16:30:16-05:00",
+   "filed_kst": "2026-11-05 06:30",
+   "price": 5.36,
+   "change": -0.56,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 5.36,
+     "change": -0.56
+    },
+    {
+     "date": "2026-11-03",
+     "close": 5.39,
+     "change": -0.55
+    },
+    {
+     "date": "2026-11-02",
+     "close": 5.42,
+     "change": 1.69
+    }
+   ],
+   "market_cap": 261416966.0,
+   "shares_outstanding": 48771822.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "SAN JOSE, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T06:31:13+09:00"
+  },
+  {
+   "id": "0001193125-26-447410",
+   "company": "MKS INC",
+   "ticker": "MKSI",
+   "cik": 1049502,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "Announces $500 Million Share Repurchase Program and Declares Quarterly Cash Dividend Andover, Mass.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1049502/000119312526447410/0001193125-26-447410-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1049502/000119312526447410/mksi-ex99_1.htm",
+   "filed_at": "2026-11-04T16:30:17-05:00",
+   "filed_kst": "2026-11-05 06:30",
+   "price": 194.95,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 194.95,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 194.95,
+     "change": -4.99
+    },
+    {
+     "date": "2026-11-03",
+     "close": 205.18,
+     "change": 4.4
+    }
+   ],
+   "market_cap": 13182042932.0,
+   "shares_outstanding": 67617558.0,
+   "industry": "Industrial Instruments For Measurement, Display, and Control",
+   "state_of_incorporation": "MA",
+   "hq": "ANDOVER, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:31:12+09:00"
+  },
+  {
+   "id": "0001213900-26-115966",
+   "company": "WORK Medical Technology Group LTD",
+   "ticker": "WOK",
+   "cik": 1929783,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 ea030720301ex99-1.htm NOTICE AND PROXY STATEMENT OF THE MEETING, DATED NOVEMBER 4, 2026, TO BE MAILED TO SHAREHOLDERS OF THE COMPANY IN CONNECTION WITH THE MEETING Exhibit 99.1 WORK MEDICAL TECHNOLOGY GROUP LTD (an exempted company with limited liability incorporated in the Cayman Islands)",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1929783/000121390026115966/0001213900-26-115966-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1929783/000121390026115966/ea030720301ex99-1.htm",
+   "filed_at": "2026-11-04T16:30:02-05:00",
+   "filed_kst": "2026-11-05 06:30",
+   "price": 1.04,
+   "change": -1.89,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 1.04,
+     "change": -1.89
+    },
+    {
+     "date": "2026-11-03",
+     "close": 1.06,
+     "change": 6.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 1.0,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 15175620.0,
+   "shares_outstanding": 14591942.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "China",
+   "hq": "AUCKLAND CITY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T06:30:37+09:00"
+  },
+  {
+   "id": "0001213900-26-115967",
+   "company": "INLIF Ltd",
+   "ticker": "INLF",
+   "cik": 1991592,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-3.1 2 ea031081301ex3-1.htm MEMORANDUM AND ARTICLES OF ASSOCIATION OF INLIF LIMITED, A BVI BUSINESS COMPANY CONTINUED INTO THE BRITISH VIRGIN ISLANDS ON NOVEMBER 2, 2026 Exhibit 3.1 Territory of the Virgin I s lands The BVI Business Companies Act, 2004 memorandum and articles of association of INL",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1991592/000121390026115967/0001213900-26-115967-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1991592/000121390026115967/ea031081301ex3-1.htm",
+   "filed_at": "2026-11-04T16:30:04-05:00",
+   "filed_kst": "2026-11-05 06:30",
+   "price": 0.31,
+   "change": -9.11,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 0.31,
+     "change": -9.11
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.34,
+     "change": 16.55
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.29,
+     "change": 56.76
+    }
+   ],
+   "market_cap": 1984000.0,
+   "shares_outstanding": 6400000.0,
+   "industry": "General Industrial Machinery & Equipment, NEC",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "NAN'AN CITY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T06:30:35+09:00"
+  },
   {
    "id": "0001193125-26-447366",
    "company": "Innoviva, Inc.",
@@ -15393,484 +15873,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-03T06:20:34+09:00"
-  },
-  {
-   "id": "0001306830-26-000129",
-   "company": "Celanese Corp",
-   "ticker": "CE",
-   "cik": 1306830,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 72,
-   "summary": "EX-99.2 3 q320268-kex992.htm EX-99.2 Document Exhibit 99.2 Non-U.S. GAAP Financial Measures and Supplemental Information November 2, 2026 In this document, the terms the \"Company,\" \"we\" and \"our\" refer to Celanese Corporation and its subsidiaries on a consolidated basis. Purpose The purpose of this ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1306830/000130683026000129/0001306830-26-000129-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1306830/000130683026000129/q320268-kex992.htm",
-   "filed_at": "2026-11-02T16:17:10-05:00",
-   "filed_kst": "2026-11-03 06:17",
-   "price": 47.89,
-   "change": -2.86,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 47.89,
-     "change": -2.86
-    },
-    {
-     "date": "2026-10-30",
-     "close": 49.3,
-     "change": 2.03
-    },
-    {
-     "date": "2026-10-29",
-     "close": 48.32,
-     "change": -1.08
-    }
-   ],
-   "market_cap": 5255876066.0,
-   "shares_outstanding": 109748926.0,
-   "industry": "Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",
-   "state_of_incorporation": "DE",
-   "hq": "IRVING, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:18:11+09:00"
-  },
-  {
-   "id": "0001035267-26-000074",
-   "company": "INTUITIVE SURGICAL INC",
-   "ticker": "ISRG",
-   "cik": 1035267,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "He also led brand and performance marketing and strategic partnerships for Amazon Health Services.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000074/0001035267-26-000074-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000074/q426ex-991electionofdirect.htm",
-   "filed_at": "2026-11-02T16:17:33-05:00",
-   "filed_kst": "2026-11-03 06:17",
-   "price": 436.87,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 436.87,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 436.87,
-     "change": 1.12
-    },
-    {
-     "date": "2026-10-30",
-     "close": 432.01,
-     "change": -3.73
-    }
-   ],
-   "market_cap": 151438241083.0,
-   "shares_outstanding": 346643718.0,
-   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "SUNNYVALE, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:18:09+09:00"
-  },
-  {
-   "id": "0001213900-26-114940",
-   "company": "FG Imperii Acquisition Corp.",
-   "ticker": "FGII",
-   "cik": 2090452,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "(Nasdaq: FGII) (“FG Imperii”), a publicly traded special purpose acquisition company, today announced that they have entered into a definitive business combination agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026114940/0001213900-26-114940-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026114940/ea031050701-425_tzero.htm",
-   "filed_at": "2026-11-02T16:16:05-05:00",
-   "filed_kst": "2026-11-03 06:16",
-   "price": 10.09,
-   "change": 0.5,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 10.09,
-     "change": 0.5
-    },
-    {
-     "date": "2026-10-30",
-     "close": 10.04,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 10.04,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 292004600.0,
-   "shares_outstanding": 28940000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "ITASCA, IL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-03T06:17:34+09:00"
-  },
-  {
-   "id": "0001193125-26-443681",
-   "company": "ON SEMICONDUCTOR CORP",
-   "ticker": "ON",
-   "cik": 1097864,
-   "form": "8-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 87,
-   "summary": "EX-99.1 3 d185557dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 onsemi to Acquire Ferric, Establishing Leadership in Power Delivery for Next-Generation AI Processors Acquisition expands AI Data Center revenue opportunity News Highlights: • Establishes onsemi as a leader in integrated voltage regulator (IVR",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312526443681/0001193125-26-443681-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312526443681/d185557dex991.htm",
-   "filed_at": "2026-11-02T16:15:52-05:00",
-   "filed_kst": "2026-11-03 06:15",
-   "price": 70.11,
-   "change": -2.18,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 70.11,
-     "change": -2.18
-    },
-    {
-     "date": "2026-10-30",
-     "close": 71.67,
-     "change": -4.74
-    },
-    {
-     "date": "2026-10-29",
-     "close": 75.24,
-     "change": -0.52
-    }
-   ],
-   "market_cap": 27294644759.0,
-   "shares_outstanding": 389311721.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "DE",
-   "hq": "SCOTTSDALE, AZ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:16:54+09:00"
-  },
-  {
-   "id": "0001628280-26-068886",
-   "company": "Voyager Technologies, Inc./TX",
-   "ticker": "VOYG",
-   "cik": 1788060,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 79,
-   "summary": "6 million in cash and cash equivalents Business Highlights • Announced Anduril strategic partnership to deliver advanced defense technologies • Awarded multi-million dollar contract for agentic AI spectrum operations platform • Secured $298 million NASA award through Astrobotic, expanding lunar back",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1788060/000162828026068886/0001628280-26-068886-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1788060/000162828026068886/q32026-earningsreleasexex9.htm",
-   "filed_at": "2026-11-02T16:15:58-05:00",
-   "filed_kst": "2026-11-03 06:15",
-   "price": 24.59,
-   "change": -6.96,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 24.59,
-     "change": -6.96
-    },
-    {
-     "date": "2026-10-30",
-     "close": 26.43,
-     "change": -4.93
-    },
-    {
-     "date": "2026-10-29",
-     "close": 27.8,
-     "change": 2.43
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Guided Missiles & Space Vehicles & Parts",
-   "state_of_incorporation": "TX",
-   "hq": "DENVER, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-03T06:16:51+09:00"
-  },
-  {
-   "id": "0001535929-26-000185",
-   "company": "Voya Financial, Inc.",
-   "ticker": "VOYA",
-   "cik": 1535929,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 66,
-   "summary": "◦ A $500 million increase in the company’s share repurchase authorization, in addition to approximately $163 million of remaining capacity as of Sep.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1535929/000153592926000185/0001535929-26-000185-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1535929/000153592926000185/a2026q3voyainvestorsupplem.htm",
-   "filed_at": "2026-11-02T16:16:08-05:00",
-   "filed_kst": "2026-11-03 06:16",
-   "price": 99.42,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 99.42,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 99.42,
-     "change": 1.4
-    },
-    {
-     "date": "2026-10-30",
-     "close": 98.05,
-     "change": -0.35
-    }
-   ],
-   "market_cap": 9007089018.0,
-   "shares_outstanding": 90596349.0,
-   "industry": "Life Insurance",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:16:50+09:00"
-  },
-  {
-   "id": "0000314808-26-000153",
-   "company": "Valaris Ltd",
-   "ticker": "VAL",
-   "cik": 314808,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The priced extension will add approximately $25 million to contracted revenue backlog.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/314808/000031480826000153/0000314808-26-000153-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/314808/000031480826000153/fsrex99_2november2026.htm",
-   "filed_at": "2026-11-02T16:16:10-05:00",
-   "filed_kst": "2026-11-03 06:16",
-   "price": 94.69,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 94.69,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 94.69,
-     "change": -10.08
-    },
-    {
-     "date": "2026-10-30",
-     "close": 105.31,
-     "change": 3.54
-    }
-   ],
-   "market_cap": 6574876565.0,
-   "shares_outstanding": 69435807.0,
-   "industry": "Drilling Oil & Gas Wells",
-   "state_of_incorporation": null,
-   "hq": "HAMILTON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:16:46+09:00"
-  },
-  {
-   "id": "0001178913-26-004966",
-   "company": "Perion Network Ltd.",
-   "ticker": "PERI",
-   "cik": 1338940,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 81,
-   "summary": "Share Repurchase Program: In November 2025, Perion’s Board of Directors approved a $75 million expansion of the previously authorized share repurchase program of $125 million of its outstanding shares, to a total of $200 million.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1338940/000117891326004966/0001178913-26-004966-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1338940/000117891326004966/exhibit_99-1.htm",
-   "filed_at": "2026-11-02T16:15:06-05:00",
-   "filed_kst": "2026-11-03 06:15",
-   "price": 11.41,
-   "change": 31.15,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 11.41,
-     "change": 31.15
-    },
-    {
-     "date": "2026-10-30",
-     "close": 8.7,
-     "change": -1.58
-    },
-    {
-     "date": "2026-10-29",
-     "close": 8.84,
-     "change": 1.84
-    }
-   ],
-   "market_cap": 445274839.0,
-   "shares_outstanding": 39024964.0,
-   "industry": "Services-Computer Programming Services",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV, L3",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:16:13+09:00"
-  },
-  {
-   "id": "0000314808-26-000152",
-   "company": "Valaris Ltd",
-   "ticker": "VAL",
-   "cik": 314808,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "EX-99.1 2 a09302026ex991pressrelease.htm EX-99.1 Document www.valaris.com Press Release Valaris Reports Third Quarter 2026 Results Hamilton, Bermuda, November 2, 2026… Valaris Limited (NYSE: VAL) (\"Valaris\" or the \"Company\") today reported third quarter 2026 results. President and Chief Executive Of",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/314808/000031480826000152/0000314808-26-000152-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/314808/000031480826000152/a09302026ex991pressrelease.htm",
-   "filed_at": "2026-11-02T16:15:16-05:00",
-   "filed_kst": "2026-11-03 06:15",
-   "price": 94.69,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 94.69,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 94.69,
-     "change": -10.08
-    },
-    {
-     "date": "2026-10-30",
-     "close": 105.31,
-     "change": 3.54
-    }
-   ],
-   "market_cap": 6574876565.0,
-   "shares_outstanding": 69435807.0,
-   "industry": "Drilling Oil & Gas Wells",
-   "state_of_incorporation": null,
-   "hq": "HAMILTON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:16:11+09:00"
   }
  ]
 }
