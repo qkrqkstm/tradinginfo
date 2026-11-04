@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-04T22:29:32+09:00",
+ "updated_at": "2026-11-04T22:34:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000751364-26-000002",
+   "company": "NNN REIT, INC.",
+   "ticker": "NNN",
+   "cik": 751364,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "59 • Increased 2026 disposition volume guidance to a new range of $160 - $180 million Steve Horn, Chief Executive Officer, commented: \"We are pleased to report strong third quarter results, highlighted by continued healthy portfolio trends, solid investment activ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/751364/000075136426000002/0000751364-26-000002-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/751364/000075136426000002/nnn-ex99_1.htm",
+   "filed_at": "2026-11-04T08:30:15-05:00",
+   "filed_kst": "2026-11-04 22:30",
+   "price": 41.69,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 41.69,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 41.69,
+     "change": -0.02
+    },
+    {
+     "date": "2026-11-02",
+     "close": 41.7,
+     "change": 1.71
+    }
+   ],
+   "market_cap": 8001620066.0,
+   "shares_outstanding": 191931400.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "ORLANDO, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T22:31:09+09:00"
+  },
   {
    "id": "0001104659-26-122401",
    "company": "Ocugen, Inc.",
@@ -15706,56 +15760,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-02T20:05:39+09:00"
-  },
-  {
-   "id": "0001185185-26-005108",
-   "company": "Cartesian Growth Corp II",
-   "ticker": "RENEF",
-   "cik": 1889112,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "InoBat is also advancing a strategic partnership with Clarios and Altris on next-generation cell technology and participates in a gigafactory joint venture with Gotion High-Tech Co.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1889112/000118518526005108/0001185185-26-005108-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1889112/000118518526005108/inobatas425103026.htm",
-   "filed_at": "2026-10-30T17:41:09-04:00",
-   "filed_kst": "2026-10-31 06:41",
-   "price": 12.71,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 12.71,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 12.71,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 12.71,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-02T20:01:33+09:00"
   }
  ]
 }
