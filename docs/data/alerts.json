@@ -1,7 +1,273 @@
 {
- "updated_at": "2026-11-04T21:09:13+09:00",
+ "updated_at": "2026-11-04T21:14:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-446203",
+   "company": "GERON CORP",
+   "ticker": "GERN",
+   "cik": 886744,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Developed and exclusively owned by Geron, RYTELO is the first and only telomerase inhibitor approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/886744/000119312526446203/0001193125-26-446203-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/886744/000119312526446203/d188608dex991.htm",
+   "filed_at": "2026-11-04T07:12:12-05:00",
+   "filed_kst": "2026-11-04 21:12",
+   "price": 0.93,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 0.93,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.93,
+     "change": 4.49
+    },
+    {
+     "date": "2026-10-30",
+     "close": 0.89,
+     "change": -6.32
+    }
+   ],
+   "market_cap": 597500270.0,
+   "shares_outstanding": 642473409.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "FOSTER CITY, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T21:13:09+09:00"
+  },
+  {
+   "id": "0001193125-26-446202",
+   "company": "Rapport Therapeutics, Inc.",
+   "ticker": "RAPP",
+   "cik": 2012593,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 79,
+   "summary": "1 – The trial met its primary endpoint, with a statistically significant 3.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526446202/0001193125-26-446202-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526446202/rapp-ex99_1.htm",
+   "filed_at": "2026-11-04T07:12:15-05:00",
+   "filed_kst": "2026-11-04 21:12",
+   "price": 25.44,
+   "change": 1.23,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 25.44,
+     "change": 1.23
+    },
+    {
+     "date": "2026-11-02",
+     "close": 25.13,
+     "change": 0.32
+    },
+    {
+     "date": "2026-10-30",
+     "close": 25.05,
+     "change": 3.47
+    }
+   ],
+   "market_cap": 1220567596.0,
+   "shares_outstanding": 47978286.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-04T21:13:07+09:00"
+  },
+  {
+   "id": "0001104659-26-122362",
+   "company": "uniQure N.V.",
+   "ticker": "QURE",
+   "cik": 1590560,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "대형계약"
+   ],
+   "confidence": 70,
+   "summary": "1 uniQure Announces Third Quarter 2026 Financial Results and Provides Company Update ~ FDA granted priority review of BLA for ifezuntirgene inilparvovec (AMT-130) in Huntington’s disease; PDUFA target action date of May 1, 2027 ~ ~ Aligned with FDA on key elements of confirmatory study design; U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1590560/000110465926122362/0001104659-26-122362-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1590560/000110465926122362/tm2628930d1_ex99-1.htm",
+   "filed_at": "2026-11-04T07:10:24-05:00",
+   "filed_kst": "2026-11-04 21:10",
+   "price": 23.87,
+   "change": 3.92,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 23.87,
+     "change": 3.92
+    },
+    {
+     "date": "2026-11-02",
+     "close": 22.97,
+     "change": -7.49
+    },
+    {
+     "date": "2026-10-30",
+     "close": 24.83,
+     "change": -1.86
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "AMSTERDAM",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T21:11:01+09:00"
+  },
+  {
+   "id": "0001831651-26-000121",
+   "company": "Shoals Technologies Group, Inc.",
+   "ticker": "SHLS",
+   "cik": 1831651,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "Webcast and Conference Call Information In a separate press release issued today, the Company announced it had entered into an Agreement and Plan of Merger and Reorganization with ARRAY Technologies, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1831651/000183165126000121/0001831651-26-000121-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1831651/000183165126000121/exhibit991earningsrelease2.htm",
+   "filed_at": "2026-11-04T07:10:26-05:00",
+   "filed_kst": "2026-11-04 21:10",
+   "price": 8.47,
+   "change": 11.45,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 8.47,
+     "change": 11.45
+    },
+    {
+     "date": "2026-11-02",
+     "close": 7.6,
+     "change": 5.56
+    },
+    {
+     "date": "2026-10-30",
+     "close": 7.2,
+     "change": -4.64
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "PORTLAND, TN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-04T21:10:59+09:00"
+  },
+  {
+   "id": "0001709048-26-000259",
+   "company": "GLOBALFOUNDRIES Inc.",
+   "ticker": "GFS",
+   "cik": 1709048,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 61,
+   "summary": "• In September 2026, GF expanded its multi-year agreement with Marvell to increase manufacturing capacity for GF’s high-performance silicon germanium (SiGe) technology at its Burlington, Vermont facility.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1709048/000170904826000259/0001709048-26-000259-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1709048/000170904826000259/globalfoundries3q2026earni.htm",
+   "filed_at": "2026-11-04T07:09:30-05:00",
+   "filed_kst": "2026-11-04 21:09",
+   "price": 42.89,
+   "change": 2.56,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 42.89,
+     "change": 2.56
+    },
+    {
+     "date": "2026-11-02",
+     "close": 41.82,
+     "change": -0.19
+    },
+    {
+     "date": "2026-10-30",
+     "close": 41.9,
+     "change": -8.62
+    }
+   ],
+   "market_cap": 23842055835.0,
+   "shares_outstanding": 555888455.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "MALTA, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T21:10:27+09:00"
+  },
   {
    "id": "0001402057-26-000113",
    "company": "CDW Corp",
@@ -15439,268 +15705,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-31T05:30:51+09:00"
-  },
-  {
-   "id": "0001437749-26-034218",
-   "company": "STANDEX INTERNATIONAL CORP/DE/",
-   "ticker": "SXI",
-   "cik": 310354,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "2%, Up 110 bps YOY ● Raising FY27 Outlook; Organic Sales to Increase >$100 Million and Adjusted Earnings per Share to Grow High Teens ● Announced New $100 Million Share Repurchase Authorization Supported by Strong Balance Sheet and Liquidity Position SALEM, NH – October 29, 2026 – Standex Internatio",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/310354/000143774926034218/0001437749-26-034218-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/310354/000143774926034218/ex_1034342.htm",
-   "filed_at": "2026-10-30T16:28:28-04:00",
-   "filed_kst": "2026-10-31 05:28",
-   "price": 241.06,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 241.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 241.05,
-     "change": -2.87
-    },
-    {
-     "date": "2026-10-29",
-     "close": 248.19,
-     "change": 1.49
-    }
-   ],
-   "market_cap": 2917720333.0,
-   "shares_outstanding": 12103710.0,
-   "industry": "Refrigeration & Service Industry Machinery",
-   "state_of_incorporation": "DE",
-   "hq": "SALEM, NH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-31T05:29:21+09:00"
-  },
-  {
-   "id": "0001062993-26-005628",
-   "company": "Hudbay Minerals Inc.",
-   "ticker": "HBM",
-   "cik": 1322422,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "ITEM 4 Summary of Material Change On October 21, 2026, Hudbay and its joint venture partner Mitsubishi Corporation (\" Mitsubishi \") announced the final investment decision to proceed with the construction and development of the Copper World project (\" Copper World \").",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1322422/000106299326005628/0001062993-26-005628-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1322422/000106299326005628/exhibit99-1.htm",
-   "filed_at": "2026-10-30T16:27:04-04:00",
-   "filed_kst": "2026-10-31 05:27",
-   "price": 21.7,
-   "change": -7.11,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 21.7,
-     "change": -7.11
-    },
-    {
-     "date": "2026-10-29",
-     "close": 23.36,
-     "change": -1.02
-    },
-    {
-     "date": "2026-10-28",
-     "close": 23.6,
-     "change": 0.9
-    }
-   ],
-   "market_cap": 8582825295.0,
-   "shares_outstanding": 395521903.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": null,
-   "hq": "TORONTO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-31T05:27:40+09:00"
-  },
-  {
-   "id": "0001193125-26-441737",
-   "company": "US BANCORP DE",
-   "ticker": "USB",
-   "cik": 36104,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "EX-4.3 6 d20659dex43.htm EX-4.3 EX-4.3 Exhibit 4.3 Execution Version DEPOSIT AGREEMENT among U.S. BANCORP, U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, as Depositary, and THE HOLDERS FROM TIME TO TIME OF THE DEPOSITARY RECEIPTS DESCRIBED HEREIN Dated as of October 30, 2026 Page ARTICLE I DEFINED T",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/36104/000119312526441737/0001193125-26-441737-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/36104/000119312526441737/d20659dex43.htm",
-   "filed_at": "2026-10-30T16:27:01-04:00",
-   "filed_kst": "2026-10-31 05:27",
-   "price": 59.45,
-   "change": -1.96,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 59.45,
-     "change": -1.96
-    },
-    {
-     "date": "2026-10-29",
-     "close": 60.64,
-     "change": 1.74
-    },
-    {
-     "date": "2026-10-28",
-     "close": 59.6,
-     "change": -0.23
-    }
-   ],
-   "market_cap": 92626158465.0,
-   "shares_outstanding": 1558051446.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "MINNEAPOLIS, MN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-31T05:27:38+09:00"
-  },
-  {
-   "id": "0001213900-26-114403",
-   "company": "Silicon Valley Acquisition Corp.",
-   "ticker": "SVAQ",
-   "cik": 2085659,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "As previously publicly-disclosed, on June 17, 2026, EigenQ and SVAQ entered into a definitive Business Combination Agreement (as amended, and as may be further amended, modified or supplemented, the \"Business Combination Agreement\" or \"BCA\") to consummate a proposed Business Combination transaction ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026114403/0001213900-26-114403-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2085659/000121390026114403/ea030980001ex99-2.htm",
-   "filed_at": "2026-10-30T16:16:42-04:00",
-   "filed_kst": "2026-10-31 05:16",
-   "price": 10.15,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 10.15,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-29",
-     "close": 10.16,
-     "change": -0.1
-    },
-    {
-     "date": "2026-10-28",
-     "close": 10.17,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-31T05:18:39+09:00"
-  },
-  {
-   "id": "0000893847-26-000096",
-   "company": "HAWTHORN BANCSHARES, INC.",
-   "ticker": "HWBK",
-   "cik": 893847,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 68,
-   "summary": "The Board of Directors amended the plan on July 29, 2026 to increase the authorized repurchase limit to $10 million.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000096/0000893847-26-000096-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/893847/000089384726000096/q32026earnings-ex991926.htm",
-   "filed_at": "2026-10-30T16:17:26-04:00",
-   "filed_kst": "2026-10-31 05:17",
-   "price": 38.96,
-   "change": -1.86,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 38.96,
-     "change": -1.86
-    },
-    {
-     "date": "2026-10-29",
-     "close": 39.7,
-     "change": 1.33
-    },
-    {
-     "date": "2026-10-28",
-     "close": 39.18,
-     "change": -0.36
-    }
-   ],
-   "market_cap": 268850415.0,
-   "shares_outstanding": 6900678.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": "MO",
-   "hq": "JEFFERSON CITY, MO",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-31T05:18:06+09:00"
   }
  ]
 }
