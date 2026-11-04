@@ -1,7 +1,173 @@
 {
- "updated_at": "2026-11-04T21:34:17+09:00",
+ "updated_at": "2026-11-04T21:39:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-446219",
+   "company": "NewAmsterdam Pharma Co N.V.",
+   "ticker": "NAMS",
+   "cik": 1936258,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 86,
+   "summary": "EX-99.1 2 nams-ex99_1.htm EX-99.1 EX-99.1 NewAmsterdam Pharma Provides Corporate Update and Reports Third Quarter Financial Results – Received European Commission approval for Ubeslo® (obicetrapib monotherapy) and Evlarco® (obicetrapib plus ezetimibe fixed-dose combination), marking the first regula",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1936258/000119312526446219/0001193125-26-446219-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1936258/000119312526446219/nams-ex99_1.htm",
+   "filed_at": "2026-11-04T07:35:15-05:00",
+   "filed_kst": "2026-11-04 21:35",
+   "price": 19.9,
+   "change": 1.74,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 19.9,
+     "change": 1.74
+    },
+    {
+     "date": "2026-11-02",
+     "close": 19.56,
+     "change": -2.49
+    },
+    {
+     "date": "2026-10-30",
+     "close": 20.06,
+     "change": -3.37
+    }
+   ],
+   "market_cap": 2378789663.0,
+   "shares_outstanding": 119537169.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Netherlands",
+   "hq": "NARRDEN, P7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T21:36:00+09:00"
+  },
+  {
+   "id": "0002046386-26-000060",
+   "company": "Medline Inc.",
+   "ticker": "MDLN",
+   "cik": 2046386,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "4 billion • Board of Directors authorized a $1 billion share repurchase program NORTHFIELD, Ill.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2046386/000204638626000060/0002046386-26-000060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2046386/000204638626000060/ex9913q26pressrelease.htm",
+   "filed_at": "2026-11-04T07:34:28-05:00",
+   "filed_kst": "2026-11-04 21:34",
+   "price": 34.09,
+   "change": 1.37,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 34.09,
+     "change": 1.37
+    },
+    {
+     "date": "2026-11-02",
+     "close": 33.63,
+     "change": 4.7
+    },
+    {
+     "date": "2026-10-30",
+     "close": 32.12,
+     "change": 0.37
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "NORTHFIELD, IL",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-04T21:35:28+09:00"
+  },
+  {
+   "id": "0000352825-26-000055",
+   "company": "FOSTER L B CO",
+   "ticker": "FSTR",
+   "cik": 352825,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 78,
+   "summary": "Consistent with that strategy, as reported in our press release dated October 29, 2026, we completed the acquisition of the operating assets of the residential wastewater precast business and the Aeris aerobic treatment systems platform of Dulworth Enterprises Inc.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352825/000035282526000055/0000352825-26-000055-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/352825/000035282526000055/ex-991q32026.htm",
+   "filed_at": "2026-11-04T07:34:44-05:00",
+   "filed_kst": "2026-11-04 21:34",
+   "price": 36.46,
+   "change": -0.6,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 36.46,
+     "change": -0.6
+    },
+    {
+     "date": "2026-11-02",
+     "close": 36.68,
+     "change": 2.32
+    },
+    {
+     "date": "2026-10-30",
+     "close": 35.85,
+     "change": -1.48
+    }
+   ],
+   "market_cap": 383550559.0,
+   "shares_outstanding": 10519763.0,
+   "industry": "Wholesale-Metals Service Centers & of fices",
+   "state_of_incorporation": "PA",
+   "hq": "PITTSBURGH, PA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-04T21:35:25+09:00"
+  },
   {
    "id": "0001104659-26-122368",
    "company": "Riot Platforms, Inc.",
@@ -15555,160 +15721,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-31T06:01:21+09:00"
-  },
-  {
-   "id": "0000895345-26-000475",
-   "company": "GRUPO TELEVISA, S.A.B.",
-   "ticker": "TV",
-   "cik": 912892,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "0 million decrease in share of income in associates and joint ventures; and (ii) a Ps.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000475/0000895345-26-000475-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000475/ff7010096_6k.htm",
-   "filed_at": "2026-10-30T16:32:16-04:00",
-   "filed_kst": "2026-10-31 05:32",
-   "price": 2.09,
-   "change": -2.34,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 2.09,
-     "change": -2.34
-    },
-    {
-     "date": "2026-10-29",
-     "close": 2.14,
-     "change": -1.38
-    },
-    {
-     "date": "2026-10-28",
-     "close": 2.17,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": null,
-   "hq": "MEXICO, D.F.",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-31T05:32:51+09:00"
-  },
-  {
-   "id": "0001104659-26-120693",
-   "company": "NetClass Technology Inc",
-   "ticker": "NTCL",
-   "cik": 1927578,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The Company’s services include SaaS subscription services and application software development, and, through its joint venture, interactive AI companion smart hardware, with solutions spanning teaching and campus management, online teaching, examinations, epidemic prevention, data storage, EDC (Educ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1927578/000110465926120693/0001104659-26-120693-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1927578/000110465926120693/tm2628649d1_ex99-1.htm",
-   "filed_at": "2026-10-30T16:30:10-04:00",
-   "filed_kst": "2026-10-31 05:30",
-   "price": 0.4,
-   "change": 0.1,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 0.4,
-     "change": 0.1
-    },
-    {
-     "date": "2026-10-30",
-     "close": 0.4,
-     "change": -25.44
-    },
-    {
-     "date": "2026-10-29",
-     "close": 0.54,
-     "change": -22.64
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-31T05:31:41+09:00"
-  },
-  {
-   "id": "0001753926-26-002036",
-   "company": "Vivani Medical, Inc.",
-   "ticker": "VANI",
-   "cik": 1266806,
-   "form": "8-K",
-   "items": [
-    "7.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“Vivani”) entered into a definitive agreement and plan of merger among its wholly owned subsidiary Cortigent, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1266806/000175392626002036/0001753926-26-002036-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1266806/000175392626002036/vani-20261030.htm",
-   "filed_at": "2026-10-30T16:30:18-04:00",
-   "filed_kst": "2026-10-31 05:30",
-   "price": 1.09,
-   "change": -4.39,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 1.09,
-     "change": -4.39
-    },
-    {
-     "date": "2026-10-29",
-     "close": 1.14,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 1.14,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 98321658.0,
-   "shares_outstanding": 90203356.0,
-   "industry": "Electromedical & Electrotherapeutic Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "ALAMEDA, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-10-31T05:31:35+09:00"
   }
  ]
 }
