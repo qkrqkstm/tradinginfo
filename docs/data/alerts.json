@@ -1,7 +1,225 @@
 {
- "updated_at": "2026-11-04T20:29:32+09:00",
+ "updated_at": "2026-11-04T20:34:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002041385-26-000070",
+   "company": "Ralliant Corp",
+   "ticker": "RAL",
+   "cik": 2041385,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "At the end of the third quarter, $400 million remained under the Company’s share repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2041385/000204138526000070/0002041385-26-000070-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2041385/000204138526000070/ralq32026-ex991.htm",
+   "filed_at": "2026-11-04T06:33:28-05:00",
+   "filed_kst": "2026-11-04 20:33",
+   "price": 71.31,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 71.31,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 71.31,
+     "change": 7.54
+    },
+    {
+     "date": "2026-11-02",
+     "close": 66.31,
+     "change": -1.34
+    }
+   ],
+   "market_cap": 7889738970.0,
+   "shares_outstanding": 110640008.0,
+   "industry": "Industrial Instruments For Measurement, Display, and Control",
+   "state_of_incorporation": "DE",
+   "hq": "RALEIGH, NC",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:34:01+09:00"
+  },
+  {
+   "id": "0001082554-26-000036",
+   "company": "UNITED THERAPEUTICS Corp",
+   "ticker": "UTHR",
+   "cik": 1082554,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 77,
+   "summary": "The decrease in interest income was primarily due to a decrease in marketable investments due to the sale of securities to fund our three accelerated share repurchase agreements with Citibank, N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000036/0001082554-26-000036-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000036/uthrq32026-ex991.htm",
+   "filed_at": "2026-11-04T06:31:39-05:00",
+   "filed_kst": "2026-11-04 20:31",
+   "price": 601.32,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 601.32,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 601.32,
+     "change": 0.87
+    },
+    {
+     "date": "2026-11-02",
+     "close": 596.13,
+     "change": -0.43
+    }
+   ],
+   "market_cap": 25791030913.0,
+   "shares_outstanding": 42890692.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SILVER SPRING, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:32:09+09:00"
+  },
+  {
+   "id": "0001193125-26-446147",
+   "company": "Ridgepost Capital, Inc.",
+   "ticker": "RPC",
+   "cik": 1841968,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "” Stock Repurchase Program During the third quarter, we repurchased approximately 1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841968/000119312526446147/0001193125-26-446147-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1841968/000119312526446147/rpc-ex99_2.htm",
+   "filed_at": "2026-11-04T06:30:24-05:00",
+   "filed_kst": "2026-11-04 20:30",
+   "price": 9.4,
+   "change": -2.19,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 9.4,
+     "change": -2.19
+    },
+    {
+     "date": "2026-11-02",
+     "close": 9.61,
+     "change": 4.23
+    },
+    {
+     "date": "2026-10-30",
+     "close": 9.22,
+     "change": -0.75
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Investment Advice",
+   "state_of_incorporation": "DE",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:31:32+09:00"
+  },
+  {
+   "id": "0001193125-26-446144",
+   "company": "TREX CO INC",
+   "ticker": "TREX",
+   "cik": 1069878,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 78,
+   "summary": "The Company anticipates completing its Board-authorized $150 million share repurchase program by year-end, bringing total share repurchases during 2026 to approximately $300 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069878/000119312526446144/0001193125-26-446144-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1069878/000119312526446144/trex-ex99_1.htm",
+   "filed_at": "2026-11-04T06:30:15-05:00",
+   "filed_kst": "2026-11-04 20:30",
+   "price": 50.0,
+   "change": -1.07,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 50.0,
+     "change": -1.07
+    },
+    {
+     "date": "2026-11-02",
+     "close": 50.54,
+     "change": -1.17
+    },
+    {
+     "date": "2026-10-30",
+     "close": 51.14,
+     "change": 0.57
+    }
+   ],
+   "market_cap": 5093259500.0,
+   "shares_outstanding": 101865190.0,
+   "industry": "Lumber & Wood Products (No Furniture)",
+   "state_of_incorporation": "DE",
+   "hq": "WINCHESTER, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:30:37+09:00"
+  },
   {
    "id": "0001876042-26-000309",
    "company": "Circle Internet Group, Inc.",
@@ -15464,206 +15682,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-31T03:32:57+09:00"
-  },
-  {
-   "id": "0001104659-26-120476",
-   "company": "Troops, Inc. /Cayman Islands/",
-   "ticker": "TROO",
-   "cik": 1412095,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The Term Sheet will become binding on November 1, 2026 and sets out principal terms and conditions upon which the parties shall execute a license agreement (the “License Agreement”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1412095/000110465926120476/0001104659-26-120476-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1412095/000110465926120476/tm2628621d1_ex99-1.htm",
-   "filed_at": "2026-10-30T10:30:23-04:00",
-   "filed_kst": "2026-10-30 23:30",
-   "price": 2.15,
-   "change": -7.14,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 2.14,
-     "change": -7.14
-    },
-    {
-     "date": "2026-10-29",
-     "close": 2.31,
-     "change": 6.94
-    },
-    {
-     "date": "2026-10-28",
-     "close": 2.16,
-     "change": -4.0
-    }
-   ],
-   "market_cap": 262644357.0,
-   "shares_outstanding": 122160166.0,
-   "industry": "Miscellaneous Business Credit Institution",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW TERRITORIES HONG KONG",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-10-30T23:31:16+09:00"
-  },
-  {
-   "id": "0001104659-26-120456",
-   "company": "Sony Group Corp",
-   "ticker": "SONY",
-   "cik": 313838,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "- 3 - (2) Handling in the event where reorganization or any other similar events occur If a proposal with respect to a merger agreement under which the Corporation will be dissolved, a share exchange agreement or a share transfer plan under which the Corporation will become a wholly-owned subsidiary",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926120456/0001104659-26-120456-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926120456/tm2628525d1_6k.htm",
-   "filed_at": "2026-10-30T09:16:26-04:00",
-   "filed_kst": "2026-10-30 22:16",
-   "price": 25.47,
-   "change": 0.99,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 25.47,
-     "change": 0.99
-    },
-    {
-     "date": "2026-10-28",
-     "close": 25.22,
-     "change": -1.64
-    },
-    {
-     "date": "2026-10-27",
-     "close": 25.64,
-     "change": -1.5
-    }
-   ],
-   "market_cap": 31856522702.0,
-   "shares_outstanding": 1250746867.0,
-   "industry": "Household Audio & Video Equipment",
-   "state_of_incorporation": "Japan",
-   "hq": "TOKYO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T22:17:12+09:00"
-  },
-  {
-   "id": "0001104659-26-120454",
-   "company": "Sony Group Corp",
-   "ticker": "SONY",
-   "cik": 313838,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(2) Handling in the event where reorganization or any other similar events occur If a proposal with respect to a merger agreement under which the Corporation will be dissolved, a share exchange agreement or a share transfer plan under which the Corporation will become a wholly-owned subsidiary, or a",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926120454/0001104659-26-120454-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926120454/tm2628525d3_6k.htm",
-   "filed_at": "2026-10-30T09:15:37-04:00",
-   "filed_kst": "2026-10-30 22:15",
-   "price": 25.47,
-   "change": 0.99,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 25.47,
-     "change": 0.99
-    },
-    {
-     "date": "2026-10-28",
-     "close": 25.22,
-     "change": -1.64
-    },
-    {
-     "date": "2026-10-27",
-     "close": 25.64,
-     "change": -1.5
-    }
-   ],
-   "market_cap": 31856522702.0,
-   "shares_outstanding": 1250746867.0,
-   "industry": "Household Audio & Video Equipment",
-   "state_of_incorporation": "Japan",
-   "hq": "TOKYO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T22:16:07+09:00"
-  },
-  {
-   "id": "0001104659-26-120452",
-   "company": "Sony Group Corp",
-   "ticker": "SONY",
-   "cik": 313838,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Handling in the event where reorganization or any other events occur If a proposal with respect to a merger agreement in which the Corporation is dissolved, a share exchange agreement or a share transfer plan in which the Corporation becomes a wholly-owned subsidiary, or any other reorganization is ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926120452/0001104659-26-120452-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926120452/tm2628525d2_6k.htm",
-   "filed_at": "2026-10-30T09:14:30-04:00",
-   "filed_kst": "2026-10-30 22:14",
-   "price": 25.47,
-   "change": 0.99,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 25.47,
-     "change": 0.99
-    },
-    {
-     "date": "2026-10-28",
-     "close": 25.22,
-     "change": -1.64
-    },
-    {
-     "date": "2026-10-27",
-     "close": 25.64,
-     "change": -1.5
-    }
-   ],
-   "market_cap": 31856522702.0,
-   "shares_outstanding": 1250746867.0,
-   "industry": "Household Audio & Video Equipment",
-   "state_of_incorporation": "Japan",
-   "hq": "TOKYO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T22:15:33+09:00"
   }
  ]
 }
