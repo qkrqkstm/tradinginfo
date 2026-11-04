@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-05T07:09:32+09:00",
+ "updated_at": "2026-11-05T07:14:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-447608",
+   "company": "Evommune, Inc.",
+   "ticker": "EVMN",
+   "cik": 2044725,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "(SSE: 688302) today announced an exclusive license agreement granting Evommune worldwide rights outside of Greater China to develop, manufacture and commercialize EVO570 (formerly HC118 and known as HP570 in Greater China), an oral VAV1-directed molecular glue degrader (MGD).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2044725/000119312526447608/0001193125-26-447608-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2044725/000119312526447608/evmn-ex99_1.htm",
+   "filed_at": "2026-11-04T17:10:44-05:00",
+   "filed_kst": "2026-11-05 07:10",
+   "price": 6.04,
+   "change": 1.68,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 6.04,
+     "change": 1.68
+    },
+    {
+     "date": "2026-11-03",
+     "close": 5.94,
+     "change": -1.16
+    },
+    {
+     "date": "2026-11-02",
+     "close": 6.01,
+     "change": -10.7
+    }
+   ],
+   "market_cap": 219204363.0,
+   "shares_outstanding": 36292113.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T07:11:39+09:00"
+  },
   {
    "id": "0001368519-26-000016",
    "company": "North American Construction Group Ltd.",
@@ -15800,60 +15850,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-03T06:41:22+09:00"
-  },
-  {
-   "id": "0001822492-26-000157",
-   "company": "Hillman Solutions Corp.",
-   "ticker": "HLMN",
-   "cik": 1822492,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "0 million • Completed the acquisition of Kanebridge, a leading master distributor of industrial fasteners Balance Sheet and Liquidity at September 26, 2026 • Successfully refinanced its existing credit facilities, consisting of a new $735 million senior secured term l",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1822492/000182249226000157/0001822492-26-000157-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1822492/000182249226000157/ex991hillmanq32026earnings.htm",
-   "filed_at": "2026-11-02T16:39:25-05:00",
-   "filed_kst": "2026-11-03 06:39",
-   "price": 8.39,
-   "change": 7.56,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 8.39,
-     "change": 7.56
-    },
-    {
-     "date": "2026-10-30",
-     "close": 7.8,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 7.8,
-     "change": 2.77
-    }
-   ],
-   "market_cap": 1632232542.0,
-   "shares_outstanding": 194544999.0,
-   "industry": "Cutlery, Handtools & General Hardware",
-   "state_of_incorporation": "DE",
-   "hq": "CINCINNATI, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:40:44+09:00"
   }
  ]
 }
