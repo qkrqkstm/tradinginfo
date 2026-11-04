@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-05T07:29:08+09:00",
+ "updated_at": "2026-11-05T07:34:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001839882-26-055096",
+   "company": "UBS AG",
+   "ticker": "AMUB",
+   "cik": 1114446,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-5.2 3 ex5-2.htm OPINION OF HOMBURGER AG, DATED NOVEMBER 4, 2026 Exhibit 5.2 To: UBS AG Bahnhofstrasse 45 8001 Zurich Switzerland Homburger AG Prime Tower Hardstrasse 201 CH–8005 Zurich homburger.ch T +41 43 222 10 00 Zurich, November 4, 2026 UBS AG, acting through its London branch ETRACS Crude O",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1114446/000183988226055096/0001839882-26-055096-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1114446/000183988226055096/ex5-2.htm",
+   "filed_at": "2026-11-04T17:29:06-05:00",
+   "filed_kst": "2026-11-05 07:29",
+   "price": 21.23,
+   "change": -3.74,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 21.23,
+     "change": -3.74
+    },
+    {
+     "date": "2026-11-03",
+     "close": 22.06,
+     "change": -0.03
+    },
+    {
+     "date": "2026-11-02",
+     "close": 22.07,
+     "change": -2.59
+    }
+   ],
+   "market_cap": 81914011733.0,
+   "shares_outstanding": 3858408466.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "Switzerland",
+   "hq": "ZURICH, V8",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-05T07:30:38+09:00"
+  },
   {
    "id": "0001628280-26-070295",
    "company": "Allied Gold Corp",
@@ -15799,58 +15849,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-03T07:27:39+09:00"
-  },
-  {
-   "id": "0001437749-26-034471",
-   "company": "BROADWIND, INC.",
-   "ticker": "BWEN",
-   "cik": 1120370,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 63,
-   "summary": "EX-10.1 2 ex_1034446.htm EXHIBIT 10.1 ex_1034446.htm EXHIBIT 10.1 STOCK PURCHASE AGREEMENT DATED AS OF OCTOBER 30, 2026 BY AND AMONG MCM ACQUISITION COMPANY INC., THE SHAREHOLDERS OF MCM ACQUISITION COMPANY INC., SUMMIT EQUITY GROUP, L.L.C., AS SHAREHOLDER REPRESENTATIVE AND BROADWIND, INC. AS BUYER",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1120370/000143774926034471/0001437749-26-034471-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1120370/000143774926034471/ex_1034446.htm",
-   "filed_at": "2026-11-02T17:16:32-05:00",
-   "filed_kst": "2026-11-03 07:16",
-   "price": 2.81,
-   "change": -3.44,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 2.81,
-     "change": -3.44
-    },
-    {
-     "date": "2026-10-30",
-     "close": 2.91,
-     "change": -8.2
-    },
-    {
-     "date": "2026-10-29",
-     "close": 3.17,
-     "change": -2.16
-    }
-   ],
-   "market_cap": 66477218.0,
-   "shares_outstanding": 23657373.0,
-   "industry": "Nonferrous Foundries (Castings)",
-   "state_of_incorporation": "DE",
-   "hq": "CICERO, IL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-03T07:17:34+09:00"
   }
  ]
 }
