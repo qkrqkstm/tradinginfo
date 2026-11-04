@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-05T06:34:16+09:00",
+ "updated_at": "2026-11-05T06:39:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-070209",
+   "company": "MURPHY OIL CORP",
+   "ticker": "MUR",
+   "cik": 717423,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "While the Company elected not to repurchase shares in the third quarter, it retains significant flexibility with $550 million remaining under its share repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/717423/000162828026070209/0001628280-26-070209-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/717423/000162828026070209/mur-2026q3xex991.htm",
+   "filed_at": "2026-11-04T16:34:18-05:00",
+   "filed_kst": "2026-11-05 06:34",
+   "price": 35.94,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 35.94,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 35.94,
+     "change": -8.92
+    },
+    {
+     "date": "2026-11-03",
+     "close": 39.46,
+     "change": -1.74
+    }
+   ],
+   "market_cap": 5153117632.0,
+   "shares_outstanding": 143381125.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:35:33+09:00"
+  },
+  {
+   "id": "0000215466-26-000054",
+   "company": "Coeur Mining, Inc.",
+   "ticker": "CDE",
+   "cik": 215466,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Since the commencement of the enhanced $750 million share repurchase program in mid-May, Coeur has repurchased $231 million of common stock 2 , or 12.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/215466/000021546626000054/0000215466-26-000054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/215466/000021546626000054/a3q26earningsreleaseex-991.htm",
+   "filed_at": "2026-11-04T16:35:01-05:00",
+   "filed_kst": "2026-11-05 06:35",
+   "price": 14.58,
+   "change": 8.72,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 14.58,
+     "change": 8.72
+    },
+    {
+     "date": "2026-11-03",
+     "close": 13.41,
+     "change": 0.68
+    },
+    {
+     "date": "2026-11-02",
+     "close": 13.32,
+     "change": 1.68
+    }
+   ],
+   "market_cap": 14899352666.0,
+   "shares_outstanding": 1021903475.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "DE",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:35:29+09:00"
+  },
   {
    "id": "0001070750-26-000152",
    "company": "HOST HOTELS & RESORTS, INC.",
@@ -15766,113 +15870,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-03T06:21:09+09:00"
-  },
-  {
-   "id": "0001140361-26-041585",
-   "company": "FTAI Aviation Ltd.",
-   "ticker": "FTAI",
-   "cik": 1590364,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "The Issuer intends to use a portion of the net proceeds from the Private Offering to (i) repay in full all amounts outstanding under the Revolving Credit Facility (incurred to fund FTAI Aviation’s accelerated share repurchase program) without a reduction in commitments, (ii) redeem $500.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1590364/000114036126041585/0001140361-26-041585-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1590364/000114036126041585/ef20084710_8k.htm",
-   "filed_at": "2026-11-02T16:20:32-05:00",
-   "filed_kst": "2026-11-03 06:20",
-   "price": 197.75,
-   "change": 5.6,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 197.75,
-     "change": 5.6
-    },
-    {
-     "date": "2026-10-30",
-     "close": 187.27,
-     "change": -4.46
-    },
-    {
-     "date": "2026-10-29",
-     "close": 196.01,
-     "change": 17.27
-    }
-   ],
-   "market_cap": 20222228632.0,
-   "shares_outstanding": 102261586.0,
-   "industry": "Services-Miscellaneous Equipment Rental & Leasing",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:21:07+09:00"
-  },
-  {
-   "id": "0000074208-26-000084",
-   "company": "UDR, Inc.",
-   "ticker": "UDR",
-   "cik": 74208,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 78,
-   "summary": "1% ​ ​ Pending Joint Venture Portfolio Communities (3) ​ ​ ​ 7,059 ​ 19 ​ 9.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/74208/000007420826000084/0000074208-26-000084-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/74208/000007420826000084/udr-ex99d2.htm",
-   "filed_at": "2026-11-02T16:19:29-05:00",
-   "filed_kst": "2026-11-03 06:19",
-   "price": 35.91,
-   "change": 1.1,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 35.91,
-     "change": 1.1
-    },
-    {
-     "date": "2026-10-30",
-     "close": 35.52,
-     "change": 0.28
-    },
-    {
-     "date": "2026-10-29",
-     "close": 35.42,
-     "change": 2.05
-    }
-   ],
-   "market_cap": 11667721099.0,
-   "shares_outstanding": 324915653.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "HIGHLANDS RANCH, CO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:20:34+09:00"
   }
  ]
 }
