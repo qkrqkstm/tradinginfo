@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-05T07:04:36+09:00",
+ "updated_at": "2026-11-05T07:09:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001368519-26-000016",
+   "company": "North American Construction Group Ltd.",
+   "ticker": "NOA",
+   "cik": 1368519,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 88,
+   "summary": "Acquisition of Iron Mine Contracting On April 7, 2026, we completed the acquisition of Iron Mine Contracting (\"IMC\"), comprising DCL Corp Pty Ltd.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1368519/000136851926000016/0001368519-26-000016-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1368519/000136851926000016/noa-20260930.htm",
+   "filed_at": "2026-11-04T17:06:59-05:00",
+   "filed_kst": "2026-11-05 07:06",
+   "price": 11.43,
+   "change": -3.14,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 11.43,
+     "change": -3.14
+    },
+    {
+     "date": "2026-11-03",
+     "close": 11.8,
+     "change": 0.17
+    },
+    {
+     "date": "2026-11-02",
+     "close": 11.78,
+     "change": -1.75
+    }
+   ],
+   "market_cap": 329429528.0,
+   "shares_outstanding": 28821481.0,
+   "industry": "Oil & Gas Field Services, NEC",
+   "state_of_incorporation": "Alberta, Canada",
+   "hq": "ACHESON",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-05T07:07:55+09:00"
+  },
+  {
+   "id": "0001104659-26-122765",
+   "company": "KIMBERLY CLARK CORP",
+   "ticker": "KMB",
+   "cik": 55785,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "배당"
+   ],
+   "confidence": 71,
+   "summary": "First Merger : The merger of First Merger Sub with and into Kenvue, with Kenvue surviving as a direct wholly owned subsidiary of the Company, as contemplated by the Merger Agreement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926122765/0001104659-26-122765-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926122765/tm2628875d1_ex99-1.htm",
+   "filed_at": "2026-11-04T17:05:26-05:00",
+   "filed_kst": "2026-11-05 07:05",
+   "price": 108.79,
+   "change": 4.15,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 108.79,
+     "change": 4.15
+    },
+    {
+     "date": "2026-11-03",
+     "close": 104.46,
+     "change": -3.5
+    },
+    {
+     "date": "2026-11-02",
+     "close": 108.25,
+     "change": 0.29
+    }
+   ],
+   "market_cap": 36181273544.0,
+   "shares_outstanding": 332579038.0,
+   "industry": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+   "state_of_incorporation": "DE",
+   "hq": "IRVING, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T07:05:56+09:00"
+  },
   {
    "id": "0000844059-26-000090",
    "company": "FRP HOLDINGS, INC.",
@@ -15750,118 +15854,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-03T06:40:44+09:00"
-  },
-  {
-   "id": "0001866175-26-000148",
-   "company": "Crescent Energy Co",
-   "ticker": "CRGY",
-   "cik": 1866175,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 82,
-   "summary": "Shareholder Return Crescent’s long-standing “all-of-the-above” return of capital framework includes a fixed quarterly dividend and an opportunistic share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866175/000186617526000148/0001866175-26-000148-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866175/000186617526000148/exhibit991q32026earningsre.htm",
-   "filed_at": "2026-11-02T16:37:30-05:00",
-   "filed_kst": "2026-11-03 06:37",
-   "price": 13.47,
-   "change": -5.14,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 13.47,
-     "change": -5.14
-    },
-    {
-     "date": "2026-10-30",
-     "close": 14.2,
-     "change": 3.27
-    },
-    {
-     "date": "2026-10-29",
-     "close": 13.75,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 4450537785.0,
-   "shares_outstanding": 330403696.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:38:21+09:00"
-  },
-  {
-   "id": "0001437749-26-034455",
-   "company": "HEALTHSTREAM INC",
-   "ticker": "HSTM",
-   "cik": 1095565,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "Other Business Updates On March 13, 2026, the Company announced a new share repurchase program approved by the Board of Directors under which the Company was authorized to repurchase up to $10.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1095565/000143774926034455/0001437749-26-034455-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1095565/000143774926034455/ex_1007815.htm",
-   "filed_at": "2026-11-02T16:35:39-05:00",
-   "filed_kst": "2026-11-03 06:35",
-   "price": 34.58,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 34.58,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 34.58,
-     "change": 2.61
-    },
-    {
-     "date": "2026-10-30",
-     "close": 33.7,
-     "change": -0.3
-    }
-   ],
-   "market_cap": 1011117644.0,
-   "shares_outstanding": 29239955.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "TN",
-   "hq": "NASHVILLE, TN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:36:12+09:00"
   }
  ]
 }
