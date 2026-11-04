@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-04T23:09:03+09:00",
+ "updated_at": "2026-11-04T23:14:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001616533-26-000056",
+   "company": "Penguin Solutions, Inc.",
+   "ticker": "PENG",
+   "cik": 1616533,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "” 1 Under the terms of the definitive agreement, Transom will acquire Cree LED in an all-cash transaction.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1616533/000161653326000056/0001616533-26-000056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1616533/000161653326000056/pengformex991pressrelease.htm",
+   "filed_at": "2026-11-04T09:09:34-05:00",
+   "filed_kst": "2026-11-04 23:09",
+   "price": 53.19,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 53.19,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 53.19,
+     "change": 11.98
+    },
+    {
+     "date": "2026-11-02",
+     "close": 47.5,
+     "change": -8.53
+    }
+   ],
+   "market_cap": 3204241289.0,
+   "shares_outstanding": 60241423.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "FREMONT, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T23:10:32+09:00"
+  },
   {
    "id": "0001654954-26-009495",
    "company": "VOX ROYALTY CORP.",
@@ -15705,56 +15760,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-02T20:07:04+09:00"
-  },
-  {
-   "id": "0001648257-26-000074",
-   "company": "HUTCHMED (China) Ltd",
-   "ticker": "HCM",
-   "cik": 1648257,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.1 2 hcm-ex99d1.htm EX-99.1 Exhibit 99.1 ​ ​ Press Release ​ HUTCHMED Announces Regulatory Filings Accepted for Review for ORPATHYS ® plus TAGRISSO ® in MET-Driven EGFR-Mutated Lung Cancer in Europe and Japan — Follows US FDA new drug application submission in September 2026, marking important ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000074/0001648257-26-000074-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000074/hcm-ex99d1.htm",
-   "filed_at": "2026-11-02T06:06:00-05:00",
-   "filed_kst": "2026-11-02 20:06",
-   "price": 13.15,
-   "change": -3.24,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 13.15,
-     "change": -3.24
-    },
-    {
-     "date": "2026-10-29",
-     "close": 13.59,
-     "change": 2.03
-    },
-    {
-     "date": "2026-10-28",
-     "close": 13.32,
-     "change": -3.48
-    }
-   ],
-   "market_cap": 11471108203.0,
-   "shares_outstanding": 872327620.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T20:07:00+09:00"
   }
  ]
 }
