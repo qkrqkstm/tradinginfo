@@ -1,7 +1,159 @@
 {
- "updated_at": "2026-11-04T22:59:31+09:00",
+ "updated_at": "2026-11-04T23:04:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009495",
+   "company": "VOX ROYALTY CORP.",
+   "ticker": "VOXR",
+   "cik": 1907909,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "7 million cap): Develop Global Limited made a Final Investment Decision, awarded a A$275 million EPC contract for the 1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1907909/000165495426009495/0001654954-26-009495-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1907909/000165495426009495/voxr_ex991.htm",
+   "filed_at": "2026-11-04T09:03:31-05:00",
+   "filed_kst": "2026-11-04 23:03",
+   "price": 4.58,
+   "change": -1.93,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 4.58,
+     "change": -1.93
+    },
+    {
+     "date": "2026-11-02",
+     "close": 4.67,
+     "change": 1.97
+    },
+    {
+     "date": "2026-10-30",
+     "close": 4.58,
+     "change": -5.57
+    }
+   ],
+   "market_cap": 313111448.0,
+   "shares_outstanding": 68364945.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "WESTMINSTER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-04T23:04:27+09:00"
+  },
+  {
+   "id": "0001493152-26-049887",
+   "company": "Gamehaus Holdings Inc.",
+   "ticker": "GMHS",
+   "cik": 2000530,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "“ Equity Securities ” means, with respect to any Person, any share capital, equity interests, membership interests, partnership interests or registered capital, joint venture or other ownership interests in such Person and any options, warrants or other securities (for the avoidance of doubt, includ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2000530/000149315226049887/0001493152-26-049887-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2000530/000149315226049887/ex99-1.htm",
+   "filed_at": "2026-11-04T09:00:24-05:00",
+   "filed_kst": "2026-11-04 23:00",
+   "price": 0.61,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 0.61,
+     "change": -0.05
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.61,
+     "change": -12.28
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.69,
+     "change": 6.3
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-04T23:01:44+09:00"
+  },
+  {
+   "id": "0001171843-26-007100",
+   "company": "Legend Biotech Corp",
+   "ticker": "LEGN",
+   "cik": 1801198,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "i In December 2017, Legend Biotech entered into an exclusive worldwide license and collaboration agreement with Janssen Biotech, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326007100/0001171843-26-007100-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1801198/000117184326007100/exh_991.htm",
+   "filed_at": "2026-11-04T09:00:13-05:00",
+   "filed_kst": "2026-11-04 23:00",
+   "price": 21.48,
+   "change": 1.8,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 21.48,
+     "change": 1.8
+    },
+    {
+     "date": "2026-11-02",
+     "close": 21.1,
+     "change": -2.45
+    },
+    {
+     "date": "2026-10-30",
+     "close": 21.63,
+     "change": -3.0
+    }
+   ],
+   "market_cap": 7945159206.0,
+   "shares_outstanding": 369886369.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SOMERSET, NJ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T23:00:55+09:00"
+  },
   {
    "id": "0000751364-26-000002",
    "company": "NNN REIT, INC.",
@@ -15603,163 +15755,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-02T20:07:00+09:00"
-  },
-  {
-   "id": "0000060086-26-000054",
-   "company": "LOEWS CORP",
-   "ticker": "L",
-   "cik": 60086,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 59,
-   "summary": "• Loews Hotels’ net income increased year-over-year primarily due to a higher overall average daily rate and an increase in occupied room nights across most of the portfolio, partially offset by lower equity income from joint ventures.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/60086/000006008626000054/0000060086-26-000054-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/60086/000006008626000054/exhibit991-q32026.htm",
-   "filed_at": "2026-11-02T06:03:39-05:00",
-   "filed_kst": "2026-11-02 20:03",
-   "price": 111.32,
-   "change": -0.33,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 111.32,
-     "change": -0.33
-    },
-    {
-     "date": "2026-10-29",
-     "close": 111.69,
-     "change": 1.35
-    },
-    {
-     "date": "2026-10-28",
-     "close": 110.2,
-     "change": -0.74
-    }
-   ],
-   "market_cap": 22756893790.0,
-   "shares_outstanding": 204427720.0,
-   "industry": "Fire, Marine & Casualty Insurance",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T20:06:57+09:00"
-  },
-  {
-   "id": "0001193125-26-442214",
-   "company": "IMMUTEP Ltd",
-   "ticker": "IMMP",
-   "cik": 1506184,
-   "form": "6-K",
-   "items": [
-    "3.10"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 79,
-   "summary": "Immutep also received Orphan Drug Designation for efti in this setting from the FDA in April 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526442214/0001193125-26-442214-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526442214/d183841dex991.htm",
-   "filed_at": "2026-10-30T20:46:30-04:00",
-   "filed_kst": "2026-10-31 09:46",
-   "price": 3.06,
-   "change": -8.11,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 3.06,
-     "change": -8.11
-    },
-    {
-     "date": "2026-10-29",
-     "close": 3.33,
-     "change": 0.3
-    },
-    {
-     "date": "2026-10-28",
-     "close": 3.32,
-     "change": 5.4
-    }
-   ],
-   "market_cap": 4509587196.0,
-   "shares_outstanding": 1473721306.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Australia",
-   "hq": "SYDNEY,, C3",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-02T20:06:14+09:00"
-  },
-  {
-   "id": "0001292814-26-005094",
-   "company": "TIM S.A.",
-   "ticker": "TIMB",
-   "cik": 1826168,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 timb20261030_6k2.htm 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 Date of Report: October 30, 2026 Commission File Number: 001-39570 TIM S.A. (Ex",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426005094/0001292814-26-005094-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826168/000129281426005094/timb20261030_6k2.htm",
-   "filed_at": "2026-10-30T19:57:32-04:00",
-   "filed_kst": "2026-10-31 08:57",
-   "price": 17.68,
-   "change": -2.37,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 17.68,
-     "change": -2.37
-    },
-    {
-     "date": "2026-10-29",
-     "close": 18.11,
-     "change": 2.03
-    },
-    {
-     "date": "2026-10-28",
-     "close": 17.75,
-     "change": -0.28
-    }
-   ],
-   "market_cap": 42292785718.0,
-   "shares_outstanding": 2392125889.0,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": "Brazil",
-   "hq": "RIO DE JANEIRO, RJ, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T20:05:39+09:00"
   }
  ]
 }
