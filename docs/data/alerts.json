@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-05T04:05:12+09:00",
+ "updated_at": "2026-11-05T04:14:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001611647-26-000026",
+   "company": "Freshpet, Inc.",
+   "ticker": "FRPT",
+   "cik": 1611647,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 68,
+   "summary": "3 million of share repurchases pursuant to the previously announced share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1611647/000161164726000026/0001611647-26-000026-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1611647/000161164726000026/frpt-exx991x20261104.htm",
+   "filed_at": "2026-11-04T14:13:10-05:00",
+   "filed_kst": "2026-11-05 04:13",
+   "price": 69.3,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 69.3,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 69.29,
+     "change": -0.44
+    },
+    {
+     "date": "2026-11-03",
+     "close": 69.6,
+     "change": -0.03
+    }
+   ],
+   "market_cap": 3330424528.0,
+   "shares_outstanding": 48058074.0,
+   "industry": "Grain Mill Products",
+   "state_of_incorporation": "DE",
+   "hq": "BEDMINSTER, NJ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T04:14:18+09:00"
+  },
   {
    "id": "0001654954-26-009506",
    "company": "HSBC HOLDINGS PLC",
@@ -15708,62 +15759,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-02T21:00:47+09:00"
-  },
-  {
-   "id": "0001193125-26-442619",
-   "company": "Tempus AI, Inc.",
-   "ticker": "TEM",
-   "cik": 1717115,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 80,
-   "summary": "605 billion and expect full year Adjusted EBITDA of ~$65 million • Announced multi-year strategic collaboration with Merck and Moderna to support commercialization of their individualized neoantigen therapy (INT) class of drugs • In October, announced a strategic collaboration with BMS bringing Temp",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/0001193125-26-442619-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526442619/tem-ex99_1.htm",
-   "filed_at": "2026-11-02T07:00:15-05:00",
-   "filed_kst": "2026-11-02 21:00",
-   "price": 72.22,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 72.22,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 72.22,
-     "change": -7.22
-    },
-    {
-     "date": "2026-10-29",
-     "close": 77.84,
-     "change": 1.61
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "NV",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T21:00:45+09:00"
   }
  ]
 }
