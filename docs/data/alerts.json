@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-05T00:39:12+09:00",
+ "updated_at": "2026-11-05T00:44:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-446483",
+   "company": "Array Technologies, Inc.",
+   "ticker": "ARRY",
+   "cik": 1820721,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 64,
+   "summary": "EX-99.1 5 d184627dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 ARRAY Technologies and Shoals Technologies Group Announce Transformative Merger, Creating an Integrated Energy Infrastructure Platform • Combines market-leading product portfolios and proven engineering capabilities to deliver a differentiated",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1820721/000119312526446483/0001193125-26-446483-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1820721/000119312526446483/d184627dex991.htm",
+   "filed_at": "2026-11-04T10:40:19-05:00",
+   "filed_kst": "2026-11-05 00:40",
+   "price": 5.6,
+   "change": 0.01,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 5.6,
+     "change": 0.01
+    },
+    {
+     "date": "2026-11-04",
+     "close": 5.6,
+     "change": 20.66
+    },
+    {
+     "date": "2026-11-03",
+     "close": 4.64,
+     "change": 22.11
+    }
+   ],
+   "market_cap": 862443075.0,
+   "shares_outstanding": 154007692.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "ALBUQUERQUE, NM",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T00:41:44+09:00"
+  },
   {
    "id": "0001171843-26-007104",
    "company": "Lakefront Biotherapeutics NV",
@@ -15718,56 +15769,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-02T20:39:19+09:00"
-  },
-  {
-   "id": "0001628280-26-068654",
-   "company": "GOLD FIELDS LTD",
-   "ticker": "GFI",
-   "cik": 1172724,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": ", having previously held a 50% interest in the Windfall joint venture.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1172724/000162828026068654/0001628280-26-068654-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1172724/000162828026068654/sens2november2026.htm",
-   "filed_at": "2026-11-02T06:35:52-05:00",
-   "filed_kst": "2026-11-02 20:35",
-   "price": 32.92,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 32.92,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 32.92,
-     "change": -6.26
-    },
-    {
-     "date": "2026-10-29",
-     "close": 35.12,
-     "change": -3.06
-    }
-   ],
-   "market_cap": 29464198211.0,
-   "shares_outstanding": 895024247.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": null,
-   "hq": "SANDTON, T3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T20:36:35+09:00"
   }
  ]
 }
