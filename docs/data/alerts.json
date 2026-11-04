@@ -1,7 +1,56 @@
 {
- "updated_at": "2026-11-05T04:34:13+09:00",
+ "updated_at": "2026-11-05T04:39:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001279569-26-001036",
+   "company": "VERMILION ENERGY INC.",
+   "ticker": "VET",
+   "cik": 1293135,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "In Germany, the Company completed the acquisition of producing assets, while bringing the Wisselshorst Z1a well (0.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1293135/000127956926001036/0001279569-26-001036-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1293135/000127956926001036/ex991.htm",
+   "filed_at": "2026-11-04T14:35:42-05:00",
+   "filed_kst": "2026-11-05 04:35",
+   "price": 10.74,
+   "change": -13.21,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 10.74,
+     "change": -13.21
+    },
+    {
+     "date": "2026-11-03",
+     "close": 12.38,
+     "change": -0.72
+    },
+    {
+     "date": "2026-11-02",
+     "close": 12.47,
+     "change": -8.91
+    }
+   ],
+   "market_cap": 1642679026.0,
+   "shares_outstanding": 152949630.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Alberta, Canada",
+   "hq": "CALGARY, A0",
+   "entity_category": null,
+   "detected_at": "2026-11-05T04:36:25+09:00"
+  },
   {
    "id": "0001611647-26-000026",
    "company": "Freshpet, Inc.",
@@ -15708,57 +15757,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-02T21:01:20+09:00"
-  },
-  {
-   "id": "0001213900-26-114650",
-   "company": "Tiziana Life Sciences Ltd",
-   "ticker": "TLSA",
-   "cik": 1723069,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 79,
-   "summary": "1 Tiziana Announces Positive Topline Results from Phase 2a INFORM-MS Trial of Intranasal Foralumab in Non-Active Secondary Progressive Multiple Sclerosis ● Trial met its dual primary endpoints for (1) statistically significant reduction (p=0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026114650/0001213900-26-114650-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026114650/ea031046501ex99-1.htm",
-   "filed_at": "2026-11-02T07:00:08-05:00",
-   "filed_kst": "2026-11-02 21:00",
-   "price": 0.8,
-   "change": -11.11,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 0.8,
-     "change": -11.11
-    },
-    {
-     "date": "2026-10-29",
-     "close": 0.9,
-     "change": -5.26
-    },
-    {
-     "date": "2026-10-28",
-     "close": 0.95,
-     "change": 9.2
-    }
-   ],
-   "market_cap": 96405921.0,
-   "shares_outstanding": 120507401.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Bermuda",
-   "hq": "LONDON, ENGLAND, X0",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-02T21:00:47+09:00"
   }
  ]
 }
