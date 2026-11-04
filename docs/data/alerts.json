@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-04T23:14:32+09:00",
+ "updated_at": "2026-11-04T23:19:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-446348",
+   "company": "Cullinan Therapeutics, Inc.",
+   "ticker": "CGEM",
+   "cik": 1789972,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "CLN-049 has received Orphan Drug designation and Fast Track designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526446348/0001193125-26-446348-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526446348/cgem-ex99_1.htm",
+   "filed_at": "2026-11-04T09:17:07-05:00",
+   "filed_kst": "2026-11-04 23:17",
+   "price": 15.75,
+   "change": 5.49,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 15.75,
+     "change": 5.49
+    },
+    {
+     "date": "2026-11-02",
+     "close": 14.93,
+     "change": -0.67
+    },
+    {
+     "date": "2026-10-30",
+     "close": 15.03,
+     "change": -2.72
+    }
+   ],
+   "market_cap": 1013586430.0,
+   "shares_outstanding": 64354694.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-04T23:18:21+09:00"
+  },
   {
    "id": "0001616533-26-000056",
    "company": "Penguin Solutions, Inc.",
@@ -15710,56 +15765,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-02T20:07:09+09:00"
-  },
-  {
-   "id": "0001178913-26-004919",
-   "company": "ELBIT SYSTEMS LTD",
-   "ticker": "ESLT",
-   "cik": 1027664,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 59,
-   "summary": "htm EXHIBIT 1 Exhibit 1 Elbit Systems Awarded Approximately $170 Million Contract to Establish and Operate an Advanced Training and Simulation Center for the IDF Artillery Corps Haifa, Israel, November 2, 2026 – Elbit Systems Ltd .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1027664/000117891326004919/0001178913-26-004919-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1027664/000117891326004919/exhibit_1.htm",
-   "filed_at": "2026-11-02T06:04:45-05:00",
-   "filed_kst": "2026-11-02 20:04",
-   "price": 779.68,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 779.68,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 779.68,
-     "change": -3.43
-    },
-    {
-     "date": "2026-10-29",
-     "close": 807.41,
-     "change": 3.61
-    }
-   ],
-   "market_cap": 36210173007.0,
-   "shares_outstanding": 46442352.0,
-   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
-   "state_of_incorporation": "Israel",
-   "hq": "HAIFA, ISRAEL, L3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T20:07:04+09:00"
   }
  ]
 }
