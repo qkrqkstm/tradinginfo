@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-04T21:14:13+09:00",
+ "updated_at": "2026-11-04T21:19:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-446212",
+   "company": "Array Technologies, Inc.",
+   "ticker": "ARRY",
+   "cik": 1820721,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 68,
+   "summary": "6x • Completed the acquisition of Affordable Wire Management (AWM) expanding the product portfolio into wire management and reaching the Battery Energy Storage System (BESS) and Datacenter markets • Formally launched Atlas ™ I and II, integrated foundation-to-t",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1820721/000119312526446212/0001193125-26-446212-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1820721/000119312526446212/d185761dex991.htm",
+   "filed_at": "2026-11-04T07:17:25-05:00",
+   "filed_kst": "2026-11-04 21:17",
+   "price": 4.64,
+   "change": 22.11,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 4.64,
+     "change": 22.11
+    },
+    {
+     "date": "2026-11-02",
+     "close": 3.8,
+     "change": 12.09
+    },
+    {
+     "date": "2026-10-30",
+     "close": 3.39,
+     "change": -4.78
+    }
+   ],
+   "market_cap": 714595691.0,
+   "shares_outstanding": 154007692.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "ALBUQUERQUE, NM",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T21:18:01+09:00"
+  },
   {
    "id": "0001193125-26-446203",
    "company": "GERON CORP",
@@ -15655,56 +15706,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-31T05:30:55+09:00"
-  },
-  {
-   "id": "0001213900-26-114418",
-   "company": "RANGE RESOURCES CORP",
-   "ticker": "RRC",
-   "cik": 315852,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Rice, President and Chief Executive Officer of EQT, to CNBC regarding EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agreement”), by and among EQT, EQT Holdings L",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026114418/0001213900-26-114418-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026114418/ea0310379-425_eqtcorp.htm",
-   "filed_at": "2026-10-30T16:30:01-04:00",
-   "filed_kst": "2026-10-31 05:30",
-   "price": 54.63,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 54.63,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 54.63,
-     "change": 1.37
-    },
-    {
-     "date": "2026-10-29",
-     "close": 53.89,
-     "change": -3.56
-    }
-   ],
-   "market_cap": 12766528896.0,
-   "shares_outstanding": 233690809.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "FT WORTH, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-31T05:30:51+09:00"
   }
  ]
 }
