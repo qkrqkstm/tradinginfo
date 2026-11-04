@@ -1,7 +1,167 @@
 {
- "updated_at": "2026-11-05T06:24:31+09:00",
+ "updated_at": "2026-11-05T06:29:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-447366",
+   "company": "Innoviva, Inc.",
+   "ticker": "INVA",
+   "cik": 1080014,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "2 million shares in Q3 under $125 million buyback program BURLINGAME, Calif.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1080014/000119312526447366/0001193125-26-447366-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1080014/000119312526447366/d177079dex991.htm",
+   "filed_at": "2026-11-04T16:25:58-05:00",
+   "filed_kst": "2026-11-05 06:25",
+   "price": 21.26,
+   "change": 1.58,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 21.26,
+     "change": 1.58
+    },
+    {
+     "date": "2026-11-03",
+     "close": 20.93,
+     "change": -0.43
+    },
+    {
+     "date": "2026-11-02",
+     "close": 21.02,
+     "change": -0.94
+    }
+   ],
+   "market_cap": 1535939011.0,
+   "shares_outstanding": 72245485.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BURLINGAME, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:26:33+09:00"
+  },
+  {
+   "id": "0001922446-26-000109",
+   "company": "Diversified Energy Co",
+   "ticker": "DEC",
+   "cik": 1922446,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "29 per share declared Share Repurchase Program • 3Q26 (through November 4, 2026): Repurchased 698,502 (g) shares, representing ~1% of shares outstanding • YTD (through November 4, 2026): Repurchased 6,676,753 (g) shares, representing ~9% of shares outstanding Operations and F",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1922446/000192244626000109/0001922446-26-000109-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1922446/000192244626000109/a3q26earningspr.htm",
+   "filed_at": "2026-11-04T16:24:20-05:00",
+   "filed_kst": "2026-11-05 06:24",
+   "price": 13.33,
+   "change": -2.27,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 13.33,
+     "change": -2.27
+    },
+    {
+     "date": "2026-11-03",
+     "close": 13.64,
+     "change": -0.73
+    },
+    {
+     "date": "2026-11-02",
+     "close": 13.74,
+     "change": -4.85
+    }
+   ],
+   "market_cap": 942684270.0,
+   "shares_outstanding": 70719000.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "BIRMINGHAM, AL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:25:28+09:00"
+  },
+  {
+   "id": "0001193125-26-447357",
+   "company": "OPKO HEALTH, INC.",
+   "ticker": "OPK",
+   "cik": 944809,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "7 million had been deployed under the $200 million share repurchase authorization, leaving approximately $84.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/944809/000119312526447357/0001193125-26-447357-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/944809/000119312526447357/opk-ex99_1.htm",
+   "filed_at": "2026-11-04T16:24:24-05:00",
+   "filed_kst": "2026-11-05 06:24",
+   "price": 1.77,
+   "change": 2.91,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 1.77,
+     "change": 2.91
+    },
+    {
+     "date": "2026-11-03",
+     "close": 1.72,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 1.72,
+     "change": 3.61
+    }
+   ],
+   "market_cap": 1321000958.0,
+   "shares_outstanding": 746328225.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:25:27+09:00"
+  },
   {
    "id": "0001823529-26-000241",
    "company": "Enact Holdings, Inc.",
@@ -15711,168 +15871,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-03T06:16:11+09:00"
-  },
-  {
-   "id": "0001140361-26-041578",
-   "company": "FEMASYS INC",
-   "ticker": "FEMY",
-   "cik": 1339005,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 72,
-   "summary": "FDA approval through the ongoing FINALE pivotal trial (NCT05977751).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1339005/000114036126041578/0001140361-26-041578-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1339005/000114036126041578/ef20084787_ex99-1.htm",
-   "filed_at": "2026-11-02T16:15:26-05:00",
-   "filed_kst": "2026-11-03 06:15",
-   "price": 1.32,
-   "change": -3.65,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 1.32,
-     "change": -3.65
-    },
-    {
-     "date": "2026-10-30",
-     "close": 1.37,
-     "change": 1.11
-    },
-    {
-     "date": "2026-10-29",
-     "close": 1.36,
-     "change": -3.9
-    }
-   ],
-   "market_cap": 11055036.0,
-   "shares_outstanding": 8375027.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "SUWANEE, GA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-03T06:16:08+09:00"
-  },
-  {
-   "id": "0001820144-26-000036",
-   "company": "Grindr Inc.",
-   "ticker": "GRND",
-   "cik": 1820144,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "(inclusive of the Freddie brand and its partnerships with affiliated clinical networks) for $250 million, consisting of $190 million in cash and $60 million in Grindr common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1820144/000182014426000036/0001820144-26-000036-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1820144/000182014426000036/grnd-20261102.htm",
-   "filed_at": "2026-11-02T16:14:53-05:00",
-   "filed_kst": "2026-11-03 06:14",
-   "price": 12.77,
-   "change": 0.95,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 12.77,
-     "change": 0.95
-    },
-    {
-     "date": "2026-10-30",
-     "close": 12.65,
-     "change": -1.94
-    },
-    {
-     "date": "2026-10-29",
-     "close": 12.9,
-     "change": -0.54
-    }
-   ],
-   "market_cap": 2219689407.0,
-   "shares_outstanding": 173820627.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "DE",
-   "hq": "WEST HOLLYWOOD, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:15:32+09:00"
-  },
-  {
-   "id": "0001628280-26-068878",
-   "company": "HEALTHPEAK PROPERTIES, INC.",
-   "ticker": "DOC",
-   "cik": 765880,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 55,
-   "summary": "EX-99.3 4 ex99309302026.htm EX-99.3 Document Exhibit 99.3 Discussion and Reconciliation of Healthpeak's Non-GAAP Financial Measures September 30, 2026 (Unaudited) Definitions Adjusted Fixed Charge Coverage Fixed Charge Coverage Adjusted EBITDAre divided by Fixed Charges. Adjusted Fixed Charge Covera",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/765880/000162828026068878/0001628280-26-068878-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/765880/000162828026068878/ex99309302026.htm",
-   "filed_at": "2026-11-02T16:10:07-05:00",
-   "filed_kst": "2026-11-03 06:10",
-   "price": 19.49,
-   "change": 2.42,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 19.49,
-     "change": 2.42
-    },
-    {
-     "date": "2026-10-30",
-     "close": 19.03,
-     "change": 0.48
-    },
-    {
-     "date": "2026-10-29",
-     "close": 18.94,
-     "change": 2.1
-    }
-   ],
-   "market_cap": 13438886297.0,
-   "shares_outstanding": 689527260.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "DENVER, CO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:11:37+09:00"
   }
  ]
 }
