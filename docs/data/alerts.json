@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-04T20:24:40+09:00",
+ "updated_at": "2026-11-04T20:29:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001876042-26-000309",
+   "company": "Circle Internet Group, Inc.",
+   "ticker": "CRCL",
+   "cik": 1876042,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "and the expansion and renewal of its strategic partnership to promote USDC across Binance’s global platform, with an emphasis on emerging markets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000309/0001876042-26-000309-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000309/finalq3epr-110326.htm",
+   "filed_at": "2026-11-04T06:26:24-05:00",
+   "filed_kst": "2026-11-04 20:26",
+   "price": 75.22,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 75.22,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 75.22,
+     "change": 4.36
+    },
+    {
+     "date": "2026-11-02",
+     "close": 72.08,
+     "change": -0.63
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:27:07+09:00"
+  },
   {
    "id": "0001193125-26-446133",
    "company": "Flowco Holdings Inc.",
@@ -15611,57 +15664,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T22:15:33+09:00"
-  },
-  {
-   "id": "0001731122-26-001381",
-   "company": "Ruanyun Edai Technology Inc.",
-   "ticker": "RYET",
-   "cik": 1873454,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "1 BGLC / RYET | CogniAI Healthcare CogniAI Healthcare Licence and Strategic Collaboration Agreement BioNexus Gene Lab Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1873454/000173112226001381/0001731122-26-001381-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1873454/000173112226001381/e7992_ex99-2.htm",
-   "filed_at": "2026-10-30T09:00:22-04:00",
-   "filed_kst": "2026-10-30 22:00",
-   "price": 0.7,
-   "change": 0.01,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 0.7,
-     "change": 0.01
-    },
-    {
-     "date": "2026-10-29",
-     "close": 0.7,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-28",
-     "close": 0.7,
-     "change": 2.19
-    }
-   ],
-   "market_cap": 24885003.0,
-   "shares_outstanding": 35550004.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "JIANGXI, F4",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T22:01:27+09:00"
   }
  ]
 }
