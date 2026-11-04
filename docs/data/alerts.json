@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-05T05:54:19+09:00",
+ "updated_at": "2026-11-05T05:59:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-005740",
+   "company": "THUNDER MOUNTAIN GOLD INC",
+   "ticker": "THMG",
+   "cik": 711034,
+   "form": "8-K",
+   "items": [
+    "3.02",
+    "5.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Thunder Mountain Gold also owns 100% of the Trout Creek Project, a gold exploration asset in Nevada adjacent to and surrounded by Nevada Gold Mines, a Barrick-Newmont joint venture.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711034/000106299326005740/0001062993-26-005740-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/711034/000106299326005740/form8k.htm",
+   "filed_at": "2026-11-04T15:55:34-05:00",
+   "filed_kst": "2026-11-05 05:55",
+   "price": 0.62,
+   "change": -9.75,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 0.62,
+     "change": -9.75
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.69,
+     "change": 7.01
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.64,
+     "change": 1.58
+    }
+   ],
+   "market_cap": 58899219.0,
+   "shares_outstanding": 94998740.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "NV",
+   "hq": "BOISE, ID",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-05T05:56:19+09:00"
+  },
   {
    "id": "0001279569-26-001036",
    "company": "VERMILION ENERGY INC.",
@@ -15702,61 +15758,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-02T21:01:22+09:00"
-  },
-  {
-   "id": "0001493152-26-049552",
-   "company": "Vertical Data Inc.",
-   "ticker": "VDTA",
-   "cik": 2033264,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "3.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Data Center Joint Venture Letter of Intent In September 2026, the Company entered into a non-binding letter of intent with a data center developer (the “Developer”) to form a joint venture, special purpose vehicle or similar structure to develop, finance and operate up",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226049552/0001493152-26-049552-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226049552/form8-k.htm",
-   "filed_at": "2026-11-02T07:00:43-05:00",
-   "filed_kst": "2026-11-02 21:00",
-   "price": 3.46,
-   "change": -1.03,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 3.46,
-     "change": -1.03
-    },
-    {
-     "date": "2026-10-29",
-     "close": 3.5,
-     "change": 4.15
-    },
-    {
-     "date": "2026-10-28",
-     "close": 3.36,
-     "change": -7.95
-    }
-   ],
-   "market_cap": 47212883.0,
-   "shares_outstanding": 13645342.0,
-   "industry": "Services-Management Consulting Services",
-   "state_of_incorporation": "NV",
-   "hq": "LAS VEGAS, NV",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-02T21:01:20+09:00"
   }
  ]
 }
