@@ -1,7 +1,501 @@
 {
- "updated_at": "2026-11-05T05:59:44+09:00",
+ "updated_at": "2026-11-05T06:04:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001505155-26-000078",
+   "company": "Upland Software, Inc.",
+   "ticker": "UPLD",
+   "cik": 1505155,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "• We announced a strategic partnership with Carahsoft Technology Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1505155/000150515526000078/0001505155-26-000078-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1505155/000150515526000078/q326991earningsrelease.htm",
+   "filed_at": "2026-11-04T16:03:52-05:00",
+   "filed_kst": "2026-11-05 06:03",
+   "price": 4.7,
+   "change": 10.07,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 4.7,
+     "change": 10.07
+    },
+    {
+     "date": "2026-11-03",
+     "close": 4.27,
+     "change": 6.75
+    },
+    {
+     "date": "2026-11-02",
+     "close": 4.0,
+     "change": 0.5
+    }
+   ],
+   "market_cap": 13898798.0,
+   "shares_outstanding": 2957191.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "TX",
+   "hq": "AUSTIN, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-05T06:04:38+09:00"
+  },
+  {
+   "id": "0001172052-26-000029",
+   "company": "SAFETY INSURANCE GROUP INC",
+   "ticker": "SAFT",
+   "cik": 1172052,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "M&A",
+    "탑라인결과"
+   ],
+   "confidence": 69,
+   "summary": "The increase in net earned premium is the result of rate increases earning into top-line results.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1172052/000117205226000029/0001172052-26-000029-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1172052/000117205226000029/saft-ex99d1.htm",
+   "filed_at": "2026-11-04T16:03:59-05:00",
+   "filed_kst": "2026-11-05 06:03",
+   "price": 104.35,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 104.35,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 104.35,
+     "change": 0.1
+    },
+    {
+     "date": "2026-11-03",
+     "close": 104.25,
+     "change": 0.01
+    }
+   ],
+   "market_cap": 1531908297.0,
+   "shares_outstanding": 14680482.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:04:36+09:00"
+  },
+  {
+   "id": "0000718937-26-000040",
+   "company": "STAAR SURGICAL CO",
+   "ticker": "STAA",
+   "cik": 718937,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "1 • Initiating clinical trial process for next generation presbyopia technologies, with first-in-human clinical trials expected in the next few months • Board authorized $50 million share repurchase program, reflecting its confidence in the business and belief that STAAR’s shares are undervalued Fel",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/718937/000071893726000040/0000718937-26-000040-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/718937/000071893726000040/staa-ex99_1.htm",
+   "filed_at": "2026-11-04T16:03:17-05:00",
+   "filed_kst": "2026-11-05 06:03",
+   "price": 27.17,
+   "change": 7.95,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 27.17,
+     "change": 7.95
+    },
+    {
+     "date": "2026-11-03",
+     "close": 25.17,
+     "change": 0.92
+    },
+    {
+     "date": "2026-11-02",
+     "close": 24.94,
+     "change": 1.63
+    }
+   ],
+   "market_cap": 1362412045.0,
+   "shares_outstanding": 50143984.0,
+   "industry": "Ophthalmic Goods",
+   "state_of_incorporation": "DE",
+   "hq": "MONROVIA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:04:01+09:00"
+  },
+  {
+   "id": "0001690585-26-000039",
+   "company": "Dianthus Therapeutics, Inc. /DE/",
+   "ticker": "DNTH",
+   "cik": 1690585,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 71,
+   "summary": "Claseprubart was granted Orphan Drug Designation by the FDA for the treatment of Myasthenia Gravis in May 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1690585/000169058526000039/0001690585-26-000039-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1690585/000169058526000039/dnth-ex99_1.htm",
+   "filed_at": "2026-11-04T16:03:19-05:00",
+   "filed_kst": "2026-11-05 06:03",
+   "price": 85.81,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 85.81,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 85.81,
+     "change": 3.76
+    },
+    {
+     "date": "2026-11-03",
+     "close": 82.7,
+     "change": 0.55
+    }
+   ],
+   "market_cap": 4799728976.0,
+   "shares_outstanding": 55934378.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-05T06:03:59+09:00"
+  },
+  {
+   "id": "0001787306-26-000056",
+   "company": "Arcutis Biotherapeutics, Inc.",
+   "ticker": "ARQT",
+   "cik": 1787306,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 80,
+   "summary": "“Looking ahead, with a potential FDA approval of ZORYVE cream 0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1787306/000178730626000056/0001787306-26-000056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787306/000178730626000056/pressreleaseex991q32026.htm",
+   "filed_at": "2026-11-04T16:02:25-05:00",
+   "filed_kst": "2026-11-05 06:02",
+   "price": 34.05,
+   "change": 6.41,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 34.05,
+     "change": 6.41
+    },
+    {
+     "date": "2026-11-03",
+     "close": 32.0,
+     "change": 2.37
+    },
+    {
+     "date": "2026-11-02",
+     "close": 31.26,
+     "change": -2.53
+    }
+   ],
+   "market_cap": 4279811272.0,
+   "shares_outstanding": 125691961.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WESTLAKE VILLAGE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:03:25+09:00"
+  },
+  {
+   "id": "0001823239-26-000065",
+   "company": "MARAVAI LIFESCIENCES HOLDINGS, INC.",
+   "ticker": "MRVI",
+   "cik": 1823239,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "7% year-over-year, primarily driven by $14.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1823239/000182323926000065/0001823239-26-000065-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1823239/000182323926000065/exhibit991-q32026.htm",
+   "filed_at": "2026-11-04T16:02:54-05:00",
+   "filed_kst": "2026-11-05 06:02",
+   "price": 7.72,
+   "change": 3.62,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 7.72,
+     "change": 3.62
+    },
+    {
+     "date": "2026-11-03",
+     "close": 7.45,
+     "change": 3.62
+    },
+    {
+     "date": "2026-11-02",
+     "close": 7.19,
+     "change": -7.94
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:03:21+09:00"
+  },
+  {
+   "id": "0001437749-26-034926",
+   "company": "Moleculin Biotech, Inc.",
+   "ticker": "MBRX",
+   "cik": 1659617,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "The MIRACLE Trial (MB-108) is designed to confirm the efficacy and safety findings observed in the Company's completed MB-106 Phase 1/2 trial and, if successful, could support a New Drug Application submission, consistent with the Company's agreement with the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926034926/0001437749-26-034926-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926034926/mbrx20261104_8k.htm",
+   "filed_at": "2026-11-04T16:01:42-05:00",
+   "filed_kst": "2026-11-05 06:01",
+   "price": 8.46,
+   "change": 1.93,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 8.46,
+     "change": 1.93
+    },
+    {
+     "date": "2026-11-03",
+     "close": 8.3,
+     "change": -0.24
+    },
+    {
+     "date": "2026-11-02",
+     "close": 8.32,
+     "change": 5.32
+    }
+   ],
+   "market_cap": 164778635.0,
+   "shares_outstanding": 19477380.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-05T06:02:45+09:00"
+  },
+  {
+   "id": "0000772406-26-000053",
+   "company": "CIRRUS LOGIC, INC.",
+   "ticker": "CRUS",
+   "cik": 772406,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 76,
+   "summary": "Finally, subsequent to the end of the quarter, we completed the acquisition of INVENTVM, a fabless semiconductor company specializing in mixed-signal power management and audio integrated circuits.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/772406/000077240626000053/0000772406-26-000053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/772406/000077240626000053/shareholderletter.htm",
+   "filed_at": "2026-11-04T16:01:50-05:00",
+   "filed_kst": "2026-11-05 06:01",
+   "price": 115.99,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 115.99,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 115.99,
+     "change": 3.27
+    },
+    {
+     "date": "2026-11-03",
+     "close": 112.32,
+     "change": 0.75
+    }
+   ],
+   "market_cap": 5813135900.0,
+   "shares_outstanding": 50117561.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "AUSTIN, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:02:43+09:00"
+  },
+  {
+   "id": "0000950103-26-016945",
+   "company": "ADC Therapeutics SA",
+   "ticker": "ADCT",
+   "cik": 1771910,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "EX-99.1 2 dp256258_ex9901.htm EXHIBIT 99.1 Exhibit 99.1 ADC Therapeutics Announces Abstracts at the 68th ASH Annual Meeting Highlighting Breadth of ZYNLONTA ® Clinical Program ZYNLONTA data to be featured across 5 oral presentations and multiple posters Phase 1b LOTIS-7 abstract data demonstrates an",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1771910/000095010326016945/0000950103-26-016945-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1771910/000095010326016945/dp256258_ex9901.htm",
+   "filed_at": "2026-11-04T16:00:44-05:00",
+   "filed_kst": "2026-11-05 06:00",
+   "price": 1.71,
+   "change": 10.32,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 1.71,
+     "change": 10.32
+    },
+    {
+     "date": "2026-11-03",
+     "close": 1.55,
+     "change": 0.65
+    },
+    {
+     "date": "2026-11-02",
+     "close": 1.54,
+     "change": 0.65
+    }
+   ],
+   "market_cap": 218311758.0,
+   "shares_outstanding": 127667695.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Switzerland",
+   "hq": "EPALINGES, V8",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-05T06:02:07+09:00"
+  },
   {
    "id": "0001062993-26-005740",
    "company": "THUNDER MOUNTAIN GOLD INC",
@@ -15283,481 +15777,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-02T21:16:02+09:00"
-  },
-  {
-   "id": "0001104659-26-120913",
-   "company": "Graf Global Corp.",
-   "ticker": "TONT",
-   "cik": 1897463,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ": 001-42142 Date: November 2, 2026 On October 30, 2026, O'Shea Jackson (“Ice Cube”), an executive officer of BIG3 HoldCo LLC, which is a party to the previously disclosed Business Combination Agreement, dated as of June 12, 2026, with Graf Global Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926120913/0001104659-26-120913-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926120913/tm2618324d32_425.htm",
-   "filed_at": "2026-11-02T07:08:08-05:00",
-   "filed_kst": "2026-11-02 21:08",
-   "price": 10.96,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 10.96,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 10.96,
-     "change": 0.09
-    },
-    {
-     "date": "2026-10-28",
-     "close": 10.95,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Amusement & Recreation Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-02T21:08:46+09:00"
-  },
-  {
-   "id": "0001104659-26-120911",
-   "company": "Graf Global Corp.",
-   "ticker": "TONT",
-   "cik": 1897463,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ": 001-42142 Date: November 2, 2026 On October 30, 2026, O'Shea Jackson (“Ice Cube”), an executive officer of BIG3 HoldCo LLC, which is a party to the previously disclosed Business Combination Agreement, dated as of June 12, 2026, with Graf Global Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926120911/0001104659-26-120911-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926120911/tm2618324d31_425.htm",
-   "filed_at": "2026-11-02T07:06:50-05:00",
-   "filed_kst": "2026-11-02 21:06",
-   "price": 10.96,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 10.96,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 10.96,
-     "change": 0.09
-    },
-    {
-     "date": "2026-10-28",
-     "close": 10.95,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Amusement & Recreation Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-02T21:07:43+09:00"
-  },
-  {
-   "id": "0001711279-26-000072",
-   "company": "Krystal Biotech, Inc.",
-   "ticker": "KRYS",
-   "cik": 1711279,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "자사주매입",
-    "탑라인결과"
-   ],
-   "confidence": 69,
-   "summary": "The Company now expects the last patient visit in February 2027 with top-line results reported shortly thereafter.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1711279/000171127926000072/0001711279-26-000072-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1711279/000171127926000072/exhibit991-3q26pressrelease.htm",
-   "filed_at": "2026-11-02T07:07:15-05:00",
-   "filed_kst": "2026-11-02 21:07",
-   "price": 332.29,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 332.29,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 332.29,
-     "change": 2.38
-    },
-    {
-     "date": "2026-10-29",
-     "close": 324.55,
-     "change": 0.97
-    }
-   ],
-   "market_cap": 9846906411.0,
-   "shares_outstanding": 29633472.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": null,
-   "hq": "PITTSBURGH, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T21:07:42+09:00"
-  },
-  {
-   "id": "0001193125-26-442628",
-   "company": "Axsome Therapeutics, Inc.",
-   "ticker": "AXSM",
-   "cik": 1579428,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "AXS-12 has been granted FDA Orphan Drug designation for narcolepsy.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1579428/000119312526442628/0001193125-26-442628-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579428/000119312526442628/axsm-ex99_1.htm",
-   "filed_at": "2026-11-02T07:05:22-05:00",
-   "filed_kst": "2026-11-02 21:05",
-   "price": 144.43,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 144.43,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 144.43,
-     "change": 0.68
-    },
-    {
-     "date": "2026-10-29",
-     "close": 143.45,
-     "change": -0.04
-    }
-   ],
-   "market_cap": 7565361544.0,
-   "shares_outstanding": 52380818.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T21:06:38+09:00"
-  },
-  {
-   "id": "0001193125-26-442627",
-   "company": "TripAdvisor, Inc.",
-   "ticker": "TRIP",
-   "cik": 1526520,
-   "form": "8-K",
-   "items": [
-    "2.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Under the terms of the Equity Purchase Agreement, Buyer acquired the Business for $700 million, subject to certain adjustments, in an all-cash transaction (the “ Transaction ”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526442627/0001193125-26-442627-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526442627/trip-20261101.htm",
-   "filed_at": "2026-11-02T07:05:15-05:00",
-   "filed_kst": "2026-11-02 21:05",
-   "price": 9.22,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 9.22,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 9.22,
-     "change": 3.13
-    },
-    {
-     "date": "2026-10-28",
-     "close": 8.94,
-     "change": -0.45
-    }
-   ],
-   "market_cap": 1080577933.0,
-   "shares_outstanding": 117199342.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "DE",
-   "hq": "NEEDHAM, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T21:06:06+09:00"
-  },
-  {
-   "id": "0001178913-26-004944",
-   "company": "RedHill Biopharma Ltd.",
-   "ticker": "RDHL",
-   "cik": 1553846,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 92,
-   "summary": "Where applicable, the Company intends to explore the potential for additional designations, including FDA breakthrough therapy and pediatric orphan drug designations, which may provide a potential avenue for receiving a priority review voucher (PRV).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004944/0001178913-26-004944-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326004944/exhibit_99-1.htm",
-   "filed_at": "2026-11-02T07:04:41-05:00",
-   "filed_kst": "2026-11-02 21:04",
-   "price": 0.39,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 0.39,
-     "change": -0.05
-    },
-    {
-     "date": "2026-10-30",
-     "close": 0.39,
-     "change": -6.95
-    },
-    {
-     "date": "2026-10-29",
-     "close": 0.42,
-     "change": -2.57
-    }
-   ],
-   "market_cap": 19860071790.0,
-   "shares_outstanding": 50923261000.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-02T21:05:32+09:00"
-  },
-  {
-   "id": "0001193125-26-442625",
-   "company": "Seaport Therapeutics, Inc.",
-   "ticker": "SPTX",
-   "cik": 2042347,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 75,
-   "summary": "The trial met its primary endpoint, showing that evening dosing of GlyphAllo at 375 mg did not impair next-morning driving performance compared to placebo on Day 5, following multiple-day dosing.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2042347/000119312526442625/0001193125-26-442625-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2042347/000119312526442625/sptx-ex99_1.htm",
-   "filed_at": "2026-11-02T07:03:54-05:00",
-   "filed_kst": "2026-11-02 21:03",
-   "price": 19.6,
-   "change": -7.11,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 19.6,
-     "change": -7.11
-    },
-    {
-     "date": "2026-10-29",
-     "close": 21.1,
-     "change": 3.53
-    },
-    {
-     "date": "2026-10-28",
-     "close": 20.38,
-     "change": -4.23
-    }
-   ],
-   "market_cap": 1049198780.0,
-   "shares_outstanding": 53530550.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-02T21:04:32+09:00"
-  },
-  {
-   "id": "0001213900-26-114652",
-   "company": "Can-Fite BioPharma Ltd.",
-   "ticker": "CANF",
-   "cik": 1536196,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 91,
-   "summary": "Namodenoson has been granted Orphan Drug Designation in the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026114652/0001213900-26-114652-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026114652/ea031046201ex99-1.htm",
-   "filed_at": "2026-11-02T07:03:34-05:00",
-   "filed_kst": "2026-11-02 21:03",
-   "price": 1.62,
-   "change": -2.41,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 1.62,
-     "change": -2.41
-    },
-    {
-     "date": "2026-10-29",
-     "close": 1.66,
-     "change": 0.61
-    },
-    {
-     "date": "2026-10-28",
-     "close": 1.65,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 4241848.0,
-   "shares_outstanding": 2618425.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "RAMAT GAN, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-02T21:04:00+09:00"
-  },
-  {
-   "id": "0001437749-26-034277",
-   "company": "Eton Pharmaceuticals, Inc.",
-   "ticker": "ETON",
-   "cik": 1710340,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The Company has entered into a license agreement with Baylor College of Medicine covering patent rights related to the use of insulin-like growth factor 1 (IGF-1) for the treatment of spasms.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926034277/0001437749-26-034277-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926034277/eton20261027_8k.htm",
-   "filed_at": "2026-11-02T07:00:21-05:00",
-   "filed_kst": "2026-11-02 21:00",
-   "price": 52.18,
-   "change": -2.78,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 52.18,
-     "change": -2.78
-    },
-    {
-     "date": "2026-10-29",
-     "close": 53.67,
-     "change": 3.61
-    },
-    {
-     "date": "2026-10-28",
-     "close": 51.8,
-     "change": 1.25
-    }
-   ],
-   "market_cap": 1491467984.0,
-   "shares_outstanding": 28583135.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "DEER PARK, IL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-02T21:01:22+09:00"
   }
  ]
 }
