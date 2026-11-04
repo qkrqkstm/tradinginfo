@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-04T22:04:57+09:00",
+ "updated_at": "2026-11-04T22:09:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-034769",
+   "company": "UroGen Pharma Ltd.",
+   "ticker": "URGN",
+   "cik": 1668243,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 67,
+   "summary": "0 million in revenue in the third quarter of 2026, representing 35% quarter-over-quarter growth • The FDA accepted UroGen ’ s NDA for UGN-103 (next-generation novel mitomycin-based formulation) for review; PDUFA goal date set for June 14, 2027 • Announced first patient dosed in the UGN-501 Phase 1 t",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1668243/000143774926034769/0001437749-26-034769-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1668243/000143774926034769/ex_1036873.htm",
+   "filed_at": "2026-11-04T08:08:03-05:00",
+   "filed_kst": "2026-11-04 22:08",
+   "price": 34.4,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 34.4,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 34.4,
+     "change": 0.12
+    },
+    {
+     "date": "2026-11-02",
+     "close": 34.36,
+     "change": 5.01
+    }
+   ],
+   "market_cap": 1681491402.0,
+   "shares_outstanding": 48880564.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "RA'ANANA, L3",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-04T22:09:11+09:00"
+  },
   {
    "id": "0001104659-26-122384",
    "company": "MINISO Group Holding Ltd",
@@ -15696,38 +15751,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-02T20:00:52+09:00"
-  },
-  {
-   "id": "0001185185-26-005107",
-   "company": "InoBat B.V.",
-   "ticker": "INBT",
-   "cik": 2156068,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "InoBat is also advancing a strategic partnership with Clarios and Altris on next-generation cell technology and participates in a gigafactory joint venture with Gotion High-Tech Co.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2156068/000118518526005107/0001185185-26-005107-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2156068/000118518526005107/inobatbv425103026.htm",
-   "filed_at": "2026-10-30T17:39:08-04:00",
-   "filed_kst": "2026-10-31 06:39",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "Netherlands",
-   "hq": "VODERADY",
-   "entity_category": null,
-   "detected_at": "2026-11-02T20:00:50+09:00"
   }
  ]
 }
