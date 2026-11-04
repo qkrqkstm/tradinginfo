@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-05T06:54:22+09:00",
+ "updated_at": "2026-11-05T06:59:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001289877-26-000042",
+   "company": "SFL Corp Ltd.",
+   "ticker": "SFL",
+   "cik": 1289877,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 73,
+   "summary": "The Company’s Board of Directors has authorized the repurchase of up to an aggregate of $100 million of the Company's common shares from time to time, valid until June 2029.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1289877/000128987726000042/0001289877-26-000042-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1289877/000128987726000042/sfl-earningsreleaseq32026.htm",
+   "filed_at": "2026-11-04T16:55:45-05:00",
+   "filed_kst": "2026-11-05 06:55",
+   "price": 11.72,
+   "change": -4.95,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 11.72,
+     "change": -4.95
+    },
+    {
+     "date": "2026-11-03",
+     "close": 12.33,
+     "change": 1.07
+    },
+    {
+     "date": "2026-11-02",
+     "close": 12.2,
+     "change": -5.79
+    }
+   ],
+   "market_cap": 1694277504.0,
+   "shares_outstanding": 144562927.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": null,
+   "hq": "HAMILTON, HM 08, D0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:56:30+09:00"
+  },
+  {
+   "id": "0000866273-26-000080",
+   "company": "MATRIX SERVICE CO",
+   "ticker": "MTRX",
+   "cik": 866273,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "“Reflecting confidence in our strategy and the strength of our financial position, the board also approved a new share buyback program for $25 million,” concluded Payne.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866273/000086627326000080/0000866273-26-000080-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/866273/000086627326000080/a093026ex99earningsrelease.htm",
+   "filed_at": "2026-11-04T16:55:57-05:00",
+   "filed_kst": "2026-11-05 06:55",
+   "price": 9.13,
+   "change": -4.5,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 9.13,
+     "change": -4.5
+    },
+    {
+     "date": "2026-11-03",
+     "close": 9.56,
+     "change": 2.69
+    },
+    {
+     "date": "2026-11-02",
+     "close": 9.31,
+     "change": -0.53
+    }
+   ],
+   "market_cap": 258305239.0,
+   "shares_outstanding": 28291921.0,
+   "industry": "Construction - Special Trade Contractors",
+   "state_of_incorporation": "DE",
+   "hq": "TULSA, OK",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:56:28+09:00"
+  },
   {
    "id": "0001193125-26-447517",
    "company": "CBL & ASSOCIATES PROPERTIES INC",
@@ -15755,113 +15860,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-03T06:33:39+09:00"
-  },
-  {
-   "id": "0001140361-26-041594",
-   "company": "TELOS CORP",
-   "ticker": "TLS",
-   "cik": 320121,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 4 ef20084793_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Telos Board Appoints Executive Vice President Mark Griffin as CEO; John B. Wood to Serve as Executive Chairman Ashburn, Va. – November 2, 2026 – Telos Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solut",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/320121/000114036126041594/0001140361-26-041594-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/320121/000114036126041594/ef20084793_ex99-1.htm",
-   "filed_at": "2026-11-02T16:33:01-05:00",
-   "filed_kst": "2026-11-03 06:33",
-   "price": 5.21,
-   "change": -3.87,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 5.21,
-     "change": -3.87
-    },
-    {
-     "date": "2026-10-30",
-     "close": 5.42,
-     "change": -6.23
-    },
-    {
-     "date": "2026-10-29",
-     "close": 5.78,
-     "change": -2.12
-    }
-   ],
-   "market_cap": 389378671.0,
-   "shares_outstanding": 74736789.0,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "MD",
-   "hq": "ASHBURN, VA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-03T06:33:37+09:00"
-  },
-  {
-   "id": "0000775215-26-000094",
-   "company": "HBT Financial, Inc.",
-   "ticker": "HBT",
-   "cik": 775215,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“TYFG”) entered into an Agreement and Plan of Merger in connection with HBT's proposed acquisition of TYFG and its wholly owned bank subsidiary, First State Bank.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000094/0000775215-26-000094-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000094/hbt-20261029.htm",
-   "filed_at": "2026-11-02T16:31:12-05:00",
-   "filed_kst": "2026-11-03 06:31",
-   "price": 37.51,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 37.51,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 37.51,
-     "change": 2.71
-    },
-    {
-     "date": "2026-10-30",
-     "close": 36.52,
-     "change": -0.76
-    }
-   ],
-   "market_cap": 1364074106.0,
-   "shares_outstanding": 36365612.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "BLOOMINGTON, IL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:32:28+09:00"
   }
  ]
 }
