@@ -1,7 +1,585 @@
 {
- "updated_at": "2026-11-04T19:59:33+09:00",
+ "updated_at": "2026-11-04T20:09:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000093556-26-000036",
+   "company": "STANLEY BLACK & DECKER, INC.",
+   "ticker": "SWK",
+   "cik": 93556,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 61,
+   "summary": "EX-99.1 2 ex991q32026.htm EX-99.1 Document Exhibit 99.1 Stanley Black & Decker Reports 3Q 2026 Results Results Include Benefit from Additional Tariff Refunds in 3Q, Supporting Increases to 2026 EPS and Free Cash Flow Guidance Organic Growth and Margin Expansion Progress Continued in 3Q, Excluding th",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/93556/000009355626000036/0000093556-26-000036-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/93556/000009355626000036/ex991q32026.htm",
+   "filed_at": "2026-11-04T06:08:40-05:00",
+   "filed_kst": "2026-11-04 20:08",
+   "price": 104.62,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 104.62,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 104.62,
+     "change": -1.96
+    },
+    {
+     "date": "2026-11-02",
+     "close": 106.71,
+     "change": 3.16
+    }
+   ],
+   "market_cap": 15799360981.0,
+   "shares_outstanding": 151016641.0,
+   "industry": "Cutlery, Handtools & General Hardware",
+   "state_of_incorporation": "CT",
+   "hq": "NEW BRITAIN, CT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:09:16+09:00"
+  },
+  {
+   "id": "0001292814-26-005134",
+   "company": "UNITED BREWERIES CO INC",
+   "ticker": "CCU",
+   "cik": 888746,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "JOINT VENTURES & ASSOCIATES Regarding our main JVs and associated businesses, in Colombia , first we want to express our deepest sympathies and solidarity with the people affected by the recent earthquake.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/888746/000129281426005134/0001292814-26-005134-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/888746/000129281426005134/ccupr3q26_6k.htm",
+   "filed_at": "2026-11-03T17:41:11-05:00",
+   "filed_kst": "2026-11-04 07:41",
+   "price": 10.37,
+   "change": 0.19,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 10.37,
+     "change": 0.19
+    },
+    {
+     "date": "2026-11-02",
+     "close": 10.35,
+     "change": 0.19
+    },
+    {
+     "date": "2026-10-30",
+     "close": 10.33,
+     "change": -0.96
+    }
+   ],
+   "market_cap": 3831744783.0,
+   "shares_outstanding": 369502872.0,
+   "industry": "Malt Beverages",
+   "state_of_incorporation": null,
+   "hq": "SANTIAGO CHILE, F3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:06:09+09:00"
+  },
+  {
+   "id": "0001104659-26-122221",
+   "company": "GeoPark Ltd",
+   "ticker": "GPRK",
+   "cik": 1464591,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "In 3Q2026, revenue reflected a $36.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1464591/000110465926122221/0001104659-26-122221-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1464591/000110465926122221/gprk-20261103x6k.htm",
+   "filed_at": "2026-11-03T17:46:59-05:00",
+   "filed_kst": "2026-11-04 07:46",
+   "price": 10.33,
+   "change": -0.48,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 10.33,
+     "change": -0.48
+    },
+    {
+     "date": "2026-11-02",
+     "close": 10.38,
+     "change": -4.6
+    },
+    {
+     "date": "2026-10-30",
+     "close": 10.88,
+     "change": 0.55
+    }
+   ],
+   "market_cap": 534135355.0,
+   "shares_outstanding": 51707198.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Bermuda",
+   "hq": "BOGOTA, F8",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:06:08+09:00"
+  },
+  {
+   "id": "0001104659-26-122236",
+   "company": "SUNCOR ENERGY INC",
+   "ticker": "SU",
+   "cik": 311337,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "배당"
+   ],
+   "confidence": 63,
+   "summary": "● During the third quarter of 2026, Suncor recorded a non-cash asset impairment of $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/311337/000110465926122236/0001104659-26-122236-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/311337/000110465926122236/su-ex99d2.htm",
+   "filed_at": "2026-11-03T18:25:38-05:00",
+   "filed_kst": "2026-11-04 08:25",
+   "price": 75.45,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 75.45,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 75.45,
+     "change": 0.04
+    },
+    {
+     "date": "2026-11-02",
+     "close": 75.42,
+     "change": -5.04
+    }
+   ],
+   "market_cap": 90051045822.0,
+   "shares_outstanding": 1193519494.0,
+   "industry": "Petroleum Refining",
+   "state_of_incorporation": "Alberta, Canada",
+   "hq": "CALGARY, A0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:06:05+09:00"
+  },
+  {
+   "id": "0000066740-26-000318",
+   "company": "3M CO",
+   "ticker": "MMM",
+   "cik": 66740,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 2 msa.htm EX-10.1 Document Exhibit 10.1 IN RE: AQUEOUS FILM-FORMING FOAMS PRODUCTS LIABILITY LITIGATION PERSONAL INJURY CLAIMS MASTER SETTLEMENT AGREEMENT This Master Settlement Agreement (the “Settlement” or the “Settlement Agreement”), dated November 3, 2026, is hereby entered into by and ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000318/0000066740-26-000318-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000318/msa.htm",
+   "filed_at": "2026-11-03T18:03:00-05:00",
+   "filed_kst": "2026-11-04 08:03",
+   "price": 177.05,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 177.05,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 177.05,
+     "change": -0.73
+    },
+    {
+     "date": "2026-11-02",
+     "close": 178.36,
+     "change": 2.31
+    }
+   ],
+   "market_cap": 91486971077.0,
+   "shares_outstanding": 516729574.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "ST PAUL, MN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:05:45+09:00"
+  },
+  {
+   "id": "0001193125-26-445747",
+   "company": "HECLA MINING CO/DE/",
+   "ticker": "HL",
+   "cik": 719413,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "The Company remains debt free (excluding finance leases) and has entered into a new $500 million revolving credit agreement with an additional $100 million accordion option.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/719413/000119312526445747/0001193125-26-445747-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/719413/000119312526445747/hl-ex99_1.htm",
+   "filed_at": "2026-11-03T18:25:46-05:00",
+   "filed_kst": "2026-11-04 08:25",
+   "price": 13.21,
+   "change": -2.44,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 13.21,
+     "change": -2.44
+    },
+    {
+     "date": "2026-11-02",
+     "close": 13.54,
+     "change": 0.07
+    },
+    {
+     "date": "2026-10-30",
+     "close": 13.53,
+     "change": -6.37
+    }
+   ],
+   "market_cap": 8874178476.0,
+   "shares_outstanding": 671777326.0,
+   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+   "state_of_incorporation": "DE",
+   "hq": "COEUR D'ALENE, ID",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:05:44+09:00"
+  },
+  {
+   "id": "0001564708-26-000243",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000243/0001564708-26-000243-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000243/appendix3cclassa20261103.htm",
+   "filed_at": "2026-11-03T19:33:45-05:00",
+   "filed_kst": "2026-11-04 09:33",
+   "price": 32.06,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 32.06,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 32.06,
+     "change": -1.23
+    },
+    {
+     "date": "2026-11-02",
+     "close": 32.46,
+     "change": 2.27
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:05:41+09:00"
+  },
+  {
+   "id": "0001122976-26-000145",
+   "company": "AVIENT CORP",
+   "ticker": "AVNT",
+   "cik": 1122976,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향"
+   ],
+   "confidence": 62,
+   "summary": "1 Document NEWS RELEASE FOR IMMEDIATE RELEASE Avient Announces Third Quarter 2026 Results Ahead of Expectations; Increases Full-Year Adjusted EPS Guidance Range • Third quarter sales grew 10.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1122976/000112297626000145/0001122976-26-000145-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1122976/000112297626000145/avnt-20260930xnewsrelease.htm",
+   "filed_at": "2026-11-04T06:01:18-05:00",
+   "filed_kst": "2026-11-04 20:01",
+   "price": 43.25,
+   "change": -0.46,
+   "price_history": [
+    {
+     "date": "2026-11-03",
+     "close": 43.25,
+     "change": -0.46
+    },
+    {
+     "date": "2026-11-02",
+     "close": 43.45,
+     "change": 1.42
+    },
+    {
+     "date": "2026-10-30",
+     "close": 42.84,
+     "change": -0.09
+    }
+   ],
+   "market_cap": 3966870538.0,
+   "shares_outstanding": 91719550.0,
+   "industry": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+   "state_of_incorporation": null,
+   "hq": "AVON LAKE, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:05:37+09:00"
+  },
+  {
+   "id": "0001672013-26-000179",
+   "company": "Acushnet Holdings Corp.",
+   "ticker": "GOLF",
+   "cik": 1672013,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "9 million related to the deconsolidation of our FootJoy golf shoe joint venture (\"FootJoy JV\").",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000179/0001672013-26-000179-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000179/ex991-q32026.htm",
+   "filed_at": "2026-11-04T06:01:23-05:00",
+   "filed_kst": "2026-11-04 20:01",
+   "price": 87.41,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 87.41,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 87.41,
+     "change": -2.25
+    },
+    {
+     "date": "2026-11-02",
+     "close": 89.42,
+     "change": 4.88
+    }
+   ],
+   "market_cap": 5105184896.0,
+   "shares_outstanding": 58405044.0,
+   "industry": "Sporting & Athletic Goods, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "FAIRHAVEN, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:05:35+09:00"
+  },
+  {
+   "id": "0001856314-26-000053",
+   "company": "Clear Secure, Inc.",
+   "ticker": "YOU",
+   "cik": 1856314,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "0 million increase to its existing Class A Common Stock share repurchase program, resulting in an aggregate remaining authorization of approximately $254.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1856314/000185631426000053/0001856314-26-000053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1856314/000185631426000053/clearq32026pressreleaseear.htm",
+   "filed_at": "2026-11-04T06:03:02-05:00",
+   "filed_kst": "2026-11-04 20:03",
+   "price": 47.76,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 47.76,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 47.76,
+     "change": -0.4
+    },
+    {
+     "date": "2026-11-02",
+     "close": 47.95,
+     "change": 4.26
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:05:31+09:00"
+  },
+  {
+   "id": "0002064953-26-000098",
+   "company": "Solstice Advanced Materials Inc.",
+   "ticker": "SOLS",
+   "cik": 2064953,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 70,
+   "summary": "Intends to substantially complete $500 million share repurchase authorization by the end of 1Q’27 MORRIS PLAINS, N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2064953/000206495326000098/0002064953-26-000098-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2064953/000206495326000098/exhibit991-earningsrelease.htm",
+   "filed_at": "2026-11-04T06:03:09-05:00",
+   "filed_kst": "2026-11-04 20:03",
+   "price": 61.74,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 61.74,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 61.74,
+     "change": 4.77
+    },
+    {
+     "date": "2026-11-02",
+     "close": 58.93,
+     "change": -2.68
+    }
+   ],
+   "market_cap": 9807236562.0,
+   "shares_outstanding": 158847369.0,
+   "industry": "Chemicals & Allied Products",
+   "state_of_incorporation": "DE",
+   "hq": "MORRIS PLAINS, NJ",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-04T20:05:28+09:00"
+  },
   {
    "id": "0001140361-26-041841",
    "company": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
@@ -15081,597 +15659,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-10-30T21:55:57+09:00"
-  },
-  {
-   "id": "0001121404-26-000009",
-   "company": "Sanofi",
-   "ticker": "SNY",
-   "cik": 1121404,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 97,
-   "summary": "52 Pipeline update • Two regulatory approvals; in rare diseases and vaccines • One regulatory submission acceptance and two regulatory designations (priority review and PRIME) Guidance upgraded • 2026 guidance is upgraded: sales are expected to grow by a low-teens percentage at CER.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1121404/000112140426000009/0001121404-26-000009-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1121404/000112140426000009/pressreleaseq32026english.htm",
-   "filed_at": "2026-10-30T08:49:56-04:00",
-   "filed_kst": "2026-10-30 21:49",
-   "price": 43.13,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 43.13,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 43.13,
-     "change": 2.11
-    },
-    {
-     "date": "2026-10-28",
-     "close": 42.24,
-     "change": 0.84
-    }
-   ],
-   "market_cap": 52593890650.0,
-   "shares_outstanding": 1219427096.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "France",
-   "hq": "PARIS, I0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T21:50:31+09:00"
-  },
-  {
-   "id": "0001140361-26-041230",
-   "company": "Hilton Grand Vacations Inc.",
-   "ticker": "HGV",
-   "cik": 1674168,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "5323 Millenia Lakes Boulevard Orlando, Florida 32839 Attn: Ben Loper Email: [_____] Re: Master Confirmation— Uncollared Accelerated Share Repurchase This master confirmation (this “ Master Confirmation ”), dated as of October 30, 2026, is intended to set forth certain terms and provisions of certain",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1674168/000114036126041230/0001140361-26-041230-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1674168/000114036126041230/ef20084563_ex10-1.htm",
-   "filed_at": "2026-10-30T08:33:07-04:00",
-   "filed_kst": "2026-10-30 21:33",
-   "price": 35.71,
-   "change": 0.51,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 35.71,
-     "change": 0.51
-    },
-    {
-     "date": "2026-10-28",
-     "close": 35.53,
-     "change": -0.56
-    },
-    {
-     "date": "2026-10-27",
-     "close": 35.73,
-     "change": 0.03
-    }
-   ],
-   "market_cap": 2707629653.0,
-   "shares_outstanding": 75822729.0,
-   "industry": "Hotels, Rooming Houses, Camps & Other Lodging Places",
-   "state_of_incorporation": "DE",
-   "hq": "ORLANDO, FL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T21:33:34+09:00"
-  },
-  {
-   "id": "0001140361-26-041227",
-   "company": "Elevra Lithium Ltd",
-   "ticker": "ELVR",
-   "cik": 1739016,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.2 3 ef20084595_ex99-2.htm EXHIBIT 99.2 Exhibit 99.2 27 October 2026 Quarterly Activities Report September 2026 Elevra Lithium Limited (“ELV” or “Company”) (ASX: ELV; NASDAQ: ELVR) delivered record ore mined and processed at North American Lithium, second highest production on record, increased",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126041227/0001140361-26-041227-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126041227/ef20084595_ex99-2.htm",
-   "filed_at": "2026-10-30T08:30:30-04:00",
-   "filed_kst": "2026-10-30 21:30",
-   "price": 23.48,
-   "change": -11.99,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 23.48,
-     "change": -11.99
-    },
-    {
-     "date": "2026-10-28",
-     "close": 26.68,
-     "change": -2.66
-    },
-    {
-     "date": "2026-10-27",
-     "close": 27.41,
-     "change": 10.08
-    }
-   ],
-   "market_cap": 271036590409.0,
-   "shares_outstanding": 11543296014.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "Australia",
-   "hq": "BRISBANE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T21:30:53+09:00"
-  },
-  {
-   "id": "0001230245-26-000038",
-   "company": "PIPER SANDLER COMPANIES",
-   "ticker": "PIPR",
-   "cik": 1230245,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 70,
-   "summary": "20 Per Share; Announces New Share Repurchase Authorization MINNEAPOLIS—October 30, 2026—Piper Sandler Companies (NYSE: PIPR), a leading investment bank, today announced its results for the third quarter of 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1230245/000123024526000038/0001230245-26-000038-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1230245/000123024526000038/q32026ex99earningspressrel.htm",
-   "filed_at": "2026-10-30T08:06:16-04:00",
-   "filed_kst": "2026-10-30 21:06",
-   "price": 68.72,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 68.72,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 68.72,
-     "change": 2.63
-    },
-    {
-     "date": "2026-10-28",
-     "close": 66.96,
-     "change": 2.54
-    }
-   ],
-   "market_cap": 4856462398.0,
-   "shares_outstanding": 70670291.0,
-   "industry": "Security Brokers, Dealers & Flotation Companies",
-   "state_of_incorporation": "DE",
-   "hq": "MINNEAPOLIS, MN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T21:06:59+09:00"
-  },
-  {
-   "id": "0001628280-26-068443",
-   "company": "Azenta, Inc.",
-   "ticker": "AZTA",
-   "cik": 933974,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "(“Azenta” or the “Company”) entered into a Technology, Equipment and License Agreement (the “License Agreement”) and a Master Services and Supply Agreement (the “Supply Agreement” and, together with the License Agreement, the “Elegen Agreements”) with Elegen Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026068443/0001628280-26-068443-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026068443/azta-20261028.htm",
-   "filed_at": "2026-10-30T08:02:38-04:00",
-   "filed_kst": "2026-10-30 21:02",
-   "price": 41.27,
-   "change": 1.58,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 41.27,
-     "change": 1.58
-    },
-    {
-     "date": "2026-10-28",
-     "close": 40.63,
-     "change": 3.97
-    },
-    {
-     "date": "2026-10-27",
-     "close": 39.08,
-     "change": 5.14
-    }
-   ],
-   "market_cap": 1807972379.0,
-   "shares_outstanding": 43808393.0,
-   "industry": "Special Industry Machinery, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "BURLINGTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T21:03:29+09:00"
-  },
-  {
-   "id": "0001213900-26-114071",
-   "company": "Radiopharm Theranostics Ltd",
-   "ticker": "RADX",
-   "cik": 1949257,
-   "form": "6-K",
-   "items": [
-    "3.10"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 90,
-   "summary": "RAD101 has received FDA Fast Track Designation to distinguish between recurrent disease and treatment effect of brain metastases originating from solid tumors of different origin including leptomeningeal disease.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1949257/000121390026114071/0001213900-26-114071-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1949257/000121390026114071/ea031030701ex99-1.htm",
-   "filed_at": "2026-10-30T08:00:15-04:00",
-   "filed_kst": "2026-10-30 21:00",
-   "price": 1.12,
-   "change": 17.47,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 1.12,
-     "change": 17.47
-    },
-    {
-     "date": "2026-10-28",
-     "close": 0.95,
-     "change": 5.56
-    },
-    {
-     "date": "2026-10-27",
-     "close": 0.9,
-     "change": -9.64
-    }
-   ],
-   "market_cap": 3969522099.0,
-   "shares_outstanding": 3544216160.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Australia",
-   "hq": "CARLTON VIC",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T21:00:48+09:00"
-  },
-  {
-   "id": "0001037976-26-000191",
-   "company": "JONES LANG LASALLE INC",
-   "ticker": "JLL",
-   "cik": 1037976,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "01 Other Events On October 29, 2026, Jones Lang LaSalle Incorporated (the “Company”) entered into a confirmation with Wells Fargo Bank for an accelerated share repurchase transaction (the “ASR”) to repurchase $500 million of the Company’s common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1037976/000103797626000191/0001037976-26-000191-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1037976/000103797626000191/jll-20261029.htm",
-   "filed_at": "2026-10-30T07:56:01-04:00",
-   "filed_kst": "2026-10-30 20:56",
-   "price": 353.47,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 353.47,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 353.47,
-     "change": 6.04
-    },
-    {
-     "date": "2026-10-28",
-     "close": 333.34,
-     "change": 11.14
-    }
-   ],
-   "market_cap": 16146269947.0,
-   "shares_outstanding": 45679322.0,
-   "industry": "Real Estate Agents & Managers (For Others)",
-   "state_of_incorporation": "MD",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:56:56+09:00"
-  },
-  {
-   "id": "0001551152-26-000033",
-   "company": "AbbVie Inc.",
-   "ticker": "ABBV",
-   "cik": 1551152,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 97,
-   "summary": "3 Recent Events (Continued) • AbbVie announced the FDA approved Juvmo (tavapadon) tablets as the only selective D1/D5 receptor agonist for the treatment of adults with Parkinson's disease (PD).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000033/0001551152-26-000033-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000033/abbv-20260930xexhibit991.htm",
-   "filed_at": "2026-10-30T07:51:51-04:00",
-   "filed_kst": "2026-10-30 20:51",
-   "price": 290.79,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 290.79,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 290.79,
-     "change": 1.68
-    },
-    {
-     "date": "2026-10-28",
-     "close": 285.99,
-     "change": -0.14
-    }
-   ],
-   "market_cap": 513860035305.0,
-   "shares_outstanding": 1767117285.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NORTH CHICAGO, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:52:32+09:00"
-  },
-  {
-   "id": "0001846253-26-000049",
-   "company": "OmniAb, Inc.",
-   "ticker": "OABI",
-   "cik": 1846253,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "탑라인결과",
-    "가이던스상향"
-   ],
-   "confidence": 97,
-   "summary": "The study met its primary endpoint, demonstrating statistically significant and clinically meaningful prevention of gluten-induced intestinal damage versus placebo at week 8.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1846253/000184625326000049/0001846253-26-000049-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1846253/000184625326000049/a2026q3ex991.htm",
-   "filed_at": "2026-10-30T07:42:56-04:00",
-   "filed_kst": "2026-10-30 20:42",
-   "price": 5.23,
-   "change": -0.95,
-   "price_history": [
-    {
-     "date": "2026-10-29",
-     "close": 5.23,
-     "change": -0.95
-    },
-    {
-     "date": "2026-10-28",
-     "close": 5.28,
-     "change": 6.45
-    },
-    {
-     "date": "2026-10-27",
-     "close": 4.96,
-     "change": 7.59
-    }
-   ],
-   "market_cap": 760391782.0,
-   "shares_outstanding": 145390398.0,
-   "industry": "Services-Commercial Physical & Biological Research",
-   "state_of_incorporation": "DE",
-   "hq": "EMERYVILLE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-10-30T20:43:33+09:00"
-  },
-  {
-   "id": "0000763744-26-000103",
-   "company": "LCI INDUSTRIES",
-   "ticker": "LCII",
-   "cik": 763744,
-   "form": "425",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "01 Other Events As previously disclosed, on June 30, 2026, LCI Industries (the “Company”), a Delaware corporation, entered into an Agreement and Plan of Merger with Patrick Industries, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000103/0000763744-26-000103-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000103/lciiform-pressrelease20261.htm",
-   "filed_at": "2026-10-30T07:34:39-04:00",
-   "filed_kst": "2026-10-30 20:34",
-   "price": 98.97,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 98.97,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 98.97,
-     "change": 1.41
-    },
-    {
-     "date": "2026-10-28",
-     "close": 97.59,
-     "change": 8.63
-    }
-   ],
-   "market_cap": 2406109848.0,
-   "shares_outstanding": 24311507.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "DE",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:35:25+09:00"
-  },
-  {
-   "id": "0000763744-26-000101",
-   "company": "LCI INDUSTRIES",
-   "ticker": "LCII",
-   "cik": 763744,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "01 Other Events As previously disclosed, on June 30, 2026, LCI Industries (the “Company”), a Delaware corporation, entered into an Agreement and Plan of Merger with Patrick Industries, Inc.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000101/0000763744-26-000101-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000101/lcii-20261030.htm",
-   "filed_at": "2026-10-30T07:31:36-04:00",
-   "filed_kst": "2026-10-30 20:31",
-   "price": 98.97,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 98.97,
-     "change": -0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 98.97,
-     "change": 1.41
-    },
-    {
-     "date": "2026-10-28",
-     "close": 97.59,
-     "change": 8.63
-    }
-   ],
-   "market_cap": 2406109848.0,
-   "shares_outstanding": 24311507.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "DE",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-10-30T20:32:16+09:00"
   }
  ]
 }
