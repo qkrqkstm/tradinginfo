@@ -1,7 +1,273 @@
 {
- "updated_at": "2026-11-05T06:44:36+09:00",
+ "updated_at": "2026-11-05T06:49:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001753926-26-002063",
+   "company": "INTERPARFUMS INC",
+   "ticker": "IPAR",
+   "cik": 822663,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "” Share Repurchase In July 2026, the Board of Directors of our Company authorized a share repurchase program to purchase outstanding shares in either our Company (IPAR) or its majority owned Paris based subsidiary, Interparfums SA, whose shares trade on the Euronext under the symbol “ITP,” or both.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/822663/000175392626002063/0001753926-26-002063-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/822663/000175392626002063/ex991_1.htm",
+   "filed_at": "2026-11-04T16:49:03-05:00",
+   "filed_kst": "2026-11-05 06:49",
+   "price": 123.57,
+   "change": 5.53,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 123.57,
+     "change": 5.53
+    },
+    {
+     "date": "2026-11-03",
+     "close": 117.09,
+     "change": -2.31
+    },
+    {
+     "date": "2026-11-02",
+     "close": 119.86,
+     "change": 3.0
+    }
+   ],
+   "market_cap": 3957648184.0,
+   "shares_outstanding": 32027581.0,
+   "industry": "Perfumes, Cosmetics & Other Toilet Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:49:39+09:00"
+  },
+  {
+   "id": "0001829126-26-011979",
+   "company": "Vivakor, Inc.",
+   "ticker": "VIVK",
+   "cik": 1450704,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "2 Vivakor Engages International Business Strategist to Advance Proposed Airport Energy Infrastructure Project Marcela Ronquillo Hinojosa to Support Strategic Partnerships, Financing Opportunities and Development of Hydrogen and CNG Infrastructure Dallas, TX – GlobeNewswire – November 3, 2026 – Vivak",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626011979/0001829126-26-011979-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626011979/vivakorinc_ex99-3.htm",
+   "filed_at": "2026-11-04T16:48:28-05:00",
+   "filed_kst": "2026-11-05 06:48",
+   "price": 0.48,
+   "change": -27.45,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 0.48,
+     "change": -27.45
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.67,
+     "change": -2.18
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.68,
+     "change": -21.8
+    }
+   ],
+   "market_cap": 3928140.0,
+   "shares_outstanding": 8183626.0,
+   "industry": "Refuse Systems",
+   "state_of_incorporation": "NV",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T06:49:04+09:00"
+  },
+  {
+   "id": "0001317861-26-000054",
+   "company": "Dynagas LNG Partners LP",
+   "ticker": "DLNG",
+   "cik": 1578453,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "” About Dynagas LNG Partners LP Dynagas LNG Partners LP (NYSE: DLNG) is a master limited partnership which owns LNG carriers employed on multi-year charters.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000054/0001317861-26-000054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000054/f110426dlng6k.htm",
+   "filed_at": "2026-11-04T16:47:28-05:00",
+   "filed_kst": "2026-11-05 06:47",
+   "price": 3.14,
+   "change": -1.87,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 3.14,
+     "change": -1.87
+    },
+    {
+     "date": "2026-11-03",
+     "close": 3.2,
+     "change": 0.95
+    },
+    {
+     "date": "2026-11-02",
+     "close": 3.17,
+     "change": -2.76
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Water Transportation",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "ATHENS",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:48:31+09:00"
+  },
+  {
+   "id": "0001324404-26-000023",
+   "company": "CF Industries Holdings, Inc.",
+   "ticker": "CF",
+   "cik": 1324404,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "03 billion for same period, which includes cash inflows and outflows associated with the Blue Point One joint venture • Repurchased 3.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1324404/000132440426000023/0001324404-26-000023-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1324404/000132440426000023/cf-11042026_ex991xearnings.htm",
+   "filed_at": "2026-11-04T16:47:47-05:00",
+   "filed_kst": "2026-11-05 06:47",
+   "price": 111.68,
+   "change": -4.39,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 111.68,
+     "change": -4.39
+    },
+    {
+     "date": "2026-11-03",
+     "close": 116.81,
+     "change": -2.93
+    },
+    {
+     "date": "2026-11-02",
+     "close": 120.33,
+     "change": -2.41
+    }
+   ],
+   "market_cap": 16901442358.0,
+   "shares_outstanding": 151338130.0,
+   "industry": "Agricultural Chemicals",
+   "state_of_incorporation": "DE",
+   "hq": "NORTHBROOK, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:48:29+09:00"
+  },
+  {
+   "id": "0000085535-26-000049",
+   "company": "ROYAL GOLD INC",
+   "ticker": "RGLD",
+   "cik": 85535,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각",
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 92,
+   "summary": "2 Corporate Activity Buyback and Cancellation of Shares During the third quarter, and in accordance with the previously announced $500 million share repurchase program approved by the Board of Directors on May 4, 2026, we repurchased 190,045 shares at an average price of $259.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/85535/000008553526000049/0000085535-26-000049-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/85535/000008553526000049/rgld-20261104xexx991.htm",
+   "filed_at": "2026-11-04T16:47:21-05:00",
+   "filed_kst": "2026-11-05 06:47",
+   "price": 246.08,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 246.08,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 246.08,
+     "change": 6.57
+    },
+    {
+     "date": "2026-11-03",
+     "close": 230.92,
+     "change": -2.15
+    }
+   ],
+   "market_cap": 20849831051.0,
+   "shares_outstanding": 84727857.0,
+   "industry": "Mineral Royalty Traders",
+   "state_of_incorporation": "DE",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:47:54+09:00"
+  },
   {
    "id": "0001193125-26-447467",
    "company": "LEMAITRE VASCULAR INC",
@@ -15597,278 +15863,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-03T06:31:44+09:00"
-  },
-  {
-   "id": "0001193125-26-443736",
-   "company": "Metallus Inc.",
-   "ticker": "MTUS",
-   "cik": 1598428,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "2 million remaining under its authorized share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1598428/000119312526443736/0001193125-26-443736-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1598428/000119312526443736/mtus-ex99_1.htm",
-   "filed_at": "2026-11-02T16:28:54-05:00",
-   "filed_kst": "2026-11-03 06:28",
-   "price": 21.32,
-   "change": 0.95,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 21.32,
-     "change": 0.95
-    },
-    {
-     "date": "2026-10-30",
-     "close": 21.12,
-     "change": -1.4
-    },
-    {
-     "date": "2026-10-29",
-     "close": 21.42,
-     "change": 1.18
-    }
-   ],
-   "market_cap": 883698735.0,
-   "shares_outstanding": 41449284.0,
-   "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
-   "state_of_incorporation": "OH",
-   "hq": "CANTON, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:30:56+09:00"
-  },
-  {
-   "id": "0001493152-26-049620",
-   "company": "Tri-County Financial Group, Inc.",
-   "ticker": "TYFG",
-   "cik": 1725262,
-   "form": "8-K",
-   "items": [
-    "5.07"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "(the “ Company ”) held a special meeting of the stockholders (the “ Special Meeting ”) to consider certain proposals related to the previously announced Agreement and Plan of Merger, dated August 10, 2026 (the “ Merger Agreement ”), among the Company, HBT Financial, Inc.",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1725262/000149315226049620/0001493152-26-049620-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1725262/000149315226049620/form8-k.htm",
-   "filed_at": "2026-11-02T16:28:07-05:00",
-   "filed_kst": "2026-11-03 06:28",
-   "price": 83.15,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 83.15,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 83.15,
-     "change": 0.78
-    },
-    {
-     "date": "2026-10-30",
-     "close": 82.51,
-     "change": -0.53
-    }
-   ],
-   "market_cap": 198734154.0,
-   "shares_outstanding": 2390068.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "DE",
-   "hq": "MENDOTA, IL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-03T06:29:13+09:00"
-  },
-  {
-   "id": "0001213900-26-114951",
-   "company": "HERBALIFE LTD.",
-   "ticker": "HLF",
-   "cik": 1180262,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "1 million year-over-year in the third quarter Recent Developments ● Board authorized new share repurchase program of up to $250 million over three years ● Appointed Scott Schaefer Chief Financial Officer, effective November 1, 2026 Outlook ● Fourth quarter 2026 guidance provided ● Full-year 2026 gui",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1180262/000121390026114951/0001213900-26-114951-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1180262/000121390026114951/ea031037101ex99-1.htm",
-   "filed_at": "2026-11-02T16:22:30-05:00",
-   "filed_kst": "2026-11-03 06:22",
-   "price": 13.28,
-   "change": 1.76,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 13.28,
-     "change": 1.76
-    },
-    {
-     "date": "2026-10-30",
-     "close": 13.05,
-     "change": 0.93
-    },
-    {
-     "date": "2026-10-29",
-     "close": 12.93,
-     "change": -3.36
-    }
-   ],
-   "market_cap": 1393016051.0,
-   "shares_outstanding": 104895787.0,
-   "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GEORGE TOWN, E9",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:23:35+09:00"
-  },
-  {
-   "id": "0001193125-26-443709",
-   "company": "Great Elm Capital Corp.",
-   "ticker": "GECC",
-   "cik": 1675033,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "Stock Repurchase Program The Company’s Board of Directors authorized a stock repurchase program in October 2025, whereby the Company may opportunistically repurchase up to an aggregate of $10.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1675033/000119312526443709/0001193125-26-443709-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1675033/000119312526443709/gecc-ex99_1.htm",
-   "filed_at": "2026-11-02T16:22:08-05:00",
-   "filed_kst": "2026-11-03 06:22",
-   "price": 5.0,
-   "change": 1.01,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 5.0,
-     "change": 1.01
-    },
-    {
-     "date": "2026-10-30",
-     "close": 4.95,
-     "change": -0.6
-    },
-    {
-     "date": "2026-10-29",
-     "close": 4.98,
-     "change": -0.2
-    }
-   ],
-   "market_cap": 68297250.0,
-   "shares_outstanding": 13659450.0,
-   "industry": null,
-   "state_of_incorporation": "MD",
-   "hq": "PALM BEACH GARDENS, FL",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-03T06:22:48+09:00"
-  },
-  {
-   "id": "0001654954-26-009385",
-   "company": "AEHR TEST SYSTEMS",
-   "ticker": "AEHR",
-   "cik": 1040470,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "Our lead AI processor WLBI production customer continues to expand capacity, supported by the $22 million follow-on order announced in August 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1040470/000165495426009385/0001654954-26-009385-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1040470/000165495426009385/aehr_ex991.htm",
-   "filed_at": "2026-11-02T16:21:31-05:00",
-   "filed_kst": "2026-11-03 06:21",
-   "price": 51.47,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 51.47,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 51.47,
-     "change": -6.23
-    },
-    {
-     "date": "2026-10-30",
-     "close": 54.89,
-     "change": -10.33
-    }
-   ],
-   "market_cap": 1678974562.0,
-   "shares_outstanding": 32620450.0,
-   "industry": "Instruments For Meas & Testing of  Electricity & Elec Signals",
-   "state_of_incorporation": "CA",
-   "hq": "FREMONT, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-03T06:22:14+09:00"
   }
  ]
 }
