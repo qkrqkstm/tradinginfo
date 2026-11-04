@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-05T06:39:30+09:00",
+ "updated_at": "2026-11-05T06:44:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-447467",
+   "company": "LEMAITRE VASCULAR INC",
+   "ticker": "LMAT",
+   "cik": 1158895,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "Share Repurchase Program On February 19, 2026, the Company’s Board of Directors authorized the repurchase of up to $100.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1158895/000119312526447467/0001193125-26-447467-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1158895/000119312526447467/d171050dex991.htm",
+   "filed_at": "2026-11-04T16:40:12-05:00",
+   "filed_kst": "2026-11-05 06:40",
+   "price": 87.92,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 87.92,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 87.92,
+     "change": 9.08
+    },
+    {
+     "date": "2026-11-03",
+     "close": 80.6,
+     "change": -0.81
+    }
+   ],
+   "market_cap": 2010665075.0,
+   "shares_outstanding": 22869257.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": null,
+   "hq": "BURLINGTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T06:41:06+09:00"
+  },
   {
    "id": "0001628280-26-070209",
    "company": "MURPHY OIL CORP",
@@ -15816,60 +15869,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-03T06:22:14+09:00"
-  },
-  {
-   "id": "0001628280-26-068893",
-   "company": "RED ROBIN GOURMET BURGERS INC",
-   "ticker": "RRGB",
-   "cik": 1171759,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The five-year $115 million credit agreement provides for a $25 million revolving line of credit and a $90 million term loan.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1171759/000162828026068893/0001628280-26-068893-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1171759/000162828026068893/pre-releaseex991q3x2026.htm",
-   "filed_at": "2026-11-02T16:20:25-05:00",
-   "filed_kst": "2026-11-03 06:20",
-   "price": 9.14,
-   "change": 0.33,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 9.14,
-     "change": 0.33
-    },
-    {
-     "date": "2026-10-30",
-     "close": 9.11,
-     "change": -2.36
-    },
-    {
-     "date": "2026-10-29",
-     "close": 9.33,
-     "change": 3.78
-    }
-   ],
-   "market_cap": 172780293.0,
-   "shares_outstanding": 18903752.0,
-   "industry": "Retail-Eating  Places",
-   "state_of_incorporation": "DE",
-   "hq": "ENGLEWOOD, CO",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-03T06:21:09+09:00"
   }
  ]
 }
