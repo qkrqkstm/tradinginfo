@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-05T01:14:35+09:00",
+ "updated_at": "2026-11-05T01:19:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001174947-26-000951",
+   "company": "ENI SPA",
+   "ticker": "E",
+   "cik": 1002242,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "62 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000951/0001174947-26-000951-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000951/0001174947-26-000951-index-headers.html",
+   "filed_at": "2026-11-04T11:15:00-05:00",
+   "filed_kst": "2026-11-05 01:15",
+   "price": 57.3,
+   "change": -1.77,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 57.3,
+     "change": -1.77
+    },
+    {
+     "date": "2026-11-03",
+     "close": 58.33,
+     "change": -0.73
+    },
+    {
+     "date": "2026-11-02",
+     "close": 58.76,
+     "change": -3.36
+    }
+   ],
+   "market_cap": 180309641032.0,
+   "shares_outstanding": 3146765114.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Italy",
+   "hq": "ROME ITALY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T01:16:01+09:00"
+  },
   {
    "id": "0001193125-26-446483",
    "company": "Array Technologies, Inc.",
@@ -15716,59 +15766,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-02T20:47:49+09:00"
-  },
-  {
-   "id": "0001564708-26-000241",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000241/0001564708-26-000241-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000241/appendix3cclassa20261030.htm",
-   "filed_at": "2026-11-02T06:38:13-05:00",
-   "filed_kst": "2026-11-02 20:38",
-   "price": 31.74,
-   "change": -1.37,
-   "price_history": [
-    {
-     "date": "2026-10-30",
-     "close": 31.74,
-     "change": -1.37
-    },
-    {
-     "date": "2026-10-29",
-     "close": 32.18,
-     "change": 0.5
-    },
-    {
-     "date": "2026-10-28",
-     "close": 32.02,
-     "change": -2.26
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-02T20:39:19+09:00"
   }
  ]
 }
