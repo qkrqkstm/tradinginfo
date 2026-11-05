@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-05T21:49:31+09:00",
+ "updated_at": "2026-11-05T21:54:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000076334-26-000170",
+   "company": "Parker-Hannifin Corp",
+   "ticker": "PH",
+   "cik": 76334,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 68,
+   "summary": "We are pleased to have completed the acquisition of Filtration Group Corporation, significantly expanding our filtration offering and aftermarket business and are excited to welcome these talented team members to Parker.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/76334/000007633426000170/0000076334-26-000170-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/76334/000007633426000170/exhibit991q1fy27.htm",
+   "filed_at": "2026-11-05T07:52:30-05:00",
+   "filed_kst": "2026-11-05 21:52",
+   "price": 910.19,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 910.19,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 910.19,
+     "change": -3.68
+    },
+    {
+     "date": "2026-11-03",
+     "close": 944.99,
+     "change": 1.8
+    }
+   ],
+   "market_cap": 114727145809.0,
+   "shares_outstanding": 126047469.0,
+   "industry": "Miscellaneous Fabricated Metal Products",
+   "state_of_incorporation": "OH",
+   "hq": "CLEVELAND, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:53:26+09:00"
+  },
   {
    "id": "0002104052-26-000141",
    "company": "Enviri Corp",
@@ -15911,60 +15965,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-04T06:17:23+09:00"
-  },
-  {
-   "id": "0001833197-26-000039",
-   "company": "Latham Group, Inc.",
-   "ticker": "SWIM",
-   "cik": 1833197,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 72,
-   "summary": "In-Ground Pool Market in 2027 • Board of Directors Approved $100 Million Share Buyback Program Third Quarter 2026 Financial Highlights: • Net sales of $182.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1833197/000183319726000039/0001833197-26-000039-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833197/000183319726000039/swim-20261103xexhibit99.htm",
-   "filed_at": "2026-11-03T16:15:41-05:00",
-   "filed_kst": "2026-11-04 06:15",
-   "price": 7.32,
-   "change": -1.88,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 7.32,
-     "change": -1.88
-    },
-    {
-     "date": "2026-11-02",
-     "close": 7.46,
-     "change": 2.05
-    },
-    {
-     "date": "2026-10-30",
-     "close": 7.31,
-     "change": 0.69
-    }
-   ],
-   "market_cap": 861169350.0,
-   "shares_outstanding": 117646086.0,
-   "industry": "Plastics Products, NEC",
-   "state_of_incorporation": "NY",
-   "hq": "LATHAM, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-04T06:17:22+09:00"
   }
  ]
 }
