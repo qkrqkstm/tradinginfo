@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-05T22:34:53+09:00",
+ "updated_at": "2026-11-05T22:39:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-448714",
+   "company": "Aptevo Therapeutics Inc.",
+   "ticker": "APVO",
+   "cik": 1671584,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "Mipletamig has received orphan drug designation for AML under the Orphan Drug Act.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526448714/0001193125-26-448714-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526448714/apvo-ex99_1.htm",
+   "filed_at": "2026-11-05T08:35:14-05:00",
+   "filed_kst": "2026-11-05 22:35",
+   "price": 1.37,
+   "change": 0.74,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 1.37,
+     "change": 0.74
+    },
+    {
+     "date": "2026-11-03",
+     "close": 1.36,
+     "change": 0.74
+    },
+    {
+     "date": "2026-11-02",
+     "close": 1.35,
+     "change": 0.75
+    }
+   ],
+   "market_cap": 2468699.0,
+   "shares_outstanding": 1801970.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SEATTLE, WA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-05T22:36:13+09:00"
+  },
   {
    "id": "0001193125-26-448711",
    "company": "Disc Medicine, Inc.",
@@ -15921,54 +15976,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-04T07:12:38+09:00"
-  },
-  {
-   "id": "0000950103-26-016864",
-   "company": "newcleo plc",
-   "ticker": "NWCL",
-   "cik": 2131813,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through a vertically integrated supply chain and a growing network of strategic partnerships, newcleo is working to turn proven scientific and engineering solutions into deployable nuclear energy assets.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326016864/0000950103-26-016864-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326016864/dp255904_ex9901.htm",
-   "filed_at": "2026-11-03T17:08:14-05:00",
-   "filed_kst": "2026-11-04 07:08",
-   "price": 4.72,
-   "change": 7.52,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 4.72,
-     "change": 7.52
-    },
-    {
-     "date": "2026-11-02",
-     "close": 4.39,
-     "change": 3.29
-    },
-    {
-     "date": "2026-10-30",
-     "close": 4.25,
-     "change": -7.81
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Fabricated Plate Work (Boiler Shops)",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": null,
-   "detected_at": "2026-11-04T07:09:10+09:00"
   }
  ]
 }
