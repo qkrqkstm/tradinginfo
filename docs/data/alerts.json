@@ -1,7 +1,270 @@
 {
- "updated_at": "2026-11-06T06:39:31+09:00",
+ "updated_at": "2026-11-06T06:44:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-042122",
+   "company": "Otis Worldwide Corp",
+   "ticker": "OTIS",
+   "cik": 1781335,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-1.1 2 ef20084888_ex1-1.htm EXHIBIT 1.1 Exhibit 1.1 Execution Version OTIS WORLDWIDE CORPORATION $500,000,000 5.825% NOTES DUE 2036 UNDERWRITING AGREEMENT November 2, 2026 Citigroup Global Markets Inc. Goldman Sachs & Co. LLC HSBC Securities (USA) Inc. c/o Citigroup Global Markets Inc. 388 Greenwi",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036126042122/0001140361-26-042122-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036126042122/ef20084888_ex1-1.htm",
+   "filed_at": "2026-11-05T16:42:51-05:00",
+   "filed_kst": "2026-11-06 06:42",
+   "price": 79.49,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 79.49,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 79.49,
+     "change": -0.38
+    },
+    {
+     "date": "2026-11-04",
+     "close": 79.79,
+     "change": 3.87
+    }
+   ],
+   "market_cap": 30262678678.0,
+   "shares_outstanding": 380710513.0,
+   "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+   "state_of_incorporation": "DE",
+   "hq": "FARMINGTON, CT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T06:43:22+09:00"
+  },
+  {
+   "id": "0001552781-26-000543",
+   "company": "Essential Utilities, Inc.",
+   "ticker": "WTRG",
+   "cik": 78128,
+   "form": "425",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(“Essential Utilities”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), providing for the proposed merger of Merger Sub with and into Essential Utilities (the “Merger”), with Essential Utilities surviving the Merger as a wholly owned subsidiary of American Water.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000543/0001552781-26-000543-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000543/e26433_wtrg-8k.htm",
+   "filed_at": "2026-11-05T16:40:29-05:00",
+   "filed_kst": "2026-11-06 06:40",
+   "price": 46.05,
+   "change": 2.04,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 46.05,
+     "change": 2.04
+    },
+    {
+     "date": "2026-11-04",
+     "close": 45.13,
+     "change": 2.48
+    },
+    {
+     "date": "2026-11-03",
+     "close": 44.04,
+     "change": -0.9
+    }
+   ],
+   "market_cap": 13187616550.0,
+   "shares_outstanding": 286376038.0,
+   "industry": "Water Supply",
+   "state_of_incorporation": "PA",
+   "hq": "BRYN MAWR, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T06:41:13+09:00"
+  },
+  {
+   "id": "0001552781-26-000542",
+   "company": "Essential Utilities, Inc.",
+   "ticker": "WTRG",
+   "cik": 78128,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(“Essential Utilities”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), providing for the proposed merger of Merger Sub with and into Essential Utilities (the “Merger”), with Essential Utilities surviving the Merger as a wholly owned subsidiary of American Water.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000542/0001552781-26-000542-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000542/e26433_wtrg-8k.htm",
+   "filed_at": "2026-11-05T16:40:16-05:00",
+   "filed_kst": "2026-11-06 06:40",
+   "price": 46.05,
+   "change": 2.04,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 46.05,
+     "change": 2.04
+    },
+    {
+     "date": "2026-11-04",
+     "close": 45.13,
+     "change": 2.48
+    },
+    {
+     "date": "2026-11-03",
+     "close": 44.04,
+     "change": -0.9
+    }
+   ],
+   "market_cap": 13187616550.0,
+   "shares_outstanding": 286376038.0,
+   "industry": "Water Supply",
+   "state_of_incorporation": "PA",
+   "hq": "BRYN MAWR, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T06:41:11+09:00"
+  },
+  {
+   "id": "0001535778-26-000104",
+   "company": "MSC INCOME FUND, INC.",
+   "ticker": "MSIF",
+   "cik": 1535778,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "0 million private notes offering • Entered into a share repurchase plan to facilitate the repurchase of up to $20.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1535778/000153577826000104/0001535778-26-000104-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1535778/000153577826000104/msifearningsreleaseq326.htm",
+   "filed_at": "2026-11-05T16:40:35-05:00",
+   "filed_kst": "2026-11-06 06:40",
+   "price": 12.25,
+   "change": -0.73,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 12.25,
+     "change": -0.73
+    },
+    {
+     "date": "2026-11-04",
+     "close": 12.34,
+     "change": 3.26
+    },
+    {
+     "date": "2026-11-03",
+     "close": 11.95,
+     "change": 0.17
+    }
+   ],
+   "market_cap": 555479055.0,
+   "shares_outstanding": 45345229.0,
+   "industry": null,
+   "state_of_incorporation": null,
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T06:41:10+09:00"
+  },
+  {
+   "id": "0001193125-26-450022",
+   "company": "CBL & ASSOCIATES PROPERTIES INC",
+   "ticker": "CBL",
+   "cik": 910612,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 82,
+   "summary": "• On November 4, 2026, CBL's Board of Directors authorized a stock repurchase program under which the Company may repurchase up to $25.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/910612/000119312526450022/0001193125-26-450022-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/910612/000119312526450022/cbl-ex99_1.htm",
+   "filed_at": "2026-11-05T16:40:01-05:00",
+   "filed_kst": "2026-11-06 06:40",
+   "price": 47.94,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 47.94,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 47.94,
+     "change": -3.54
+    },
+    {
+     "date": "2026-11-04",
+     "close": 49.7,
+     "change": 0.75
+    }
+   ],
+   "market_cap": 1483395771.0,
+   "shares_outstanding": 30942757.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "DE",
+   "hq": "CHATTANOOGA, TN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-06T06:40:37+09:00"
+  },
   {
    "id": "0000909327-26-000087",
    "company": "Suzano S.A.",
@@ -15660,281 +15923,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T06:21:18+09:00"
-  },
-  {
-   "id": "0000915913-26-000128",
-   "company": "ALBEMARLE CORP",
-   "ticker": "ALB",
-   "cik": 915913,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 60,
-   "summary": "Operating cash flow conversion of 63% (a) , supported by a cash dividend from the Talison joint venture which partly offset timing of working capital changes.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000128/0000915913-26-000128-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000128/a3q26earningsreleaseex991.htm",
-   "filed_at": "2026-11-04T16:19:27-05:00",
-   "filed_kst": "2026-11-05 06:19",
-   "price": 94.97,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 94.97,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 94.97,
-     "change": 5.3
-    },
-    {
-     "date": "2026-11-03",
-     "close": 90.19,
-     "change": -0.41
-    }
-   ],
-   "market_cap": 11206940263.0,
-   "shares_outstanding": 118005057.0,
-   "industry": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
-   "state_of_incorporation": "VA",
-   "hq": "CHARLOTTE, NC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:20:33+09:00"
-  },
-  {
-   "id": "0001193125-26-447321",
-   "company": "Nuvation Bio Inc.",
-   "ticker": "NUVB",
-   "cik": 1811063,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 97,
-   "summary": "EX-99.1 2 d371447dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Nuvation Bio Reports Third Quarter 2026 Financial Results and Provides Business Update Achieved $45.0 million in third quarter 2026 total revenue, including $27.5 million in net product revenue for IBTROZI ® (taletrectinib) IBTROZI continues t",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1811063/000119312526447321/0001193125-26-447321-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1811063/000119312526447321/d371447dex991.htm",
-   "filed_at": "2026-11-04T16:18:14-05:00",
-   "filed_kst": "2026-11-05 06:18",
-   "price": 4.73,
-   "change": 0.85,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 4.73,
-     "change": 0.85
-    },
-    {
-     "date": "2026-11-03",
-     "close": 4.69,
-     "change": 2.18
-    },
-    {
-     "date": "2026-11-02",
-     "close": 4.59,
-     "change": -3.57
-    }
-   ],
-   "market_cap": 1669773428.0,
-   "shares_outstanding": 353017638.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T06:19:07+09:00"
-  },
-  {
-   "id": "0001437749-26-034952",
-   "company": "Comstock Inc.",
-   "ticker": "LODE",
-   "cik": 1120970,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "0 million gain on the mining sale; ● Authorized a share repurchase program of up to 15 million shares of the Company’s common stock, from time to time, at the discretion of the Board of Directors, on terms, conditions and liquidity favorable to the Company; and ● Common shares outstanding were 76.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926034952/0001437749-26-034952-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926034952/ex_1038353.htm",
-   "filed_at": "2026-11-04T16:18:17-05:00",
-   "filed_kst": "2026-11-05 06:18",
-   "price": 1.49,
-   "change": 7.19,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 1.49,
-     "change": 7.19
-    },
-    {
-     "date": "2026-11-03",
-     "close": 1.39,
-     "change": -3.47
-    },
-    {
-     "date": "2026-11-02",
-     "close": 1.44,
-     "change": 2.13
-    }
-   ],
-   "market_cap": 113324490.0,
-   "shares_outstanding": 76056705.0,
-   "industry": "Industrial Organic Chemicals",
-   "state_of_incorporation": "NV",
-   "hq": "RENO, NV",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T06:19:05+09:00"
-  },
-  {
-   "id": "0001350593-26-000043",
-   "company": "Mueller Water Products, Inc.",
-   "ticker": "MWA",
-   "cik": 1350593,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "2.05",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 70,
-   "summary": "Return of Capital to Shareholders On October 22, 2026, the Company announced that its Board of Directors approved a $300.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000043/0001350593-26-000043-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000043/exhibit991releasefy26q4.htm",
-   "filed_at": "2026-11-04T16:16:45-05:00",
-   "filed_kst": "2026-11-05 06:16",
-   "price": 24.04,
-   "change": 1.99,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 24.04,
-     "change": 1.99
-    },
-    {
-     "date": "2026-11-03",
-     "close": 23.57,
-     "change": -1.87
-    },
-    {
-     "date": "2026-11-02",
-     "close": 24.02,
-     "change": 5.4
-    }
-   ],
-   "market_cap": 3753261323.0,
-   "shares_outstanding": 156125679.0,
-   "industry": "Miscellaneous Fabricated Metal Products",
-   "state_of_incorporation": "DE",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:17:52+09:00"
-  },
-  {
-   "id": "0000077543-26-000218",
-   "company": "TUTOR PERINI CORP",
-   "ticker": "TPC",
-   "cik": 77543,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": ") Highly Profitable Backlog The Company booked approximately $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/77543/000007754326000218/0000077543-26-000218-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/77543/000007754326000218/tpc20261104ex991.htm",
-   "filed_at": "2026-11-04T16:16:54-05:00",
-   "filed_kst": "2026-11-05 06:16",
-   "price": 82.88,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 82.88,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 82.88,
-     "change": 0.04
-    },
-    {
-     "date": "2026-11-03",
-     "close": 82.85,
-     "change": 4.32
-    }
-   ],
-   "market_cap": 4356928417.0,
-   "shares_outstanding": 52569117.0,
-   "industry": "General Bldg Contractors - Nonresidential Bldgs",
-   "state_of_incorporation": "MA",
-   "hq": "SYLMAR, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:17:51+09:00"
   }
  ]
 }
