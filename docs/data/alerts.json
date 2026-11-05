@@ -1,7 +1,220 @@
 {
- "updated_at": "2026-11-05T21:39:14+09:00",
+ "updated_at": "2026-11-05T21:44:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000055135-26-000171",
+   "company": "KELLY SERVICES INC",
+   "ticker": "KELYA",
+   "cik": 55135,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 57,
+   "summary": "On November 4, 2026, the board of directors approved the renewal and extension of the Company's share repurchase program without an expiration date, which authorized the repurchase of up to $50.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/55135/000005513526000171/0000055135-26-000171-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/55135/000005513526000171/a20263qearningsreleaseform.htm",
+   "filed_at": "2026-11-05T07:41:12-05:00",
+   "filed_kst": "2026-11-05 21:41",
+   "price": 16.91,
+   "change": 3.36,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 16.91,
+     "change": 3.36
+    },
+    {
+     "date": "2026-11-03",
+     "close": 16.36,
+     "change": -2.85
+    },
+    {
+     "date": "2026-11-02",
+     "close": 16.84,
+     "change": 1.51
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Help Supply Services",
+   "state_of_incorporation": "DE",
+   "hq": "TROY, MI",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:42:13+09:00"
+  },
+  {
+   "id": "0001193125-26-448606",
+   "company": "Lantheus Holdings, Inc.",
+   "ticker": "LNTH",
+   "cik": 1521036,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "FDA"
+   ],
+   "confidence": 70,
+   "summary": "27 in the third quarter of 2025 • FDA approves TAUKLARIFY ™ (florquinitau F-18 injection); an F-18-labeled tau PET imaging agent for the evaluation of adults with cognitive impairment being assessed for Alzheimer’s disease • FDA grants final approval for BRAVNETSA ™ (lutetium Lu 177 dotatate",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526448606/0001193125-26-448606-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526448606/lnth-ex99_1.htm",
+   "filed_at": "2026-11-05T07:40:26-05:00",
+   "filed_kst": "2026-11-05 21:40",
+   "price": 101.14,
+   "change": 0.34,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 101.14,
+     "change": 0.34
+    },
+    {
+     "date": "2026-11-03",
+     "close": 100.8,
+     "change": 0.49
+    },
+    {
+     "date": "2026-11-02",
+     "close": 100.31,
+     "change": -0.15
+    }
+   ],
+   "market_cap": 6601647401.0,
+   "shares_outstanding": 65272369.0,
+   "industry": "In Vitro & In Vivo Diagnostic Substances",
+   "state_of_incorporation": "DE",
+   "hq": "BEDFORD, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:41:08+09:00"
+  },
+  {
+   "id": "0001193125-26-448604",
+   "company": "Pyxis Oncology, Inc.",
+   "ticker": "PYXS",
+   "cik": 1782223,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "MICVO received Fast Track Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1782223/000119312526448604/0001193125-26-448604-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782223/000119312526448604/pyxs-ex99_1.htm",
+   "filed_at": "2026-11-05T07:39:11-05:00",
+   "filed_kst": "2026-11-05 21:39",
+   "price": 1.66,
+   "change": 1.22,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 1.66,
+     "change": 1.22
+    },
+    {
+     "date": "2026-11-03",
+     "close": 1.64,
+     "change": -2.96
+    },
+    {
+     "date": "2026-11-02",
+     "close": 1.69,
+     "change": -6.63
+    }
+   ],
+   "market_cap": 138457363.0,
+   "shares_outstanding": 83408050.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T21:40:36+09:00"
+  },
+  {
+   "id": "0000703604-26-000050",
+   "company": "Distribution Solutions Group, Inc.",
+   "ticker": "DSGR",
+   "cik": 703604,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 62,
+   "summary": "• Completed the acquisition of American Fasteners Corp.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/703604/000070360426000050/0000703604-26-000050-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/703604/000070360426000050/a2026q3pressrelease.htm",
+   "filed_at": "2026-11-05T07:39:28-05:00",
+   "filed_kst": "2026-11-05 21:39",
+   "price": 35.02,
+   "change": 0.06,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 35.02,
+     "change": 0.06
+    },
+    {
+     "date": "2026-11-03",
+     "close": 35.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 35.0,
+     "change": 0.06
+    }
+   ],
+   "market_cap": 1619864878.0,
+   "shares_outstanding": 46255422.0,
+   "industry": "Wholesale-Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:40:33+09:00"
+  },
   {
    "id": "0001818794-26-000013",
    "company": "Dyne Therapeutics, Inc.",
@@ -15751,212 +15964,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-04T06:15:49+09:00"
-  },
-  {
-   "id": "0001047716-26-000108",
-   "company": "LATAM AIRLINES GROUP S.A.",
-   "ticker": "LTM",
-   "cik": 1047716,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "• On September 1, 2026, LATAM’s Board of Directors approved the launch of the first portion of the share repurchase program authorized at the Extraordinary Shareholders’ Meeting held on August 3, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1047716/000104771626000108/0001047716-26-000108-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1047716/000104771626000108/results-eng3q2026.htm",
-   "filed_at": "2026-11-03T16:14:03-05:00",
-   "filed_kst": "2026-11-04 06:14",
-   "price": 44.13,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 44.13,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 44.13,
-     "change": -1.25
-    },
-    {
-     "date": "2026-11-02",
-     "close": 44.69,
-     "change": 5.45
-    }
-   ],
-   "market_cap": 25340151361078.0,
-   "shares_outstanding": 574215983709.0,
-   "industry": "Air Transportation, Scheduled",
-   "state_of_incorporation": null,
-   "hq": "SANTIAGO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:14:29+09:00"
-  },
-  {
-   "id": "0001628280-26-069516",
-   "company": "Pelagos Insurance Capital Ltd",
-   "ticker": "PLGO",
-   "cik": 1636639,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 79,
-   "summary": "htm EX-99 Document Pelagos Insurance Capital Expands Capital Management Initiatives Replenishes common share repurchase authorization to $400.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1636639/000162828026069516/0001628280-26-069516-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1636639/000162828026069516/exhibit991plgo-dividendxno.htm",
-   "filed_at": "2026-11-03T16:13:08-05:00",
-   "filed_kst": "2026-11-04 06:13",
-   "price": 26.15,
-   "change": -1.32,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 26.15,
-     "change": -1.32
-    },
-    {
-     "date": "2026-11-02",
-     "close": 26.5,
-     "change": 0.65
-    },
-    {
-     "date": "2026-10-30",
-     "close": 26.33,
-     "change": 0.8
-    }
-   ],
-   "market_cap": 2527437614.0,
-   "shares_outstanding": 96651534.0,
-   "industry": "Fire, Marine & Casualty Insurance",
-   "state_of_incorporation": "Bermuda",
-   "hq": "PEMBROKE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:13:55+09:00"
-  },
-  {
-   "id": "0001628280-26-069509",
-   "company": "Huron Consulting Group Inc.",
-   "ticker": "HURN",
-   "cik": 1289848,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "• On October 29, 2026, Huron's board of directors authorized an increase to the company's share repurchase program from $900 million to $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1289848/000162828026069509/0001628280-26-069509-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1289848/000162828026069509/hurn2026930exh991.htm",
-   "filed_at": "2026-11-03T16:11:58-05:00",
-   "filed_kst": "2026-11-04 06:11",
-   "price": 198.17,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 198.17,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 198.17,
-     "change": 1.63
-    },
-    {
-     "date": "2026-11-02",
-     "close": 195.0,
-     "change": 0.29
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Management Consulting Services",
-   "state_of_incorporation": "DE",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:12:36+09:00"
-  },
-  {
-   "id": "0001140361-26-041797",
-   "company": "Elevra Lithium Ltd",
-   "ticker": "ELVR",
-   "cik": 1739016,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "About Elevra Lithium Elevra Lithium Limited is a North American lithium producer (ASX:ELV; NASDAQ:ELVR) with projects in Québec, Canada, United States, and a joint venture in Western Australia.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126041797/0001140361-26-041797-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126041797/ef20084858_6k.htm",
-   "filed_at": "2026-11-03T16:10:56-05:00",
-   "filed_kst": "2026-11-04 06:10",
-   "price": 22.25,
-   "change": -0.49,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 22.25,
-     "change": -0.49
-    },
-    {
-     "date": "2026-11-02",
-     "close": 22.36,
-     "change": 1.82
-    },
-    {
-     "date": "2026-10-30",
-     "close": 21.96,
-     "change": -6.47
-    }
-   ],
-   "market_cap": 4316856645.0,
-   "shares_outstanding": 194016029.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "Australia",
-   "hq": "BRISBANE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:12:03+09:00"
   }
  ]
 }
