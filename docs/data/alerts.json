@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-06T04:24:45+09:00",
+ "updated_at": "2026-11-06T04:29:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-116277",
+   "company": "Tiziana Life Sciences Ltd",
+   "ticker": "TLSA",
+   "cik": 1723069,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "1 Tiziana to Host Investor Call with Key Opinion Leaders to Discuss Positive Phase 2a INFORM-MS Topline Results ● Trial met primary endpoint with a statistically significant reduction in microglial activation on TSPO PET (p=0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026116277/0001213900-26-116277-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026116277/ea031111501ex99-1.htm",
+   "filed_at": "2026-11-05T14:26:20-05:00",
+   "filed_kst": "2026-11-06 04:26",
+   "price": 0.62,
+   "change": -2.66,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 0.62,
+     "change": -2.66
+    },
+    {
+     "date": "2026-11-04",
+     "close": 0.64,
+     "change": -7.25
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.69,
+     "change": 2.99
+    }
+   ],
+   "market_cap": 74714589.0,
+   "shares_outstanding": 120507401.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Bermuda",
+   "hq": "LONDON, ENGLAND, X0",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-06T04:27:06+09:00"
+  },
   {
    "id": "0001193125-26-449415",
    "company": "OBSIDIAN ENERGY LTD.",
@@ -15900,61 +15951,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-04T20:31:32+09:00"
-  },
-  {
-   "id": "0001193125-26-446144",
-   "company": "TREX CO INC",
-   "ticker": "TREX",
-   "cik": 1069878,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 78,
-   "summary": "The Company anticipates completing its Board-authorized $150 million share repurchase program by year-end, bringing total share repurchases during 2026 to approximately $300 million.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1069878/000119312526446144/0001193125-26-446144-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1069878/000119312526446144/trex-ex99_1.htm",
-   "filed_at": "2026-11-04T06:30:15-05:00",
-   "filed_kst": "2026-11-04 20:30",
-   "price": 50.0,
-   "change": -1.07,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 50.0,
-     "change": -1.07
-    },
-    {
-     "date": "2026-11-02",
-     "close": 50.54,
-     "change": -1.17
-    },
-    {
-     "date": "2026-10-30",
-     "close": 51.14,
-     "change": 0.57
-    }
-   ],
-   "market_cap": 5093259500.0,
-   "shares_outstanding": 101865190.0,
-   "industry": "Lumber & Wood Products (No Furniture)",
-   "state_of_incorporation": "DE",
-   "hq": "WINCHESTER, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:30:37+09:00"
   }
  ]
 }
