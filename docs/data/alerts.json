@@ -1,7 +1,169 @@
 {
- "updated_at": "2026-11-05T21:44:16+09:00",
+ "updated_at": "2026-11-05T21:49:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002104052-26-000141",
+   "company": "Enviri Corp",
+   "ticker": "NVRI",
+   "cik": 2104052,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "EX-99.1 2 pressreleasefinancialstate.htm EX-99.1 Document Exhibit 99.1 Investor Contact Media Contact David Martin Karen Tognarelli +1.267.946.1407 +1.717.480.6145 dmartin@enviri.com ktognarelli@enviri.com FOR IMMEDIATE RELEASE Enviri Corporation Reports Third Quarter 2026 Results • Revenues from Co",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2104052/000210405226000141/0002104052-26-000141-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2104052/000210405226000141/pressreleasefinancialstate.htm",
+   "filed_at": "2026-11-05T07:47:09-05:00",
+   "filed_kst": "2026-11-05 21:47",
+   "price": 20.51,
+   "change": 7.78,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 20.51,
+     "change": 7.78
+    },
+    {
+     "date": "2026-11-03",
+     "close": 19.03,
+     "change": 5.84
+    },
+    {
+     "date": "2026-11-02",
+     "close": 17.98,
+     "change": -2.39
+    }
+   ],
+   "market_cap": 578179341.0,
+   "shares_outstanding": 28190119.0,
+   "industry": "Refuse Systems",
+   "state_of_incorporation": "DE",
+   "hq": "PHILADELPHIA, PA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:47:57+09:00"
+  },
+  {
+   "id": "0001171843-26-007146",
+   "company": "Himax Technologies, Inc.",
+   "ticker": "HIMX",
+   "cik": 1342338,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "4 million for the immediately vested portion of this year’s award and $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1342338/000117184326007146/0001171843-26-007146-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1342338/000117184326007146/exh_991.htm",
+   "filed_at": "2026-11-05T07:47:04-05:00",
+   "filed_kst": "2026-11-05 21:47",
+   "price": 10.44,
+   "change": -2.43,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 10.44,
+     "change": -2.43
+    },
+    {
+     "date": "2026-11-03",
+     "close": 10.7,
+     "change": 2.39
+    },
+    {
+     "date": "2026-11-02",
+     "close": 10.45,
+     "change": -3.86
+    }
+   ],
+   "market_cap": 3642013084.0,
+   "shares_outstanding": 348851828.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "TAIWAN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:47:25+09:00"
+  },
+  {
+   "id": "0001792044-26-000053",
+   "company": "Viatris Inc",
+   "ticker": "VTRS",
+   "cik": 1792044,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 92,
+   "summary": "EX-99.1 2 exhibit991-3q26earningsrel.htm EX-99.1 Document Viatris Reports Third-Quarter 2026 Financial Results • Delivers Total Revenues of $3.75 Billion, U.S. GAAP Net Loss of $325 Million and Adjusted EBITDA of $1.20 Billion • Receives Regulatory Approval for RYZUMVI® for Presbyopia in the U.S. an",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000053/0001792044-26-000053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000053/exhibit991-3q26earningsrel.htm",
+   "filed_at": "2026-11-05T07:45:57-05:00",
+   "filed_kst": "2026-11-05 21:45",
+   "price": 19.22,
+   "change": 1.59,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 19.22,
+     "change": 1.59
+    },
+    {
+     "date": "2026-11-03",
+     "close": 18.92,
+     "change": 1.34
+    },
+    {
+     "date": "2026-11-02",
+     "close": 18.67,
+     "change": -1.94
+    }
+   ],
+   "market_cap": 22075916406.0,
+   "shares_outstanding": 1148590864.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CANONSBURG, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:46:52+09:00"
+  },
   {
    "id": "0000055135-26-000171",
    "company": "KELLY SERVICES INC",
@@ -15803,167 +15965,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-04T06:17:22+09:00"
-  },
-  {
-   "id": "0001193125-26-445380",
-   "company": "Oculis Holding AG",
-   "ticker": "OCS",
-   "cik": 1953530,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 77,
-   "summary": "I’m particularly encouraged by the continued momentum in Privosegtor PIONEER-1 registrational trial in optic neuritis, an indication backed by FDA Breakthrough Therapy designation and EMA Priority Medicines designation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1953530/000119312526445380/0001193125-26-445380-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1953530/000119312526445380/ocs-ex99_1.htm",
-   "filed_at": "2026-11-03T16:15:05-05:00",
-   "filed_kst": "2026-11-04 06:15",
-   "price": 7.63,
-   "change": -1.04,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 7.63,
-     "change": -1.04
-    },
-    {
-     "date": "2026-11-02",
-     "close": 7.71,
-     "change": -6.66
-    },
-    {
-     "date": "2026-10-30",
-     "close": 8.26,
-     "change": 0.24
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Switzerland",
-   "hq": "ZUG, V8",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:16:43+09:00"
-  },
-  {
-   "id": "0001737706-26-000029",
-   "company": "SEADRILL Ltd",
-   "ticker": "SDRL",
-   "cik": 1737706,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 65,
-   "summary": "• In Angola, Sonadrill Holding Ltd (“Sonadrill”), Seadrill’s 50:50 joint venture with an affiliate of Sonangol E.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1737706/000173770626000029/0001737706-26-000029-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1737706/000173770626000029/seadrillpressreleaseq32026.htm",
-   "filed_at": "2026-11-03T16:15:20-05:00",
-   "filed_kst": "2026-11-04 06:15",
-   "price": 46.32,
-   "change": -2.95,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 46.32,
-     "change": -2.95
-    },
-    {
-     "date": "2026-11-02",
-     "close": 47.73,
-     "change": -9.21
-    },
-    {
-     "date": "2026-10-30",
-     "close": 52.57,
-     "change": 1.49
-    }
-   ],
-   "market_cap": 2896919640.0,
-   "shares_outstanding": 62541443.0,
-   "industry": "Drilling Oil & Gas Wells",
-   "state_of_incorporation": null,
-   "hq": "HAMILTON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:16:37+09:00"
-  },
-  {
-   "id": "0001559865-26-000052",
-   "company": "EVERTEC, Inc.",
-   "ticker": "EVTC",
-   "cik": 1559865,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 89,
-   "summary": "On July 31, 2026, the Company's Board of Directors approved an increase to the share repurchase authorization to an aggregate $150 million, while maintaining the expiration date of December 31, 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1559865/000155986526000052/0001559865-26-000052-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1559865/000155986526000052/ex99109302026.htm",
-   "filed_at": "2026-11-03T16:14:14-05:00",
-   "filed_kst": "2026-11-04 06:14",
-   "price": 31.26,
-   "change": -4.46,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 31.26,
-     "change": -4.46
-    },
-    {
-     "date": "2026-11-02",
-     "close": 32.72,
-     "change": 3.74
-    },
-    {
-     "date": "2026-10-30",
-     "close": 31.54,
-     "change": 1.61
-    }
-   ],
-   "market_cap": 1867864463.0,
-   "shares_outstanding": 59752542.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "PR",
-   "hq": "RIO PIEDRAS, PR",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:15:49+09:00"
   }
  ]
 }
