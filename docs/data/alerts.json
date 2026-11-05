@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-05T20:09:17+09:00",
+ "updated_at": "2026-11-05T20:14:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001420800-26-000052",
+   "company": "Enovis CORP",
+   "ticker": "ENOV",
+   "cik": 1420800,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "EX-99.1 2 q32026earningspressrelease.htm EX-99.1 Document Enovis Announces Third Quarter 2026 Results • Third-quarter sales growth of 2% on a reported basis, 5% organic • Third-quarter Reconstructive sales growth of 6% on a reported and organic basis • Raising full-year 2026 guidance for adjusted EB",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1420800/000142080026000052/0001420800-26-000052-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1420800/000142080026000052/q32026earningspressrelease.htm",
+   "filed_at": "2026-11-05T06:10:54-05:00",
+   "filed_kst": "2026-11-05 20:10",
+   "price": 24.42,
+   "change": 16.9,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 24.42,
+     "change": 16.9
+    },
+    {
+     "date": "2026-11-03",
+     "close": 20.89,
+     "change": 1.31
+    },
+    {
+     "date": "2026-11-02",
+     "close": 20.62,
+     "change": 3.57
+    }
+   ],
+   "market_cap": 1408289043.0,
+   "shares_outstanding": 57669494.0,
+   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "LEWISVILLE, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T20:11:35+09:00"
+  },
   {
    "id": "0001493152-26-050033",
    "company": "DataMeds AI, Inc.",
@@ -15754,61 +15808,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-03T22:13:09+09:00"
-  },
-  {
-   "id": "0001437749-26-034515",
-   "company": "Expro Ltd",
-   "ticker": "XPRO",
-   "cik": 2126198,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": "14 per share) • Liquidity at the end of the quarter stood at $260 million • On October 26, 2026, the Board of Directors of the Company authorized a new $100 million share repurchase plan effective immediately and valid through December 31, 2027 Michael Jardon, Chief Executive Officer, commented, “As",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2126198/000143774926034515/0001437749-26-034515-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2126198/000143774926034515/ex_995693.htm",
-   "filed_at": "2026-11-03T08:10:45-05:00",
-   "filed_kst": "2026-11-03 22:10",
-   "price": 15.87,
-   "change": -8.05,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 15.87,
-     "change": -8.05
-    },
-    {
-     "date": "2026-10-30",
-     "close": 17.26,
-     "change": -0.52
-    },
-    {
-     "date": "2026-10-29",
-     "close": 17.35,
-     "change": -1.48
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Oil & Gas Field Services, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "CAMANA BAY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T22:12:36+09:00"
   }
  ]
 }
