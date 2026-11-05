@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-06T06:24:18+09:00",
+ "updated_at": "2026-11-06T06:30:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-071107",
+   "company": "Bark, Inc.",
+   "ticker": "BARK",
+   "cik": 1819574,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "0 million of share repurchases under the Company’s share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1819574/000162828026071107/0001628280-26-071107-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1819574/000162828026071107/q2fy27pressrelease.htm",
+   "filed_at": "2026-11-05T16:23:53-05:00",
+   "filed_kst": "2026-11-06 06:23",
+   "price": 8.36,
+   "change": 0.36,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 8.36,
+     "change": 0.36
+    },
+    {
+     "date": "2026-11-04",
+     "close": 8.33,
+     "change": 2.33
+    },
+    {
+     "date": "2026-11-03",
+     "close": 8.14,
+     "change": -1.81
+    }
+   ],
+   "market_cap": 75519701.0,
+   "shares_outstanding": 9033457.0,
+   "industry": "Retail-Retail Stores, NEC",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-06T06:26:02+09:00"
+  },
   {
    "id": "0001873923-26-000116",
    "company": "Orion Properties Inc.",
@@ -15891,61 +15946,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T06:15:31+09:00"
-  },
-  {
-   "id": "0001551306-26-000163",
-   "company": "Progyny, Inc.",
-   "ticker": "PGNY",
-   "cik": 1551306,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "7 million through its May 2026 share repurchase program, which provided for a total authorization of up to $200 million.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1551306/000155130626000163/0001551306-26-000163-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1551306/000155130626000163/exhibit991q32026.htm",
-   "filed_at": "2026-11-04T16:12:21-05:00",
-   "filed_kst": "2026-11-05 06:12",
-   "price": 30.1,
-   "change": 3.58,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 30.1,
-     "change": 3.58
-    },
-    {
-     "date": "2026-11-03",
-     "close": 29.06,
-     "change": -1.19
-    },
-    {
-     "date": "2026-11-02",
-     "close": 29.41,
-     "change": 0.75
-    }
-   ],
-   "market_cap": 2309476620.0,
-   "shares_outstanding": 76726798.0,
-   "industry": "Services-Misc Health & Allied Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:14:14+09:00"
   }
  ]
 }
