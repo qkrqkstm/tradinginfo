@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-06T04:19:33+09:00",
+ "updated_at": "2026-11-06T04:24:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-449415",
+   "company": "OBSIDIAN ENERGY LTD.",
+   "ticker": "OBE",
+   "cik": 1334388,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각",
+    "가이던스상향"
+   ],
+   "confidence": 77,
+   "summary": "0 million acquisition of Belly River light oil assets in the Wilson Creek area of Willesden Green (the \" Belly River Acquisition \"), which closed on June 30, 2026, and our share buyback program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1334388/000119312526449415/0001193125-26-449415-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1334388/000119312526449415/obe-ex99_2.htm",
+   "filed_at": "2026-11-05T14:23:15-05:00",
+   "filed_kst": "2026-11-06 04:23",
+   "price": 9.08,
+   "change": -1.41,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 9.08,
+     "change": -1.41
+    },
+    {
+     "date": "2026-11-04",
+     "close": 9.21,
+     "change": -11.87
+    },
+    {
+     "date": "2026-11-03",
+     "close": 10.45,
+     "change": 0.77
+    }
+   ],
+   "market_cap": 610850880.0,
+   "shares_outstanding": 67274326.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Alberta, Canada",
+   "hq": "CALGARY, A0",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-06T04:24:06+09:00"
+  },
   {
    "id": "0001683168-26-008336",
    "company": "Transglobal Management Group, Inc.",
@@ -15903,59 +15955,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-04T20:30:37+09:00"
-  },
-  {
-   "id": "0001876042-26-000309",
-   "company": "Circle Internet Group, Inc.",
-   "ticker": "CRCL",
-   "cik": 1876042,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "and the expansion and renewal of its strategic partnership to promote USDC across Binance’s global platform, with an emphasis on emerging markets.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000309/0001876042-26-000309-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000309/finalq3epr-110326.htm",
-   "filed_at": "2026-11-04T06:26:24-05:00",
-   "filed_kst": "2026-11-04 20:26",
-   "price": 75.22,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 75.22,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 75.22,
-     "change": 4.36
-    },
-    {
-     "date": "2026-11-02",
-     "close": 72.08,
-     "change": -0.63
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:27:07+09:00"
   }
  ]
 }
