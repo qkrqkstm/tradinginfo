@@ -1,7 +1,273 @@
 {
- "updated_at": "2026-11-05T21:09:43+09:00",
+ "updated_at": "2026-11-05T21:15:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001867096-26-000114",
+   "company": "Xeris Biopharma Holdings, Inc.",
+   "ticker": "XERS",
+   "cik": 1867096,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과",
+    "가이던스상향"
+   ],
+   "confidence": 69,
+   "summary": "Xeris remains on track to initiate Cornerstone by year-end 2026, with topline data expected in late 2028 and potential approval and launch in 2030.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1867096/000186709626000114/0001867096-26-000114-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1867096/000186709626000114/exh991q32026earningsrelease.htm",
+   "filed_at": "2026-11-05T07:12:45-05:00",
+   "filed_kst": "2026-11-05 21:12",
+   "price": 10.46,
+   "change": 1.06,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 10.46,
+     "change": 1.06
+    },
+    {
+     "date": "2026-11-03",
+     "close": 10.35,
+     "change": 1.77
+    },
+    {
+     "date": "2026-11-02",
+     "close": 10.17,
+     "change": -5.04
+    }
+   ],
+   "market_cap": 1907070401.0,
+   "shares_outstanding": 182320306.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:15:13+09:00"
+  },
+  {
+   "id": "0001517022-26-000083",
+   "company": "Akebia Therapeutics, Inc.",
+   "ticker": "AKBA",
+   "cik": 1517022,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 79,
+   "summary": "VOCAL met the primary endpoint of non-inferiority to ESA based on change in hemoglobin.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1517022/000151702226000083/0001517022-26-000083-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1517022/000151702226000083/q32026pr.htm",
+   "filed_at": "2026-11-05T07:13:45-05:00",
+   "filed_kst": "2026-11-05 21:13",
+   "price": 0.69,
+   "change": -0.04,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 0.69,
+     "change": -0.04
+    },
+    {
+     "date": "2026-11-04",
+     "close": 0.69,
+     "change": -4.27
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.73,
+     "change": 2.54
+    }
+   ],
+   "market_cap": 191203309.0,
+   "shares_outstanding": 277106245.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WALTHAM, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:15:09+09:00"
+  },
+  {
+   "id": "0001193125-26-448556",
+   "company": "Climb Bio, Inc.",
+   "ticker": "CLYM",
+   "cik": 1768446,
+   "form": "8-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "Budoprutug has been granted Orphan Drug Designation and Fast Track Designation by the FDA for the treatment of pMN.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1768446/000119312526448556/0001193125-26-448556-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1768446/000119312526448556/clym-ex99_1.htm",
+   "filed_at": "2026-11-05T07:09:45-05:00",
+   "filed_kst": "2026-11-05 21:09",
+   "price": 9.33,
+   "change": -4.31,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 9.33,
+     "change": -4.31
+    },
+    {
+     "date": "2026-11-03",
+     "close": 9.75,
+     "change": 0.1
+    },
+    {
+     "date": "2026-11-02",
+     "close": 9.74,
+     "change": -4.98
+    }
+   ],
+   "market_cap": 535880259.0,
+   "shares_outstanding": 57436255.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WELLESLEY HILLS, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T21:12:52+09:00"
+  },
+  {
+   "id": "0001493152-26-050050",
+   "company": "Tecnoglass Holdings Inc.",
+   "ticker": "TGLS",
+   "cik": 1534675,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "5 million remaining under its current share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534675/000149315226050050/0001493152-26-050050-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1534675/000149315226050050/ex99-1.htm",
+   "filed_at": "2026-11-05T07:10:37-05:00",
+   "filed_kst": "2026-11-05 21:10",
+   "price": 42.81,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 42.81,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 42.81,
+     "change": 8.05
+    },
+    {
+     "date": "2026-11-03",
+     "close": 39.62,
+     "change": -0.85
+    }
+   ],
+   "market_cap": 1899249211.0,
+   "shares_outstanding": 44364616.0,
+   "industry": "Flat Glass",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:12:39+09:00"
+  },
+  {
+   "id": "0001193125-26-448564",
+   "company": "Vistance Networks, Inc.",
+   "ticker": "VISN",
+   "cik": 1517228,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 62,
+   "summary": "As of October 30, 2026, we repurchased $225 million of stock under our existing stock repurchase programs.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526448564/0001193125-26-448564-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526448564/visn-ex99_1.htm",
+   "filed_at": "2026-11-05T07:11:30-05:00",
+   "filed_kst": "2026-11-05 21:11",
+   "price": 6.44,
+   "change": -1.08,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 6.44,
+     "change": -1.08
+    },
+    {
+     "date": "2026-11-03",
+     "close": 6.51,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 6.51,
+     "change": -0.46
+    }
+   ],
+   "market_cap": 1485234093.0,
+   "shares_outstanding": 230626412.0,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "RICHARDSON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T21:12:36+09:00"
+  },
   {
    "id": "0001193125-26-448537",
    "company": "Latigo Biotherapeutics, Inc.",
@@ -15695,213 +15961,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-04T06:06:17+09:00"
-  },
-  {
-   "id": "0001193125-26-445319",
-   "company": "Sixth Street Specialty Lending, Inc.",
-   "ticker": "TSLX",
-   "cik": 1508655,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 64,
-   "summary": "Adjusted net asset value per share gives effect to the supplemental dividend declared related to earnings or special dividend in the applicable period.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1508655/000119312526445319/0001193125-26-445319-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1508655/000119312526445319/tslx-ex99_1.htm",
-   "filed_at": "2026-11-03T16:05:15-05:00",
-   "filed_kst": "2026-11-04 06:05",
-   "price": 17.89,
-   "change": -1.54,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 17.89,
-     "change": -1.54
-    },
-    {
-     "date": "2026-11-02",
-     "close": 18.17,
-     "change": 3.06
-    },
-    {
-     "date": "2026-10-30",
-     "close": 17.63,
-     "change": 0.06
-    }
-   ],
-   "market_cap": 1712308415.0,
-   "shares_outstanding": 95713159.0,
-   "industry": null,
-   "state_of_incorporation": "DE",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:06:14+09:00"
-  },
-  {
-   "id": "0001759425-26-000061",
-   "company": "Mirum Pharmaceuticals, Inc.",
-   "ticker": "MIRM",
-   "cik": 1759425,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 97,
-   "summary": "FDA approval of and launched ATEBRIOZ ® for FOP – Announced three positive readouts setting up planned regulatory submissions for LIVMARLI ® , ATEBRIOZ and brelovitug – Received U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000061/0001759425-26-000061-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000061/mirm-20261103xexx991.htm",
-   "filed_at": "2026-11-03T16:03:32-05:00",
-   "filed_kst": "2026-11-04 06:03",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": 64932203.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "FOSTER CITY, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:04:43+09:00"
-  },
-  {
-   "id": "0001437402-26-000058",
-   "company": "ARDELYX, INC.",
-   "ticker": "ARDX",
-   "cik": 1437402,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 64,
-   "summary": "The Company is on track to announce topline data in the second half of 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1437402/000143740226000058/0001437402-26-000058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1437402/000143740226000058/ardx-20260930xexhibit991.htm",
-   "filed_at": "2026-11-03T16:03:50-05:00",
-   "filed_kst": "2026-11-04 06:03",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": 249187572.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "FREMONT, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:04:41+09:00"
-  },
-  {
-   "id": "0001075531-26-000044",
-   "company": "Booking Holdings Inc.",
-   "ticker": "BKNG",
-   "cik": 1075531,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Stock Repurchase Program ● We repurchased $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000044/0001075531-26-000044-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000044/bkng-20261103.htm",
-   "filed_at": "2026-11-03T16:03:57-05:00",
-   "filed_kst": "2026-11-04 06:03",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": 751380500.0,
-   "industry": "Transportation Services",
-   "state_of_incorporation": "DE",
-   "hq": "NORWALK, CT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:04:39+09:00"
-  },
-  {
-   "id": "0001714899-26-000107",
-   "company": "Denali Therapeutics Inc.",
-   "ticker": "DNLI",
-   "cik": 1714899,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 69,
-   "summary": "0 million net gain on the sale of a Priority Review Voucher, bringing cash, cash equivalents and marketable securities to $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000107/0001714899-26-000107-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000107/ex991pressreleaseq32026.htm",
-   "filed_at": "2026-11-03T16:03:10-05:00",
-   "filed_kst": "2026-11-04 06:03",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": 159847403.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:04:04+09:00"
   }
  ]
 }
