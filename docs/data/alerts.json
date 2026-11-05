@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-06T03:24:39+09:00",
+ "updated_at": "2026-11-06T03:29:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009559",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009559/0001654954-26-009559-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009559/a0500c.htm",
+   "filed_at": "2026-11-05T13:24:42-05:00",
+   "filed_kst": "2026-11-06 03:24",
+   "price": 88.05,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 88.05,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 88.05,
+     "change": -1.48
+    },
+    {
+     "date": "2026-11-04",
+     "close": 89.37,
+     "change": 5.78
+    }
+   ],
+   "market_cap": 1512279869849.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T03:25:57+09:00"
+  },
   {
    "id": "0001434265-26-000146",
    "company": "GENMAB A/S",
@@ -15907,56 +15957,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-04T20:16:11+09:00"
-  },
-  {
-   "id": "0001978867-26-000142",
-   "company": "Cadeler A/S",
-   "ticker": "CDLR",
-   "cik": 1978867,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "6 GW Dogger Bank Wind Farm, a joint venture between SSE (40%), Equinor (40%) and Vårgrønn (20%).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1978867/000197886726000142/0001978867-26-000142-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1978867/000197886726000142/a6-kxcadelersignsfirmcontr.htm",
-   "filed_at": "2026-11-04T06:15:05-05:00",
-   "filed_kst": "2026-11-04 20:15",
-   "price": 25.6,
-   "change": -6.91,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 25.6,
-     "change": -6.91
-    },
-    {
-     "date": "2026-11-02",
-     "close": 27.5,
-     "change": -4.38
-    },
-    {
-     "date": "2026-10-30",
-     "close": 28.76,
-     "change": 7.76
-    }
-   ],
-   "market_cap": 8984514125.0,
-   "shares_outstanding": 350957583.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Denmark",
-   "hq": "COPENHAGEN V, G7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:15:36+09:00"
   }
  ]
 }
