@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-06T03:59:33+09:00",
+ "updated_at": "2026-11-06T04:04:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-008336",
+   "company": "Transglobal Management Group, Inc.",
+   "ticker": "TMGI",
+   "cik": 1434601,
+   "form": "8-K",
+   "items": [
+    "7.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The Company is not making an offer to the holders of the Notes as a group, and it is not commencing a tender offer or exchange offer.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1434601/000168316826008336/0001683168-26-008336-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1434601/000168316826008336/tmgi_8k.htm",
+   "filed_at": "2026-11-05T14:01:44-05:00",
+   "filed_kst": "2026-11-06 04:01",
+   "price": 0.0,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 0.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.0,
+     "change": -33.33
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 1021707764.0,
+   "industry": "Radio Broadcasting Stations",
+   "state_of_incorporation": "FL",
+   "hq": "ST. PETERSBURGH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-06T04:02:26+09:00"
+  },
   {
    "id": "0001654954-26-009559",
    "company": "HSBC HOLDINGS PLC",
@@ -15903,60 +15956,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-04T20:27:07+09:00"
-  },
-  {
-   "id": "0001193125-26-446133",
-   "company": "Flowco Holdings Inc.",
-   "ticker": "FLOC",
-   "cik": 2035149,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 76,
-   "summary": "09 per share • In November 2026, Flowco announced the approval by its Board of Directors of a $150 million increase to the Company's existing share repurchase authorization, bringing the total authorization to $200 million • Robust liquidity with approximately $365 million of availability under our ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526446133/0001193125-26-446133-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526446133/floc-ex99_1.htm",
-   "filed_at": "2026-11-04T06:15:18-05:00",
-   "filed_kst": "2026-11-04 20:15",
-   "price": 19.26,
-   "change": 0.31,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 19.26,
-     "change": 0.31
-    },
-    {
-     "date": "2026-11-02",
-     "close": 19.2,
-     "change": -4.05
-    },
-    {
-     "date": "2026-10-30",
-     "close": 20.01,
-     "change": -0.2
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Oil & Gas Field Machinery & Equipment",
-   "state_of_incorporation": null,
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-04T20:16:11+09:00"
   }
  ]
 }
