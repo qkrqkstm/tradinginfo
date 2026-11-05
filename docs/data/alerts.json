@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-05T23:24:15+09:00",
+ "updated_at": "2026-11-05T23:29:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-448825",
+   "company": "StealthGas Inc.",
+   "ticker": "GASS",
+   "cik": 1328919,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "(the “Company”) has agreed to acquire two 40,000 cbm LPG carriers, the 2024-built Eco Enchanted and the 2023-built Eco Merlin , and two 11,000 cbm LPG carriers, the 2026-built Eco Nebula and the 2025-built Eco Texiana , for an aggregate purchase price of $254.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1328919/000119312526448825/0001193125-26-448825-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1328919/000119312526448825/d149409dex991.htm",
+   "filed_at": "2026-11-05T09:25:07-05:00",
+   "filed_kst": "2026-11-05 23:25",
+   "price": 8.29,
+   "change": -3.38,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 8.29,
+     "change": -3.38
+    },
+    {
+     "date": "2026-11-03",
+     "close": 8.58,
+     "change": 8.2
+    },
+    {
+     "date": "2026-11-02",
+     "close": 7.93,
+     "change": -4.0
+    }
+   ],
+   "market_cap": 308269337.0,
+   "shares_outstanding": 37185686.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "ATHENS",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-05T23:26:11+09:00"
+  },
   {
    "id": "0001493152-26-050096",
    "company": "Nuran Wireless Inc.",
@@ -15907,56 +15958,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-04T20:09:16+09:00"
-  },
-  {
-   "id": "0001292814-26-005134",
-   "company": "UNITED BREWERIES CO INC",
-   "ticker": "CCU",
-   "cik": 888746,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "JOINT VENTURES & ASSOCIATES Regarding our main JVs and associated businesses, in Colombia , first we want to express our deepest sympathies and solidarity with the people affected by the recent earthquake.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/888746/000129281426005134/0001292814-26-005134-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/888746/000129281426005134/ccupr3q26_6k.htm",
-   "filed_at": "2026-11-03T17:41:11-05:00",
-   "filed_kst": "2026-11-04 07:41",
-   "price": 10.37,
-   "change": 0.19,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 10.37,
-     "change": 0.19
-    },
-    {
-     "date": "2026-11-02",
-     "close": 10.35,
-     "change": 0.19
-    },
-    {
-     "date": "2026-10-30",
-     "close": 10.33,
-     "change": -0.96
-    }
-   ],
-   "market_cap": 3831744783.0,
-   "shares_outstanding": 369502872.0,
-   "industry": "Malt Beverages",
-   "state_of_incorporation": null,
-   "hq": "SANTIAGO CHILE, F3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:06:09+09:00"
   }
  ]
 }
