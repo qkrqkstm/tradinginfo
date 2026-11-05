@@ -1,7 +1,171 @@
 {
- "updated_at": "2026-11-06T06:59:07+09:00",
+ "updated_at": "2026-11-06T07:04:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-116431",
+   "company": "iSpecimen Inc.",
+   "ticker": "ISPC",
+   "cik": 1558569,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.01",
+    "3.02",
+    "5.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "On the Closing Date, the Company completed the acquisition of certain artificial intelligence software, models, source code, data rights, intellectual property and related assets (collectively, the “Transferred Assets and Products”), including the Disease-Associated Protein Discovery AI Agent",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1558569/000121390026116431/0001213900-26-116431-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1558569/000121390026116431/ea031086601ex99-1.htm",
+   "filed_at": "2026-11-05T17:00:14-05:00",
+   "filed_kst": "2026-11-06 07:00",
+   "price": 0.81,
+   "change": 0.01,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 0.81,
+     "change": 0.01
+    },
+    {
+     "date": "2026-11-05",
+     "close": 0.81,
+     "change": -4.16
+    },
+    {
+     "date": "2026-11-04",
+     "close": 0.84,
+     "change": 6.71
+    }
+   ],
+   "market_cap": 2040058.0,
+   "shares_outstanding": 2518590.0,
+   "industry": "Services-Commercial Physical & Biological Research",
+   "state_of_incorporation": "DE",
+   "hq": "WOBURN, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-06T07:01:25+09:00"
+  },
+  {
+   "id": "0001829126-26-012024",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "ticker": "NTHI",
+   "cik": 1979414,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 55,
+   "summary": "The study met its primary endpoint, an important milestone that supports the potential of our intranasal approach to directly address delivery across the blood-brain barrier, one of the greatest challenges in treating brain cancer.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012024/0001829126-26-012024-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012024/neonctechnologies_ex99-1.htm",
+   "filed_at": "2026-11-05T17:00:20-05:00",
+   "filed_kst": "2026-11-06 07:00",
+   "price": 3.2,
+   "change": 0.95,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 3.2,
+     "change": 0.95
+    },
+    {
+     "date": "2026-11-04",
+     "close": 3.17,
+     "change": 3.26
+    },
+    {
+     "date": "2026-11-03",
+     "close": 3.07,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 92321882.0,
+   "shares_outstanding": 28850588.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CALABASAS, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-06T07:01:23+09:00"
+  },
+  {
+   "id": "0001493152-26-050266",
+   "company": "Strawberry Fields REIT, Inc.",
+   "ticker": "STRW",
+   "cik": 1782430,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "● On September 9, 2026, the Company completed the acquisition of a hospital campus comprising a licensed 60 bed hospital, licensed 99 bed skilled nursing facility and ancillary medical office buildings near Kansas City, Missouri.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1782430/000149315226050266/0001493152-26-050266-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782430/000149315226050266/ex99-1.htm",
+   "filed_at": "2026-11-05T17:00:22-05:00",
+   "filed_kst": "2026-11-06 07:00",
+   "price": 12.43,
+   "change": -4.97,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 12.43,
+     "change": -4.97
+    },
+    {
+     "date": "2026-11-04",
+     "close": 13.08,
+     "change": 4.39
+    },
+    {
+     "date": "2026-11-03",
+     "close": 12.53,
+     "change": 0.24
+    }
+   ],
+   "market_cap": 175975686.0,
+   "shares_outstanding": 14157336.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "SOUTH BEND, IN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-06T07:01:21+09:00"
+  },
   {
    "id": "0001140361-26-042122",
    "company": "Otis Worldwide Corp",
@@ -15759,170 +15923,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T06:22:00+09:00"
-  },
-  {
-   "id": "0001617406-26-000047",
-   "company": "Park Hotels & Resorts Inc.",
-   "ticker": "PK",
-   "cik": 1617406,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.1 2 earningsreleaseex991-live.htm EX-99.1 Document Exhibit 99.1 Investor Contact 1775 Tysons Boulevard, 7th Floor Ian Weissman Tysons, VA 22102 + 1 571 302 5591 www.pkhotelsandresorts.com Park Hotels & Resorts Inc. Reports Third Quarter 2026 Results TYSONS, VA (November 4, 2026) – Park Hotels ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1617406/000161740626000047/0001617406-26-000047-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1617406/000161740626000047/earningsreleaseex991-live.htm",
-   "filed_at": "2026-11-04T16:21:00-05:00",
-   "filed_kst": "2026-11-05 06:21",
-   "price": 16.96,
-   "change": 1.44,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 16.96,
-     "change": 1.44
-    },
-    {
-     "date": "2026-11-03",
-     "close": 16.72,
-     "change": -0.71
-    },
-    {
-     "date": "2026-11-02",
-     "close": 16.84,
-     "change": 1.45
-    }
-   ],
-   "market_cap": 3414698077.0,
-   "shares_outstanding": 201338330.0,
-   "industry": "Hotels & Motels",
-   "state_of_incorporation": "DE",
-   "hq": "TYSONS, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:21:56+09:00"
-  },
-  {
-   "id": "0001393883-26-000117",
-   "company": "DHI GROUP, INC.",
-   "ticker": "DHX",
-   "cik": 1393883,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "8 million in the third quarter under its stock repurchase program and from the vesting of share-based awards.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1393883/000139388326000117/0001393883-26-000117-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1393883/000139388326000117/a991-earningsrelease2026q3.htm",
-   "filed_at": "2026-11-04T16:20:07-05:00",
-   "filed_kst": "2026-11-05 06:20",
-   "price": 4.65,
-   "change": -5.3,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 4.65,
-     "change": -5.3
-    },
-    {
-     "date": "2026-11-03",
-     "close": 4.91,
-     "change": 2.72
-    },
-    {
-     "date": "2026-11-02",
-     "close": 4.78,
-     "change": 5.75
-    }
-   ],
-   "market_cap": 201922484.0,
-   "shares_outstanding": 43424190.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "CENTENNIAL, CO",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T06:21:20+09:00"
-  },
-  {
-   "id": "0001193125-26-447333",
-   "company": "Dave Inc./DE",
-   "ticker": "DAVE",
-   "cik": 1841408,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "During the third quarter, the Company deployed approximately $20 million to reduce its share count through restricted stock unit net settlements and open market share repurchases, leaving $88 million available under its share repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1841408/000119312526447333/0001193125-26-447333-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1841408/000119312526447333/dave-ex99_1.htm",
-   "filed_at": "2026-11-04T16:20:07-05:00",
-   "filed_kst": "2026-11-05 06:20",
-   "price": 336.22,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 336.22,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 336.22,
-     "change": 6.83
-    },
-    {
-     "date": "2026-11-03",
-     "close": 314.72,
-     "change": -2.22
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Finance Services",
-   "state_of_incorporation": null,
-   "hq": "LOS ANGELES, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:21:18+09:00"
   }
  ]
 }
