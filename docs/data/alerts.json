@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-06T07:19:15+09:00",
+ "updated_at": "2026-11-06T07:24:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-123464",
+   "company": "FIRST CAPITAL INC",
+   "ticker": "FCAP",
+   "cik": 1070296,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", an Indiana corporation (“First Bancorp”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of November 4, 2026, between First Capital and First Bancorp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1070296/000110465926123464/0001104659-26-123464-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1070296/000110465926123464/tm2628974d3_425.htm",
+   "filed_at": "2026-11-05T17:23:42-05:00",
+   "filed_kst": "2026-11-06 07:23",
+   "price": 61.99,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 61.99,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 61.99,
+     "change": -3.71
+    },
+    {
+     "date": "2026-11-04",
+     "close": 64.38,
+     "change": 1.42
+    }
+   ],
+   "market_cap": 207333304.0,
+   "shares_outstanding": 3344625.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": "IN",
+   "hq": "CORYDON, IN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-06T07:24:40+09:00"
+  },
   {
    "id": "0001437749-26-035333",
    "company": "Vicore Pharma Holding AB",
@@ -15863,60 +15914,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T06:25:28+09:00"
-  },
-  {
-   "id": "0001193125-26-447357",
-   "company": "OPKO HEALTH, INC.",
-   "ticker": "OPK",
-   "cik": 944809,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "7 million had been deployed under the $200 million share repurchase authorization, leaving approximately $84.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/944809/000119312526447357/0001193125-26-447357-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/944809/000119312526447357/opk-ex99_1.htm",
-   "filed_at": "2026-11-04T16:24:24-05:00",
-   "filed_kst": "2026-11-05 06:24",
-   "price": 1.77,
-   "change": 2.91,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 1.77,
-     "change": 2.91
-    },
-    {
-     "date": "2026-11-03",
-     "close": 1.72,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 1.72,
-     "change": 3.61
-    }
-   ],
-   "market_cap": 1321000958.0,
-   "shares_outstanding": 746328225.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:25:27+09:00"
   }
  ]
 }
