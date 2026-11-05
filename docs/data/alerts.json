@@ -1,7 +1,116 @@
 {
- "updated_at": "2026-11-05T22:09:07+09:00",
+ "updated_at": "2026-11-05T22:14:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001053706-26-000046",
+   "company": "CRA INTERNATIONAL, INC.",
+   "ticker": "CRAI",
+   "cik": 1053706,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 71,
+   "summary": "CRA did not repurchase any shares under the share repurchase program during Q3 of fiscal 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1053706/000105370626000046/0001053706-26-000046-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1053706/000105370626000046/craiq3-20268xkexx992xcfore.htm",
+   "filed_at": "2026-11-05T08:10:14-05:00",
+   "filed_kst": "2026-11-05 22:10",
+   "price": 194.75,
+   "change": -0.26,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 194.75,
+     "change": -0.26
+    },
+    {
+     "date": "2026-11-03",
+     "close": 195.26,
+     "change": -0.97
+    },
+    {
+     "date": "2026-11-02",
+     "close": 197.17,
+     "change": 0.56
+    }
+   ],
+   "market_cap": 1222418485.0,
+   "shares_outstanding": 6276860.0,
+   "industry": "Services-Legal Services",
+   "state_of_incorporation": "MA",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T22:11:09+09:00"
+  },
+  {
+   "id": "0001579684-26-000056",
+   "company": "USA TODAY Co., Inc.",
+   "ticker": "TDAY",
+   "cik": 1579684,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "9 million available under our authorized Stock Repurchase Program and plan to be opportunistic with share repurchases in the fourth quarter.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000056/0001579684-26-000056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000056/tdayq32026ex991earningsrel.htm",
+   "filed_at": "2026-11-05T08:08:49-05:00",
+   "filed_kst": "2026-11-05 22:08",
+   "price": 6.07,
+   "change": 6.12,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 6.07,
+     "change": 6.12
+    },
+    {
+     "date": "2026-11-03",
+     "close": 5.72,
+     "change": -3.38
+    },
+    {
+     "date": "2026-11-02",
+     "close": 5.92,
+     "change": -4.21
+    }
+   ],
+   "market_cap": 891184902.0,
+   "shares_outstanding": 146817941.0,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "PITTSFORD, NY",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-05T22:10:34+09:00"
+  },
   {
    "id": "0001000694-26-000021",
    "company": "NOVAVAX INC",
@@ -15868,111 +15977,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-04T06:31:59+09:00"
-  },
-  {
-   "id": "0001178913-26-004986",
-   "company": "PRF Technologies Ltd.",
-   "ticker": "PRFX",
-   "cik": 1801834,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 PRF Technologies and Dotz Nano Sign Term Sheet for Strategic Collaboration to Expand AI-Driven Energy Optimization Offering Proposed transaction combines PRF’s DeepSolar/GridFeed™ renewable energy forecasting and storage optimization platform with Dotz’s AI-driven energy management technologies, c",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1801834/000117891326004986/0001178913-26-004986-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1801834/000117891326004986/exhibit_99-1.htm",
-   "filed_at": "2026-11-03T16:30:25-05:00",
-   "filed_kst": "2026-11-04 06:30",
-   "price": 0.71,
-   "change": -5.2,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 0.71,
-     "change": -5.2
-    },
-    {
-     "date": "2026-11-02",
-     "close": 0.75,
-     "change": 2.74
-    },
-    {
-     "date": "2026-10-30",
-     "close": 0.73,
-     "change": -2.67
-    }
-   ],
-   "market_cap": 589735.0,
-   "shares_outstanding": 830613.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:31:24+09:00"
-  },
-  {
-   "id": "0001213900-26-115564",
-   "company": "ONE LIBERTY PROPERTIES INC",
-   "ticker": "OLP",
-   "cik": 712770,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "EX-99.1 2 ea031072801ex99-1.htm PRESS RELEASE DATED NOVEMBER 3, 2026 Exhibit 99.1 ONE LIBERTY PROPERTIES REPORTS THIRD QUARTER 2026 RESULTS – Rental Income Increases 11.9% Year Over Year – – Acquired Industrial Building for $11.3 Million and Under Contract to Acquire a $34 Million Industrial Portfol",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/712770/000121390026115564/0001213900-26-115564-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/712770/000121390026115564/ea031072801ex99-1.htm",
-   "filed_at": "2026-11-03T16:27:26-05:00",
-   "filed_kst": "2026-11-04 06:27",
-   "price": 21.93,
-   "change": -1.35,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 21.93,
-     "change": -1.35
-    },
-    {
-     "date": "2026-11-02",
-     "close": 22.23,
-     "change": -0.36
-    },
-    {
-     "date": "2026-10-30",
-     "close": 22.31,
-     "change": -1.02
-    }
-   ],
-   "market_cap": 478622776.0,
-   "shares_outstanding": 21825024.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "GREAT NECK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-04T06:28:24+09:00"
   }
  ]
 }
