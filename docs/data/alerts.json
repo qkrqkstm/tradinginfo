@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-05T20:34:28+09:00",
+ "updated_at": "2026-11-05T20:39:01+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-070517",
+   "company": "Zai Lab Ltd",
+   "ticker": "ZLAB",
+   "cik": 1704292,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "The study met its primary endpoint of mean Total Improvement Score (TIS) at week 52 in the combined study population of immune-mediated necrotizing myopathy (IMNM) and dermatomyositis (DM) patients (p=0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1704292/000162828026070517/0001628280-26-070517-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1704292/000162828026070517/zlab-2026115x8kex991.htm",
+   "filed_at": "2026-11-05T06:36:24-05:00",
+   "filed_kst": "2026-11-05 20:36",
+   "price": 22.8,
+   "change": 3.83,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 22.8,
+     "change": 3.83
+    },
+    {
+     "date": "2026-11-03",
+     "close": 21.96,
+     "change": 1.36
+    },
+    {
+     "date": "2026-11-02",
+     "close": 21.67,
+     "change": -1.84
+    }
+   ],
+   "market_cap": 2019905420.0,
+   "shares_outstanding": 88592343.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T20:36:59+09:00"
+  },
+  {
+   "id": "0001628280-26-070516",
+   "company": "AMERICOLD REALTY TRUST",
+   "ticker": "COLD",
+   "cik": 1455863,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "EX-99.2 3 q32026-quarterlysupplement.htm EX-99.2 Document Exhibit 99.2 Financial Supplement | Third Quarter 2026 Table of Contents PAGE Corporate Profile 3 Earnings Release 5 Financial Information Condensed Consolidated Balance Sheets 17 Condensed Consolidated Statements of Operations 18 Condensed C",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1455863/000162828026070516/0001628280-26-070516-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1455863/000162828026070516/q32026-quarterlysupplement.htm",
+   "filed_at": "2026-11-05T06:35:15-05:00",
+   "filed_kst": "2026-11-05 20:35",
+   "price": 15.19,
+   "change": 4.33,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 15.19,
+     "change": 4.33
+    },
+    {
+     "date": "2026-11-03",
+     "close": 14.56,
+     "change": -0.27
+    },
+    {
+     "date": "2026-11-02",
+     "close": 14.6,
+     "change": 1.6
+    }
+   ],
+   "market_cap": 4336449570.0,
+   "shares_outstanding": 285480551.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "Atlanta, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T20:35:56+09:00"
+  },
   {
    "id": "0001628280-26-070514",
    "company": "KIMBERLY CLARK CORP",
@@ -15710,116 +15815,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-03T22:16:50+09:00"
-  },
-  {
-   "id": "0001193125-26-444410",
-   "company": "Faeth Therapeutics, Inc.",
-   "ticker": "FTH",
-   "cik": 1829802,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 71,
-   "summary": "1 Faeth Therapeutics Reports Third Quarter 2026 Financial Results and Operational Updates • Topline results from the Phase 2 PIK-201 trial in endometrial cancer expected by year-end • FDA granted Fast Track designation to PIKTOR plus paclitaxel in biomarker-selected advanced endometrial cancer • Pre",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1829802/000119312526444410/0001193125-26-444410-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829802/000119312526444410/d144290dex991.htm",
-   "filed_at": "2026-11-03T08:14:10-05:00",
-   "filed_kst": "2026-11-03 22:14",
-   "price": 19.23,
-   "change": 2.89,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 19.23,
-     "change": 2.89
-    },
-    {
-     "date": "2026-10-30",
-     "close": 18.69,
-     "change": -0.32
-    },
-    {
-     "date": "2026-10-29",
-     "close": 18.75,
-     "change": -2.34
-    }
-   ],
-   "market_cap": 496979062.0,
-   "shares_outstanding": 25843945.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "AUSTIN, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-03T22:15:31+09:00"
-  },
-  {
-   "id": "0001628280-26-069122",
-   "company": "Enpro Inc.",
-   "ticker": "NPO",
-   "cik": 1164863,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 70,
-   "summary": "Share Repurchase Authorization Enpro’s Board of Directors approved a new share repurchase authorization in October 2026, replacing the previous $50 million authorization that recently expired.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1164863/000162828026069122/0001628280-26-069122-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1164863/000162828026069122/q32026npoearningsrelease.htm",
-   "filed_at": "2026-11-03T08:14:26-05:00",
-   "filed_kst": "2026-11-03 22:14",
-   "price": 268.98,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 268.98,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 268.98,
-     "change": -0.94
-    },
-    {
-     "date": "2026-10-30",
-     "close": 271.53,
-     "change": -4.54
-    }
-   ],
-   "market_cap": 5693682835.0,
-   "shares_outstanding": 21167681.0,
-   "industry": "Gaskets, Packg & Sealg Devices & Rubber & Plastics Hose",
-   "state_of_incorporation": "NC",
-   "hq": "CHARLOTTE, NC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-03T22:15:29+09:00"
   }
  ]
 }
