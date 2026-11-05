@@ -1,7 +1,107 @@
 {
- "updated_at": "2026-11-06T07:09:03+09:00",
+ "updated_at": "2026-11-06T07:14:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-123446",
+   "company": "ANI PHARMACEUTICALS INC",
+   "ticker": "ANIP",
+   "cik": 1023024,
+   "form": "8-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "FDA"
+   ],
+   "confidence": 74,
+   "summary": "On November 4, 2026, Egetis signed an agreement to sell a Rare Pediatric Disease Priority Review Voucher (“ PRV ”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1023024/000110465926123446/0001104659-26-123446-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1023024/000110465926123446/tm2628706d1_ex99-3.htm",
+   "filed_at": "2026-11-05T17:13:17-05:00",
+   "filed_kst": "2026-11-06 07:13",
+   "price": 69.62,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 69.62,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 69.62,
+     "change": -2.83
+    },
+    {
+     "date": "2026-11-04",
+     "close": 71.65,
+     "change": -0.87
+    }
+   ],
+   "market_cap": 1700276349.0,
+   "shares_outstanding": 24422240.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PRINCETON, NJ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T07:14:10+09:00"
+  },
+  {
+   "id": "0001628280-26-071169",
+   "company": "IAMGOLD CORP",
+   "ticker": "IAG",
+   "cik": 1203464,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "EX-99.1 2 q32026mda.htm EX-99.1 Document MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL POSITION AND RESULTS OF OPERATIONS Third Quarter Ended September 30, 2026 INDEX Introduction 2 About IAMGOLD 2 Highlights 2 Operating and Financial Results 4 Outlook 7 Environmental, Social and Governance 9 Op",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1203464/000162828026071169/0001628280-26-071169-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1203464/000162828026071169/q32026mda.htm",
+   "filed_at": "2026-11-05T17:11:30-05:00",
+   "filed_kst": "2026-11-06 07:11",
+   "price": 17.5,
+   "change": 0.17,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 17.5,
+     "change": 0.17
+    },
+    {
+     "date": "2026-11-04",
+     "close": 17.47,
+     "change": 10.22
+    },
+    {
+     "date": "2026-11-03",
+     "close": 15.85,
+     "change": -0.94
+    }
+   ],
+   "market_cap": 10345029538.0,
+   "shares_outstanding": 591144545.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO, A6",
+   "entity_category": null,
+   "detected_at": "2026-11-06T07:12:05+09:00"
+  },
   {
    "id": "0001213900-26-116431",
    "company": "iSpecimen Inc.",
@@ -15818,111 +15918,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T06:22:47+09:00"
-  },
-  {
-   "id": "0000052827-26-000102",
-   "company": "RAYONIER INC",
-   "ticker": "RYN",
-   "cik": 52827,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 57,
-   "summary": "• Company’s board of directors approved a new incremental $300 million share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/52827/000005282726000102/0000052827-26-000102-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/52827/000005282726000102/exhibit9913q2026.htm",
-   "filed_at": "2026-11-04T16:21:36-05:00",
-   "filed_kst": "2026-11-05 06:21",
-   "price": 20.17,
-   "change": 2.8,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 20.17,
-     "change": 2.8
-    },
-    {
-     "date": "2026-11-03",
-     "close": 19.62,
-     "change": -2.73
-    },
-    {
-     "date": "2026-11-02",
-     "close": 20.17,
-     "change": 4.08
-    }
-   ],
-   "market_cap": 6066071488.0,
-   "shares_outstanding": 300747223.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "NC",
-   "hq": "WILDLIGHT, FL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:22:46+09:00"
-  },
-  {
-   "id": "0001140361-26-041965",
-   "company": "Bowman Consulting Group Ltd.",
-   "ticker": "BWMN",
-   "cik": 1847590,
-   "form": "8-K",
-   "items": [
-    "5.07"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "(the “ Company ”) held a virtual special meeting of stockholders (the “ Special Meeting ”) to consider certain proposals related to the Agreement and Plan of Merger, dated as of August 10, 2026 (the “ Merger Agreement ”), by and among the Company, Prive Parent, Inc.",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1847590/000114036126041965/0001140361-26-041965-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1847590/000114036126041965/ef20084780_8k.htm",
-   "filed_at": "2026-11-04T16:20:40-05:00",
-   "filed_kst": "2026-11-05 06:20",
-   "price": 42.93,
-   "change": -0.07,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 42.93,
-     "change": -0.07
-    },
-    {
-     "date": "2026-11-03",
-     "close": 42.96,
-     "change": 0.16
-    },
-    {
-     "date": "2026-11-02",
-     "close": 42.89,
-     "change": -0.02
-    }
-   ],
-   "market_cap": 744213530.0,
-   "shares_outstanding": 17335512.0,
-   "industry": "Services-Management Consulting Services",
-   "state_of_incorporation": null,
-   "hq": "RESTON, VA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T06:22:00+09:00"
   }
  ]
 }
