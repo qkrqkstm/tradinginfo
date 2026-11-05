@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-06T00:59:44+09:00",
+ "updated_at": "2026-11-06T01:04:55+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001434265-26-000146",
+   "company": "GENMAB A/S",
+   "ticker": "GMAB",
+   "cik": 1434265,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "2102 3884 Interim Report for the Nine Months of 2026 • Two Breakthrough Therapy designations (BTDs) granted by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/0001434265-26-000146-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm",
+   "filed_at": "2026-11-05T11:04:00-05:00",
+   "filed_kst": "2026-11-06 01:04",
+   "price": 54.23,
+   "change": -1.61,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 54.24,
+     "change": -1.61
+    },
+    {
+     "date": "2026-11-04",
+     "close": 55.12,
+     "change": -0.72
+    },
+    {
+     "date": "2026-11-03",
+     "close": 55.52,
+     "change": 1.09
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "1253 COPENHAGEN K, G7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T01:04:24+09:00"
+  },
   {
    "id": "0001193125-26-448825",
    "company": "StealthGas Inc.",
@@ -15904,60 +15957,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-04T20:15:36+09:00"
-  },
-  {
-   "id": "0000093556-26-000036",
-   "company": "STANLEY BLACK & DECKER, INC.",
-   "ticker": "SWK",
-   "cik": 93556,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 61,
-   "summary": "EX-99.1 2 ex991q32026.htm EX-99.1 Document Exhibit 99.1 Stanley Black & Decker Reports 3Q 2026 Results Results Include Benefit from Additional Tariff Refunds in 3Q, Supporting Increases to 2026 EPS and Free Cash Flow Guidance Organic Growth and Margin Expansion Progress Continued in 3Q, Excluding th",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/93556/000009355626000036/0000093556-26-000036-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/93556/000009355626000036/ex991q32026.htm",
-   "filed_at": "2026-11-04T06:08:40-05:00",
-   "filed_kst": "2026-11-04 20:08",
-   "price": 104.62,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 104.62,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 104.62,
-     "change": -1.96
-    },
-    {
-     "date": "2026-11-02",
-     "close": 106.71,
-     "change": 3.16
-    }
-   ],
-   "market_cap": 15799360981.0,
-   "shares_outstanding": 151016641.0,
-   "industry": "Cutlery, Handtools & General Hardware",
-   "state_of_incorporation": "CT",
-   "hq": "NEW BRITAIN, CT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:09:16+09:00"
   }
  ]
 }
