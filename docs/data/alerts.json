@@ -1,7 +1,299 @@
 {
- "updated_at": "2026-11-05T23:14:17+09:00",
+ "updated_at": "2026-11-05T23:19:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-116157",
+   "company": "Constellation Acquisition Corp I",
+   "ticker": "CSTAF",
+   "cik": 1834032,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "5 million was funded upon signing of the business combination agreement and a further $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026116157/0001213900-26-116157-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026116157/ea031101201-425_constell1.htm",
+   "filed_at": "2026-11-05T09:17:40-05:00",
+   "filed_kst": "2026-11-05 23:17",
+   "price": 13.05,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 13.05,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 13.05,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "close": 13.05,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T23:18:15+09:00"
+  },
+  {
+   "id": "0001213900-26-116157",
+   "company": "US Elemental Inc.",
+   "ticker": "ULIT",
+   "cik": 2134552,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "5 million was funded upon signing of the business combination agreement and a further $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026116157/0001213900-26-116157-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026116157/ea031101201-425_constell1.htm",
+   "filed_at": "2026-11-05T09:17:40-05:00",
+   "filed_kst": "2026-11-05 23:17",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+   "state_of_incorporation": "DE",
+   "hq": "RENO, NV",
+   "entity_category": null,
+   "detected_at": "2026-11-05T23:18:13+09:00"
+  },
+  {
+   "id": "0001132597-26-000277",
+   "company": "Itau Unibanco Holding S.A.",
+   "ticker": "ITUB",
+   "cik": 1132597,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 riskandcapitalmanagement.htm EX-99.1 riskandcapitalmanagement Risk and Capital Management - Pillar 3 Third quarter of 2026 Objective 1 Key indicators 1 Prudential Metrics and Risk Management 2 KM1: Key metrics at consolidated level 3 OVA: Bank risk management approach 4 Scope and main char",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000277/0001132597-26-000277-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000277/riskandcapitalmanagement.htm",
+   "filed_at": "2026-11-05T09:16:48-05:00",
+   "filed_kst": "2026-11-05 23:16",
+   "price": 7.28,
+   "change": 3.26,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 7.28,
+     "change": 3.26
+    },
+    {
+     "date": "2026-11-03",
+     "close": 7.05,
+     "change": -1.67
+    },
+    {
+     "date": "2026-11-02",
+     "close": 7.17,
+     "change": 0.56
+    }
+   ],
+   "market_cap": 36096353814.0,
+   "shares_outstanding": 4958290359.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "Brazil",
+   "hq": "SAO PAULO, D5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T23:17:40+09:00"
+  },
+  {
+   "id": "0001213900-26-116155",
+   "company": "ASCENTAGE PHARMA GROUP INTERNATIONAL",
+   "ticker": "AAPG",
+   "cik": 2023311,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "FDA has granted four Orphan Drug Designations (ODDs) for olverembatinib for the treatment of CML, acute myeloid leukemia (AML), ALL, and GIST.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023311/000121390026116155/0001213900-26-116155-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023311/000121390026116155/ea031101801ex99-1.htm",
+   "filed_at": "2026-11-05T09:15:01-05:00",
+   "filed_kst": "2026-11-05 23:15",
+   "price": 15.07,
+   "change": 11.8,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 15.07,
+     "change": 11.8
+    },
+    {
+     "date": "2026-11-03",
+     "close": 13.48,
+     "change": -0.59
+    },
+    {
+     "date": "2026-11-02",
+     "close": 13.56,
+     "change": -6.2
+    }
+   ],
+   "market_cap": 5625965433.0,
+   "shares_outstanding": 373322192.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SUZHOU , JIANGSU",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T23:16:04+09:00"
+  },
+  {
+   "id": "0001493152-26-050094",
+   "company": "Kairos Pharma, LTD.",
+   "ticker": "KAPA",
+   "cik": 1962011,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "The interim analysis demonstrated a statistically significant difference in progression-free survival (PFS) between all patients in the trial treated with ENV-105 plus apalutamide and those treated with apalutamide alone.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226050094/0001493152-26-050094-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1962011/000149315226050094/ex99-1.htm",
+   "filed_at": "2026-11-05T09:15:28-05:00",
+   "filed_kst": "2026-11-05 23:15",
+   "price": 0.49,
+   "change": -2.97,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 0.49,
+     "change": -2.97
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.5,
+     "change": 6.54
+    },
+    {
+     "date": "2026-11-02",
+     "close": 0.47,
+     "change": -10.57
+    }
+   ],
+   "market_cap": 11611865.0,
+   "shares_outstanding": 23697683.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T23:16:01+09:00"
+  },
+  {
+   "id": "0001493152-26-050093",
+   "company": "AIM ImmunoTech Inc.",
+   "ticker": "AIM",
+   "cik": 946644,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "EX-99.2 3 ex99-2.htm EX-99.2 Exhibit 99.2 AIM ImmunoTech Highlights Ampligen® Opportunity to Potentially Extend Benefits of RAS-Targeted Therapies in Pancreatic Cancer New investor presentation outlines scientific rationale for combining Ampligen’s immune-stimulating activity with daraxonrasib’s tar",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/946644/000149315226050093/0001493152-26-050093-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/946644/000149315226050093/ex99-2.htm",
+   "filed_at": "2026-11-05T09:14:29-05:00",
+   "filed_kst": "2026-11-05 23:14",
+   "price": 0.16,
+   "change": 0.63,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 0.16,
+     "change": 0.63
+    },
+    {
+     "date": "2026-11-04",
+     "close": 0.16,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.16,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 4870742.0,
+   "shares_outstanding": 30442139.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "OCALA, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-05T23:15:29+09:00"
+  },
   {
    "id": "0001628280-26-070669",
    "company": "Criteo S.A.",
@@ -15667,322 +15959,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-04T20:06:08+09:00"
-  },
-  {
-   "id": "0001104659-26-122236",
-   "company": "SUNCOR ENERGY INC",
-   "ticker": "SU",
-   "cik": 311337,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 63,
-   "summary": "● During the third quarter of 2026, Suncor recorded a non-cash asset impairment of $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/311337/000110465926122236/0001104659-26-122236-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/311337/000110465926122236/su-ex99d2.htm",
-   "filed_at": "2026-11-03T18:25:38-05:00",
-   "filed_kst": "2026-11-04 08:25",
-   "price": 75.45,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 75.45,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 75.45,
-     "change": 0.04
-    },
-    {
-     "date": "2026-11-02",
-     "close": 75.42,
-     "change": -5.04
-    }
-   ],
-   "market_cap": 90051045822.0,
-   "shares_outstanding": 1193519494.0,
-   "industry": "Petroleum Refining",
-   "state_of_incorporation": "Alberta, Canada",
-   "hq": "CALGARY, A0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:06:05+09:00"
-  },
-  {
-   "id": "0000066740-26-000318",
-   "company": "3M CO",
-   "ticker": "MMM",
-   "cik": 66740,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-10.1 2 msa.htm EX-10.1 Document Exhibit 10.1 IN RE: AQUEOUS FILM-FORMING FOAMS PRODUCTS LIABILITY LITIGATION PERSONAL INJURY CLAIMS MASTER SETTLEMENT AGREEMENT This Master Settlement Agreement (the “Settlement” or the “Settlement Agreement”), dated November 3, 2026, is hereby entered into by and ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000318/0000066740-26-000318-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000318/msa.htm",
-   "filed_at": "2026-11-03T18:03:00-05:00",
-   "filed_kst": "2026-11-04 08:03",
-   "price": 177.05,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 177.05,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 177.05,
-     "change": -0.73
-    },
-    {
-     "date": "2026-11-02",
-     "close": 178.36,
-     "change": 2.31
-    }
-   ],
-   "market_cap": 91486971077.0,
-   "shares_outstanding": 516729574.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "ST PAUL, MN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:05:45+09:00"
-  },
-  {
-   "id": "0001193125-26-445747",
-   "company": "HECLA MINING CO/DE/",
-   "ticker": "HL",
-   "cik": 719413,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "5.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 59,
-   "summary": "The Company remains debt free (excluding finance leases) and has entered into a new $500 million revolving credit agreement with an additional $100 million accordion option.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/719413/000119312526445747/0001193125-26-445747-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/719413/000119312526445747/hl-ex99_1.htm",
-   "filed_at": "2026-11-03T18:25:46-05:00",
-   "filed_kst": "2026-11-04 08:25",
-   "price": 13.21,
-   "change": -2.44,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 13.21,
-     "change": -2.44
-    },
-    {
-     "date": "2026-11-02",
-     "close": 13.54,
-     "change": 0.07
-    },
-    {
-     "date": "2026-10-30",
-     "close": 13.53,
-     "change": -6.37
-    }
-   ],
-   "market_cap": 8874178476.0,
-   "shares_outstanding": 671777326.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "DE",
-   "hq": "COEUR D'ALENE, ID",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:05:44+09:00"
-  },
-  {
-   "id": "0001564708-26-000243",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000243/0001564708-26-000243-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000243/appendix3cclassa20261103.htm",
-   "filed_at": "2026-11-03T19:33:45-05:00",
-   "filed_kst": "2026-11-04 09:33",
-   "price": 32.06,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 32.06,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 32.06,
-     "change": -1.23
-    },
-    {
-     "date": "2026-11-02",
-     "close": 32.46,
-     "change": 2.27
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:05:41+09:00"
-  },
-  {
-   "id": "0001122976-26-000145",
-   "company": "AVIENT CORP",
-   "ticker": "AVNT",
-   "cik": 1122976,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 62,
-   "summary": "1 Document NEWS RELEASE FOR IMMEDIATE RELEASE Avient Announces Third Quarter 2026 Results Ahead of Expectations; Increases Full-Year Adjusted EPS Guidance Range • Third quarter sales grew 10.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1122976/000112297626000145/0001122976-26-000145-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1122976/000112297626000145/avnt-20260930xnewsrelease.htm",
-   "filed_at": "2026-11-04T06:01:18-05:00",
-   "filed_kst": "2026-11-04 20:01",
-   "price": 43.25,
-   "change": -0.46,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 43.25,
-     "change": -0.46
-    },
-    {
-     "date": "2026-11-02",
-     "close": 43.45,
-     "change": 1.42
-    },
-    {
-     "date": "2026-10-30",
-     "close": 42.84,
-     "change": -0.09
-    }
-   ],
-   "market_cap": 3966870538.0,
-   "shares_outstanding": 91719550.0,
-   "industry": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
-   "state_of_incorporation": null,
-   "hq": "AVON LAKE, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:05:37+09:00"
-  },
-  {
-   "id": "0001672013-26-000179",
-   "company": "Acushnet Holdings Corp.",
-   "ticker": "GOLF",
-   "cik": 1672013,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "9 million related to the deconsolidation of our FootJoy golf shoe joint venture (\"FootJoy JV\").",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000179/0001672013-26-000179-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1672013/000167201326000179/ex991-q32026.htm",
-   "filed_at": "2026-11-04T06:01:23-05:00",
-   "filed_kst": "2026-11-04 20:01",
-   "price": 87.41,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 87.41,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 87.41,
-     "change": -2.25
-    },
-    {
-     "date": "2026-11-02",
-     "close": 89.42,
-     "change": 4.88
-    }
-   ],
-   "market_cap": 5105184896.0,
-   "shares_outstanding": 58405044.0,
-   "industry": "Sporting & Athletic Goods, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "FAIRHAVEN, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T20:05:35+09:00"
   }
  ]
 }
