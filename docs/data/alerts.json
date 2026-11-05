@@ -1,7 +1,327 @@
 {
- "updated_at": "2026-11-05T22:04:54+09:00",
+ "updated_at": "2026-11-05T22:09:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001000694-26-000021",
+   "company": "NOVAVAX INC",
+   "ticker": "NVAX",
+   "cik": 1000694,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "Sanofi includes revenue recognized under the license agreement including upfront payments, milestones, royalties and transition services reimbursement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1000694/000100069426000021/0001000694-26-000021-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1000694/000100069426000021/nvax3q26earningspressrelea.htm",
+   "filed_at": "2026-11-05T08:08:24-05:00",
+   "filed_kst": "2026-11-05 22:08",
+   "price": 10.65,
+   "change": 10.02,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 10.65,
+     "change": 10.02
+    },
+    {
+     "date": "2026-11-03",
+     "close": 9.68,
+     "change": 1.57
+    },
+    {
+     "date": "2026-11-02",
+     "close": 9.53,
+     "change": -5.46
+    }
+   ],
+   "market_cap": 1756671982.0,
+   "shares_outstanding": 164945726.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "GAITHERSBURG, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T22:09:07+09:00"
+  },
+  {
+   "id": "0000932696-26-000076",
+   "company": "INSIGHT ENTERPRISES INC",
+   "ticker": "NSIT",
+   "cik": 932696,
+   "form": "8-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "Highlights include: • Consolidated net sales increased 22% year over year • Gross profit increased 20% year over year to $523.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/932696/000093269626000076/0000932696-26-000076-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/932696/000093269626000076/nsit-20261105xerx8kex991.htm",
+   "filed_at": "2026-11-05T08:07:54-05:00",
+   "filed_kst": "2026-11-05 22:07",
+   "price": 175.62,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 175.62,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 175.62,
+     "change": 4.94
+    },
+    {
+     "date": "2026-11-03",
+     "close": 167.35,
+     "change": 0.35
+    }
+   ],
+   "market_cap": 5154245037.0,
+   "shares_outstanding": 29348850.0,
+   "industry": "Retail-Catalog & Mail-Order Houses",
+   "state_of_incorporation": "DE",
+   "hq": "CHANDLER, AZ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T22:08:34+09:00"
+  },
+  {
+   "id": "0001062993-26-005760",
+   "company": "InMed Pharmaceuticals Inc.",
+   "ticker": "INM",
+   "cik": 1728328,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "The Company is also pleased to announce that, as contemplated by the Merger Agreement (as defined below), the Company has legally changed its name to Mentari Therapeutics, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1728328/000106299326005760/0001062993-26-005760-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1728328/000106299326005760/exhibit99-1.htm",
+   "filed_at": "2026-11-05T08:08:05-05:00",
+   "filed_kst": "2026-11-05 22:08",
+   "price": 1.75,
+   "change": -90.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 1.75,
+     "change": -90.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 17.5,
+     "change": 4.17
+    },
+    {
+     "date": "2026-11-03",
+     "close": 16.8,
+     "change": 3.07
+    }
+   ],
+   "market_cap": 9614036.0,
+   "shares_outstanding": 5493735.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-05T22:08:32+09:00"
+  },
+  {
+   "id": "0001628280-26-070622",
+   "company": "Vericel Corp",
+   "ticker": "VCEL",
+   "cik": 887359,
+   "form": "8-K",
+   "items": [
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "2 million of share repurchase authorization remaining as of September 30, 2026 “The Company delivered outstanding financial and business results in the third quarter as we continue to generate top-tier revenue and profit growth as well as significant free cash flow, whil",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/887359/000162828026070622/0001628280-26-070622-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/887359/000162828026070622/ex991earningsreleaseq32026.htm",
+   "filed_at": "2026-11-05T08:06:42-05:00",
+   "filed_kst": "2026-11-05 22:06",
+   "price": 45.48,
+   "change": 10.68,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 45.48,
+     "change": 10.68
+    },
+    {
+     "date": "2026-11-03",
+     "close": 41.09,
+     "change": 1.43
+    },
+    {
+     "date": "2026-11-02",
+     "close": 40.51,
+     "change": 0.62
+    }
+   ],
+   "market_cap": 2328876805.0,
+   "shares_outstanding": 51206614.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "MI",
+   "hq": "BURLINGTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T22:08:00+09:00"
+  },
+  {
+   "id": "0001628280-26-070619",
+   "company": "RALPH LAUREN CORP",
+   "ticker": "RL",
+   "cik": 1037038,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "The Company repurchase d approximately $250 million of Class A Common Stock in the second quarter for a tot al of $500 million thi s fiscal year-to-date, completing the Company's share repurchase plans for Fiscal 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026070619/0001628280-26-070619-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026070619/rl-20260926ex991xpressrele.htm",
+   "filed_at": "2026-11-05T08:04:56-05:00",
+   "filed_kst": "2026-11-05 22:04",
+   "price": 412.06,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 412.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 412.06,
+     "change": 4.48
+    },
+    {
+     "date": "2026-11-03",
+     "close": 394.4,
+     "change": -0.79
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T22:05:57+09:00"
+  },
+  {
+   "id": "0001193125-26-448654",
+   "company": "BlackRock TCP Capital Corp.",
+   "ticker": "TCPC",
+   "cik": 1370755,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 68,
+   "summary": "On April 29, 2026, our Board of Directors re-approved our stock repurchase plan to acquire up to $50.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1370755/000119312526448654/0001193125-26-448654-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370755/000119312526448654/tcpc-ex99_1.htm",
+   "filed_at": "2026-11-05T08:05:15-05:00",
+   "filed_kst": "2026-11-05 22:05",
+   "price": 4.37,
+   "change": 4.05,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 4.37,
+     "change": 4.05
+    },
+    {
+     "date": "2026-11-03",
+     "close": 4.2,
+     "change": -1.87
+    },
+    {
+     "date": "2026-11-02",
+     "close": 4.28,
+     "change": 2.39
+    }
+   ],
+   "market_cap": 366655127.0,
+   "shares_outstanding": 83902775.0,
+   "industry": null,
+   "state_of_incorporation": "DE",
+   "hq": "SANTA MONICA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T22:05:56+09:00"
+  },
   {
    "id": "0000874396-26-000051",
    "company": "LIFETIME BRANDS, INC",
@@ -15653,317 +15973,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-04T06:28:24+09:00"
-  },
-  {
-   "id": "0001683168-26-008267",
-   "company": "Chilean Cobalt Corp.",
-   "ticker": "COBA",
-   "cik": 1727255,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Nothing in the Agreement or this Amendment creates a partnership, joint venture or agency relationship between the Parties, and Chilean Cobalt is not the operator of the Project or the employer or principal of any person engaged by NeoRe.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1727255/000168316826008267/0001683168-26-008267-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1727255/000168316826008267/chilean_ex1001.htm",
-   "filed_at": "2026-11-03T16:27:32-05:00",
-   "filed_kst": "2026-11-04 06:27",
-   "price": 2.15,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-02",
-     "close": 2.15,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-30",
-     "close": 2.15,
-     "change": 0.0
-    },
-    {
-     "date": "2026-10-29",
-     "close": 2.15,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 124640724.0,
-   "shares_outstanding": 57972430.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "NV",
-   "hq": "BERWYN, PA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-04T06:28:22+09:00"
-  },
-  {
-   "id": "0001104659-26-122029",
-   "company": "LTC PROPERTIES INC",
-   "ticker": "LTC",
-   "cik": 887905,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 ltc-ex99d1.htm EX-99.1 Exhibit 99.1 ​ ​ ​ ​ ​ ​ ​ ​ -8655 ​ ​ ​ FOR IMMEDIATE RELEASE ​ For more information contact: Eric Clark (805) 981-8655 ​ LTC REPORTS 2026 THIRD QUARTER RESULTS AS SHOP MOMENTUM CONTINUES ​ – Year-to-Date SHOP Acquisitions of Nearly $950 Million Surpass Previously D",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/887905/000110465926122029/0001104659-26-122029-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/887905/000110465926122029/ltc-ex99d1.htm",
-   "filed_at": "2026-11-03T16:23:52-05:00",
-   "filed_kst": "2026-11-04 06:23",
-   "price": 45.8,
-   "change": 1.46,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 45.8,
-     "change": 1.46
-    },
-    {
-     "date": "2026-11-02",
-     "close": 45.14,
-     "change": 0.87
-    },
-    {
-     "date": "2026-10-30",
-     "close": 44.75,
-     "change": 0.97
-    }
-   ],
-   "market_cap": 2468874785.0,
-   "shares_outstanding": 53905563.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "WESTLAKE VILLAGE, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:25:38+09:00"
-  },
-  {
-   "id": "0001213900-26-115562",
-   "company": "EQT Corp",
-   "ticker": "EQT",
-   "cik": 33213,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Rice discussed, among other things, EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agreement”), by and among EQT, EQT Holdings LLC, Rhino Merger Sub Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026115562/0001213900-26-115562-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026115562/ea0310783-425_eqtcorp.htm",
-   "filed_at": "2026-11-03T16:23:22-05:00",
-   "filed_kst": "2026-11-04 06:23",
-   "price": 54.25,
-   "change": -1.08,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 54.25,
-     "change": -1.08
-    },
-    {
-     "date": "2026-11-02",
-     "close": 54.84,
-     "change": -0.98
-    },
-    {
-     "date": "2026-10-30",
-     "close": 55.38,
-     "change": 1.54
-    }
-   ],
-   "market_cap": 33936033250.0,
-   "shares_outstanding": 625549000.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "PA",
-   "hq": "CANONSBURG, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:24:09+09:00"
-  },
-  {
-   "id": "0001213900-26-115562",
-   "company": "RANGE RESOURCES CORP",
-   "ticker": "RRC",
-   "cik": 315852,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Rice discussed, among other things, EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agreement”), by and among EQT, EQT Holdings LLC, Rhino Merger Sub Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026115562/0001213900-26-115562-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026115562/ea0310783-425_eqtcorp.htm",
-   "filed_at": "2026-11-03T16:23:22-05:00",
-   "filed_kst": "2026-11-04 06:23",
-   "price": 54.01,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 54.01,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 54.01,
-     "change": -0.84
-    },
-    {
-     "date": "2026-11-02",
-     "close": 54.47,
-     "change": -0.29
-    }
-   ],
-   "market_cap": 12621640594.0,
-   "shares_outstanding": 233690809.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "FT WORTH, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:24:07+09:00"
-  },
-  {
-   "id": "0001267238-26-000043",
-   "company": "ASSURANT, INC.",
-   "ticker": "AIZ",
-   "cik": 1267238,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "As of October 31, 2026, $469 million remained under the current repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000043/0001267238-26-000043-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000043/aiz-20260930exx991pressrel.htm",
-   "filed_at": "2026-11-03T16:20:34-05:00",
-   "filed_kst": "2026-11-04 06:20",
-   "price": 296.13,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 296.13,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 296.13,
-     "change": -0.37
-    },
-    {
-     "date": "2026-11-02",
-     "close": 297.23,
-     "change": 1.51
-    }
-   ],
-   "market_cap": 14606247122.0,
-   "shares_outstanding": 49323767.0,
-   "industry": "Insurance Carriers, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:21:11+09:00"
-  },
-  {
-   "id": "0000051253-26-000039",
-   "company": "INTERNATIONAL FLAVORS & FRAGRANCES INC",
-   "ticker": "IFF",
-   "cik": 51253,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "com IFF Reports Third Quarter 2026 Results Delivered Strong Sales, Profit and Cash Flow Performance in Third Quarter 2026 Raising Low-End of Full Year 2026 Financial Guidance Ranges Recently Completed $500M Share Repurchase Authorization Food Ingredients Divestiture Progressing Well and On Track to ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/51253/000005125326000039/0000051253-26-000039-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/51253/000005125326000039/q32026991pressreleaseofiff.htm",
-   "filed_at": "2026-11-03T16:19:41-05:00",
-   "filed_kst": "2026-11-04 06:19",
-   "price": 92.18,
-   "change": -2.59,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 92.18,
-     "change": -2.59
-    },
-    {
-     "date": "2026-11-02",
-     "close": 94.63,
-     "change": 1.73
-    },
-    {
-     "date": "2026-10-30",
-     "close": 93.02,
-     "change": 2.43
-    }
-   ],
-   "market_cap": 23519723589.0,
-   "shares_outstanding": 255149963.0,
-   "industry": "Industrial Organic Chemicals",
-   "state_of_incorporation": "NY",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:20:33+09:00"
   }
  ]
 }
