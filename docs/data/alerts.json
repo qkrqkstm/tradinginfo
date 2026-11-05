@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-05T22:19:13+09:00",
+ "updated_at": "2026-11-05T22:24:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000070145-26-000037",
+   "company": "NATIONAL FUEL GAS CO",
+   "ticker": "NFG",
+   "cik": 70145,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "RECENT STRATEGIC HIGHLIGHTS • Completed the acquisition of CenterPoint Energy's Ohio natural gas utility on October 1, 2026, doubling the Company's Utility rate base and adding approximately 335,000 utility customers.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/70145/000007014526000037/0000070145-26-000037-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/70145/000007014526000037/nfg-9302026xexhibit99x8k.htm",
+   "filed_at": "2026-11-05T08:20:44-05:00",
+   "filed_kst": "2026-11-05 22:20",
+   "price": 76.54,
+   "change": -2.66,
+   "price_history": [
+    {
+     "date": "2026-11-04",
+     "close": 76.54,
+     "change": -2.66
+    },
+    {
+     "date": "2026-11-03",
+     "close": 78.63,
+     "change": -1.31
+    },
+    {
+     "date": "2026-11-02",
+     "close": 79.67,
+     "change": 0.15
+    }
+   ],
+   "market_cap": 7274751877.0,
+   "shares_outstanding": 95045099.0,
+   "industry": "Natural Gas Distribution",
+   "state_of_incorporation": "NJ",
+   "hq": "WILLIAMSVILLE, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-05T22:21:33+09:00"
+  },
   {
    "id": "0001193125-26-448673",
    "company": "Intellia Therapeutics, Inc.",
@@ -15920,60 +15973,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-04T06:36:54+09:00"
-  },
-  {
-   "id": "0001421461-26-000026",
-   "company": "Intrepid Potash, Inc.",
-   "ticker": "IPI",
-   "cik": 1421461,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "We see attractive value in our shares and have accelerated repurchases since the end of the third quarter with a total of approximately 88 thousand sh ares purchased under the expanded repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1421461/000142146126000026/0001421461-26-000026-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1421461/000142146126000026/ex991q32026pressrelease.htm",
-   "filed_at": "2026-11-03T16:34:08-05:00",
-   "filed_kst": "2026-11-04 06:34",
-   "price": 30.75,
-   "change": -0.77,
-   "price_history": [
-    {
-     "date": "2026-11-03",
-     "close": 30.75,
-     "change": -0.77
-    },
-    {
-     "date": "2026-11-02",
-     "close": 30.99,
-     "change": -1.87
-    },
-    {
-     "date": "2026-10-30",
-     "close": 31.58,
-     "change": 1.74
-    }
-   ],
-   "market_cap": 413792726.0,
-   "shares_outstanding": 13456674.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "DE",
-   "hq": "DENVER, CO",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-04T06:35:42+09:00"
   }
  ]
 }
