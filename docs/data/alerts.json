@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-06T21:49:32+09:00",
+ "updated_at": "2026-11-06T21:54:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000922224-26-000050",
+   "company": "PPL Corp",
+   "ticker": "PPL",
+   "cik": 922224,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "Invitium Energy Invitium Energy, PPL’s joint venture with Blackstone Infrastructure, supports $6 billion to $9 billion of potential future generation project investment for PPL through 2032 (represents PPL’s 51% ownership share), based on executed reservation agreements for 5 GW of combined-cycle g",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000050/0000922224-26-000050-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000050/ppl-9302026exhibit991.htm",
+   "filed_at": "2026-11-06T07:51:16-05:00",
+   "filed_kst": "2026-11-06 21:51",
+   "price": 36.0,
+   "change": 0.78,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 36.0,
+     "change": 0.78
+    },
+    {
+     "date": "2026-11-04",
+     "close": 35.72,
+     "change": 0.03
+    },
+    {
+     "date": "2026-11-03",
+     "close": 35.71,
+     "change": -1.19
+    }
+   ],
+   "market_cap": 27084613032.0,
+   "shares_outstanding": 752350362.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": null,
+   "hq": "ALLENTOWN, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T21:51:59+09:00"
+  },
   {
    "id": "0001171843-26-007213",
    "company": "TENARIS SA",
@@ -15813,38 +15869,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T20:03:31+09:00"
-  },
-  {
-   "id": "0001213900-26-116054",
-   "company": "US Elemental Inc.",
-   "ticker": "ULIT",
-   "cik": 2134552,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "5 million was funded upon signing of the business combination agreement and a further US$2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026116054/0001213900-26-116054-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026116054/ea031101202-425_constell1.htm",
-   "filed_at": "2026-11-04T19:32:33-05:00",
-   "filed_kst": "2026-11-05 09:32",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "DE",
-   "hq": "RENO, NV",
-   "entity_category": null,
-   "detected_at": "2026-11-05T20:03:30+09:00"
   }
  ]
 }
