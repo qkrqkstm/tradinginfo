@@ -1,7 +1,163 @@
 {
- "updated_at": "2026-11-06T21:19:21+09:00",
+ "updated_at": "2026-11-06T21:24:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-450743",
+   "company": "Lufax Holding Ltd",
+   "ticker": "LU",
+   "cik": 1816007,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 d144787dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability w",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1816007/000119312526450743/0001193125-26-450743-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1816007/000119312526450743/d144787dex991.htm",
+   "filed_at": "2026-11-06T07:23:15-05:00",
+   "filed_kst": "2026-11-06 21:23",
+   "price": 8.63,
+   "change": 1.41,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 8.63,
+     "change": 1.41
+    },
+    {
+     "date": "2026-11-04",
+     "close": 8.51,
+     "change": 4.29
+    },
+    {
+     "date": "2026-11-03",
+     "close": 8.16,
+     "change": -2.16
+    }
+   ],
+   "market_cap": 14959037762.0,
+   "shares_outstanding": 1733376334.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T21:23:44+09:00"
+  },
+  {
+   "id": "0001628280-26-071317",
+   "company": "Kyivstar Group Ltd.",
+   "ticker": "KYIV",
+   "cik": 2062440,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "We calculate Adjusted EBITDA as profit/(loss) for the period, before impairment loss, financial expenses and costs, net foreign exchange gain/(loss), share of profit/(loss) of associates and joint ventures, and listing expense, which is also excluded from the calculation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2062440/000162828026071317/0001628280-26-071317-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2062440/000162828026071317/kgl3q26earningsreleasevf.htm",
+   "filed_at": "2026-11-06T07:21:36-05:00",
+   "filed_kst": "2026-11-06 21:21",
+   "price": 12.96,
+   "change": -4.85,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 12.96,
+     "change": -4.85
+    },
+    {
+     "date": "2026-11-04",
+     "close": 13.62,
+     "change": 2.18
+    },
+    {
+     "date": "2026-11-03",
+     "close": 13.33,
+     "change": 2.46
+    }
+   ],
+   "market_cap": 2991992567.0,
+   "shares_outstanding": 230863624.0,
+   "industry": "Radiotelephone Communications",
+   "state_of_incorporation": "Bermuda",
+   "hq": "DUBAI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-06T21:22:41+09:00"
+  },
+  {
+   "id": "0001171843-26-007211",
+   "company": "Anika Therapeutics, Inc.",
+   "ticker": "ANIK",
+   "cik": 898437,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 69,
+   "summary": "Anika continues to improve manufacturing execution through stronger production planning, process improvements and sourcing flexibility, including FDA approval of new aseptic manufacturing processes and validation of a second cross-link filler.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/898437/000117184326007211/0001171843-26-007211-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/898437/000117184326007211/exh_991.htm",
+   "filed_at": "2026-11-06T07:20:22-05:00",
+   "filed_kst": "2026-11-06 21:20",
+   "price": 19.33,
+   "change": -5.25,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 19.33,
+     "change": -5.25
+    },
+    {
+     "date": "2026-11-04",
+     "close": 20.4,
+     "change": 4.88
+    },
+    {
+     "date": "2026-11-03",
+     "close": 19.45,
+     "change": 0.21
+    }
+   ],
+   "market_cap": 258692733.0,
+   "shares_outstanding": 13382966.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "BEDFORD, MA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-06T21:21:00+09:00"
+  },
   {
    "id": "0001104659-26-123586",
    "company": "TELUS CORP",
@@ -15686,164 +15842,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:02:44+09:00"
-  },
-  {
-   "id": "0001352010-26-000048",
-   "company": "EPAM Systems, Inc.",
-   "ticker": "EPAM",
-   "cik": 1352010,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 77,
-   "summary": "0%, on a year-over-year basis • Increased share repurchase authorization by $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201026000048/0001352010-26-000048-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201026000048/exhibit99_q3x2026.htm",
-   "filed_at": "2026-11-04T18:55:57-05:00",
-   "filed_kst": "2026-11-05 08:55",
-   "price": 137.36,
-   "change": -0.59,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 137.36,
-     "change": -0.59
-    },
-    {
-     "date": "2026-11-03",
-     "close": 138.17,
-     "change": -3.92
-    },
-    {
-     "date": "2026-11-02",
-     "close": 143.8,
-     "change": 2.34
-    }
-   ],
-   "market_cap": 7085987710.0,
-   "shares_outstanding": 51586981.0,
-   "industry": "Services-Computer Programming Services",
-   "state_of_incorporation": "DE",
-   "hq": "NEWTOWN, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:02:42+09:00"
-  },
-  {
-   "id": "0001171843-26-007123",
-   "company": "Allied Gold Corp",
-   "ticker": "AAUC",
-   "cik": 1993344,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "The Company is progressing a shareholder returns policy as part of this capital allocation framework and intends to evaluate the full range of cash return options, including a base dividend anticipated to start in 2027 and a share buyback program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1993344/000117184326007123/0001171843-26-007123-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1993344/000117184326007123/exh_991.htm",
-   "filed_at": "2026-11-04T17:53:42-05:00",
-   "filed_kst": "2026-11-05 07:53",
-   "price": 20.41,
-   "change": 7.7,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 20.41,
-     "change": 7.7
-    },
-    {
-     "date": "2026-11-03",
-     "close": 18.95,
-     "change": -2.02
-    },
-    {
-     "date": "2026-11-02",
-     "close": 19.34,
-     "change": 2.87
-    }
-   ],
-   "market_cap": 2545886681.0,
-   "shares_outstanding": 124737221.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO, A6",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T20:02:08+09:00"
-  },
-  {
-   "id": "0001193125-26-447831",
-   "company": "Gold Royalty Corp.",
-   "ticker": "GROY",
-   "cik": 1834026,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "• Completed the acquisition of additional royalties in Nevada.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1834026/000119312526447831/0001193125-26-447831-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834026/000119312526447831/groy-ex99_1.htm",
-   "filed_at": "2026-11-04T18:31:08-05:00",
-   "filed_kst": "2026-11-05 08:31",
-   "price": 2.89,
-   "change": 9.47,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 2.89,
-     "change": 9.47
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.64,
-     "change": -2.94
-    },
-    {
-     "date": "2026-11-02",
-     "close": 2.72,
-     "change": 2.26
-    }
-   ],
-   "market_cap": 648893021.0,
-   "shares_outstanding": 224530457.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "VANCOUVER, A1",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T20:02:05+09:00"
   }
  ]
 }
