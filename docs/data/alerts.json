@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-07T07:04:33+09:00",
+ "updated_at": "2026-11-07T07:09:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001829126-26-012094",
+   "company": "CapForce Inc.",
+   "ticker": "CFOR",
+   "cik": 1293818,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "AEI Capital Group specializes in late-stage, pre-IPO investments, merger and acquisition/joint venture transactions, private equity/venture capital deals, private investment in public equity (PIPE), hedge fund portfolio, private fund structuring, and buy-out of high growth small and medium-sized ent",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1293818/000182912626012094/0001829126-26-012094-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1293818/000182912626012094/capforceinc_ex3-1.htm",
+   "filed_at": "2026-11-06T17:08:00-05:00",
+   "filed_kst": "2026-11-07 07:08",
+   "price": 6.02,
+   "change": -38.26,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 6.02,
+     "change": -38.26
+    },
+    {
+     "date": "2026-11-04",
+     "close": 9.75,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 9.75,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 74636285.0,
+   "shares_outstanding": 12398054.0,
+   "industry": "Services-Management Consulting Services",
+   "state_of_incorporation": "DE",
+   "hq": "KUALA LUMPUR",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-07T07:08:34+09:00"
+  },
   {
    "id": "0001062993-26-005808",
    "company": "Medicus Pharma Ltd.",
@@ -15740,61 +15791,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:50:43+09:00"
-  },
-  {
-   "id": "0000721371-26-000042",
-   "company": "CARDINAL HEALTH INC",
-   "ticker": "CAH",
-   "cik": 721371,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "00, 17% to 19% growth 3 from its FY26 ex-tariff refund baseline and 14% to 15% growth from reported FY26 results • Cardinal Health completes $500 million share repurchase program in first quarter DUBLIN, Ohio, November 5, 2026 - Cardinal Health (NYSE: CAH) today reported first quarter fiscal year 20",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/721371/000072137126000042/0000721371-26-000042-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/721371/000072137126000042/a27q1_x093026xex991xnewsre.htm",
-   "filed_at": "2026-11-05T06:47:43-05:00",
-   "filed_kst": "2026-11-05 20:47",
-   "price": 261.93,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 261.93,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 261.93,
-     "change": 3.55
-    },
-    {
-     "date": "2026-11-03",
-     "close": 252.94,
-     "change": -0.55
-    }
-   ],
-   "market_cap": 60918560435.0,
-   "shares_outstanding": 232575728.0,
-   "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
-   "state_of_incorporation": "OH",
-   "hq": "DUBLIN, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:48:45+09:00"
   }
  ]
 }
