@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-07T03:19:47+09:00",
+ "updated_at": "2026-11-07T03:24:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009595",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009595/0001654954-26-009595-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009595/a2335c.htm",
+   "filed_at": "2026-11-06T13:23:29-05:00",
+   "filed_kst": "2026-11-07 03:23",
+   "price": 87.02,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 87.02,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "close": 87.02,
+     "change": -1.18
+    },
+    {
+     "date": "2026-11-05",
+     "close": 88.06,
+     "change": -1.47
+    }
+   ],
+   "market_cap": 1494589372791.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-07T03:24:17+09:00"
+  },
   {
    "id": "0001493152-26-050394",
    "company": "Data443 Risk Mitigation, Inc.",
@@ -15799,57 +15849,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T20:08:45+09:00"
-  },
-  {
-   "id": "0001648257-26-000076",
-   "company": "HUTCHMED (China) Ltd",
-   "ticker": "HCM",
-   "cik": 1648257,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "1 ​ ​ Press Release ​ HUTCHMED Announces Sovleplenib Granted US FDA Orphan Drug Designation for Autoimmune Hemolytic Anemia — Eligible for development incentives including 7 years of US market exclusivity upon regulatory approval — — Marks the second US FDA Orphan Drug Designation for sovleplenib, f",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000076/0001648257-26-000076-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000076/hcm-ex99d1.htm",
-   "filed_at": "2026-11-05T06:07:35-05:00",
-   "filed_kst": "2026-11-05 20:07",
-   "price": 13.92,
-   "change": 6.42,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 13.92,
-     "change": 6.42
-    },
-    {
-     "date": "2026-11-03",
-     "close": 13.08,
-     "change": -1.43
-    },
-    {
-     "date": "2026-11-02",
-     "close": 13.27,
-     "change": 0.91
-    }
-   ],
-   "market_cap": 12142800470.0,
-   "shares_outstanding": 872327620.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:08:12+09:00"
   }
  ]
 }
