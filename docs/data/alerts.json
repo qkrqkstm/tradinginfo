@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-06T22:59:29+09:00",
+ "updated_at": "2026-11-06T23:04:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001671927-26-000034",
+   "company": "Immunocore Holdings plc",
+   "ticker": "IMCR",
+   "cik": 1671927,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "• Based on these data, the Company is planning to start DUET-UVEAL, a randomized Phase 2/3 trial, to evaluate the combination for the treatment of HLA-A*02:01-positive patients with mUM.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1671927/000167192726000034/0001671927-26-000034-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671927/000167192726000034/pressrelease-q32026.htm",
+   "filed_at": "2026-11-06T09:00:53-05:00",
+   "filed_kst": "2026-11-06 23:00",
+   "price": 28.4,
+   "change": -2.84,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 28.4,
+     "change": -2.84
+    },
+    {
+     "date": "2026-11-04",
+     "close": 29.23,
+     "change": -2.66
+    },
+    {
+     "date": "2026-11-03",
+     "close": 30.03,
+     "change": 0.81
+    }
+   ],
+   "market_cap": 1462560723.0,
+   "shares_outstanding": 51498617.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "OXFORDSHIRE, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T23:01:50+09:00"
+  },
   {
    "id": "0001104659-26-123622",
    "company": "UNITED BANCORP INC /OH/",
@@ -15805,57 +15858,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-05T20:06:56+09:00"
-  },
-  {
-   "id": "0001493152-26-050029",
-   "company": "Elong Power Holding Ltd.",
-   "ticker": "ELPW",
-   "cik": 2015691,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "This cooperation is another key milestone in the commercialization of the Company’s core energy storage business, following the US$25.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2015691/000149315226050029/0001493152-26-050029-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2015691/000149315226050029/ex99-1.htm",
-   "filed_at": "2026-11-05T06:01:46-05:00",
-   "filed_kst": "2026-11-05 20:01",
-   "price": 2.51,
-   "change": -10.99,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 2.51,
-     "change": -10.99
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.82,
-     "change": 2.55
-    },
-    {
-     "date": "2026-11-02",
-     "close": 2.75,
-     "change": -1.43
-    }
-   ],
-   "market_cap": 145720808.0,
-   "shares_outstanding": 58056099.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BEIJING",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T20:06:21+09:00"
   }
  ]
 }
