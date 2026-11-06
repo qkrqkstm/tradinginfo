@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-06T23:04:45+09:00",
+ "updated_at": "2026-11-06T23:09:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-450866",
+   "company": "StealthGas Inc.",
+   "ticker": "GASS",
+   "cik": 1328919,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "8 years including one LPG carrier in the water that is owned by a joint venture.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1328919/000119312526450866/0001193125-26-450866-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1328919/000119312526450866/d119196dex991.htm",
+   "filed_at": "2026-11-06T09:05:10-05:00",
+   "filed_kst": "2026-11-06 23:05",
+   "price": 7.87,
+   "change": -5.07,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 7.87,
+     "change": -5.07
+    },
+    {
+     "date": "2026-11-04",
+     "close": 8.29,
+     "change": -3.38
+    },
+    {
+     "date": "2026-11-03",
+     "close": 8.58,
+     "change": 8.2
+    }
+   ],
+   "market_cap": 292651349.0,
+   "shares_outstanding": 37185686.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "ATHENS",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-06T23:05:55+09:00"
+  },
   {
    "id": "0001671927-26-000034",
    "company": "Immunocore Holdings plc",
@@ -15804,60 +15854,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:06:59+09:00"
-  },
-  {
-   "id": "0001628280-26-070471",
-   "company": "GigaCloud Technology Inc",
-   "ticker": "GCT",
-   "cik": 1857816,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 74,
-   "summary": "” “We remain committed to returning capital to our shareholders while building long-term sustainable value, with $115 million remaining under our current share repurchase authorization,” said Erica Wei, Chief Financial Officer.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1857816/000162828026070471/0001628280-26-070471-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1857816/000162828026070471/gct-2026q3xearningsrelease.htm",
-   "filed_at": "2026-11-05T06:05:00-05:00",
-   "filed_kst": "2026-11-05 20:05",
-   "price": 57.88,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 57.88,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 57.88,
-     "change": 5.77
-    },
-    {
-     "date": "2026-11-03",
-     "close": 54.72,
-     "change": -4.77
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Retail-Catalog & Mail-Order Houses",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "EL MONTE, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:06:56+09:00"
   }
  ]
 }
