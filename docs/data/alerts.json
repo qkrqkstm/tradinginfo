@@ -1,7 +1,45 @@
 {
- "updated_at": "2026-11-06T21:54:07+09:00",
+ "updated_at": "2026-11-06T21:59:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-116595",
+   "company": "Crown PropTech Acquisitions",
+   "ticker": "CPTKW",
+   "cik": 1827899,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "MKAR has signed a Business Combination Agreement with CPTK, pursuant to which MKAR, which will hold the Songwe Hill and Pulawy projects, is expected to become listed on Nasdaq, subject to the satisfaction or waiver of closing conditions.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026116595/0001213900-26-116595-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026116595/ea031120301ex99-1.htm",
+   "filed_at": "2026-11-06T07:57:19-05:00",
+   "filed_kst": "2026-11-06 21:57",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Wholesale-Hardware",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-06T21:58:15+09:00"
+  },
   {
    "id": "0000922224-26-000050",
    "company": "PPL Corp",
@@ -15819,56 +15857,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-05T20:05:25+09:00"
-  },
-  {
-   "id": "0001213900-26-116054",
-   "company": "Constellation Acquisition Corp I",
-   "ticker": "CSTAF",
-   "cik": 1834032,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "5 million was funded upon signing of the business combination agreement and a further US$2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026116054/0001213900-26-116054-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026116054/ea031101202-425_constell1.htm",
-   "filed_at": "2026-11-04T19:32:33-05:00",
-   "filed_kst": "2026-11-05 09:32",
-   "price": 13.05,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 13.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 13.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 13.05,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T20:03:31+09:00"
   }
  ]
 }
