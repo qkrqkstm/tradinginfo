@@ -1,7 +1,118 @@
 {
- "updated_at": "2026-11-06T20:44:34+09:00",
+ "updated_at": "2026-11-06T20:49:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001921963-26-000079",
+   "company": "Atmus Filtration Technologies Inc.",
+   "ticker": "ATMU",
+   "cik": 1921963,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "6% • Cash provided by operating activities was $98 million • Adjusted free cash fl ow was $88 million During the third quarter, Atmus repurchased $20 million of common stock under the $150 million share repurchase program authorized by the Board of Directors in July 2024.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000079/0001921963-26-000079-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1921963/000192196326000079/atmu2026q3quarterly8-kex991.htm",
+   "filed_at": "2026-11-06T06:47:15-05:00",
+   "filed_kst": "2026-11-06 20:47",
+   "price": 46.16,
+   "change": -3.49,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 46.16,
+     "change": -3.49
+    },
+    {
+     "date": "2026-11-04",
+     "close": 47.83,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 47.83,
+     "change": 0.36
+    }
+   ],
+   "market_cap": 3766449526.0,
+   "shares_outstanding": 81595527.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": null,
+   "hq": "NASHVILLE, TN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T20:48:03+09:00"
+  },
+  {
+   "id": "0001682852-26-000194",
+   "company": "Moderna, Inc.",
+   "ticker": "MRNA",
+   "cik": 1682852,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "FDA",
+    "가이던스상향"
+   ],
+   "confidence": 91,
+   "summary": "FDA approval of mFLUSIVA, the Company's fifth approved product globally CAMBRIDGE, MA / ACCESSWIRE / November 6, 2026 / Moderna, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/0001682852-26-000194-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm",
+   "filed_at": "2026-11-06T06:47:30-05:00",
+   "filed_kst": "2026-11-06 20:47",
+   "price": 241.46,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 241.46,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 241.46,
+     "change": -6.55
+    },
+    {
+     "date": "2026-11-04",
+     "close": 258.38,
+     "change": 13.11
+    }
+   ],
+   "market_cap": 96399497758.0,
+   "shares_outstanding": 399235889.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T20:48:01+09:00"
+  },
   {
    "id": "0001628280-26-071295",
    "company": "Delek Logistics Partners, LP",
@@ -15747,110 +15858,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T07:11:39+09:00"
-  },
-  {
-   "id": "0001368519-26-000016",
-   "company": "North American Construction Group Ltd.",
-   "ticker": "NOA",
-   "cik": 1368519,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 88,
-   "summary": "Acquisition of Iron Mine Contracting On April 7, 2026, we completed the acquisition of Iron Mine Contracting (\"IMC\"), comprising DCL Corp Pty Ltd.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1368519/000136851926000016/0001368519-26-000016-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1368519/000136851926000016/noa-20260930.htm",
-   "filed_at": "2026-11-04T17:06:59-05:00",
-   "filed_kst": "2026-11-05 07:06",
-   "price": 11.43,
-   "change": -3.14,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 11.43,
-     "change": -3.14
-    },
-    {
-     "date": "2026-11-03",
-     "close": 11.8,
-     "change": 0.17
-    },
-    {
-     "date": "2026-11-02",
-     "close": 11.78,
-     "change": -1.75
-    }
-   ],
-   "market_cap": 329429528.0,
-   "shares_outstanding": 28821481.0,
-   "industry": "Oil & Gas Field Services, NEC",
-   "state_of_incorporation": "Alberta, Canada",
-   "hq": "ACHESON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-05T07:07:55+09:00"
-  },
-  {
-   "id": "0001104659-26-122765",
-   "company": "KIMBERLY CLARK CORP",
-   "ticker": "KMB",
-   "cik": 55785,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "배당"
-   ],
-   "confidence": 71,
-   "summary": "First Merger : The merger of First Merger Sub with and into Kenvue, with Kenvue surviving as a direct wholly owned subsidiary of the Company, as contemplated by the Merger Agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926122765/0001104659-26-122765-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926122765/tm2628875d1_ex99-1.htm",
-   "filed_at": "2026-11-04T17:05:26-05:00",
-   "filed_kst": "2026-11-05 07:05",
-   "price": 108.79,
-   "change": 4.15,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 108.79,
-     "change": 4.15
-    },
-    {
-     "date": "2026-11-03",
-     "close": 104.46,
-     "change": -3.5
-    },
-    {
-     "date": "2026-11-02",
-     "close": 108.25,
-     "change": 0.29
-    }
-   ],
-   "market_cap": 36181273544.0,
-   "shares_outstanding": 332579038.0,
-   "industry": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
-   "state_of_incorporation": "DE",
-   "hq": "IRVING, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T07:05:56+09:00"
   }
  ]
 }
