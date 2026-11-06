@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-06T21:29:34+09:00",
+ "updated_at": "2026-11-06T21:34:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001468091-26-000049",
+   "company": "VEON Ltd.",
+   "ticker": "VEON",
+   "cik": 1468091,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각",
+    "M&A",
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 97,
+   "summary": "On October 19, 2026, VEON announced that it has agreed to acquire 100% of Rubicon Wireless, the mobile network operator trading under the “Perfectum” brand, a mobile network operator in Uzbekistan.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000049/0001468091-26-000049-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000049/veon3q26earningsrelease.htm",
+   "filed_at": "2026-11-06T07:28:54-05:00",
+   "filed_kst": "2026-11-06 21:28",
+   "price": 75.34,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 75.34,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 75.34,
+     "change": -4.64
+    },
+    {
+     "date": "2026-11-04",
+     "close": 79.01,
+     "change": 1.15
+    }
+   ],
+   "market_cap": 139318024852.0,
+   "shares_outstanding": 1849190667.0,
+   "industry": "Radiotelephone Communications",
+   "state_of_incorporation": "Bermuda",
+   "hq": "DUBAI (DIFC)",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T21:30:41+09:00"
+  },
   {
    "id": "0001213900-26-116581",
    "company": "Pasqal Holding SA",
@@ -15788,55 +15842,6 @@
    "hq": "VANCOUVER",
    "entity_category": null,
    "detected_at": "2026-11-05T20:02:50+09:00"
-  },
-  {
-   "id": "0001097362-26-000034",
-   "company": "SUN LIFE FINANCIAL INC",
-   "ticker": "SLF",
-   "cik": 1097362,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 2 q32026shareholdersreport.htm EX-99.1 q32026shareholdersreport CANADIAN RESIDENTS PARTICIPATING IN THE SHARE ACCOUNT Shareholders holding shares in the Canadian Share Account can sell their shares for $15 plus 3 cents per share. For more information call TSX Trust Company at 1 877 224-1760.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1097362/000109736226000034/0001097362-26-000034-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1097362/000109736226000034/q32026shareholdersreport.htm",
-   "filed_at": "2026-11-04T18:41:42-05:00",
-   "filed_kst": "2026-11-05 08:41",
-   "price": 81.98,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 81.98,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 81.98,
-     "change": 1.85
-    },
-    {
-     "date": "2026-11-03",
-     "close": 80.49,
-     "change": -0.17
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Life Insurance",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "TORONTO",
-   "entity_category": null,
-   "detected_at": "2026-11-05T20:02:47+09:00"
   }
  ]
 }
