@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-06T22:04:33+09:00",
+ "updated_at": "2026-11-06T22:09:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-116607",
+   "company": "Protara Therapeutics, Inc.",
+   "ticker": "TARA",
+   "cik": 1359931,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 73,
+   "summary": "Supported by the program’s Breakthrough Therapy designation, we remain on track to initiate our rolling Biologics License Application (BLA) submission in the second half of 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026116607/0001213900-26-116607-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026116607/ea030956701ex99-1.htm",
+   "filed_at": "2026-11-06T08:05:21-05:00",
+   "filed_kst": "2026-11-06 22:05",
+   "price": 2.13,
+   "change": -9.36,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 2.13,
+     "change": -9.36
+    },
+    {
+     "date": "2026-11-04",
+     "close": 2.35,
+     "change": -2.49
+    },
+    {
+     "date": "2026-11-03",
+     "close": 2.41,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 125873389.0,
+   "shares_outstanding": 59095488.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-06T22:05:55+09:00"
+  },
   {
    "id": "0001213900-26-116597",
    "company": "Crown PropTech Acquisitions",
@@ -15790,58 +15844,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:06:07+09:00"
-  },
-  {
-   "id": "0001104659-26-122938",
-   "company": "COMFORT SYSTEMS USA INC",
-   "ticker": "FIX",
-   "cik": 1035983,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 67,
-   "summary": "The Company’s Board of Directors has approved an amendment to the Company’s stock repurchase program to increase the shares authorized and remaining as available to purchase back up to 1,000,000 shares by authorizing the Company to acquire up to 994,606 additional shares of",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1035983/000110465926122938/0001104659-26-122938-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1035983/000110465926122938/tm2629087d1_8k.htm",
-   "filed_at": "2026-11-05T06:01:58-05:00",
-   "filed_kst": "2026-11-05 20:01",
-   "price": 1091.31,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 1091.31,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 1091.31,
-     "change": -15.08
-    },
-    {
-     "date": "2026-11-03",
-     "close": 1285.13,
-     "change": 7.08
-    }
-   ],
-   "market_cap": 38180466894.0,
-   "shares_outstanding": 34985904.0,
-   "industry": "Electrical Work",
-   "state_of_incorporation": null,
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:06:03+09:00"
   }
  ]
 }
