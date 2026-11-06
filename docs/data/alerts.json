@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-06T22:29:08+09:00",
+ "updated_at": "2026-11-06T22:34:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-450829",
+   "company": "Bilibili Inc.",
+   "ticker": "BILI",
+   "cik": 1723690,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "15 Adjustment resulting from the cancellation of Repurchased Shares under the Concurrent Tencent Repurchase, assuming no conversion of the Notes; and (iv) immediately after the completion of the Concurrent Tencent Repurchase and the Tencent Notes Subscription, Rule 8A.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1723690/000119312526450829/0001193125-26-450829-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723690/000119312526450829/d143312dex992.htm",
+   "filed_at": "2026-11-06T08:33:31-05:00",
+   "filed_kst": "2026-11-06 22:33",
+   "price": 14.25,
+   "change": 2.67,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 14.25,
+     "change": 2.67
+    },
+    {
+     "date": "2026-11-04",
+     "close": 13.88,
+     "change": 5.23
+    },
+    {
+     "date": "2026-11-03",
+     "close": 13.19,
+     "change": -2.37
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T22:34:15+09:00"
+  },
+  {
+   "id": "0001991792-26-000011",
+   "company": "CG Oncology, Inc.",
+   "ticker": "CGON",
+   "cik": 1991792,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Cretostimogene has received FDA Fast Track and Breakthrough Therapy designations for BCG-unresponsive NMIBC.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1991792/000199179226000011/0001991792-26-000011-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1991792/000199179226000011/cgon-20261106x8kexx991.htm",
+   "filed_at": "2026-11-06T08:30:12-05:00",
+   "filed_kst": "2026-11-06 22:30",
+   "price": 64.8,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 64.8,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 64.8,
+     "change": -4.3
+    },
+    {
+     "date": "2026-11-04",
+     "close": 67.71,
+     "change": 5.7
+    }
+   ],
+   "market_cap": 5743896300.0,
+   "shares_outstanding": 88640375.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T22:31:10+09:00"
+  },
   {
    "id": "0000874396-26-000058",
    "company": "LIFETIME BRANDS, INC",
@@ -15744,106 +15848,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T20:06:17+09:00"
-  },
-  {
-   "id": "0001973832-26-000171",
-   "company": "AngloGold Ashanti PLC",
-   "ticker": "AU",
-   "cik": 1973832,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "SEC EDGAR Submission 0001973832-26-000171 0001973832-26-000171.hdr.sgml : 20261105 20261105060253 0001973832-26-000171 6-K 20 20260930 20261105 20261105 AngloGold Ashanti PLC 0001973832 1040 01 Energy & Transportation 000000000 X0 1231 6-K 34 001-41815 261524483 YES THIRD FLOOR, HOBHOUSE COURT SUFFO",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1973832/000197383226000171/0001973832-26-000171-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1973832/000197383226000171/0001973832-26-000171-index-headers.html",
-   "filed_at": "2026-11-05T06:02:53-05:00",
-   "filed_kst": "2026-11-05 20:02",
-   "price": 87.91,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 87.91,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 87.91,
-     "change": 7.98
-    },
-    {
-     "date": "2026-11-03",
-     "close": 81.41,
-     "change": -1.03
-    }
-   ],
-   "market_cap": 44395206248.0,
-   "shares_outstanding": 505007465.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:06:13+09:00"
-  },
-  {
-   "id": "0001973832-26-000173",
-   "company": "AngloGold Ashanti PLC",
-   "ticker": "AU",
-   "cik": 1973832,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "6-K 1 agaq3sep2026operatingstati.htm 6-K AGA Q3 Sep 2026 Operating Statistics UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of November 2026 C",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1973832/000197383226000173/0001973832-26-000173-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1973832/000197383226000173/agaq3sep2026operatingstati.htm",
-   "filed_at": "2026-11-05T06:03:52-05:00",
-   "filed_kst": "2026-11-05 20:03",
-   "price": 87.91,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 87.91,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 87.91,
-     "change": 7.98
-    },
-    {
-     "date": "2026-11-03",
-     "close": 81.41,
-     "change": -1.03
-    }
-   ],
-   "market_cap": 44395206248.0,
-   "shares_outstanding": 505007465.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:06:10+09:00"
   }
  ]
 }
