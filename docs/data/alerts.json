@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-06T20:14:40+09:00",
+ "updated_at": "2026-11-06T20:19:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-071289",
+   "company": "Docebo Inc.",
+   "ticker": "DCBO",
+   "cik": 1829959,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 78,
+   "summary": "docebo-20260930 0001829959 false 9/30/2026 12/31 iso4217:USD iso4217:USD xbrli:shares xbrli:shares xbrli:pure iso4217:CAD iso4217:CAD xbrli:shares docebo:component utr:Y docebo:revenue_source 0001829959 2026-09-30 0001829959 2025-12-31 0001829959 2026-07-01 2026-09-30 0001829959 2025-07-01 2025-09-3",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1829959/000162828026071289/0001628280-26-071289-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829959/000162828026071289/docebo-20260930.htm",
+   "filed_at": "2026-11-06T06:16:18-05:00",
+   "filed_kst": "2026-11-06 20:16",
+   "price": 30.4,
+   "change": -1.59,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 30.4,
+     "change": -1.59
+    },
+    {
+     "date": "2026-11-04",
+     "close": 30.89,
+     "change": 3.14
+    },
+    {
+     "date": "2026-11-03",
+     "close": 29.95,
+     "change": 1.35
+    }
+   ],
+   "market_cap": 873917586.0,
+   "shares_outstanding": 28747289.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-06T20:17:26+09:00"
+  },
   {
    "id": "0001828316-26-000051",
    "company": "Pharming Group N.V.",
@@ -15797,59 +15849,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-05T06:56:28+09:00"
-  },
-  {
-   "id": "0001193125-26-447517",
-   "company": "CBL & ASSOCIATES PROPERTIES INC",
-   "ticker": "CBL",
-   "cik": 910612,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "0 MILLION STOCK REPURCHASE PLAN CHATTANOOGA, Tenn.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/910612/000119312526447517/0001193125-26-447517-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/910612/000119312526447517/cbl-ex99_1.htm",
-   "filed_at": "2026-11-04T16:51:33-05:00",
-   "filed_kst": "2026-11-05 06:51",
-   "price": 49.7,
-   "change": 0.75,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 49.7,
-     "change": 0.75
-    },
-    {
-     "date": "2026-11-03",
-     "close": 49.33,
-     "change": -2.36
-    },
-    {
-     "date": "2026-11-02",
-     "close": 50.52,
-     "change": 0.22
-    }
-   ],
-   "market_cap": 1537855023.0,
-   "shares_outstanding": 30942757.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "DE",
-   "hq": "CHATTANOOGA, TN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:52:44+09:00"
   }
  ]
 }
