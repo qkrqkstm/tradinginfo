@@ -1,7 +1,223 @@
 {
- "updated_at": "2026-11-06T20:29:29+09:00",
+ "updated_at": "2026-11-06T20:34:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-071295",
+   "company": "Delek Logistics Partners, LP",
+   "ticker": "DKL",
+   "cik": 1552797,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 60,
+   "summary": "Investments in Pipeline Joint Ventures Segment During the third quarter 2026, Adjusted EBITDA from equity method investments was $26.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1552797/000162828026071295/0001628280-26-071295-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1552797/000162828026071295/dkl-ex991xearningsreleasex.htm",
+   "filed_at": "2026-11-06T06:33:14-05:00",
+   "filed_kst": "2026-11-06 20:33",
+   "price": 51.24,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 51.24,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 51.24,
+     "change": -2.05
+    },
+    {
+     "date": "2026-11-04",
+     "close": 52.31,
+     "change": -2.72
+    }
+   ],
+   "market_cap": 2725829703.0,
+   "shares_outstanding": 53197301.0,
+   "industry": "Pipe Lines (No Natural Gas)",
+   "state_of_incorporation": "TN",
+   "hq": "BRENTWOOD, TN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T20:33:53+09:00"
+  },
+  {
+   "id": "0001628280-26-071294",
+   "company": "Delek US Holdings, Inc.",
+   "ticker": "DK",
+   "cik": 1694426,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "Increased annual adjusted EBITDA guidance to $530-560 million • Increasing the Enterprise Optimization Plan (\"EOP\") annual run-rate cash flow improvements guidance to at least $250 million • Purchased $50.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1694426/000162828026071294/0001628280-26-071294-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1694426/000162828026071294/dk-ex991earningsreleasex09.htm",
+   "filed_at": "2026-11-06T06:31:56-05:00",
+   "filed_kst": "2026-11-06 20:31",
+   "price": 62.49,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 62.49,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 62.49,
+     "change": -4.54
+    },
+    {
+     "date": "2026-11-04",
+     "close": 65.46,
+     "change": -7.61
+    }
+   ],
+   "market_cap": 3826398553.0,
+   "shares_outstanding": 61232174.0,
+   "industry": "Petroleum Refining",
+   "state_of_incorporation": "DE",
+   "hq": "BRENTWOOD, TN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T20:32:45+09:00"
+  },
+  {
+   "id": "0001104659-26-123565",
+   "company": "JBG SMITH Properties",
+   "ticker": "JBGS",
+   "cik": 1689796,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 70,
+   "summary": "Since launching our share repurchase program in 2020, we have repurchased 86.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1689796/000110465926123565/0001104659-26-123565-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1689796/000110465926123565/jbgs-ex99d1.htm",
+   "filed_at": "2026-11-06T06:30:14-05:00",
+   "filed_kst": "2026-11-06 20:30",
+   "price": 12.45,
+   "change": 1.3,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 12.45,
+     "change": 1.3
+    },
+    {
+     "date": "2026-11-04",
+     "close": 12.29,
+     "change": 4.86
+    },
+    {
+     "date": "2026-11-03",
+     "close": 11.72,
+     "change": -2.9
+    }
+   ],
+   "market_cap": 736807160.0,
+   "shares_outstanding": 59181298.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "BETHESDA, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T20:31:10+09:00"
+  },
+  {
+   "id": "0001437749-26-035398",
+   "company": "GRAY MEDIA, INC",
+   "ticker": "GTN",
+   "cik": 43196,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향"
+   ],
+   "confidence": 58,
+   "summary": ", Executive Chairman and CEO, commented , “Our third quarter results exceeded expectations across the board, highlighted by exceptionally strong political revenue of $198 million, which topped all prior third quarters for election years.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/43196/000143774926035398/0001437749-26-035398-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/43196/000143774926035398/ex_1037935.htm",
+   "filed_at": "2026-11-06T06:30:29-05:00",
+   "filed_kst": "2026-11-06 20:30",
+   "price": 4.88,
+   "change": -2.01,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 4.88,
+     "change": -2.01
+    },
+    {
+     "date": "2026-11-04",
+     "close": 4.98,
+     "change": 6.18
+    },
+    {
+     "date": "2026-11-03",
+     "close": 4.69,
+     "change": 0.86
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": "GA",
+   "hq": "ATLANTA, GA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-06T20:31:08+09:00"
+  },
   {
    "id": "0001628280-26-071289",
    "company": "Docebo Inc.",
@@ -15635,220 +15851,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T07:05:56+09:00"
-  },
-  {
-   "id": "0000844059-26-000090",
-   "company": "FRP HOLDINGS, INC.",
-   "ticker": "FRPH",
-   "cik": 844059,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "7%, as a 10% increase in mining royalty revenue and $49,000 of joint venture management fee revenue from the Altman platform helped to offset a 3% decline in lease revenue • G&A increased $1,007,000 versus Q3 2025, driven by higher personnel costs, higher legal fees and integration expenses followin",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/844059/000084405926000090/0000844059-26-000090-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/844059/000084405926000090/frph-20261104xexx99.htm",
-   "filed_at": "2026-11-04T17:03:39-05:00",
-   "filed_kst": "2026-11-05 07:03",
-   "price": 18.79,
-   "change": 1.9,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 18.79,
-     "change": 1.9
-    },
-    {
-     "date": "2026-11-03",
-     "close": 18.44,
-     "change": -2.23
-    },
-    {
-     "date": "2026-11-02",
-     "close": 18.86,
-     "change": 0.59
-    }
-   ],
-   "market_cap": 360736076.0,
-   "shares_outstanding": 19198301.0,
-   "industry": "Real Estate",
-   "state_of_incorporation": "FL",
-   "hq": "JACKSONVILLE, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T07:04:34+09:00"
-  },
-  {
-   "id": "0001193125-26-447549",
-   "company": "Great Elm Group, Inc.",
-   "ticker": "GEG",
-   "cik": 1831096,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "8 million since the initiation of the $40 million stock repurchase program, leaving approximately $23.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1831096/000119312526447549/0001193125-26-447549-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1831096/000119312526447549/geg-ex99_1.htm",
-   "filed_at": "2026-11-04T16:58:49-05:00",
-   "filed_kst": "2026-11-05 06:58",
-   "price": 2.2,
-   "change": 2.33,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 2.2,
-     "change": 2.33
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.15,
-     "change": -1.83
-    },
-    {
-     "date": "2026-11-02",
-     "close": 2.19,
-     "change": 1.86
-    }
-   ],
-   "market_cap": 67866667.0,
-   "shares_outstanding": 30848485.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "PALM BEACH GARDENS, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T07:00:47+09:00"
-  },
-  {
-   "id": "0001289877-26-000042",
-   "company": "SFL Corp Ltd.",
-   "ticker": "SFL",
-   "cik": 1289877,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 73,
-   "summary": "The Company’s Board of Directors has authorized the repurchase of up to an aggregate of $100 million of the Company's common shares from time to time, valid until June 2029.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1289877/000128987726000042/0001289877-26-000042-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1289877/000128987726000042/sfl-earningsreleaseq32026.htm",
-   "filed_at": "2026-11-04T16:55:45-05:00",
-   "filed_kst": "2026-11-05 06:55",
-   "price": 11.72,
-   "change": -4.95,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 11.72,
-     "change": -4.95
-    },
-    {
-     "date": "2026-11-03",
-     "close": 12.33,
-     "change": 1.07
-    },
-    {
-     "date": "2026-11-02",
-     "close": 12.2,
-     "change": -5.79
-    }
-   ],
-   "market_cap": 1694277504.0,
-   "shares_outstanding": 144562927.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": null,
-   "hq": "HAMILTON, HM 08, D0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:56:30+09:00"
-  },
-  {
-   "id": "0000866273-26-000080",
-   "company": "MATRIX SERVICE CO",
-   "ticker": "MTRX",
-   "cik": 866273,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 59,
-   "summary": "“Reflecting confidence in our strategy and the strength of our financial position, the board also approved a new share buyback program for $25 million,” concluded Payne.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/866273/000086627326000080/0000866273-26-000080-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/866273/000086627326000080/a093026ex99earningsrelease.htm",
-   "filed_at": "2026-11-04T16:55:57-05:00",
-   "filed_kst": "2026-11-05 06:55",
-   "price": 9.13,
-   "change": -4.5,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 9.13,
-     "change": -4.5
-    },
-    {
-     "date": "2026-11-03",
-     "close": 9.56,
-     "change": 2.69
-    },
-    {
-     "date": "2026-11-02",
-     "close": 9.31,
-     "change": -0.53
-    }
-   ],
-   "market_cap": 258305239.0,
-   "shares_outstanding": 28291921.0,
-   "industry": "Construction - Special Trade Contractors",
-   "state_of_incorporation": "DE",
-   "hq": "TULSA, OK",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T06:56:28+09:00"
   }
  ]
 }
