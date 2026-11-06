@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-07T03:39:04+09:00",
+ "updated_at": "2026-11-07T03:44:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-005799",
+   "company": "Western Copper & Gold Corp",
+   "ticker": "WRN",
+   "cik": 1364125,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "At DUMAS, he led a successful turnaround and international growth strategy, while overseeing the company's strategic partnerships, including with Canadian First Nations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1364125/000106299326005799/0001062993-26-005799-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1364125/000106299326005799/exhibit99-1.htm",
+   "filed_at": "2026-11-06T13:39:54-05:00",
+   "filed_kst": "2026-11-07 03:39",
+   "price": 1.53,
+   "change": -0.03,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 1.53,
+     "change": -0.03
+    },
+    {
+     "date": "2026-11-06",
+     "close": 1.53,
+     "change": -0.75
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.54,
+     "change": -3.75
+    }
+   ],
+   "market_cap": 309576516.0,
+   "shares_outstanding": 202337592.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-07T03:40:31+09:00"
+  },
   {
    "id": "0001654954-26-009595",
    "company": "HSBC HOLDINGS PLC",
@@ -15795,60 +15845,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:11:35+09:00"
-  },
-  {
-   "id": "0001493152-26-050033",
-   "company": "DataMeds AI, Inc.",
-   "ticker": "MEDS",
-   "cik": 2030763,
-   "form": "8-K",
-   "items": [
-    "1.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The termination applies only to the LOI and does not terminate or amend any separate agreement, including any existing license agreement with Datavault, any consulting or employment arrangement or separate letters of intent between the parties.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226050033/0001493152-26-050033-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226050033/ex99-1.htm",
-   "filed_at": "2026-11-05T06:08:16-05:00",
-   "filed_kst": "2026-11-05 20:08",
-   "price": 1.49,
-   "change": -17.22,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 1.49,
-     "change": -17.22
-    },
-    {
-     "date": "2026-11-03",
-     "close": 1.8,
-     "change": -1.64
-    },
-    {
-     "date": "2026-11-02",
-     "close": 1.83,
-     "change": -4.69
-    }
-   ],
-   "market_cap": 4562259.0,
-   "shares_outstanding": 3061919.0,
-   "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
-   "state_of_incorporation": "DE",
-   "hq": "TAMPA, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T20:08:45+09:00"
   }
  ]
 }
