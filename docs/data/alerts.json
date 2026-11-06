@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-06T22:49:13+09:00",
+ "updated_at": "2026-11-06T22:54:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-123622",
+   "company": "UNITED BANCORP INC /OH/",
+   "ticker": "UBCP",
+   "cik": 731653,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향",
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "This office has been very well received by this vibrant market and has exceeded our performance expectations during the first nine months of operation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731653/000110465926123622/0001104659-26-123622-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/731653/000110465926123622/tm2629147d1_ex99.htm",
+   "filed_at": "2026-11-06T08:52:26-05:00",
+   "filed_kst": "2026-11-06 22:52",
+   "price": 14.52,
+   "change": 1.26,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 14.52,
+     "change": 1.26
+    },
+    {
+     "date": "2026-11-04",
+     "close": 14.34,
+     "change": 2.06
+    },
+    {
+     "date": "2026-11-03",
+     "close": 14.05,
+     "change": -2.63
+    }
+   ],
+   "market_cap": 83279721.0,
+   "shares_outstanding": 5735518.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "OH",
+   "hq": "MARTINS FERRY, OH",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-06T22:53:10+09:00"
+  },
   {
    "id": "0001437749-26-035410",
    "company": "PULSE BIOSCIENCES, INC.",
@@ -15801,56 +15856,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T20:06:21+09:00"
-  },
-  {
-   "id": "0001193125-26-448358",
-   "company": "Melco Resorts & Entertainment LTD",
-   "ticker": "MLCO",
-   "cik": 1381640,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "3 Share Repurchase Programs During the period from July 1, 2026 to November 3, 2026, Melco Resorts repurchased approximately 33.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1381640/000119312526448358/0001193125-26-448358-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1381640/000119312526448358/d179584dex991.htm",
-   "filed_at": "2026-11-05T06:01:59-05:00",
-   "filed_kst": "2026-11-05 20:01",
-   "price": 4.71,
-   "change": 12.14,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 4.71,
-     "change": 12.14
-    },
-    {
-     "date": "2026-11-03",
-     "close": 4.2,
-     "change": 1.94
-    },
-    {
-     "date": "2026-11-02",
-     "close": 4.12,
-     "change": 4.57
-    }
-   ],
-   "market_cap": 5747971026.0,
-   "shares_outstanding": 1220376014.0,
-   "industry": "Hotels & Motels",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG., K3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:06:18+09:00"
   }
  ]
 }
