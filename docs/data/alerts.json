@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-07T07:19:24+09:00",
+ "updated_at": "2026-11-07T07:24:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-123960",
+   "company": "Quoin Pharmaceuticals Ltd.",
+   "ticker": "QNRX",
+   "cik": 1671502,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 95,
+   "summary": "0 Million with Healthcare-Focused Institutional Investors – FDA Clears First-Ever IND for Peeling Skin Syndrome (PSS), Grants Rare Pediatric Disease and Fast Track Designations to QRX003 for PSS; EMA Grants Orphan Drug Designation to QRX003 for PSS Subsequent to Quarter End – Advances QRX009 Topical",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/0001104659-26-123960-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/tm2629259d1_ex99-1.htm",
+   "filed_at": "2026-11-06T17:18:56-05:00",
+   "filed_kst": "2026-11-07 07:18",
+   "price": 3.65,
+   "change": -5.19,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 3.65,
+     "change": -5.19
+    },
+    {
+     "date": "2026-11-05",
+     "close": 3.85,
+     "change": -4.23
+    },
+    {
+     "date": "2026-11-04",
+     "close": 4.02,
+     "change": 2.29
+    }
+   ],
+   "market_cap": 256575345.0,
+   "shares_outstanding": 70294615.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "ASHBURN, VA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-07T07:20:30+09:00"
+  },
   {
    "id": "0001829126-26-012094",
    "company": "CapForce Inc.",
@@ -15737,60 +15793,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:51:48+09:00"
-  },
-  {
-   "id": "0001665918-26-000053",
-   "company": "US Foods Holding Corp.",
-   "ticker": "USFD",
-   "cik": 1665918,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "The Company had $450 million in remaining funds authorized under the November 2025 share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1665918/000166591826000053/0001665918-26-000053-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1665918/000166591826000053/usfd09262026ex991.htm",
-   "filed_at": "2026-11-05T06:49:02-05:00",
-   "filed_kst": "2026-11-05 20:49",
-   "price": 109.93,
-   "change": 8.46,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 109.93,
-     "change": 8.46
-    },
-    {
-     "date": "2026-11-03",
-     "close": 101.36,
-     "change": -4.2
-    },
-    {
-     "date": "2026-11-02",
-     "close": 105.8,
-     "change": 2.11
-    }
-   ],
-   "market_cap": 23781236379.0,
-   "shares_outstanding": 216330723.0,
-   "industry": "Wholesale-Groceries & Related Products",
-   "state_of_incorporation": "IL",
-   "hq": "ROSEMONT, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:50:43+09:00"
   }
  ]
 }
