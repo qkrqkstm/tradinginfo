@@ -1,7 +1,107 @@
 {
- "updated_at": "2026-11-06T20:49:11+09:00",
+ "updated_at": "2026-11-06T20:54:43+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001468091-26-000045",
+   "company": "VEON Ltd.",
+   "ticker": "VEON",
+   "cik": 1468091,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(Nasdaq: VEON), a global digital operator (“VEON” or “the Company”), today announces that its subsidiary Beeline Kazakhstan has completed the acquisition of 100% of OLX Group LLP (“OLX KZ”) from OLX Global B.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000045/0001468091-26-000045-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000045/form6-kolxclosingannouncem.htm",
+   "filed_at": "2026-11-06T06:53:29-05:00",
+   "filed_kst": "2026-11-06 20:53",
+   "price": 75.34,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 75.34,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 75.34,
+     "change": -4.64
+    },
+    {
+     "date": "2026-11-04",
+     "close": 79.01,
+     "change": 1.15
+    }
+   ],
+   "market_cap": 139318024852.0,
+   "shares_outstanding": 1849190667.0,
+   "industry": "Radiotelephone Communications",
+   "state_of_incorporation": "Bermuda",
+   "hq": "DUBAI (DIFC)",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T20:54:12+09:00"
+  },
+  {
+   "id": "0001468091-26-000044",
+   "company": "VEON Ltd.",
+   "ticker": "VEON",
+   "cik": 1468091,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through strategic partnerships with leading streaming platforms, connected TV services, broadcasters, and telecommunications operators, Jungo TV has established a global distribution footprint spanning 65 countries, connecting audiences with distinctive, culturally re",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000044/0001468091-26-000044-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000044/form6-kjungotvannouncement.htm",
+   "filed_at": "2026-11-06T06:53:08-05:00",
+   "filed_kst": "2026-11-06 20:53",
+   "price": 75.34,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 75.34,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 75.34,
+     "change": -4.64
+    },
+    {
+     "date": "2026-11-04",
+     "close": 79.01,
+     "change": 1.15
+    }
+   ],
+   "market_cap": 139318024852.0,
+   "shares_outstanding": 1849190667.0,
+   "industry": "Radiotelephone Communications",
+   "state_of_incorporation": "Bermuda",
+   "hq": "DUBAI (DIFC)",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-06T20:53:39+09:00"
+  },
   {
    "id": "0001921963-26-000079",
    "company": "Atmus Filtration Technologies Inc.",
@@ -15753,111 +15853,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T07:18:36+09:00"
-  },
-  {
-   "id": "0001628280-26-070276",
-   "company": "SANDRIDGE ENERGY INC",
-   "ticker": "SD",
-   "cik": 1349436,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "Dividend Program Dollars in thousands Total 3Q26 2Q26 1Q26 2025 2024 2023 Special dividends (2) $ 136,651 $ — $ 6,445 $ — $ — $ 55,868 $ 74,338 Quarterly dividends (2) 52,249 4,463 4,190 3,868 15,862 16,426 7,440 Total dividends (2) $ 188,900 $ 4,463 $ 10,635 $ 3,868 $ 15,862 $ 72,294 $ 81,778 Total",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1349436/000162828026070276/0001628280-26-070276-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1349436/000162828026070276/sd9302026-ex991earningsrel.htm",
-   "filed_at": "2026-11-04T17:14:38-05:00",
-   "filed_kst": "2026-11-05 07:14",
-   "price": 12.63,
-   "change": -5.61,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 12.63,
-     "change": -5.61
-    },
-    {
-     "date": "2026-11-03",
-     "close": 13.38,
-     "change": -0.45
-    },
-    {
-     "date": "2026-11-02",
-     "close": 13.44,
-     "change": -6.54
-    }
-   ],
-   "market_cap": 468260988.0,
-   "shares_outstanding": 37075296.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "OKLAHOMA CITY, OK",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T07:15:27+09:00"
-  },
-  {
-   "id": "0001193125-26-447608",
-   "company": "Evommune, Inc.",
-   "ticker": "EVMN",
-   "cik": 2044725,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "(SSE: 688302) today announced an exclusive license agreement granting Evommune worldwide rights outside of Greater China to develop, manufacture and commercialize EVO570 (formerly HC118 and known as HP570 in Greater China), an oral VAV1-directed molecular glue degrader (MGD).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2044725/000119312526447608/0001193125-26-447608-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2044725/000119312526447608/evmn-ex99_1.htm",
-   "filed_at": "2026-11-04T17:10:44-05:00",
-   "filed_kst": "2026-11-05 07:10",
-   "price": 6.04,
-   "change": 1.68,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 6.04,
-     "change": 1.68
-    },
-    {
-     "date": "2026-11-03",
-     "close": 5.94,
-     "change": -1.16
-    },
-    {
-     "date": "2026-11-02",
-     "close": 6.01,
-     "change": -10.7
-    }
-   ],
-   "market_cap": 219204363.0,
-   "shares_outstanding": 36292113.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T07:11:39+09:00"
   }
  ]
 }
