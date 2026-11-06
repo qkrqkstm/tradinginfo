@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-06T22:09:30+09:00",
+ "updated_at": "2026-11-06T22:14:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000874396-26-000058",
+   "company": "LIFETIME BRANDS, INC",
+   "ticker": "LCUT",
+   "cik": 874396,
+   "form": "8-K/A",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 67,
+   "summary": "Reports Third Quarter 2026 Financial Results Declares Regular Quarterly Dividend Board Authorizes $20M Share Repurchase Program GARDEN CITY, NY, November 6, 2026 – Lifetime Brands, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/874396/000087439626000058/0000874396-26-000058-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/874396/000087439626000058/ex99111062026-reissued.htm",
+   "filed_at": "2026-11-06T08:09:49-05:00",
+   "filed_kst": "2026-11-06 22:09",
+   "price": 7.77,
+   "change": -12.6,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 7.77,
+     "change": -12.6
+    },
+    {
+     "date": "2026-11-04",
+     "close": 8.89,
+     "change": 4.71
+    },
+    {
+     "date": "2026-11-03",
+     "close": 8.49,
+     "change": -3.19
+    }
+   ],
+   "market_cap": 178589254.0,
+   "shares_outstanding": 22984460.0,
+   "industry": "Cutlery, Handtools & General Hardware",
+   "state_of_incorporation": "DE",
+   "hq": "GARDEN CITY, NY",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-06T22:10:32+09:00"
+  },
   {
    "id": "0001213900-26-116607",
    "company": "Protara Therapeutics, Inc.",
@@ -15789,61 +15844,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:06:10+09:00"
-  },
-  {
-   "id": "0001708035-26-000106",
-   "company": "Ecovyst Inc.",
-   "ticker": "ECVT",
-   "cik": 1708035,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 85,
-   "summary": "Stock Repurchase In April 2022, the Company’s Board of Directors approved a stock repurchase program authorizing the repurchase of up to $450 million of the Company’s outstanding common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1708035/000170803526000106/0001708035-26-000106-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1708035/000170803526000106/ex991-ecvt3q26earningsrele.htm",
-   "filed_at": "2026-11-05T06:01:12-05:00",
-   "filed_kst": "2026-11-05 20:01",
-   "price": 9.97,
-   "change": -0.8,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 9.97,
-     "change": -0.8
-    },
-    {
-     "date": "2026-11-03",
-     "close": 10.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 10.05,
-     "change": -0.69
-    }
-   ],
-   "market_cap": 1091399928.0,
-   "shares_outstanding": 109468398.0,
-   "industry": "Chemicals & Allied Products",
-   "state_of_incorporation": "DE",
-   "hq": "WAYNE, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:06:07+09:00"
   }
  ]
 }
