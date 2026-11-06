@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-07T05:24:20+09:00",
+ "updated_at": "2026-11-07T05:29:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001132597-26-000279",
+   "company": "Itau Unibanco Holding S.A.",
+   "ticker": "ITUB",
+   "cik": 1132597,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "The cancellation of treasury shares is conducted at the average price of shares and its effect is accounted for in Capital Reserves.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000279/0001132597-26-000279-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000279/condensedconsolidatedfin.htm",
+   "filed_at": "2026-11-06T15:23:29-05:00",
+   "filed_kst": "2026-11-07 05:23",
+   "price": 7.38,
+   "change": 1.17,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 7.38,
+     "change": 1.17
+    },
+    {
+     "date": "2026-11-05",
+     "close": 7.29,
+     "change": 0.14
+    },
+    {
+     "date": "2026-11-04",
+     "close": 7.28,
+     "change": 3.26
+    }
+   ],
+   "market_cap": 36592182849.0,
+   "shares_outstanding": 4958290359.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "Brazil",
+   "hq": "SAO PAULO, D5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-07T05:25:27+09:00"
+  },
   {
    "id": "0001132597-26-000278",
    "company": "Itau Unibanco Holding S.A.",
@@ -15789,59 +15840,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-05T20:21:11+09:00"
-  },
-  {
-   "id": "0001140361-26-042030",
-   "company": "Cigna Group",
-   "ticker": "CI",
-   "cik": 1739940,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "com The Cigna Group Reports Strong Third Quarter 2026 Results, Raises 2026 Outlook • Total revenues for the third quarter 2026 increased 6 % to $73.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126042030/0001140361-26-042030-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126042030/ef20084818_ex99-1.htm",
-   "filed_at": "2026-11-05T06:15:38-05:00",
-   "filed_kst": "2026-11-05 20:15",
-   "price": 305.41,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 305.41,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 305.41,
-     "change": 3.37
-    },
-    {
-     "date": "2026-11-03",
-     "close": 295.44,
-     "change": 0.08
-    }
-   ],
-   "market_cap": 80701686829.0,
-   "shares_outstanding": 264240486.0,
-   "industry": "Hospital & Medical Service Plans",
-   "state_of_incorporation": "DE",
-   "hq": "BLOOMFIELD, CT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:16:43+09:00"
   }
  ]
 }
