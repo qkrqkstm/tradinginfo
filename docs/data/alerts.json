@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-07T00:19:35+09:00",
+ "updated_at": "2026-11-07T00:24:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-116687",
+   "company": "SunCar Technology Group Inc.",
+   "ticker": "SDA",
+   "cik": 1936804,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "htm SUNCAR TECHNOLOGY GROUP ANNOUNCES SHARE BUYBACK PROGRAM Exhibit 99.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1936804/000121390026116687/0001213900-26-116687-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1936804/000121390026116687/ea031124101ex99-1.htm",
+   "filed_at": "2026-11-06T10:21:43-05:00",
+   "filed_kst": "2026-11-07 00:21",
+   "price": 0.29,
+   "change": 89.68,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 0.29,
+     "change": 89.68
+    },
+    {
+     "date": "2026-11-05",
+     "close": 0.15,
+     "change": -25.24
+    },
+    {
+     "date": "2026-11-04",
+     "close": 0.21,
+     "change": 1.98
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Automotive Repair, Services & Parking",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-07T00:22:38+09:00"
+  },
   {
    "id": "0001193125-26-450866",
    "company": "StealthGas Inc.",
@@ -15799,61 +15850,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:07:06+09:00"
-  },
-  {
-   "id": "0001628280-26-070469",
-   "company": "BeOne Medicines Ltd.",
-   "ticker": "ONC",
-   "cik": 1651308,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 83,
-   "summary": "Food and Drug Administration (FDA) Priority Review designation for the Phase 3 MANGROVE filing.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026070469/0001628280-26-070469-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1651308/000162828026070469/exhibit991-q32026earningsr.htm",
-   "filed_at": "2026-11-05T06:04:46-05:00",
-   "filed_kst": "2026-11-05 20:04",
-   "price": 377.78,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 377.78,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 377.78,
-     "change": 6.42
-    },
-    {
-     "date": "2026-11-03",
-     "close": 355.0,
-     "change": -1.74
-    }
-   ],
-   "market_cap": 558405837721.0,
-   "shares_outstanding": 1478124405.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "BASEL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:06:59+09:00"
   }
  ]
 }
