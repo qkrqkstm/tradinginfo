@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-07T05:14:20+09:00",
+ "updated_at": "2026-11-07T05:19:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-071586",
+   "company": "Braveheart Bio, Inc.",
+   "ticker": "BRVE",
+   "cik": 2131524,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "Braveheart Bio entered into an exclusive worldwide license agreement with Hengrui Pharma for the development, manufacture, and commercialization of HRS-1893 outside of Chinese mainland, the Hong Kong SAR, the Macao SAR and Taiwan Region.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2131524/000162828026071586/0001628280-26-071586-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2131524/000162828026071586/brve-ex991pr110626.htm",
+   "filed_at": "2026-11-06T15:17:17-05:00",
+   "filed_kst": "2026-11-07 05:17",
+   "price": 18.26,
+   "change": 4.82,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 18.26,
+     "change": 4.82
+    },
+    {
+     "date": "2026-11-05",
+     "close": 17.42,
+     "change": -13.38
+    },
+    {
+     "date": "2026-11-04",
+     "close": 20.11,
+     "change": -5.98
+    }
+   ],
+   "market_cap": 1644111574.0,
+   "shares_outstanding": 90038969.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-07T05:18:09+09:00"
+  },
   {
    "id": "0001062993-26-005799",
    "company": "Western Copper & Gold Corp",
@@ -15791,60 +15846,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:16:00+09:00"
-  },
-  {
-   "id": "0001420800-26-000052",
-   "company": "Enovis CORP",
-   "ticker": "ENOV",
-   "cik": 1420800,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "EX-99.1 2 q32026earningspressrelease.htm EX-99.1 Document Enovis Announces Third Quarter 2026 Results • Third-quarter sales growth of 2% on a reported basis, 5% organic • Third-quarter Reconstructive sales growth of 6% on a reported and organic basis • Raising full-year 2026 guidance for adjusted EB",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1420800/000142080026000052/0001420800-26-000052-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1420800/000142080026000052/q32026earningspressrelease.htm",
-   "filed_at": "2026-11-05T06:10:54-05:00",
-   "filed_kst": "2026-11-05 20:10",
-   "price": 24.42,
-   "change": 16.9,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 24.42,
-     "change": 16.9
-    },
-    {
-     "date": "2026-11-03",
-     "close": 20.89,
-     "change": 1.31
-    },
-    {
-     "date": "2026-11-02",
-     "close": 20.62,
-     "change": 3.57
-    }
-   ],
-   "market_cap": 1408289043.0,
-   "shares_outstanding": 57669494.0,
-   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "LEWISVILLE, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:11:35+09:00"
   }
  ]
 }
