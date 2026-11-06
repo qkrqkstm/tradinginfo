@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-07T03:09:10+09:00",
+ "updated_at": "2026-11-07T03:14:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-050394",
+   "company": "Data443 Risk Mitigation, Inc.",
+   "ticker": "ATDS",
+   "cik": 1068689,
+   "form": "425",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(“Data443”) pursuant to the Business Combination Agreement, dated as of August 27, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226050394/0001493152-26-050394-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226050394/form425.htm",
+   "filed_at": "2026-11-06T13:09:52-05:00",
+   "filed_kst": "2026-11-07 03:09",
+   "price": 0.0,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 0.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 0.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "close": 0.0,
+     "change": -50.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 1313420344.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "NV",
+   "hq": "RESEARCH TRIANGLE PARK, NC",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-07T03:10:32+09:00"
+  },
   {
    "id": "0001104659-26-123708",
    "company": "TELUS CORP",
@@ -15796,57 +15850,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:08:12+09:00"
-  },
-  {
-   "id": "0001193125-26-448368",
-   "company": "TOYOTA MOTOR CORP/",
-   "ticker": "TM",
-   "cik": 1094517,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "배당"
-   ],
-   "confidence": 66,
-   "summary": "(Telephone Number: 0565-28-2121) Notice Concerning Partial Amendment to the Matters Relating to the Repurchase of Shares, Repurchase of Shares and Tender Offer for Own Shares, and Partial Amendment to the Matters Relating to the Retirement of Treasury Shares TOYOTA MOTOR CORPORATION (the “ Company ”",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526448368/0001193125-26-448368-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1094517/000119312526448368/d87505dex992.htm",
-   "filed_at": "2026-11-05T06:04:30-05:00",
-   "filed_kst": "2026-11-05 20:04",
-   "price": 199.46,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 199.46,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 199.46,
-     "change": 3.35
-    },
-    {
-     "date": "2026-11-03",
-     "close": 193.0,
-     "change": -1.45
-    }
-   ],
-   "market_cap": 2599748071534.0,
-   "shares_outstanding": 13033931974.0,
-   "industry": "Motor Vehicles & Passenger Car Bodies",
-   "state_of_incorporation": "Japan",
-   "hq": "JAPAN, M0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:07:08+09:00"
   }
  ]
 }
