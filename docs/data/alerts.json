@@ -1,7 +1,98 @@
 {
- "updated_at": "2026-11-06T21:59:17+09:00",
+ "updated_at": "2026-11-06T22:04:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-116597",
+   "company": "Crown PropTech Acquisitions",
+   "ticker": "CPTKW",
+   "cik": 1827899,
+   "form": "425",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "MKAR has signed a Business Combination Agreement with CPTK, pursuant to which MKAR, which will hold the Songwe Hill and Pulawy projects, is expected to become listed on Nasdaq, subject to the satisfaction or waiver of closing conditions.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026116597/0001213900-26-116597-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026116597/ea031120301ex99-1.htm",
+   "filed_at": "2026-11-06T07:59:58-05:00",
+   "filed_kst": "2026-11-06 21:59",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Wholesale-Hardware",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-06T22:00:48+09:00"
+  },
+  {
+   "id": "0001193125-26-450779",
+   "company": "Acrivon Therapeutics, Inc.",
+   "ticker": "ACRV",
+   "cik": 1781174,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "The company has received Fast Track designation from the Food and Drug Administration, or FDA, for the investigation of ACR-368 as a monotherapy based on OncoSignature-predicted sensitivity in patients with EC.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/0001193125-26-450779-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/acrv-ex99_1.htm",
+   "filed_at": "2026-11-06T08:00:14-05:00",
+   "filed_kst": "2026-11-06 22:00",
+   "price": 1.57,
+   "change": -9.77,
+   "price_history": [
+    {
+     "date": "2026-11-05",
+     "close": 1.57,
+     "change": -9.77
+    },
+    {
+     "date": "2026-11-04",
+     "close": 1.74,
+     "change": 4.19
+    },
+    {
+     "date": "2026-11-03",
+     "close": 1.67,
+     "change": 3.73
+    }
+   ],
+   "market_cap": 67279778.0,
+   "shares_outstanding": 42853362.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "WATERTOWN, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-06T22:00:46+09:00"
+  },
   {
    "id": "0001213900-26-116595",
    "company": "Crown PropTech Acquisitions",
@@ -15751,112 +15842,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T20:06:03+09:00"
-  },
-  {
-   "id": "0001140361-26-042013",
-   "company": "Vistra Corp.",
-   "ticker": "VST",
-   "cik": 1692819,
-   "form": "8-K",
-   "items": [
-    "2.01",
-    "2.03",
-    "3.02",
-    "7.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 77,
-   "summary": "(NYSE: VST) today announced it has completed the acquisition of Cogentrix Energy, consisting of 10 modern natural gas generation facilities totaling approximately 5,500 MW of capacity, from funds managed by Quantum Capital Group.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126042013/0001140361-26-042013-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126042013/ef20084950_ex99-1.htm",
-   "filed_at": "2026-11-05T06:02:54-05:00",
-   "filed_kst": "2026-11-05 20:02",
-   "price": 120.29,
-   "change": -13.83,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 120.29,
-     "change": -13.83
-    },
-    {
-     "date": "2026-11-03",
-     "close": 139.59,
-     "change": 3.7
-    },
-    {
-     "date": "2026-11-02",
-     "close": 134.61,
-     "change": -2.72
-    }
-   ],
-   "market_cap": 40373557607.0,
-   "shares_outstanding": 335635195.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "DE",
-   "hq": "IRVING, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:05:59+09:00"
-  },
-  {
-   "id": "0001683168-26-008319",
-   "company": "Caledonia Mining Corp Plc",
-   "ticker": "CMCL",
-   "cik": 766011,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "1 Caledonia Mining Corporation Plc Caledonia Group Signs US$150 Million Interim Financing Facilities Agreement to Support Construction of the Bilboes Gold Project (NYSE AMERICAN, AIM and VFEX: CMCL) St Helier, November 5, 2026 – Caledonia Mining Corporation Plc (\"Caledonia\" or the \"Company\" and toge",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/766011/000168316826008319/0001683168-26-008319-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/766011/000168316826008319/caledonia_ex9901.htm",
-   "filed_at": "2026-11-05T06:00:15-05:00",
-   "filed_kst": "2026-11-05 20:00",
-   "price": 20.61,
-   "change": 8.36,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 20.61,
-     "change": 8.36
-    },
-    {
-     "date": "2026-11-03",
-     "close": 19.02,
-     "change": -4.95
-    },
-    {
-     "date": "2026-11-02",
-     "close": 20.01,
-     "change": -1.19
-    }
-   ],
-   "market_cap": 397871598.0,
-   "shares_outstanding": 19304784.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": null,
-   "hq": "ST HELIER",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T20:05:25+09:00"
   }
  ]
 }
