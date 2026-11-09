@@ -1,7 +1,320 @@
 {
- "updated_at": "2026-11-10T05:59:33+09:00",
+ "updated_at": "2026-11-10T06:04:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001514991-26-000109",
+   "company": "AMC Global Media Inc.",
+   "ticker": "AMCX",
+   "cik": 1514991,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 68,
+   "summary": "Stock Repurchase Program On May 8, 2026, the Company entered into an accelerated share repurchase (\"ASR\") agreement with Citibank, N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1514991/000151499126000109/0001514991-26-000109-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1514991/000151499126000109/amcx-11926ex991.htm",
+   "filed_at": "2026-11-09T16:04:12-05:00",
+   "filed_kst": "2026-11-10 06:04",
+   "price": 8.89,
+   "change": 5.96,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 8.89,
+     "change": 5.96
+    },
+    {
+     "date": "2026-11-06",
+     "close": 8.39,
+     "change": -0.47
+    },
+    {
+     "date": "2026-11-05",
+     "close": 8.43,
+     "change": -0.35
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Cable & Other Pay Television Services",
+   "state_of_incorporation": "NV",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T06:04:39+09:00"
+  },
+  {
+   "id": "0001104659-26-124480",
+   "company": "MATERIALISE NV",
+   "ticker": "MTLS",
+   "cik": 1091223,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "9 November 2026 – Materialise NV (Euronext: MTLS) (Nasdaq: MTLS) (“Materialise”) (“the Company”) hereby discloses certain information in relation to its share buyback program announced on 30 October 2025, in accordance with Article 8:4 of the Royal Decree of 29 April 2019 implementing the Belgian Co",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926124480/0001104659-26-124480-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926124480/tm2629311d1_ex99-1.htm",
+   "filed_at": "2026-11-09T16:01:05-05:00",
+   "filed_kst": "2026-11-10 06:01",
+   "price": 6.88,
+   "change": 1.93,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 6.88,
+     "change": 1.93
+    },
+    {
+     "date": "2026-11-06",
+     "close": 6.75,
+     "change": 1.35
+    },
+    {
+     "date": "2026-11-05",
+     "close": 6.66,
+     "change": -9.02
+    }
+   ],
+   "market_cap": 406382240.0,
+   "shares_outstanding": 59067186.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": null,
+   "hq": "LEVUEN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:02:22+09:00"
+  },
+  {
+   "id": "0001062993-26-005834",
+   "company": "MICROMEM TECHNOLOGIES INC",
+   "ticker": "MMTIF",
+   "cik": 1085921,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Update on Collaboration Agreement with University of Toronto and Defence Research and Development Canada Toronto, Ontario and New York, New York, November 9, 2026 - Micromem Technologies Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1085921/000106299326005834/0001062993-26-005834-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1085921/000106299326005834/exhibit99-1.htm",
+   "filed_at": "2026-11-09T16:01:09-05:00",
+   "filed_kst": "2026-11-10 06:01",
+   "price": 0.02,
+   "change": 22.5,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 0.02,
+     "change": 22.5
+    },
+    {
+     "date": "2026-11-06",
+     "close": 0.02,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 0.02,
+     "change": -33.33
+    }
+   ],
+   "market_cap": 12321808.0,
+   "shares_outstanding": 616090414.0,
+   "industry": "Services-Computer Programming Services",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:02:18+09:00"
+  },
+  {
+   "id": "0001628280-26-072113",
+   "company": "Public Policy Holding Company, Inc.",
+   "ticker": "PPHC",
+   "cik": 1903508,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "Operational Highlights PPHC continued to execute its growth strategy through complementary acquisitions, senior hires and the development of new capabilities across the Group: • Completed the acquisition of Tancredi on July 1, 2026, adding financial, corporate and litigation communications expertise",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1903508/000162828026072113/0001628280-26-072113-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1903508/000162828026072113/pphc-earningsreleasex2026q.htm",
+   "filed_at": "2026-11-09T16:01:22-05:00",
+   "filed_kst": "2026-11-10 06:01",
+   "price": 11.03,
+   "change": -1.25,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 11.03,
+     "change": -1.25
+    },
+    {
+     "date": "2026-11-06",
+     "close": 11.17,
+     "change": -1.5
+    },
+    {
+     "date": "2026-11-05",
+     "close": 11.34,
+     "change": -10.14
+    }
+   ],
+   "market_cap": 333288359.0,
+   "shares_outstanding": 30216533.0,
+   "industry": "Services-Management Consulting Services",
+   "state_of_incorporation": "DE",
+   "hq": "WASHINGTON, DC",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T06:02:08+09:00"
+  },
+  {
+   "id": "0001193125-26-453521",
+   "company": "Xenon Pharmaceuticals Inc.",
+   "ticker": "XENE",
+   "cik": 1582313,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "7 Programs • At the International Association for the Study of Pain (IASP) 2026 World Congress on Pain in October 2026, Xenon presented positive data from its Phase 1 Single Ascending Dose (SAD)/Multiple Ascending Dose (MAD) study in healthy adult participants for XEN1701 targeting Na V 1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1582313/000119312526453521/0001193125-26-453521-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1582313/000119312526453521/xene-ex99_1.htm",
+   "filed_at": "2026-11-09T16:00:28-05:00",
+   "filed_kst": "2026-11-10 06:00",
+   "price": 40.4,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 40.4,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 40.4,
+     "change": 3.14
+    },
+    {
+     "date": "2026-11-06",
+     "close": 39.17,
+     "change": 3.95
+    }
+   ],
+   "market_cap": 3912353453.0,
+   "shares_outstanding": 96840432.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "BURNABY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:01:25+09:00"
+  },
+  {
+   "id": "0001193125-26-453518",
+   "company": "Capital Clean Energy Carriers Corp.",
+   "ticker": "CCEC",
+   "cik": 1392326,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 88,
+   "summary": "1 million of common shares repurchased under our share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1392326/000119312526453518/0001193125-26-453518-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1392326/000119312526453518/d182391dex99i.htm",
+   "filed_at": "2026-11-09T15:59:48-05:00",
+   "filed_kst": "2026-11-10 05:59",
+   "price": 20.51,
+   "change": -0.39,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 20.51,
+     "change": -0.39
+    },
+    {
+     "date": "2026-11-06",
+     "close": 20.59,
+     "change": -0.68
+    },
+    {
+     "date": "2026-11-05",
+     "close": 20.73,
+     "change": -1.19
+    }
+   ],
+   "market_cap": 1220095865.0,
+   "shares_outstanding": 59487853.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": null,
+   "hq": "PIRAEUS, J3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:00:48+09:00"
+  },
   {
    "id": "0001213900-26-117429",
    "company": "Tiziana Life Sciences Ltd",
@@ -15421,289 +15734,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T01:04:24+09:00"
-  },
-  {
-   "id": "0001193125-26-448825",
-   "company": "StealthGas Inc.",
-   "ticker": "GASS",
-   "cik": 1328919,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "(the “Company”) has agreed to acquire two 40,000 cbm LPG carriers, the 2024-built Eco Enchanted and the 2023-built Eco Merlin , and two 11,000 cbm LPG carriers, the 2026-built Eco Nebula and the 2025-built Eco Texiana , for an aggregate purchase price of $254.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1328919/000119312526448825/0001193125-26-448825-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1328919/000119312526448825/d149409dex991.htm",
-   "filed_at": "2026-11-05T09:25:07-05:00",
-   "filed_kst": "2026-11-05 23:25",
-   "price": 8.29,
-   "change": -3.38,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 8.29,
-     "change": -3.38
-    },
-    {
-     "date": "2026-11-03",
-     "close": 8.58,
-     "change": 8.2
-    },
-    {
-     "date": "2026-11-02",
-     "close": 7.93,
-     "change": -4.0
-    }
-   ],
-   "market_cap": 308269337.0,
-   "shares_outstanding": 37185686.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "ATHENS",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T23:26:11+09:00"
-  },
-  {
-   "id": "0001493152-26-050096",
-   "company": "Nuran Wireless Inc.",
-   "ticker": "NUR",
-   "cik": 1680637,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "1 PRESS RELEASE For immediate release NuRAN Targets Africa’s Rural Connectivity Opportunity with More Than US$900 Million in Estimated Contract Revenue 5,092 contracted towers provide a platform for expansion as network-generated revenue grows 126.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1680637/000149315226050096/0001493152-26-050096-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1680637/000149315226050096/ex99-1.htm",
-   "filed_at": "2026-11-05T09:22:12-05:00",
-   "filed_kst": "2026-11-05 23:22",
-   "price": 0.5,
-   "change": 0.4,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 0.5,
-     "change": 0.4
-    },
-    {
-     "date": "2026-11-04",
-     "close": 0.5,
-     "change": -10.71
-    },
-    {
-     "date": "2026-11-03",
-     "close": 0.56,
-     "change": -5.08
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Computer Communications Equipment",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "QUEBEC",
-   "entity_category": null,
-   "detected_at": "2026-11-05T23:23:10+09:00"
-  },
-  {
-   "id": "0001213900-26-116157",
-   "company": "Constellation Acquisition Corp I",
-   "ticker": "CSTAF",
-   "cik": 1834032,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "5 million was funded upon signing of the business combination agreement and a further $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026116157/0001213900-26-116157-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026116157/ea031101201-425_constell1.htm",
-   "filed_at": "2026-11-05T09:17:40-05:00",
-   "filed_kst": "2026-11-05 23:17",
-   "price": 13.05,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 13.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 13.05,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 13.05,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T23:18:15+09:00"
-  },
-  {
-   "id": "0001213900-26-116157",
-   "company": "US Elemental Inc.",
-   "ticker": "ULIT",
-   "cik": 2134552,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "5 million was funded upon signing of the business combination agreement and a further $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026116157/0001213900-26-116157-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2134552/000121390026116157/ea031101201-425_constell1.htm",
-   "filed_at": "2026-11-05T09:17:40-05:00",
-   "filed_kst": "2026-11-05 23:17",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "DE",
-   "hq": "RENO, NV",
-   "entity_category": null,
-   "detected_at": "2026-11-05T23:18:13+09:00"
-  },
-  {
-   "id": "0001132597-26-000277",
-   "company": "Itau Unibanco Holding S.A.",
-   "ticker": "ITUB",
-   "cik": 1132597,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 riskandcapitalmanagement.htm EX-99.1 riskandcapitalmanagement Risk and Capital Management - Pillar 3 Third quarter of 2026 Objective 1 Key indicators 1 Prudential Metrics and Risk Management 2 KM1: Key metrics at consolidated level 3 OVA: Bank risk management approach 4 Scope and main char",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000277/0001132597-26-000277-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000277/riskandcapitalmanagement.htm",
-   "filed_at": "2026-11-05T09:16:48-05:00",
-   "filed_kst": "2026-11-05 23:16",
-   "price": 7.28,
-   "change": 3.26,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 7.28,
-     "change": 3.26
-    },
-    {
-     "date": "2026-11-03",
-     "close": 7.05,
-     "change": -1.67
-    },
-    {
-     "date": "2026-11-02",
-     "close": 7.17,
-     "change": 0.56
-    }
-   ],
-   "market_cap": 36096353814.0,
-   "shares_outstanding": 4958290359.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "Brazil",
-   "hq": "SAO PAULO, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T23:17:40+09:00"
-  },
-  {
-   "id": "0001213900-26-116155",
-   "company": "ASCENTAGE PHARMA GROUP INTERNATIONAL",
-   "ticker": "AAPG",
-   "cik": 2023311,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "FDA has granted four Orphan Drug Designations (ODDs) for olverembatinib for the treatment of CML, acute myeloid leukemia (AML), ALL, and GIST.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2023311/000121390026116155/0001213900-26-116155-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023311/000121390026116155/ea031101801ex99-1.htm",
-   "filed_at": "2026-11-05T09:15:01-05:00",
-   "filed_kst": "2026-11-05 23:15",
-   "price": 15.07,
-   "change": 11.8,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 15.07,
-     "change": 11.8
-    },
-    {
-     "date": "2026-11-03",
-     "close": 13.48,
-     "change": -0.59
-    },
-    {
-     "date": "2026-11-02",
-     "close": 13.56,
-     "change": -6.2
-    }
-   ],
-   "market_cap": 5625965433.0,
-   "shares_outstanding": 373322192.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SUZHOU , JIANGSU",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T23:16:04+09:00"
   }
  ]
 }
