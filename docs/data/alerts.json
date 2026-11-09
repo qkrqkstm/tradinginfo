@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-09T21:39:29+09:00",
+ "updated_at": "2026-11-09T21:44:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001326110-26-000097",
+   "company": "ImmunityBio, Inc.",
+   "ticker": "IBRX",
+   "cik": 1326110,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 71,
+   "summary": "(NASDAQ: IBRX), a commercial-stage immunotherapy company, today announced continued global expansion, expanded FDA approval, and financial results for the third quarter ended September 30, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000097/0001326110-26-000097-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000097/ibrx-2026119x8kexhibit991.htm",
+   "filed_at": "2026-11-09T07:39:35-05:00",
+   "filed_kst": "2026-11-09 21:39",
+   "price": 8.63,
+   "change": 7.8,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 8.64,
+     "change": 7.8
+    },
+    {
+     "date": "2026-11-05",
+     "close": 8.01,
+     "change": -10.3
+    },
+    {
+     "date": "2026-11-04",
+     "close": 8.93,
+     "change": 7.72
+    }
+   ],
+   "market_cap": 9146387036.0,
+   "shares_outstanding": 1059836273.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-09T21:40:33+09:00"
+  },
   {
    "id": "0001193125-26-452665",
    "company": "Viridian Therapeutics, Inc.DE",
@@ -15712,61 +15766,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-05T21:32:28+09:00"
-  },
-  {
-   "id": "0001759138-26-000046",
-   "company": "Cabaletta Bio, Inc.",
-   "ticker": "CABA",
-   "cik": 1759138,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "EX-99.1 2 caba-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 Cabaletta Bio Reports Third Quarter 2026 Financial Results and Provides Business Update RESET-Myositis ® registrational adult topline results anticipated in 2H27 with BLA submission in 1Q28, including Phase 1/2 juvenile dermatomyositis data for ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1759138/000175913826000046/0001759138-26-000046-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1759138/000175913826000046/caba-ex99_1.htm",
-   "filed_at": "2026-11-05T07:31:14-05:00",
-   "filed_kst": "2026-11-05 21:31",
-   "price": 1.42,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 1.42,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 1.42,
-     "change": -0.7
-    },
-    {
-     "date": "2026-11-02",
-     "close": 1.43,
-     "change": -5.3
-    }
-   ],
-   "market_cap": 240754532.0,
-   "shares_outstanding": 169545445.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "PHILADELPHIA, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T21:31:53+09:00"
   }
  ]
 }
