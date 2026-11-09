@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-09T21:54:42+09:00",
+ "updated_at": "2026-11-09T21:59:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-042613",
+   "company": "MOTORCAR PARTS OF AMERICA INC",
+   "ticker": "MPAA",
+   "cik": 918251,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "U nder its authorized share repurchase program , the company had approximately $20 .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/918251/000114036126042613/0001140361-26-042613-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/918251/000114036126042613/ef20084732_ex99-1.htm",
+   "filed_at": "2026-11-09T07:58:50-05:00",
+   "filed_kst": "2026-11-09 21:58",
+   "price": 10.52,
+   "change": 3.54,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 10.52,
+     "change": 3.54
+    },
+    {
+     "date": "2026-11-05",
+     "close": 10.16,
+     "change": -3.97
+    },
+    {
+     "date": "2026-11-04",
+     "close": 10.58,
+     "change": 1.83
+    }
+   ],
+   "market_cap": 199177338.0,
+   "shares_outstanding": 18933207.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "NY",
+   "hq": "TORRANCE, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-09T21:59:32+09:00"
+  },
   {
    "id": "0001628280-26-071886",
    "company": "Bicara Therapeutics Inc.",
@@ -15713,61 +15767,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T21:35:53+09:00"
-  },
-  {
-   "id": "0001628280-26-070585",
-   "company": "COLLEGIUM PHARMACEUTICAL, INC",
-   "ticker": "COLL",
-   "cik": 1267565,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "0 Million – – Announced $50 Million Accelerated Share Repurchase in Q3’26 – – Conference Call Scheduled for Today at 8:00 a.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1267565/000162828026070585/0001628280-26-070585-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1267565/000162828026070585/coll-2026x09x30xex99x1.htm",
-   "filed_at": "2026-11-05T07:32:59-05:00",
-   "filed_kst": "2026-11-05 21:32",
-   "price": 23.67,
-   "change": -0.25,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 23.67,
-     "change": -0.25
-    },
-    {
-     "date": "2026-11-03",
-     "close": 23.73,
-     "change": 0.21
-    },
-    {
-     "date": "2026-11-02",
-     "close": 23.68,
-     "change": -0.5
-    }
-   ],
-   "market_cap": 770591360.0,
-   "shares_outstanding": 32555613.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "VA",
-   "hq": "STOUGHTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T21:33:33+09:00"
   }
  ]
 }
