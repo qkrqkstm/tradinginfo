@@ -1,7 +1,169 @@
 {
- "updated_at": "2026-11-10T06:24:32+09:00",
+ "updated_at": "2026-11-10T06:29:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-453670",
+   "company": "Trevi Therapeutics, Inc.",
+   "ticker": "TRVI",
+   "cik": 1563880,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "The Company expects its current cash, cash equivalents and marketable securities will provide cash runway into 2030 and fund the development of Haduvio for the treatment of patients with IPF-related chronic cough, through potential FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1563880/000119312526453670/0001193125-26-453670-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1563880/000119312526453670/trvi-ex99_1.htm",
+   "filed_at": "2026-11-09T16:26:46-05:00",
+   "filed_kst": "2026-11-10 06:26",
+   "price": 15.31,
+   "change": 6.84,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 15.31,
+     "change": 6.84
+    },
+    {
+     "date": "2026-11-06",
+     "close": 14.33,
+     "change": 11.87
+    },
+    {
+     "date": "2026-11-05",
+     "close": 12.81,
+     "change": -8.4
+    }
+   ],
+   "market_cap": 2181305126.0,
+   "shares_outstanding": 142475841.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW HAVEN, CT",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T06:27:38+09:00"
+  },
+  {
+   "id": "0001456772-26-000048",
+   "company": "OFFICE PROPERTIES INCOME TRUST",
+   "ticker": "OPI",
+   "cik": 1456772,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "14 Investment in Unconsolidated Joint Venture .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1456772/000145677226000048/0001456772-26-000048-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1456772/000145677226000048/exhibit992opiq32026earni.htm",
+   "filed_at": "2026-11-09T16:25:24-05:00",
+   "filed_kst": "2026-11-10 06:25",
+   "price": 13.73,
+   "change": 5.7,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 13.73,
+     "change": 5.7
+    },
+    {
+     "date": "2026-11-06",
+     "close": 12.99,
+     "change": 0.78
+    },
+    {
+     "date": "2026-11-05",
+     "close": 12.89,
+     "change": -0.92
+    }
+   ],
+   "market_cap": 301422612.0,
+   "shares_outstanding": 21953577.0,
+   "industry": "Real Estate",
+   "state_of_incorporation": "MD",
+   "hq": "NEWTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T06:26:33+09:00"
+  },
+  {
+   "id": "0001630805-26-000080",
+   "company": "Babcock & Wilcox Enterprises, Inc.",
+   "ticker": "BW",
+   "cik": 1630805,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 79,
+   "summary": "\" \"Earlier this year, our Board of Directors authorized a share repurchase program, which reflects confidence in our balance sheet and our strategic approach to building shareholder value.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000080/0001630805-26-000080-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000080/e-2026q3earningsrelease.htm",
+   "filed_at": "2026-11-09T16:25:43-05:00",
+   "filed_kst": "2026-11-10 06:25",
+   "price": 3.79,
+   "change": 16.62,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 3.79,
+     "change": 16.62
+    },
+    {
+     "date": "2026-11-06",
+     "close": 3.25,
+     "change": 4.84
+    },
+    {
+     "date": "2026-11-05",
+     "close": 3.1,
+     "change": -15.99
+    }
+   ],
+   "market_cap": 564577600.0,
+   "shares_outstanding": 148965066.0,
+   "industry": "Heating Equipment, Except Electric & Warm Air Furnaces",
+   "state_of_incorporation": "DE",
+   "hq": "AKRON, OH",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T06:26:32+09:00"
+  },
   {
    "id": "0001193125-26-453641",
    "company": "Surrozen, Inc./DE",
@@ -15603,168 +15765,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-06T06:08:40+09:00"
-  },
-  {
-   "id": "0001964738-26-000055",
-   "company": "Solventum Corp",
-   "ticker": "SOLV",
-   "cik": 1964738,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 65,
-   "summary": "Other Business and Operational Highlights • Received FDA 510(k) clearance for the combined use of Restrata and V.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000055/0001964738-26-000055-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000055/q32026-8kerexx991.htm",
-   "filed_at": "2026-11-05T16:07:29-05:00",
-   "filed_kst": "2026-11-06 06:07",
-   "price": 87.17,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 87.17,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 87.17,
-     "change": -2.44
-    },
-    {
-     "date": "2026-11-04",
-     "close": 89.35,
-     "change": 5.42
-    }
-   ],
-   "market_cap": 14838402457.0,
-   "shares_outstanding": 170223729.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "EAGAN, MN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:08:37+09:00"
-  },
-  {
-   "id": "0001193125-26-449787",
-   "company": "CytomX Therapeutics, Inc.",
-   "ticker": "CTMX",
-   "cik": 1501989,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 72,
-   "summary": "1 CytomX Therapeutics Announces Q3 2026 Financial Results and Provides Business Update - Varsetatug masetecan (Varseta-M) granted FDA Fast Track designation for relapsed/refractory metastatic colorectal cancer - - Phase 1 monotherapy data update in metastatic colorectal cancer (mCRC) expected in Jan",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1501989/000119312526449787/0001193125-26-449787-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1501989/000119312526449787/ctmx-ex99_1.htm",
-   "filed_at": "2026-11-05T16:07:41-05:00",
-   "filed_kst": "2026-11-06 06:07",
-   "price": 2.14,
-   "change": -8.94,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 2.14,
-     "change": -8.94
-    },
-    {
-     "date": "2026-11-04",
-     "close": 2.35,
-     "change": 7.8
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.18,
-     "change": -2.24
-    }
-   ],
-   "market_cap": 466530529.0,
-   "shares_outstanding": 218004920.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:08:33+09:00"
-  },
-  {
-   "id": "0001171843-26-007179",
-   "company": "AvePoint, Inc.",
-   "ticker": "AVPT",
-   "cik": 1777921,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "지수편입",
-   "primary_key": "index",
-   "emoji": "📈",
-   "types": [
-    "지수편입",
-    "가이던스상향"
-   ],
-   "confidence": 66,
-   "summary": "Added to the S&P SmallCap 600 Index, which tracks small-capitalization U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1777921/000117184326007179/0001171843-26-007179-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1777921/000117184326007179/exh_991.htm",
-   "filed_at": "2026-11-05T16:06:38-05:00",
-   "filed_kst": "2026-11-06 06:06",
-   "price": 16.42,
-   "change": -2.84,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 16.42,
-     "change": -2.84
-    },
-    {
-     "date": "2026-11-04",
-     "close": 16.9,
-     "change": 2.8
-    },
-    {
-     "date": "2026-11-03",
-     "close": 16.44,
-     "change": -1.62
-    }
-   ],
-   "market_cap": 3473904295.0,
-   "shares_outstanding": 211565426.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "JERSEY CITY, NJ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:07:53+09:00"
   }
  ]
 }
