@@ -1,7 +1,171 @@
 {
- "updated_at": "2026-11-09T22:34:27+09:00",
+ "updated_at": "2026-11-09T22:39:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-071911",
+   "company": "Fervo Energy Co",
+   "ticker": "FRVO",
+   "cik": 1853868,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "With the signing of the Google agreement, Fervo now has 1,054 megawatts of capacity under binding power purchase agreements, representing approximately $11.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1853868/000162828026071911/0001628280-26-071911-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1853868/000162828026071911/exhibit991earningsrelease1.htm",
+   "filed_at": "2026-11-09T08:37:24-05:00",
+   "filed_kst": "2026-11-09 22:37",
+   "price": 9.03,
+   "change": -0.06,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 9.03,
+     "change": -0.06
+    },
+    {
+     "date": "2026-11-06",
+     "close": 9.03,
+     "change": 15.92
+    },
+    {
+     "date": "2026-11-05",
+     "close": 7.79,
+     "change": -12.47
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Electric Services",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-09T22:38:03+09:00"
+  },
+  {
+   "id": "0001193125-26-452736",
+   "company": "ContextLogic Holdings Inc.",
+   "ticker": "LOGC",
+   "cik": 2064307,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Basis of Presentation ContextLogic completed the acquisition of US Salt Parent Holdings, LLC and all its majority or wholly owned subsidiaries (\"US Salt\") on February 26, 2026 (the \"US Salt Acquisition\").",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526452736/0001193125-26-452736-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526452736/logc-ex99_1.htm",
+   "filed_at": "2026-11-09T08:35:15-05:00",
+   "filed_kst": "2026-11-09 22:35",
+   "price": 15.15,
+   "change": -0.98,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 15.15,
+     "change": -0.98
+    },
+    {
+     "date": "2026-11-05",
+     "close": 15.3,
+     "change": -1.03
+    },
+    {
+     "date": "2026-11-04",
+     "close": 15.46,
+     "change": 0.39
+    }
+   ],
+   "market_cap": 693168797.0,
+   "shares_outstanding": 45753716.0,
+   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+   "state_of_incorporation": "DE",
+   "hq": "OAKLAND, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-09T22:35:58+09:00"
+  },
+  {
+   "id": "0001193125-26-452737",
+   "company": "Aptevo Therapeutics Inc.",
+   "ticker": "APVO",
+   "cik": 1671584,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "Mipletamig has received orphan drug designation for AML under the Orphan Drug Act.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526452737/0001193125-26-452737-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526452737/apvo-ex99_1.htm",
+   "filed_at": "2026-11-09T08:35:16-05:00",
+   "filed_kst": "2026-11-09 22:35",
+   "price": 1.24,
+   "change": -2.36,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 1.24,
+     "change": -2.36
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.27,
+     "change": -7.3
+    },
+    {
+     "date": "2026-11-04",
+     "close": 1.37,
+     "change": 0.74
+    }
+   ],
+   "market_cap": 2234443.0,
+   "shares_outstanding": 1801970.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SEATTLE, WA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-09T22:35:56+09:00"
+  },
   {
    "id": "0001628280-26-071908",
    "company": "Vir Biotechnology, Inc.",
@@ -15588,171 +15752,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T22:08:00+09:00"
-  },
-  {
-   "id": "0001628280-26-070619",
-   "company": "RALPH LAUREN CORP",
-   "ticker": "RL",
-   "cik": 1037038,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "The Company repurchase d approximately $250 million of Class A Common Stock in the second quarter for a tot al of $500 million thi s fiscal year-to-date, completing the Company's share repurchase plans for Fiscal 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026070619/0001628280-26-070619-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026070619/rl-20260926ex991xpressrele.htm",
-   "filed_at": "2026-11-05T08:04:56-05:00",
-   "filed_kst": "2026-11-05 22:04",
-   "price": 412.06,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 412.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 412.06,
-     "change": 4.48
-    },
-    {
-     "date": "2026-11-03",
-     "close": 394.4,
-     "change": -0.79
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:05:57+09:00"
-  },
-  {
-   "id": "0001193125-26-448654",
-   "company": "BlackRock TCP Capital Corp.",
-   "ticker": "TCPC",
-   "cik": 1370755,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 68,
-   "summary": "On April 29, 2026, our Board of Directors re-approved our stock repurchase plan to acquire up to $50.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1370755/000119312526448654/0001193125-26-448654-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370755/000119312526448654/tcpc-ex99_1.htm",
-   "filed_at": "2026-11-05T08:05:15-05:00",
-   "filed_kst": "2026-11-05 22:05",
-   "price": 4.37,
-   "change": 4.05,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 4.37,
-     "change": 4.05
-    },
-    {
-     "date": "2026-11-03",
-     "close": 4.2,
-     "change": -1.87
-    },
-    {
-     "date": "2026-11-02",
-     "close": 4.28,
-     "change": 2.39
-    }
-   ],
-   "market_cap": 366655127.0,
-   "shares_outstanding": 83902775.0,
-   "industry": null,
-   "state_of_incorporation": "DE",
-   "hq": "SANTA MONICA, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:05:56+09:00"
-  },
-  {
-   "id": "0000874396-26-000051",
-   "company": "LIFETIME BRANDS, INC",
-   "ticker": "LCUT",
-   "cik": 874396,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 67,
-   "summary": "Reports Third Quarter 2026 Financial Results Declares Regular Quarterly Dividend Board Authorizes $20M Share Repurchase Program GARDEN CITY, NY, November 5, 2026 – Lifetime Brands, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/874396/000087439626000051/0000874396-26-000051-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/874396/000087439626000051/ex99111052026.htm",
-   "filed_at": "2026-11-05T08:04:02-05:00",
-   "filed_kst": "2026-11-05 22:04",
-   "price": 8.89,
-   "change": 4.71,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 8.89,
-     "change": 4.71
-    },
-    {
-     "date": "2026-11-03",
-     "close": 8.49,
-     "change": -3.19
-    },
-    {
-     "date": "2026-11-02",
-     "close": 8.77,
-     "change": 3.66
-    }
-   ],
-   "market_cap": 204370752.0,
-   "shares_outstanding": 22988836.0,
-   "industry": "Cutlery, Handtools & General Hardware",
-   "state_of_incorporation": "DE",
-   "hq": "GARDEN CITY, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T22:04:53+09:00"
   }
  ]
 }
