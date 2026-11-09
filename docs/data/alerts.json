@@ -1,7 +1,324 @@
 {
- "updated_at": "2026-11-09T23:04:29+09:00",
+ "updated_at": "2026-11-09T23:09:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-452778",
+   "company": "Fox Corp",
+   "ticker": "FOX",
+   "cik": 1754301,
+   "form": "8-K/A",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 67,
+   "summary": "EX-99.4 4 d85827dex994.htm EX-99.4 EX-99.4 Exhibit 99.4 UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL INFORMATION The unaudited pro forma condensed combined financial information presented below illustrates the estimated effects of the (i) acquisition of Roku, Inc. (“Roku”) by Fox Corporation (“F",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526452778/0001193125-26-452778-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526452778/d85827dex994.htm",
+   "filed_at": "2026-11-09T09:08:39-05:00",
+   "filed_kst": "2026-11-09 23:08",
+   "price": 59.5,
+   "change": -0.82,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 59.5,
+     "change": -0.82
+    },
+    {
+     "date": "2026-11-05",
+     "close": 59.99,
+     "change": -2.65
+    },
+    {
+     "date": "2026-11-04",
+     "close": 61.62,
+     "change": 3.34
+    }
+   ],
+   "market_cap": 60.0,
+   "shares_outstanding": 1.0,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-09T23:09:18+09:00"
+  },
+  {
+   "id": "0001193125-26-452777",
+   "company": "TCGX Acquisition Corp.",
+   "ticker": "TCGX",
+   "cik": 2137965,
+   "form": "425",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Lynch served as Chief Executive Officer and Chief Financial Officer of ImClone Systems, where he led the company through a significant turnaround and secured FDA approval of the novel cancer therapy Erbitux.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2137965/000119312526452777/0001193125-26-452777-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2137965/000119312526452777/d173287d425.htm",
+   "filed_at": "2026-11-09T09:08:07-05:00",
+   "filed_kst": "2026-11-09 23:08",
+   "price": 10.04,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 10.04,
+     "change": 0.1
+    },
+    {
+     "date": "2026-11-05",
+     "close": 10.03,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-04",
+     "close": 10.04,
+     "change": 0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GRAND CAYMAN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-09T23:08:44+09:00"
+  },
+  {
+   "id": "0001213900-26-117277",
+   "company": "Inflection Point Acquisition Corp. VI",
+   "ticker": "IPFX",
+   "cik": 2102041,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "VI (“ Inflection Point ”), entered into a Business Combination Agreement (the “ Business Combination Agreement ”), with IPFX PubCo, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026117277/0001213900-26-117277-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026117277/ea031129001ex99-1.htm",
+   "filed_at": "2026-11-09T09:07:18-05:00",
+   "filed_kst": "2026-11-09 23:07",
+   "price": 10.16,
+   "change": -0.1,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 10.16,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-05",
+     "close": 10.17,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 10.17,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "MIAMI BEACH, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-09T23:08:12+09:00"
+  },
+  {
+   "id": "0001493152-26-050654",
+   "company": "Marygold Companies, Inc.",
+   "ticker": "MGLD",
+   "cik": 1005101,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "” Nicholas Gerber, Chief Executive Officer, added, “During the quarter, the Company announced it had entered into a definitive merger agreement under which funds managed by Madison Dearborn Partners will acquire all of the outstanding shares of The Marygold Companies for $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1005101/000149315226050654/0001493152-26-050654-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1005101/000149315226050654/ex99-1.htm",
+   "filed_at": "2026-11-09T09:05:56-05:00",
+   "filed_kst": "2026-11-09 23:05",
+   "price": 1.97,
+   "change": -0.51,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 1.97,
+     "change": -0.51
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.98,
+     "change": 0.51
+    },
+    {
+     "date": "2026-11-04",
+     "close": 1.97,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 84237756.0,
+   "shares_outstanding": 42760282.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "NV",
+   "hq": "SAN CLEMENTE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-09T23:06:37+09:00"
+  },
+  {
+   "id": "0001827635-26-000038",
+   "company": "Veradermics, Inc",
+   "ticker": "MANE",
+   "cik": 1827635,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "These trials are designed to support the potential FDA approval of VDPHL01 in both male and female pattern hair loss and include: • Study ‘302’ (NCT06724614): Phase 2/3 trial of VDPHL01 8.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1827635/000182763526000038/0001827635-26-000038-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827635/000182763526000038/study302partbcallslides-.htm",
+   "filed_at": "2026-11-09T09:04:12-05:00",
+   "filed_kst": "2026-11-09 23:04",
+   "price": 138.78,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 138.78,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "close": 138.78,
+     "change": 7.92
+    },
+    {
+     "date": "2026-11-05",
+     "close": 128.6,
+     "change": -5.79
+    }
+   ],
+   "market_cap": 5798247274.0,
+   "shares_outstanding": 41780136.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW HAVEN, CT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-09T23:05:33+09:00"
+  },
+  {
+   "id": "0001213900-26-117271",
+   "company": "Inflection Point Acquisition Corp. VI",
+   "ticker": "IPFX",
+   "cik": 2102041,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "VI (“ Inflection Point ”), entered into a Business Combination Agreement (the “ Business Combination Agreement ”), with IPFX PubCo, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026117271/0001213900-26-117271-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026117271/ea031129001ex99-1.htm",
+   "filed_at": "2026-11-09T09:04:58-05:00",
+   "filed_kst": "2026-11-09 23:04",
+   "price": 10.16,
+   "change": -0.1,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 10.16,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-05",
+     "close": 10.17,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 10.17,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "MIAMI BEACH, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-09T23:05:31+09:00"
+  },
   {
    "id": "0000320121-26-000041",
    "company": "TELOS CORP",
@@ -15435,328 +15752,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T22:30:42+09:00"
-  },
-  {
-   "id": "0000070145-26-000037",
-   "company": "NATIONAL FUEL GAS CO",
-   "ticker": "NFG",
-   "cik": 70145,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "RECENT STRATEGIC HIGHLIGHTS • Completed the acquisition of CenterPoint Energy's Ohio natural gas utility on October 1, 2026, doubling the Company's Utility rate base and adding approximately 335,000 utility customers.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/70145/000007014526000037/0000070145-26-000037-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/70145/000007014526000037/nfg-9302026xexhibit99x8k.htm",
-   "filed_at": "2026-11-05T08:20:44-05:00",
-   "filed_kst": "2026-11-05 22:20",
-   "price": 76.54,
-   "change": -2.66,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 76.54,
-     "change": -2.66
-    },
-    {
-     "date": "2026-11-03",
-     "close": 78.63,
-     "change": -1.31
-    },
-    {
-     "date": "2026-11-02",
-     "close": 79.67,
-     "change": 0.15
-    }
-   ],
-   "market_cap": 7274751877.0,
-   "shares_outstanding": 95045099.0,
-   "industry": "Natural Gas Distribution",
-   "state_of_incorporation": "NJ",
-   "hq": "WILLIAMSVILLE, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:21:33+09:00"
-  },
-  {
-   "id": "0001193125-26-448673",
-   "company": "Intellia Therapeutics, Inc.",
-   "ticker": "NTLA",
-   "cik": 1652130,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 64,
-   "summary": "1 Intellia Therapeutics Announces Third Quarter 2026 Financial Results and Business Updates - On track to complete lonvo-z commercial readiness efforts in advance of March 10, 2027 PDUFA date - New lonvo-z patient perspectives and Phase 1/2 durability data to be included in investor webcast and mult",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526448673/0001193125-26-448673-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526448673/ntla-ex99_1.htm",
-   "filed_at": "2026-11-05T08:15:13-05:00",
-   "filed_kst": "2026-11-05 22:15",
-   "price": 12.31,
-   "change": 3.79,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 12.31,
-     "change": 3.79
-    },
-    {
-     "date": "2026-11-03",
-     "close": 11.86,
-     "change": 1.72
-    },
-    {
-     "date": "2026-11-02",
-     "close": 11.66,
-     "change": -6.5
-    }
-   ],
-   "market_cap": 1724959591.0,
-   "shares_outstanding": 140126693.0,
-   "industry": "In Vitro & In Vivo Diagnostic Substances",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:15:59+09:00"
-  },
-  {
-   "id": "0001981599-26-000135",
-   "company": "Centuri Holdings, Inc.",
-   "ticker": "CTRI",
-   "cik": 1981599,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Commercial Update During the third quarter of 2026, Centuri secured approximately $730 million in total bookings, including nearly $445 million of new bid awards, approximately $185 million of new or expanded MSA awards and approximately $100 million of MSA renewals.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1981599/000198159926000135/0001981599-26-000135-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1981599/000198159926000135/centuriholdingsincex-991xq.htm",
-   "filed_at": "2026-11-05T08:15:35-05:00",
-   "filed_kst": "2026-11-05 22:15",
-   "price": 20.54,
-   "change": -6.55,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 20.54,
-     "change": -6.55
-    },
-    {
-     "date": "2026-11-03",
-     "close": 21.98,
-     "change": 3.29
-    },
-    {
-     "date": "2026-11-02",
-     "close": 21.28,
-     "change": -0.98
-    }
-   ],
-   "market_cap": 2073781109.0,
-   "shares_outstanding": 100963053.0,
-   "industry": "Natural Gas Transmisison & Distribution",
-   "state_of_incorporation": "DE",
-   "hq": "PHOENIX, AZ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:15:58+09:00"
-  },
-  {
-   "id": "0001053706-26-000046",
-   "company": "CRA INTERNATIONAL, INC.",
-   "ticker": "CRAI",
-   "cik": 1053706,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 71,
-   "summary": "CRA did not repurchase any shares under the share repurchase program during Q3 of fiscal 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1053706/000105370626000046/0001053706-26-000046-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1053706/000105370626000046/craiq3-20268xkexx992xcfore.htm",
-   "filed_at": "2026-11-05T08:10:14-05:00",
-   "filed_kst": "2026-11-05 22:10",
-   "price": 194.75,
-   "change": -0.26,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 194.75,
-     "change": -0.26
-    },
-    {
-     "date": "2026-11-03",
-     "close": 195.26,
-     "change": -0.97
-    },
-    {
-     "date": "2026-11-02",
-     "close": 197.17,
-     "change": 0.56
-    }
-   ],
-   "market_cap": 1222418485.0,
-   "shares_outstanding": 6276860.0,
-   "industry": "Services-Legal Services",
-   "state_of_incorporation": "MA",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:11:09+09:00"
-  },
-  {
-   "id": "0001579684-26-000056",
-   "company": "USA TODAY Co., Inc.",
-   "ticker": "TDAY",
-   "cik": 1579684,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "9 million available under our authorized Stock Repurchase Program and plan to be opportunistic with share repurchases in the fourth quarter.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000056/0001579684-26-000056-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579684/000157968426000056/tdayq32026ex991earningsrel.htm",
-   "filed_at": "2026-11-05T08:08:49-05:00",
-   "filed_kst": "2026-11-05 22:08",
-   "price": 6.07,
-   "change": 6.12,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 6.07,
-     "change": 6.12
-    },
-    {
-     "date": "2026-11-03",
-     "close": 5.72,
-     "change": -3.38
-    },
-    {
-     "date": "2026-11-02",
-     "close": 5.92,
-     "change": -4.21
-    }
-   ],
-   "market_cap": 891184902.0,
-   "shares_outstanding": 146817941.0,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "PITTSFORD, NY",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:10:34+09:00"
-  },
-  {
-   "id": "0001000694-26-000021",
-   "company": "NOVAVAX INC",
-   "ticker": "NVAX",
-   "cik": 1000694,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 66,
-   "summary": "Sanofi includes revenue recognized under the license agreement including upfront payments, milestones, royalties and transition services reimbursement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1000694/000100069426000021/0001000694-26-000021-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1000694/000100069426000021/nvax3q26earningspressrelea.htm",
-   "filed_at": "2026-11-05T08:08:24-05:00",
-   "filed_kst": "2026-11-05 22:08",
-   "price": 10.65,
-   "change": 10.02,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 10.65,
-     "change": 10.02
-    },
-    {
-     "date": "2026-11-03",
-     "close": 9.68,
-     "change": 1.57
-    },
-    {
-     "date": "2026-11-02",
-     "close": 9.53,
-     "change": -5.46
-    }
-   ],
-   "market_cap": 1756671982.0,
-   "shares_outstanding": 164945726.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "GAITHERSBURG, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:09:07+09:00"
   }
  ]
 }
