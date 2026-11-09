@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-09T22:14:10+09:00",
+ "updated_at": "2026-11-09T22:19:08+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-452721",
+   "company": "HERON THERAPEUTICS, INC. /DE/",
+   "ticker": "HRTX",
+   "cik": 818033,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "In December 2021, the FDA approved an expansion of ZYNRELEF's indication to include foot and ankle, small-to-medium open abdominal, and lower extremity total joint arthroplasty surgical procedures.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/818033/000119312526452721/0001193125-26-452721-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/818033/000119312526452721/hrtx-ex99_1.htm",
+   "filed_at": "2026-11-09T08:15:13-05:00",
+   "filed_kst": "2026-11-09 22:15",
+   "price": 0.29,
+   "change": 1.03,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 0.29,
+     "change": 1.03
+    },
+    {
+     "date": "2026-11-06",
+     "close": 0.29,
+     "change": 3.57
+    },
+    {
+     "date": "2026-11-05",
+     "close": 0.28,
+     "change": -6.67
+    }
+   ],
+   "market_cap": 55057169.0,
+   "shares_outstanding": 189852307.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-09T22:16:01+09:00"
+  },
   {
    "id": "0001193125-26-452716",
    "company": "Mereo BioPharma Group plc",
@@ -15709,63 +15762,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T21:47:25+09:00"
-  },
-  {
-   "id": "0001792044-26-000053",
-   "company": "Viatris Inc",
-   "ticker": "VTRS",
-   "cik": 1792044,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 92,
-   "summary": "EX-99.1 2 exhibit991-3q26earningsrel.htm EX-99.1 Document Viatris Reports Third-Quarter 2026 Financial Results • Delivers Total Revenues of $3.75 Billion, U.S. GAAP Net Loss of $325 Million and Adjusted EBITDA of $1.20 Billion • Receives Regulatory Approval for RYZUMVI® for Presbyopia in the U.S. an",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000053/0001792044-26-000053-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000053/exhibit991-3q26earningsrel.htm",
-   "filed_at": "2026-11-05T07:45:57-05:00",
-   "filed_kst": "2026-11-05 21:45",
-   "price": 19.22,
-   "change": 1.59,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 19.22,
-     "change": 1.59
-    },
-    {
-     "date": "2026-11-03",
-     "close": 18.92,
-     "change": 1.34
-    },
-    {
-     "date": "2026-11-02",
-     "close": 18.67,
-     "change": -1.94
-    }
-   ],
-   "market_cap": 22075916406.0,
-   "shares_outstanding": 1148590864.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CANONSBURG, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T21:46:52+09:00"
   }
  ]
 }
