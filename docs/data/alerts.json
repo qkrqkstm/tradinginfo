@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-09T19:59:29+09:00",
+ "updated_at": "2026-11-09T20:04:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-124046",
+   "company": "Datavault AI Inc.",
+   "ticker": "DVLT",
+   "cik": 1682149,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "Pursuant to that certain Agreement and Plan of Merger (the “Merger Agreement”), by and among the Company, DVLT Merger Sub, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926124046/0001104659-26-124046-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926124046/tm2629197d1_ex99-1.htm",
+   "filed_at": "2026-11-06T21:44:45-05:00",
+   "filed_kst": "2026-11-07 11:44",
+   "price": 0.07,
+   "change": -3.14,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 0.07,
+     "change": -3.14
+    },
+    {
+     "date": "2026-11-06",
+     "close": 0.07,
+     "change": 16.67
+    },
+    {
+     "date": "2026-11-05",
+     "close": 0.06,
+     "change": -14.29
+    }
+   ],
+   "market_cap": 66481002.0,
+   "shares_outstanding": 949728605.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BEAVERTON, OR",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-09T20:03:27+09:00"
+  },
   {
    "id": "0001493152-26-050549",
    "company": "Pono Capital Four, Inc.",
@@ -15751,57 +15807,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-05T21:06:58+09:00"
-  },
-  {
-   "id": "0001193125-26-448536",
-   "company": "DTE ENERGY CO",
-   "ticker": "DTE",
-   "cik": 936340,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "Pursuant to the Purchase Agreement, Buyer has agreed to acquire from DTE all of the issued and outstanding equity interests in DTE Energy Resources, LLC (d/b/a DTE Vantage), a Delaware limited liability company and wholly owned subsidiary of DTE (“DTE Vantage”), for a purchase price of $2,970,672,57",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000119312526448536/0001193125-26-448536-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/936340/000119312526448536/d143691dex21.htm",
-   "filed_at": "2026-11-05T07:05:48-05:00",
-   "filed_kst": "2026-11-05 21:05",
-   "price": 137.53,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 137.53,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 137.53,
-     "change": 2.44
-    },
-    {
-     "date": "2026-11-03",
-     "close": 134.26,
-     "change": -1.17
-    }
-   ],
-   "market_cap": 28610133887.0,
-   "shares_outstanding": 208028313.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "MI",
-   "hq": "DETROIT, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T21:06:57+09:00"
   }
  ]
 }
