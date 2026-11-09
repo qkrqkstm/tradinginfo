@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-09T23:14:37+09:00",
+ "updated_at": "2026-11-09T23:19:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-124236",
+   "company": "Surgery Partners, Inc.",
+   "ticker": "SGRY",
+   "cik": 1638833,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 62,
+   "summary": "1 Surgery Partners and HealthSpan Partners Announce Amended Merger Agreement, Following Receipt of Unsolicited Proposal Revised transaction with HealthSpan Partners of $25 per share, representing an enterprise value of up to approximately $6.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926124236/0001104659-26-124236-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926124236/tm2629312d1_ex99-1.htm",
+   "filed_at": "2026-11-09T09:15:24-05:00",
+   "filed_kst": "2026-11-09 23:15",
+   "price": 23.2,
+   "change": 0.13,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 23.2,
+     "change": 0.13
+    },
+    {
+     "date": "2026-11-05",
+     "close": 23.17,
+     "change": 0.04
+    },
+    {
+     "date": "2026-11-04",
+     "close": 23.16,
+     "change": 0.13
+    }
+   ],
+   "market_cap": 3037303632.0,
+   "shares_outstanding": 130918260.0,
+   "industry": "Services-General Medical & Surgical Hospitals, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BRENTWOOD, TN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-09T23:16:03+09:00"
+  },
+  {
+   "id": "0001493152-26-050658",
+   "company": "REGENTIS BIOMATERIALS LTD.",
+   "ticker": "RGNT",
+   "cik": 1912966,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "GelrinC ® has CE Mark approval in the European Union and is now being evaluated in a pivotal U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1912966/000149315226050658/0001493152-26-050658-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1912966/000149315226050658/ex99-1.htm",
+   "filed_at": "2026-11-09T09:15:01-05:00",
+   "filed_kst": "2026-11-09 23:15",
+   "price": 1.19,
+   "change": 1.71,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 1.19,
+     "change": 1.71
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.17,
+     "change": -11.36
+    },
+    {
+     "date": "2026-11-04",
+     "close": 1.32,
+     "change": -3.65
+    }
+   ],
+   "market_cap": 6163460.0,
+   "shares_outstanding": 5179378.0,
+   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+   "state_of_incorporation": "Israel",
+   "hq": "OR AKIVA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-09T23:15:31+09:00"
+  },
   {
    "id": "0001193125-26-452778",
    "company": "Fox Corp",
@@ -15647,111 +15753,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-05T22:31:52+09:00"
-  },
-  {
-   "id": "0000918965-26-000052",
-   "company": "SCANSOURCE, INC.",
-   "ticker": "SCSC",
-   "cik": 918965,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "Acquisition of MicroAge On September 1, 2026, ScanSource completed the acquisition of MicroAge, a leading IT solutions integrator, managed services provider (MSP), and digital transformation partner, helping businesses design, implement, secure, manage, and optimize their IT environments.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/918965/000091896526000052/0000918965-26-000052-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/918965/000091896526000052/scscexhibit9919302026.htm",
-   "filed_at": "2026-11-05T08:30:57-05:00",
-   "filed_kst": "2026-11-05 22:30",
-   "price": 56.98,
-   "change": 0.42,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 56.98,
-     "change": 0.42
-    },
-    {
-     "date": "2026-11-03",
-     "close": 56.74,
-     "change": 0.42
-    },
-    {
-     "date": "2026-11-02",
-     "close": 56.5,
-     "change": -2.1
-    }
-   ],
-   "market_cap": 1147737428.0,
-   "shares_outstanding": 20142812.0,
-   "industry": "Wholesale-Computers & Peripheral Equipment & Software",
-   "state_of_incorporation": null,
-   "hq": "GREENVILLE, SC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:31:51+09:00"
-  },
-  {
-   "id": "0001213900-26-116133",
-   "company": "Axonex AI Group Ltd",
-   "ticker": "AXNX",
-   "cik": 1998560,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-3.1 2 ea031105001ex3-1.htm SIXTH AMENDED AND RESTATED MEMORANDUM AND ARTICLES OF ASSOCIATION Exhibit 3.1 Territory of the Virgin Islands The BVI Business Companies Act, 2004 Sixfth Amended and Restated memorandum and articles of association of Axonex AI Group Limited Incorporated as a BVI busines",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1998560/000121390026116133/0001213900-26-116133-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1998560/000121390026116133/ea031105001ex3-1.htm",
-   "filed_at": "2026-11-05T08:30:01-05:00",
-   "filed_kst": "2026-11-05 22:30",
-   "price": 0.99,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 0.99,
-     "change": -0.05
-    },
-    {
-     "date": "2026-11-04",
-     "close": 0.99,
-     "change": 6.23
-    },
-    {
-     "date": "2026-11-03",
-     "close": 0.93,
-     "change": -6.9
-    }
-   ],
-   "market_cap": 17832375.0,
-   "shares_outstanding": 18012500.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "LAI CHI KOK, KOWLOON",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T22:30:42+09:00"
   }
  ]
 }
