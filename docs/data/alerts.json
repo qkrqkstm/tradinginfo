@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-09T20:09:22+09:00",
+ "updated_at": "2026-11-09T20:14:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-117159",
+   "company": "Marti Technologies, Inc.",
+   "ticker": "MRT",
+   "cik": 1852767,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "Share Repurchase Program ● In April 2026, Marti announced a new $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1852767/000121390026117159/0001213900-26-117159-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852767/000121390026117159/ea031134001ex99-1.htm",
+   "filed_at": "2026-11-09T06:11:34-05:00",
+   "filed_kst": "2026-11-09 20:11",
+   "price": 2.07,
+   "change": 6.15,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 2.07,
+     "change": 6.15
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.95,
+     "change": -3.94
+    },
+    {
+     "date": "2026-11-04",
+     "close": 2.03,
+     "change": -0.98
+    }
+   ],
+   "market_cap": 178108443.0,
+   "shares_outstanding": 86042726.0,
+   "industry": "Services-Auto Rental & Leasing (No Drivers)",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GRAND CAYMAN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-09T20:12:38+09:00"
+  },
   {
    "id": "0001213900-26-117154",
    "company": "Scinai Immunotherapeutics Ltd.",
@@ -15732,61 +15784,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T21:07:20+09:00"
-  },
-  {
-   "id": "0001193125-26-448530",
-   "company": "FATE THERAPEUTICS INC",
-   "ticker": "FATE",
-   "cik": 1434316,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA",
-    "대형계약"
-   ],
-   "confidence": 71,
-   "summary": "The RECLAIM-LN trial is an open-label, single-arm study developed following interactions with the FDA under the Company’s Regenerative Medicine Advanced Therapy (RMAT) designation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1434316/000119312526448530/0001193125-26-448530-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1434316/000119312526448530/fate-ex99_1.htm",
-   "filed_at": "2026-11-05T07:04:01-05:00",
-   "filed_kst": "2026-11-05 21:04",
-   "price": 2.09,
-   "change": 2.45,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 2.09,
-     "change": 2.45
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.04,
-     "change": 1.49
-    },
-    {
-     "date": "2026-11-02",
-     "close": 2.01,
-     "change": -3.37
-    }
-   ],
-   "market_cap": 250424874.0,
-   "shares_outstanding": 119820514.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": null,
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T21:07:16+09:00"
   }
  ]
 }
