@@ -1,7 +1,107 @@
 {
- "updated_at": "2026-11-10T01:09:32+09:00",
+ "updated_at": "2026-11-10T01:14:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001648416-26-000143",
+   "company": "Ferrari N.V.",
+   "ticker": "RACE",
+   "cik": 1648416,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), November 9, 2026 – Ferrari N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000143/0001648416-26-000143-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000143/fnvbb091126prex.htm",
+   "filed_at": "2026-11-09T11:12:42-05:00",
+   "filed_kst": "2026-11-10 01:12",
+   "price": 417.31,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 417.31,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 417.31,
+     "change": 0.28
+    },
+    {
+     "date": "2026-11-06",
+     "close": 416.13,
+     "change": -1.48
+    }
+   ],
+   "market_cap": 77097141976.0,
+   "shares_outstanding": 184747890.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": "Netherlands",
+   "hq": "MARANELLO, L6",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T01:13:09+09:00"
+  },
+  {
+   "id": "0001193125-26-452941",
+   "company": "HONDA MOTOR CO LTD",
+   "ticker": "HMC",
+   "cik": 715153,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "6-K 1 d162935d6k.htm FORM 6-K Form 6-K No.1-7628 SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 FOR THE MONTH OF NOVEMBER 2026 COMMISSION FILE NUMBER: 1-07628 HONDA GIKEN ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715153/000119312526452941/0001193125-26-452941-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/715153/000119312526452941/d162935d6k.htm",
+   "filed_at": "2026-11-09T11:11:17-05:00",
+   "filed_kst": "2026-11-10 01:11",
+   "price": 35.72,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 35.72,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 35.72,
+     "change": -0.17
+    },
+    {
+     "date": "2026-11-06",
+     "close": 35.78,
+     "change": -1.32
+    }
+   ],
+   "market_cap": 61674501556.0,
+   "shares_outstanding": 1726609786.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": null,
+   "hq": "TOKYO, JAPAN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T01:12:06+09:00"
+  },
   {
    "id": "0001213900-26-117359",
    "company": "J-Long Group Ltd",
@@ -15611,112 +15711,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T23:08:35+09:00"
-  },
-  {
-   "id": "0001654954-26-009547",
-   "company": "Airship AI Holdings, Inc.",
-   "ticker": "AISP",
-   "cik": 1842566,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "“Looking ahead to the fourth quarter, our immediate priority remains executing against our approximately $28.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1842566/000165495426009547/0001654954-26-009547-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1842566/000165495426009547/airsp_ex991.htm",
-   "filed_at": "2026-11-05T09:05:49-05:00",
-   "filed_kst": "2026-11-05 23:05",
-   "price": 1.85,
-   "change": -9.76,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 1.85,
-     "change": -9.76
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.05,
-     "change": 1.99
-    },
-    {
-     "date": "2026-11-02",
-     "close": 2.01,
-     "change": -3.37
-    }
-   ],
-   "market_cap": 63713190.0,
-   "shares_outstanding": 34439562.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "REDMOND, WA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T23:08:31+09:00"
-  },
-  {
-   "id": "0001213900-26-116147",
-   "company": "CollPlant Biotechnologies Ltd",
-   "ticker": "CLGN",
-   "cik": 1631487,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 ea031104901ex99-1.htm PRESS RELEASE, DATED NOVEMBER 5, 2026 Exhibit 99.1 LightSolver Secures ~$1.8 Million Grant from Israel’s Innovation Authority to Advance its Laser Processing Unit (LPU) Government-backed R&D program to advance next-generation LPU hardware and expand the LPU Lab platfo",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1631487/000121390026116147/0001213900-26-116147-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1631487/000121390026116147/ea031104901ex99-1.htm",
-   "filed_at": "2026-11-05T08:55:38-05:00",
-   "filed_kst": "2026-11-05 22:55",
-   "price": 4.23,
-   "change": 2.92,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 4.23,
-     "change": 2.92
-    },
-    {
-     "date": "2026-11-03",
-     "close": 4.11,
-     "change": 0.74
-    },
-    {
-     "date": "2026-11-02",
-     "close": 4.08,
-     "change": -1.33
-    }
-   ],
-   "market_cap": 54156715.0,
-   "shares_outstanding": 12803006.0,
-   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
-   "state_of_incorporation": "Israel",
-   "hq": "REHOVOT, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:56:34+09:00"
   }
  ]
 }
