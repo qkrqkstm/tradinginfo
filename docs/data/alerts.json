@@ -1,7 +1,169 @@
 {
- "updated_at": "2026-11-10T06:54:20+09:00",
+ "updated_at": "2026-11-10T06:59:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001693736-26-000028",
+   "company": "EquipmentShare.com Inc",
+   "ticker": "EQPT",
+   "cik": 1693736,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Excluding stock-based compensation expense of $26 million related to the IPO Founders Awards, Adjusted Net Income increased in the third quarter by $40 million to $46 million and Adjusted Net Income increased by $118 million to $143 million on a TTM basis.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1693736/000169373626000028/0001693736-26-000028-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1693736/000169373626000028/a3q26earningsrelease.htm",
+   "filed_at": "2026-11-09T16:57:45-05:00",
+   "filed_kst": "2026-11-10 06:57",
+   "price": 16.21,
+   "change": 10.42,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 16.21,
+     "change": 10.42
+    },
+    {
+     "date": "2026-11-06",
+     "close": 14.68,
+     "change": 7.39
+    },
+    {
+     "date": "2026-11-05",
+     "close": 13.67,
+     "change": -9.35
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Equipment Rental & Leasing, NEC",
+   "state_of_incorporation": "TX",
+   "hq": "COLUMBIA, MO",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:58:37+09:00"
+  },
+  {
+   "id": "0002024218-26-000095",
+   "company": "Summit Midstream Corp",
+   "ticker": "SMC",
+   "cik": 2024218,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 72,
+   "summary": "Share Repurchase Program During the third quarter of 2026, SMC repurchased 7,007 shares of its common stock for approximately $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2024218/000202421826000095/0002024218-26-000095-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2024218/000202421826000095/smc3q2026earningsrelease.htm",
+   "filed_at": "2026-11-09T16:57:17-05:00",
+   "filed_kst": "2026-11-10 06:57",
+   "price": 27.96,
+   "change": 3.06,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 27.96,
+     "change": 3.06
+    },
+    {
+     "date": "2026-11-06",
+     "close": 27.13,
+     "change": 1.27
+    },
+    {
+     "date": "2026-11-05",
+     "close": 26.79,
+     "change": -7.37
+    }
+   ],
+   "market_cap": 297737233.0,
+   "shares_outstanding": 10648685.0,
+   "industry": "Natural Gas Transmission",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:58:04+09:00"
+  },
+  {
+   "id": "0001437749-26-035930",
+   "company": "TIDEWATER INC",
+   "ticker": "TDW",
+   "cik": 98222,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 82,
+   "summary": "9 million ● Closed the $500 million all-cash acquisition of Wilson Sons Ultratug Offshore ( “ WSUT ” ) Annual Guidance and Share Repurchase Program ● Updating 2026 revenue guidance range of $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/98222/000143774926035930/0001437749-26-035930-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/98222/000143774926035930/ex_999694.htm",
+   "filed_at": "2026-11-09T16:55:12-05:00",
+   "filed_kst": "2026-11-10 06:55",
+   "price": 71.06,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 71.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 71.06,
+     "change": 1.43
+    },
+    {
+     "date": "2026-11-06",
+     "close": 70.06,
+     "change": 1.42
+    }
+   ],
+   "market_cap": 3529157665.0,
+   "shares_outstanding": 49664476.0,
+   "industry": "Water Transportation",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:55:57+09:00"
+  },
   {
    "id": "0001213900-26-117580",
    "company": "JBS N.V.",
@@ -15601,166 +15763,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T06:10:35+09:00"
-  },
-  {
-   "id": "0001193125-26-449807",
-   "company": "Mobia Medical, Inc.",
-   "ticker": "MOBI",
-   "cik": 1489993,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "1 Mobia Medical Reports Third Quarter 2026 Financial Results Delivers revenue growth of 73% in the third quarter and raises full year 2026 revenue guidance Austin, Texas, November 5, 2026 — Mobia Medical, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1489993/000119312526449807/0001193125-26-449807-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1489993/000119312526449807/mobi-ex99_1.htm",
-   "filed_at": "2026-11-05T16:09:40-05:00",
-   "filed_kst": "2026-11-06 06:09",
-   "price": 11.28,
-   "change": 0.36,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 11.28,
-     "change": 0.36
-    },
-    {
-     "date": "2026-11-04",
-     "close": 11.24,
-     "change": 12.74
-    },
-    {
-     "date": "2026-11-03",
-     "close": 9.97,
-     "change": -0.99
-    }
-   ],
-   "market_cap": 375523563.0,
-   "shares_outstanding": 33291096.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "AUSTIN, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:10:32+09:00"
-  },
-  {
-   "id": "0001193125-26-449798",
-   "company": "Armada Acquisition Corp. III",
-   "ticker": "AACI",
-   "cik": 2092897,
-   "form": "425",
-   "items": [
-    "1.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A"
-   ],
-   "confidence": 68,
-   "summary": "425 1 d153670d425.htm 425 425 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or Section 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): October 31, 2026 ARMADA ACQUISITION CORP. III",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2092897/000119312526449798/0001193125-26-449798-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2092897/000119312526449798/d153670d425.htm",
-   "filed_at": "2026-11-05T16:08:23-05:00",
-   "filed_kst": "2026-11-06 06:08",
-   "price": 10.11,
-   "change": 0.15,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 10.1,
-     "change": 0.15
-    },
-    {
-     "date": "2026-11-04",
-     "close": 10.09,
-     "change": 0.1
-    },
-    {
-     "date": "2026-11-03",
-     "close": 10.08,
-     "change": -0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "CARMANA BAY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:09:41+09:00"
-  },
-  {
-   "id": "0001628280-26-071028",
-   "company": "Howard Hughes Holdings Inc.",
-   "ticker": "HHH",
-   "cik": 1981792,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "4 million loss associated with the consolidation of the Floreo joint venture.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1981792/000162828026071028/0001628280-26-071028-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1981792/000162828026071028/hhhearningsreleaseq32026.htm",
-   "filed_at": "2026-11-05T16:07:54-05:00",
-   "filed_kst": "2026-11-06 06:07",
-   "price": 78.16,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 78.16,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 78.16,
-     "change": -1.14
-    },
-    {
-     "date": "2026-11-04",
-     "close": 79.06,
-     "change": 3.62
-    }
-   ],
-   "market_cap": 4667796174.0,
-   "shares_outstanding": 59721036.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "DE",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:09:39+09:00"
   }
  ]
 }
