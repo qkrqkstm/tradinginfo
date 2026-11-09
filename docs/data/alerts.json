@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-09T23:44:46+09:00",
+ "updated_at": "2026-11-09T23:49:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001129928-26-000080",
+   "company": "ONCOLYTICS BIOTECH INC",
+   "ticker": "ONCY",
+   "cik": 1129928,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "The Company is advancing pelareorep in combination with chemotherapy and/or checkpoint inhibitors in metastatic gastrointestinal cancers, where pelareorep has received Fast Track designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000080/0001129928-26-000080-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000080/oncy-20261109.htm",
+   "filed_at": "2026-11-09T09:49:07-05:00",
+   "filed_kst": "2026-11-09 23:49",
+   "price": 0.44,
+   "change": 0.39,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 0.44,
+     "change": 0.39
+    },
+    {
+     "date": "2026-11-06",
+     "close": 0.44,
+     "change": -2.22
+    },
+    {
+     "date": "2026-11-05",
+     "close": 0.45,
+     "change": 7.14
+    }
+   ],
+   "market_cap": 56104622.0,
+   "shares_outstanding": 127510505.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-09T23:49:36+09:00"
+  },
   {
    "id": "0001104659-26-124236",
    "company": "Surgery Partners, Inc.",
@@ -15698,61 +15753,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T22:32:24+09:00"
-  },
-  {
-   "id": "0001104659-26-123088",
-   "company": "CION Investment Corp",
-   "ticker": "CION",
-   "cik": 1534254,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 2 tm2629026d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 CION INVESTMENT CORPORATION REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS Management Successfully Completes Deleveraging Strategy For Immediate Release NEW YORK, NY, November 5, 2026 — CION Investment Corporation (NYSE: CION) (“CION” or the “",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926123088/0001104659-26-123088-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926123088/tm2629026d1_ex99-1.htm",
-   "filed_at": "2026-11-05T08:30:52-05:00",
-   "filed_kst": "2026-11-05 22:30",
-   "price": 7.05,
-   "change": 3.22,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 7.05,
-     "change": 3.22
-    },
-    {
-     "date": "2026-11-03",
-     "close": 6.83,
-     "change": -2.71
-    },
-    {
-     "date": "2026-11-02",
-     "close": 7.02,
-     "change": 0.43
-    }
-   ],
-   "market_cap": 346879063.0,
-   "shares_outstanding": 49202704.0,
-   "industry": null,
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:31:52+09:00"
   }
  ]
 }
