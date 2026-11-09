@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-11-09T20:29:27+09:00",
+ "updated_at": "2026-11-09T20:34:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001326110-26-000091",
+   "company": "ImmunityBio, Inc.",
+   "ticker": "IBRX",
+   "cik": 1326110,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 68,
+   "summary": "The chemotherapy-free combination demonstrated a statistically significant improvement in efficacy compared with BCG alone in patients with carcinoma in situ (CIS), with or without papillary tumors.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000091/0001326110-26-000091-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000091/ibrx-20261198xkexhibit991.htm",
+   "filed_at": "2026-11-09T06:33:23-05:00",
+   "filed_kst": "2026-11-09 20:33",
+   "price": 8.63,
+   "change": 7.8,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 8.64,
+     "change": 7.8
+    },
+    {
+     "date": "2026-11-05",
+     "close": 8.01,
+     "change": -10.3
+    },
+    {
+     "date": "2026-11-04",
+     "close": 8.93,
+     "change": 7.72
+    }
+   ],
+   "market_cap": 9146387036.0,
+   "shares_outstanding": 1059836273.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-09T20:34:15+09:00"
+  },
+  {
+   "id": "0001767042-26-000076",
+   "company": "Kodiak Gas Services, Inc.",
+   "ticker": "KGS",
+   "cik": 1767042,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "Share Repurchase Program Extension On November 4, 2026, the Company's Board of Directors extended the expiration date of the Company's share repurchase program to December 31, 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000076/0001767042-26-000076-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000076/kgsq32026earningsrelease.htm",
+   "filed_at": "2026-11-09T06:32:12-05:00",
+   "filed_kst": "2026-11-09 20:32",
+   "price": 41.67,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 41.67,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "close": 41.67,
+     "change": 7.04
+    },
+    {
+     "date": "2026-11-05",
+     "close": 38.93,
+     "change": -5.65
+    }
+   ],
+   "market_cap": 4213004972.0,
+   "shares_outstanding": 101104031.0,
+   "industry": "Natural Gas Transmission",
+   "state_of_incorporation": "DE",
+   "hq": "THE WOODLANDS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-09T20:32:42+09:00"
+  },
   {
    "id": "0001213900-26-117159",
    "company": "Marti Technologies, Inc.",
@@ -15676,114 +15783,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T21:07:25+09:00"
-  },
-  {
-   "id": "0001062822-26-000124",
-   "company": "LEXICON PHARMACEUTICALS, INC.",
-   "ticker": "LXRX",
-   "cik": 1062822,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "파트너십",
-    "탑라인결과"
-   ],
-   "confidence": 71,
-   "summary": "1 LEXICON PHARMACEUTICALS REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS AND PROVIDES CLINICAL UPDATES Phase 3 SONATA-HCM study substantially overenrolled; top-line data expected Q1 2027 Positive STENO1 safety data strengthens benefit-risk profile for ZYNQUISTA® NDA resubmission Phase 1 clinical devel",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1062822/000106282226000124/0001062822-26-000124-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1062822/000106282226000124/pressreleaseearningsq311-0.htm",
-   "filed_at": "2026-11-05T07:03:15-05:00",
-   "filed_kst": "2026-11-05 21:03",
-   "price": 1.48,
-   "change": 1.37,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 1.48,
-     "change": 1.37
-    },
-    {
-     "date": "2026-11-03",
-     "close": 1.46,
-     "change": 1.39
-    },
-    {
-     "date": "2026-11-02",
-     "close": 1.44,
-     "change": 1.41
-    }
-   ],
-   "market_cap": 658534782.0,
-   "shares_outstanding": 444955934.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T21:07:22+09:00"
-  },
-  {
-   "id": "0001193125-26-448528",
-   "company": "NEXSTAR MEDIA GROUP, INC.",
-   "ticker": "NXST",
-   "cik": 1142417,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 • • • • • • • • • • • • • • • • • • • • • • • • • • THIRD QUARTER 2026 EARNINGS RELEASE Company and Business Highlights • Completed a multi-year affiliation agreement extending the FOX affiliation in 41 markets.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1142417/000119312526448528/0001193125-26-448528-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1142417/000119312526448528/nxst-ex99_1.htm",
-   "filed_at": "2026-11-05T07:03:21-05:00",
-   "filed_kst": "2026-11-05 21:03",
-   "price": 185.12,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 185.12,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 185.12,
-     "change": 3.67
-    },
-    {
-     "date": "2026-11-03",
-     "close": 178.56,
-     "change": 0.57
-    }
-   ],
-   "market_cap": 5703232681.0,
-   "shares_outstanding": 30808301.0,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": "DE",
-   "hq": "IRVING, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T21:07:20+09:00"
   }
  ]
 }
