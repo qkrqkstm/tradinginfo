@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-10T00:04:56+09:00",
+ "updated_at": "2026-11-10T00:09:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001650107-26-000145",
+   "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
+   "ticker": "CCEP",
+   "cik": 1650107,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "The repurchased ordinary shares will be cancelled.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000145/0001650107-26-000145-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000145/a20261109ccepform6-kweekly.htm",
+   "filed_at": "2026-11-09T10:06:16-05:00",
+   "filed_kst": "2026-11-10 00:06",
+   "price": 116.16,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 116.16,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 116.15,
+     "change": 0.02
+    },
+    {
+     "date": "2026-11-06",
+     "close": 116.13,
+     "change": -0.99
+    }
+   ],
+   "market_cap": 52165893764.0,
+   "shares_outstanding": 449086551.0,
+   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "UXBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T00:06:57+09:00"
+  },
   {
    "id": "0001628280-26-071932",
    "company": "HARMONY GOLD MINING CO LTD",
@@ -15697,60 +15747,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-05T22:36:13+09:00"
-  },
-  {
-   "id": "0001193125-26-448711",
-   "company": "Disc Medicine, Inc.",
-   "ticker": "IRON",
-   "cik": 1816736,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 75,
-   "summary": "1 Disc Medicine Reports Third Quarter 2026 Financial Results and Provides Business Update • Pivotal Phase 3 APOLLO trial of bitopertin in erythropoietic protoporphyria (EPP) successfully met all primary and secondary endpoints • Bitopertin NDA resubmission planned by end of 2026, with an FDA decisio",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526448711/0001193125-26-448711-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526448711/iron-ex99_1.htm",
-   "filed_at": "2026-11-05T08:32:36-05:00",
-   "filed_kst": "2026-11-05 22:32",
-   "price": 83.28,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 83.28,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 83.28,
-     "change": 2.61
-    },
-    {
-     "date": "2026-11-03",
-     "close": 81.16,
-     "change": 3.23
-    }
-   ],
-   "market_cap": 3197356048.0,
-   "shares_outstanding": 38392844.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "WATERTOWN, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T22:33:40+09:00"
   }
  ]
 }
