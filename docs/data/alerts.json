@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-10T00:34:49+09:00",
+ "updated_at": "2026-11-10T00:39:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001855612-26-000154",
+   "company": "Grab Holdings Ltd",
+   "ticker": "GRAB",
+   "cik": 1855612,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The joint development agreements contain binding development and funding obligations, but the operational terms of the joint venture entities and the terms of each party’s investment remain subject to definitive agreements and conditions specified therein.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000154/0001855612-26-000154-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000154/sbggrabsignjdastodevelopai.htm",
+   "filed_at": "2026-11-09T10:38:20-05:00",
+   "filed_kst": "2026-11-10 00:38",
+   "price": 3.46,
+   "change": 1.47,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 3.46,
+     "change": 1.47
+    },
+    {
+     "date": "2026-11-06",
+     "close": 3.41,
+     "change": -2.01
+    },
+    {
+     "date": "2026-11-05",
+     "close": 3.48,
+     "change": 3.57
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Singapore",
+   "hq": "SINGAPORE, U0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T00:38:59+09:00"
+  },
   {
    "id": "0001213900-26-117280",
    "company": "Inflection Point Acquisition Corp. VI",
@@ -15667,60 +15717,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-05T22:56:01+09:00"
-  },
-  {
-   "id": "0001493152-26-050073",
-   "company": "NextTrip, Inc.",
-   "ticker": "NTRP",
-   "cik": 788611,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Separately, NextTrip’s recently announced Canadian joint venture with The Travel Agent Next Door (“TTAND”) provides another avenue to connect JOURNY TV audiences with personalized travel planning.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226050073/0001493152-26-050073-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226050073/ex99-1.htm",
-   "filed_at": "2026-11-05T08:45:41-05:00",
-   "filed_kst": "2026-11-05 22:45",
-   "price": 1.19,
-   "change": 3.03,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 1.19,
-     "change": 3.03
-    },
-    {
-     "date": "2026-11-03",
-     "close": 1.15,
-     "change": 6.96
-    },
-    {
-     "date": "2026-11-02",
-     "close": 1.08,
-     "change": -14.3
-    }
-   ],
-   "market_cap": 18123581.0,
-   "shares_outstanding": 15229900.0,
-   "industry": "Transportation Services",
-   "state_of_incorporation": null,
-   "hq": "SUNRISE, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T22:46:33+09:00"
   }
  ]
 }
