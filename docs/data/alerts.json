@@ -1,7 +1,215 @@
 {
- "updated_at": "2026-11-10T06:29:14+09:00",
+ "updated_at": "2026-11-10T06:34:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-453697",
+   "company": "ARMSTRONG WORLD INDUSTRIES INC",
+   "ticker": "AWI",
+   "cik": 7431,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "6 billion in revenue in 2025, AWI has approximately 4,100 employees and a manufacturing network of 24 facilities, plus seven facilities dedicated to its WAVE joint venture.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/7431/000119312526453697/0001193125-26-453697-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/7431/000119312526453697/awi-ex99_2.htm",
+   "filed_at": "2026-11-09T16:30:24-05:00",
+   "filed_kst": "2026-11-10 06:30",
+   "price": 179.12,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 179.12,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 179.12,
+     "change": 4.61
+    },
+    {
+     "date": "2026-11-06",
+     "close": 171.23,
+     "change": 0.4
+    }
+   ],
+   "market_cap": 7493287989.0,
+   "shares_outstanding": 41833899.0,
+   "industry": "Plastics Products, NEC",
+   "state_of_incorporation": "PA",
+   "hq": "LANCASTER, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:32:18+09:00"
+  },
+  {
+   "id": "0001828791-26-000084",
+   "company": "Viant Technology Inc.",
+   "ticker": "DSP",
+   "cik": 1828791,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "EX-99.1 2 dsp-20261109xexx991.htm EX-99.1 Document Exhibit 99.1 Viant Technology Announces Third Quarter 2026 Financial Results Revenue increased 29% year-over-year Gross profit increased 30% year-over-year Contribution ex-TAC increased 27% year-over-year Adjusted EBITDA increased 24% year-over-year",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1828791/000182879126000084/0001828791-26-000084-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1828791/000182879126000084/dsp-20261109xexx991.htm",
+   "filed_at": "2026-11-09T16:30:24-05:00",
+   "filed_kst": "2026-11-10 06:30",
+   "price": 14.04,
+   "change": 9.3,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 14.04,
+     "change": 9.3
+    },
+    {
+     "date": "2026-11-06",
+     "close": 12.85,
+     "change": 1.54
+    },
+    {
+     "date": "2026-11-05",
+     "close": 12.65,
+     "change": -3.73
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "DE",
+   "hq": "IRVINE, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T06:32:13+09:00"
+  },
+  {
+   "id": "0001213900-26-117551",
+   "company": "LCI INDUSTRIES",
+   "ticker": "LCII",
+   "cik": 763744,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "We cannot complete the transactions contemplated by the merger agreement unless LCI stockholders vote to approve the LCI merger proposal.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000121390026117551/0001213900-26-117551-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000121390026117551/ea0311545-425_lci.htm",
+   "filed_at": "2026-11-09T16:30:24-05:00",
+   "filed_kst": "2026-11-10 06:30",
+   "price": 101.11,
+   "change": 3.37,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 101.11,
+     "change": 3.37
+    },
+    {
+     "date": "2026-11-06",
+     "close": 97.81,
+     "change": -4.58
+    },
+    {
+     "date": "2026-11-05",
+     "close": 102.51,
+     "change": -1.7
+    }
+   ],
+   "market_cap": 2458193903.0,
+   "shares_outstanding": 24312075.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:31:29+09:00"
+  },
+  {
+   "id": "0001493152-26-050734",
+   "company": "Diginex Ltd",
+   "ticker": "DGNX",
+   "cik": 2010499,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 Exhibit 99.1 Diginex Announces Extension of Long Stop Date for Proposed Acquisition of Resulticks and Convenes Extraordinary General Meeting ● Long Stop Date extended to 19 November 2026 ● EGM to consider increase in authorized share capital and 10-for-1 share consolidat",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2010499/000149315226050734/0001493152-26-050734-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2010499/000149315226050734/ex99-1.htm",
+   "filed_at": "2026-11-09T16:30:13-05:00",
+   "filed_kst": "2026-11-10 06:30",
+   "price": 1.15,
+   "change": -2.54,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 1.15,
+     "change": -2.54
+    },
+    {
+     "date": "2026-11-06",
+     "close": 1.18,
+     "change": 2.61
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.15,
+     "change": -13.53
+    }
+   ],
+   "market_cap": 33499649.0,
+   "shares_outstanding": 29130130.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:31:27+09:00"
+  },
   {
    "id": "0001193125-26-453670",
    "company": "Trevi Therapeutics, Inc.",
@@ -15549,222 +15757,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T06:09:25+09:00"
-  },
-  {
-   "id": "0001628280-26-071035",
-   "company": "FIGS, Inc.",
-   "ticker": "FIGS",
-   "cik": 1846576,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "With record cash, cash equivalents and short-term investments of just over $330 million, we continued to return value to shareholders through our recently expanded share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1846576/000162828026071035/0001628280-26-071035-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1846576/000162828026071035/figs-q32026xearningsreleas.htm",
-   "filed_at": "2026-11-05T16:08:28-05:00",
-   "filed_kst": "2026-11-06 06:08",
-   "price": 20.05,
-   "change": -8.61,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 20.05,
-     "change": -8.61
-    },
-    {
-     "date": "2026-11-04",
-     "close": 21.94,
-     "change": 5.38
-    },
-    {
-     "date": "2026-11-03",
-     "close": 20.82,
-     "change": -2.21
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
-   "state_of_incorporation": "DE",
-   "hq": "SANTA MONICA, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:09:23+09:00"
-  },
-  {
-   "id": "0001576280-26-000043",
-   "company": "Guardant Health, Inc.",
-   "ticker": "GH",
-   "cik": 1576280,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 73,
-   "summary": "Food and Drug Administration (FDA) approval and CE-marking in Europe for Guardant360 CDx as a companion diagnostic for AstraZeneca’s ETCAMAH (camizestrant), the first FDA approval of a liquid biopsy companion diagnostic for longitudinal testing in breast cancer • Received FDA approval for Guardant36",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000043/0001576280-26-000043-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1576280/000157628026000043/gh-09302026xexhibit991.htm",
-   "filed_at": "2026-11-05T16:08:46-05:00",
-   "filed_kst": "2026-11-06 06:08",
-   "price": 153.43,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 153.43,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 153.43,
-     "change": -8.99
-    },
-    {
-     "date": "2026-11-04",
-     "close": 168.58,
-     "change": -3.67
-    }
-   ],
-   "market_cap": 20589718363.0,
-   "shares_outstanding": 134196170.0,
-   "industry": "Services-Medical Laboratories",
-   "state_of_incorporation": "DE",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:09:19+09:00"
-  },
-  {
-   "id": "0001563190-26-000175",
-   "company": "Compass, Inc.",
-   "ticker": "COMP",
-   "cik": 1563190,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "● Mortgage: Funded loan volume across the Company's mortgage joint ventures, OriginPoint and Guaranteed Rate Affinity, was $3.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1563190/000156319026000175/0001563190-26-000175-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1563190/000156319026000175/exhibit9918-k3q26pr.htm",
-   "filed_at": "2026-11-05T16:07:19-05:00",
-   "filed_kst": "2026-11-06 06:07",
-   "price": 9.21,
-   "change": -8.27,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 9.21,
-     "change": -8.27
-    },
-    {
-     "date": "2026-11-04",
-     "close": 10.04,
-     "change": 7.73
-    },
-    {
-     "date": "2026-11-03",
-     "close": 9.32,
-     "change": -1.06
-    }
-   ],
-   "market_cap": 6976779434.0,
-   "shares_outstanding": 757522197.0,
-   "industry": "Real Estate Agents & Managers (For Others)",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:08:42+09:00"
-  },
-  {
-   "id": "0001559053-26-000030",
-   "company": "PROTHENA CORP PUBLIC LTD CO",
-   "ticker": "PRTA",
-   "cik": 1559053,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "자사주매입",
-    "FDA"
-   ],
-   "confidence": 70,
-   "summary": "EX-99.1 2 exhibit991q32026earningsre.htm EX-99.1 Document Exhibit 99.1 PRESS RELEASE Prothena Reports Third Quarter 2026 Financial Results an d Business Highlights • Net cash used in operating and investing activities was $12.0 million in the third quarter and net cash used in operating and investin",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1559053/000155905326000030/0001559053-26-000030-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1559053/000155905326000030/exhibit991q32026earningsre.htm",
-   "filed_at": "2026-11-05T16:07:27-05:00",
-   "filed_kst": "2026-11-06 06:07",
-   "price": 7.89,
-   "change": -5.96,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 7.89,
-     "change": -5.96
-    },
-    {
-     "date": "2026-11-04",
-     "close": 8.39,
-     "change": 2.19
-    },
-    {
-     "date": "2026-11-03",
-     "close": 8.21,
-     "change": -0.97
-    }
-   ],
-   "market_cap": 405048725.0,
-   "shares_outstanding": 51336974.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Ireland",
-   "hq": "DUBLIN 2, L2",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:08:40+09:00"
   }
  ]
 }
