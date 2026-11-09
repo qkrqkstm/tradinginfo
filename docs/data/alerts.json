@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-09T21:09:12+09:00",
+ "updated_at": "2026-11-09T21:14:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001764013-26-000121",
+   "company": "Immunovant, Inc.",
+   "ticker": "IMVT",
+   "cik": 1764013,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "1 Immunovant Provides Corporate Updates and Reports Financial Results for the Quarter Ended September 30, 2026 • IMVT-1402 600 mg met the primary endpoint of ACR20 response at Week 28 (92.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000121/0001764013-26-000121-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000121/exhibit9912026119.htm",
+   "filed_at": "2026-11-09T07:09:17-05:00",
+   "filed_kst": "2026-11-09 21:09",
+   "price": 30.53,
+   "change": 7.54,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 30.53,
+     "change": 7.54
+    },
+    {
+     "date": "2026-11-05",
+     "close": 28.39,
+     "change": -5.05
+    },
+    {
+     "date": "2026-11-04",
+     "close": 29.9,
+     "change": 2.96
+    }
+   ],
+   "market_cap": 6306053381.0,
+   "shares_outstanding": 206552682.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "DURHAM, NC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-09T21:10:31+09:00"
+  },
   {
    "id": "0001104659-26-124151",
    "company": "OCULAR THERAPEUTIX, INC",
@@ -15715,58 +15769,6 @@
     "Large Accelerated"
    ],
    "detected_at": "2026-11-05T21:20:40+09:00"
-  },
-  {
-   "id": "0001232384-26-000060",
-   "company": "TC ENERGY CORP",
-   "ticker": "TRP",
-   "cik": 1232384,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "가이던스상향"
-   ],
-   "confidence": 70,
-   "summary": "◦ Approved the Coastal GasLink Phase 2 Expansion following a positive final investment decision by LNG Canada and its joint venture participants.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1232384/000123238426000060/0001232384-26-000060-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1232384/000123238426000060/trp-09302026xfinstmts.htm",
-   "filed_at": "2026-11-05T07:19:25-05:00",
-   "filed_kst": "2026-11-05 21:19",
-   "price": 62.61,
-   "change": -1.29,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 62.61,
-     "change": -1.29
-    },
-    {
-     "date": "2026-11-03",
-     "close": 63.43,
-     "change": -0.31
-    },
-    {
-     "date": "2026-11-02",
-     "close": 63.63,
-     "change": -1.35
-    }
-   ],
-   "market_cap": 65166689868.0,
-   "shares_outstanding": 1040835168.0,
-   "industry": "Natural Gas Transmission",
-   "state_of_incorporation": "Alberta, Canada",
-   "hq": "CALGARY ALBERTA, A0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-05T21:20:38+09:00"
   }
  ]
 }
