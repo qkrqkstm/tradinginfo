@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-10T06:34:27+09:00",
+ "updated_at": "2026-11-10T06:39:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-072263",
+   "company": "Ranger Energy Services, Inc.",
+   "ticker": "RNGR",
+   "cik": 1699039,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 68,
+   "summary": "Since the inception of the share repurchase program in 2023 through the end of the third quarter of 2026, the Company has repurchased a total of 4,783,900 shares, for a total value of $54.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1699039/000162828026072263/0001628280-26-072263-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1699039/000162828026072263/rngr-093026ex991earningsre.htm",
+   "filed_at": "2026-11-09T16:34:21-05:00",
+   "filed_kst": "2026-11-10 06:34",
+   "price": 12.47,
+   "change": -0.4,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 12.47,
+     "change": -0.4
+    },
+    {
+     "date": "2026-11-06",
+     "close": 12.52,
+     "change": -1.11
+    },
+    {
+     "date": "2026-11-05",
+     "close": 12.66,
+     "change": -6.71
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Oil & Gas Field Services, NEC",
+   "state_of_incorporation": "TX",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T06:35:26+09:00"
+  },
   {
    "id": "0001193125-26-453697",
    "company": "ARMSTRONG WORLD INDUSTRIES INC",
@@ -15707,56 +15763,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T06:09:29+09:00"
-  },
-  {
-   "id": "0001104659-26-123327",
-   "company": "Willdan Group, Inc.",
-   "ticker": "WLDN",
-   "cik": 1370450,
-   "form": "8-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "0 million of borrowings under its existing Revolving Credit Facility and $250.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926123327/0001104659-26-123327-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370450/000110465926123327/wldn-ex99d1.htm",
-   "filed_at": "2026-11-05T16:08:27-05:00",
-   "filed_kst": "2026-11-06 06:08",
-   "price": 70.85,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 70.85,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 70.85,
-     "change": -4.51
-    },
-    {
-     "date": "2026-11-04",
-     "close": 74.2,
-     "change": -0.59
-    }
-   ],
-   "market_cap": 1079193647.0,
-   "shares_outstanding": 15232091.0,
-   "industry": "Services-Engineering Services",
-   "state_of_incorporation": "DE",
-   "hq": "ANAHEIM, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:09:25+09:00"
   }
  ]
 }
