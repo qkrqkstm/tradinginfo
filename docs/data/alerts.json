@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-09T21:14:39+09:00",
+ "updated_at": "2026-11-09T21:19:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-117193",
+   "company": "FACT II Acquisition Corp.",
+   "ticker": "FACT",
+   "cik": 2028935,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "If, at any time after the public announcement of a definitive agreement for a Business Combination (a “Business Combination Agreement”), the VWAP of the Public Warrants exceeds $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2028935/000121390026117193/0001213900-26-117193-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028935/000121390026117193/ea031143201ex10-1.htm",
+   "filed_at": "2026-11-09T07:17:37-05:00",
+   "filed_kst": "2026-11-09 21:17",
+   "price": 10.81,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 10.81,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "close": 10.81,
+     "change": 0.46
+    },
+    {
+     "date": "2026-11-04",
+     "close": 10.76,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-09T21:18:39+09:00"
+  },
+  {
+   "id": "0001635088-26-000130",
+   "company": "Roivant Sciences Ltd.",
+   "ticker": "ROIV",
+   "cik": 1635088,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 90,
+   "summary": "0 million in its first 5 weeks of launch following FDA approval in August 2026 • IMVT-1402 600 mg met the primary endpoint of ACR20 response at Week 28 (92.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1635088/000163508826000130/0001635088-26-000130-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1635088/000163508826000130/q2fy2026roivantearningsrel.htm",
+   "filed_at": "2026-11-09T07:17:04-05:00",
+   "filed_kst": "2026-11-09 21:17",
+   "price": 38.88,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 38.88,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-06",
+     "close": 38.88,
+     "change": 6.17
+    },
+    {
+     "date": "2026-11-05",
+     "close": 36.62,
+     "change": -4.21
+    }
+   ],
+   "market_cap": 28083918823.0,
+   "shares_outstanding": 722323015.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Bermuda",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-09T21:17:36+09:00"
+  },
   {
    "id": "0001764013-26-000121",
    "company": "Immunovant, Inc.",
@@ -15664,111 +15769,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-05T21:23:01+09:00"
-  },
-  {
-   "id": "0001104659-26-123044",
-   "company": "Black Spade Acquisition III Co",
-   "ticker": "BIII",
-   "cik": 2087087,
-   "form": "425",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "First Amendment to Business Combination Agreement As previously disclosed in a Current Report on Form 8-K filed with the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2087087/000110465926123044/0001104659-26-123044-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2087087/000110465926123044/tm2629017d1_8k.htm",
-   "filed_at": "2026-11-05T07:20:54-05:00",
-   "filed_kst": "2026-11-05 21:20",
-   "price": 10.11,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 10.11,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 10.11,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 10.11,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Communications Services, NEC",
-   "state_of_incorporation": "Hong Kong",
-   "hq": "CENTRAL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T21:22:28+09:00"
-  },
-  {
-   "id": "0001232384-26-000060",
-   "company": "TRANSCANADA PIPELINES LTD",
-   "ticker": "TCPA",
-   "cik": 99070,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "가이던스상향"
-   ],
-   "confidence": 70,
-   "summary": "◦ Approved the Coastal GasLink Phase 2 Expansion following a positive final investment decision by LNG Canada and its joint venture participants.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/99070/000123238426000060/0001232384-26-000060-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/99070/000123238426000060/trp-09302026xfinstmts.htm",
-   "filed_at": "2026-11-05T07:19:25-05:00",
-   "filed_kst": "2026-11-05 21:19",
-   "price": 21.12,
-   "change": 5.1,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 21.12,
-     "change": 5.1
-    },
-    {
-     "date": "2026-11-03",
-     "close": 20.1,
-     "change": 0.5
-    },
-    {
-     "date": "2026-11-02",
-     "close": 20.0,
-     "change": 0.65
-    }
-   ],
-   "market_cap": 18411585900.0,
-   "shares_outstanding": 871760696.0,
-   "industry": "Natural Gas Transmission",
-   "state_of_incorporation": null,
-   "hq": "CALGARY ALBERTA, A0",
-   "entity_category": [
-    "Large Accelerated"
-   ],
-   "detected_at": "2026-11-05T21:20:40+09:00"
   }
  ]
 }
