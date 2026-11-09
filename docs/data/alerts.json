@@ -1,7 +1,116 @@
 {
- "updated_at": "2026-11-10T06:49:13+09:00",
+ "updated_at": "2026-11-10T06:54:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-117580",
+   "company": "JBS N.V.",
+   "ticker": "JBS",
+   "cik": 1791942,
+   "form": "8-K",
+   "items": [
+    "3.02",
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "has agreed to acquire Flora for R$2.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1791942/000121390026117580/0001213900-26-117580-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1791942/000121390026117580/ea031148601ex99-2.htm",
+   "filed_at": "2026-11-09T16:52:45-05:00",
+   "filed_kst": "2026-11-10 06:52",
+   "price": 13.12,
+   "change": 5.13,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 13.12,
+     "change": 5.13
+    },
+    {
+     "date": "2026-11-06",
+     "close": 12.48,
+     "change": -2.5
+    },
+    {
+     "date": "2026-11-05",
+     "close": 12.8,
+     "change": -1.23
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Meat Packing Plants",
+   "state_of_incorporation": "Netherlands",
+   "hq": "AMSTELVEEN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T06:53:47+09:00"
+  },
+  {
+   "id": "0001628280-26-072288",
+   "company": "Elmet Group Co.",
+   "ticker": "ELMT",
+   "cik": 2101698,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 61,
+   "summary": "EX-99.1 2 elmt-2026102xexx991.htm EX-99.1 Document Exhibit 99.1 The Elmet Group Co. Reports Third Quarter 2026 Results Continued demand accelerating in Aerospace, Defense & Government markets Revenue increased over 55%, with over 960 basis points of gross profit margin expansion to 31.3% driving adj",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2101698/000162828026072288/0001628280-26-072288-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2101698/000162828026072288/elmt-2026102xexx991.htm",
+   "filed_at": "2026-11-09T16:50:08-05:00",
+   "filed_kst": "2026-11-10 06:50",
+   "price": 21.99,
+   "change": 12.08,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 21.99,
+     "change": 12.08
+    },
+    {
+     "date": "2026-11-06",
+     "close": 19.62,
+     "change": 13.81
+    },
+    {
+     "date": "2026-11-05",
+     "close": 17.24,
+     "change": -14.36
+    }
+   ],
+   "market_cap": 674234115.0,
+   "shares_outstanding": 30660942.0,
+   "industry": "Miscellaneous Fabricated Metal Products",
+   "state_of_incorporation": "DE",
+   "hq": "PORTLAND, ME",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T06:50:33+09:00"
+  },
   {
    "id": "0001104659-26-124550",
    "company": "Forge Nano Holdings, Inc.",
@@ -15652,112 +15761,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T06:09:39+09:00"
-  },
-  {
-   "id": "0001619856-26-000060",
-   "company": "Caribou Biosciences, Inc.",
-   "ticker": "CRBU",
-   "cik": 1619856,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 60,
-   "summary": "The FDA granted vispa-cel Regenerative Medicine Advanced Therapy (RMAT), Fast Track, and Orphan Drug designations for B-NHL.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1619856/000161985626000060/0001619856-26-000060-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1619856/000161985626000060/crbu-20261105xexx991.htm",
-   "filed_at": "2026-11-05T16:07:55-05:00",
-   "filed_kst": "2026-11-06 06:07",
-   "price": 0.41,
-   "change": -7.14,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 0.41,
-     "change": -7.14
-    },
-    {
-     "date": "2026-11-04",
-     "close": 0.44,
-     "change": -3.27
-    },
-    {
-     "date": "2026-11-03",
-     "close": 0.46,
-     "change": 4.32
-    }
-   ],
-   "market_cap": 43955080.0,
-   "shares_outstanding": 107207513.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "BERKELEY, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:09:37+09:00"
-  },
-  {
-   "id": "0001193125-26-449791",
-   "company": "Sana Biotechnology, Inc.",
-   "ticker": "SANA",
-   "cik": 1770121,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 sana-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 Sana Biotechnology Reports Third Quarter 2026 Financial Results and Business Updates Continued progress toward starting SC451 Phase 1/2 trial in type 1 diabetes Continued progress toward starting clinical study for SG293 in non-Hodgkin lymphoma ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1770121/000119312526449791/0001193125-26-449791-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1770121/000119312526449791/sana-ex99_1.htm",
-   "filed_at": "2026-11-05T16:08:00-05:00",
-   "filed_kst": "2026-11-06 06:08",
-   "price": 2.34,
-   "change": -8.59,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 2.34,
-     "change": -8.59
-    },
-    {
-     "date": "2026-11-04",
-     "close": 2.56,
-     "change": 4.92
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.44,
-     "change": 1.67
-    }
-   ],
-   "market_cap": 700503891.0,
-   "shares_outstanding": 299360637.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SEATTLE, WA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:09:35+09:00"
   }
  ]
 }
