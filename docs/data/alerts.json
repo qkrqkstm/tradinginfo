@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-09T20:34:15+09:00",
+ "updated_at": "2026-11-09T20:39:03+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-050609",
+   "company": "ABEONA THERAPEUTICS INC.",
+   "ticker": "ABEO",
+   "cik": 318306,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 67,
+   "summary": "Ellodi is also eligible to receive payments of $30 million upon FDA approval of ABO-801 and up to an additional $30 million upon achievement of specified sales milestones.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/318306/000149315226050609/0001493152-26-050609-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/318306/000149315226050609/ex99-1.htm",
+   "filed_at": "2026-11-09T06:35:36-05:00",
+   "filed_kst": "2026-11-09 20:35",
+   "price": 4.17,
+   "change": 6.65,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 4.17,
+     "change": 6.65
+    },
+    {
+     "date": "2026-11-05",
+     "close": 3.91,
+     "change": -7.35
+    },
+    {
+     "date": "2026-11-04",
+     "close": 4.22,
+     "change": -0.71
+    }
+   ],
+   "market_cap": 238457351.0,
+   "shares_outstanding": 57184017.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CLEVELAND, OH",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-09T20:36:28+09:00"
+  },
   {
    "id": "0001326110-26-000091",
    "company": "ImmunityBio, Inc.",
@@ -15729,60 +15785,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-05T21:07:26+09:00"
-  },
-  {
-   "id": "0001193125-26-448527",
-   "company": "Monte Rosa Therapeutics, Inc.",
-   "ticker": "GLUE",
-   "cik": 1826457,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "파트너십",
-    "임상통과"
-   ],
-   "confidence": 70,
-   "summary": "” RECENT HIGHLIGHTS MRT-8102, NEK7-directed MGD for inflammatory diseases driven by NEK7/NLRP3 and IL-1 • In October, Monte Rosa reported positive results from GFORCE-1 (NCT07119125), a Phase 1 study of MRT-8102 in 108 obese subjects with elevated cardiovascular disease risk.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526448527/0001193125-26-448527-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526448527/glue-ex99_1.htm",
-   "filed_at": "2026-11-05T07:02:56-05:00",
-   "filed_kst": "2026-11-05 21:02",
-   "price": 10.82,
-   "change": 3.94,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 10.82,
-     "change": 3.94
-    },
-    {
-     "date": "2026-11-03",
-     "close": 10.41,
-     "change": -2.07
-    },
-    {
-     "date": "2026-11-02",
-     "close": 10.63,
-     "change": -1.21
-    }
-   ],
-   "market_cap": 923090999.0,
-   "shares_outstanding": 85313401.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T21:07:25+09:00"
   }
  ]
 }
