@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-09T23:59:30+09:00",
+ "updated_at": "2026-11-10T00:04:56+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-071932",
+   "company": "HARMONY GOLD MINING CO LTD",
+   "ticker": "HMY",
+   "cik": 1023514,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "Harmony completed the acquisition of CSA on 24 October 2025, as a result, there is no comparable figure for Q1FY26.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1023514/000162828026071932/0001628280-26-071932-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1023514/000162828026071932/a6k_fy27xq1-operationalu.htm",
+   "filed_at": "2026-11-09T10:01:31-05:00",
+   "filed_kst": "2026-11-10 00:01",
+   "price": 17.43,
+   "change": 1.51,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 17.43,
+     "change": 1.51
+    },
+    {
+     "date": "2026-11-06",
+     "close": 17.17,
+     "change": 1.6
+    },
+    {
+     "date": "2026-11-05",
+     "close": 16.9,
+     "change": 2.99
+    }
+   ],
+   "market_cap": 11064001429.0,
+   "shares_outstanding": 634767724.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": null,
+   "hq": "RANDFONTEIN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T00:02:22+09:00"
+  },
   {
    "id": "0001129928-26-000080",
    "company": "ONCOLYTICS BIOTECH INC",
@@ -15700,59 +15751,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T22:33:40+09:00"
-  },
-  {
-   "id": "0000950142-26-002954",
-   "company": "Forge Nano Holdings, Inc.",
-   "ticker": "NANO",
-   "cik": 2101833,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(NASDAQ: NANO, NANOW) (“Forge Nano” or the “Company”), a semiconductor equipment and advanced materials company whose Atomic Layer Deposition (ALD) technology serves AI-era chip manufacturing and defense battery applications, today announced that it has completed the acquisition of HZO, Inc.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2101833/000095014226002954/0000950142-26-002954-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2101833/000095014226002954/eh260851461_ex9901.htm",
-   "filed_at": "2026-11-05T08:31:41-05:00",
-   "filed_kst": "2026-11-05 22:31",
-   "price": 4.14,
-   "change": 10.4,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 4.14,
-     "change": 10.4
-    },
-    {
-     "date": "2026-11-03",
-     "close": 3.75,
-     "change": 8.38
-    },
-    {
-     "date": "2026-11-02",
-     "close": 3.46,
-     "change": -16.02
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Special Industry Machinery, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "THORNTON, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-05T22:32:24+09:00"
   }
  ]
 }
