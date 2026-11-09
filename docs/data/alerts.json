@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-09T22:19:08+09:00",
+ "updated_at": "2026-11-09T22:24:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000932787-26-000096",
+   "company": "STMicroelectronics N.V.",
+   "ticker": "STM",
+   "cik": 932787,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "PR N°C3422C STMicroelectronics announces status of common share repurchase program Disclosure of Transactions in Own Shares – Period from November 2, 2026 to November 6, 2026 AMSTERDAM – November 9, 2026 -- STMicroelectronics N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000096/0000932787-26-000096-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000096/c3422c-nov92026xdisclosure.htm",
+   "filed_at": "2026-11-09T08:21:18-05:00",
+   "filed_kst": "2026-11-09 22:21",
+   "price": 41.72,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 41.72,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-06",
+     "close": 41.72,
+     "change": 4.43
+    },
+    {
+     "date": "2026-11-05",
+     "close": 39.95,
+     "change": -12.39
+    }
+   ],
+   "market_cap": 37079407301.0,
+   "shares_outstanding": 888768152.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "Netherlands",
+   "hq": "SCHIPHOL AIRPORT, P7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-09T22:22:05+09:00"
+  },
+  {
+   "id": "0001404644-26-000064",
+   "company": "Neurogene Inc.",
+   "ticker": "NGNE",
+   "cik": 1404644,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "NGN-401 has received Breakthrough Therapy, Regenerative Medicine Advanced Therapy, Fast Track, Orphan Drug and Rare Pediatric Disease designations and selection for the START Pilot Program from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1404644/000140464426000064/0001404644-26-000064-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1404644/000140464426000064/a202611_ngnecorporatepre.htm",
+   "filed_at": "2026-11-09T08:19:39-05:00",
+   "filed_kst": "2026-11-09 22:19",
+   "price": 25.31,
+   "change": -1.33,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 25.31,
+     "change": -1.33
+    },
+    {
+     "date": "2026-11-05",
+     "close": 25.65,
+     "change": -7.0
+    },
+    {
+     "date": "2026-11-04",
+     "close": 27.58,
+     "change": 3.41
+    }
+   ],
+   "market_cap": 506488078.0,
+   "shares_outstanding": 20011382.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-09T22:20:32+09:00"
+  },
   {
    "id": "0001193125-26-452721",
    "company": "HERON THERAPEUTICS, INC. /DE/",
@@ -15657,111 +15762,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T21:53:26+09:00"
-  },
-  {
-   "id": "0002104052-26-000141",
-   "company": "Enviri Corp",
-   "ticker": "NVRI",
-   "cik": 2104052,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "EX-99.1 2 pressreleasefinancialstate.htm EX-99.1 Document Exhibit 99.1 Investor Contact Media Contact David Martin Karen Tognarelli +1.267.946.1407 +1.717.480.6145 dmartin@enviri.com ktognarelli@enviri.com FOR IMMEDIATE RELEASE Enviri Corporation Reports Third Quarter 2026 Results • Revenues from Co",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2104052/000210405226000141/0002104052-26-000141-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2104052/000210405226000141/pressreleasefinancialstate.htm",
-   "filed_at": "2026-11-05T07:47:09-05:00",
-   "filed_kst": "2026-11-05 21:47",
-   "price": 20.51,
-   "change": 7.78,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 20.51,
-     "change": 7.78
-    },
-    {
-     "date": "2026-11-03",
-     "close": 19.03,
-     "change": 5.84
-    },
-    {
-     "date": "2026-11-02",
-     "close": 17.98,
-     "change": -2.39
-    }
-   ],
-   "market_cap": 578179341.0,
-   "shares_outstanding": 28190119.0,
-   "industry": "Refuse Systems",
-   "state_of_incorporation": "DE",
-   "hq": "PHILADELPHIA, PA",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-05T21:47:57+09:00"
-  },
-  {
-   "id": "0001171843-26-007146",
-   "company": "Himax Technologies, Inc.",
-   "ticker": "HIMX",
-   "cik": 1342338,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 59,
-   "summary": "4 million for the immediately vested portion of this year’s award and $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1342338/000117184326007146/0001171843-26-007146-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1342338/000117184326007146/exh_991.htm",
-   "filed_at": "2026-11-05T07:47:04-05:00",
-   "filed_kst": "2026-11-05 21:47",
-   "price": 10.44,
-   "change": -2.43,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 10.44,
-     "change": -2.43
-    },
-    {
-     "date": "2026-11-03",
-     "close": 10.7,
-     "change": 2.39
-    },
-    {
-     "date": "2026-11-02",
-     "close": 10.45,
-     "change": -3.86
-    }
-   ],
-   "market_cap": 3642013084.0,
-   "shares_outstanding": 348851828.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "TAIWAN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T21:47:25+09:00"
   }
  ]
 }
