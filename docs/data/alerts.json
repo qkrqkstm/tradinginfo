@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-11-09T22:24:40+09:00",
+ "updated_at": "2026-11-09T22:29:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-050643",
+   "company": "Bradbury Capital Inc.",
+   "ticker": "BBCI",
+   "cik": 1986694,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 2 ex10-1.htm EX-10.1 Exhibit 10.1 BRADBURY CAPITAL INC. DIRECTOR RETAINER AGREEMENT THIS DIRECTOR RETAINER AGREEMENT (“Agreement”) is entered into by and between Bradbury Capital Inc., a Cayman Islands exempted company (“Corporation”), and Say Leong Lim (“Director”) on November 9, 2026. WHER",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1986694/000149315226050643/0001493152-26-050643-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1986694/000149315226050643/ex10-1.htm",
+   "filed_at": "2026-11-09T08:28:01-05:00",
+   "filed_kst": "2026-11-09 22:28",
+   "price": 1.47,
+   "change": 27.83,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 1.47,
+     "change": 27.83
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.15,
+     "change": -28.13
+    },
+    {
+     "date": "2026-11-04",
+     "close": 1.6,
+     "change": 3.23
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": null,
+   "hq": "KUALA LUMPUR",
+   "entity_category": null,
+   "detected_at": "2026-11-09T22:28:30+09:00"
+  },
   {
    "id": "0000932787-26-000096",
    "company": "STMicroelectronics N.V.",
@@ -15708,60 +15756,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-05T21:55:26+09:00"
-  },
-  {
-   "id": "0000076334-26-000170",
-   "company": "Parker-Hannifin Corp",
-   "ticker": "PH",
-   "cik": 76334,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 68,
-   "summary": "We are pleased to have completed the acquisition of Filtration Group Corporation, significantly expanding our filtration offering and aftermarket business and are excited to welcome these talented team members to Parker.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/76334/000007633426000170/0000076334-26-000170-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/76334/000007633426000170/exhibit991q1fy27.htm",
-   "filed_at": "2026-11-05T07:52:30-05:00",
-   "filed_kst": "2026-11-05 21:52",
-   "price": 910.19,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 910.19,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 910.19,
-     "change": -3.68
-    },
-    {
-     "date": "2026-11-03",
-     "close": 944.99,
-     "change": 1.8
-    }
-   ],
-   "market_cap": 114727145809.0,
-   "shares_outstanding": 126047469.0,
-   "industry": "Miscellaneous Fabricated Metal Products",
-   "state_of_incorporation": "OH",
-   "hq": "CLEVELAND, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T21:53:26+09:00"
   }
  ]
 }
