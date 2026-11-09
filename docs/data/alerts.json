@@ -1,7 +1,167 @@
 {
- "updated_at": "2026-11-09T21:04:45+09:00",
+ "updated_at": "2026-11-09T21:09:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-124151",
+   "company": "OCULAR THERAPEUTIX, INC",
+   "ticker": "OCUL",
+   "cik": 1393434,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 71,
+   "summary": "The cash projection includes investment in pre-commercial activities and preparations for the potential FDA approval and initial launch of AXPAXLI.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124151/0001104659-26-124151-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124151/tm2629079d2_ex99-1.htm",
+   "filed_at": "2026-11-09T07:08:28-05:00",
+   "filed_kst": "2026-11-09 21:08",
+   "price": 6.59,
+   "change": 2.57,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 6.59,
+     "change": 2.57
+    },
+    {
+     "date": "2026-11-05",
+     "close": 6.43,
+     "change": -9.94
+    },
+    {
+     "date": "2026-11-04",
+     "close": 7.14,
+     "change": 4.69
+    }
+   ],
+   "market_cap": 1447268570.0,
+   "shares_outstanding": 219615868.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BEDFORD, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-09T21:09:12+09:00"
+  },
+  {
+   "id": "0001213900-26-117189",
+   "company": "KAMADA LTD",
+   "ticker": "KMDA",
+   "cik": 1567529,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 79,
+   "summary": "The Company currently owns three FDA approved operating plasma collection centers in the United States, in Beaumont, Houston, and San Antonio, Texas.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1567529/000121390026117189/0001213900-26-117189-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1567529/000121390026117189/ea031017901ex99-4.htm",
+   "filed_at": "2026-11-09T07:05:37-05:00",
+   "filed_kst": "2026-11-09 21:05",
+   "price": 7.23,
+   "change": 5.24,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 7.23,
+     "change": 5.24
+    },
+    {
+     "date": "2026-11-05",
+     "close": 6.87,
+     "change": -7.41
+    },
+    {
+     "date": "2026-11-04",
+     "close": 7.42,
+     "change": 2.34
+    }
+   ],
+   "market_cap": 417070185.0,
+   "shares_outstanding": 57686056.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "REHOVOT, L3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-09T21:06:33+09:00"
+  },
+  {
+   "id": "0001650664-26-000100",
+   "company": "Editas Medicine, Inc.",
+   "ticker": "EDIT",
+   "cik": 1650664,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "• As part of the Company’s collaboration agreement with Bristol Myers Squibb, a second IND/CTA was accepted for an alpha-beta T cell medicine, triggering a milestone payment to Editas.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650664/000165066426000100/0001650664-26-000100-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650664/000165066426000100/editasmedicinepressrelease.htm",
+   "filed_at": "2026-11-09T07:04:32-05:00",
+   "filed_kst": "2026-11-09 21:04",
+   "price": 2.57,
+   "change": 0.78,
+   "price_history": [
+    {
+     "date": "2026-11-06",
+     "close": 2.57,
+     "change": 0.78
+    },
+    {
+     "date": "2026-11-05",
+     "close": 2.55,
+     "change": -6.25
+    },
+    {
+     "date": "2026-11-04",
+     "close": 2.72,
+     "change": 4.62
+    }
+   ],
+   "market_cap": 394700690.0,
+   "shares_outstanding": 153580035.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-09T21:05:26+09:00"
+  },
   {
    "id": "0001628280-26-071870",
    "company": "TG THERAPEUTICS, INC.",
@@ -15607,168 +15767,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-05T21:20:38+09:00"
-  },
-  {
-   "id": "0001628280-26-070560",
-   "company": "C4 Therapeutics, Inc.",
-   "ticker": "CCCC",
-   "cik": 1662579,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "cccc-20261105 0001662579 false 0001662579 2026-11-05 2026-11-05 UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 _________________________________________________________________ FORM 8-K _________________________________________________________________ CURRENT REPORT Pursuant",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026070560/0001628280-26-070560-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026070560/cccc-20261105.htm",
-   "filed_at": "2026-11-05T07:15:01-05:00",
-   "filed_kst": "2026-11-05 21:15",
-   "price": 3.12,
-   "change": -2.8,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 3.12,
-     "change": -2.8
-    },
-    {
-     "date": "2026-11-03",
-     "close": 3.21,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-02",
-     "close": 3.21,
-     "change": -4.75
-    }
-   ],
-   "market_cap": 383838424.0,
-   "shares_outstanding": 123025136.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "WATERTOWN, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T21:20:37+09:00"
-  },
-  {
-   "id": "0001104659-26-123039",
-   "company": "Aclaris Therapeutics, Inc.",
-   "ticker": "ACRS",
-   "cik": 1557746,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "파트너십",
-    "탑라인결과"
-   ],
-   "confidence": 71,
-   "summary": "EX-99.1 2 acrs-ex99d1.htm EX-99.1 Exhibit 99.1 ​ ​ Aclaris Therapeutics Reports Third Quarter 2026 Financial Results and Provides Corporate and Clinical Update ​ - Initiation of Phase 2b Trial of Modzatinib (ATI-2138) in Lichen Planus Expected in Fourth Quarter of 2026 - - Timeline Reaffirmed for To",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926123039/0001104659-26-123039-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926123039/acrs-ex99d1.htm",
-   "filed_at": "2026-11-05T07:15:22-05:00",
-   "filed_kst": "2026-11-05 21:15",
-   "price": 3.68,
-   "change": -1.6,
-   "price_history": [
-    {
-     "date": "2026-11-04",
-     "close": 3.68,
-     "change": -1.6
-    },
-    {
-     "date": "2026-11-03",
-     "close": 3.74,
-     "change": -1.58
-    },
-    {
-     "date": "2026-11-02",
-     "close": 3.8,
-     "change": -4.28
-    }
-   ],
-   "market_cap": 541691926.0,
-   "shares_outstanding": 147198893.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "WAYNE, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-05T21:20:34+09:00"
-  },
-  {
-   "id": "0001437749-26-035082",
-   "company": "Verisk Analytics, Inc.",
-   "ticker": "VRSK",
-   "cik": 1442145,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "● Executed a $100 million Accelerated Share Repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926035082/0001437749-26-035082-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926035082/ex_1007822.htm",
-   "filed_at": "2026-11-05T07:17:08-05:00",
-   "filed_kst": "2026-11-05 21:17",
-   "price": 197.85,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 197.85,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 197.85,
-     "change": 0.43
-    },
-    {
-     "date": "2026-11-03",
-     "close": 197.0,
-     "change": -2.23
-    }
-   ],
-   "market_cap": 25381467603.0,
-   "shares_outstanding": 128286417.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "DE",
-   "hq": "JERSEY CITY, NJ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-05T21:20:31+09:00"
   }
  ]
 }
