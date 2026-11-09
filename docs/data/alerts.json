@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-10T06:39:09+09:00",
+ "updated_at": "2026-11-10T06:44:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-124550",
+   "company": "Forge Nano Holdings, Inc.",
+   "ticker": "NANO",
+   "cik": 2101833,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "1 AGREEMENT AND PLAN OF MERGER by and among Forge Nano Holdings, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2101833/000110465926124550/0001104659-26-124550-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2101833/000110465926124550/tm2629273d1_ex2-1.htm",
+   "filed_at": "2026-11-09T16:42:05-05:00",
+   "filed_kst": "2026-11-10 06:42",
+   "price": 4.25,
+   "change": 0.24,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 4.25,
+     "change": 0.24
+    },
+    {
+     "date": "2026-11-06",
+     "close": 4.24,
+     "change": 4.43
+    },
+    {
+     "date": "2026-11-05",
+     "close": 4.06,
+     "change": -1.93
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Special Industry Machinery, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "THORNTON, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T06:42:53+09:00"
+  },
+  {
+   "id": "0001193125-26-453730",
+   "company": "Zymeworks Inc.",
+   "ticker": "ZYME",
+   "cik": 1937653,
+   "form": "8-K/A",
+   "items": [
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "(“Zymeworks” or the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Theravance Biopharma, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1937653/000119312526453730/0001193125-26-453730-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1937653/000119312526453730/d79244dex993.htm",
+   "filed_at": "2026-11-09T16:39:21-05:00",
+   "filed_kst": "2026-11-10 06:39",
+   "price": 30.81,
+   "change": 3.98,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 30.81,
+     "change": 3.98
+    },
+    {
+     "date": "2026-11-06",
+     "close": 29.63,
+     "change": 3.11
+    },
+    {
+     "date": "2026-11-05",
+     "close": 28.74,
+     "change": -7.13
+    }
+   ],
+   "market_cap": 2126835590.0,
+   "shares_outstanding": 69030691.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "MIDDLETOWN, DE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T06:40:32+09:00"
+  },
   {
    "id": "0001628280-26-072263",
    "company": "Ranger Energy Services, Inc.",
@@ -15654,115 +15758,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-06T06:09:35+09:00"
-  },
-  {
-   "id": "0001853145-26-000044",
-   "company": "EverCommerce Inc.",
-   "ticker": "EVCM",
-   "cik": 1853145,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "” Share Repurchases On September 11, 2026, our Board of Directors approved a $25.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1853145/000185314526000044/0001853145-26-000044-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1853145/000185314526000044/evcmq326earningsrelease.htm",
-   "filed_at": "2026-11-05T16:08:14-05:00",
-   "filed_kst": "2026-11-06 06:08",
-   "price": 8.35,
-   "change": -2.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 8.35,
-     "change": -2.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 8.52,
-     "change": 2.04
-    },
-    {
-     "date": "2026-11-03",
-     "close": 8.35,
-     "change": -3.13
-    }
-   ],
-   "market_cap": 1475154804.0,
-   "shares_outstanding": 176665246.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "DENVER, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:09:31+09:00"
-  },
-  {
-   "id": "0001104659-26-123325",
-   "company": "SIMON PROPERTY GROUP INC.",
-   "ticker": "SPG",
-   "cik": 1063761,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 74,
-   "summary": "Common Stock Repurchase Program During the quarter ended September 30, 2026, the Company repurchased 1,137,182 shares of its common stock at an average price of $207.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465926123325/0001104659-26-123325-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465926123325/tm2627777d2_ex99-1.htm",
-   "filed_at": "2026-11-05T16:08:24-05:00",
-   "filed_kst": "2026-11-06 06:08",
-   "price": 226.54,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 226.54,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 226.54,
-     "change": -0.86
-    },
-    {
-     "date": "2026-11-04",
-     "close": 228.5,
-     "change": 2.89
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": 0.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "IN",
-   "hq": "INDIANAPOLIS, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:09:29+09:00"
   }
  ]
 }
