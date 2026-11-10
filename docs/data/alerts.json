@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-10T20:09:07+09:00",
+ "updated_at": "2026-11-10T20:14:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009638",
+   "company": "Wise Group plc",
+   "ticker": "WSE",
+   "cik": 2099039,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "9600 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009638/0001654954-26-009638-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009638/a5228c.htm",
+   "filed_at": "2026-11-10T06:11:20-05:00",
+   "filed_kst": "2026-11-10 20:11",
+   "price": 11.31,
+   "change": 1.43,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 11.31,
+     "change": 1.43
+    },
+    {
+     "date": "2026-11-06",
+     "close": 11.15,
+     "change": 0.9
+    },
+    {
+     "date": "2026-11-05",
+     "close": 11.05,
+     "change": -4.58
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Jersey",
+   "hq": "LONDON",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-10T20:12:04+09:00"
+  },
   {
    "id": "0001654954-26-009636",
    "company": "RENTOKIL INITIAL PLC /FI",
@@ -15668,61 +15719,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-06T06:14:11+09:00"
-  },
-  {
-   "id": "0001628280-26-071058",
-   "company": "Kodiak AI, Inc.",
-   "ticker": "KDK",
-   "cik": 1853138,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 65,
-   "summary": "Kodiak AI commercializes its technology through Driver-as-a-Service offerings, customer-owned unsupervised autonomous deployments, and strategic partnerships.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1853138/000162828026071058/0001628280-26-071058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1853138/000162828026071058/exhibit991_financialresults.htm",
-   "filed_at": "2026-11-05T16:12:36-05:00",
-   "filed_kst": "2026-11-06 06:12",
-   "price": 0.95,
-   "change": -0.01,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 0.95,
-     "change": -0.01
-    },
-    {
-     "date": "2026-11-05",
-     "close": 0.95,
-     "change": -13.54
-    },
-    {
-     "date": "2026-11-04",
-     "close": 1.1,
-     "change": -5.17
-    }
-   ],
-   "market_cap": 190587262.0,
-   "shares_outstanding": 200618170.0,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "DE",
-   "hq": "MOUNTAIN VIEW, CA",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:13:38+09:00"
   }
  ]
 }
