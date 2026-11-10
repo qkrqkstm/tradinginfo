@@ -1,7 +1,118 @@
 {
- "updated_at": "2026-11-11T07:09:08+09:00",
+ "updated_at": "2026-11-11T07:14:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-455736",
+   "company": "GRACO INC",
+   "ticker": "GGG",
+   "cik": 42888,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 88,
+   "summary": "com Graco Announces $600 Million Accelerated Share Repurchase Agreement MINNEAPOLIS (November 10, 2026) – Graco Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/42888/000119312526455736/0001193125-26-455736-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/42888/000119312526455736/d125383dex991.htm",
+   "filed_at": "2026-11-10T17:13:39-05:00",
+   "filed_kst": "2026-11-11 07:13",
+   "price": 69.7,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 69.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 69.7,
+     "change": -0.17
+    },
+    {
+     "date": "2026-11-09",
+     "close": 69.82,
+     "change": 2.89
+    }
+   ],
+   "market_cap": 11178146700.0,
+   "shares_outstanding": 160375132.0,
+   "industry": "Pumps & Pumping Equipment",
+   "state_of_incorporation": "MN",
+   "hq": "MINNEAPOLIS, MN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T07:14:12+09:00"
+  },
+  {
+   "id": "0001437749-26-036229",
+   "company": "Perma-Pipe International Holdings, Inc.",
+   "ticker": "PPIH",
+   "cik": 914122,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "(Nasdaq: PPIH), a global leader in engineered piping and corrosion protection solutions, today announced that its subsidiary, Perma-Pipe Qatar, has agreed to acquire a 51% equity interest in Welspun Special Coating Private Limited (“WSCPL”), a newly formed company that will provide internal fusion-b",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914122/000143774926036229/0001437749-26-036229-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/914122/000143774926036229/ex_1040376.htm",
+   "filed_at": "2026-11-10T17:12:53-05:00",
+   "filed_kst": "2026-11-11 07:12",
+   "price": 29.53,
+   "change": -0.4,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 29.53,
+     "change": -0.4
+    },
+    {
+     "date": "2026-11-09",
+     "close": 29.65,
+     "change": 4.33
+    },
+    {
+     "date": "2026-11-06",
+     "close": 28.42,
+     "change": 4.45
+    }
+   ],
+   "market_cap": 242003636.0,
+   "shares_outstanding": 8195179.0,
+   "industry": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
+   "state_of_incorporation": "DE",
+   "hq": "THE WOODLANDS, TX",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T07:13:40+09:00"
+  },
   {
    "id": "0001087294-26-000076",
    "company": "CUMBERLAND PHARMACEUTICALS INC",
@@ -15753,106 +15864,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-07T05:18:09+09:00"
-  },
-  {
-   "id": "0001062993-26-005799",
-   "company": "Western Copper & Gold Corp",
-   "ticker": "WRN",
-   "cik": 1364125,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "At DUMAS, he led a successful turnaround and international growth strategy, while overseeing the company's strategic partnerships, including with Canadian First Nations.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1364125/000106299326005799/0001062993-26-005799-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1364125/000106299326005799/exhibit99-1.htm",
-   "filed_at": "2026-11-06T13:39:54-05:00",
-   "filed_kst": "2026-11-07 03:39",
-   "price": 1.53,
-   "change": -0.03,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 1.53,
-     "change": -0.03
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.53,
-     "change": -0.75
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.54,
-     "change": -3.75
-    }
-   ],
-   "market_cap": 309576516.0,
-   "shares_outstanding": 202337592.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-07T03:40:31+09:00"
-  },
-  {
-   "id": "0001654954-26-009595",
-   "company": "HSBC HOLDINGS PLC",
-   "ticker": "HSBC",
-   "cik": 1089113,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009595/0001654954-26-009595-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009595/a2335c.htm",
-   "filed_at": "2026-11-06T13:23:29-05:00",
-   "filed_kst": "2026-11-07 03:23",
-   "price": 87.02,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 87.02,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 87.02,
-     "change": -1.18
-    },
-    {
-     "date": "2026-11-05",
-     "close": 88.06,
-     "change": -1.47
-    }
-   ],
-   "market_cap": 1494589372791.0,
-   "shares_outstanding": 17175239862.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-07T03:24:17+09:00"
   }
  ]
 }
