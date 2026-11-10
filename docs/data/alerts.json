@@ -1,7 +1,169 @@
 {
- "updated_at": "2026-11-11T06:14:35+09:00",
+ "updated_at": "2026-11-11T06:19:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001856525-26-000096",
+   "company": "Core & Main, Inc.",
+   "ticker": "CNM",
+   "cik": 1856525,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "In addition, Core & Main repurchased a record $171 million of shares in the open market during the third quarter of fiscal 2026, bringing year-to-date repurchases to approximately $428 million, with approximately $240 million remaining under its current share repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1856525/000185652526000096/0001856525-26-000096-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1856525/000185652526000096/q3resultspre-announcement.htm",
+   "filed_at": "2026-11-10T16:16:12-05:00",
+   "filed_kst": "2026-11-11 06:16",
+   "price": 47.44,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 47.44,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 47.44,
+     "change": -0.96
+    },
+    {
+     "date": "2026-11-09",
+     "close": 47.9,
+     "change": 4.2
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Wholesale-Durable Goods, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "ST. LOUIS, MO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T06:16:49+09:00"
+  },
+  {
+   "id": "0001628280-26-072744",
+   "company": "Spire Global, Inc.",
+   "ticker": "SPIR",
+   "cik": 1816017,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "Business: • In the third quarter of 2026, Spire was awarded a $33.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1816017/000162828026072744/0001628280-26-072744-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1816017/000162828026072744/spir-20260930xexx991.htm",
+   "filed_at": "2026-11-10T16:16:17-05:00",
+   "filed_kst": "2026-11-11 06:16",
+   "price": 9.35,
+   "change": -1.16,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 9.35,
+     "change": -1.16
+    },
+    {
+     "date": "2026-11-09",
+     "close": 9.46,
+     "change": 9.36
+    },
+    {
+     "date": "2026-11-06",
+     "close": 8.65,
+     "change": 12.19
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Communications Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "VIENNA, VA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T06:16:48+09:00"
+  },
+  {
+   "id": "0000909832-26-000134",
+   "company": "COSTCO WHOLESALE CORP /NEW",
+   "ticker": "COST",
+   "cik": 909832,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 67,
+   "summary": "1 Press Release COSTCO WHOLESALE CORPORATION DECLARES $30 SPECIAL CASH DIVIDEND AND REAUTHORIZES STOCK REPURCHASE PROGRAM ISSAQUAH, Wash.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/0000909832-26-000134-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/costex9918-k111026.htm",
+   "filed_at": "2026-11-10T16:16:20-05:00",
+   "filed_kst": "2026-11-11 06:16",
+   "price": 1066.14,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 1066.14,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1066.14,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 1066.18,
+     "change": 1.2
+    }
+   ],
+   "market_cap": 472437924143.0,
+   "shares_outstanding": 443129349.0,
+   "industry": "Retail-Variety Stores",
+   "state_of_incorporation": "WA",
+   "hq": "ISSAQUAH, WA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T06:16:46+09:00"
+  },
   {
    "id": "0001437749-26-036168",
    "company": "Satellogic Inc.",
@@ -15642,160 +15804,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T21:23:44+09:00"
-  },
-  {
-   "id": "0001628280-26-071317",
-   "company": "Kyivstar Group Ltd.",
-   "ticker": "KYIV",
-   "cik": 2062440,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 60,
-   "summary": "We calculate Adjusted EBITDA as profit/(loss) for the period, before impairment loss, financial expenses and costs, net foreign exchange gain/(loss), share of profit/(loss) of associates and joint ventures, and listing expense, which is also excluded from the calculation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2062440/000162828026071317/0001628280-26-071317-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2062440/000162828026071317/kgl3q26earningsreleasevf.htm",
-   "filed_at": "2026-11-06T07:21:36-05:00",
-   "filed_kst": "2026-11-06 21:21",
-   "price": 12.96,
-   "change": -4.85,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 12.96,
-     "change": -4.85
-    },
-    {
-     "date": "2026-11-04",
-     "close": 13.62,
-     "change": 2.18
-    },
-    {
-     "date": "2026-11-03",
-     "close": 13.33,
-     "change": 2.46
-    }
-   ],
-   "market_cap": 2991992567.0,
-   "shares_outstanding": 230863624.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": "Bermuda",
-   "hq": "DUBAI",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T21:22:41+09:00"
-  },
-  {
-   "id": "0001171843-26-007211",
-   "company": "Anika Therapeutics, Inc.",
-   "ticker": "ANIK",
-   "cik": 898437,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 69,
-   "summary": "Anika continues to improve manufacturing execution through stronger production planning, process improvements and sourcing flexibility, including FDA approval of new aseptic manufacturing processes and validation of a second cross-link filler.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/898437/000117184326007211/0001171843-26-007211-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/898437/000117184326007211/exh_991.htm",
-   "filed_at": "2026-11-06T07:20:22-05:00",
-   "filed_kst": "2026-11-06 21:20",
-   "price": 19.33,
-   "change": -5.25,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 19.33,
-     "change": -5.25
-    },
-    {
-     "date": "2026-11-04",
-     "close": 20.4,
-     "change": 4.88
-    },
-    {
-     "date": "2026-11-03",
-     "close": 19.45,
-     "change": 0.21
-    }
-   ],
-   "market_cap": 258692733.0,
-   "shares_outstanding": 13382966.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "BEDFORD, MA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-06T21:21:00+09:00"
-  },
-  {
-   "id": "0001104659-26-123586",
-   "company": "TELUS CORP",
-   "ticker": "TU",
-   "cik": 868675,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Allera held senior executive roles including CEO of EE, a joint venture between Deutsche Telekom and France Télécom, and Chief Commercial Officer at Three UK.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/868675/000110465926123586/0001104659-26-123586-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/868675/000110465926123586/tm2624784d2_ex99-1.htm",
-   "filed_at": "2026-11-06T07:09:56-05:00",
-   "filed_kst": "2026-11-06 21:09",
-   "price": 9.42,
-   "change": 2.17,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 9.42,
-     "change": 2.17
-    },
-    {
-     "date": "2026-11-04",
-     "close": 9.22,
-     "change": 3.6
-    },
-    {
-     "date": "2026-11-03",
-     "close": 8.9,
-     "change": -1.66
-    }
-   ],
-   "market_cap": 14588343128.0,
-   "shares_outstanding": 1548656383.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER, A1",
-   "entity_category": null,
-   "detected_at": "2026-11-06T21:10:33+09:00"
   }
  ]
 }
