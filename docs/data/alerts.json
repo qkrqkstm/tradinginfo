@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-11-10T22:54:40+09:00",
+ "updated_at": "2026-11-10T22:59:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-124853",
+   "company": "BUENAVENTURA MINING CO INC",
+   "ticker": "BVN",
+   "cik": 1013131,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company is engaged in the exploration, mining development, processing and trade of gold, silver and other base metals through wholly owned mines and its participation in joint venture projects.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1013131/000110465926124853/0001104659-26-124853-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1013131/000110465926124853/tm2629464d1_6k.htm",
+   "filed_at": "2026-11-10T08:54:32-05:00",
+   "filed_kst": "2026-11-10 22:54",
+   "price": 28.9,
+   "change": 3.25,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 28.9,
+     "change": 3.25
+    },
+    {
+     "date": "2026-11-06",
+     "close": 27.99,
+     "change": -1.2
+    },
+    {
+     "date": "2026-11-05",
+     "close": 28.33,
+     "change": -1.63
+    }
+   ],
+   "market_cap": 7332368991.0,
+   "shares_outstanding": 253715190.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": null,
+   "hq": "LIMA, R5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T22:55:28+09:00"
+  },
+  {
+   "id": "0001062993-26-005858",
+   "company": "SOL Strategies Inc.",
+   "ticker": "STKE",
+   "cik": 1846839,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The Company completed the acquisition of Houdini on June 1, 2026.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1846839/000106299326005858/0001062993-26-005858-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1846839/000106299326005858/exhibit99-1.htm",
+   "filed_at": "2026-11-10T08:54:50-05:00",
+   "filed_kst": "2026-11-10 22:54",
+   "price": 1.16,
+   "change": -2.52,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 1.16,
+     "change": -2.52
+    },
+    {
+     "date": "2026-11-06",
+     "close": 1.19,
+     "change": 2.59
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.16,
+     "change": -6.45
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T22:55:27+09:00"
+  },
+  {
+   "id": "0001827635-26-000041",
+   "company": "Veradermics, Inc",
+   "ticker": "MANE",
+   "cik": 1827635,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "EX-99.1 2 ex991q326earnings.htm EX-99.1 Document Exhibit 99.1 Veradermics Reports Third Quarter 2026 Financial Results and Highlights Recent Corporate and Clinical Progress Positive topline results from Phase 3 Study ‘304’ and positive 12-month data from Phase 2/3 Study ‘302’ position VDPHL01 to pot",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1827635/000182763526000041/0001827635-26-000041-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827635/000182763526000041/ex991q326earnings.htm",
+   "filed_at": "2026-11-10T08:54:32-05:00",
+   "filed_kst": "2026-11-10 22:54",
+   "price": 143.95,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 143.95,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 143.95,
+     "change": 3.73
+    },
+    {
+     "date": "2026-11-06",
+     "close": 138.78,
+     "change": 7.92
+    }
+   ],
+   "market_cap": 6014250577.0,
+   "shares_outstanding": 41780136.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW HAVEN, CT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T22:55:25+09:00"
+  },
   {
    "id": "0002019804-26-000033",
    "company": "Terrestrial Energy Inc. /DE/",
@@ -15568,161 +15723,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-06T07:01:23+09:00"
-  },
-  {
-   "id": "0001493152-26-050266",
-   "company": "Strawberry Fields REIT, Inc.",
-   "ticker": "STRW",
-   "cik": 1782430,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "● On September 9, 2026, the Company completed the acquisition of a hospital campus comprising a licensed 60 bed hospital, licensed 99 bed skilled nursing facility and ancillary medical office buildings near Kansas City, Missouri.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1782430/000149315226050266/0001493152-26-050266-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782430/000149315226050266/ex99-1.htm",
-   "filed_at": "2026-11-05T17:00:22-05:00",
-   "filed_kst": "2026-11-06 07:00",
-   "price": 12.43,
-   "change": -4.97,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 12.43,
-     "change": -4.97
-    },
-    {
-     "date": "2026-11-04",
-     "close": 13.08,
-     "change": 4.39
-    },
-    {
-     "date": "2026-11-03",
-     "close": 12.53,
-     "change": 0.24
-    }
-   ],
-   "market_cap": 175975686.0,
-   "shares_outstanding": 14157336.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "SOUTH BEND, IN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T07:01:21+09:00"
-  },
-  {
-   "id": "0001140361-26-042122",
-   "company": "Otis Worldwide Corp",
-   "ticker": "OTIS",
-   "cik": 1781335,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-1.1 2 ef20084888_ex1-1.htm EXHIBIT 1.1 Exhibit 1.1 Execution Version OTIS WORLDWIDE CORPORATION $500,000,000 5.825% NOTES DUE 2036 UNDERWRITING AGREEMENT November 2, 2026 Citigroup Global Markets Inc. Goldman Sachs & Co. LLC HSBC Securities (USA) Inc. c/o Citigroup Global Markets Inc. 388 Greenwi",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036126042122/0001140361-26-042122-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036126042122/ef20084888_ex1-1.htm",
-   "filed_at": "2026-11-05T16:42:51-05:00",
-   "filed_kst": "2026-11-06 06:42",
-   "price": 79.49,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 79.49,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 79.49,
-     "change": -0.38
-    },
-    {
-     "date": "2026-11-04",
-     "close": 79.79,
-     "change": 3.87
-    }
-   ],
-   "market_cap": 30262678678.0,
-   "shares_outstanding": 380710513.0,
-   "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
-   "state_of_incorporation": "DE",
-   "hq": "FARMINGTON, CT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:43:22+09:00"
-  },
-  {
-   "id": "0001552781-26-000543",
-   "company": "Essential Utilities, Inc.",
-   "ticker": "WTRG",
-   "cik": 78128,
-   "form": "425",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(“Essential Utilities”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), providing for the proposed merger of Merger Sub with and into Essential Utilities (the “Merger”), with Essential Utilities surviving the Merger as a wholly owned subsidiary of American Water.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000543/0001552781-26-000543-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000543/e26433_wtrg-8k.htm",
-   "filed_at": "2026-11-05T16:40:29-05:00",
-   "filed_kst": "2026-11-06 06:40",
-   "price": 46.05,
-   "change": 2.04,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 46.05,
-     "change": 2.04
-    },
-    {
-     "date": "2026-11-04",
-     "close": 45.13,
-     "change": 2.48
-    },
-    {
-     "date": "2026-11-03",
-     "close": 44.04,
-     "change": -0.9
-    }
-   ],
-   "market_cap": 13187616550.0,
-   "shares_outstanding": 286376038.0,
-   "industry": "Water Supply",
-   "state_of_incorporation": "PA",
-   "hq": "BRYN MAWR, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:41:13+09:00"
   }
  ]
 }
