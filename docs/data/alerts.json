@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-10T21:44:37+09:00",
+ "updated_at": "2026-11-10T21:49:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-124805",
+   "company": "Canaan Inc.",
+   "ticker": "CAN",
+   "cik": 1780652,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 76,
+   "summary": "4 million Announced new US$20 million share repurchase program under US$100 million board authorization Singapore, November 10, 2026 /PRNewswire/ -- Canaan Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1780652/000110465926124805/0001104659-26-124805-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1780652/000110465926124805/tm2629460d1_ex99-1.htm",
+   "filed_at": "2026-11-10T07:48:19-05:00",
+   "filed_kst": "2026-11-10 21:48",
+   "price": 0.2,
+   "change": 0.05,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 0.2,
+     "change": 0.05
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.2,
+     "change": 8.6
+    },
+    {
+     "date": "2026-11-06",
+     "close": 0.19,
+     "change": 2.76
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SINGAPORE, U0",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-10T21:49:08+09:00"
+  },
   {
    "id": "0001759425-26-000064",
    "company": "Mirum Pharmaceuticals, Inc.",
@@ -15673,61 +15724,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-06T06:31:10+09:00"
-  },
-  {
-   "id": "0001628280-26-071107",
-   "company": "Bark, Inc.",
-   "ticker": "BARK",
-   "cik": 1819574,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "0 million of share repurchases under the Company’s share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1819574/000162828026071107/0001628280-26-071107-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1819574/000162828026071107/q2fy27pressrelease.htm",
-   "filed_at": "2026-11-05T16:23:53-05:00",
-   "filed_kst": "2026-11-06 06:23",
-   "price": 8.36,
-   "change": 0.36,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 8.36,
-     "change": 0.36
-    },
-    {
-     "date": "2026-11-04",
-     "close": 8.33,
-     "change": 2.33
-    },
-    {
-     "date": "2026-11-03",
-     "close": 8.14,
-     "change": -1.81
-    }
-   ],
-   "market_cap": 75519701.0,
-   "shares_outstanding": 9033457.0,
-   "industry": "Retail-Retail Stores, NEC",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-06T06:26:02+09:00"
   }
  ]
 }
