@@ -1,7 +1,219 @@
 {
- "updated_at": "2026-11-10T21:29:31+09:00",
+ "updated_at": "2026-11-10T21:34:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-117756",
+   "company": "LCI INDUSTRIES",
+   "ticker": "LCII",
+   "cik": 763744,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "LCI’s merger agreement with Patrick permits engagement only if LCI receives a competing proposal that is, or is reasonably likely to lead to, a superior one, and LCI’s Board has now twice concluded that Monomoy’s proposals, including its second proposal representing",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000121390026117756/0001213900-26-117756-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000121390026117756/ea031161301ex99-1.htm",
+   "filed_at": "2026-11-10T07:32:27-05:00",
+   "filed_kst": "2026-11-10 21:32",
+   "price": 101.11,
+   "change": 3.37,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 101.11,
+     "change": 3.37
+    },
+    {
+     "date": "2026-11-06",
+     "close": 97.81,
+     "change": -4.58
+    },
+    {
+     "date": "2026-11-05",
+     "close": 102.51,
+     "change": -1.7
+    }
+   ],
+   "market_cap": 2458193903.0,
+   "shares_outstanding": 24312075.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T21:33:21+09:00"
+  },
+  {
+   "id": "0001140361-26-042892",
+   "company": "ENTEGRIS INC",
+   "ticker": "ENTG",
+   "cik": 1101302,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 61,
+   "summary": "EX-99.2 3 ef20085135_ex99-2.htm EXHIBIT 99.2 Exhibit 99.2 Entegris Capital Markets Day 2026 Jeffrey Schnell Vice President, Investor Relations 2 | © Entegris. All Rights Reserved. AGENDA 3 | © Entegris. All Rights Reserved. WELCOME​ Jeffrey Schnell​ ENTEGRIS: UNIQUELY POSITIONED FOR THE AI ERA ​ Dav",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101302/000114036126042892/0001140361-26-042892-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1101302/000114036126042892/ef20085135_ex99-2.htm",
+   "filed_at": "2026-11-10T07:31:30-05:00",
+   "filed_kst": "2026-11-10 21:31",
+   "price": 140.06,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 140.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 140.06,
+     "change": 9.44
+    },
+    {
+     "date": "2026-11-06",
+     "close": 127.98,
+     "change": 2.59
+    }
+   ],
+   "market_cap": 21401168000.0,
+   "shares_outstanding": 152800000.0,
+   "industry": "Plastics Products, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BILLERICA, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T21:32:18+09:00"
+  },
+  {
+   "id": "0001104659-26-124793",
+   "company": "Vireo Growth Inc.",
+   "ticker": "VREOF",
+   "cik": 1771706,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 88,
+   "summary": "EX-99.1 2 vreof-ex99d1.htm EX-99.1 Exhibit 99.1 Vireo Growth Inc. Announces Third Quarter 2026 Results Q3 GAAP revenue of $253.7 million increased 177% year-over-year, driven by recently closed M&A transactions. Q3 proforma revenue of $277.0 million, gives effect to the acquisitions of C21 Investmen",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926124793/0001104659-26-124793-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926124793/vreof-ex99d1.htm",
+   "filed_at": "2026-11-10T07:30:15-05:00",
+   "filed_kst": "2026-11-10 21:30",
+   "price": 6.78,
+   "change": 3.83,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 6.78,
+     "change": 3.83
+    },
+    {
+     "date": "2026-11-06",
+     "close": 6.53,
+     "change": -2.25
+    },
+    {
+     "date": "2026-11-05",
+     "close": 6.68,
+     "change": -8.37
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "MINNEAPOLIS, MN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T21:31:14+09:00"
+  },
+  {
+   "id": "0001171843-26-007310",
+   "company": "Brainsway Ltd.",
+   "ticker": "BWAY",
+   "cik": 1505065,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "At the same time, we are strengthening our market position through strategic partnerships with leading healthcare providers, expanding our clinical evidence, and opening new pathways for patients to access our technology.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326007310/0001171843-26-007310-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326007310/exh_991.htm",
+   "filed_at": "2026-11-10T07:30:03-05:00",
+   "filed_kst": "2026-11-10 21:30",
+   "price": 11.64,
+   "change": 4.39,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 11.64,
+     "change": 4.39
+    },
+    {
+     "date": "2026-11-06",
+     "close": 11.15,
+     "change": 5.09
+    },
+    {
+     "date": "2026-11-05",
+     "close": 10.61,
+     "change": -5.35
+    }
+   ],
+   "market_cap": 455889982.0,
+   "shares_outstanding": 39165806.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Israel",
+   "hq": "Jerusalem, L3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-10T21:30:41+09:00"
+  },
   {
    "id": "0001104659-26-124790",
    "company": "Cellectar Biosciences, Inc.",
@@ -15521,214 +15733,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-06T06:22:27+09:00"
-  },
-  {
-   "id": "0001928446-26-000064",
-   "company": "Granite Ridge Resources, Inc.",
-   "ticker": "GRNT",
-   "cik": 1928446,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "• On November 4, 2026, the Company’s Board of Directors approved a share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1928446/000192844626000064/0001928446-26-000064-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1928446/000192844626000064/grnt-20261105xexx991.htm",
-   "filed_at": "2026-11-05T16:21:32-05:00",
-   "filed_kst": "2026-11-06 06:21",
-   "price": 4.67,
-   "change": 0.86,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 4.67,
-     "change": 0.86
-    },
-    {
-     "date": "2026-11-04",
-     "close": 4.63,
-     "change": -9.39
-    },
-    {
-     "date": "2026-11-03",
-     "close": 5.11,
-     "change": -2.48
-    }
-   ],
-   "market_cap": 615974130.0,
-   "shares_outstanding": 131900242.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": null,
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:22:26+09:00"
-  },
-  {
-   "id": "0001193125-26-449926",
-   "company": "Cogent Biosciences, Inc.",
-   "ticker": "COGT",
-   "cik": 1622229,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 69,
-   "summary": "1 Cogent Biosciences Reports Recent Business Highlights and Third Quarter 2026 Financial Results Preparing for anticipated bezuclastinib launch in GIST; PDUFA action date November 30, 2026 NonAdvSM PDUFA target action date December 30, 2026; AdvSM PDUFA target action date June 29, 2027 Cash balance ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526449926/0001193125-26-449926-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526449926/cogt-ex99_1.htm",
-   "filed_at": "2026-11-05T16:20:06-05:00",
-   "filed_kst": "2026-11-06 06:20",
-   "price": 29.58,
-   "change": -6.07,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 29.58,
-     "change": -6.07
-    },
-    {
-     "date": "2026-11-04",
-     "close": 31.49,
-     "change": 1.38
-    },
-    {
-     "date": "2026-11-03",
-     "close": 31.06,
-     "change": 4.47
-    }
-   ],
-   "market_cap": 5132868968.0,
-   "shares_outstanding": 173524982.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "WALTHAM, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:21:17+09:00"
-  },
-  {
-   "id": "0001104659-26-123352",
-   "company": "Nyxoah SA",
-   "ticker": "NYXH",
-   "cik": 1857190,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 69,
-   "summary": "001) and zero device- and procedure-related serious adverse events o Submitted a premarket approval (PMA) supplement to the FDA to expand Genio’s U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926123352/0001104659-26-123352-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926123352/tm2629001d1_ex99-2.htm",
-   "filed_at": "2026-11-05T16:18:51-05:00",
-   "filed_kst": "2026-11-06 06:18",
-   "price": 0.81,
-   "change": -5.59,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 0.81,
-     "change": -5.59
-    },
-    {
-     "date": "2026-11-04",
-     "close": 0.86,
-     "change": -1.26
-    },
-    {
-     "date": "2026-11-03",
-     "close": 0.87,
-     "change": -1.14
-    }
-   ],
-   "market_cap": 34851433.0,
-   "shares_outstanding": 43026460.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "Belgium",
-   "hq": "MONT-SAINT-GUIBERT",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:20:41+09:00"
-  },
-  {
-   "id": "0001820144-26-000039",
-   "company": "Grindr Inc.",
-   "ticker": "GRND",
-   "cik": 1820144,
-   "form": "8-K",
-   "items": [],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "Reports Third Quarter 2026 Revenue Growth of 22%, Raises 2026 Guidance and Provides Initial 2027 Outlook Third Quarter 2026 Revenue of $141 Million Increases expectation of full-year 2026 Revenue to $560 Million and Adjusted EBITDA to $236 Million Provides initial 2027 outlook for Revenue of at leas",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1820144/000182014426000039/0001820144-26-000039-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1820144/000182014426000039/exhibit991-q32026pressrele.htm",
-   "filed_at": "2026-11-05T16:18:58-05:00",
-   "filed_kst": "2026-11-06 06:18",
-   "price": 13.64,
-   "change": -2.64,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 13.64,
-     "change": -2.64
-    },
-    {
-     "date": "2026-11-04",
-     "close": 14.01,
-     "change": 7.19
-    },
-    {
-     "date": "2026-11-03",
-     "close": 13.07,
-     "change": 2.35
-    }
-   ],
-   "market_cap": 2370913352.0,
-   "shares_outstanding": 173820627.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "DE",
-   "hq": "WEST HOLLYWOOD, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:20:38+09:00"
   }
  ]
 }
