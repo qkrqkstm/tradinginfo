@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-10T20:14:39+09:00",
+ "updated_at": "2026-11-10T20:19:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-454342",
+   "company": "IMMUTEP Ltd",
+   "ticker": "IMMP",
+   "cik": 1506184,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 64,
+   "summary": "EX-99.1 2 d84185dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 IMP761 Late-Breaking Abstract at ACR Convergence 2026 Highlights Statistically Significant & Exposure-Dependent Inhibition of T-Cell-Driven Immune Responses • Statistically significant and exposure-dependent inhibition of T-cell-driven immune r",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526454342/0001193125-26-454342-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526454342/d84185dex991.htm",
+   "filed_at": "2026-11-10T06:15:04-05:00",
+   "filed_kst": "2026-11-10 20:15",
+   "price": 3.8,
+   "change": 13.77,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 3.8,
+     "change": 13.77
+    },
+    {
+     "date": "2026-11-06",
+     "close": 3.34,
+     "change": 24.16
+    },
+    {
+     "date": "2026-11-05",
+     "close": 2.69,
+     "change": -8.81
+    }
+   ],
+   "market_cap": 5600140963.0,
+   "shares_outstanding": 1473721306.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "SYDNEY,, C3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-10T20:16:02+09:00"
+  },
   {
    "id": "0001654954-26-009638",
    "company": "Wise Group plc",
@@ -15663,62 +15713,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-06T06:14:13+09:00"
-  },
-  {
-   "id": "0001710340-26-000006",
-   "company": "Eton Pharmaceuticals, Inc.",
-   "ticker": "ETON",
-   "cik": 1710340,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 92,
-   "summary": "KHINDIVI label expansion Prior Approval Supplement (PAS) accepted for review and assigned May 28, 2027 PDUFA date.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1710340/000171034026000006/0001710340-26-000006-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1710340/000171034026000006/eton-2026q332026xexx991.htm",
-   "filed_at": "2026-11-05T16:13:25-05:00",
-   "filed_kst": "2026-11-06 06:13",
-   "price": 47.15,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 47.15,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 47.15,
-     "change": -7.04
-    },
-    {
-     "date": "2026-11-04",
-     "close": 50.72,
-     "change": -0.45
-    }
-   ],
-   "market_cap": 1347694815.0,
-   "shares_outstanding": 28583135.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "DEER PARK, IL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-06T06:14:11+09:00"
   }
  ]
 }
