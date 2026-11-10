@@ -1,7 +1,277 @@
 {
- "updated_at": "2026-11-11T06:19:39+09:00",
+ "updated_at": "2026-11-11T06:24:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-072768",
+   "company": "Context Therapeutics Inc.",
+   "ticker": "CNTX",
+   "cik": 1842952,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "FDA has granted Fast Track designation to CTIM-76 for patients with PROC who have received all standard-of-care therapies.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026072768/0001628280-26-072768-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026072768/a2026nov-contextxcorpdec.htm",
+   "filed_at": "2026-11-10T16:23:34-05:00",
+   "filed_kst": "2026-11-11 06:23",
+   "price": 0.19,
+   "change": -6.5,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 0.19,
+     "change": -6.5
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.2,
+     "change": 3.09
+    },
+    {
+     "date": "2026-11-06",
+     "close": 0.19,
+     "change": 3.19
+    }
+   ],
+   "market_cap": 17457044.0,
+   "shares_outstanding": 91879177.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PHILADELPHIA, PA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-11T06:24:07+09:00"
+  },
+  {
+   "id": "0001357459-26-000025",
+   "company": "PALISADE BIO, INC.",
+   "ticker": "PALI",
+   "cik": 1357459,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "1 Palisade Bio Reports Third Quarter 2026 Financial Results and Advances PALI-2108 Phase 2 Clinical Development Programs First Patient Dosed in Global Phase 2b ASCENTRA-UC Trial; Topline Results Expected in Q4 2027 FDA Clearance Received for Phase 2a ASCENTRA-CD Trial; Initiation of Enrollment Targe",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1357459/000135745926000025/0001357459-26-000025-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1357459/000135745926000025/pali-ex99_1.htm",
+   "filed_at": "2026-11-10T16:22:49-05:00",
+   "filed_kst": "2026-11-11 06:22",
+   "price": 1.13,
+   "change": -5.04,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 1.13,
+     "change": -5.04
+    },
+    {
+     "date": "2026-11-09",
+     "close": 1.19,
+     "change": 5.31
+    },
+    {
+     "date": "2026-11-06",
+     "close": 1.13,
+     "change": -2.59
+    }
+   ],
+   "market_cap": 202583937.0,
+   "shares_outstanding": 179277820.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CARLSBAD, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T06:23:30+09:00"
+  },
+  {
+   "id": "0001140361-26-043039",
+   "company": "CENTERSPACE",
+   "ticker": "CSR",
+   "cik": 798359,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "EX-99.1 2 ef20085203_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Independence Realty Trust Stockholders and Centerspace Shareholders Approve Merger PHILADELPHIA, PA and MINNEAPOLIS, MN – (BUSINESS WIRE) – November 10, 2026 – Independence Realty Trust, Inc. (NYSE: IRT) (“IRT”), a multifamily real estate inv",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798359/000114036126043039/0001140361-26-043039-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/798359/000114036126043039/ef20085203_ex99-1.htm",
+   "filed_at": "2026-11-10T16:23:00-05:00",
+   "filed_kst": "2026-11-11 06:23",
+   "price": 57.17,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 57.17,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 57.17,
+     "change": -0.59
+    },
+    {
+     "date": "2026-11-09",
+     "close": 57.51,
+     "change": 0.51
+    }
+   ],
+   "market_cap": 961824670.0,
+   "shares_outstanding": 16823940.358,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "ND",
+   "hq": "MINOT, ND",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T06:23:28+09:00"
+  },
+  {
+   "id": "0001104659-26-125211",
+   "company": "Swarmer, Inc",
+   "ticker": "SWMR",
+   "cik": 2092574,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "The estimated MSRP is $5 million to $6 million per system and these are not binding orders or recognized revenue.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/0001104659-26-125211-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/tm2629384d1_ex99-1.htm",
+   "filed_at": "2026-11-10T16:22:02-05:00",
+   "filed_kst": "2026-11-11 06:22",
+   "price": 8.77,
+   "change": -2.23,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 8.77,
+     "change": -2.23
+    },
+    {
+     "date": "2026-11-09",
+     "close": 8.97,
+     "change": 26.34
+    },
+    {
+     "date": "2026-11-06",
+     "close": 7.1,
+     "change": 3.8
+    }
+   ],
+   "market_cap": 104562518.0,
+   "shares_outstanding": 11922750.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "AUSTIN, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-11T06:22:54+09:00"
+  },
+  {
+   "id": "0001213900-26-118047",
+   "company": "AIR INDUSTRIES GROUP",
+   "ticker": "AIRI",
+   "cik": 1009891,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-10.1 2 ea031156401ex10-1.htm THIRTEENTH AMENDMENT TO LOAN AND SECURITY AGREEMENT WITH THE PRIMARY LENDER Exhibit 10.1 THIRTEENTH AMENDMENT TO LOAN AND SECURITY AGREEMENT THIS THIRTEENTH AMENDMENT TO LOAN AND SECURITY AGREEMENT (the “ Amendment ”), is dated November 9, 2026, and is made by and amo",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1009891/000121390026118047/0001213900-26-118047-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1009891/000121390026118047/ea031156401ex10-1.htm",
+   "filed_at": "2026-11-10T16:21:26-05:00",
+   "filed_kst": "2026-11-11 06:21",
+   "price": 3.0,
+   "change": 6.38,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 3.0,
+     "change": 6.38
+    },
+    {
+     "date": "2026-11-09",
+     "close": 2.82,
+     "change": 0.71
+    },
+    {
+     "date": "2026-11-06",
+     "close": 2.8,
+     "change": 5.26
+    }
+   ],
+   "market_cap": 14551974.0,
+   "shares_outstanding": 4850658.0,
+   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
+   "state_of_incorporation": "NV",
+   "hq": "BAY SHORE, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T06:22:20+09:00"
+  },
   {
    "id": "0001856525-26-000096",
    "company": "Core & Main, Inc.",
@@ -15545,265 +15815,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T21:45:26+09:00"
-  },
-  {
-   "id": "0000785161-26-000242",
-   "company": "Encompass Health Corp",
-   "ticker": "EHC",
-   "cik": 785161,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Sea Pines is a 90-bed hospital owned by a joint venture between Encompass Health and Holmes Regional Medical Center (a subsidiary of Health First).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/785161/000078516126000242/0000785161-26-000242-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/785161/000078516126000242/ehc-20261106.htm",
-   "filed_at": "2026-11-06T07:36:05-05:00",
-   "filed_kst": "2026-11-06 21:36",
-   "price": 141.27,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 141.27,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 141.27,
-     "change": 0.17
-    },
-    {
-     "date": "2026-11-04",
-     "close": 141.03,
-     "change": 4.63
-    }
-   ],
-   "market_cap": 13861922809.0,
-   "shares_outstanding": 98123613.0,
-   "industry": "Services-Hospitals",
-   "state_of_incorporation": "DE",
-   "hq": "BIRMINGHAM, AL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T21:36:59+09:00"
-  },
-  {
-   "id": "0001295810-26-000005",
-   "company": "Sunstone Hotel Investors, Inc.",
-   "ticker": "SHO",
-   "cik": 1295810,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "(949) 382-3018 SUNSTONE HOTEL INVESTORS REPORTS RESULTS FOR THIRD QUARTER 2026 Completes Additional Accretive Common and Preferred Stock Repurchases Further Increases Full Year Outlook ALISO VIEJO, CA – November 6, 2026 – Sunstone Hotel Investors, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1295810/000129581026000005/0001295810-26-000005-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1295810/000129581026000005/sho-ex99_2.htm",
-   "filed_at": "2026-11-06T07:35:19-05:00",
-   "filed_kst": "2026-11-06 21:35",
-   "price": 12.35,
-   "change": -5.07,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 12.35,
-     "change": -5.07
-    },
-    {
-     "date": "2026-11-04",
-     "close": 13.01,
-     "change": 1.32
-    },
-    {
-     "date": "2026-11-03",
-     "close": 12.84,
-     "change": -0.16
-    }
-   ],
-   "market_cap": 2296407671.0,
-   "shares_outstanding": 185943941.0,
-   "industry": "Hotels & Motels",
-   "state_of_incorporation": "MD",
-   "hq": "ALISO VIEJO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T21:35:55+09:00"
-  },
-  {
-   "id": "0001468091-26-000049",
-   "company": "VEON Ltd.",
-   "ticker": "VEON",
-   "cik": 1468091,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "주식소각",
-    "M&A",
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 97,
-   "summary": "On October 19, 2026, VEON announced that it has agreed to acquire 100% of Rubicon Wireless, the mobile network operator trading under the “Perfectum” brand, a mobile network operator in Uzbekistan.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000049/0001468091-26-000049-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468091/000146809126000049/veon3q26earningsrelease.htm",
-   "filed_at": "2026-11-06T07:28:54-05:00",
-   "filed_kst": "2026-11-06 21:28",
-   "price": 75.34,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 75.34,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 75.34,
-     "change": -4.64
-    },
-    {
-     "date": "2026-11-04",
-     "close": 79.01,
-     "change": 1.15
-    }
-   ],
-   "market_cap": 139318024852.0,
-   "shares_outstanding": 1849190667.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": "Bermuda",
-   "hq": "DUBAI (DIFC)",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T21:30:41+09:00"
-  },
-  {
-   "id": "0001213900-26-116581",
-   "company": "Pasqal Holding SA",
-   "ticker": "PSQL",
-   "cik": 2119292,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 64,
-   "summary": "● September 17, 2026 - Strategic Partnership with USA Rare Earth and Riven Systems : Announced a strategic partnership with USA Rare Earth (Nasdaq: USAR), a rare earth, critical minerals and advanced materials company, and Riven Systems, a specialist in AI for industrial chemistry",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2119292/000121390026116581/0001213900-26-116581-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2119292/000121390026116581/ea031109801ex99-1.htm",
-   "filed_at": "2026-11-06T07:27:05-05:00",
-   "filed_kst": "2026-11-06 21:27",
-   "price": 4.11,
-   "change": -18.45,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 4.11,
-     "change": -18.45
-    },
-    {
-     "date": "2026-11-04",
-     "close": 5.04,
-     "change": -5.44
-    },
-    {
-     "date": "2026-11-03",
-     "close": 5.33,
-     "change": 1.33
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "France",
-   "hq": "75002 PARIS",
-   "entity_category": null,
-   "detected_at": "2026-11-06T21:27:50+09:00"
-  },
-  {
-   "id": "0001193125-26-450743",
-   "company": "Lufax Holding Ltd",
-   "ticker": "LU",
-   "cik": 1816007,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 d144787dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability w",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1816007/000119312526450743/0001193125-26-450743-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1816007/000119312526450743/d144787dex991.htm",
-   "filed_at": "2026-11-06T07:23:15-05:00",
-   "filed_kst": "2026-11-06 21:23",
-   "price": 8.63,
-   "change": 1.41,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 8.63,
-     "change": 1.41
-    },
-    {
-     "date": "2026-11-04",
-     "close": 8.51,
-     "change": 4.29
-    },
-    {
-     "date": "2026-11-03",
-     "close": 8.16,
-     "change": -2.16
-    }
-   ],
-   "market_cap": 14959037762.0,
-   "shares_outstanding": 1733376334.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SHANGHAI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T21:23:44+09:00"
   }
  ]
 }
