@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-11T03:39:34+09:00",
+ "updated_at": "2026-11-11T03:44:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000721994-26-000089",
+   "company": "LAKELAND FINANCIAL CORP",
+   "ticker": "LKFN",
+   "cik": 721994,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Other Events On November 10, 2026, the board of directors of Lakeland Financial Corporation (\"Company\") amended the Company's existing share repurchase program to increase the aggregate amount of the Company’s common stock that the Company is authorized to repurchase, from $60 million to $90 million",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/721994/000072199426000089/0000721994-26-000089-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/721994/000072199426000089/lkfn-20261110.htm",
+   "filed_at": "2026-11-10T13:43:54-05:00",
+   "filed_kst": "2026-11-11 03:43",
+   "price": 61.87,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 61.87,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 61.87,
+     "change": -0.53
+    },
+    {
+     "date": "2026-11-09",
+     "close": 62.2,
+     "change": 1.72
+    }
+   ],
+   "market_cap": 1528260150.0,
+   "shares_outstanding": 24701150.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "IN",
+   "hq": "WARSAW, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T03:44:38+09:00"
+  },
   {
    "id": "0001683168-26-008485",
    "company": "Mobiquity Technologies, Inc.",
@@ -15706,41 +15759,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-06T07:30:36+09:00"
-  },
-  {
-   "id": "0001213900-26-116460",
-   "company": "Crown PropTech Acquisitions",
-   "ticker": "CPTKW",
-   "cik": 1827899,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "MKAR has signed a Business Combination Agreement with CPTK, pursuant to which MKAR, which will hold the Songwe Hill and Pulawy projects, is expected to become listed on Nasdaq, subject to the satisfaction or waiver of closing conditions.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026116460/0001213900-26-116460-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026116460/ea0311155-425_mkango.htm",
-   "filed_at": "2026-11-05T17:26:32-05:00",
-   "filed_kst": "2026-11-06 07:26",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Wholesale-Hardware",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T07:26:58+09:00"
   }
  ]
 }
