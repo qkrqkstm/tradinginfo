@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-10T22:59:05+09:00",
+ "updated_at": "2026-11-10T23:04:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-050883",
+   "company": "Safe Pro Group Inc.",
+   "ticker": "SPAI",
+   "cik": 2011208,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Army awarded a prime contract under a Commercial Solutions Opening (CSO) for Ground Threat Detection through Aerial Reconnaissance that is focused on Safe Pro’s SI tech stack running onboard the Anduril Ghost-X drone, enabling real-time identification and geolocati",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011208/000149315226050883/0001493152-26-050883-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2011208/000149315226050883/ex99-1.htm",
+   "filed_at": "2026-11-10T09:00:25-05:00",
+   "filed_kst": "2026-11-10 23:00",
+   "price": 3.28,
+   "change": 6.15,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 3.28,
+     "change": 6.15
+    },
+    {
+     "date": "2026-11-06",
+     "close": 3.09,
+     "change": 11.96
+    },
+    {
+     "date": "2026-11-05",
+     "close": 2.76,
+     "change": -9.51
+    }
+   ],
+   "market_cap": 66790187.0,
+   "shares_outstanding": 20362862.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "AVENTURA, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T23:00:48+09:00"
+  },
   {
    "id": "0001104659-26-124853",
    "company": "BUENAVENTURA MINING CO INC",
@@ -15668,61 +15721,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-06T07:01:25+09:00"
-  },
-  {
-   "id": "0001829126-26-012024",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "ticker": "NTHI",
-   "cik": 1979414,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 55,
-   "summary": "The study met its primary endpoint, an important milestone that supports the potential of our intranasal approach to directly address delivery across the blood-brain barrier, one of the greatest challenges in treating brain cancer.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012024/0001829126-26-012024-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012024/neonctechnologies_ex99-1.htm",
-   "filed_at": "2026-11-05T17:00:20-05:00",
-   "filed_kst": "2026-11-06 07:00",
-   "price": 3.2,
-   "change": 0.95,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 3.2,
-     "change": 0.95
-    },
-    {
-     "date": "2026-11-04",
-     "close": 3.17,
-     "change": 3.26
-    },
-    {
-     "date": "2026-11-03",
-     "close": 3.07,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 92321882.0,
-   "shares_outstanding": 28850588.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CALABASAS, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T07:01:23+09:00"
   }
  ]
 }
