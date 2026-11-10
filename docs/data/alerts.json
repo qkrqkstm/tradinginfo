@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-10T22:14:43+09:00",
+ "updated_at": "2026-11-10T22:19:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-454486",
+   "company": "ATOSSA THERAPEUTICS, INC.",
+   "ticker": "ATOS",
+   "cik": 1488039,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "“Our recently announced contingent value rights agreement entitles holders to share in 25% of the net proceeds, up to $50 million, from the sale of the first priority review voucher awarded to Atossa from its rare disease development programs.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1488039/000119312526454486/0001193125-26-454486-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1488039/000119312526454486/atos-ex99_1.htm",
+   "filed_at": "2026-11-10T08:15:13-05:00",
+   "filed_kst": "2026-11-10 22:15",
+   "price": 2.13,
+   "change": 0.47,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 2.13,
+     "change": 0.47
+    },
+    {
+     "date": "2026-11-06",
+     "close": 2.12,
+     "change": 4.95
+    },
+    {
+     "date": "2026-11-05",
+     "close": 2.02,
+     "change": -4.72
+    }
+   ],
+   "market_cap": 21255905.0,
+   "shares_outstanding": 9979298.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SEATTLE, WA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T22:16:01+09:00"
+  },
   {
    "id": "0001193125-26-454476",
    "company": "Corbus Pharmaceuticals Holdings, Inc.",
@@ -15677,58 +15732,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-06T06:36:12+09:00"
-  },
-  {
-   "id": "0001410636-26-000160",
-   "company": "American Water Works Company, Inc.",
-   "ticker": "AWK",
-   "cik": 1410636,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(“Essential Utilities”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), providing for the proposed merger of Merger Sub with and into Essential Utilities (the “Merger”), with Essential Utilities surviving the Merger as a wholly owned subsidiary of American Water.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1410636/000141063626000160/0001410636-26-000160-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1410636/000141063626000160/awk-20261102.htm",
-   "filed_at": "2026-11-05T16:34:57-05:00",
-   "filed_kst": "2026-11-06 06:34",
-   "price": 152.42,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 152.42,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 152.42,
-     "change": 1.86
-    },
-    {
-     "date": "2026-11-04",
-     "close": 149.63,
-     "change": 2.19
-    }
-   ],
-   "market_cap": 30347532430.0,
-   "shares_outstanding": 199104661.0,
-   "industry": "Water Supply",
-   "state_of_incorporation": "DE",
-   "hq": "CAMDEN, NJ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:35:27+09:00"
   }
  ]
 }
