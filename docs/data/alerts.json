@@ -1,7 +1,119 @@
 {
- "updated_at": "2026-11-10T22:04:36+09:00",
+ "updated_at": "2026-11-10T22:09:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-454476",
+   "company": "Corbus Pharmaceuticals Holdings, Inc.",
+   "ticker": "CRBP",
+   "cik": 1595097,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "Food and Drug Administration (FDA) has granted Fast Track designations to sutantatug envedotin for the treatment of both cancer types.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1595097/000119312526454476/0001193125-26-454476-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1595097/000119312526454476/crbp-ex99_1.htm",
+   "filed_at": "2026-11-10T08:08:12-05:00",
+   "filed_kst": "2026-11-10 22:08",
+   "price": 3.52,
+   "change": 14.66,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 3.52,
+     "change": 14.66
+    },
+    {
+     "date": "2026-11-06",
+     "close": 3.07,
+     "change": 7.34
+    },
+    {
+     "date": "2026-11-05",
+     "close": 2.86,
+     "change": -19.89
+    }
+   ],
+   "market_cap": 68081351.0,
+   "shares_outstanding": 19341293.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NORWOOD, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T22:08:50+09:00"
+  },
+  {
+   "id": "0001140361-26-042898",
+   "company": "PDS Biotechnology Corp",
+   "ticker": "PDSB",
+   "cik": 1472091,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company intends to pursue strategic partnerships or other externally funded opportunities for the Phase 3 development of PDS0101.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126042898/0001140361-26-042898-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126042898/ef20085268_ex99-1.htm",
+   "filed_at": "2026-11-10T08:05:36-05:00",
+   "filed_kst": "2026-11-10 22:05",
+   "price": 1.08,
+   "change": -12.2,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 1.08,
+     "change": -12.2
+    },
+    {
+     "date": "2026-11-06",
+     "close": 1.23,
+     "change": 5.13
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.17,
+     "change": -10.0
+    }
+   ],
+   "market_cap": 60449045.0,
+   "shares_outstanding": 55971338.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PRINCETON, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T22:06:09+09:00"
+  },
   {
    "id": "0001193125-26-454474",
    "company": "Tyra Biosciences, Inc.",
@@ -15617,112 +15729,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T06:35:27+09:00"
-  },
-  {
-   "id": "0001628280-26-071131",
-   "company": "Brightstar Lottery PLC",
-   "ticker": "BRSL",
-   "cik": 1619762,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 a6-kxrepurchasesxnovember2.htm 6-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of November 2026 Commission File Number 001-36",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026071131/0001628280-26-071131-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026071131/a6-kxrepurchasesxnovember2.htm",
-   "filed_at": "2026-11-05T16:33:31-05:00",
-   "filed_kst": "2026-11-06 06:33",
-   "price": 10.02,
-   "change": -0.99,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 10.02,
-     "change": -0.99
-    },
-    {
-     "date": "2026-11-04",
-     "close": 10.12,
-     "change": 2.64
-    },
-    {
-     "date": "2026-11-03",
-     "close": 9.86,
-     "change": -1.69
-    }
-   ],
-   "market_cap": 1872252641.0,
-   "shares_outstanding": 186851561.0,
-   "industry": "Services-Miscellaneous Amusement & Recreation",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:34:23+09:00"
-  },
-  {
-   "id": "0001104659-26-123386",
-   "company": "Verastem, Inc.",
-   "ticker": "VSTM",
-   "cik": 1526119,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 97,
-   "summary": "EX-99.1 2 tm2628982d2_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Delivering Novel Therapies for RAS/MAPK Pathway - Driven Cancers CORPORATE PRESENTATION NOVEMBER 2026 2 FORWARD - LOOKING STATEMENTS This presentation includes forward - looking statements about, among other things, Verastem Oncology’s (the ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926123386/0001104659-26-123386-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926123386/tm2628982d2_ex99-1.htm",
-   "filed_at": "2026-11-05T16:32:49-05:00",
-   "filed_kst": "2026-11-06 06:32",
-   "price": 9.38,
-   "change": -4.77,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 9.38,
-     "change": -4.77
-    },
-    {
-     "date": "2026-11-04",
-     "close": 9.85,
-     "change": 0.82
-    },
-    {
-     "date": "2026-11-03",
-     "close": 9.77,
-     "change": 1.88
-    }
-   ],
-   "market_cap": 1182018862.0,
-   "shares_outstanding": 126014804.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "MA",
-   "hq": "NEEDHAM, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-06T06:34:22+09:00"
   }
  ]
 }
