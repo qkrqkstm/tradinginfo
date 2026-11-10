@@ -1,7 +1,108 @@
 {
- "updated_at": "2026-11-11T07:19:10+09:00",
+ "updated_at": "2026-11-11T07:24:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-005886",
+   "company": "Elemental Royalty Corp",
+   "ticker": "ELE",
+   "cik": 2086771,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "Key developments included: • Acquisition of Vizsla Royalties: Completed the acquisition of Vizsla Royalties in September 2026, adding a life-of-mine 2.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2086771/000106299326005886/0001062993-26-005886-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2086771/000106299326005886/exhibit99-1.htm",
+   "filed_at": "2026-11-10T17:22:39-05:00",
+   "filed_kst": "2026-11-11 07:22",
+   "price": 16.09,
+   "change": -4.34,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 16.09,
+     "change": -4.34
+    },
+    {
+     "date": "2026-11-09",
+     "close": 16.82,
+     "change": 5.52
+    },
+    {
+     "date": "2026-11-06",
+     "close": 15.94,
+     "change": 2.84
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "LITTLETON, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-11T07:23:20+09:00"
+  },
+  {
+   "id": "0001213900-26-118129",
+   "company": "GP-Act III Acquisition Corp.",
+   "ticker": "GPAT",
+   "cik": 1834526,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "On 3 November 2026, Dronamics announced it has entered into a Business Combination Agreement with GP-Act III Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1834526/000121390026118129/0001213900-26-118129-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834526/000121390026118129/ea0311765-425_gpact3.htm",
+   "filed_at": "2026-11-10T17:21:26-05:00",
+   "filed_kst": "2026-11-11 07:21",
+   "price": 11.07,
+   "change": 0.09,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 11.07,
+     "change": 0.09
+    },
+    {
+     "date": "2026-11-09",
+     "close": 11.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "close": 11.06,
+     "change": -0.18
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-11T07:22:16+09:00"
+  },
   {
    "id": "0001213900-26-118109",
    "company": "CorMedix Inc.",
@@ -15761,108 +15862,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-07T06:06:49+09:00"
-  },
-  {
-   "id": "0001132597-26-000279",
-   "company": "Itau Unibanco Holding S.A.",
-   "ticker": "ITUB",
-   "cik": 1132597,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "The cancellation of treasury shares is conducted at the average price of shares and its effect is accounted for in Capital Reserves.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000279/0001132597-26-000279-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000279/condensedconsolidatedfin.htm",
-   "filed_at": "2026-11-06T15:23:29-05:00",
-   "filed_kst": "2026-11-07 05:23",
-   "price": 7.38,
-   "change": 1.17,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 7.38,
-     "change": 1.17
-    },
-    {
-     "date": "2026-11-05",
-     "close": 7.29,
-     "change": 0.14
-    },
-    {
-     "date": "2026-11-04",
-     "close": 7.28,
-     "change": 3.26
-    }
-   ],
-   "market_cap": 36592182849.0,
-   "shares_outstanding": 4958290359.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "Brazil",
-   "hq": "SAO PAULO, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-07T05:25:27+09:00"
-  },
-  {
-   "id": "0001132597-26-000278",
-   "company": "Itau Unibanco Holding S.A.",
-   "ticker": "ITUB",
-   "cik": 1132597,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "EX-99.1 2 managementdiscussionanda.htm EX-99.1 managementdiscussionanda Management Discussion & Analysis and Condensed Parent Company and Consolidated Financial Statements in BRGAAP Third quarter of 2026 Contents Executive Summary Income Statement and Balance Sheet Analysis Managerial Financial Marg",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000278/0001132597-26-000278-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1132597/000113259726000278/managementdiscussionanda.htm",
-   "filed_at": "2026-11-06T15:20:48-05:00",
-   "filed_kst": "2026-11-07 05:20",
-   "price": 7.38,
-   "change": 1.17,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 7.38,
-     "change": 1.17
-    },
-    {
-     "date": "2026-11-05",
-     "close": 7.29,
-     "change": 0.14
-    },
-    {
-     "date": "2026-11-04",
-     "close": 7.28,
-     "change": 3.26
-    }
-   ],
-   "market_cap": 36592182849.0,
-   "shares_outstanding": 4958290359.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "Brazil",
-   "hq": "SAO PAULO, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-07T05:22:09+09:00"
   }
  ]
 }
