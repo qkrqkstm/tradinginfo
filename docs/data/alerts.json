@@ -1,7 +1,389 @@
 {
- "updated_at": "2026-11-10T21:04:40+09:00",
+ "updated_at": "2026-11-10T21:09:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-454414",
+   "company": "Hemab Therapeutics Holdings, Inc.",
+   "ticker": "COAG",
+   "cik": 2114044,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 69,
+   "summary": "Sutacimig has received Fast Track, Orphan Drug, and Breakthrough Therapy Designations from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2114044/000119312526454414/0001193125-26-454414-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2114044/000119312526454414/d22670dex991.htm",
+   "filed_at": "2026-11-10T07:08:10-05:00",
+   "filed_kst": "2026-11-10 21:08",
+   "price": 42.81,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 42.81,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 42.81,
+     "change": -12.67
+    },
+    {
+     "date": "2026-11-06",
+     "close": 49.02,
+     "change": 7.57
+    }
+   ],
+   "market_cap": 1999745729.0,
+   "shares_outstanding": 46712117.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T21:08:48+09:00"
+  },
+  {
+   "id": "0001193125-26-454410",
+   "company": "Palladyne AI Corp.",
+   "ticker": "PDYN",
+   "cik": 1826681,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 74,
+   "summary": "Third Quarter 2026 Strategic and Operational Highlights • Announced a strategic collaboration with FANUC America to pair FANUC’s industrial robot portfolio with Palladyne AI’s physical AI software across manufacturing applications; • Integrated SwarmOS with Anduril’s Lattice at the Army’s Project Co",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526454410/0001193125-26-454410-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526454410/pdyn-ex99_1.htm",
+   "filed_at": "2026-11-10T07:06:36-05:00",
+   "filed_kst": "2026-11-10 21:06",
+   "price": 3.54,
+   "change": 17.22,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 3.54,
+     "change": 17.22
+    },
+    {
+     "date": "2026-11-06",
+     "close": 3.02,
+     "change": 11.65
+    },
+    {
+     "date": "2026-11-05",
+     "close": 2.7,
+     "change": -15.2
+    }
+   ],
+   "market_cap": 174658325.0,
+   "shares_outstanding": 49338510.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "SALT LAKE CITY, UT",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T21:07:14+09:00"
+  },
+  {
+   "id": "0001193125-26-454408",
+   "company": "Cullinan Therapeutics, Inc.",
+   "ticker": "CGEM",
+   "cik": 1789972,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 64,
+   "summary": "The NDA submission is based on data from the Phase 3 REZILIENT3 trial, which met its primary endpoint at interim analysis, demonstrating a statistically significant and clinically meaningful improvement in median progression-free survival for zipalertinib plus chemotherapy compared to chemotherapy a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526454408/0001193125-26-454408-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526454408/cgem-ex99_1.htm",
+   "filed_at": "2026-11-10T07:06:13-05:00",
+   "filed_kst": "2026-11-10 21:06",
+   "price": 11.73,
+   "change": 3.71,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 11.73,
+     "change": 3.71
+    },
+    {
+     "date": "2026-11-06",
+     "close": 11.31,
+     "change": 4.72
+    },
+    {
+     "date": "2026-11-05",
+     "close": 10.8,
+     "change": -13.53
+    }
+   ],
+   "market_cap": 754880561.0,
+   "shares_outstanding": 64354694.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T21:06:39+09:00"
+  },
+  {
+   "id": "0001193125-26-454403",
+   "company": "Olema Pharmaceuticals, Inc.",
+   "ticker": "OLMA",
+   "cik": 1750284,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "Food and Drug Administration (FDA) Fast Track designation for the treatment of ER+/HER2- metastatic breast cancer that has progressed following one or more lines of endocrine therapy with at least one line given in combination with a CDK4/6 inhibitor.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1750284/000119312526454403/0001193125-26-454403-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1750284/000119312526454403/olma-ex99_1.htm",
+   "filed_at": "2026-11-10T07:05:15-05:00",
+   "filed_kst": "2026-11-10 21:05",
+   "price": 7.36,
+   "change": 0.41,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 7.36,
+     "change": 0.41
+    },
+    {
+     "date": "2026-11-06",
+     "close": 7.33,
+     "change": 8.43
+    },
+    {
+     "date": "2026-11-05",
+     "close": 6.76,
+     "change": -10.34
+    }
+   ],
+   "market_cap": 643982388.0,
+   "shares_outstanding": 87497607.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T21:06:05+09:00"
+  },
+  {
+   "id": "0001213900-26-117743",
+   "company": "SUNation Energy, Inc.",
+   "ticker": "SUNE",
+   "cik": 22701,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "” Suniva announced on June 8, 2026 that it signed a definitive reverse merger agreement (the “Merger Agreement”) pursuant to which Suniva will merge with a wholly-owned subsidiary of SUNation Energy, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026117743/0001213900-26-117743-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026117743/ea031159801ex99-1.htm",
+   "filed_at": "2026-11-10T07:04:26-05:00",
+   "filed_kst": "2026-11-10 21:04",
+   "price": 2.03,
+   "change": -0.98,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 2.03,
+     "change": -0.98
+    },
+    {
+     "date": "2026-11-06",
+     "close": 2.05,
+     "change": 2.5
+    },
+    {
+     "date": "2026-11-05",
+     "close": 2.0,
+     "change": -12.28
+    }
+   ],
+   "market_cap": 13221609.0,
+   "shares_outstanding": 6513108.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "RONKONKOMA, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T21:05:32+09:00"
+  },
+  {
+   "id": "0001193125-26-454401",
+   "company": "Immatics N.V.",
+   "ticker": "IMTX",
+   "cik": 1809196,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "Anzu-cel received FDA Orphan Drug Designation and FDA RMAT designation , which includes all the benefits of FDA Breakthrough Therapy Designation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1809196/000119312526454401/0001193125-26-454401-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1809196/000119312526454401/imtx-ex99_1.htm",
+   "filed_at": "2026-11-10T07:04:47-05:00",
+   "filed_kst": "2026-11-10 21:04",
+   "price": 6.43,
+   "change": 1.1,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 6.43,
+     "change": 1.1
+    },
+    {
+     "date": "2026-11-06",
+     "close": 6.36,
+     "change": 2.91
+    },
+    {
+     "date": "2026-11-05",
+     "close": 6.18,
+     "change": -10.56
+    }
+   ],
+   "market_cap": 862079308.0,
+   "shares_outstanding": 134071432.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Netherlands",
+   "hq": "TUBINGEN, 2M",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-10T21:05:29+09:00"
+  },
+  {
+   "id": "0001193125-26-454402",
+   "company": "Humacyte, Inc.",
+   "ticker": "HUMA",
+   "cik": 1818382,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 92,
+   "summary": "First Human Study in CABG • First Human Study in Coronary Tissue Engineered Vessel (CTEV) Initiated : The FDA has accepted the IND application for a first-in-human clinical study of the CTEV in coronary artery bypass grafting, and Humacyte initiated a Phase 2a study of the CTEV in CABG patients in N",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1818382/000119312526454402/0001193125-26-454402-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1818382/000119312526454402/huma-ex99_1.htm",
+   "filed_at": "2026-11-10T07:05:00-05:00",
+   "filed_kst": "2026-11-10 21:05",
+   "price": 0.46,
+   "change": 0.04,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 0.46,
+     "change": 0.04
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.46,
+     "change": 1.56
+    },
+    {
+     "date": "2026-11-06",
+     "close": 0.45,
+     "change": 13.13
+    }
+   ],
+   "market_cap": 127787128.0,
+   "shares_outstanding": 277798105.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "DURHAM, NC",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T21:05:26+09:00"
+  },
   {
    "id": "0001213900-26-117740",
    "company": "Chicago Atlantic Real Estate Finance, Inc.",
@@ -15343,387 +15725,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T06:19:19+09:00"
-  },
-  {
-   "id": "0000707549-26-000057",
-   "company": "LAM RESEARCH CORP",
-   "ticker": "LRCX",
-   "cik": 707549,
-   "form": "8-K",
-   "items": [
-    "5.07",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 67,
-   "summary": "Other Events On November 5, 2026, the Company issued a press release announcing a $25 billion share repurchase authorization and the declaration of a quarterly dividend.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000057/0000707549-26-000057-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000057/lrcx-20261103.htm",
-   "filed_at": "2026-11-05T16:17:56-05:00",
-   "filed_kst": "2026-11-06 06:17",
-   "price": 185.2,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 185.2,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 185.2,
-     "change": -16.36
-    },
-    {
-     "date": "2026-11-04",
-     "close": 221.43,
-     "change": -4.03
-    }
-   ],
-   "market_cap": 231346469200.0,
-   "shares_outstanding": 1249171000.0,
-   "industry": "Special Industry Machinery, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "FREMONT, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:19:16+09:00"
-  },
-  {
-   "id": "0001104659-26-123347",
-   "company": "PSQ Holdings, Inc.",
-   "ticker": "PSQH",
-   "cik": 1847064,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Noteholder shall in no event be construed for any purpose to be a partner, joint venturer, or associate of Maker as a result of the terms of this Note, it being the sole intention of the parties to establish a relationship of debtor and creditor hereunder.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1847064/000110465926123347/0001104659-26-123347-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1847064/000110465926123347/tm2629135d1_ex99-1.htm",
-   "filed_at": "2026-11-05T16:17:57-05:00",
-   "filed_kst": "2026-11-06 06:17",
-   "price": 1.65,
-   "change": -14.06,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 1.65,
-     "change": -14.06
-    },
-    {
-     "date": "2026-11-04",
-     "close": 1.92,
-     "change": -32.63
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.85,
-     "change": -1.72
-    }
-   ],
-   "market_cap": 5553542.0,
-   "shares_outstanding": 3365783.0,
-   "industry": "Services-Advertising",
-   "state_of_incorporation": "DE",
-   "hq": "BOZEMAN, MT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:19:15+09:00"
-  },
-  {
-   "id": "0001720420-26-000036",
-   "company": "IBEX Ltd",
-   "ticker": "IBEX",
-   "cik": 1720420,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 64,
-   "summary": "We are also benefitting from our new vector of growth through our AI agent solution, powered by our strategic partnership with Sierra.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1720420/000172042026000036/0001720420-26-000036-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1720420/000172042026000036/ibex-20261105exx991.htm",
-   "filed_at": "2026-11-05T16:18:01-05:00",
-   "filed_kst": "2026-11-06 06:18",
-   "price": 43.0,
-   "change": -3.8,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 43.0,
-     "change": -3.8
-    },
-    {
-     "date": "2026-11-04",
-     "close": 44.7,
-     "change": 0.65
-    },
-    {
-     "date": "2026-11-03",
-     "close": 44.41,
-     "change": -0.69
-    }
-   ],
-   "market_cap": 570981262.0,
-   "shares_outstanding": 13278634.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Bermuda",
-   "hq": "WASHINGTON, DC",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:19:13+09:00"
-  },
-  {
-   "id": "0000063276-26-000014",
-   "company": "MATTEL INC /DE/",
-   "ticker": "MAT",
-   "cik": 63276,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "5 billion share repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/63276/000006327626000014/0000063276-26-000014-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/63276/000006327626000014/exhibit991.htm",
-   "filed_at": "2026-11-05T16:18:24-05:00",
-   "filed_kst": "2026-11-06 06:18",
-   "price": 14.97,
-   "change": -3.85,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 14.97,
-     "change": -3.85
-    },
-    {
-     "date": "2026-11-04",
-     "close": 15.57,
-     "change": 1.83
-    },
-    {
-     "date": "2026-11-03",
-     "close": 15.29,
-     "change": -1.55
-    }
-   ],
-   "market_cap": 4276929000.0,
-   "shares_outstanding": 285700000.0,
-   "industry": "Dolls & Stuffed Toys",
-   "state_of_incorporation": "DE",
-   "hq": "EL SEGUNDO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:19:06+09:00"
-  },
-  {
-   "id": "0001193125-26-449893",
-   "company": "American Healthcare REIT, Inc.",
-   "ticker": "AHR",
-   "cik": 1632970,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "Following the Company's completed transaction activity during the three months ended September 30, 2026, and subsequent to quarter end, the Company's investment pipeline consists of over $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1632970/000119312526449893/0001193125-26-449893-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1632970/000119312526449893/ahr-ex99_2.htm",
-   "filed_at": "2026-11-05T16:17:08-05:00",
-   "filed_kst": "2026-11-06 06:17",
-   "price": 56.04,
-   "change": -0.59,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 56.04,
-     "change": -0.59
-    },
-    {
-     "date": "2026-11-04",
-     "close": 56.37,
-     "change": 2.62
-    },
-    {
-     "date": "2026-11-03",
-     "close": 54.93,
-     "change": 2.12
-    }
-   ],
-   "market_cap": 12216651351.0,
-   "shares_outstanding": 217998775.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "IRVINE, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:18:28+09:00"
-  },
-  {
-   "id": "0001193125-26-449899",
-   "company": "Karman Holdings Inc.",
-   "ticker": "KRMN",
-   "cik": 2040127,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "7 billion at quarter-end, increasing 108% compared to fiscal year-end 2025 • Generated quarterly bookings of nearly $465 million across all end markets, including a significant seven-year contract with Lockheed Martin supporting the THAAD program • Completed the acquisition of Walker Precision Holdi",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2040127/000119312526449899/0001193125-26-449899-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2040127/000119312526449899/krmn-ex99_1.htm",
-   "filed_at": "2026-11-05T16:17:31-05:00",
-   "filed_kst": "2026-11-06 06:17",
-   "price": 32.09,
-   "change": -6.09,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 32.09,
-     "change": -6.09
-    },
-    {
-     "date": "2026-11-04",
-     "close": 34.17,
-     "change": -13.52
-    },
-    {
-     "date": "2026-11-03",
-     "close": 39.51,
-     "change": 0.97
-    }
-   ],
-   "market_cap": 4253006690.0,
-   "shares_outstanding": 132533708.0,
-   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "HUNTINGTON BEACH, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:18:24+09:00"
-  },
-  {
-   "id": "0001258602-26-000051",
-   "company": "NELNET INC",
-   "ticker": "NNI",
-   "cik": 1258602,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 64,
-   "summary": "AGM holds interests in joint ventures engaged in the acquisition, ownership, and management of loan portfolios.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1258602/000125860226000051/0001258602-26-000051-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1258602/000125860226000051/aex991-110526xearningsrele.htm",
-   "filed_at": "2026-11-05T16:17:39-05:00",
-   "filed_kst": "2026-11-06 06:17",
-   "price": 127.01,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 127.01,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 127.01,
-     "change": -0.45
-    },
-    {
-     "date": "2026-11-04",
-     "close": 127.58,
-     "change": 4.11
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Personal Credit Institutions",
-   "state_of_incorporation": "NE",
-   "hq": "LINCOLN, NE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:18:22+09:00"
   }
  ]
 }
