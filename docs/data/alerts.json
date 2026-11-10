@@ -1,7 +1,327 @@
 {
- "updated_at": "2026-11-11T05:59:03+09:00",
+ "updated_at": "2026-11-11T06:05:02+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-455404",
+   "company": "ACHIEVE LIFE SCIENCES, INC.",
+   "ticker": "ACHV",
+   "cik": 949858,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "Resubmission of the New Drug Application (NDA) remains on track for the fourth quarter of 2026, and the Company anticipates potential FDA approval by the end of the second quarter of 2027, with U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/949858/000119312526455404/0001193125-26-455404-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/949858/000119312526455404/achv-ex99_1.htm",
+   "filed_at": "2026-11-10T16:04:12-05:00",
+   "filed_kst": "2026-11-11 06:04",
+   "price": 6.78,
+   "change": 0.89,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 6.78,
+     "change": 0.89
+    },
+    {
+     "date": "2026-11-06",
+     "close": 6.72,
+     "change": 5.33
+    },
+    {
+     "date": "2026-11-05",
+     "close": 6.38,
+     "change": -8.6
+    }
+   ],
+   "market_cap": 697678882.0,
+   "shares_outstanding": 102902490.0,
+   "industry": "In Vitro & In Vivo Diagnostic Substances",
+   "state_of_incorporation": "DE",
+   "hq": "SEATTLE, WA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T06:05:00+09:00"
+  },
+  {
+   "id": "0001437749-26-036149",
+   "company": "Usio, Inc.",
+   "ticker": "USIO",
+   "cik": 1088034,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Hoch continued, “Looking ahead, we are particularly encouraged by the opportunities presented by Usio Ion and our recently announced strategic partnership with Harris Computer.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1088034/000143774926036149/0001437749-26-036149-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1088034/000143774926036149/ex_1007219.htm",
+   "filed_at": "2026-11-10T16:01:51-05:00",
+   "filed_kst": "2026-11-11 06:01",
+   "price": 2.91,
+   "change": -5.21,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 2.91,
+     "change": -5.21
+    },
+    {
+     "date": "2026-11-09",
+     "close": 3.07,
+     "change": 3.72
+    },
+    {
+     "date": "2026-11-06",
+     "close": 2.96,
+     "change": 1.02
+    }
+   ],
+   "market_cap": 82985395.0,
+   "shares_outstanding": 28517318.0,
+   "industry": "Functions Related To Depository Banking, NEC",
+   "state_of_incorporation": "NV",
+   "hq": "SAN ANTONIO, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T06:03:00+09:00"
+  },
+  {
+   "id": "0001049521-26-000096",
+   "company": "MERCURY SYSTEMS INC",
+   "ticker": "MRCY",
+   "cik": 1049521,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "Based on this solid execution, we are raising our outlook for fiscal year 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1049521/000104952126000096/0001049521-26-000096-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1049521/000104952126000096/a2027q1earningsreleaseex.htm",
+   "filed_at": "2026-11-10T16:01:58-05:00",
+   "filed_kst": "2026-11-11 06:01",
+   "price": 83.58,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 83.58,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 83.58,
+     "change": 4.97
+    },
+    {
+     "date": "2026-11-09",
+     "close": 79.62,
+     "change": 8.25
+    }
+   ],
+   "market_cap": 5026177996.0,
+   "shares_outstanding": 60136133.0,
+   "industry": "Electronic Components & Accessories",
+   "state_of_incorporation": "MA",
+   "hq": "ANDOVER, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T06:02:56+09:00"
+  },
+  {
+   "id": "0001529628-26-000116",
+   "company": "Smart Sand, Inc.",
+   "ticker": "SND",
+   "cik": 1529628,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 66,
+   "summary": "Liquidity In the third quarter of 2026, the Company did not repurchase any shares of its common stock under its share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1529628/000152962826000116/0001529628-26-000116-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1529628/000152962826000116/a2026q3exhibit991.htm",
+   "filed_at": "2026-11-10T16:02:03-05:00",
+   "filed_kst": "2026-11-11 06:02",
+   "price": 4.07,
+   "change": 3.04,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 4.07,
+     "change": 3.04
+    },
+    {
+     "date": "2026-11-09",
+     "close": 3.95,
+     "change": 10.34
+    },
+    {
+     "date": "2026-11-06",
+     "close": 3.58,
+     "change": -8.44
+    }
+   ],
+   "market_cap": 172564178.0,
+   "shares_outstanding": 42399061.0,
+   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+   "state_of_incorporation": "DE",
+   "hq": "YARDLEY, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T06:02:53+09:00"
+  },
+  {
+   "id": "0001493152-26-050954",
+   "company": "Rail Vision Ltd.",
+   "ticker": "RVSN",
+   "cik": 1743905,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "1 Rail Vision Successfully Completes U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1743905/000149315226050954/0001493152-26-050954-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1743905/000149315226050954/ex99-1.htm",
+   "filed_at": "2026-11-10T16:01:02-05:00",
+   "filed_kst": "2026-11-11 06:01",
+   "price": 2.51,
+   "change": -11.68,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 2.51,
+     "change": -11.68
+    },
+    {
+     "date": "2026-11-09",
+     "close": 2.84,
+     "change": 2.23
+    },
+    {
+     "date": "2026-11-06",
+     "close": 2.78,
+     "change": 6.11
+    }
+   ],
+   "market_cap": 5502387.0,
+   "shares_outstanding": 2192186.0,
+   "industry": "Railroad Equipment",
+   "state_of_incorporation": "Israel",
+   "hq": "RA'ANANA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-11T06:02:11+09:00"
+  },
+  {
+   "id": "0001171843-26-007332",
+   "company": "Brainsway Ltd.",
+   "ticker": "BWAY",
+   "cik": 1505065,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "10 Investor Deck | November 2026 Strategic Partnership With Valor Equity Partners 11 Investor Deck | November 2026 Valor, a leading $20B equity firm behind market leaders, is now BrainsWay’s largest investor and an active partner in our scale strategy S T R A T E G I C I N V E S T M E N T S",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326007332/0001171843-26-007332-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326007332/exh_991.htm",
+   "filed_at": "2026-11-10T16:01:09-05:00",
+   "filed_kst": "2026-11-11 06:01",
+   "price": 10.67,
+   "change": -8.33,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 10.67,
+     "change": -8.33
+    },
+    {
+     "date": "2026-11-09",
+     "close": 11.64,
+     "change": 4.39
+    },
+    {
+     "date": "2026-11-06",
+     "close": 11.15,
+     "change": 5.09
+    }
+   ],
+   "market_cap": 417899150.0,
+   "shares_outstanding": 39165806.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Israel",
+   "hq": "Jerusalem, L3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-11T06:02:06+09:00"
+  },
   {
    "id": "0001193125-26-455339",
    "company": "EXICURE, INC.",
@@ -15455,311 +15775,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T20:03:39+09:00"
-  },
-  {
-   "id": "0001213900-26-116488",
-   "company": "Solowin Holdings, Ltd.",
-   "ticker": "AXG",
-   "cik": 1959224,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "e) The Shares to be acquired by such Purchaser will be acquired for investment for Purchaser’s own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and such Purchaser has no present intention of selling, granting any",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1959224/000121390026116488/0001213900-26-116488-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1959224/000121390026116488/ea031065702ex10-1.htm",
-   "filed_at": "2026-11-05T18:00:17-05:00",
-   "filed_kst": "2026-11-06 08:00",
-   "price": 1.4,
-   "change": -18.13,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 1.4,
-     "change": -18.13
-    },
-    {
-     "date": "2026-11-04",
-     "close": 1.71,
-     "change": 2.09
-    },
-    {
-     "date": "2026-11-03",
-     "close": 1.67,
-     "change": -7.97
-    }
-   ],
-   "market_cap": 21700000.0,
-   "shares_outstanding": 15500000.0,
-   "industry": "Security Brokers, Dealers & Flotation Companies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "KOWLOON",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T20:02:34+09:00"
-  },
-  {
-   "id": "0001292814-26-005156",
-   "company": "COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO-SABESP",
-   "ticker": "SBS",
-   "cik": 1170858,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "8% year-over-year, mainly reflecting a weaker net financial result, as 3Q25 benefited from a non-recurring R$1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1170858/000129281426005156/0001292814-26-005156-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1170858/000129281426005156/sbspr3q26_6k.htm",
-   "filed_at": "2026-11-05T18:01:02-05:00",
-   "filed_kst": "2026-11-06 08:01",
-   "price": 4.56,
-   "change": -1.3,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 4.56,
-     "change": -1.3
-    },
-    {
-     "date": "2026-11-04",
-     "close": 4.62,
-     "change": 4.52
-    },
-    {
-     "date": "2026-11-03",
-     "close": 4.42,
-     "change": -2.21
-    }
-   ],
-   "market_cap": 3193000637.0,
-   "shares_outstanding": 700219438.0,
-   "industry": "Water Supply",
-   "state_of_incorporation": "Brazil",
-   "hq": "SP",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T20:02:32+09:00"
-  },
-  {
-   "id": "0001062993-26-005777",
-   "company": "IAMGOLD CORP",
-   "ticker": "IAG",
-   "cik": 1203464,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "6 million shares) as part of the share buyback program during the quarter.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1203464/000106299326005777/0001062993-26-005777-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1203464/000106299326005777/exhibit99-1.htm",
-   "filed_at": "2026-11-05T18:12:10-05:00",
-   "filed_kst": "2026-11-06 08:12",
-   "price": 17.5,
-   "change": 0.17,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 17.5,
-     "change": 0.17
-    },
-    {
-     "date": "2026-11-04",
-     "close": 17.47,
-     "change": 10.22
-    },
-    {
-     "date": "2026-11-03",
-     "close": 15.85,
-     "change": -0.94
-    }
-   ],
-   "market_cap": 10345029538.0,
-   "shares_outstanding": 591144545.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO, A6",
-   "entity_category": null,
-   "detected_at": "2026-11-06T20:02:28+09:00"
-  },
-  {
-   "id": "0001564708-26-000255",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000255/0001564708-26-000255-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000255/appendix3cclassa20261105.htm",
-   "filed_at": "2026-11-05T18:05:19-05:00",
-   "filed_kst": "2026-11-06 08:05",
-   "price": 28.97,
-   "change": -13.24,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 28.97,
-     "change": -13.24
-    },
-    {
-     "date": "2026-11-04",
-     "close": 33.39,
-     "change": 4.15
-    },
-    {
-     "date": "2026-11-03",
-     "close": 32.06,
-     "change": -1.23
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T20:02:23+09:00"
-  },
-  {
-   "id": "0001833141-26-000094",
-   "company": "Helus Pharma Inc.",
-   "ticker": "HELP",
-   "cik": 1833141,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000094/0001833141-26-000094-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000094/materialchangereport-leade.htm",
-   "filed_at": "2026-11-05T17:32:01-05:00",
-   "filed_kst": "2026-11-06 07:32",
-   "price": 8.39,
-   "change": -3.34,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 8.39,
-     "change": -3.34
-    },
-    {
-     "date": "2026-11-04",
-     "close": 8.68,
-     "change": -3.88
-    },
-    {
-     "date": "2026-11-03",
-     "close": 9.03,
-     "change": 2.61
-    }
-   ],
-   "market_cap": 181234135.0,
-   "shares_outstanding": 21601208.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T20:00:44+09:00"
-  },
-  {
-   "id": "0001437749-26-034436",
-   "company": "CENTERSPACE",
-   "ticker": "CSR",
-   "cik": 798359,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "Under the terms of the merger agreement, Centerspace shareholders will receive 3.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/798359/000143774926034436/0001437749-26-034436-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/798359/000143774926034436/irt20261029_425.htm",
-   "filed_at": "2026-11-02T16:05:28-05:00",
-   "filed_kst": "2026-11-03 06:05",
-   "price": 58.45,
-   "change": -1.88,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 58.45,
-     "change": -1.88
-    },
-    {
-     "date": "2026-11-04",
-     "close": 59.57,
-     "change": 4.03
-    },
-    {
-     "date": "2026-11-03",
-     "close": 57.26,
-     "change": -3.23
-    }
-   ],
-   "market_cap": 983359314.0,
-   "shares_outstanding": 16823940.358,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "ND",
-   "hq": "MINOT, ND",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T08:32:49+09:00"
   }
  ]
 }
