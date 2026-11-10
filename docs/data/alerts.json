@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-11T03:34:48+09:00",
+ "updated_at": "2026-11-11T03:39:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-008485",
+   "company": "Mobiquity Technologies, Inc.",
+   "ticker": "MOBQ",
+   "cik": 1084267,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "This Agreement does not establish a partnership, joint venture, agency, acquisition obligation or employment relationship.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1084267/000168316826008485/0001683168-26-008485-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1084267/000168316826008485/mobiquity_8k.htm",
+   "filed_at": "2026-11-10T13:38:03-05:00",
+   "filed_kst": "2026-11-11 03:38",
+   "price": 0.37,
+   "change": 0.08,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 0.37,
+     "change": 0.08
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.37,
+     "change": 13.24
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.33,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 11512268.0,
+   "shares_outstanding": 31114238.0,
+   "industry": "Services-Advertising",
+   "state_of_incorporation": "NY",
+   "hq": "SHOREHAM, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T03:38:32+09:00"
+  },
   {
    "id": "0001104659-26-125039",
    "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
@@ -15687,41 +15741,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-06T07:26:58+09:00"
-  },
-  {
-   "id": "0001213900-26-116460",
-   "company": "Mkango Rare Earths Ltd",
-   "ticker": "MKAR",
-   "cik": 2052373,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "MKAR has signed a Business Combination Agreement with CPTK, pursuant to which MKAR, which will hold the Songwe Hill and Pulawy projects, is expected to become listed on Nasdaq, subject to the satisfaction or waiver of closing conditions.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2052373/000121390026116460/0001213900-26-116460-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2052373/000121390026116460/ea0311155-425_mkango.htm",
-   "filed_at": "2026-11-05T17:26:32-05:00",
-   "filed_kst": "2026-11-06 07:26",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "ROAD TOWN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T07:26:57+09:00"
   }
  ]
 }
