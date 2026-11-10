@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-11T01:39:33+09:00",
+ "updated_at": "2026-11-11T01:44:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-050909",
+   "company": "AMERICAN REBEL HOLDINGS INC",
+   "ticker": "AREB",
+   "cik": 1648087,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "3.02",
+    "5.03",
+    "8.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "On the Issuance Date, the Preferred Shares will be cancelled and all obligations of Company under the Preferred Shares shall be deemed fulfilled.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226050909/0001493152-26-050909-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226050909/form8-k.htm",
+   "filed_at": "2026-11-10T11:43:58-05:00",
+   "filed_kst": "2026-11-11 01:43",
+   "price": 0.04,
+   "change": -1.13,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 0.04,
+     "change": -1.13
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.04,
+     "change": -13.66
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.04,
+     "change": 5.13
+    }
+   ],
+   "market_cap": 1139594.0,
+   "shares_outstanding": 28489850.0,
+   "industry": "Miscellaneous Fabricated Metal Products",
+   "state_of_incorporation": "NV",
+   "hq": "NASHVILLE, TN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T01:44:39+09:00"
+  },
   {
    "id": "0001243429-26-000105",
    "company": "ArcelorMittal",
@@ -15665,62 +15721,6 @@
    "hq": "STOCKHOLM",
    "entity_category": null,
    "detected_at": "2026-11-06T07:16:04+09:00"
-  },
-  {
-   "id": "0001193125-26-450159",
-   "company": "REGENCY CENTERS CORP",
-   "ticker": "REG",
-   "cik": 910606,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 68,
-   "summary": "o Cornerstone was acquired through a joint venture for $74 million, or approximately $15 million at Regency's share.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/910606/000119312526450159/0001193125-26-450159-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/910606/000119312526450159/reg-ex99_1.htm",
-   "filed_at": "2026-11-05T17:15:06-05:00",
-   "filed_kst": "2026-11-06 07:15",
-   "price": 76.28,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 76.28,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 76.28,
-     "change": -0.73
-    },
-    {
-     "date": "2026-11-04",
-     "close": 76.84,
-     "change": 2.22
-    }
-   ],
-   "market_cap": 13966623141.0,
-   "shares_outstanding": 183096790.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "FL",
-   "hq": "JACKSONVILLE, FL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T07:16:03+09:00"
   }
  ]
 }
