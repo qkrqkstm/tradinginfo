@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-10T20:19:37+09:00",
+ "updated_at": "2026-11-10T20:24:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-454353",
+   "company": "AMPCO PITTSBURGH CORP",
+   "ticker": "AP",
+   "cik": 6176,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "It operates manufacturing facilities in the United States, Sweden, and Slovenia and participates in two operating joint ventures located in China.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6176/000119312526454353/0001193125-26-454353-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/6176/000119312526454353/ap-ex99_1.htm",
+   "filed_at": "2026-11-10T06:20:51-05:00",
+   "filed_kst": "2026-11-10 20:20",
+   "price": 6.0,
+   "change": 1.87,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 6.0,
+     "change": 1.87
+    },
+    {
+     "date": "2026-11-06",
+     "close": 5.89,
+     "change": -1.01
+    },
+    {
+     "date": "2026-11-05",
+     "close": 5.95,
+     "change": -13.89
+    }
+   ],
+   "market_cap": 123951726.0,
+   "shares_outstanding": 20658621.0,
+   "industry": "Pumps & Pumping Equipment",
+   "state_of_incorporation": "PA",
+   "hq": "CARNEGIE, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T20:21:34+09:00"
+  },
   {
    "id": "0001193125-26-454342",
    "company": "IMMUTEP Ltd",
@@ -15657,62 +15711,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T06:15:29+09:00"
-  },
-  {
-   "id": "0001437749-26-035279",
-   "company": "PUMA BIOTECHNOLOGY, INC.",
-   "ticker": "PBYI",
-   "cik": 1401667,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 80,
-   "summary": "In September 2022, Puma entered into an exclusive license agreement for the development and commercialization of the anti-cancer drug alisertib, a selective, small molecule, orally administered inhibitor of aurora kinase A.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1401667/000143774926035279/0001437749-26-035279-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1401667/000143774926035279/ex_1011140.htm",
-   "filed_at": "2026-11-05T16:13:18-05:00",
-   "filed_kst": "2026-11-06 06:13",
-   "price": 9.77,
-   "change": -8.61,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 9.77,
-     "change": -8.61
-    },
-    {
-     "date": "2026-11-04",
-     "close": 10.69,
-     "change": 4.6
-    },
-    {
-     "date": "2026-11-03",
-     "close": 10.22,
-     "change": 0.39
-    }
-   ],
-   "market_cap": 504328045.0,
-   "shares_outstanding": 51620066.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "LOS ANGELES, CA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-06T06:14:13+09:00"
   }
  ]
 }
