@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-10T21:39:08+09:00",
+ "updated_at": "2026-11-10T21:44:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001759425-26-000064",
+   "company": "Mirum Pharmaceuticals, Inc.",
+   "ticker": "MIRM",
+   "cik": 1759425,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 68,
+   "summary": "Phase 3 AZURE-4 Results: Brelovitug Met the Primary Endpoint at Week 24 The AZURE-4 study enrolled 113 treatment-naïve patients randomized 2:1:1 to receive brelovitug 300 mg self-administered once weekly (“QW”) by subcutaneous (“SC”) injection, brelovitug 90",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000064/0001759425-26-000064-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000064/mirm-20261110.htm",
+   "filed_at": "2026-11-10T07:41:28-05:00",
+   "filed_kst": "2026-11-10 21:41",
+   "price": 93.18,
+   "change": -0.58,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 93.18,
+     "change": -0.58
+    },
+    {
+     "date": "2026-11-06",
+     "close": 93.72,
+     "change": 0.19
+    },
+    {
+     "date": "2026-11-05",
+     "close": 93.54,
+     "change": -3.54
+    }
+   ],
+   "market_cap": 6082980860.0,
+   "shares_outstanding": 65282044.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "FOSTER CITY, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-10T21:42:03+09:00"
+  },
   {
    "id": "0001104659-26-124800",
    "company": "Vireo Growth Inc.",
@@ -15676,59 +15728,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-06T06:26:02+09:00"
-  },
-  {
-   "id": "0001873923-26-000116",
-   "company": "Orion Properties Inc.",
-   "ticker": "ONL",
-   "cik": 1873923,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 60,
-   "summary": "4 million, including our proportionate share of the gross sales price of one Unconsolidated Joint Venture property of $4.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1873923/000187392326000116/0001873923-26-000116-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1873923/000187392326000116/exhibit992orionsupplementa.htm",
-   "filed_at": "2026-11-05T16:22:46-05:00",
-   "filed_kst": "2026-11-06 06:22",
-   "price": 2.35,
-   "change": -5.24,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 2.35,
-     "change": -5.24
-    },
-    {
-     "date": "2026-11-04",
-     "close": 2.48,
-     "change": 0.4
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.47,
-     "change": 1.23
-    }
-   ],
-   "market_cap": 134055078.0,
-   "shares_outstanding": 57044714.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "PHOENIX, AZ",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T06:23:42+09:00"
   }
  ]
 }
