@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-11T04:09:33+09:00",
+ "updated_at": "2026-11-11T04:14:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-125064",
+   "company": "STEEL DYNAMICS INC",
+   "ticker": "STLD",
+   "cik": 1022671,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "0 Billion Share Repurchase Authorization and Fourth Quarter 2026 Cash Dividend FORT WAYNE, INDIANA, November 9, 2026 / PRNewswire / Steel Dynamics, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/0001104659-26-125064-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/tm2629447d1_ex99-1.htm",
+   "filed_at": "2026-11-10T14:12:26-05:00",
+   "filed_kst": "2026-11-11 04:12",
+   "price": 234.95,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 234.95,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 234.95,
+     "change": 3.25
+    },
+    {
+     "date": "2026-11-09",
+     "close": 227.56,
+     "change": 2.09
+    }
+   ],
+   "market_cap": 33413998571.0,
+   "shares_outstanding": 142217487.0,
+   "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+   "state_of_incorporation": "IN",
+   "hq": "FORT WAYNE, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T04:13:08+09:00"
+  },
   {
    "id": "0000721994-26-000089",
    "company": "LAKELAND FINANCIAL CORP",
@@ -15707,58 +15760,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-06T08:32:42+09:00"
-  },
-  {
-   "id": "0001171843-26-007192",
-   "company": "Aura Minerals Inc.",
-   "ticker": "AUGO",
-   "cik": 1468642,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "EX-99.2 3 exh_992.htm EXHIBIT 99.2 Exhibit 99.2 Unaudited Condensed Interim Consolidated Financial Statements For the three and nine month periods ended September 30, 2026 and 2025 Aura Minerals Inc. Unaudited Condensed Consolidated Statements of Income (Loss) For the three and nine month periods en",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1468642/000117184326007192/0001171843-26-007192-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468642/000117184326007192/exh_992.htm",
-   "filed_at": "2026-11-05T17:30:05-05:00",
-   "filed_kst": "2026-11-06 07:30",
-   "price": 71.27,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 71.27,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 71.27,
-     "change": -1.55
-    },
-    {
-     "date": "2026-11-04",
-     "close": 72.39,
-     "change": 12.92
-    }
-   ],
-   "market_cap": 5971657923.0,
-   "shares_outstanding": 83789223.0,
-   "industry": "Metal Mining",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "ROAD TOWN TORTOLA, D8",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T07:30:36+09:00"
   }
  ]
 }
