@@ -1,7 +1,219 @@
 {
- "updated_at": "2026-11-11T06:29:17+09:00",
+ "updated_at": "2026-11-11T06:34:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001167379-26-000033",
+   "company": "ALCON INC",
+   "ticker": "ALC",
+   "cik": 1167379,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 86,
+   "summary": "Share repurchase authorization On May 5, 2026, the Alcon Board of Directors authorized the repurchase of up to $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1167379/000116737926000033/0001167379-26-000033-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1167379/000116737926000033/q32026interimfinancialrepo.htm",
+   "filed_at": "2026-11-10T16:31:56-05:00",
+   "filed_kst": "2026-11-11 06:31",
+   "price": 74.06,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 74.06,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 74.06,
+     "change": -1.44
+    },
+    {
+     "date": "2026-11-09",
+     "close": 75.14,
+     "change": 0.27
+    }
+   ],
+   "market_cap": 36098911755.0,
+   "shares_outstanding": 487427920.0,
+   "industry": "Ophthalmic Goods",
+   "state_of_incorporation": "Switzerland",
+   "hq": "FORT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T06:32:51+09:00"
+  },
+  {
+   "id": "0001493152-26-050985",
+   "company": "CL Workshop Group Ltd",
+   "ticker": "NWGL",
+   "cik": 1948294,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-3.1 2 ex3-1.htm EX-3.1 Exhibit 3.1 BVI COMPANY NUMBER: 1672383 Territory of the Virgin Islands The BVI Business Companies Act, 2004 THIRD amended and restated memorandum and articles of association of CL Workshop Group Limited 刺 梨 工 坊 公 司 Incorporated as a BVI business company on 22nd of Septembe",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1948294/000149315226050985/0001493152-26-050985-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1948294/000149315226050985/ex3-1.htm",
+   "filed_at": "2026-11-10T16:30:19-05:00",
+   "filed_kst": "2026-11-11 06:30",
+   "price": 2.53,
+   "change": -10.92,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 2.53,
+     "change": -10.92
+    },
+    {
+     "date": "2026-11-09",
+     "close": 2.84,
+     "change": 12.25
+    },
+    {
+     "date": "2026-11-06",
+     "close": 2.53,
+     "change": -6.99
+    }
+   ],
+   "market_cap": 335036062.0,
+   "shares_outstanding": 132425321.0,
+   "industry": "Lumber & Wood Products (No Furniture)",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "MACAU S.A.R",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-11T06:31:30+09:00"
+  },
+  {
+   "id": "0001828536-26-000116",
+   "company": "Energy Vault Holdings, Inc.",
+   "ticker": "NRGV",
+   "cik": 1828536,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 79,
+   "summary": "EX-99.1 2 ex991_evpressreleasex2026q.htm EX-99.1 Document Exhibit 99.1 Energy Vault Reports Third Quarter 2026 Financial Results, Affirms Recently Raised Full-Year 2026 Revenue Guidance and Provides Preliminary 2027 Financial Guidance Contract backlog reached $2.3 billion, up 15% sequentially and 14",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000116/0001828536-26-000116-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000116/ex991_evpressreleasex2026q.htm",
+   "filed_at": "2026-11-10T16:30:15-05:00",
+   "filed_kst": "2026-11-11 06:30",
+   "price": 3.53,
+   "change": -2.49,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 3.53,
+     "change": -2.49
+    },
+    {
+     "date": "2026-11-09",
+     "close": 3.62,
+     "change": 11.73
+    },
+    {
+     "date": "2026-11-06",
+     "close": 3.24,
+     "change": 15.71
+    }
+   ],
+   "market_cap": 641893682.0,
+   "shares_outstanding": 181839570.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "WESTLAKE VILLIAGE, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-11T06:31:26+09:00"
+  },
+  {
+   "id": "0001899287-26-000069",
+   "company": "Amprius Technologies, Inc.",
+   "ticker": "AMPX",
+   "cik": 1899287,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 64,
+   "summary": "2) NM % Margin (3%) 1% Business Highlights • Secured a $75 million U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1899287/000189928726000069/0001899287-26-000069-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1899287/000189928726000069/ampx-2026x11x03x8kex991.htm",
+   "filed_at": "2026-11-10T16:28:59-05:00",
+   "filed_kst": "2026-11-11 06:28",
+   "price": 9.17,
+   "change": -3.68,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 9.17,
+     "change": -3.68
+    },
+    {
+     "date": "2026-11-09",
+     "close": 9.52,
+     "change": 9.17
+    },
+    {
+     "date": "2026-11-06",
+     "close": 8.72,
+     "change": 15.96
+    }
+   ],
+   "market_cap": 1339559267.0,
+   "shares_outstanding": 146080618.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "FREMONT, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-11T06:30:43+09:00"
+  },
   {
    "id": "0001193125-26-455560",
    "company": "Inhibikase Therapeutics, Inc.",
@@ -15630,207 +15842,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T22:34:15+09:00"
-  },
-  {
-   "id": "0001991792-26-000011",
-   "company": "CG Oncology, Inc.",
-   "ticker": "CGON",
-   "cik": 1991792,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "Cretostimogene has received FDA Fast Track and Breakthrough Therapy designations for BCG-unresponsive NMIBC.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1991792/000199179226000011/0001991792-26-000011-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1991792/000199179226000011/cgon-20261106x8kexx991.htm",
-   "filed_at": "2026-11-06T08:30:12-05:00",
-   "filed_kst": "2026-11-06 22:30",
-   "price": 64.8,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 64.8,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 64.8,
-     "change": -4.3
-    },
-    {
-     "date": "2026-11-04",
-     "close": 67.71,
-     "change": 5.7
-    }
-   ],
-   "market_cap": 5743896300.0,
-   "shares_outstanding": 88640375.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T22:31:10+09:00"
-  },
-  {
-   "id": "0000874396-26-000058",
-   "company": "LIFETIME BRANDS, INC",
-   "ticker": "LCUT",
-   "cik": 874396,
-   "form": "8-K/A",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 67,
-   "summary": "Reports Third Quarter 2026 Financial Results Declares Regular Quarterly Dividend Board Authorizes $20M Share Repurchase Program GARDEN CITY, NY, November 6, 2026 – Lifetime Brands, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/874396/000087439626000058/0000874396-26-000058-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/874396/000087439626000058/ex99111062026-reissued.htm",
-   "filed_at": "2026-11-06T08:09:49-05:00",
-   "filed_kst": "2026-11-06 22:09",
-   "price": 7.77,
-   "change": -12.6,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 7.77,
-     "change": -12.6
-    },
-    {
-     "date": "2026-11-04",
-     "close": 8.89,
-     "change": 4.71
-    },
-    {
-     "date": "2026-11-03",
-     "close": 8.49,
-     "change": -3.19
-    }
-   ],
-   "market_cap": 178589254.0,
-   "shares_outstanding": 22984460.0,
-   "industry": "Cutlery, Handtools & General Hardware",
-   "state_of_incorporation": "DE",
-   "hq": "GARDEN CITY, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-06T22:10:32+09:00"
-  },
-  {
-   "id": "0001213900-26-116607",
-   "company": "Protara Therapeutics, Inc.",
-   "ticker": "TARA",
-   "cik": 1359931,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 73,
-   "summary": "Supported by the program’s Breakthrough Therapy designation, we remain on track to initiate our rolling Biologics License Application (BLA) submission in the second half of 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026116607/0001213900-26-116607-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026116607/ea030956701ex99-1.htm",
-   "filed_at": "2026-11-06T08:05:21-05:00",
-   "filed_kst": "2026-11-06 22:05",
-   "price": 2.13,
-   "change": -9.36,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 2.13,
-     "change": -9.36
-    },
-    {
-     "date": "2026-11-04",
-     "close": 2.35,
-     "change": -2.49
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.41,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 125873389.0,
-   "shares_outstanding": 59095488.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-06T22:05:55+09:00"
-  },
-  {
-   "id": "0001213900-26-116597",
-   "company": "Crown PropTech Acquisitions",
-   "ticker": "CPTKW",
-   "cik": 1827899,
-   "form": "425",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "MKAR has signed a Business Combination Agreement with CPTK, pursuant to which MKAR, which will hold the Songwe Hill and Pulawy projects, is expected to become listed on Nasdaq, subject to the satisfaction or waiver of closing conditions.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026116597/0001213900-26-116597-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026116597/ea031120301ex99-1.htm",
-   "filed_at": "2026-11-06T07:59:58-05:00",
-   "filed_kst": "2026-11-06 21:59",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Wholesale-Hardware",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T22:00:48+09:00"
   }
  ]
 }
