@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-10T20:24:38+09:00",
+ "updated_at": "2026-11-10T20:29:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001701541-26-000030",
+   "company": "Black Diamond Therapeutics, Inc.",
+   "ticker": "BDTX",
+   "cik": 1701541,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "In addition to the ongoing Phase 2 trial of silevertinib in patients with non-classical EGFRm NSCLC, the Company is also conducting a randomized Phase 2 trial of silevertinib in patients with newly diagnosed EGFRvIII-positive GBM (NCT07326566).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701541/000170154126000030/0001701541-26-000030-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701541/000170154126000030/bdtx-exhibit991_q32026.htm",
+   "filed_at": "2026-11-10T06:28:50-05:00",
+   "filed_kst": "2026-11-10 20:28",
+   "price": 1.86,
+   "change": 7.2,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 1.86,
+     "change": 7.2
+    },
+    {
+     "date": "2026-11-06",
+     "close": 1.74,
+     "change": 4.52
+    },
+    {
+     "date": "2026-11-05",
+     "close": 1.66,
+     "change": -12.63
+    }
+   ],
+   "market_cap": 106863969.0,
+   "shares_outstanding": 57453747.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": null,
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-10T20:29:29+09:00"
+  },
   {
    "id": "0001193125-26-454353",
    "company": "AMPCO PITTSBURGH CORP",
@@ -15657,60 +15711,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-06T06:15:35+09:00"
-  },
-  {
-   "id": "0001104485-26-000047",
-   "company": "NORTHERN OIL & GAS, INC.",
-   "ticker": "NOG",
-   "cik": 1104485,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "0 million increase to the Company’s common stock repurchase program, which provides a current total repurchase capacity of approximately $227.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1104485/000110448526000047/0001104485-26-000047-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1104485/000110448526000047/exhibit991-2026qx3earnings.htm",
-   "filed_at": "2026-11-05T16:14:59-05:00",
-   "filed_kst": "2026-11-06 06:14",
-   "price": 22.14,
-   "change": -0.58,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 22.14,
-     "change": -0.58
-    },
-    {
-     "date": "2026-11-04",
-     "close": 22.27,
-     "change": -10.85
-    },
-    {
-     "date": "2026-11-03",
-     "close": 24.98,
-     "change": -3.18
-    }
-   ],
-   "market_cap": 2358997694.0,
-   "shares_outstanding": 106549128.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": null,
-   "hq": "MINNETONKA, MN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:15:29+09:00"
   }
  ]
 }
