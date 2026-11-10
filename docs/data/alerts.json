@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-11T00:04:45+09:00",
+ "updated_at": "2026-11-11T00:09:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009641",
+   "company": "VODAFONE GROUP PUBLIC LTD CO",
+   "ticker": "VOD",
+   "cik": 839923,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "Africa On 30 June 2026, we announced that Vodacom Group Ltd (‘Vodacom’) had completed the acquisition of an effective 20% of the issued share capital in Safaricom PLC (‘Safaricom’), increasing its shareholding to 55%.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/839923/000165495426009641/0001654954-26-009641-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/839923/000165495426009641/a4345c.htm",
+   "filed_at": "2026-11-10T10:08:23-05:00",
+   "filed_kst": "2026-11-11 00:08",
+   "price": 15.63,
+   "change": -0.38,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 15.63,
+     "change": -0.38
+    },
+    {
+     "date": "2026-11-09",
+     "close": 15.69,
+     "change": 0.71
+    },
+    {
+     "date": "2026-11-06",
+     "close": 15.58,
+     "change": -2.32
+    }
+   ],
+   "market_cap": 450407143210.0,
+   "shares_outstanding": 28816835778.0,
+   "industry": "Radiotelephone Communications",
+   "state_of_incorporation": null,
+   "hq": "NEWBURY, BERKSHIRE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T00:09:14+09:00"
+  },
   {
    "id": "0001437749-26-036020",
    "company": "ALPHA PRO TECH LTD",
@@ -15671,55 +15722,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T07:14:10+09:00"
-  },
-  {
-   "id": "0001628280-26-071169",
-   "company": "IAMGOLD CORP",
-   "ticker": "IAG",
-   "cik": 1203464,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.1 2 q32026mda.htm EX-99.1 Document MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL POSITION AND RESULTS OF OPERATIONS Third Quarter Ended September 30, 2026 INDEX Introduction 2 About IAMGOLD 2 Highlights 2 Operating and Financial Results 4 Outlook 7 Environmental, Social and Governance 9 Op",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1203464/000162828026071169/0001628280-26-071169-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1203464/000162828026071169/q32026mda.htm",
-   "filed_at": "2026-11-05T17:11:30-05:00",
-   "filed_kst": "2026-11-06 07:11",
-   "price": 17.5,
-   "change": 0.17,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 17.5,
-     "change": 0.17
-    },
-    {
-     "date": "2026-11-04",
-     "close": 17.47,
-     "change": 10.22
-    },
-    {
-     "date": "2026-11-03",
-     "close": 15.85,
-     "change": -0.94
-    }
-   ],
-   "market_cap": 10345029538.0,
-   "shares_outstanding": 591144545.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO, A6",
-   "entity_category": null,
-   "detected_at": "2026-11-06T07:12:05+09:00"
   }
  ]
 }
