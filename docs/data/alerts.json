@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-11T05:19:38+09:00",
+ "updated_at": "2026-11-11T05:24:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-125108",
+   "company": "FIRST FINANCIAL CORP /IN/",
+   "ticker": "THFF",
+   "cik": 714562,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The purpose of the Special Meeting shall be to vote on the merger agreement between First Illinois Corporation and First Financial Corporation dated August 26, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/714562/000110465926125108/0001104659-26-125108-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/714562/000110465926125108/tm2628629d13_425.htm",
+   "filed_at": "2026-11-10T15:23:17-05:00",
+   "filed_kst": "2026-11-11 05:23",
+   "price": 77.32,
+   "change": 0.43,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 77.32,
+     "change": 0.43
+    },
+    {
+     "date": "2026-11-09",
+     "close": 76.99,
+     "change": 0.98
+    },
+    {
+     "date": "2026-11-06",
+     "close": 76.24,
+     "change": -0.46
+    }
+   ],
+   "market_cap": 919481399.0,
+   "shares_outstanding": 11891896.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "IN",
+   "hq": "TERRE HAUTE, IN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-11T05:24:12+09:00"
+  },
   {
    "id": "0001104659-26-125064",
    "company": "STEEL DYNAMICS INC",
@@ -15709,57 +15759,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T08:32:46+09:00"
-  },
-  {
-   "id": "0001213900-26-114940",
-   "company": "FG Imperii Acquisition Corp.",
-   "ticker": "FGII",
-   "cik": 2090452,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "(Nasdaq: FGII) (“FG Imperii”), a publicly traded special purpose acquisition company, today announced that they have entered into a definitive business combination agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026114940/0001213900-26-114940-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026114940/ea031050701-425_tzero.htm",
-   "filed_at": "2026-11-02T16:16:05-05:00",
-   "filed_kst": "2026-11-03 06:16",
-   "price": 10.07,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 10.07,
-     "change": -0.1
-    },
-    {
-     "date": "2026-11-04",
-     "close": 10.08,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-03",
-     "close": 10.08,
-     "change": -0.1
-    }
-   ],
-   "market_cap": 291425800.0,
-   "shares_outstanding": 28940000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "ITASCA, IL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-06T08:32:42+09:00"
   }
  ]
 }
