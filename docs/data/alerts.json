@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-10T20:44:37+09:00",
+ "updated_at": "2026-11-10T20:49:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-050853",
+   "company": "Nova Minerals Corp",
+   "ticker": "NVA",
+   "cik": 1852551,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "In parallel, Nova is advancing its critical minerals strategy, fully-funded by a $43.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226050853/0001493152-26-050853-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226050853/ex99-1.htm",
+   "filed_at": "2026-11-10T06:45:33-05:00",
+   "filed_kst": "2026-11-10 20:45",
+   "price": 4.42,
+   "change": 2.31,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 4.42,
+     "change": 2.31
+    },
+    {
+     "date": "2026-11-06",
+     "close": 4.32,
+     "change": -1.37
+    },
+    {
+     "date": "2026-11-05",
+     "close": 4.38,
+     "change": -16.41
+    }
+   ],
+   "market_cap": 168819107.0,
+   "shares_outstanding": 38194368.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "NV",
+   "hq": "CAULFIELD",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T20:46:07+09:00"
+  },
   {
    "id": "0001260221-26-000073",
    "company": "TransDigm Group INC",
@@ -15657,60 +15712,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-06T06:16:16+09:00"
-  },
-  {
-   "id": "0001388658-26-000093",
-   "company": "iRhythm Holdings, Inc.",
-   "ticker": "IRTC",
-   "cik": 1388658,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 62,
-   "summary": "EX-99.1 2 irtcq32026ex991pressrelease.htm EX-99.1 Document Exhibit 99.1 iRhythm Holdings Announces Third Quarter 2026 Financial Results SAN FRANCISCO, November 5, 2026 -- iRhythm Holdings, Inc. (NASDAQ: IRTC), a leading digital health care company with a mission to create trusted solutions that dete",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1388658/000138865826000093/0001388658-26-000093-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1388658/000138865826000093/irtcq32026ex991pressrelease.htm",
-   "filed_at": "2026-11-05T16:15:28-05:00",
-   "filed_kst": "2026-11-06 06:15",
-   "price": 130.19,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 130.19,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 130.19,
-     "change": -2.84
-    },
-    {
-     "date": "2026-11-04",
-     "close": 134.0,
-     "change": 6.04
-    }
-   ],
-   "market_cap": 4291453361.0,
-   "shares_outstanding": 32963003.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": null,
-   "hq": "San Francisco, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:16:13+09:00"
   }
  ]
 }
