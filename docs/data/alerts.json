@@ -1,7 +1,116 @@
 {
- "updated_at": "2026-11-11T06:44:24+09:00",
+ "updated_at": "2026-11-11T06:49:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-072809",
+   "company": "Azenta, Inc.",
+   "ticker": "AZTA",
+   "cik": 933974,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 72,
+   "summary": "Share Repurchase Program Update • On December 8, 2025, our Board of Directors approved a share repurchase program authorizing the repurchase of up to $250 million of our common stock through December 31, 2028, or the 2025 Repurchase Program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026072809/0001628280-26-072809-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026072809/azta-2026q426erxexx991.htm",
+   "filed_at": "2026-11-10T16:46:21-05:00",
+   "filed_kst": "2026-11-11 06:46",
+   "price": 40.48,
+   "change": -1.15,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 40.48,
+     "change": -1.15
+    },
+    {
+     "date": "2026-11-09",
+     "close": 40.95,
+     "change": 4.57
+    },
+    {
+     "date": "2026-11-06",
+     "close": 39.16,
+     "change": 4.76
+    }
+   ],
+   "market_cap": 1773363749.0,
+   "shares_outstanding": 43808393.0,
+   "industry": "Special Industry Machinery, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BURLINGTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T06:47:13+09:00"
+  },
+  {
+   "id": "0001628280-26-072808",
+   "company": "Hyliion Holdings Corp.",
+   "ticker": "HYLN",
+   "cik": 1759631,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 68,
+   "summary": "Navy and began moving equipment to the first commercial customer deployment site • Anticipating approximately $8 million in additional military contract awards before year-end, which would bring total new military awards for 2026 to approximately $50 million • Entered the fourth quarter with $45.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1759631/000162828026072808/0001628280-26-072808-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1759631/000162828026072808/exhibit991093026.htm",
+   "filed_at": "2026-11-10T16:46:18-05:00",
+   "filed_kst": "2026-11-11 06:46",
+   "price": 2.99,
+   "change": -4.78,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 2.99,
+     "change": -4.78
+    },
+    {
+     "date": "2026-11-09",
+     "close": 3.14,
+     "change": 5.02
+    },
+    {
+     "date": "2026-11-06",
+     "close": 2.99,
+     "change": 13.69
+    }
+   ],
+   "market_cap": 534005682.0,
+   "shares_outstanding": 178597218.0,
+   "industry": "Truck & Bus Bodies",
+   "state_of_incorporation": "DE",
+   "hq": "CEDAR PARK, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T06:46:41+09:00"
+  },
   {
    "id": "0001628280-26-072792",
    "company": "Elemental Royalty Corp",
@@ -15737,109 +15846,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-07T00:22:38+09:00"
-  },
-  {
-   "id": "0001193125-26-450866",
-   "company": "StealthGas Inc.",
-   "ticker": "GASS",
-   "cik": 1328919,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "8 years including one LPG carrier in the water that is owned by a joint venture.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1328919/000119312526450866/0001193125-26-450866-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1328919/000119312526450866/d119196dex991.htm",
-   "filed_at": "2026-11-06T09:05:10-05:00",
-   "filed_kst": "2026-11-06 23:05",
-   "price": 7.87,
-   "change": -5.07,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 7.87,
-     "change": -5.07
-    },
-    {
-     "date": "2026-11-04",
-     "close": 8.29,
-     "change": -3.38
-    },
-    {
-     "date": "2026-11-03",
-     "close": 8.58,
-     "change": 8.2
-    }
-   ],
-   "market_cap": 292651349.0,
-   "shares_outstanding": 37185686.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "ATHENS",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-06T23:05:55+09:00"
-  },
-  {
-   "id": "0001671927-26-000034",
-   "company": "Immunocore Holdings plc",
-   "ticker": "IMCR",
-   "cik": 1671927,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "• Based on these data, the Company is planning to start DUET-UVEAL, a randomized Phase 2/3 trial, to evaluate the combination for the treatment of HLA-A*02:01-positive patients with mUM.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1671927/000167192726000034/0001671927-26-000034-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671927/000167192726000034/pressrelease-q32026.htm",
-   "filed_at": "2026-11-06T09:00:53-05:00",
-   "filed_kst": "2026-11-06 23:00",
-   "price": 28.4,
-   "change": -2.84,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 28.4,
-     "change": -2.84
-    },
-    {
-     "date": "2026-11-04",
-     "close": 29.23,
-     "change": -2.66
-    },
-    {
-     "date": "2026-11-03",
-     "close": 30.03,
-     "change": 0.81
-    }
-   ],
-   "market_cap": 1462560723.0,
-   "shares_outstanding": 51498617.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "OXFORDSHIRE, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T23:01:50+09:00"
   }
  ]
 }
