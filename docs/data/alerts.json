@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-11T05:49:10+09:00",
+ "updated_at": "2026-11-11T05:54:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-455339",
+   "company": "EXICURE, INC.",
+   "ticker": "XCUR",
+   "cik": 1698530,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "(“GPCRT”), a company organized under the laws of the Republic of Korea, under which GPCRT has agreed to acquire the Company’s GPC-100 (burixafor) program assets for an aggregate cash purchase price of KRW 6.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1698530/000119312526455339/0001193125-26-455339-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1698530/000119312526455339/xcur-ex99_1.htm",
+   "filed_at": "2026-11-10T15:50:16-05:00",
+   "filed_kst": "2026-11-11 05:50",
+   "price": 1.14,
+   "change": 27.53,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 1.13,
+     "change": 27.53
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.89,
+     "change": -6.32
+    },
+    {
+     "date": "2026-11-06",
+     "close": 0.95,
+     "change": 6.74
+    }
+   ],
+   "market_cap": 7462434.0,
+   "shares_outstanding": 6545995.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-11T05:51:17+09:00"
+  },
   {
    "id": "0001104659-26-125108",
    "company": "FIRST FINANCIAL CORP /IN/",
@@ -15708,57 +15760,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T08:32:49+09:00"
-  },
-  {
-   "id": "0001437749-26-034436",
-   "company": "INDEPENDENCE REALTY TRUST, INC.",
-   "ticker": "IRT",
-   "cik": 1466085,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "Under the terms of the merger agreement, Centerspace shareholders will receive 3.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926034436/0001437749-26-034436-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1466085/000143774926034436/irt20261029_425.htm",
-   "filed_at": "2026-11-02T16:05:28-05:00",
-   "filed_kst": "2026-11-03 06:05",
-   "price": 15.32,
-   "change": -0.84,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 15.32,
-     "change": -0.84
-    },
-    {
-     "date": "2026-11-04",
-     "close": 15.45,
-     "change": 4.32
-    },
-    {
-     "date": "2026-11-03",
-     "close": 14.81,
-     "change": -0.87
-    }
-   ],
-   "market_cap": 3613524248.0,
-   "shares_outstanding": 235869729.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "PHILADELPHIA, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T08:32:46+09:00"
   }
  ]
 }
