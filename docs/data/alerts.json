@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-10T21:09:20+09:00",
+ "updated_at": "2026-11-10T21:14:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-454423",
+   "company": "Scholar Rock Holding Corp",
+   "ticker": "SRRK",
+   "cik": 1727196,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 79,
+   "summary": "launch of ISEMBYLD™ (apitegromab-mstn), the first and only muscle-targeted therapy for children and adults living with spinal muscular atrophy (SMA), underway following September 11, 2026 FDA approval • ISEMBYLD shipped to specialty network prior to quarter-end, reflecting Q3 2026 ISEMBYLD revenue o",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1727196/000119312526454423/0001193125-26-454423-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1727196/000119312526454423/srrk-ex99_1.htm",
+   "filed_at": "2026-11-10T07:10:18-05:00",
+   "filed_kst": "2026-11-10 21:10",
+   "price": 51.55,
+   "change": 9.82,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 51.55,
+     "change": 9.82
+    },
+    {
+     "date": "2026-11-06",
+     "close": 46.94,
+     "change": 3.16
+    },
+    {
+     "date": "2026-11-05",
+     "close": 45.5,
+     "change": -1.28
+    }
+   ],
+   "market_cap": 6278031287.0,
+   "shares_outstanding": 121785282.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-10T21:11:04+09:00"
+  },
   {
    "id": "0001193125-26-454414",
    "company": "Hemab Therapeutics Holdings, Inc.",
@@ -15675,56 +15731,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-06T06:20:31+09:00"
-  },
-  {
-   "id": "0000895345-26-000479",
-   "company": "GRUPO TELEVISA, S.A.B.",
-   "ticker": "TV",
-   "cik": 912892,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "0 million decrease in share of income in associates and joint ventures; and (ii) a Ps.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000479/0000895345-26-000479-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/912892/000089534526000479/ff7011455_6klong.htm",
-   "filed_at": "2026-11-05T16:18:40-05:00",
-   "filed_kst": "2026-11-06 06:18",
-   "price": 2.33,
-   "change": 1.3,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 2.33,
-     "change": 1.3
-    },
-    {
-     "date": "2026-11-04",
-     "close": 2.3,
-     "change": 5.99
-    },
-    {
-     "date": "2026-11-03",
-     "close": 2.17,
-     "change": 7.43
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": null,
-   "hq": "MEXICO, D.F.",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:19:19+09:00"
   }
  ]
 }
