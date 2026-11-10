@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-11T06:49:19+09:00",
+ "updated_at": "2026-11-11T06:54:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-043055",
+   "company": "Global Ship Lease, Inc.",
+   "ticker": "GSL",
+   "cik": 1430725,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "배당"
+   ],
+   "confidence": 58,
+   "summary": "8 billion of contracted revenue during the first nine months of this year, we are pleased to once again increase our quarterly dividend, starting with that to be paid for the third quarter of 2026, to $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1430725/000114036126043055/0001140361-26-043055-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1430725/000114036126043055/ef20085197_ex99-2.htm",
+   "filed_at": "2026-11-10T16:49:25-05:00",
+   "filed_kst": "2026-11-11 06:49",
+   "price": 42.29,
+   "change": 2.62,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 42.29,
+     "change": 2.62
+    },
+    {
+     "date": "2026-11-09",
+     "close": 41.21,
+     "change": 5.59
+    },
+    {
+     "date": "2026-11-06",
+     "close": 39.03,
+     "change": 0.93
+    }
+   ],
+   "market_cap": 1518787328.0,
+   "shares_outstanding": 35913628.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "KIFISIA, ATHENS",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T06:50:34+09:00"
+  },
   {
    "id": "0001628280-26-072809",
    "company": "Azenta, Inc.",
@@ -15795,57 +15846,6 @@
    "hq": "VANCOUVER, A1",
    "entity_category": null,
    "detected_at": "2026-11-07T01:23:19+09:00"
-  },
-  {
-   "id": "0001213900-26-116687",
-   "company": "SunCar Technology Group Inc.",
-   "ticker": "SDA",
-   "cik": 1936804,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "htm SUNCAR TECHNOLOGY GROUP ANNOUNCES SHARE BUYBACK PROGRAM Exhibit 99.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1936804/000121390026116687/0001213900-26-116687-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1936804/000121390026116687/ea031124101ex99-1.htm",
-   "filed_at": "2026-11-06T10:21:43-05:00",
-   "filed_kst": "2026-11-07 00:21",
-   "price": 0.29,
-   "change": 89.68,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 0.29,
-     "change": 89.68
-    },
-    {
-     "date": "2026-11-05",
-     "close": 0.15,
-     "change": -25.24
-    },
-    {
-     "date": "2026-11-04",
-     "close": 0.21,
-     "change": 1.98
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Automotive Repair, Services & Parking",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SHANGHAI, F4",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-07T00:22:38+09:00"
   }
  ]
 }
