@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-11T06:59:19+09:00",
+ "updated_at": "2026-11-11T07:04:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002014596-26-000085",
+   "company": "Concentra Group Holdings Parent, Inc.",
+   "ticker": "CON",
+   "cik": 2014596,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "The transaction under the Stock Repurchase Agreement was made pursuant to the Company’s previously announced share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2014596/000201459626000085/0002014596-26-000085-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2014596/000201459626000085/con-stockrepurchaseagree.htm",
+   "filed_at": "2026-11-10T17:01:25-05:00",
+   "filed_kst": "2026-11-11 07:01",
+   "price": 42.67,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 42.67,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 42.67,
+     "change": 0.64
+    },
+    {
+     "date": "2026-11-09",
+     "close": 42.4,
+     "change": 0.43
+    }
+   ],
+   "market_cap": 5398511795.0,
+   "shares_outstanding": 126517736.0,
+   "industry": "Services-Specialty Outpatient Facilities, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "ADDISON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-11T07:02:25+09:00"
+  },
   {
    "id": "0001140361-26-043055",
    "company": "Global Ship Lease, Inc.",
@@ -15798,54 +15851,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-07T03:10:32+09:00"
-  },
-  {
-   "id": "0001104659-26-123708",
-   "company": "TELUS CORP",
-   "ticker": "TU",
-   "cik": 868675,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Prior to his tenure at BT Group, Marc held senior executive roles including CEO of EE, a joint venture between Deutsche Telekom and France Telecom, and Chief Commercial Officer at Three UK.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/868675/000110465926123708/0001104659-26-123708-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/868675/000110465926123708/tm2624784d4_ex99-1.htm",
-   "filed_at": "2026-11-06T11:22:29-05:00",
-   "filed_kst": "2026-11-07 01:22",
-   "price": 9.23,
-   "change": -1.96,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 9.23,
-     "change": -1.96
-    },
-    {
-     "date": "2026-11-05",
-     "close": 9.42,
-     "change": 2.17
-    },
-    {
-     "date": "2026-11-04",
-     "close": 9.22,
-     "change": 3.6
-    }
-   ],
-   "market_cap": 14294098415.0,
-   "shares_outstanding": 1548656383.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER, A1",
-   "entity_category": null,
-   "detected_at": "2026-11-07T01:23:19+09:00"
   }
  ]
 }
