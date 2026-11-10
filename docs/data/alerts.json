@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-11T07:14:13+09:00",
+ "updated_at": "2026-11-11T07:19:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-118109",
+   "company": "CorMedix Inc.",
+   "ticker": "CRMD",
+   "cik": 1410098,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 67,
+   "summary": "EX-99.1 2 ea031153201ex99-1.htm INVESTOR CALL TRANSCRIPT, DATED NOVEMBER 9, 2026 Exhibit 99.1 FINAL TRANSCRIPT CorMedix Inc (CRMD US Equity) 2026-11-09 Acquisition of Heron Therapeutics by CorMedix Therapeutics Company Participants ● Joseph Todisco “Joe”, Chairman/CEO Other Participants ● Brandon Fo",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026118109/0001213900-26-118109-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026118109/ea031153201ex99-1.htm",
+   "filed_at": "2026-11-10T17:15:38-05:00",
+   "filed_kst": "2026-11-11 07:15",
+   "price": 5.37,
+   "change": -1.83,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 5.37,
+     "change": -1.83
+    },
+    {
+     "date": "2026-11-09",
+     "close": 5.47,
+     "change": 2.82
+    },
+    {
+     "date": "2026-11-06",
+     "close": 5.32,
+     "change": 1.72
+    }
+   ],
+   "market_cap": 418561020.0,
+   "shares_outstanding": 77944324.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PARSIPPANY, NJ",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-11T07:16:35+09:00"
+  },
   {
    "id": "0001193125-26-455736",
    "company": "GRACO INC",
@@ -15809,61 +15863,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-07T05:22:09+09:00"
-  },
-  {
-   "id": "0001628280-26-071586",
-   "company": "Braveheart Bio, Inc.",
-   "ticker": "BRVE",
-   "cik": 2131524,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "Braveheart Bio entered into an exclusive worldwide license agreement with Hengrui Pharma for the development, manufacture, and commercialization of HRS-1893 outside of Chinese mainland, the Hong Kong SAR, the Macao SAR and Taiwan Region.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2131524/000162828026071586/0001628280-26-071586-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2131524/000162828026071586/brve-ex991pr110626.htm",
-   "filed_at": "2026-11-06T15:17:17-05:00",
-   "filed_kst": "2026-11-07 05:17",
-   "price": 18.26,
-   "change": 4.82,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 18.26,
-     "change": 4.82
-    },
-    {
-     "date": "2026-11-05",
-     "close": 17.42,
-     "change": -13.38
-    },
-    {
-     "date": "2026-11-04",
-     "close": 20.11,
-     "change": -5.98
-    }
-   ],
-   "market_cap": 1644111574.0,
-   "shares_outstanding": 90038969.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-07T05:18:09+09:00"
   }
  ]
 }
