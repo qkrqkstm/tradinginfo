@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-11T02:34:43+09:00",
+ "updated_at": "2026-11-11T02:39:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-454958",
+   "company": "EMERA INC",
+   "ticker": "EMA",
+   "cik": 1127248,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약",
+    "배당"
+   ],
+   "confidence": 64,
+   "summary": "EX-99.2 3 d168416dex992.htm EX-99.2 EX-99.2 Exhibit 99.2 EMERA INCORPORATED Unaudited Condensed Consolidated Interim Financial Statements September 30, 2026 and 2025 1 Emera Incorporated Condensed Consolidated Statements of Income (Unaudited) Three months ended Nine months ended For the September 30",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1127248/000119312526454958/0001193125-26-454958-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1127248/000119312526454958/d168416dex992.htm",
+   "filed_at": "2026-11-10T12:36:43-05:00",
+   "filed_kst": "2026-11-11 02:36",
+   "price": 51.19,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-10",
+     "close": 51.19,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 51.19,
+     "change": 1.16
+    },
+    {
+     "date": "2026-11-09",
+     "close": 50.6,
+     "change": -0.18
+    }
+   ],
+   "market_cap": 6293810500.0,
+   "shares_outstanding": 122950000.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": null,
+   "hq": "HALIFAX, A5",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-11T02:37:36+09:00"
+  },
   {
    "id": "0001493152-26-050909",
    "company": "AMERICAN REBEL HOLDINGS INC",
@@ -15672,55 +15724,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-06T07:24:40+09:00"
-  },
-  {
-   "id": "0001437749-26-035333",
-   "company": "Vicore Pharma Holding AB",
-   "ticker": "VCRE",
-   "cik": 2124403,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 71,
-   "summary": "The company ’ s lead program, buloxibutid, is an oral small-molecule angiotensin II type 2 receptor agonist, which received Orphan Drug and Fast Track designations from the United States Food and Drug Administration and is currently being investigated in the global 52-week Phase 2b ASPIRE trial in I",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2124403/000143774926035333/0001437749-26-035333-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2124403/000143774926035333/ex_1010861.htm",
-   "filed_at": "2026-11-05T17:15:15-05:00",
-   "filed_kst": "2026-11-06 07:15",
-   "price": 10.01,
-   "change": 6.04,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 10.01,
-     "change": 6.04
-    },
-    {
-     "date": "2026-11-04",
-     "close": 9.44,
-     "change": 3.06
-    },
-    {
-     "date": "2026-11-03",
-     "close": 9.16,
-     "change": -4.48
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Sweden",
-   "hq": "STOCKHOLM",
-   "entity_category": null,
-   "detected_at": "2026-11-06T07:16:04+09:00"
   }
  ]
 }
