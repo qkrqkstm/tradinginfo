@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-10T22:39:32+09:00",
+ "updated_at": "2026-11-10T22:44:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002019804-26-000033",
+   "company": "Terrestrial Energy Inc. /DE/",
+   "ticker": "IMSR",
+   "cik": 2019804,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "● Authorized a share repurchase program of up to $25 million of the Company’s common stock, funded with existing cash on hand, subsequent to quarter end.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000033/0002019804-26-000033-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000033/tmb-ex99d1.htm",
+   "filed_at": "2026-11-10T08:43:52-05:00",
+   "filed_kst": "2026-11-10 22:43",
+   "price": 3.0,
+   "change": 5.63,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 3.0,
+     "change": 5.63
+    },
+    {
+     "date": "2026-11-06",
+     "close": 2.84,
+     "change": 10.72
+    },
+    {
+     "date": "2026-11-05",
+     "close": 2.57,
+     "change": -10.63
+    }
+   ],
+   "market_cap": 317805762.0,
+   "shares_outstanding": 105935254.0,
+   "industry": "Fabricated Plate Work (Boiler Shops)",
+   "state_of_incorporation": "DE",
+   "hq": "CHARLOTTE, NC",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T22:44:41+09:00"
+  },
+  {
+   "id": "0001493152-26-050882",
+   "company": "Azitra, Inc.",
+   "ticker": "AZTR",
+   "cik": 1701478,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Azitra has received Fast Track designation from the FDA for cancer treatment-associated rash, which impacts up to 300,000 people in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701478/000149315226050882/0001493152-26-050882-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701478/000149315226050882/ex99-1.htm",
+   "filed_at": "2026-11-10T08:40:22-05:00",
+   "filed_kst": "2026-11-10 22:40",
+   "price": 0.64,
+   "change": -12.14,
+   "price_history": [
+    {
+     "date": "2026-11-09",
+     "close": 0.64,
+     "change": -12.14
+    },
+    {
+     "date": "2026-11-06",
+     "close": 0.73,
+     "change": 1.1
+    },
+    {
+     "date": "2026-11-05",
+     "close": 0.73,
+     "change": -11.15
+    }
+   ],
+   "market_cap": 38786395.0,
+   "shares_outstanding": 60603742.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BRANFORD, CT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-10T22:41:04+09:00"
+  },
   {
    "id": "0001213900-26-117794",
    "company": "Turbo Energy, S.A.",
@@ -15617,112 +15723,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-06T06:41:13+09:00"
-  },
-  {
-   "id": "0001552781-26-000542",
-   "company": "Essential Utilities, Inc.",
-   "ticker": "WTRG",
-   "cik": 78128,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(“Essential Utilities”), entered into an Agreement and Plan of Merger (the “Merger Agreement”), providing for the proposed merger of Merger Sub with and into Essential Utilities (the “Merger”), with Essential Utilities surviving the Merger as a wholly owned subsidiary of American Water.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000542/0001552781-26-000542-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/78128/000155278126000542/e26433_wtrg-8k.htm",
-   "filed_at": "2026-11-05T16:40:16-05:00",
-   "filed_kst": "2026-11-06 06:40",
-   "price": 46.05,
-   "change": 2.04,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 46.05,
-     "change": 2.04
-    },
-    {
-     "date": "2026-11-04",
-     "close": 45.13,
-     "change": 2.48
-    },
-    {
-     "date": "2026-11-03",
-     "close": 44.04,
-     "change": -0.9
-    }
-   ],
-   "market_cap": 13187616550.0,
-   "shares_outstanding": 286376038.0,
-   "industry": "Water Supply",
-   "state_of_incorporation": "PA",
-   "hq": "BRYN MAWR, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:41:11+09:00"
-  },
-  {
-   "id": "0001535778-26-000104",
-   "company": "MSC INCOME FUND, INC.",
-   "ticker": "MSIF",
-   "cik": 1535778,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "0 million private notes offering • Entered into a share repurchase plan to facilitate the repurchase of up to $20.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1535778/000153577826000104/0001535778-26-000104-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1535778/000153577826000104/msifearningsreleaseq326.htm",
-   "filed_at": "2026-11-05T16:40:35-05:00",
-   "filed_kst": "2026-11-06 06:40",
-   "price": 12.25,
-   "change": -0.73,
-   "price_history": [
-    {
-     "date": "2026-11-05",
-     "close": 12.25,
-     "change": -0.73
-    },
-    {
-     "date": "2026-11-04",
-     "close": 12.34,
-     "change": 3.26
-    },
-    {
-     "date": "2026-11-03",
-     "close": 11.95,
-     "change": 0.17
-    }
-   ],
-   "market_cap": 555479055.0,
-   "shares_outstanding": 45345229.0,
-   "industry": null,
-   "state_of_incorporation": null,
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-06T06:41:10+09:00"
   }
  ]
 }
