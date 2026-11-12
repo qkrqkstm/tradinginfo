@@ -1,7 +1,159 @@
 {
- "updated_at": "2026-11-12T22:59:32+09:00",
+ "updated_at": "2026-11-12T23:04:52+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001174947-26-000972",
+   "company": "ENI SPA",
+   "ticker": "E",
+   "cik": 1002242,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "11 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000972/0001174947-26-000972-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000972/0001174947-26-000972-index-headers.html",
+   "filed_at": "2026-11-12T09:04:01-05:00",
+   "filed_kst": "2026-11-12 23:04",
+   "price": 55.89,
+   "change": 1.38,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 55.89,
+     "change": 1.38
+    },
+    {
+     "date": "2026-11-10",
+     "close": 55.13,
+     "change": -1.41
+    },
+    {
+     "date": "2026-11-09",
+     "close": 55.92,
+     "change": 0.85
+    }
+   ],
+   "market_cap": 175872702221.0,
+   "shares_outstanding": 3146765114.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Italy",
+   "hq": "ROME ITALY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T23:04:51+09:00"
+  },
+  {
+   "id": "0001213900-26-118502",
+   "company": "FG Imperii Acquisition Corp.",
+   "ticker": "FGII",
+   "cik": 2090452,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Under the Agreement and Plan of Merger dated October 31, 2026 with FG Imperii Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026118502/0001213900-26-118502-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026118502/ea0311859-425_tzero.htm",
+   "filed_at": "2026-11-12T09:00:01-05:00",
+   "filed_kst": "2026-11-12 23:00",
+   "price": 10.1,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 10.1,
+     "change": -0.05
+    },
+    {
+     "date": "2026-11-11",
+     "close": 10.1,
+     "change": 0.1
+    },
+    {
+     "date": "2026-11-10",
+     "close": 10.09,
+     "change": 0.1
+    }
+   ],
+   "market_cap": 292294000.0,
+   "shares_outstanding": 28940000.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "ITASCA, IL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T23:00:57+09:00"
+  },
+  {
+   "id": "0001193125-26-457157",
+   "company": "Nano Dimension Ltd.",
+   "ticker": "NNDM",
+   "cik": 1643303,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(“Stratasys”) in an all-cash transaction valued at $42.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1643303/000119312526457157/0001193125-26-457157-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1643303/000119312526457157/nndm-20261111.htm",
+   "filed_at": "2026-11-12T08:59:37-05:00",
+   "filed_kst": "2026-11-12 22:59",
+   "price": 1.33,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 1.33,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.33,
+     "change": -0.75
+    },
+    {
+     "date": "2026-11-09",
+     "close": 1.34,
+     "change": 1.52
+    }
+   ],
+   "market_cap": 263647989.0,
+   "shares_outstanding": 198231571.0,
+   "industry": "Printed Circuit Boards",
+   "state_of_incorporation": "Israel",
+   "hq": "WALTHAM, MA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-12T23:00:52+09:00"
+  },
   {
    "id": "0001628280-26-073164",
    "company": "DoubleDown Interactive Co., Ltd.",
@@ -15728,164 +15880,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T06:06:40+09:00"
-  },
-  {
-   "id": "0001140361-26-042783",
-   "company": "SIGA TECHNOLOGIES INC",
-   "ticker": "SIGA",
-   "cik": 1010086,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "1 SIGA Reports Financial Results for Three and Nine Months Ended September 30, 2026 • Awarded $15 Million Procurement Contract from Canadian Department of National Defence for Oral TPOXX in October • Corporate Update Conference Call Today at 4:30 PM ET NEW YORK, November 9, 2026 (GLOBE NEWSWIRE) -- ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1010086/000114036126042783/0001140361-26-042783-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1010086/000114036126042783/ef20085184_ex99-1.htm",
-   "filed_at": "2026-11-09T16:05:41-05:00",
-   "filed_kst": "2026-11-10 06:05",
-   "price": 3.26,
-   "change": 5.16,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 3.26,
-     "change": 5.16
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.1,
-     "change": 4.38
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.97,
-     "change": -5.71
-    }
-   ],
-   "market_cap": 234230074.0,
-   "shares_outstanding": 71849716.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:06:38+09:00"
-  },
-  {
-   "id": "0001493152-26-050715",
-   "company": "Cheche Group Inc.",
-   "ticker": "CCG",
-   "cik": 1965473,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Sign Strategic Partnership Agreement to Integrate Mobility, Insurance and Automotive Aftermarket Services BEIJING, November 9, 2026 – Cheche Group Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1965473/000149315226050715/0001493152-26-050715-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1965473/000149315226050715/ex99-1.htm",
-   "filed_at": "2026-11-09T16:05:10-05:00",
-   "filed_kst": "2026-11-10 06:05",
-   "price": 9.57,
-   "change": 12.46,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 9.57,
-     "change": 12.46
-    },
-    {
-     "date": "2026-11-06",
-     "close": 8.51,
-     "change": -2.91
-    },
-    {
-     "date": "2026-11-05",
-     "close": 8.77,
-     "change": 6.24
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Insurance Agents, Brokers & Service",
-   "state_of_incorporation": null,
-   "hq": "BEIJING, F4",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T06:06:04+09:00"
-  },
-  {
-   "id": "0001193125-26-453556",
-   "company": "Immunome Inc.",
-   "ticker": "IMNM",
-   "cik": 1472012,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "1 Immunome Reports Third Quarter 2026 Financial Results and Provides Business Update November 9, 2026 • Varegacestat PDUFA target action date of April 28, 2027; Marketing Authorization Application (MAA) validated by the European Medicines Agency (EMA) • Initial IM-1021 results show objective respons",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1472012/000119312526453556/0001193125-26-453556-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1472012/000119312526453556/imnm-ex99_1.htm",
-   "filed_at": "2026-11-09T16:05:15-05:00",
-   "filed_kst": "2026-11-10 06:05",
-   "price": 19.36,
-   "change": 3.47,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 19.36,
-     "change": 3.47
-    },
-    {
-     "date": "2026-11-06",
-     "close": 18.71,
-     "change": 4.5
-    },
-    {
-     "date": "2026-11-05",
-     "close": 17.91,
-     "change": -8.27
-    }
-   ],
-   "market_cap": 2198862897.0,
-   "shares_outstanding": 113577629.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BOTHELL, WA",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:06:00+09:00"
   }
  ]
 }
