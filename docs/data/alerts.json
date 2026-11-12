@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-12T22:44:24+09:00",
+ "updated_at": "2026-11-12T22:49:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-118491",
+   "company": "Skyline Builders Group Holding Ltd",
+   "ticker": "KAZR",
+   "cik": 2031009,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "On November 2, 2026, Skyline and Cove Kaz mutually agreed to terminate their previously announced business combination agreement with Cove Kaz now seeking a direct listing during 1H 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118491/0001213900-26-118491-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118491/ea031182001ex99-1.htm",
+   "filed_at": "2026-11-12T08:45:19-05:00",
+   "filed_kst": "2026-11-12 22:45",
+   "price": 1.16,
+   "change": -7.2,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 1.16,
+     "change": -7.2
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.25,
+     "change": -4.58
+    },
+    {
+     "date": "2026-11-09",
+     "close": 1.31,
+     "change": 1.55
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Construction - Special Trade Contractors",
+   "state_of_incorporation": null,
+   "hq": "KOWLOON BAY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T22:46:03+09:00"
+  },
   {
    "id": "0001104659-26-125964",
    "company": "MetaVia Inc.",
@@ -15838,56 +15889,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T06:04:39+09:00"
-  },
-  {
-   "id": "0001104659-26-124480",
-   "company": "MATERIALISE NV",
-   "ticker": "MTLS",
-   "cik": 1091223,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "9 November 2026 – Materialise NV (Euronext: MTLS) (Nasdaq: MTLS) (“Materialise”) (“the Company”) hereby discloses certain information in relation to its share buyback program announced on 30 October 2025, in accordance with Article 8:4 of the Royal Decree of 29 April 2019 implementing the Belgian Co",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926124480/0001104659-26-124480-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926124480/tm2629311d1_ex99-1.htm",
-   "filed_at": "2026-11-09T16:01:05-05:00",
-   "filed_kst": "2026-11-10 06:01",
-   "price": 6.88,
-   "change": 1.93,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 6.88,
-     "change": 1.93
-    },
-    {
-     "date": "2026-11-06",
-     "close": 6.75,
-     "change": 1.35
-    },
-    {
-     "date": "2026-11-05",
-     "close": 6.66,
-     "change": -9.02
-    }
-   ],
-   "market_cap": 406382240.0,
-   "shares_outstanding": 59067186.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": null,
-   "hq": "LEVUEN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:02:22+09:00"
   }
  ]
 }
