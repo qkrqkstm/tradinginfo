@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-12T21:54:12+09:00",
+ "updated_at": "2026-11-12T21:59:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-118408",
+   "company": "Iron Horse Acquisition II Corp.",
+   "ticker": "IRHO",
+   "cik": 2051985,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "ELECTRA AI has entered into a definitive business combination agreement with Iron Horse Acquisition II Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026118408/0001213900-26-118408-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026118408/ea031153001ex99-1.htm",
+   "filed_at": "2026-11-12T07:56:00-05:00",
+   "filed_kst": "2026-11-12 21:56",
+   "price": 10.08,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 10.08,
+     "change": 0.1
+    },
+    {
+     "date": "2026-11-10",
+     "close": 10.07,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 10.07,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 295545600.0,
+   "shares_outstanding": 29320000.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": null,
+   "hq": "BOCA RATON, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:56:29+09:00"
+  },
   {
    "id": "0001193125-26-457000",
    "company": "Sagimet Biosciences Inc.",
@@ -15781,62 +15835,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-09T23:05:31+09:00"
-  },
-  {
-   "id": "0000320121-26-000041",
-   "company": "TELOS CORP",
-   "ticker": "TLS",
-   "cik": 320121,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 77,
-   "summary": "4 Million of Cash Flow from Operations; Raises Full Year Guidance • Recent New Business Wins: Information Assurance business has secured $58 million of net new Xacta and professional services orders that are forecasted to generate approximately $20 million of Revenue in 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/320121/000032012126000041/0000320121-26-000041-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/320121/000032012126000041/q32026sept302026financialr.htm",
-   "filed_at": "2026-11-09T09:00:46-05:00",
-   "filed_kst": "2026-11-09 23:00",
-   "price": 4.82,
-   "change": 0.84,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 4.82,
-     "change": 0.84
-    },
-    {
-     "date": "2026-11-05",
-     "close": 4.78,
-     "change": -5.53
-    },
-    {
-     "date": "2026-11-04",
-     "close": 5.06,
-     "change": -1.75
-    }
-   ],
-   "market_cap": 360231323.0,
-   "shares_outstanding": 74736789.0,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "MD",
-   "hq": "ASHBURN, VA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-09T23:01:24+09:00"
   }
  ]
 }
