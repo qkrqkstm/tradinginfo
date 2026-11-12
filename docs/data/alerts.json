@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-13T06:34:25+09:00",
+ "updated_at": "2026-11-13T06:39:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-118986",
+   "company": "Tempest Therapeutics, Inc.",
+   "ticker": "TPST",
+   "cik": 1544227,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "01 Other Events On November 11, 2026, the Company exercised its option under its Exclusive Collaboration, Option and License Agreement, dated September 14, 2026, by and between the Company and Hebei Senlang Biotechnology Co.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1544227/000121390026118986/0001213900-26-118986-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1544227/000121390026118986/ea031198201ex99-1.htm",
+   "filed_at": "2026-11-12T16:35:25-05:00",
+   "filed_kst": "2026-11-13 06:35",
+   "price": 0.38,
+   "change": -3.53,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.38,
+     "change": -3.53
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.4,
+     "change": 6.15
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.37,
+     "change": 3.6
+    }
+   ],
+   "market_cap": 5626659.0,
+   "shares_outstanding": 14806997.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BRISBANE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:36:45+09:00"
+  },
   {
    "id": "0001437749-26-036591",
    "company": "Planet 13 Holdings Inc.",
@@ -15819,60 +15874,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T20:46:07+09:00"
-  },
-  {
-   "id": "0001260221-26-000073",
-   "company": "TransDigm Group INC",
-   "ticker": "TDG",
-   "cik": 1260221,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "배당"
-   ],
-   "confidence": 62,
-   "summary": "Acquisition Activity As previously announced on September 28, 2026, TransDigm completed the acquisition of Prince & Izant (\"P&I\") for approximately $1.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000073/0001260221-26-000073-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000073/exhibit991tdg2026q4earning.htm",
-   "filed_at": "2026-11-10T06:32:12-05:00",
-   "filed_kst": "2026-11-10 20:32",
-   "price": 1218.85,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 1218.85,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1218.85,
-     "change": 1.82
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1197.01,
-     "change": 0.66
-    }
-   ],
-   "market_cap": 67373792496.0,
-   "shares_outstanding": 55276525.0,
-   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "CLEVELAND, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T20:32:43+09:00"
   }
  ]
 }
