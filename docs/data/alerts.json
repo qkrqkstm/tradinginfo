@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-12T23:09:42+09:00",
+ "updated_at": "2026-11-12T23:14:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001829576-26-000100",
+   "company": "Carter Bankshares, Inc.",
+   "ticker": "CARE",
+   "cik": 1829576,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) announced that the Board of Directors (the “Board”) of the Company has authorized a common share repurchase program to purchase up to $10,000,000 of the Company’s common stock in the aggregate over a period of twelve months from the date of receipt of non-objection from the Federal R",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1829576/000182957626000100/0001829576-26-000100-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829576/000182957626000100/care-20261109.htm",
+   "filed_at": "2026-11-12T09:12:53-05:00",
+   "filed_kst": "2026-11-12 23:12",
+   "price": 29.22,
+   "change": -0.88,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 29.22,
+     "change": -0.88
+    },
+    {
+     "date": "2026-11-10",
+     "close": 29.48,
+     "change": 0.31
+    },
+    {
+     "date": "2026-11-09",
+     "close": 29.39,
+     "change": 2.44
+    }
+   ],
+   "market_cap": 641966030.0,
+   "shares_outstanding": 21970090.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "MARTINSVILLE, VA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-12T23:13:11+09:00"
+  },
+  {
+   "id": "0000103730-26-000083",
+   "company": "VISHAY INTERTECHNOLOGY INC",
+   "ticker": "VSH",
+   "cik": 103730,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(\"Vishay\"), through a wholly-owned subsidiary, entered into a binding term sheet with Kaynes Technology India Limited (\"Kaynes Technology\") to establish a semiconductor manufacturing joint venture in India.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/103730/000010373026000083/0000103730-26-000083-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/103730/000010373026000083/vsh-20261112.htm",
+   "filed_at": "2026-11-12T09:11:42-05:00",
+   "filed_kst": "2026-11-12 23:11",
+   "price": 29.14,
+   "change": 8.77,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 29.14,
+     "change": 8.77
+    },
+    {
+     "date": "2026-11-10",
+     "close": 26.79,
+     "change": 1.44
+    },
+    {
+     "date": "2026-11-09",
+     "close": 26.41,
+     "change": 13.45
+    }
+   ],
+   "market_cap": 3821522581.0,
+   "shares_outstanding": 131143534.0,
+   "industry": "Electronic Components & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "MALVERN, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T23:12:07+09:00"
+  },
   {
    "id": "0001628280-26-073175",
    "company": "CENTRUS ENERGY CORP",
@@ -15771,113 +15876,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-10T06:07:20+09:00"
-  },
-  {
-   "id": "0001819994-26-000073",
-   "company": "Rocket Lab Corp",
-   "ticker": "RKLB",
-   "cik": 1819994,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Nearly $1 billion of that backlog comes from new launch contracts, signed in Q3 2026 alone, as well as $470 million signed for Space Systems.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000073/0001819994-26-000073-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000073/rklb-11092026ex991.htm",
-   "filed_at": "2026-11-09T16:06:21-05:00",
-   "filed_kst": "2026-11-10 06:06",
-   "price": 58.86,
-   "change": 10.91,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 58.86,
-     "change": 10.91
-    },
-    {
-     "date": "2026-11-06",
-     "close": 53.07,
-     "change": 15.39
-    },
-    {
-     "date": "2026-11-05",
-     "close": 45.99,
-     "change": -12.18
-    }
-   ],
-   "market_cap": 35218909371.0,
-   "shares_outstanding": 598350482.0,
-   "industry": "Guided Missiles & Space Vehicles & Parts",
-   "state_of_incorporation": null,
-   "hq": "LONG BEACH, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:07:18+09:00"
-  },
-  {
-   "id": "0001193125-26-453557",
-   "company": "Annexon, Inc.",
-   "ticker": "ANNX",
-   "cik": 1528115,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "Notably, ARCHER II is larger and longer in duration and better powered than the Phase 2 trial, and we believe is well-positioned for success on the primary endpoint of BCVA 15-letter loss.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1528115/000119312526453557/0001193125-26-453557-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1528115/000119312526453557/annx-ex99_1.htm",
-   "filed_at": "2026-11-09T16:05:15-05:00",
-   "filed_kst": "2026-11-10 06:05",
-   "price": 4.23,
-   "change": 0.71,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 4.23,
-     "change": 0.71
-    },
-    {
-     "date": "2026-11-06",
-     "close": 4.2,
-     "change": 4.87
-    },
-    {
-     "date": "2026-11-05",
-     "close": 4.01,
-     "change": -7.51
-    }
-   ],
-   "market_cap": 163123880.0,
-   "shares_outstanding": 38563565.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BRISBANE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T06:06:44+09:00"
   }
  ]
 }
