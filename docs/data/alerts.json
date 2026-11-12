@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-13T07:24:21+09:00",
+ "updated_at": "2026-11-13T07:29:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-073508",
+   "company": "HOST HOTELS & RESORTS, INC.",
+   "ticker": "HST",
+   "cik": 1070750,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "The Company will not, directly or indirectly, use the proceeds of the sale of the Shares, or lend, contribute or otherwise make available such proceeds to any consolidated subsidiaries, joint venture partners or other Person, to fund any activities of or business with any Person that, at the time of",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1070750/000162828026073508/0001628280-26-073508-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1070750/000162828026073508/exhibit11-form8xknov2026.htm",
+   "filed_at": "2026-11-12T17:27:59-05:00",
+   "filed_kst": "2026-11-13 07:27",
+   "price": 25.52,
+   "change": -1.01,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 25.52,
+     "change": -1.01
+    },
+    {
+     "date": "2026-11-11",
+     "close": 25.78,
+     "change": -0.58
+    },
+    {
+     "date": "2026-11-10",
+     "close": 25.93,
+     "change": 2.57
+    }
+   ],
+   "market_cap": 17485182728.0,
+   "shares_outstanding": 685156063.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "BETHESDA, MD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T07:28:48+09:00"
+  },
   {
    "id": "0001193125-26-458738",
    "company": "Rank One Computing Corp",
@@ -15818,64 +15869,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T21:08:48+09:00"
-  },
-  {
-   "id": "0001193125-26-454410",
-   "company": "Palladyne AI Corp.",
-   "ticker": "PDYN",
-   "cik": 1826681,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 74,
-   "summary": "Third Quarter 2026 Strategic and Operational Highlights • Announced a strategic collaboration with FANUC America to pair FANUC’s industrial robot portfolio with Palladyne AI’s physical AI software across manufacturing applications; • Integrated SwarmOS with Anduril’s Lattice at the Army’s Project Co",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526454410/0001193125-26-454410-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526454410/pdyn-ex99_1.htm",
-   "filed_at": "2026-11-10T07:06:36-05:00",
-   "filed_kst": "2026-11-10 21:06",
-   "price": 3.54,
-   "change": 17.22,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 3.54,
-     "change": 17.22
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.02,
-     "change": 11.65
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.7,
-     "change": -15.2
-    }
-   ],
-   "market_cap": 174658325.0,
-   "shares_outstanding": 49338510.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "SALT LAKE CITY, UT",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T21:07:14+09:00"
   }
  ]
 }
