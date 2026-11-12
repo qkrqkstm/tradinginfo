@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-12T22:14:17+09:00",
+ "updated_at": "2026-11-12T22:19:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-457078",
+   "company": "TRUSTMARK CORP",
+   "ticker": "TRMK",
+   "cik": 36146,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "On November 12, 2026, Trustmark Corporation (“Trustmark”), parent company of Trustmark Bank, and Hancock Whitney Corporation (“Hancock Whitney”), parent company of Hancock Whitney Bank, issued a joint press release announcing the execution of the Agreement and Plan of Merger, dated as of November 11",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36146/000119312526457078/0001193125-26-457078-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/36146/000119312526457078/d152581d425.htm",
+   "filed_at": "2026-11-12T08:17:52-05:00",
+   "filed_kst": "2026-11-12 22:17",
+   "price": 45.56,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 45.56,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 45.56,
+     "change": 0.35
+    },
+    {
+     "date": "2026-11-10",
+     "close": 45.4,
+     "change": -0.15
+    }
+   ],
+   "market_cap": 2630408514.0,
+   "shares_outstanding": 57735042.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "MS",
+   "hq": "JACKSON, MS",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T22:18:40+09:00"
+  },
   {
    "id": "0001213900-26-118449",
    "company": "FORUM MARKETS Inc",
@@ -15826,56 +15879,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-10T01:13:09+09:00"
-  },
-  {
-   "id": "0001193125-26-452941",
-   "company": "HONDA MOTOR CO LTD",
-   "ticker": "HMC",
-   "cik": 715153,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "6-K 1 d162935d6k.htm FORM 6-K Form 6-K No.1-7628 SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 FOR THE MONTH OF NOVEMBER 2026 COMMISSION FILE NUMBER: 1-07628 HONDA GIKEN ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/715153/000119312526452941/0001193125-26-452941-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/715153/000119312526452941/d162935d6k.htm",
-   "filed_at": "2026-11-09T11:11:17-05:00",
-   "filed_kst": "2026-11-10 01:11",
-   "price": 35.72,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 35.72,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 35.72,
-     "change": -0.17
-    },
-    {
-     "date": "2026-11-06",
-     "close": 35.78,
-     "change": -1.32
-    }
-   ],
-   "market_cap": 61674501556.0,
-   "shares_outstanding": 1726609786.0,
-   "industry": "Motor Vehicles & Passenger Car Bodies",
-   "state_of_incorporation": null,
-   "hq": "TOKYO, JAPAN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T01:12:06+09:00"
   }
  ]
 }
