@@ -1,7 +1,159 @@
 {
- "updated_at": "2026-11-12T20:14:23+09:00",
+ "updated_at": "2026-11-12T20:19:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-118296",
+   "company": "EQT Corp",
+   "ticker": "EQT",
+   "cik": 33213,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Rice discussed, among other things, EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agreement”), by and among EQT, EQT Holdings LLC, Rhino Merger Sub Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026118296/0001213900-26-118296-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/33213/000121390026118296/ea0311873-425_eqtcorp.htm",
+   "filed_at": "2026-11-12T06:18:35-05:00",
+   "filed_kst": "2026-11-12 20:18",
+   "price": 52.69,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 52.69,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 52.69,
+     "change": 1.33
+    },
+    {
+     "date": "2026-11-10",
+     "close": 52.0,
+     "change": 4.19
+    }
+   ],
+   "market_cap": 32960176810.0,
+   "shares_outstanding": 625549000.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "PA",
+   "hq": "CANONSBURG, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T20:19:14+09:00"
+  },
+  {
+   "id": "0001213900-26-118296",
+   "company": "RANGE RESOURCES CORP",
+   "ticker": "RRC",
+   "cik": 315852,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Rice discussed, among other things, EQT’s proposed acquisition (the “proposed transaction”) of Range Resources Corporation (“Range”) pursuant to the Agreement and Plan of Merger, dated as of October 25, 2026 (the “Merger Agreement”), by and among EQT, EQT Holdings LLC, Rhino Merger Sub Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026118296/0001213900-26-118296-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026118296/ea0311873-425_eqtcorp.htm",
+   "filed_at": "2026-11-12T06:18:35-05:00",
+   "filed_kst": "2026-11-12 20:18",
+   "price": 51.86,
+   "change": 1.29,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 51.86,
+     "change": 1.29
+    },
+    {
+     "date": "2026-11-10",
+     "close": 51.2,
+     "change": 4.81
+    },
+    {
+     "date": "2026-11-09",
+     "close": 48.85,
+     "change": 0.27
+    }
+   ],
+   "market_cap": 12119205355.0,
+   "shares_outstanding": 233690809.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "FT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T20:19:12+09:00"
+  },
+  {
+   "id": "0001193125-26-456703",
+   "company": "enGene Therapeutics Inc.",
+   "ticker": "ENGN",
+   "cik": 1980845,
+   "form": "8-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 69,
+   "summary": "The Company expects to initiate the submission by year-end 2026 and plans to complete the BLA submission in the first half of 2027, with potential FDA approval in 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1980845/000119312526456703/0001193125-26-456703-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1980845/000119312526456703/engn-ex99_1.htm",
+   "filed_at": "2026-11-12T06:14:36-05:00",
+   "filed_kst": "2026-11-12 20:14",
+   "price": 1.8,
+   "change": 7.78,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 1.8,
+     "change": 7.78
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.67,
+     "change": -5.65
+    },
+    {
+     "date": "2026-11-09",
+     "close": 1.77,
+     "change": 1.14
+    }
+   ],
+   "market_cap": 120629369.0,
+   "shares_outstanding": 67016316.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Canada (Federal Level)",
+   "hq": "SAINT-LAURENT",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T20:16:04+09:00"
+  },
   {
    "id": "0001670592-26-000043",
    "company": "YETI Holdings, Inc.",
@@ -15716,165 +15868,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-09T20:52:36+09:00"
-  },
-  {
-   "id": "0002011641-26-000042",
-   "company": "Ferguson Enterprises Inc. /DE/",
-   "ticker": "FERG",
-   "cik": 2011641,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "As previously discussed, we temporarily paused our share repurchase program in connection with the FloWorks acquisition.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000042/0002011641-26-000042-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000042/exhibit991pressreleasesept.htm",
-   "filed_at": "2026-11-09T06:50:12-05:00",
-   "filed_kst": "2026-11-09 20:50",
-   "price": 233.7,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 233.7,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 233.7,
-     "change": -0.83
-    },
-    {
-     "date": "2026-11-05",
-     "close": 235.65,
-     "change": -5.18
-    }
-   ],
-   "market_cap": 45209899963.0,
-   "shares_outstanding": 193452717.0,
-   "industry": "Wholesale-Hardware & Plumbing & Heating Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "NEWPORT NEWS, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T20:51:03+09:00"
-  },
-  {
-   "id": "0001437749-26-035692",
-   "company": "Bullish",
-   "ticker": "BLSH",
-   "cik": 1872195,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "In May 2026, Bullish agreed to acquire Equiniti in a $4.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1872195/000143774926035692/0001437749-26-035692-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1872195/000143774926035692/ex_1040008.htm",
-   "filed_at": "2026-11-09T06:45:07-05:00",
-   "filed_kst": "2026-11-09 20:45",
-   "price": 21.31,
-   "change": 2.9,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 21.31,
-     "change": 2.9
-    },
-    {
-     "date": "2026-11-05",
-     "close": 20.71,
-     "change": -10.46
-    },
-    {
-     "date": "2026-11-04",
-     "close": 23.13,
-     "change": 0.74
-    }
-   ],
-   "market_cap": 3214270750.0,
-   "shares_outstanding": 150833916.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GEORGE TOWN",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-09T20:46:02+09:00"
-  },
-  {
-   "id": "0001013871-26-000022",
-   "company": "NRG ENERGY, INC.",
-   "ticker": "NRG",
-   "cik": 1013871,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 81,
-   "summary": "NRG's share repurchase program and common stock dividend are subject to maintaining satisfactory credit metrics, available capital, market conditions, and compliance with associated laws and regulations.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000022/0001013871-26-000022-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000022/nrgq32026ex991.htm",
-   "filed_at": "2026-11-09T06:45:04-05:00",
-   "filed_kst": "2026-11-09 20:45",
-   "price": 88.29,
-   "change": 9.61,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 88.29,
-     "change": 9.61
-    },
-    {
-     "date": "2026-11-05",
-     "close": 80.55,
-     "change": -3.24
-    },
-    {
-     "date": "2026-11-04",
-     "close": 83.25,
-     "change": -13.52
-    }
-   ],
-   "market_cap": 18559483544.0,
-   "shares_outstanding": 210210483.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T20:46:00+09:00"
   }
  ]
 }
