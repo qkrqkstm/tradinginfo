@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-12T22:39:08+09:00",
+ "updated_at": "2026-11-12T22:44:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-125964",
+   "company": "MetaVia Inc.",
+   "ticker": "MTVA",
+   "cik": 1638287,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "1 ​ ​ ​ ​ ​ MetaVia Announces Statistically Significant Reduction in Uric Acid Levels with DA-1726 in Phase 1 Part 3B Clinical Trial ​ Adding to Previously Reported 68.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926125964/0001104659-26-125964-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926125964/mtva-ex99d1.htm",
+   "filed_at": "2026-11-12T08:41:29-05:00",
+   "filed_kst": "2026-11-12 22:41",
+   "price": 1.44,
+   "change": -3.36,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 1.44,
+     "change": -3.36
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.49,
+     "change": -7.45
+    },
+    {
+     "date": "2026-11-09",
+     "close": 1.61,
+     "change": 12.59
+    }
+   ],
+   "market_cap": 9486865.0,
+   "shares_outstanding": 6588101.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T22:42:19+09:00"
+  },
+  {
+   "id": "0001213900-26-118486",
+   "company": "PolyPid Ltd.",
+   "ticker": "PYPD",
+   "cik": 1611842,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "1 PolyPid Provides Corporate Update and Reports Third Quarter 2026 Financial Results D-PLEX₁₀₀ NDA Under FDA Priority Review with PDUFA Goal Date of November 28, 2026; U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026118486/0001213900-26-118486-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026118486/ea031183401ex99-1.htm",
+   "filed_at": "2026-11-12T08:39:25-05:00",
+   "filed_kst": "2026-11-12 22:39",
+   "price": 6.6,
+   "change": 4.6,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 6.6,
+     "change": 4.6
+    },
+    {
+     "date": "2026-11-10",
+     "close": 6.31,
+     "change": 1.12
+    },
+    {
+     "date": "2026-11-09",
+     "close": 6.24,
+     "change": 1.63
+    }
+   ],
+   "market_cap": 120146413.0,
+   "shares_outstanding": 18204002.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Israel",
+   "hq": "PETACH TIKVA, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-12T22:40:42+09:00"
+  },
   {
    "id": "0001731122-26-001429",
    "company": "VisionWave Holdings, Inc.",
@@ -15783,107 +15888,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-10T06:02:22+09:00"
-  },
-  {
-   "id": "0001062993-26-005834",
-   "company": "MICROMEM TECHNOLOGIES INC",
-   "ticker": "MMTIF",
-   "cik": 1085921,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Update on Collaboration Agreement with University of Toronto and Defence Research and Development Canada Toronto, Ontario and New York, New York, November 9, 2026 - Micromem Technologies Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1085921/000106299326005834/0001062993-26-005834-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1085921/000106299326005834/exhibit99-1.htm",
-   "filed_at": "2026-11-09T16:01:09-05:00",
-   "filed_kst": "2026-11-10 06:01",
-   "price": 0.02,
-   "change": 22.5,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 0.02,
-     "change": 22.5
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.02,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 0.02,
-     "change": -33.33
-    }
-   ],
-   "market_cap": 12321808.0,
-   "shares_outstanding": 616090414.0,
-   "industry": "Services-Computer Programming Services",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:02:18+09:00"
-  },
-  {
-   "id": "0001628280-26-072113",
-   "company": "Public Policy Holding Company, Inc.",
-   "ticker": "PPHC",
-   "cik": 1903508,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "Operational Highlights PPHC continued to execute its growth strategy through complementary acquisitions, senior hires and the development of new capabilities across the Group: • Completed the acquisition of Tancredi on July 1, 2026, adding financial, corporate and litigation communications expertise",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1903508/000162828026072113/0001628280-26-072113-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1903508/000162828026072113/pphc-earningsreleasex2026q.htm",
-   "filed_at": "2026-11-09T16:01:22-05:00",
-   "filed_kst": "2026-11-10 06:01",
-   "price": 11.03,
-   "change": -1.25,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 11.03,
-     "change": -1.25
-    },
-    {
-     "date": "2026-11-06",
-     "close": 11.17,
-     "change": -1.5
-    },
-    {
-     "date": "2026-11-05",
-     "close": 11.34,
-     "change": -10.14
-    }
-   ],
-   "market_cap": 333288359.0,
-   "shares_outstanding": 30216533.0,
-   "industry": "Services-Management Consulting Services",
-   "state_of_incorporation": "DE",
-   "hq": "WASHINGTON, DC",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T06:02:08+09:00"
   }
  ]
 }
