@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-11-12T20:54:20+09:00",
+ "updated_at": "2026-11-12T20:59:04+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-036333",
+   "company": "BK Technologies Corp",
+   "ticker": "BKTI",
+   "cik": 2186,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "0 million to the Company’s existing share repurchase program (the “Repurchase Program”) bringing the total amount authorized for repurchases up to $10.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2186/000143774926036333/0001437749-26-036333-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2186/000143774926036333/bkti20261111_8k.htm",
+   "filed_at": "2026-11-12T06:55:08-05:00",
+   "filed_kst": "2026-11-12 20:55",
+   "price": 69.44,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 69.44,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 69.44,
+     "change": 1.71
+    },
+    {
+     "date": "2026-11-10",
+     "close": 68.27,
+     "change": -1.57
+    }
+   ],
+   "market_cap": 261746372.0,
+   "shares_outstanding": 3769389.0,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "NV",
+   "hq": "WEST MELBOURNE, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T20:55:57+09:00"
+  },
+  {
+   "id": "0001061574-26-000020",
+   "company": "CGI INC",
+   "ticker": "GIB",
+   "cik": 1061574,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "EX-99.2 3 cgifsq4fy2026.htm EX-99.2 Document Consolidated Financial Statements of CGI INC. For the years ended September 30, 2026 and 2025 Management’s and Auditor’s Reports MANAGEMENT’S STATEMENT OF RESPONSIBILITY FOR FINANCIAL REPORTING The management of CGI Inc. (the Company) is responsible for t",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1061574/000106157426000020/0001061574-26-000020-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1061574/000106157426000020/cgifsq4fy2026.htm",
+   "filed_at": "2026-11-12T06:54:42-05:00",
+   "filed_kst": "2026-11-12 20:54",
+   "price": 81.13,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 81.13,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 81.13,
+     "change": -1.67
+    },
+    {
+     "date": "2026-11-10",
+     "close": 82.51,
+     "change": -0.07
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Management Consulting Services",
+   "state_of_incorporation": null,
+   "hq": "MONTREAL, A8",
+   "entity_category": null,
+   "detected_at": "2026-11-12T20:55:25+09:00"
+  },
+  {
+   "id": "0000950103-26-017312",
+   "company": "Spectrum Brands Holdings, Inc.",
+   "ticker": "SPB",
+   "cik": 109177,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 67,
+   "summary": ", today issued an open letter to Helen of Troy (“Helen of Troy” or the “Company”) (NASDAQ: HELE) shareholders in connection with Empower Brands’ previously announced proposal (the “Proposal”) to acquire the Company in an all-cash transaction for $37.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109177/000095010326017312/0000950103-26-017312-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/109177/000095010326017312/dp256762_ex9901.htm",
+   "filed_at": "2026-11-12T06:54:28-05:00",
+   "filed_kst": "2026-11-12 20:54",
+   "price": 88.29,
+   "change": -0.45,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 88.29,
+     "change": -0.45
+    },
+    {
+     "date": "2026-11-10",
+     "close": 88.69,
+     "change": -0.72
+    },
+    {
+     "date": "2026-11-09",
+     "close": 89.33,
+     "change": 3.06
+    }
+   ],
+   "market_cap": 2030281171.0,
+   "shares_outstanding": 22995596.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "MIDDLETON, WI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T20:55:23+09:00"
+  },
   {
    "id": "0001193125-26-456847",
    "company": "Pharvaris N.V.",
@@ -15705,165 +15860,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-09T21:03:40+09:00"
-  },
-  {
-   "id": "0001819796-26-000030",
-   "company": "GCM Grosvenor Inc.",
-   "ticker": "GCMG",
-   "cik": 1819796,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "Share Repurchase Plan Authorization GCMG’s Board of Directors previously authorized a share repurchase plan, which may be used to repurchase shares of our outstanding Class A common stock and then outstanding warrants in open market transactions, in privatel",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1819796/000181979626000030/0001819796-26-000030-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1819796/000181979626000030/gcmgrosvenorthirdquarter.htm",
-   "filed_at": "2026-11-09T07:01:57-05:00",
-   "filed_kst": "2026-11-09 21:01",
-   "price": 12.66,
-   "change": 1.04,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 12.66,
-     "change": 1.04
-    },
-    {
-     "date": "2026-11-05",
-     "close": 12.53,
-     "change": -3.84
-    },
-    {
-     "date": "2026-11-04",
-     "close": 13.03,
-     "change": 2.28
-    }
-   ],
-   "market_cap": 535009030.0,
-   "shares_outstanding": 42259797.0,
-   "industry": "Investment Advice",
-   "state_of_incorporation": "DE",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:03:07+09:00"
-  },
-  {
-   "id": "0001689548-26-000086",
-   "company": "Praxis Precision Medicines, Inc.",
-   "ticker": "PRAX",
-   "cik": 1689548,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 95,
-   "summary": "1 Document Praxis Precision Medicines Provides Corporate Update and Reports Third Quarter 2026 Financial Results FDA reviews of relutrigine, with PDUFA target action date of December 27, 2026, and ulixacaltamide HCI, with PDUFA target action date of January 29, 2027, are ongoing Topline results from",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/0001689548-26-000086-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm",
-   "filed_at": "2026-11-09T07:02:20-05:00",
-   "filed_kst": "2026-11-09 21:02",
-   "price": 277.62,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 277.62,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 277.62,
-     "change": 5.72
-    },
-    {
-     "date": "2026-11-05",
-     "close": 262.59,
-     "change": -7.8
-    }
-   ],
-   "market_cap": 7751147069.0,
-   "shares_outstanding": 27919988.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:03:05+09:00"
-  },
-  {
-   "id": "0001213900-26-117184",
-   "company": "Can-Fite BioPharma Ltd.",
-   "ticker": "CANF",
-   "cik": 1536196,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "Namodenoson has been granted Orphan Drug Designation in the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026117184/0001213900-26-117184-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026117184/ea031141101ex99-1.htm",
-   "filed_at": "2026-11-09T07:01:01-05:00",
-   "filed_kst": "2026-11-09 21:01",
-   "price": 1.62,
-   "change": 1.25,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 1.62,
-     "change": 1.25
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.6,
-     "change": -4.19
-    },
-    {
-     "date": "2026-11-04",
-     "close": 1.67,
-     "change": 3.09
-    }
-   ],
-   "market_cap": 4241848.0,
-   "shares_outstanding": 2618425.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "RAMAT GAN, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:02:02+09:00"
   }
  ]
 }
