@@ -1,7 +1,650 @@
 {
- "updated_at": "2026-11-13T06:05:01+09:00",
+ "updated_at": "2026-11-13T06:09:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-118922",
+   "company": "Azora Therapeutics, Inc. (DE)",
+   "ticker": "AZR",
+   "cik": 1513525,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 60,
+   "summary": "Rubenstein led the development and FDA approval of the first AhR agonist.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026118922/0001213900-26-118922-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026118922/ea031195201ex99-1.htm",
+   "filed_at": "2026-11-12T16:06:34-05:00",
+   "filed_kst": "2026-11-13 06:06",
+   "price": 3.74,
+   "change": 6.55,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 3.74,
+     "change": 6.55
+    },
+    {
+     "date": "2026-11-11",
+     "close": 3.51,
+     "change": -6.65
+    },
+    {
+     "date": "2026-11-10",
+     "close": 3.76,
+     "change": 0.27
+    }
+   ],
+   "market_cap": 53430803.0,
+   "shares_outstanding": 14286311.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "ENCINO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:09:09+09:00"
+  },
+  {
+   "id": "0001104659-26-126228",
+   "company": "Knightscope, Inc.",
+   "ticker": "KSCP",
+   "cik": 1600983,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "Our priorities are clear: convert the approximately $27 million in renewals, bookings, and client awards secured since May 2026 into revenue, expand with the clients we already serve, and drive margins higher.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1600983/000110465926126228/0001104659-26-126228-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1600983/000110465926126228/kscp-ex99d1.htm",
+   "filed_at": "2026-11-12T16:06:58-05:00",
+   "filed_kst": "2026-11-13 06:06",
+   "price": 0.44,
+   "change": 11.22,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.44,
+     "change": 11.22
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.4,
+     "change": 2.56
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.39,
+     "change": -7.14
+    }
+   ],
+   "market_cap": 33166095.0,
+   "shares_outstanding": 75377489.0,
+   "industry": "Communications Equipment, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SUNNYVALE, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:09:05+09:00"
+  },
+  {
+   "id": "0001193125-26-458321",
+   "company": "ADARx Pharmaceuticals, Inc.",
+   "ticker": "ADRX",
+   "cik": 1802369,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "5 million; cash position expected to fund operations into 2030 – – Advanced three Phase 2 clinical trials for agazisiran for the treatment of complement-mediated diseases – – Received Fast Track designation for onvuzosiran for HAE – SAN DIEGO, Calif.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526458321/0001193125-26-458321-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526458321/adrx-ex99_1.htm",
+   "filed_at": "2026-11-12T16:05:48-05:00",
+   "filed_kst": "2026-11-13 06:05",
+   "price": 14.91,
+   "change": 12.11,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 14.91,
+     "change": 12.11
+    },
+    {
+     "date": "2026-11-11",
+     "close": 13.3,
+     "change": -1.99
+    },
+    {
+     "date": "2026-11-10",
+     "close": 13.57,
+     "change": -1.67
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:08:26+09:00"
+  },
+  {
+   "id": "0002026478-26-000070",
+   "company": "Newsmax Inc.",
+   "ticker": "NMAX",
+   "cik": 2026478,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "• Advanced previously signed international brand license agreements toward launch, with Newsmax Ukraine going live on November 1, 2026 and Newsmax en Español expanding its streaming distribution in the United States, while 2026 international licensing revenues remain on track to increase 344% year-o",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/0002026478-26-000070-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/nmax_q32026earningsrelease.htm",
+   "filed_at": "2026-11-12T16:05:48-05:00",
+   "filed_kst": "2026-11-13 06:05",
+   "price": 7.29,
+   "change": -5.81,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 7.29,
+     "change": -5.81
+    },
+    {
+     "date": "2026-11-11",
+     "close": 7.74,
+     "change": 2.52
+    },
+    {
+     "date": "2026-11-10",
+     "close": 7.55,
+     "change": -2.83
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Television Broadcasting Stations",
+   "state_of_incorporation": "FL",
+   "hq": "BOCA RATON, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:08:25+09:00"
+  },
+  {
+   "id": "0000858877-26-000170",
+   "company": "CISCO SYSTEMS, INC.",
+   "ticker": "CSCO",
+   "cik": 858877,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 62,
+   "summary": "7 billion, and repurchased approximately 18 million shares of common stock under our stock repurchase program at an average price of $112.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000170/0000858877-26-000170-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000170/exhibit991pressrelease-q1f.htm",
+   "filed_at": "2026-11-12T16:06:24-05:00",
+   "filed_kst": "2026-11-13 06:06",
+   "price": 102.01,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 102.01,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 102.01,
+     "change": 1.24
+    },
+    {
+     "date": "2026-11-11",
+     "close": 100.76,
+     "change": 2.66
+    }
+   ],
+   "market_cap": 402183286915.0,
+   "shares_outstanding": 3942586873.0,
+   "industry": "Computer Communications Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "SAN JOSE, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T06:08:18+09:00"
+  },
+  {
+   "id": "0001213900-26-118920",
+   "company": "Trident Digital Tech Holdings Ltd",
+   "ticker": "TDTH",
+   "cik": 1983550,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "These include TDTHAI, the Company’s enterprise artificial intelligence business; the IRMA Engine Asia joint venture with Digital Innovations Group, covering Asia, the Middle East and Africa; and Trident Aliska Digital Tech Ghana Ltd.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1983550/000121390026118920/0001213900-26-118920-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1983550/000121390026118920/ea031189801ex99-1.htm",
+   "filed_at": "2026-11-12T16:05:42-05:00",
+   "filed_kst": "2026-11-13 06:05",
+   "price": 0.79,
+   "change": 5.19,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.79,
+     "change": 5.19
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.75,
+     "change": 4.02
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.72,
+     "change": -7.08
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": null,
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:07:44+09:00"
+  },
+  {
+   "id": "0001683168-26-008616",
+   "company": "APPLIED OPTOELECTRONICS, INC.",
+   "ticker": "AAOI",
+   "cik": 1158114,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 2 aaoi_ex1001.htm PURCHASE AND SALE AGREEMENT Exhibit 10.1 Certain personally identifiable information has been omitted from this exhibit pursuant to Item 601(a)(6) of Regulation S-K. Redacted information is indicated by [***] PURCHASE AND SALE AGREEMENT BETWEEN HIGHTOWER PHASE I OWNER, LLC,",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1158114/000168316826008616/0001683168-26-008616-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1158114/000168316826008616/aaoi_ex1001.htm",
+   "filed_at": "2026-11-12T16:05:45-05:00",
+   "filed_kst": "2026-11-13 06:05",
+   "price": 52.85,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 52.85,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 52.85,
+     "change": -5.39
+    },
+    {
+     "date": "2026-11-11",
+     "close": 55.86,
+     "change": 15.6
+    }
+   ],
+   "market_cap": 4797233186.0,
+   "shares_outstanding": 90770732.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "SUGAR LAND, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T06:07:41+09:00"
+  },
+  {
+   "id": "0001628280-26-073372",
+   "company": "Prime Medicine, Inc.",
+   "ticker": "PRME",
+   "cik": 1894562,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Chronic Granulomatous Disease (PM359) PM359 has received Regenerative Medicine Advanced Therapy, Fast Track, Orphan Drug, and Rare Pediatric Disease designations from the FDA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1894562/000162828026073372/0001628280-26-073372-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1894562/000162828026073372/q320268-kex991xpressrelease.htm",
+   "filed_at": "2026-11-12T16:05:46-05:00",
+   "filed_kst": "2026-11-13 06:05",
+   "price": 3.89,
+   "change": -9.53,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 3.89,
+     "change": -9.53
+    },
+    {
+     "date": "2026-11-11",
+     "close": 4.3,
+     "change": 10.26
+    },
+    {
+     "date": "2026-11-10",
+     "close": 3.9,
+     "change": -9.3
+    }
+   ],
+   "market_cap": 705555970.0,
+   "shares_outstanding": 181376856.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:07:39+09:00"
+  },
+  {
+   "id": "0001193125-26-458305",
+   "company": "BioStem Technologies, Inc.",
+   "ticker": "BSEM",
+   "cik": 1658678,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 83,
+   "summary": "EX-99.1 2 bsem-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 BioStem Technologies Reports Third Quarter 2026 Financial Results; Grows Hospital Revenue for Second Consecutive Quarter as Customers Expand Use of Portfolio Hospital revenue grew sequentially to $6.8 million; customers purchasing two or more pr",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1658678/000119312526458305/0001193125-26-458305-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1658678/000119312526458305/bsem-ex99_1.htm",
+   "filed_at": "2026-11-12T16:05:17-05:00",
+   "filed_kst": "2026-11-13 06:05",
+   "price": 1.3,
+   "change": -11.56,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 1.3,
+     "change": -11.56
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1.47,
+     "change": 41.35
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.04,
+     "change": -7.14
+    }
+   ],
+   "market_cap": 23204312.0,
+   "shares_outstanding": 17849471.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "FL",
+   "hq": "POMPANO BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:07:01+09:00"
+  },
+  {
+   "id": "0001193125-26-458316",
+   "company": "Candel Therapeutics, Inc.",
+   "ticker": "CADL",
+   "cik": 1841387,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "Food and Drug Administration (FDA) previously granted Fast Track Designation and Regenerative Medicine Advanced Therapy Designation to aglatimagene for the treatment of localized prostate cancer.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526458316/0001193125-26-458316-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526458316/cadl-ex99_1.htm",
+   "filed_at": "2026-11-12T16:05:17-05:00",
+   "filed_kst": "2026-11-13 06:05",
+   "price": 8.39,
+   "change": -9.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 8.39,
+     "change": -9.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 9.22,
+     "change": -1.39
+    },
+    {
+     "date": "2026-11-10",
+     "close": 9.35,
+     "change": -1.48
+    }
+   ],
+   "market_cap": 641990760.0,
+   "shares_outstanding": 76518565.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "NEEDHAM, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:06:59+09:00"
+  },
+  {
+   "id": "0001104659-26-126214",
+   "company": "China Automotive Systems, Inc.",
+   "ticker": "CAAS",
+   "cik": 2037400,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "1 China Automotive Systems Reports Record Third Quarter 2026 EPS Sales; Board Approves $5 Million Share Repurchase Program WUHAN, China, November 11 , 2026 /PRNewswire/ -- China Automotive Systems, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2037400/000110465926126214/0001104659-26-126214-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2037400/000110465926126214/tm2629675d1_ex99-1.htm",
+   "filed_at": "2026-11-12T16:05:18-05:00",
+   "filed_kst": "2026-11-13 06:05",
+   "price": 4.27,
+   "change": -3.17,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 4.27,
+     "change": -3.17
+    },
+    {
+     "date": "2026-11-11",
+     "close": 4.41,
+     "change": 7.3
+    },
+    {
+     "date": "2026-11-10",
+     "close": 4.11,
+     "change": -0.96
+    }
+   ],
+   "market_cap": 128828898.0,
+   "shares_outstanding": 30170702.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "WUHAN CITY, HUBEI",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-13T06:06:15+09:00"
+  },
+  {
+   "id": "0001193125-26-458301",
+   "company": "SANFILIPPO JOHN B & SON INC",
+   "ticker": "JBSS",
+   "cik": 880117,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 71,
+   "summary": "Announces Share Repurchase Program and Special Dividend Elgin, IL, November 12, 2026 -- John B.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/880117/000119312526458301/0001193125-26-458301-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/880117/000119312526458301/jbss-ex99_1.htm",
+   "filed_at": "2026-11-12T16:04:36-05:00",
+   "filed_kst": "2026-11-13 06:04",
+   "price": 56.22,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 56.22,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 56.22,
+     "change": -1.02
+    },
+    {
+     "date": "2026-11-11",
+     "close": 56.8,
+     "change": 1.23
+    }
+   ],
+   "market_cap": 456572740.0,
+   "shares_outstanding": 8121180.0,
+   "industry": "Sugar & Confectionery Products",
+   "state_of_incorporation": "DE",
+   "hq": "ELGIN, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T06:05:37+09:00"
+  },
   {
    "id": "0001628280-26-073366",
    "company": "Cerebras Systems Inc.",
@@ -15198,655 +15841,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-10T06:19:06+09:00"
-  },
-  {
-   "id": "0001193125-26-453636",
-   "company": "Atea Pharmaceuticals, Inc.",
-   "ticker": "AVIR",
-   "cik": 1593899,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 70,
-   "summary": "BEM/RZR demonstrated statistical non-inferiority compared to SOF/VEL in the modified intent-to-treat (mITT) population, achieving the trial’s primary endpoint.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1593899/000119312526453636/0001193125-26-453636-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1593899/000119312526453636/d177149dex991.htm",
-   "filed_at": "2026-11-09T16:17:20-05:00",
-   "filed_kst": "2026-11-10 06:17",
-   "price": 4.41,
-   "change": 2.32,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 4.41,
-     "change": 2.32
-    },
-    {
-     "date": "2026-11-06",
-     "close": 4.31,
-     "change": 2.13
-    },
-    {
-     "date": "2026-11-05",
-     "close": 4.22,
-     "change": -5.38
-    }
-   ],
-   "market_cap": 353702723.0,
-   "shares_outstanding": 80204699.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "MA",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T06:18:01+09:00"
-  },
-  {
-   "id": "0001628280-26-072195",
-   "company": "HARROW, INC.",
-   "ticker": "HROW",
-   "cik": 1360214,
-   "form": "8-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "M&A",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 89,
-   "summary": "Surgical serves cataract and refractive surgeons with a comprehensive peri-operative portfolio, with G-MELT expected to expand that offering upon FDA approval.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1360214/000162828026072195/0001628280-26-072195-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1360214/000162828026072195/hrow-20261109xlettertoshar.htm",
-   "filed_at": "2026-11-09T16:13:56-05:00",
-   "filed_kst": "2026-11-10 06:13",
-   "price": 27.47,
-   "change": 2.16,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 27.47,
-     "change": 2.16
-    },
-    {
-     "date": "2026-11-06",
-     "close": 26.89,
-     "change": 3.26
-    },
-    {
-     "date": "2026-11-05",
-     "close": 26.04,
-     "change": -9.43
-    }
-   ],
-   "market_cap": 1029791240.0,
-   "shares_outstanding": 37487850.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NASHVILLE, TN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:15:38+09:00"
-  },
-  {
-   "id": "0001104659-26-124500",
-   "company": "Senseonics Holdings, Inc.",
-   "ticker": "SENS",
-   "cik": 1616543,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 65,
-   "summary": "EX-99.1 2 sens-ex99d1.htm EX-99.1 ​ Senseonics Holdings, Inc. Reports Third Quarter 2026 Financial Results ● Generated third quarter revenue of $19.6 million, an increase of approximately 140% year-over-year ● Raised full-year 2026 revenue guidance to $68 million to $70 million from $62 million to $",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926124500/0001104659-26-124500-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926124500/sens-ex99d1.htm",
-   "filed_at": "2026-11-09T16:15:00-05:00",
-   "filed_kst": "2026-11-10 06:15",
-   "price": 9.8,
-   "change": 14.09,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 9.8,
-     "change": 14.09
-    },
-    {
-     "date": "2026-11-06",
-     "close": 8.59,
-     "change": 7.51
-    },
-    {
-     "date": "2026-11-05",
-     "close": 7.99,
-     "change": -11.42
-    }
-   ],
-   "market_cap": 518165719.0,
-   "shares_outstanding": 52874053.0,
-   "industry": "Industrial Instruments For Measurement, Display, and Control",
-   "state_of_incorporation": "DE",
-   "hq": "GERMANTOWN, MD",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T06:15:34+09:00"
-  },
-  {
-   "id": "0001628280-26-072194",
-   "company": "Securitize Corp.",
-   "ticker": "SECZ",
-   "cik": 2094496,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 83,
-   "summary": "1 Document Securitize Reports Third Quarter 2026 Results Announcing the River One acquisition to expand into tokenized asset-backed finance and a $50 million share repurchase program MIAMI, November 9, 2026 — Securitize Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2094496/000162828026072194/0001628280-26-072194-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2094496/000162828026072194/exhibit991-secz3q26earning.htm",
-   "filed_at": "2026-11-09T16:13:47-05:00",
-   "filed_kst": "2026-11-10 06:13",
-   "price": 6.97,
-   "change": 0.14,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 6.97,
-     "change": 0.14
-    },
-    {
-     "date": "2026-11-06",
-     "close": 6.96,
-     "change": -5.05
-    },
-    {
-     "date": "2026-11-05",
-     "close": 7.33,
-     "change": -8.83
-    }
-   ],
-   "market_cap": 1137961824.0,
-   "shares_outstanding": 163265685.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T06:14:20+09:00"
-  },
-  {
-   "id": "0001104659-26-124494",
-   "company": "Structure Therapeutics Inc.",
-   "ticker": "GPCR",
-   "cik": 1888886,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "1 Structure Therapeutics Reports Third Quarter 2026 Financial Results and Recent Highlights Phase 3 ACCOMPLISH-1 and ACCOMPLISH-2 registrational clinical trials of aleniglipron (oral small molecule GLP-1 receptor agonist) enrolling; topline data expected in 2H 2028 Additional aleniglipron data expec",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926124494/0001104659-26-124494-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926124494/tm2629207d1_ex99-1.htm",
-   "filed_at": "2026-11-09T16:11:32-05:00",
-   "filed_kst": "2026-11-10 06:11",
-   "price": 21.41,
-   "change": 5.21,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 21.41,
-     "change": 5.21
-    },
-    {
-     "date": "2026-11-06",
-     "close": 20.35,
-     "change": 6.66
-    },
-    {
-     "date": "2026-11-05",
-     "close": 19.08,
-     "change": -6.29
-    }
-   ],
-   "market_cap": 4580232137.0,
-   "shares_outstanding": 213929572.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:12:42+09:00"
-  },
-  {
-   "id": "0001638833-26-000089",
-   "company": "Surgery Partners, Inc.",
-   "ticker": "SGRY",
-   "cik": 1638833,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Additionally, the recently announced amended merger agreement with HealthSpan Partners serves as further validation of our unique offering, while representing a compelling outcome for our patients, physicians, stockholders, and other stakeholders.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1638833/000163883326000089/0001638833-26-000089-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1638833/000163883326000089/exhibit991q32026earningsre.htm",
-   "filed_at": "2026-11-09T16:12:00-05:00",
-   "filed_kst": "2026-11-10 06:12",
-   "price": 26.45,
-   "change": 14.01,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 26.45,
-     "change": 14.01
-    },
-    {
-     "date": "2026-11-06",
-     "close": 23.2,
-     "change": 0.13
-    },
-    {
-     "date": "2026-11-05",
-     "close": 23.17,
-     "change": 0.04
-    }
-   ],
-   "market_cap": 3462787977.0,
-   "shares_outstanding": 130918260.0,
-   "industry": "Services-General Medical & Surgical Hospitals, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "BRENTWOOD, TN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:12:40+09:00"
-  },
-  {
-   "id": "0001104659-26-124495",
-   "company": "AMERICAN PUBLIC EDUCATION INC",
-   "ticker": "APEI",
-   "cik": 1201792,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "Repurchase Program · As previously announced, on March 10, 2026, the Company's Board of Directors approved a common stock repurchase program of up to $50 million in the aggregate.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1201792/000110465926124495/0001104659-26-124495-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1201792/000110465926124495/tm2629133d1_ex99-1.htm",
-   "filed_at": "2026-11-09T16:12:11-05:00",
-   "filed_kst": "2026-11-10 06:12",
-   "price": 39.09,
-   "change": 4.86,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 39.09,
-     "change": 4.86
-    },
-    {
-     "date": "2026-11-06",
-     "close": 37.28,
-     "change": -2.46
-    },
-    {
-     "date": "2026-11-05",
-     "close": 38.22,
-     "change": -9.88
-    }
-   ],
-   "market_cap": 711566098.0,
-   "shares_outstanding": 18203277.0,
-   "industry": "Services-Educational Services",
-   "state_of_incorporation": "DE",
-   "hq": "CHARLES TOWN, WV",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:12:38+09:00"
-  },
-  {
-   "id": "0001062993-26-005837",
-   "company": "ZeroStack Corp.",
-   "ticker": "ZSTK",
-   "cik": 1790169,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "§ 138 InsO nahestehender Personen oder Dritter; - Verträge über die Vereinbarung strategischer Allianzen, Joint Ventures, Kooperationen oder BGB-Gesellschaften; - Verträge hinsichtlich des Kaufs oder Verkaufs von Beteiligungen an anderen Gesellschaften oder Geschäftsbetrieben, die noch nicht erfüllt",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1790169/000106299326005837/0001062993-26-005837-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1790169/000106299326005837/exhibit10-1.htm",
-   "filed_at": "2026-11-09T16:11:03-05:00",
-   "filed_kst": "2026-11-10 06:11",
-   "price": 2.69,
-   "change": 6.75,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 2.69,
-     "change": 6.75
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.52,
-     "change": -1.95
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.57,
-     "change": -5.17
-    }
-   ],
-   "market_cap": 47047637.0,
-   "shares_outstanding": 17489828.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "TX",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T06:12:04+09:00"
-  },
-  {
-   "id": "0001104659-26-124492",
-   "company": "Amplify Energy Corp.",
-   "ticker": "AMPY",
-   "cik": 1533924,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "Furbee continued, “In addition to the positive operational developments at Bairoil and Beta, we are also pleased with the share repurchase program we commenced in August.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1533924/000110465926124492/0001104659-26-124492-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1533924/000110465926124492/ampy-ex99d1.htm",
-   "filed_at": "2026-11-09T16:11:08-05:00",
-   "filed_kst": "2026-11-10 06:11",
-   "price": 3.21,
-   "change": -3.6,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 3.21,
-     "change": -3.6
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.33,
-     "change": 4.72
-    },
-    {
-     "date": "2026-11-05",
-     "close": 3.18,
-     "change": -8.62
-    }
-   ],
-   "market_cap": 133075204.0,
-   "shares_outstanding": 41456450.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": null,
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T06:12:02+09:00"
-  },
-  {
-   "id": "0001193125-26-453592",
-   "company": "Attovia Therapeutics, Inc.",
-   "ticker": "ATTO",
-   "cik": 2058707,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "가이던스상향"
-   ],
-   "confidence": 80,
-   "summary": "“The recently announced 12-week topline results from our ATTO-1310 Phase 1b trial exceeded our expectations, building on the compelling Week 4 findings and providing further evidence supporting our differentiated target product profile: rapid, deep, and durable itch relief, meaningful skin l",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2058707/000119312526453592/0001193125-26-453592-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2058707/000119312526453592/atto-ex99_1.htm",
-   "filed_at": "2026-11-09T16:10:14-05:00",
-   "filed_kst": "2026-11-10 06:10",
-   "price": 15.96,
-   "change": 4.52,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 15.96,
-     "change": 4.52
-    },
-    {
-     "date": "2026-11-06",
-     "close": 15.27,
-     "change": 1.8
-    },
-    {
-     "date": "2026-11-05",
-     "close": 15.0,
-     "change": -3.85
-    }
-   ],
-   "market_cap": 728594142.0,
-   "shares_outstanding": 45651262.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SAN CARLOS, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T06:11:25+09:00"
-  },
-  {
-   "id": "0001193125-26-453594",
-   "company": "Crescent Capital BDC, Inc.",
-   "ticker": "CCAP",
-   "cik": 1633336,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 67,
-   "summary": "34 Per Share and Announces a $50 Million Share Repurchase Program LOS ANGELES, November 9, 2026 — Crescent Capital BDC, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1633336/000119312526453594/0001193125-26-453594-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1633336/000119312526453594/ccap-ex99_1.htm",
-   "filed_at": "2026-11-09T16:10:15-05:00",
-   "filed_kst": "2026-11-10 06:10",
-   "price": 9.24,
-   "change": -1.49,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 9.24,
-     "change": -1.49
-    },
-    {
-     "date": "2026-11-06",
-     "close": 9.38,
-     "change": -0.74
-    },
-    {
-     "date": "2026-11-05",
-     "close": 9.45,
-     "change": -1.97
-    }
-   ],
-   "market_cap": 340456596.0,
-   "shares_outstanding": 36845952.0,
-   "industry": null,
-   "state_of_incorporation": "MD",
-   "hq": "LOS ANGELES, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:11:23+09:00"
-  },
-  {
-   "id": "0001193125-26-453595",
-   "company": "Definium Therapeutics, Inc.",
-   "ticker": "DFTX",
-   "cik": 1813814,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 95,
-   "summary": "1 Definium Therapeutics Reports Third Quarter 2026 Financial Results and Recent Highlights Reported positive topline Phase 3 results from two Phase 3 studies of DT120 ODT in generalized anxiety disorder (GAD) Received FDA Breakthrough Therapy Designation for DT120 ODT in major depressive disorder (M",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1813814/000119312526453595/0001193125-26-453595-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1813814/000119312526453595/dftx-ex99_1.htm",
-   "filed_at": "2026-11-09T16:10:15-05:00",
-   "filed_kst": "2026-11-10 06:10",
-   "price": 35.39,
-   "change": 6.37,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 35.39,
-     "change": 6.37
-    },
-    {
-     "date": "2026-11-06",
-     "close": 33.27,
-     "change": 9.58
-    },
-    {
-     "date": "2026-11-05",
-     "close": 30.36,
-     "change": -7.16
-    }
-   ],
-   "market_cap": 4755246360.0,
-   "shares_outstanding": 134366950.0,
-   "industry": "Medicinal Chemicals & Botanical Products",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T06:11:22+09:00"
   }
  ]
 }
