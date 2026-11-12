@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-12T21:49:08+09:00",
+ "updated_at": "2026-11-12T21:54:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-457000",
+   "company": "Sagimet Biosciences Inc.",
+   "ticker": "SGMT",
+   "cik": 1400118,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "AURORA Phase 3 clinical trial underway for denifanstat in moderate to severe acne, with topline data anticipated in the second half of 2027 • Positive denifanstat Phase 3 clinical trial results in China from license partner Ascletis, and continued improvement and sustained efficacy across all effica",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1400118/000119312526457000/0001193125-26-457000-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1400118/000119312526457000/d123481dex991.htm",
+   "filed_at": "2026-11-12T07:48:43-05:00",
+   "filed_kst": "2026-11-12 21:48",
+   "price": 11.41,
+   "change": 4.78,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 11.41,
+     "change": 4.78
+    },
+    {
+     "date": "2026-11-10",
+     "close": 10.89,
+     "change": 0.55
+    },
+    {
+     "date": "2026-11-09",
+     "close": 10.83,
+     "change": 9.95
+    }
+   ],
+   "market_cap": 350000096.0,
+   "shares_outstanding": 30674855.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "FOSTER CITY, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:50:32+09:00"
+  },
   {
    "id": "0001193125-26-456990",
    "company": "PLDT Inc.",
@@ -15781,59 +15837,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-09T23:01:24+09:00"
-  },
-  {
-   "id": "0001193125-26-452755",
-   "company": "Faeth Therapeutics, Inc.",
-   "ticker": "FTH",
-   "cik": 1829802,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "1 FAETH THERAPEUTICS PIKTOR Phase 2 Endometrial Cancer Topline Results NOVEMBER 9, 2026 Exhibit 99.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1829802/000119312526452755/0001193125-26-452755-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829802/000119312526452755/d19560dex991.htm",
-   "filed_at": "2026-11-09T08:45:24-05:00",
-   "filed_kst": "2026-11-09 22:45",
-   "price": 22.05,
-   "change": 10.69,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 22.05,
-     "change": 10.69
-    },
-    {
-     "date": "2026-11-05",
-     "close": 19.92,
-     "change": -0.35
-    },
-    {
-     "date": "2026-11-04",
-     "close": 19.99,
-     "change": 1.73
-    }
-   ],
-   "market_cap": 569858987.0,
-   "shares_outstanding": 25843945.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "AUSTIN, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-09T22:46:02+09:00"
   }
  ]
 }
