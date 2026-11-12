@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-12T23:19:39+09:00",
+ "updated_at": "2026-11-12T23:24:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-126008",
+   "company": "Nebius Group N.V.",
+   "ticker": "NBIS",
+   "cik": 1513845,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 65,
+   "summary": "Adoption: Expanding across segments and routes to market Leading enterprise data and AI platforms signed multi-year agreements for the first time: Q3 2026 Databricks selected Nebius AI Cloud following a rigorous evaluation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/0001104659-26-126008-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
+   "filed_at": "2026-11-12T09:22:11-05:00",
+   "filed_kst": "2026-11-12 23:22",
+   "price": 154.69,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 154.69,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 154.69,
+     "change": 15.44
+    },
+    {
+     "date": "2026-11-10",
+     "close": 134.0,
+     "change": -5.27
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "Netherlands",
+   "hq": "AMSTERDAM",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T23:22:42+09:00"
+  },
   {
    "id": "0001437749-26-036407",
    "company": "Neonode Inc.",
@@ -15817,59 +15868,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T06:08:36+09:00"
-  },
-  {
-   "id": "0001824502-26-000087",
-   "company": "Archer Aviation Inc.",
-   "ticker": "ACHR",
-   "cik": 1824502,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Archer partners with Formula 1 Archer and Formula 1 are forming a strategic alliance through a multi-year relationship to explore the future integration of eVTOL air taxi services at Grand Prix events with the goal to fly VIPs and fans to and from Grand Prix circuits in minutes aboard Midnight.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1824502/000182450226000087/0001824502-26-000087-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1824502/000182450226000087/achr-20261109.htm",
-   "filed_at": "2026-11-09T16:07:09-05:00",
-   "filed_kst": "2026-11-10 06:07",
-   "price": 4.82,
-   "change": 8.45,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 4.82,
-     "change": 8.45
-    },
-    {
-     "date": "2026-11-06",
-     "close": 4.44,
-     "change": 14.73
-    },
-    {
-     "date": "2026-11-05",
-     "close": 3.87,
-     "change": -6.07
-    }
-   ],
-   "market_cap": 3711514716.0,
-   "shares_outstanding": 770023800.0,
-   "industry": "Aircraft",
-   "state_of_incorporation": null,
-   "hq": "SAN JOSE, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:08:01+09:00"
   }
  ]
 }
