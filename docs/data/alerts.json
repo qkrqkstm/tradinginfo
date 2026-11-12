@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-12T21:44:40+09:00",
+ "updated_at": "2026-11-12T21:49:08+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-456990",
+   "company": "PLDT Inc.",
+   "ticker": "PHI",
+   "cik": 78150,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 phi-ex99_1.htm EX-99.1 EX-99.1 EXHIBITS Exhibit Number Page Copies of the disclosure letters that PLDT Inc. (the “Company”) filed on November 12, 2026 with the Philippine Stock Exchange and the Philippine Securities and Exchange Commission in connection with the following matters: (a) Pres",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78150/000119312526456990/0001193125-26-456990-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/78150/000119312526456990/phi-ex99_1.htm",
+   "filed_at": "2026-11-12T07:46:45-05:00",
+   "filed_kst": "2026-11-12 21:46",
+   "price": 17.7,
+   "change": -1.45,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 17.7,
+     "change": -1.45
+    },
+    {
+     "date": "2026-11-10",
+     "close": 17.96,
+     "change": -0.83
+    },
+    {
+     "date": "2026-11-09",
+     "close": 18.11,
+     "change": -0.82
+    }
+   ],
+   "market_cap": 3824187218.0,
+   "shares_outstanding": 216055775.0,
+   "industry": "Telephone Communications (No Radiotelephone)",
+   "state_of_incorporation": null,
+   "hq": "MAKATI METRO MANILA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T21:47:35+09:00"
+  },
   {
    "id": "0001564708-26-000260",
    "company": "NEWS CORP",
@@ -15784,59 +15834,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-09T22:46:02+09:00"
-  },
-  {
-   "id": "0001493152-26-050647",
-   "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
-   "ticker": "BMNR",
-   "cik": 1829311,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "지수편입",
-   "primary_key": "index",
-   "emoji": "📈",
-   "types": [
-    "지수편입"
-   ],
-   "confidence": 57,
-   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 Exhibit 99.1 Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.07 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $14.3 Billion Bitmine owns 4.97% of the total ETH coin supply of 122.2 million Vitalik Buterin, founde",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226050647/0001493152-26-050647-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226050647/ex99-1.htm",
-   "filed_at": "2026-11-09T08:45:29-05:00",
-   "filed_kst": "2026-11-09 22:45",
-   "price": 18.76,
-   "change": -1.26,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 18.76,
-     "change": -1.26
-    },
-    {
-     "date": "2026-11-05",
-     "close": 19.0,
-     "change": -12.56
-    },
-    {
-     "date": "2026-11-04",
-     "close": 21.73,
-     "change": 5.85
-    }
-   ],
-   "market_cap": 11316527151.0,
-   "shares_outstanding": 603226394.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "NORWALK, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-09T22:46:01+09:00"
   }
  ]
 }
