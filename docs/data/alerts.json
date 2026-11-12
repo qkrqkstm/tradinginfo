@@ -1,7 +1,480 @@
 {
- "updated_at": "2026-11-12T20:59:04+09:00",
+ "updated_at": "2026-11-12T21:04:59+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-456888",
+   "company": "Alkermes plc.",
+   "ticker": "ALKS",
+   "cik": 1520262,
+   "form": "8-K",
+   "items": [
+    "1.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "and Alkermes Pharma Ireland Limited (together, “Alkermes”), two wholly-owned indirect subsidiaries of Alkermes plc (the “Company”), entered into a Confidential Settlement and License Agreement (the “Settlement Agreement”) with Teva Pharmaceuticals, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1520262/000119312526456888/0001193125-26-456888-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1520262/000119312526456888/alks-20261106.htm",
+   "filed_at": "2026-11-12T07:04:00-05:00",
+   "filed_kst": "2026-11-12 21:04",
+   "price": 47.89,
+   "change": 3.06,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 47.89,
+     "change": 3.06
+    },
+    {
+     "date": "2026-11-10",
+     "close": 46.47,
+     "change": 0.65
+    },
+    {
+     "date": "2026-11-09",
+     "close": 46.17,
+     "change": 0.59
+    }
+   ],
+   "market_cap": 8047605131.0,
+   "shares_outstanding": 168043540.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "DUBLIN 4, L2",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T21:04:58+09:00"
+  },
+  {
+   "id": "0001628280-26-073088",
+   "company": "NIQ Global Intelligence plc",
+   "ticker": "NIQ",
+   "cik": 2054696,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "9x net leverage ratio milestone one quarter ahead of plan and announces $150 million share repurchase authorization • Delivered 6.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2054696/000162828026073088/0001628280-26-073088-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2054696/000162828026073088/niqpressrelease-q326.htm",
+   "filed_at": "2026-11-12T07:01:43-05:00",
+   "filed_kst": "2026-11-12 21:01",
+   "price": 21.06,
+   "change": 0.19,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 21.06,
+     "change": 0.19
+    },
+    {
+     "date": "2026-11-10",
+     "close": 21.02,
+     "change": -1.87
+    },
+    {
+     "date": "2026-11-09",
+     "close": 21.42,
+     "change": 4.9
+    }
+   ],
+   "market_cap": 6211770496.0,
+   "shares_outstanding": 294955864.0,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "Ireland",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-12T21:02:53+09:00"
+  },
+  {
+   "id": "0001372514-26-000093",
+   "company": "KIORA PHARMACEUTICALS INC",
+   "ticker": "KPRX",
+   "cik": 1372514,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 86,
+   "summary": "• KIO-401 orphan drug designation requested: Submitted a request for FDA orphan drug designation for KIO-401 in CRAO.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000093/0001372514-26-000093-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000093/ex991-pressreleaseseptembe.htm",
+   "filed_at": "2026-11-12T07:02:04-05:00",
+   "filed_kst": "2026-11-12 21:02",
+   "price": 1.35,
+   "change": -2.17,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 1.35,
+     "change": -2.17
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.38,
+     "change": -8.61
+    },
+    {
+     "date": "2026-11-09",
+     "close": 1.51,
+     "change": 4.86
+    }
+   ],
+   "market_cap": 5972922.0,
+   "shares_outstanding": 4424387.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "ENCINITAS, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T21:02:51+09:00"
+  },
+  {
+   "id": "0001193125-26-456883",
+   "company": "THOMSON REUTERS CORP /CAN/",
+   "ticker": "TRI",
+   "cik": 1075124,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "1 NEWS RELEASE Thomson Reuters Announces $500 Million Share Repurchase Program and New Normal Course Issuer Bid TORONTO, November 11, 2026 – Thomson Reuters (TSX/Nasdaq: TRI), a global content and technology company, today announced that it plans to repurchase up to $500 million of its shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312526456883/0001193125-26-456883-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312526456883/d129320dex991.htm",
+   "filed_at": "2026-11-12T07:01:22-05:00",
+   "filed_kst": "2026-11-12 21:01",
+   "price": 108.83,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 108.83,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 108.83,
+     "change": 0.39
+    },
+    {
+     "date": "2026-11-10",
+     "close": 108.41,
+     "change": 0.1
+    }
+   ],
+   "market_cap": 52901486389.0,
+   "shares_outstanding": 486092864.0,
+   "industry": "Miscellaneous Publishing",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO, A6",
+   "entity_category": null,
+   "detected_at": "2026-11-12T21:02:19+09:00"
+  },
+  {
+   "id": "0001171843-26-007368",
+   "company": "Codere Online Luxembourg, S.A.",
+   "ticker": "CDRO",
+   "cik": 1866782,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "” Recent Events Official Betting Partner of the NFL in Mexico · On September 10, 2026, Codere Online announced a multi-year agreement to become Official Betting Partner of the NFL in Mexico, strengthening its premium brand positioning in one of its largest and most strategically important markets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1866782/000117184326007368/0001171843-26-007368-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866782/000117184326007368/exh_991.htm",
+   "filed_at": "2026-11-12T07:00:08-05:00",
+   "filed_kst": "2026-11-12 21:00",
+   "price": 8.68,
+   "change": 1.34,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 8.68,
+     "change": 1.34
+    },
+    {
+     "date": "2026-11-10",
+     "close": 8.56,
+     "change": -2.06
+    },
+    {
+     "date": "2026-11-09",
+     "close": 8.74,
+     "change": 3.07
+    }
+   ],
+   "market_cap": 392768368.0,
+   "shares_outstanding": 45249812.0,
+   "industry": "Services-Miscellaneous Amusement & Recreation",
+   "state_of_incorporation": "Luxembourg",
+   "hq": "LUXEMBOURG, N4",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:01:42+09:00"
+  },
+  {
+   "id": "0001171843-26-007372",
+   "company": "Osisko Gold Group Inc.",
+   "ticker": "OGG",
+   "cik": 1431852,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "If these arrangements are not completed on the terms contemplated, or if construction costs exceed the go-forward capital obligation of approximately $990 million including, as a result of inflation, contractor performance under the JDS Energy & Mining Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1431852/000117184326007372/0001171843-26-007372-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1431852/000117184326007372/exh_991.htm",
+   "filed_at": "2026-11-12T07:00:21-05:00",
+   "filed_kst": "2026-11-12 21:00",
+   "price": 2.38,
+   "change": -6.3,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 2.38,
+     "change": -6.3
+    },
+    {
+     "date": "2026-11-10",
+     "close": 2.54,
+     "change": -4.87
+    },
+    {
+     "date": "2026-11-09",
+     "close": 2.67,
+     "change": 4.71
+    }
+   ],
+   "market_cap": 607065448.0,
+   "shares_outstanding": 255069516.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "Canada (Federal Level)",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:01:38+09:00"
+  },
+  {
+   "id": "0001213900-26-118349",
+   "company": "Quantum Cyber N.V.",
+   "ticker": "QUCY",
+   "cik": 1874252,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "htm FIRST AMENDMENT TO IP LICENSE AGREEMENT, DATED AS OF NOVEMBER 6, 2026, BY AND BETWEEN PROJECT LIGHTSHIFT, INC.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1874252/000121390026118349/0001213900-26-118349-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1874252/000121390026118349/ea031191601ex10-1.htm",
+   "filed_at": "2026-11-12T07:00:18-05:00",
+   "filed_kst": "2026-11-12 21:00",
+   "price": 0.62,
+   "change": -0.08,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.62,
+     "change": -0.08
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.62,
+     "change": -9.42
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.69,
+     "change": 0.88
+    }
+   ],
+   "market_cap": 52122279.0,
+   "shares_outstanding": 84068192.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Netherlands",
+   "hq": "MAINZ",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:01:32+09:00"
+  },
+  {
+   "id": "0001628280-26-073085",
+   "company": "Standard Nuclear, Inc.",
+   "ticker": "STDN",
+   "cik": 2086716,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 61,
+   "summary": "Framatome joint venture Following the NRC's July 2026 approval of a license amendment that authorizes TRISO fabrication at enrichments just under 10 weight percent U-235 at Framatome's Richland, Washington facility, the Company's joint venture with Framatome continued",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026073085/0001628280-26-073085-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026073085/q3_2026xearningsxprns.htm",
+   "filed_at": "2026-11-12T07:00:18-05:00",
+   "filed_kst": "2026-11-12 21:00",
+   "price": 12.48,
+   "change": -0.79,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 12.48,
+     "change": -0.79
+    },
+    {
+     "date": "2026-11-10",
+     "close": 12.58,
+     "change": -0.79
+    },
+    {
+     "date": "2026-11-09",
+     "close": 12.68,
+     "change": 4.28
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Industrial Inorganic Chemicals",
+   "state_of_incorporation": "DE",
+   "hq": "OAK RIDGE, TN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:01:29+09:00"
+  },
+  {
+   "id": "0001104659-26-125797",
+   "company": "Traws Pharma, Inc.",
+   "ticker": "TRAW",
+   "cik": 1130598,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Discussions will include a potential adaptive Phase 2b/pivotal program and Fast Track designation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926125797/0001104659-26-125797-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926125797/tm2629616d1_ex99-1.htm",
+   "filed_at": "2026-11-12T07:00:31-05:00",
+   "filed_kst": "2026-11-12 21:00",
+   "price": 0.25,
+   "change": 8.7,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 0.25,
+     "change": 8.7
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.23,
+     "change": -4.17
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.24,
+     "change": 9.09
+    }
+   ],
+   "market_cap": 3842069.0,
+   "shares_outstanding": 15368277.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEWTOWN, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T21:01:26+09:00"
+  },
   {
    "id": "0001437749-26-036333",
    "company": "BK Technologies Corp",
@@ -15381,485 +15854,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-09T21:32:15+09:00"
-  },
-  {
-   "id": "0001193125-26-452658",
-   "company": "INOVIO PHARMACEUTICALS, INC.",
-   "ticker": "INO",
-   "cik": 1055726,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.2 6 d192373dex992.htm EX-99.2 EX-99.2 Exhibit 99.2 INOVIO Announces Pricing of Approximately $75 Million Public Offering PLYMOUTH MEETING, PA – November 5, 2026 /PRNewswire/ - INOVIO Pharmaceuticals, Inc. (Nasdaq: INO), a biotechnology company focused on developing and commercializing DNA medi",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1055726/000119312526452658/0001193125-26-452658-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1055726/000119312526452658/d192373dex992.htm",
-   "filed_at": "2026-11-09T07:30:07-05:00",
-   "filed_kst": "2026-11-09 21:30",
-   "price": 1.22,
-   "change": -0.41,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 1.22,
-     "change": -0.41
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.22,
-     "change": -15.86
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.45,
-     "change": -10.49
-    }
-   ],
-   "market_cap": 126144972.0,
-   "shares_outstanding": 103397518.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "PLYMOUTH MEETING, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-09T21:30:40+09:00"
-  },
-  {
-   "id": "0001213900-26-117193",
-   "company": "FACT II Acquisition Corp.",
-   "ticker": "FACT",
-   "cik": 2028935,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "If, at any time after the public announcement of a definitive agreement for a Business Combination (a “Business Combination Agreement”), the VWAP of the Public Warrants exceeds $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2028935/000121390026117193/0001213900-26-117193-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028935/000121390026117193/ea031143201ex10-1.htm",
-   "filed_at": "2026-11-09T07:17:37-05:00",
-   "filed_kst": "2026-11-09 21:17",
-   "price": 10.81,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 10.81,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 10.81,
-     "change": 0.46
-    },
-    {
-     "date": "2026-11-04",
-     "close": 10.76,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-09T21:18:39+09:00"
-  },
-  {
-   "id": "0001635088-26-000130",
-   "company": "Roivant Sciences Ltd.",
-   "ticker": "ROIV",
-   "cik": 1635088,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 90,
-   "summary": "0 million in its first 5 weeks of launch following FDA approval in August 2026 • IMVT-1402 600 mg met the primary endpoint of ACR20 response at Week 28 (92.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1635088/000163508826000130/0001635088-26-000130-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1635088/000163508826000130/q2fy2026roivantearningsrel.htm",
-   "filed_at": "2026-11-09T07:17:04-05:00",
-   "filed_kst": "2026-11-09 21:17",
-   "price": 38.88,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 38.88,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 38.88,
-     "change": 6.17
-    },
-    {
-     "date": "2026-11-05",
-     "close": 36.62,
-     "change": -4.21
-    }
-   ],
-   "market_cap": 28083918823.0,
-   "shares_outstanding": 722323015.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Bermuda",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:17:36+09:00"
-  },
-  {
-   "id": "0001764013-26-000121",
-   "company": "Immunovant, Inc.",
-   "ticker": "IMVT",
-   "cik": 1764013,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 75,
-   "summary": "1 Immunovant Provides Corporate Updates and Reports Financial Results for the Quarter Ended September 30, 2026 • IMVT-1402 600 mg met the primary endpoint of ACR20 response at Week 28 (92.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000121/0001764013-26-000121-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000121/exhibit9912026119.htm",
-   "filed_at": "2026-11-09T07:09:17-05:00",
-   "filed_kst": "2026-11-09 21:09",
-   "price": 30.53,
-   "change": 7.54,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 30.53,
-     "change": 7.54
-    },
-    {
-     "date": "2026-11-05",
-     "close": 28.39,
-     "change": -5.05
-    },
-    {
-     "date": "2026-11-04",
-     "close": 29.9,
-     "change": 2.96
-    }
-   ],
-   "market_cap": 6306053381.0,
-   "shares_outstanding": 206552682.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "DURHAM, NC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:10:31+09:00"
-  },
-  {
-   "id": "0001104659-26-124151",
-   "company": "OCULAR THERAPEUTIX, INC",
-   "ticker": "OCUL",
-   "cik": 1393434,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 71,
-   "summary": "The cash projection includes investment in pre-commercial activities and preparations for the potential FDA approval and initial launch of AXPAXLI.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124151/0001104659-26-124151-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124151/tm2629079d2_ex99-1.htm",
-   "filed_at": "2026-11-09T07:08:28-05:00",
-   "filed_kst": "2026-11-09 21:08",
-   "price": 6.59,
-   "change": 2.57,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 6.59,
-     "change": 2.57
-    },
-    {
-     "date": "2026-11-05",
-     "close": 6.43,
-     "change": -9.94
-    },
-    {
-     "date": "2026-11-04",
-     "close": 7.14,
-     "change": 4.69
-    }
-   ],
-   "market_cap": 1447268570.0,
-   "shares_outstanding": 219615868.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BEDFORD, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:09:12+09:00"
-  },
-  {
-   "id": "0001213900-26-117189",
-   "company": "KAMADA LTD",
-   "ticker": "KMDA",
-   "cik": 1567529,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 79,
-   "summary": "The Company currently owns three FDA approved operating plasma collection centers in the United States, in Beaumont, Houston, and San Antonio, Texas.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1567529/000121390026117189/0001213900-26-117189-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1567529/000121390026117189/ea031017901ex99-4.htm",
-   "filed_at": "2026-11-09T07:05:37-05:00",
-   "filed_kst": "2026-11-09 21:05",
-   "price": 7.23,
-   "change": 5.24,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 7.23,
-     "change": 5.24
-    },
-    {
-     "date": "2026-11-05",
-     "close": 6.87,
-     "change": -7.41
-    },
-    {
-     "date": "2026-11-04",
-     "close": 7.42,
-     "change": 2.34
-    }
-   ],
-   "market_cap": 417070185.0,
-   "shares_outstanding": 57686056.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "REHOVOT, L3",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:06:33+09:00"
-  },
-  {
-   "id": "0001650664-26-000100",
-   "company": "Editas Medicine, Inc.",
-   "ticker": "EDIT",
-   "cik": 1650664,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "• As part of the Company’s collaboration agreement with Bristol Myers Squibb, a second IND/CTA was accepted for an alpha-beta T cell medicine, triggering a milestone payment to Editas.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1650664/000165066426000100/0001650664-26-000100-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650664/000165066426000100/editasmedicinepressrelease.htm",
-   "filed_at": "2026-11-09T07:04:32-05:00",
-   "filed_kst": "2026-11-09 21:04",
-   "price": 2.57,
-   "change": 0.78,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 2.57,
-     "change": 0.78
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.55,
-     "change": -6.25
-    },
-    {
-     "date": "2026-11-04",
-     "close": 2.72,
-     "change": 4.62
-    }
-   ],
-   "market_cap": 394700690.0,
-   "shares_outstanding": 153580035.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-09T21:05:26+09:00"
-  },
-  {
-   "id": "0001628280-26-071870",
-   "company": "TG THERAPEUTICS, INC.",
-   "ticker": "TGTX",
-   "cik": 1001316,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "자사주매입",
-    "임상통과",
-    "탑라인결과",
-    "가이던스상향"
-   ],
-   "confidence": 97,
-   "summary": "9 million for the third quarter 2026 Clinical Data Highlights from MSToronto2026, the 10 th Joint ACTRIMS-ECTRIMS Meeting • Phase 3 ENHANCE Trial : Positive Phase 3 results demonstrated bioequivalent drug exposure between the currently approved two-infusion BRIUMVI initiation regimen and a consolida",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1001316/000162828026071870/0001628280-26-071870-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1001316/000162828026071870/q3-26earningsprxexx991.htm",
-   "filed_at": "2026-11-09T07:04:06-05:00",
-   "filed_kst": "2026-11-09 21:04",
-   "price": 59.83,
-   "change": 3.18,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 59.83,
-     "change": 3.18
-    },
-    {
-     "date": "2026-11-05",
-     "close": 57.98,
-     "change": -5.92
-    },
-    {
-     "date": "2026-11-04",
-     "close": 61.63,
-     "change": 1.45
-    }
-   ],
-   "market_cap": 9158121441.0,
-   "shares_outstanding": 153069053.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:04:44+09:00"
-  },
-  {
-   "id": "0001564708-26-000256",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000256/0001564708-26-000256-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000256/appendix3cclassa20261106.htm",
-   "filed_at": "2026-11-09T07:02:48-05:00",
-   "filed_kst": "2026-11-09 21:02",
-   "price": 28.96,
-   "change": -0.03,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 28.96,
-     "change": -0.03
-    },
-    {
-     "date": "2026-11-05",
-     "close": 28.97,
-     "change": -13.24
-    },
-    {
-     "date": "2026-11-04",
-     "close": 33.39,
-     "change": 4.15
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:03:40+09:00"
   }
  ]
 }
