@@ -1,7 +1,278 @@
 {
- "updated_at": "2026-11-12T22:09:14+09:00",
+ "updated_at": "2026-11-12T22:14:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-118449",
+   "company": "FORUM MARKETS Inc",
+   "ticker": "FRMM",
+   "cik": 1690080,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "3 Share Repurchase Program During the third quarter of 2026, the Company repurchased approximately 330,000 shares of its common stock for approximately $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1690080/000121390026118449/0001213900-26-118449-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1690080/000121390026118449/ea031191501ex99-1.htm",
+   "filed_at": "2026-11-12T08:12:31-05:00",
+   "filed_kst": "2026-11-12 22:12",
+   "price": 2.95,
+   "change": 4.61,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 2.95,
+     "change": 4.61
+    },
+    {
+     "date": "2026-11-10",
+     "close": 2.82,
+     "change": -2.08
+    },
+    {
+     "date": "2026-11-09",
+     "close": 2.88,
+     "change": -5.26
+    }
+   ],
+   "market_cap": 38936897.0,
+   "shares_outstanding": 13198948.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": null,
+   "hq": "PALM BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T22:13:14+09:00"
+  },
+  {
+   "id": "0001213900-26-118447",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "htm SECOND AMENDMENT TO BUSINESS COMBINATION AGREEMENT, DATED AS OF NOVEMBER 11, 2026, BY AND AMONG INFLECTION POINT ACQUISITION CORP.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026118447/0001213900-26-118447-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026118447/ea031191201ex10-1.htm",
+   "filed_at": "2026-11-12T08:11:02-05:00",
+   "filed_kst": "2026-11-12 22:11",
+   "price": 10.21,
+   "change": -0.2,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 10.21,
+     "change": -0.2
+    },
+    {
+     "date": "2026-11-10",
+     "close": 10.23,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 10.23,
+     "change": 0.2
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T22:11:40+09:00"
+  },
+  {
+   "id": "0001193125-26-457060",
+   "company": "Silence Therapeutics plc",
+   "ticker": "SLN",
+   "cik": 1479615,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "M&A",
+    "탑라인결과"
+   ],
+   "confidence": 69,
+   "summary": "Recent Business Highlights • On August 10, 2026, Silence reported positive topline results from its Phase 2 SANRECO trial of divesiran, an investigational siRNA therapy silencing TMPRSS6, in polycythemia vera, supporting a potentially best-in-class profile with once-every-three-month dosing.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1479615/000119312526457060/0001193125-26-457060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1479615/000119312526457060/d101909dex991.htm",
+   "filed_at": "2026-11-12T08:10:20-05:00",
+   "filed_kst": "2026-11-12 22:10",
+   "price": 19.77,
+   "change": -0.1,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 19.77,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-10",
+     "close": 19.79,
+     "change": 0.2
+    },
+    {
+     "date": "2026-11-09",
+     "close": 19.75,
+     "change": 0.1
+    }
+   ],
+   "market_cap": 2802200531.0,
+   "shares_outstanding": 141740037.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T22:11:08+09:00"
+  },
+  {
+   "id": "0001104659-26-125912",
+   "company": "Theriva Biologics, Inc.",
+   "ticker": "TOVX",
+   "cik": 894158,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "o VCN-01 has Orphan Drug Designation from the FDA, Orphan Medicinal Product Designation from the EMA and Rare Pediatric Disease Designation from the FDA for the treatment of retinoblastoma; if a Biologics License Application (BLA) for VCN-01 for the treatment of retinobl",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/894158/000110465926125912/0001104659-26-125912-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/894158/000110465926125912/tm2629526d1_ex99-1.htm",
+   "filed_at": "2026-11-12T08:10:34-05:00",
+   "filed_kst": "2026-11-12 22:10",
+   "price": 0.16,
+   "change": 0.56,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.16,
+     "change": 0.56
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.16,
+     "change": 6.67
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.15,
+     "change": -11.76
+    }
+   ],
+   "market_cap": 7342827.0,
+   "shares_outstanding": 45892668.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "ROCKVILLE, MD",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T22:11:07+09:00"
+  },
+  {
+   "id": "0001213900-26-118444",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "htm SECOND AMENDMENT TO BUSINESS COMBINATION AGREEMENT, DATED AS OF NOVEMBER 11, 2026, BY AND AMONG INFLECTION POINT ACQUISITION CORP.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026118444/0001213900-26-118444-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026118444/ea031191201ex10-1.htm",
+   "filed_at": "2026-11-12T08:09:48-05:00",
+   "filed_kst": "2026-11-12 22:09",
+   "price": 10.21,
+   "change": -0.2,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 10.21,
+     "change": -0.2
+    },
+    {
+     "date": "2026-11-10",
+     "close": 10.23,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 10.23,
+     "change": 0.2
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T22:10:33+09:00"
+  },
   {
    "id": "0001213900-26-118442",
    "company": "Tiziana Life Sciences Ltd",
@@ -15605,244 +15876,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-10T01:12:06+09:00"
-  },
-  {
-   "id": "0001213900-26-117359",
-   "company": "J-Long Group Ltd",
-   "ticker": "JL",
-   "cik": 1948436,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "EX-99.2 3 ea031128701ex99-2.htm THIRD AMENDED AND RESTATED MEMORANDUM AND ARTICLES OF ASSOCIATION Exhibit 99.2 THIRD SECOND AMENDED AND RESTATED MEMORANDUM AND ARTICLES OF ASSOCIATION J-Long Group Limited (as adopted by a Special Resolution passed on [ 7 August date] 202 6 5 ) Filed: 18-Aug-2025 16:",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1948436/000121390026117359/0001213900-26-117359-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1948436/000121390026117359/ea031128701ex99-2.htm",
-   "filed_at": "2026-11-09T11:00:29-05:00",
-   "filed_kst": "2026-11-10 01:00",
-   "price": 3.79,
-   "change": -0.52,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 3.79,
-     "change": -0.52
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.81,
-     "change": -4.75
-    },
-    {
-     "date": "2026-11-05",
-     "close": 4.0,
-     "change": -1.96
-    }
-   ],
-   "market_cap": 14256847.0,
-   "shares_outstanding": 3761701.0,
-   "industry": "Retail-Apparel & Accessory Stores",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "TSUEN WAN, N.T., K3",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T01:01:18+09:00"
-  },
-  {
-   "id": "0001855612-26-000154",
-   "company": "Grab Holdings Ltd",
-   "ticker": "GRAB",
-   "cik": 1855612,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The joint development agreements contain binding development and funding obligations, but the operational terms of the joint venture entities and the terms of each party’s investment remain subject to definitive agreements and conditions specified therein.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000154/0001855612-26-000154-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000154/sbggrabsignjdastodevelopai.htm",
-   "filed_at": "2026-11-09T10:38:20-05:00",
-   "filed_kst": "2026-11-10 00:38",
-   "price": 3.46,
-   "change": 1.47,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 3.46,
-     "change": 1.47
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.41,
-     "change": -2.01
-    },
-    {
-     "date": "2026-11-05",
-     "close": 3.48,
-     "change": 3.57
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Singapore",
-   "hq": "SINGAPORE, U0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T00:38:59+09:00"
-  },
-  {
-   "id": "0001213900-26-117280",
-   "company": "Inflection Point Acquisition Corp. VI",
-   "ticker": "IPFX",
-   "cik": 2102041,
-   "form": "425",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Quantum Space Part of Team Awarded $185 Million NASA Contract for Moon Base Transportation Program Ranger spacecraft to deliver NASA payloads to lunar orbit, with Quantum Space receiving approximately 25% of the Arrow-led contract value ROCKVILLE, Md.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026117280/0001213900-26-117280-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026117280/ea0311429-425_inflection6.htm",
-   "filed_at": "2026-11-09T10:12:18-05:00",
-   "filed_kst": "2026-11-10 00:12",
-   "price": 10.16,
-   "change": 0.05,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 10.16,
-     "change": 0.05
-    },
-    {
-     "date": "2026-11-06",
-     "close": 10.16,
-     "change": -0.1
-    },
-    {
-     "date": "2026-11-05",
-     "close": 10.17,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "MIAMI BEACH, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T00:13:11+09:00"
-  },
-  {
-   "id": "0001213900-26-117278",
-   "company": "IPFX Pubco, Inc.",
-   "ticker": "QSPC",
-   "cik": 2145371,
-   "form": "425",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Quantum Space Part of Team Awarded $185 Million NASA Contract for Moon Base Transportation Program Ranger spacecraft to deliver NASA payloads to lunar orbit, with Quantum Space receiving approximately 25% of the Arrow-led contract value ROCKVILLE, Md.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2145371/000121390026117278/0001213900-26-117278-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2145371/000121390026117278/ea0311428-425_ipfx.htm",
-   "filed_at": "2026-11-09T10:12:47-05:00",
-   "filed_kst": "2026-11-10 00:12",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Guided Missiles & Space Vehicles & Parts",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T00:13:08+09:00"
-  },
-  {
-   "id": "0001650107-26-000145",
-   "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
-   "ticker": "CCEP",
-   "cik": 1650107,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "The repurchased ordinary shares will be cancelled.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000145/0001650107-26-000145-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000145/a20261109ccepform6-kweekly.htm",
-   "filed_at": "2026-11-09T10:06:16-05:00",
-   "filed_kst": "2026-11-10 00:06",
-   "price": 116.16,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 116.16,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 116.15,
-     "change": 0.02
-    },
-    {
-     "date": "2026-11-06",
-     "close": 116.13,
-     "change": -0.99
-    }
-   ],
-   "market_cap": 52165893764.0,
-   "shares_outstanding": 449086551.0,
-   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "UXBRIDGE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T00:06:57+09:00"
   }
  ]
 }
