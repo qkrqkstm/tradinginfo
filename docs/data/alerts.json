@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-12T21:19:13+09:00",
+ "updated_at": "2026-11-12T21:24:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-456940",
+   "company": "Legence Corp.",
+   "ticker": "LGN",
+   "cik": 2052568,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 81,
+   "summary": "90 Billion, a 92% Increase from a Year Ago Board Authorizes $150 Million Stock Repurchase Program Establish Fourth Quarter 2026 Guidance for Revenue of $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526456940/0001193125-26-456940-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526456940/d134924dex991.htm",
+   "filed_at": "2026-11-12T07:23:27-05:00",
+   "filed_kst": "2026-11-12 21:23",
+   "price": 37.09,
+   "change": 15.73,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 37.09,
+     "change": 15.73
+    },
+    {
+     "date": "2026-11-10",
+     "close": 32.05,
+     "change": -0.34
+    },
+    {
+     "date": "2026-11-09",
+     "close": 32.16,
+     "change": 15.23
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Construction - Special Trade Contractors",
+   "state_of_incorporation": "DE",
+   "hq": "SAN JOSE, CA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-12T21:24:12+09:00"
+  },
+  {
+   "id": "0001171843-26-007377",
+   "company": "Alvotech",
+   "ticker": "ALVO",
+   "cik": 1898416,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "“The two recent FDA approvals for Simlandi at our Reykjavík facility represent significant milestones.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1898416/000117184326007377/0001171843-26-007377-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1898416/000117184326007377/exh_991.htm",
+   "filed_at": "2026-11-12T07:20:09-05:00",
+   "filed_kst": "2026-11-12 21:20",
+   "price": 4.92,
+   "change": 0.82,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 4.92,
+     "change": 0.82
+    },
+    {
+     "date": "2026-11-10",
+     "close": 4.88,
+     "change": 4.05
+    },
+    {
+     "date": "2026-11-09",
+     "close": 4.69,
+     "change": -3.5
+    }
+   ],
+   "market_cap": 1535145165.0,
+   "shares_outstanding": 312021375.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Luxembourg",
+   "hq": "LUXEMBOURG, N4",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T21:20:32+09:00"
+  },
   {
    "id": "0001193125-26-456920",
    "company": "AIR Global PLC",
@@ -15735,111 +15840,6 @@
    "hq": "KUALA LUMPUR",
    "entity_category": null,
    "detected_at": "2026-11-09T22:28:30+09:00"
-  },
-  {
-   "id": "0000932787-26-000096",
-   "company": "STMicroelectronics N.V.",
-   "ticker": "STM",
-   "cik": 932787,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "PR N°C3422C STMicroelectronics announces status of common share repurchase program Disclosure of Transactions in Own Shares – Period from November 2, 2026 to November 6, 2026 AMSTERDAM – November 9, 2026 -- STMicroelectronics N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000096/0000932787-26-000096-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/932787/000093278726000096/c3422c-nov92026xdisclosure.htm",
-   "filed_at": "2026-11-09T08:21:18-05:00",
-   "filed_kst": "2026-11-09 22:21",
-   "price": 41.72,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 41.72,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 41.72,
-     "change": 4.43
-    },
-    {
-     "date": "2026-11-05",
-     "close": 39.95,
-     "change": -12.39
-    }
-   ],
-   "market_cap": 37079407301.0,
-   "shares_outstanding": 888768152.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "Netherlands",
-   "hq": "SCHIPHOL AIRPORT, P7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T22:22:05+09:00"
-  },
-  {
-   "id": "0001404644-26-000064",
-   "company": "Neurogene Inc.",
-   "ticker": "NGNE",
-   "cik": 1404644,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "NGN-401 has received Breakthrough Therapy, Regenerative Medicine Advanced Therapy, Fast Track, Orphan Drug and Rare Pediatric Disease designations and selection for the START Pilot Program from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1404644/000140464426000064/0001404644-26-000064-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1404644/000140464426000064/a202611_ngnecorporatepre.htm",
-   "filed_at": "2026-11-09T08:19:39-05:00",
-   "filed_kst": "2026-11-09 22:19",
-   "price": 25.31,
-   "change": -1.33,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 25.31,
-     "change": -1.33
-    },
-    {
-     "date": "2026-11-05",
-     "close": 25.65,
-     "change": -7.0
-    },
-    {
-     "date": "2026-11-04",
-     "close": 27.58,
-     "change": 3.41
-    }
-   ],
-   "market_cap": 506488078.0,
-   "shares_outstanding": 20011382.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-09T22:20:32+09:00"
   }
  ]
 }
