@@ -1,7 +1,116 @@
 {
- "updated_at": "2026-11-13T06:44:11+09:00",
+ "updated_at": "2026-11-13T06:49:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-051453",
+   "company": "InspireMD, Inc.",
+   "ticker": "NSPR",
+   "cik": 1433607,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "1 InspireMD Announces FDA Approval of the CGuard ® Prime TransCarotid Stent System for Transcarotid Artery Revascularization (TCAR) Procedures - Approval doubles the CGuard Prime platform’s total addressable market in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1433607/000149315226051453/0001493152-26-051453-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1433607/000149315226051453/ex99-1.htm",
+   "filed_at": "2026-11-12T16:45:54-05:00",
+   "filed_kst": "2026-11-13 06:45",
+   "price": 0.77,
+   "change": -3.25,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.77,
+     "change": -3.25
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.8,
+     "change": 2.56
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.78,
+     "change": 9.86
+    }
+   ],
+   "market_cap": 35796621.0,
+   "shares_outstanding": 46489118.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:46:59+09:00"
+  },
+  {
+   "id": "0001079973-26-001469",
+   "company": "Starling Oncology, Inc.",
+   "ticker": "STLN",
+   "cik": 1799191,
+   "form": "8-K/A",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 ex99x1.htm EXHIBIT 99.1 Exhibit 99.1 Some of the information in this presentation is not historical in nature and may constitute forward - looking statements, which ar e made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements ma",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1799191/000107997326001469/0001079973-26-001469-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1799191/000107997326001469/ex99x1.htm",
+   "filed_at": "2026-11-12T16:43:44-05:00",
+   "filed_kst": "2026-11-13 06:43",
+   "price": 3.75,
+   "change": -10.71,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 3.75,
+     "change": -10.71
+    },
+    {
+     "date": "2026-11-11",
+     "close": 4.2,
+     "change": -3.23
+    },
+    {
+     "date": "2026-11-10",
+     "close": 4.34,
+     "change": 8.5
+    }
+   ],
+   "market_cap": 382466340.0,
+   "shares_outstanding": 101991024.0,
+   "industry": "Services-Offices & Clinics of  Doctors of  Medicine",
+   "state_of_incorporation": "DE",
+   "hq": "CERRITOS, CA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:45:38+09:00"
+  },
   {
    "id": "0001104659-26-126295",
    "company": "BATTALION OIL CORP",
@@ -15773,111 +15882,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-10T21:01:19+09:00"
-  },
-  {
-   "id": "0001213900-26-117735",
-   "company": "eToro Group Ltd.",
-   "ticker": "ETOR",
-   "cik": 1493318,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 72,
-   "summary": "39 million Announced $250 million share repurchase program New York – November 10 th , 2026 – etoro Group Ltd.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1493318/000121390026117735/0001213900-26-117735-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1493318/000121390026117735/ea031164001ex99-1.htm",
-   "filed_at": "2026-11-10T07:00:19-05:00",
-   "filed_kst": "2026-11-10 21:00",
-   "price": 23.32,
-   "change": 1.52,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 23.32,
-     "change": 1.52
-    },
-    {
-     "date": "2026-11-06",
-     "close": 22.97,
-     "change": 1.26
-    },
-    {
-     "date": "2026-11-05",
-     "close": 22.68,
-     "change": -4.36
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Security Brokers, Dealers & Flotation Companies",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "BNEI BRAK",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-10T21:00:47+09:00"
-  },
-  {
-   "id": "0001104659-26-124761",
-   "company": "Protalix BioTherapeutics, Inc.",
-   "ticker": "PLX",
-   "cik": 1006281,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "0 million ● The PRX-115 Phase 2 RELEASE study remains on track, aiming to improve adherence and durability of response in uncontrolled gout, a substantial unmet need; top-line results anticipated in the second half of 2027 ● Cash, cash equivalents, and short-term bank deposits were $48.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1006281/000110465926124761/0001104659-26-124761-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1006281/000110465926124761/plx-ex99d1.htm",
-   "filed_at": "2026-11-10T06:54:05-05:00",
-   "filed_kst": "2026-11-10 20:54",
-   "price": 2.57,
-   "change": 1.18,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 2.57,
-     "change": 1.18
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.54,
-     "change": 1.2
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.51,
-     "change": -6.69
-    }
-   ],
-   "market_cap": 207069120.0,
-   "shares_outstanding": 80571642.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "HACKENSACK, NJ",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T20:54:41+09:00"
   }
  ]
 }
