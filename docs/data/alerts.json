@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-12T20:29:35+09:00",
+ "updated_at": "2026-11-12T20:34:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001845123-26-000004",
+   "company": "AleAnna, Inc.",
+   "ticker": "ANNA",
+   "cik": 1845123,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "• Development of permanent production facilities continued with the joint venture partner and operator, with the permanent infrastructure expected to further enhance operations and support the concession’s long-term development.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1845123/000184512326000004/0001845123-26-000004-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1845123/000184512326000004/anna-8xkq3earningsrelease_.htm",
+   "filed_at": "2026-11-12T06:32:36-05:00",
+   "filed_kst": "2026-11-12 20:32",
+   "price": 2.1,
+   "change": -2.33,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 2.1,
+     "change": -2.33
+    },
+    {
+     "date": "2026-11-10",
+     "close": 2.15,
+     "change": 5.39
+    },
+    {
+     "date": "2026-11-09",
+     "close": 2.04,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 9638817.0,
+   "shares_outstanding": 4589913.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T20:33:18+09:00"
+  },
+  {
+   "id": "0001654954-26-009684",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009684/0001654954-26-009684-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009684/a8038c.htm",
+   "filed_at": "2026-11-12T06:29:39-05:00",
+   "filed_kst": "2026-11-12 20:29",
+   "price": 90.2,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 90.2,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 90.2,
+     "change": 0.36
+    },
+    {
+     "date": "2026-11-10",
+     "close": 89.88,
+     "change": -0.38
+    }
+   ],
+   "market_cap": 1549206635552.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T20:30:42+09:00"
+  },
   {
    "id": "0001213900-26-118296",
    "company": "EQT Corp",
@@ -15761,113 +15867,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-09T21:00:48+09:00"
-  },
-  {
-   "id": "0001645113-26-000085",
-   "company": "NovoCure Ltd",
-   "ticker": "NVCR",
-   "cik": 1645113,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Food and Drug Administration (FDA) in response to its Premarket Approval (PMA) application for Optune Mya® for the treatment of adult patients with brain metastases from non-small cell lung cancer following stereotactic radiation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000085/0001645113-26-000085-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1645113/000164511326000085/nvcr-20261109.htm",
-   "filed_at": "2026-11-09T06:59:49-05:00",
-   "filed_kst": "2026-11-09 20:59",
-   "price": 13.28,
-   "change": -1.99,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 13.28,
-     "change": -1.99
-    },
-    {
-     "date": "2026-11-05",
-     "close": 13.55,
-     "change": -7.26
-    },
-    {
-     "date": "2026-11-04",
-     "close": 14.61,
-     "change": 8.79
-    }
-   ],
-   "market_cap": 1552643936.0,
-   "shares_outstanding": 116915959.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": null,
-   "hq": "ST. HELIER",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:00:45+09:00"
-  },
-  {
-   "id": "0001104659-26-124138",
-   "company": "Target Hospitality Corp.",
-   "ticker": "TH",
-   "cik": 1712189,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "By aligning contract terms with customers’ multi-phase project plans, Target is laying the foundation for lasting strategic partnerships .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1712189/000110465926124138/0001104659-26-124138-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1712189/000110465926124138/th-ex99d1.htm",
-   "filed_at": "2026-11-09T06:51:44-05:00",
-   "filed_kst": "2026-11-09 20:51",
-   "price": 11.36,
-   "change": 9.02,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 11.36,
-     "change": 9.02
-    },
-    {
-     "date": "2026-11-05",
-     "close": 10.42,
-     "change": -7.71
-    },
-    {
-     "date": "2026-11-04",
-     "close": 11.29,
-     "change": -22.08
-    }
-   ],
-   "market_cap": 1131722085.0,
-   "shares_outstanding": 99623423.0,
-   "industry": "Hotels, Rooming Houses, Camps & Other Lodging Places",
-   "state_of_incorporation": "DE",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-09T20:52:36+09:00"
   }
  ]
 }
