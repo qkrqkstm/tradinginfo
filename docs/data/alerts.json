@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-13T06:54:29+09:00",
+ "updated_at": "2026-11-13T06:59:25+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-119023",
+   "company": "Peraso Inc.",
+   "ticker": "PRSO",
+   "cik": 890394,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The parties acknowledge and agree that neither this Agreement nor any related document shall in any respect be interpreted, deemed or construed as making either party a partner or joint venturer with the other party, or the agent or representative of the other party, and each of the parties agrees n",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/890394/000121390026119023/0001213900-26-119023-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/890394/000121390026119023/ea031192001ex99-1.htm",
+   "filed_at": "2026-11-12T16:57:38-05:00",
+   "filed_kst": "2026-11-13 06:57",
+   "price": 0.37,
+   "change": -3.79,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.37,
+     "change": -3.79
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.38,
+     "change": 8.57
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.35,
+     "change": -2.78
+    }
+   ],
+   "market_cap": 5573856.0,
+   "shares_outstanding": 15064476.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "SAN JOSE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:58:42+09:00"
+  },
   {
    "id": "0001193125-26-458663",
    "company": "SCHWAB CHARLES CORP",
@@ -15826,60 +15881,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T21:01:57+09:00"
-  },
-  {
-   "id": "0001213900-26-117738",
-   "company": "SUNation Energy, Inc.",
-   "ticker": "SUNE",
-   "cik": 22701,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "” Suniva announced on June 8, 2026 that it signed a definitive reverse merger agreement (the “Merger Agreement”) pursuant to which Suniva will merge with a wholly-owned subsidiary of SUNation Energy, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026117738/0001213900-26-117738-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026117738/ea031159801ex99-1.htm",
-   "filed_at": "2026-11-10T07:01:13-05:00",
-   "filed_kst": "2026-11-10 21:01",
-   "price": 2.03,
-   "change": -0.98,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 2.03,
-     "change": -0.98
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.05,
-     "change": 2.5
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.0,
-     "change": -12.28
-    }
-   ],
-   "market_cap": 13221609.0,
-   "shares_outstanding": 6513108.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "DE",
-   "hq": "RONKONKOMA, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T21:01:56+09:00"
   }
  ]
 }
