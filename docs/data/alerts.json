@@ -1,7 +1,215 @@
 {
- "updated_at": "2026-11-12T21:09:15+09:00",
+ "updated_at": "2026-11-12T21:14:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001292814-26-005264",
+   "company": "AGI Inc",
+   "ticker": "AGBK",
+   "cik": 2081206,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "· Share Repurchase Program: On October 27, 2026, Agi announced a share repurchase program of up to three million Class A shares, with a duration of one year.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2081206/000129281426005264/0001292814-26-005264-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2081206/000129281426005264/ex99-1.htm",
+   "filed_at": "2026-11-12T07:12:50-05:00",
+   "filed_kst": "2026-11-12 21:12",
+   "price": 5.39,
+   "change": 5.69,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 5.39,
+     "change": 5.69
+    },
+    {
+     "date": "2026-11-10",
+     "close": 5.1,
+     "change": 0.59
+    },
+    {
+     "date": "2026-11-09",
+     "close": 5.07,
+     "change": 4.32
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "CAMPINAS",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-12T21:13:12+09:00"
+  },
+  {
+   "id": "0001062993-26-005911",
+   "company": "Metalla Royalty & Streaming Ltd.",
+   "ticker": "MTA",
+   "cik": 1722606,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "(b) During the year ended December 31, 2025, the Company completed the following transactions: Acquisition On October 31, 2025, the Company completed the acquisition of a further 0.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1722606/000106299326005911/0001062993-26-005911-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1722606/000106299326005911/exhibit99-1.htm",
+   "filed_at": "2026-11-12T07:11:57-05:00",
+   "filed_kst": "2026-11-12 21:11",
+   "price": 7.71,
+   "change": -3.99,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 7.71,
+     "change": -3.99
+    },
+    {
+     "date": "2026-11-10",
+     "close": 8.03,
+     "change": -4.97
+    },
+    {
+     "date": "2026-11-09",
+     "close": 8.45,
+     "change": 4.45
+    }
+   ],
+   "market_cap": 716254744.0,
+   "shares_outstanding": 92899448.0,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:12:40+09:00"
+  },
+  {
+   "id": "0001919246-26-000134",
+   "company": "Pelthos Therapeutics Inc.",
+   "ticker": "PTHS",
+   "cik": 1919246,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "FDA"
+   ],
+   "confidence": 79,
+   "summary": "D-Fi is a redosable, gene-modified cell therapy for DEB that has received Orphan Drug designation for DEB and Rare Pediatric Disease, Fast Track and Regenerative Medicine Advanced Therapy designations from the FDA for recessive DEB.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1919246/000191924626000134/0001919246-26-000134-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1919246/000191924626000134/pths-pressreleasex20261112.htm",
+   "filed_at": "2026-11-12T07:10:09-05:00",
+   "filed_kst": "2026-11-12 21:10",
+   "price": 9.39,
+   "change": 5.51,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 9.39,
+     "change": 5.51
+    },
+    {
+     "date": "2026-11-10",
+     "close": 8.9,
+     "change": -5.02
+    },
+    {
+     "date": "2026-11-09",
+     "close": 9.37,
+     "change": 0.11
+    }
+   ],
+   "market_cap": 35949324.0,
+   "shares_outstanding": 3828469.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "NV",
+   "hq": "DURHAM, NC",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:11:05+09:00"
+  },
+  {
+   "id": "0001750155-26-000130",
+   "company": "Charlotte's Web Holdings, Inc.",
+   "ticker": "CWBHF",
+   "cik": 1750155,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 60,
+   "summary": "Charlotte’s Web holds exclusive commercial manufacturing rights for AJA001 upon potential FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1750155/000175015526000130/0001750155-26-000130-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1750155/000175015526000130/q32026earningspressrelease.htm",
+   "filed_at": "2026-11-12T07:09:30-05:00",
+   "filed_kst": "2026-11-12 21:09",
+   "price": 0.18,
+   "change": 1.12,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 0.18,
+     "change": 1.12
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.18,
+     "change": 6.59
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.17,
+     "change": -24.43
+    }
+   ],
+   "market_cap": 48832475.0,
+   "shares_outstanding": 271291529.0,
+   "industry": "Agricultural Production-Crops",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "LOUISVILLE, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:10:32+09:00"
+  },
   {
    "id": "0001193125-26-456892",
    "company": "Parabilis Medicines, Inc.",
@@ -15635,220 +15843,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-09T22:06:01+09:00"
-  },
-  {
-   "id": "0001193125-26-452704",
-   "company": "Whitehawk Therapeutics, Inc.",
-   "ticker": "WHWK",
-   "cik": 1422142,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": ", the third Whitehawk program to enter the clinic in the last 12 months; HWK-206 received Fast Track designation from the FDA Cash, cash equivalents and short-term investments of $169.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1422142/000119312526452704/0001193125-26-452704-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1422142/000119312526452704/whwk-ex99_1.htm",
-   "filed_at": "2026-11-09T08:04:26-05:00",
-   "filed_kst": "2026-11-09 22:04",
-   "price": 3.13,
-   "change": 3.64,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 3.13,
-     "change": 3.64
-    },
-    {
-     "date": "2026-11-05",
-     "close": 3.02,
-     "change": -4.73
-    },
-    {
-     "date": "2026-11-04",
-     "close": 3.17,
-     "change": 2.26
-    }
-   ],
-   "market_cap": 178438201.0,
-   "shares_outstanding": 57009010.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "MORRISTOWN, NJ",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-09T22:05:28+09:00"
-  },
-  {
-   "id": "0001104659-26-124180",
-   "company": "ARGENX SE",
-   "ticker": "ARGX",
-   "cik": 1697862,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 95,
-   "summary": "Food and Drug Administration (FDA) for efgartigimod in IMNM by the end of 2026, supported by a Breakthrough Therapy Designation from the FDA.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926124180/0001104659-26-124180-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926124180/tm2629301d1_ex99-1.htm",
-   "filed_at": "2026-11-09T08:01:40-05:00",
-   "filed_kst": "2026-11-09 22:01",
-   "price": 927.21,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 927.21,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 927.21,
-     "change": 3.63
-    },
-    {
-     "date": "2026-11-05",
-     "close": 894.77,
-     "change": -3.93
-    }
-   ],
-   "market_cap": 57378820156.0,
-   "shares_outstanding": 61883306.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Netherlands",
-   "hq": "ZWIJNAARDE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T22:02:05+09:00"
-  },
-  {
-   "id": "0001171843-26-007256",
-   "company": "Compass Therapeutics, Inc.",
-   "ticker": "CMPX",
-   "cik": 1738021,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "As previously reported, the study met its primary endpoint, with tovecimig plus paclitaxel demonstrating a statistically significant improvement in ORR of 18.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1738021/000117184326007256/0001171843-26-007256-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1738021/000117184326007256/exh_991.htm",
-   "filed_at": "2026-11-09T08:00:39-05:00",
-   "filed_kst": "2026-11-09 22:00",
-   "price": 0.76,
-   "change": -0.03,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 0.76,
-     "change": -0.03
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.76,
-     "change": 10.8
-    },
-    {
-     "date": "2026-11-05",
-     "close": 0.69,
-     "change": -10.22
-    }
-   ],
-   "market_cap": 136866815.0,
-   "shares_outstanding": 180087915.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-09T22:01:29+09:00"
-  },
-  {
-   "id": "0001140361-26-042613",
-   "company": "MOTORCAR PARTS OF AMERICA INC",
-   "ticker": "MPAA",
-   "cik": 918251,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "U nder its authorized share repurchase program , the company had approximately $20 .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/918251/000114036126042613/0001140361-26-042613-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/918251/000114036126042613/ef20084732_ex99-1.htm",
-   "filed_at": "2026-11-09T07:58:50-05:00",
-   "filed_kst": "2026-11-09 21:58",
-   "price": 10.52,
-   "change": 3.54,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 10.52,
-     "change": 3.54
-    },
-    {
-     "date": "2026-11-05",
-     "close": 10.16,
-     "change": -3.97
-    },
-    {
-     "date": "2026-11-04",
-     "close": 10.58,
-     "change": 1.83
-    }
-   ],
-   "market_cap": 199177338.0,
-   "shares_outstanding": 18933207.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "NY",
-   "hq": "TORRANCE, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:59:32+09:00"
   }
  ]
 }
