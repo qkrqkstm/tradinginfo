@@ -1,7 +1,331 @@
 {
- "updated_at": "2026-11-13T05:59:33+09:00",
+ "updated_at": "2026-11-13T06:05:01+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-073366",
+   "company": "Cerebras Systems Inc.",
+   "ticker": "CBRS",
+   "cik": 2021728,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "가이던스상향",
+   "primary_key": "guidance",
+   "emoji": "⬆️",
+   "types": [
+    "가이던스상향"
+   ],
+   "confidence": 58,
+   "summary": "1 Document Cerebras Systems Delivers Record Revenue in Third Quarter 2026, Raises Full-Year Outlook Surging demand for high-speed inference fuels growth from new and existing customers • Record GAAP revenue of $210.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/0001628280-26-073366-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/cbrsannouncesfinancialresu.htm",
+   "filed_at": "2026-11-12T16:03:59-05:00",
+   "filed_kst": "2026-11-13 06:03",
+   "price": 97.75,
+   "change": -3.29,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 97.75,
+     "change": -3.29
+    },
+    {
+     "date": "2026-11-11",
+     "close": 101.08,
+     "change": 7.92
+    },
+    {
+     "date": "2026-11-10",
+     "close": 93.66,
+     "change": -3.14
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "SUNNYVALE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:04:58+09:00"
+  },
+  {
+   "id": "0001750704-26-000032",
+   "company": "HawkEye 360, Inc.",
+   "ticker": "HAWK",
+   "cik": 1750704,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 64,
+   "summary": "Third Quarter 2026 and Recent Business Highlights: • Signed $54 million in new multi-year contract awards with 11 allied partners and nations, reflecting the growing demand for HawkEye 360’s signals intelligence data and analytics.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1750704/000175070426000032/0001750704-26-000032-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1750704/000175070426000032/exhibit991-earningsrelease.htm",
+   "filed_at": "2026-11-12T16:04:16-05:00",
+   "filed_kst": "2026-11-13 06:04",
+   "price": 14.67,
+   "change": -3.87,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 14.67,
+     "change": -3.87
+    },
+    {
+     "date": "2026-11-11",
+     "close": 15.26,
+     "change": 1.94
+    },
+    {
+     "date": "2026-11-10",
+     "close": 14.97,
+     "change": -0.6
+    }
+   ],
+   "market_cap": 1437154648.0,
+   "shares_outstanding": 97965552.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "HERNDON, VA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:04:57+09:00"
+  },
+  {
+   "id": "0001140361-26-043424",
+   "company": "Nuwellis, Inc.",
+   "ticker": "NUWE",
+   "cik": 1506492,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "2 million in the third quarter of 2026, essentially unchanged versus the prior-year quarter, as the prior-year period benefited from fulfilling $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1506492/000114036126043424/0001140361-26-043424-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506492/000114036126043424/ef20085247_ex99-1.htm",
+   "filed_at": "2026-11-12T16:03:03-05:00",
+   "filed_kst": "2026-11-13 06:03",
+   "price": 5.03,
+   "change": -9.04,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 5.03,
+     "change": -9.04
+    },
+    {
+     "date": "2026-11-11",
+     "close": 5.53,
+     "change": 5.53
+    },
+    {
+     "date": "2026-11-10",
+     "close": 5.24,
+     "change": 6.07
+    }
+   ],
+   "market_cap": 18345738.0,
+   "shares_outstanding": 3647264.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "EDEN PRAIRIE, MN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:04:21+09:00"
+  },
+  {
+   "id": "0000879407-26-000077",
+   "company": "ARROWHEAD PHARMACEUTICALS, INC.",
+   "ticker": "ARWR",
+   "cik": 879407,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA",
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 97,
+   "summary": "◦ Once accepted into the STAR program, a supplemental application qualifies for a 6-month Priority Review compared to a 10-month standard review.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000077/0000879407-26-000077-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000077/arwr-202611128kex991.htm",
+   "filed_at": "2026-11-12T16:01:16-05:00",
+   "filed_kst": "2026-11-13 06:01",
+   "price": 47.15,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 47.15,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 47.15,
+     "change": -4.48
+    },
+    {
+     "date": "2026-11-11",
+     "close": 49.36,
+     "change": 0.73
+    }
+   ],
+   "market_cap": 6660148119.0,
+   "shares_outstanding": 141254467.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PASADENA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T06:02:15+09:00"
+  },
+  {
+   "id": "0001213900-26-118891",
+   "company": "Australian Oilseeds Holdings Ltd",
+   "ticker": "COOT",
+   "cik": 1959994,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "000001 each; and (iii) immediately thereafter, such number of authorised but unissued shares will be cancelled as will result in the Company having authorised share capital of US$6.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1959994/000121390026118891/0001213900-26-118891-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1959994/000121390026118891/ea031182601ex3-1.htm",
+   "filed_at": "2026-11-12T16:00:07-05:00",
+   "filed_kst": "2026-11-13 06:00",
+   "price": 0.29,
+   "change": 0.03,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.29,
+     "change": 0.03
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.29,
+     "change": 1.72
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.28,
+     "change": -0.7
+    }
+   ],
+   "market_cap": 14171895.0,
+   "shares_outstanding": 48868604.0,
+   "industry": "Fats & Oils",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "COOTAMUNDRA, C3",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:00:58+09:00"
+  },
+  {
+   "id": "0001193125-26-458248",
+   "company": "Kodiak Sciences Inc.",
+   "ticker": "KOD",
+   "cik": 1468748,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 74,
+   "summary": "” “Looking ahead, we expect to announce the first Phase 3 KSI-101 results in December and, if successful, plan to file a BLA for KSI-101 in the second quarter of 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468748/000119312526458248/0001193125-26-458248-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468748/000119312526458248/kod-ex99_1.htm",
+   "filed_at": "2026-11-12T16:00:14-05:00",
+   "filed_kst": "2026-11-13 06:00",
+   "price": 108.25,
+   "change": -1.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 108.25,
+     "change": -1.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 109.34,
+     "change": 1.18
+    },
+    {
+     "date": "2026-11-10",
+     "close": 108.06,
+     "change": 0.9
+    }
+   ],
+   "market_cap": 6803453720.0,
+   "shares_outstanding": 62849457.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:00:54+09:00"
+  },
   {
    "id": "0001654954-26-009725",
    "company": "HSBC HOLDINGS PLC",
@@ -15523,327 +15847,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T06:11:22+09:00"
-  },
-  {
-   "id": "0001193125-26-453606",
-   "company": "TEXAS INSTRUMENTS INC",
-   "ticker": "TXN",
-   "cik": 97476,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Special Mandatory Redemption: If (i) the Acquisition (as defined in the preliminary prospectus supplement relating to the Notes) is not consummated on or prior to the later of (x) February 4, 2027 (or, if the “Termination Date” under the Merger Agreement (as defined in the preliminary prospectus sup",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/97476/000119312526453606/0001193125-26-453606-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/97476/000119312526453606/d180182dex41.htm",
-   "filed_at": "2026-11-09T16:10:38-05:00",
-   "filed_kst": "2026-11-10 06:10",
-   "price": 295.73,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 295.73,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 295.73,
-     "change": 6.62
-    },
-    {
-     "date": "2026-11-06",
-     "close": 277.36,
-     "change": -0.28
-    }
-   ],
-   "market_cap": 270229295551.0,
-   "shares_outstanding": 913770316.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "DE",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:11:17+09:00"
-  },
-  {
-   "id": "0001628280-26-072159",
-   "company": "Ameresco, Inc.",
-   "ticker": "AMRC",
-   "cik": 1488139,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 56,
-   "summary": "Given the inherent variability within the HLBV calculation quarter-to-quarter, to facilitate comparability, our Non-GAAP EPS and adjusted EBITDA now reflect 100% of the operating results of our consolidated joint ventures, most notably Ameresco Sunel Energy (\"AMRC Sunel JV\"), a significant part of o",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1488139/000162828026072159/0001628280-26-072159-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1488139/000162828026072159/amrc_20260930x8-kxexx991.htm",
-   "filed_at": "2026-11-09T16:08:42-05:00",
-   "filed_kst": "2026-11-10 06:08",
-   "price": 22.49,
-   "change": 4.07,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 22.49,
-     "change": 4.07
-    },
-    {
-     "date": "2026-11-06",
-     "close": 21.61,
-     "change": 12.85
-    },
-    {
-     "date": "2026-11-05",
-     "close": 19.15,
-     "change": -9.88
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Construction - Special Trade Contractors",
-   "state_of_incorporation": "DE",
-   "hq": "FRAMINGHAM, MA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:10:44+09:00"
-  },
-  {
-   "id": "0001725160-26-000069",
-   "company": "Zentalis Pharmaceuticals, Inc.",
-   "ticker": "ZNTL",
-   "cik": 1725160,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "◦ ASPENOVA Trial-in-Progress: An overview of the ongoing Phase 3 ASPENOVA trial evaluating azenosertib in patients with Cyclin E1-positive PROC.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1725160/000172516026000069/0001725160-26-000069-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1725160/000172516026000069/zntlq32026pressrelease.htm",
-   "filed_at": "2026-11-09T16:08:59-05:00",
-   "filed_kst": "2026-11-10 06:08",
-   "price": 1.74,
-   "change": 1.16,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 1.74,
-     "change": 1.16
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.72,
-     "change": 0.58
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.71,
-     "change": -2.84
-    }
-   ],
-   "market_cap": 124709130.0,
-   "shares_outstanding": 71671914.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T06:10:43+09:00"
-  },
-  {
-   "id": "0001628280-26-072163",
-   "company": "Quantum Computing Inc.",
-   "ticker": "QUBT",
-   "cik": 1758009,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "• Contract backlog : Contract backlog totaled approximately $39.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1758009/000162828026072163/0001628280-26-072163-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1758009/000162828026072163/q3-26earningspressreleasex.htm",
-   "filed_at": "2026-11-09T16:09:21-05:00",
-   "filed_kst": "2026-11-10 06:09",
-   "price": 6.86,
-   "change": 8.37,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 6.86,
-     "change": 8.37
-    },
-    {
-     "date": "2026-11-06",
-     "close": 6.33,
-     "change": 12.43
-    },
-    {
-     "date": "2026-11-05",
-     "close": 5.63,
-     "change": -12.44
-    }
-   ],
-   "market_cap": 1556751860.0,
-   "shares_outstanding": 226931758.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "HOBOKEN, NJ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:10:40+09:00"
-  },
-  {
-   "id": "0001671933-26-000115",
-   "company": "Trade Desk, Inc.",
-   "ticker": "TTD",
-   "cik": 1671933,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 57,
-   "summary": "1 The Trade Desk Reports Third Quarter 2026 Financial Results The Trade Desk also announced a $731 million increase to its share repurchase authorization, bringing the total amount available for future repurchases to $1 billion of its Class A common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000115/0001671933-26-000115-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671933/000167193326000115/ttd-20261109x8kexx991.htm",
-   "filed_at": "2026-11-09T16:09:41-05:00",
-   "filed_kst": "2026-11-10 06:09",
-   "price": 14.93,
-   "change": 15.47,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 14.93,
-     "change": 15.47
-    },
-    {
-     "date": "2026-11-06",
-     "close": 12.93,
-     "change": 0.94
-    },
-    {
-     "date": "2026-11-05",
-     "close": 12.81,
-     "change": -3.17
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "NV",
-   "hq": "VENTURA, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:10:37+09:00"
-  },
-  {
-   "id": "0001193125-26-453590",
-   "company": "Maze Therapeutics, Inc.",
-   "ticker": "MAZE",
-   "cik": 1842295,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "파트너십",
-    "탑라인결과"
-   ],
-   "confidence": 75,
-   "summary": "EX-99.1 2 maze-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 Maze Therapeutics Reports Third Quarter 2026 Financial Results and Recent Highlights Enrollment completed in Phase 2 HORIZON trial of MZE829; data from all three cohorts expected in early 2027 Enrollment ongoing in Phase 2 CIPheR trial of MZE782",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1842295/000119312526453590/0001193125-26-453590-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1842295/000119312526453590/maze-ex99_1.htm",
-   "filed_at": "2026-11-09T16:09:45-05:00",
-   "filed_kst": "2026-11-10 06:09",
-   "price": 34.91,
-   "change": 2.11,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 34.91,
-     "change": 2.11
-    },
-    {
-     "date": "2026-11-06",
-     "close": 34.19,
-     "change": 5.1
-    },
-    {
-     "date": "2026-11-05",
-     "close": 32.53,
-     "change": -2.55
-    }
-   ],
-   "market_cap": 1939221455.0,
-   "shares_outstanding": 55549168.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T06:10:34+09:00"
   }
  ]
 }
