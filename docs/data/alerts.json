@@ -1,7 +1,115 @@
 {
- "updated_at": "2026-11-12T22:04:49+09:00",
+ "updated_at": "2026-11-12T22:09:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-118442",
+   "company": "Tiziana Life Sciences Ltd",
+   "ticker": "TLSA",
+   "cik": 1723069,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 75,
+   "summary": "The recent Phase 2a INFORM-MS trial met its dual primary endpoints, including a statistically significant reduction in microglial activation as measured by TSPO PET imaging with the 50 μg dose of intranasal foralumab versus placebo (p=0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026118442/0001213900-26-118442-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723069/000121390026118442/ea031202601ex99-1.htm",
+   "filed_at": "2026-11-12T08:08:19-05:00",
+   "filed_kst": "2026-11-12 22:08",
+   "price": 0.62,
+   "change": 0.16,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.62,
+     "change": 0.16
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.62,
+     "change": 1.64
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.61,
+     "change": -8.96
+    }
+   ],
+   "market_cap": 74714589.0,
+   "shares_outstanding": 120507401.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Bermuda",
+   "hq": "LONDON, ENGLAND, X0",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-12T22:09:13+09:00"
+  },
+  {
+   "id": "0001104659-26-125910",
+   "company": "MeiraGTx Holdings plc",
+   "ticker": "MGTX",
+   "cik": 1735438,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "FDA",
+    "대형계약"
+   ],
+   "confidence": 97,
+   "summary": "● Bota-vec has been granted Fast Track and orphan drug designation from the FDA, and in the EU, has received Priority Medicines (PRIME), advanced therapy medicinal product (ATMP) classification, and orphan drug designation from the local regulatory authorities.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926125910/0001104659-26-125910-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926125910/mgtx-ex99d1.htm",
+   "filed_at": "2026-11-12T08:08:00-05:00",
+   "filed_kst": "2026-11-12 22:08",
+   "price": 9.68,
+   "change": 0.62,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 9.68,
+     "change": 0.62
+    },
+    {
+     "date": "2026-11-10",
+     "close": 9.62,
+     "change": 1.37
+    },
+    {
+     "date": "2026-11-09",
+     "close": 9.49,
+     "change": 5.44
+    }
+   ],
+   "market_cap": 929696201.0,
+   "shares_outstanding": 96042996.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T22:08:38+09:00"
+  },
   {
    "id": "0001079973-26-001457",
    "company": "Starling Oncology, Inc.",
@@ -15735,112 +15843,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-10T00:06:57+09:00"
-  },
-  {
-   "id": "0001628280-26-071932",
-   "company": "HARMONY GOLD MINING CO LTD",
-   "ticker": "HMY",
-   "cik": 1023514,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "Harmony completed the acquisition of CSA on 24 October 2025, as a result, there is no comparable figure for Q1FY26.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1023514/000162828026071932/0001628280-26-071932-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1023514/000162828026071932/a6k_fy27xq1-operationalu.htm",
-   "filed_at": "2026-11-09T10:01:31-05:00",
-   "filed_kst": "2026-11-10 00:01",
-   "price": 17.43,
-   "change": 1.51,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 17.43,
-     "change": 1.51
-    },
-    {
-     "date": "2026-11-06",
-     "close": 17.17,
-     "change": 1.6
-    },
-    {
-     "date": "2026-11-05",
-     "close": 16.9,
-     "change": 2.99
-    }
-   ],
-   "market_cap": 11064001429.0,
-   "shares_outstanding": 634767724.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": null,
-   "hq": "RANDFONTEIN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T00:02:22+09:00"
-  },
-  {
-   "id": "0001129928-26-000080",
-   "company": "ONCOLYTICS BIOTECH INC",
-   "ticker": "ONCY",
-   "cik": 1129928,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 72,
-   "summary": "The Company is advancing pelareorep in combination with chemotherapy and/or checkpoint inhibitors in metastatic gastrointestinal cancers, where pelareorep has received Fast Track designation from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000080/0001129928-26-000080-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000080/oncy-20261109.htm",
-   "filed_at": "2026-11-09T09:49:07-05:00",
-   "filed_kst": "2026-11-09 23:49",
-   "price": 0.44,
-   "change": 0.39,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 0.44,
-     "change": 0.39
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.44,
-     "change": -2.22
-    },
-    {
-     "date": "2026-11-05",
-     "close": 0.45,
-     "change": 7.14
-    }
-   ],
-   "market_cap": 56104622.0,
-   "shares_outstanding": 127510505.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NV",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-09T23:49:36+09:00"
   }
  ]
 }
