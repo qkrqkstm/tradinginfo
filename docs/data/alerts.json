@@ -1,7 +1,116 @@
 {
- "updated_at": "2026-11-13T06:19:31+09:00",
+ "updated_at": "2026-11-13T06:24:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-051414",
+   "company": "Ensysce Biosciences, Inc.",
+   "ticker": "ENSC",
+   "cik": 1716947,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "FDA"
+   ],
+   "confidence": 79,
+   "summary": "(“Cy Biopharma”), adding CY200, a clinical-stage neuroplastogenic candidate for CRPS whose active ingredient has received FDA Orphan Drug Designation, as its lead pipeline asset, and in September submitted the protocol for a Phase 2a study of CY200 to the UK Medicines and Healthcare products Regulat",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226051414/0001493152-26-051414-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226051414/ex99-1.htm",
+   "filed_at": "2026-11-12T16:22:05-05:00",
+   "filed_kst": "2026-11-13 06:22",
+   "price": 0.39,
+   "change": 7.56,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.39,
+     "change": 7.56
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.36,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.36,
+     "change": -0.55
+    }
+   ],
+   "market_cap": 7588150.0,
+   "shares_outstanding": 19456794.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "LA JOLLA, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:23:12+09:00"
+  },
+  {
+   "id": "0001193125-26-458492",
+   "company": "CODEXIS, INC.",
+   "ticker": "CDXS",
+   "cik": 1200375,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "This was followed by a $60 million term loan agreement which we closed earlier this month, of which $42.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1200375/000119312526458492/0001193125-26-458492-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1200375/000119312526458492/d189706dex991.htm",
+   "filed_at": "2026-11-12T16:20:57-05:00",
+   "filed_kst": "2026-11-13 06:20",
+   "price": 0.96,
+   "change": -2.23,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.96,
+     "change": -2.23
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.98,
+     "change": -2.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.0,
+     "change": -9.91
+    }
+   ],
+   "market_cap": 105125534.0,
+   "shares_outstanding": 109505765.0,
+   "industry": "Industrial Organic Chemicals",
+   "state_of_incorporation": "DE",
+   "hq": "REDWOOD CITY, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:22:00+09:00"
+  },
   {
    "id": "0001104659-26-126259",
    "company": "TELECOM ARGENTINA SA",
@@ -15762,107 +15871,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-10T20:12:04+09:00"
-  },
-  {
-   "id": "0001654954-26-009636",
-   "company": "RENTOKIL INITIAL PLC /FI",
-   "ticker": "RTO",
-   "cik": 930157,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "Following the cancellation of the repurchased shares, the Company has 2,521,907,313 ordinary shares in issue.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/930157/000165495426009636/0001654954-26-009636-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/930157/000165495426009636/a4366c.htm",
-   "filed_at": "2026-11-10T06:04:22-05:00",
-   "filed_kst": "2026-11-10 20:04",
-   "price": 23.87,
-   "change": 1.1,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 23.87,
-     "change": 1.1
-    },
-    {
-     "date": "2026-11-06",
-     "close": 23.61,
-     "change": -1.95
-    },
-    {
-     "date": "2026-11-05",
-     "close": 24.08,
-     "change": -0.37
-    }
-   ],
-   "market_cap": 60296572055.0,
-   "shares_outstanding": 2526039885.0,
-   "industry": "Services-Management Services",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "CRAWLEY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T20:05:28+09:00"
-  },
-  {
-   "id": "0001213900-26-117695",
-   "company": "Inflection Point Acquisition Corp. VI",
-   "ticker": "IPFX",
-   "cik": 2102041,
-   "form": "425",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 66,
-   "summary": "One of my assignments was as the leader at the Raytheon-Hughes joint venture building the missile defense missiles that are being used in the missile defense and Golden Dome domain today, off the Navy ships.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026117695/0001213900-26-117695-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026117695/ea031161201-425_inflect6.htm",
-   "filed_at": "2026-11-09T21:45:05-05:00",
-   "filed_kst": "2026-11-10 11:45",
-   "price": 10.16,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 10.16,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 10.16,
-     "change": -0.1
-    },
-    {
-     "date": "2026-11-05",
-     "close": 10.17,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "MIAMI BEACH, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T20:04:04+09:00"
   }
  ]
 }
