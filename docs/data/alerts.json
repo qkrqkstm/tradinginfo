@@ -1,7 +1,110 @@
 {
- "updated_at": "2026-11-12T21:39:08+09:00",
+ "updated_at": "2026-11-12T21:44:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001564708-26-000260",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000260/0001564708-26-000260-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000260/appendix3cclassa20261111.htm",
+   "filed_at": "2026-11-12T07:44:02-05:00",
+   "filed_kst": "2026-11-12 21:44",
+   "price": 29.93,
+   "change": 0.4,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 29.93,
+     "change": 0.4
+    },
+    {
+     "date": "2026-11-10",
+     "close": 29.81,
+     "change": 1.64
+    },
+    {
+     "date": "2026-11-09",
+     "close": 29.33,
+     "change": 1.28
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T21:44:39+09:00"
+  },
+  {
+   "id": "0000950103-26-017316",
+   "company": "Arcos Dorados Holdings Inc.",
+   "ticker": "ARCO",
+   "cik": 1508478,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "• The Board of Directors approved an open market share repurchase program of up to $25 million of the Company's Class A shares, to be purchased and canceled over the next six months, reflecting its confidence in the Company’s long-term value and a commitment to re",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1508478/000095010326017316/0000950103-26-017316-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1508478/000095010326017316/dp256682_6k.htm",
+   "filed_at": "2026-11-12T07:41:12-05:00",
+   "filed_kst": "2026-11-12 21:41",
+   "price": 6.94,
+   "change": 1.02,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 6.94,
+     "change": 1.02
+    },
+    {
+     "date": "2026-11-10",
+     "close": 6.87,
+     "change": -2.69
+    },
+    {
+     "date": "2026-11-09",
+     "close": 7.06,
+     "change": 1.15
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Retail-Eating  Places",
+   "state_of_incorporation": null,
+   "hq": "MONTEVIDEO, X3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T21:42:05+09:00"
+  },
   {
    "id": "0001193125-26-456974",
    "company": "Taysha Gene Therapies, Inc.",
@@ -15734,115 +15837,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-09T22:46:01+09:00"
-  },
-  {
-   "id": "0001628280-26-071911",
-   "company": "Fervo Energy Co",
-   "ticker": "FRVO",
-   "cik": 1853868,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "With the signing of the Google agreement, Fervo now has 1,054 megawatts of capacity under binding power purchase agreements, representing approximately $11.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1853868/000162828026071911/0001628280-26-071911-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1853868/000162828026071911/exhibit991earningsrelease1.htm",
-   "filed_at": "2026-11-09T08:37:24-05:00",
-   "filed_kst": "2026-11-09 22:37",
-   "price": 9.03,
-   "change": -0.06,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 9.03,
-     "change": -0.06
-    },
-    {
-     "date": "2026-11-06",
-     "close": 9.03,
-     "change": 15.92
-    },
-    {
-     "date": "2026-11-05",
-     "close": 7.79,
-     "change": -12.47
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Electric Services",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-09T22:38:03+09:00"
-  },
-  {
-   "id": "0001193125-26-452736",
-   "company": "ContextLogic Holdings Inc.",
-   "ticker": "LOGC",
-   "cik": 2064307,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Basis of Presentation ContextLogic completed the acquisition of US Salt Parent Holdings, LLC and all its majority or wholly owned subsidiaries (\"US Salt\") on February 26, 2026 (the \"US Salt Acquisition\").",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526452736/0001193125-26-452736-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526452736/logc-ex99_1.htm",
-   "filed_at": "2026-11-09T08:35:15-05:00",
-   "filed_kst": "2026-11-09 22:35",
-   "price": 15.15,
-   "change": -0.98,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 15.15,
-     "change": -0.98
-    },
-    {
-     "date": "2026-11-05",
-     "close": 15.3,
-     "change": -1.03
-    },
-    {
-     "date": "2026-11-04",
-     "close": 15.46,
-     "change": 0.39
-    }
-   ],
-   "market_cap": 693168797.0,
-   "shares_outstanding": 45753716.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "DE",
-   "hq": "OAKLAND, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-09T22:35:58+09:00"
   }
  ]
 }
