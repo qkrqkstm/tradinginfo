@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-13T07:19:17+09:00",
+ "updated_at": "2026-11-13T07:24:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-458738",
+   "company": "Rank One Computing Corp",
+   "ticker": "ROC",
+   "cik": 2077709,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "Third Quarter 2026 Corporate Highlights and Subsequent Events • Completed the acquisition of Zuccaro Technical Consulting (ZTC) on August 31, 2026, expanding ROC Evidence with proprietary digital forensics capabilities, experienced technical personnel, and established federal customer relationships.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/0001193125-26-458738-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2077709/000119312526458738/roc-ex99_1.htm",
+   "filed_at": "2026-11-12T17:21:47-05:00",
+   "filed_kst": "2026-11-13 07:21",
+   "price": 3.49,
+   "change": -1.69,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 3.49,
+     "change": -1.69
+    },
+    {
+     "date": "2026-11-11",
+     "close": 3.55,
+     "change": 4.72
+    },
+    {
+     "date": "2026-11-10",
+     "close": 3.39,
+     "change": -0.29
+    }
+   ],
+   "market_cap": 66589643.0,
+   "shares_outstanding": 19080127.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "CO",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T07:22:12+09:00"
+  },
   {
    "id": "0001140361-26-043469",
    "company": "Globa Terra Acquisition Corp",
@@ -15822,60 +15876,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T21:07:14+09:00"
-  },
-  {
-   "id": "0001193125-26-454408",
-   "company": "Cullinan Therapeutics, Inc.",
-   "ticker": "CGEM",
-   "cik": 1789972,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "The NDA submission is based on data from the Phase 3 REZILIENT3 trial, which met its primary endpoint at interim analysis, demonstrating a statistically significant and clinically meaningful improvement in median progression-free survival for zipalertinib plus chemotherapy compared to chemotherapy a",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526454408/0001193125-26-454408-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526454408/cgem-ex99_1.htm",
-   "filed_at": "2026-11-10T07:06:13-05:00",
-   "filed_kst": "2026-11-10 21:06",
-   "price": 11.73,
-   "change": 3.71,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 11.73,
-     "change": 3.71
-    },
-    {
-     "date": "2026-11-06",
-     "close": 11.31,
-     "change": 4.72
-    },
-    {
-     "date": "2026-11-05",
-     "close": 10.8,
-     "change": -13.53
-    }
-   ],
-   "market_cap": 754880561.0,
-   "shares_outstanding": 64354694.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T21:06:39+09:00"
   }
  ]
 }
