@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-12T23:24:16+09:00",
+ "updated_at": "2026-11-12T23:29:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001317861-26-000055",
+   "company": "EuroDry Ltd.",
+   "ticker": "EDRY",
+   "cik": 1731388,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "8 million has been used to repurchase 358,130 shares of the Company, under our share repurchase plan of up to $10 million, announced in August 2022.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1731388/000131786126000055/0001317861-26-000055-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1731388/000131786126000055/f111226edry6k.htm",
+   "filed_at": "2026-11-12T09:27:37-05:00",
+   "filed_kst": "2026-11-12 23:27",
+   "price": 39.51,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 39.51,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 39.51,
+     "change": 1.83
+    },
+    {
+     "date": "2026-11-10",
+     "close": 38.8,
+     "change": 0.91
+    }
+   ],
+   "market_cap": 114205512.0,
+   "shares_outstanding": 2890547.0,
+   "industry": "Water Transportation",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "MAROUSSI, J3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-12T23:28:04+09:00"
+  },
   {
    "id": "0001104659-26-126008",
    "company": "Nebius Group N.V.",
@@ -15813,61 +15864,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-10T06:08:38+09:00"
-  },
-  {
-   "id": "0001437749-26-035885",
-   "company": "CervoMed Inc.",
-   "ticker": "CRVO",
-   "cik": 1053691,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과",
-    "대형계약"
-   ],
-   "confidence": 70,
-   "summary": "The Company expects to report initial 24-week clinical data, as well as additional biomarker data, at the Alzheimer’s & Parkinson’s Diseases Conference in March 2027, and full topline data from the trial in the second quarter of 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1053691/000143774926035885/0001437749-26-035885-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1053691/000143774926035885/crvo20261109_8k.htm",
-   "filed_at": "2026-11-09T16:07:53-05:00",
-   "filed_kst": "2026-11-10 06:07",
-   "price": 1.43,
-   "change": 0.7,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 1.43,
-     "change": 0.7
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.42,
-     "change": -2.07
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.45,
-     "change": -7.05
-    }
-   ],
-   "market_cap": 21633812.0,
-   "shares_outstanding": 15128540.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BOSTON, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T06:08:36+09:00"
   }
  ]
 }
