@@ -1,7 +1,109 @@
 {
- "updated_at": "2026-11-13T03:14:43+09:00",
+ "updated_at": "2026-11-13T03:19:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009725",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009725/0001654954-26-009725-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009725/a0129d.htm",
+   "filed_at": "2026-11-12T13:15:49-05:00",
+   "filed_kst": "2026-11-13 03:15",
+   "price": 89.48,
+   "change": -0.79,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 89.49,
+     "change": -0.79
+    },
+    {
+     "date": "2026-11-11",
+     "close": 90.2,
+     "change": 0.36
+    },
+    {
+     "date": "2026-11-10",
+     "close": 89.88,
+     "change": -0.38
+    }
+   ],
+   "market_cap": 1536840462852.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T03:16:38+09:00"
+  },
+  {
+   "id": "0001213900-26-118773",
+   "company": "OS Therapies Inc",
+   "ticker": "OSTX",
+   "cik": 1795091,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Food and Drug Administration (the “FDA”) announced the suspension of its Commissioner’s National Priority Voucher (“CNPV”) program, under which priority review vouchers are non-transferable.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026118773/0001213900-26-118773-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026118773/ea0312085-8k_ostherapies.htm",
+   "filed_at": "2026-11-12T13:14:24-05:00",
+   "filed_kst": "2026-11-13 03:14",
+   "price": 0.79,
+   "change": -9.86,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.79,
+     "change": -9.86
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.87,
+     "change": -2.02
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.89,
+     "change": -3.26
+    }
+   ],
+   "market_cap": 36439402.0,
+   "shares_outstanding": 46125825.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "ROCKVILLE, MD",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T03:15:34+09:00"
+  },
   {
    "id": "0000911971-26-000061",
    "company": "TEEKAY CORP LTD",
@@ -15742,121 +15844,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T06:10:34+09:00"
-  },
-  {
-   "id": "0001937653-26-000067",
-   "company": "Zymeworks Inc.",
-   "ticker": "ZYME",
-   "cik": 1937653,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "파트너십",
-    "임상통과",
-    "FDA",
-    "가이던스상향"
-   ],
-   "confidence": 97,
-   "summary": "FDA approval for first-line treatment of HER2-positive advanced GEA in October 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1937653/000193765326000067/0001937653-26-000067-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1937653/000193765326000067/ex991q32026_earningsxrelea.htm",
-   "filed_at": "2026-11-09T16:08:01-05:00",
-   "filed_kst": "2026-11-10 06:08",
-   "price": 30.81,
-   "change": 3.98,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 30.81,
-     "change": 3.98
-    },
-    {
-     "date": "2026-11-06",
-     "close": 29.63,
-     "change": 3.11
-    },
-    {
-     "date": "2026-11-05",
-     "close": 28.74,
-     "change": -7.13
-    }
-   ],
-   "market_cap": 2186254215.0,
-   "shares_outstanding": 70959241.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "MIDDLETOWN, DE",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T06:09:18+09:00"
-  },
-  {
-   "id": "0001617553-26-000055",
-   "company": "ZIPRECRUITER, INC.",
-   "ticker": "ZIP",
-   "cik": 1617553,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "In the third quarter, both revenue and Adjusted EBITDA came in above the high end of our guidance range, and our updated full-year 2026 outlook reflects stronger than expected growth and profitability,” said Ian Siegel, CEO of ZipRecruiter.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1617553/000161755326000055/0001617553-26-000055-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1617553/000161755326000055/q32026shareholderletter-.htm",
-   "filed_at": "2026-11-09T16:08:19-05:00",
-   "filed_kst": "2026-11-10 06:08",
-   "price": 4.29,
-   "change": 14.23,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 4.3,
-     "change": 14.23
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.76,
-     "change": 1.08
-    },
-    {
-     "date": "2026-11-05",
-     "close": 3.72,
-     "change": -17.52
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "DE",
-   "hq": "SANTA MONICA, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:09:14+09:00"
   }
  ]
 }
