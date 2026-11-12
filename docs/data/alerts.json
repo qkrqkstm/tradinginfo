@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-12T20:44:40+09:00",
+ "updated_at": "2026-11-12T20:49:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-073077",
+   "company": "Figure Technology Solutions, Inc.",
+   "ticker": "FIGR",
+   "cik": 2064124,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 73,
+   "summary": "• Board of Directors authorized a $200 million increase to the share repurchase program, bringing total authorization to $400 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2064124/000162828026073077/0001628280-26-073077-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2064124/000162828026073077/ex991-pressrelease3q26.htm",
+   "filed_at": "2026-11-12T06:47:27-05:00",
+   "filed_kst": "2026-11-12 20:47",
+   "price": 24.19,
+   "change": 3.64,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 24.19,
+     "change": 3.64
+    },
+    {
+     "date": "2026-11-10",
+     "close": 23.34,
+     "change": -4.81
+    },
+    {
+     "date": "2026-11-09",
+     "close": 24.52,
+     "change": 7.9
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Loan Brokers",
+   "state_of_incorporation": "DE",
+   "hq": "RENO, NV",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T20:48:07+09:00"
+  },
   {
    "id": "0001292814-26-005248",
    "company": "PETROBRAS - PETROLEO BRASILEIRO SA",
@@ -15810,60 +15862,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-09T21:01:26+09:00"
-  },
-  {
-   "id": "0001140361-26-042598",
-   "company": "IONIS PHARMACEUTICALS INC",
-   "ticker": "IONS",
-   "cik": 874015,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 84,
-   "summary": "0005) and demonstrated a favorable safety and tolerability profile; data to be shared with health authorities ● Sapablursen, a potential treatment for polycythemia vera, received Orphan Drug Designations in the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126042598/0001140361-26-042598-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126042598/ef20085128_ex99-1.htm",
-   "filed_at": "2026-11-09T07:00:30-05:00",
-   "filed_kst": "2026-11-09 21:00",
-   "price": 39.42,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 39.42,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 39.42,
-     "change": 1.6
-    },
-    {
-     "date": "2026-11-05",
-     "close": 38.8,
-     "change": -3.36
-    }
-   ],
-   "market_cap": 6550985973.0,
-   "shares_outstanding": 166184322.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "CA",
-   "hq": "CARLSBAD, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T21:01:21+09:00"
   }
  ]
 }
