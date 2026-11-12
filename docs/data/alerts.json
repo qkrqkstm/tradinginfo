@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-12T22:54:21+09:00",
+ "updated_at": "2026-11-12T22:59:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-073164",
+   "company": "DoubleDown Interactive Co., Ltd.",
+   "ticker": "DDI",
+   "cik": 1799567,
+   "form": "6-K/A",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "(“DUG”), the Company’s controlling shareholder (the “Agreement”), pursuant to which DUG has commenced a tender offer to acquire all of the outstanding ADSs of the Company not owned by DUG and its affiliates at a price of US$16.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1799567/000162828026073164/0001628280-26-073164-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1799567/000162828026073164/ddi-20260930_d2.htm",
+   "filed_at": "2026-11-12T08:55:46-05:00",
+   "filed_kst": "2026-11-12 22:55",
+   "price": 15.72,
+   "change": 0.13,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 15.72,
+     "change": 0.13
+    },
+    {
+     "date": "2026-11-10",
+     "close": 15.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 15.7,
+     "change": 15.61
+    }
+   ],
+   "market_cap": 38949004.0,
+   "shares_outstanding": 2477672.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Korea, Republic of",
+   "hq": "SEOUL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T22:56:25+09:00"
+  },
   {
    "id": "0001213900-26-118491",
    "company": "Skyline Builders Group Holding Ltd",
@@ -15834,61 +15886,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-10T06:06:00+09:00"
-  },
-  {
-   "id": "0001514991-26-000109",
-   "company": "AMC Global Media Inc.",
-   "ticker": "AMCX",
-   "cik": 1514991,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 68,
-   "summary": "Stock Repurchase Program On May 8, 2026, the Company entered into an accelerated share repurchase (\"ASR\") agreement with Citibank, N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1514991/000151499126000109/0001514991-26-000109-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1514991/000151499126000109/amcx-11926ex991.htm",
-   "filed_at": "2026-11-09T16:04:12-05:00",
-   "filed_kst": "2026-11-10 06:04",
-   "price": 8.89,
-   "change": 5.96,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 8.89,
-     "change": 5.96
-    },
-    {
-     "date": "2026-11-06",
-     "close": 8.39,
-     "change": -0.47
-    },
-    {
-     "date": "2026-11-05",
-     "close": 8.43,
-     "change": -0.35
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Cable & Other Pay Television Services",
-   "state_of_incorporation": "NV",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T06:04:39+09:00"
   }
  ]
 }
