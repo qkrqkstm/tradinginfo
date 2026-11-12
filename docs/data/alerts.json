@@ -1,7 +1,117 @@
 {
- "updated_at": "2026-11-13T06:39:22+09:00",
+ "updated_at": "2026-11-13T06:44:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-126295",
+   "company": "BATTALION OIL CORP",
+   "ticker": "BATL",
+   "cik": 1282648,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약",
+    "가이던스상향"
+   ],
+   "confidence": 59,
+   "summary": "75 per share available to common stockholders , primarily reflecting a $44.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1282648/000110465926126295/0001104659-26-126295-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1282648/000110465926126295/batl-ex99d1.htm",
+   "filed_at": "2026-11-12T16:41:59-05:00",
+   "filed_kst": "2026-11-13 06:41",
+   "price": 0.75,
+   "change": 3.73,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.75,
+     "change": 3.73
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.72,
+     "change": 3.58
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.7,
+     "change": -6.93
+    }
+   ],
+   "market_cap": 42961616.0,
+   "shares_outstanding": 57282155.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:42:24+09:00"
+  },
+  {
+   "id": "0001437749-26-036600",
+   "company": "DiaMedica Therapeutics Inc.",
+   "ticker": "DMAC",
+   "cik": 1401040,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "The event will include preliminary, interim topline results from the first two FGR cohorts and a discussion of FGR, the current treatment landscape and the clinical rationale for evaluating DM199 as a potential treatment in the management of FGR.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1401040/000143774926036600/0001437749-26-036600-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1401040/000143774926036600/ex_1044414.htm",
+   "filed_at": "2026-11-12T16:40:57-05:00",
+   "filed_kst": "2026-11-13 06:40",
+   "price": 9.33,
+   "change": -3.42,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 9.33,
+     "change": -3.42
+    },
+    {
+     "date": "2026-11-11",
+     "close": 9.66,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-10",
+     "close": 9.67,
+     "change": 0.21
+    }
+   ],
+   "market_cap": 503126753.0,
+   "shares_outstanding": 53925697.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Canada (Federal Level)",
+   "hq": "MINNEAPOLIS, MN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:41:44+09:00"
+  },
   {
    "id": "0001213900-26-118986",
    "company": "Tempest Therapeutics, Inc.",
@@ -15768,112 +15878,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T20:54:41+09:00"
-  },
-  {
-   "id": "0001104659-26-124760",
-   "company": "IHS Holding Ltd",
-   "ticker": "IHS",
-   "cik": 1876183,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 73,
-   "summary": "1 million of accelerated share-based payment and long-term employee benefit expenses resulting from a change in expected vesting periods and settlement obligations following the February 2026 agreement by the Group to enter into a merger agreement to be acquired by MTN Group Limited.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1876183/000110465926124760/0001104659-26-124760-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1876183/000110465926124760/ihs-ex99d1.htm",
-   "filed_at": "2026-11-10T06:52:38-05:00",
-   "filed_kst": "2026-11-10 20:52",
-   "price": 8.44,
-   "change": 0.24,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 8.44,
-     "change": 0.24
-    },
-    {
-     "date": "2026-11-06",
-     "close": 8.42,
-     "change": -0.12
-    },
-    {
-     "date": "2026-11-05",
-     "close": 8.43,
-     "change": -0.59
-    }
-   ],
-   "market_cap": 2831799114.0,
-   "shares_outstanding": 335521222.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": "Mauritius",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T20:53:07+09:00"
-  },
-  {
-   "id": "0001493152-26-050853",
-   "company": "Nova Minerals Corp",
-   "ticker": "NVA",
-   "cik": 1852551,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "In parallel, Nova is advancing its critical minerals strategy, fully-funded by a $43.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226050853/0001493152-26-050853-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852551/000149315226050853/ex99-1.htm",
-   "filed_at": "2026-11-10T06:45:33-05:00",
-   "filed_kst": "2026-11-10 20:45",
-   "price": 4.42,
-   "change": 2.31,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 4.42,
-     "change": 2.31
-    },
-    {
-     "date": "2026-11-06",
-     "close": 4.32,
-     "change": -1.37
-    },
-    {
-     "date": "2026-11-05",
-     "close": 4.38,
-     "change": -16.41
-    }
-   ],
-   "market_cap": 168819107.0,
-   "shares_outstanding": 38194368.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "NV",
-   "hq": "CAULFIELD",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T20:46:07+09:00"
   }
  ]
 }
