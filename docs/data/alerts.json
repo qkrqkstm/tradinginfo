@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-13T02:14:28+09:00",
+ "updated_at": "2026-11-13T02:19:18+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000911971-26-000061",
+   "company": "TEEKAY CORP LTD",
+   "ticker": "TK",
+   "cik": 911971,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 tkq3-26pressrelease.htm 6-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 _________________________ FORM 6-K _________________________ Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 under the Securities Exchange Act of 1934 Date of Report:",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/911971/000091197126000061/0000911971-26-000061-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/911971/000091197126000061/tkq3-26pressrelease.htm",
+   "filed_at": "2026-11-12T12:15:06-05:00",
+   "filed_kst": "2026-11-13 02:15",
+   "price": 13.06,
+   "change": -1.91,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 13.06,
+     "change": -1.91
+    },
+    {
+     "date": "2026-11-11",
+     "close": 13.32,
+     "change": 3.18
+    },
+    {
+     "date": "2026-11-10",
+     "close": 12.91,
+     "change": 0.55
+    }
+   ],
+   "market_cap": 1123901860.0,
+   "shares_outstanding": 86056804.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Bermuda",
+   "hq": "HAMILTON, D0",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-13T02:15:30+09:00"
+  },
   {
    "id": "0001419945-26-000070",
    "company": "TEEKAY TANKERS LTD.",
@@ -15807,61 +15857,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-10T06:09:14+09:00"
-  },
-  {
-   "id": "0001193125-26-453586",
-   "company": "Larimar Therapeutics, Inc.",
-   "ticker": "LRMR",
-   "cik": 1374690,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 69,
-   "summary": "Approval: Mid-2027 • Obtaining & Monetizing the Rare Pediatric Disease Priority Review Voucher: Mid-2027, if approved • U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526453586/0001193125-26-453586-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526453586/lrmr-ex99_2.htm",
-   "filed_at": "2026-11-09T16:08:26-05:00",
-   "filed_kst": "2026-11-10 06:08",
-   "price": 2.53,
-   "change": 5.86,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 2.53,
-     "change": 5.86
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.39,
-     "change": 3.02
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.32,
-     "change": -15.94
-    }
-   ],
-   "market_cap": 262823831.0,
-   "shares_outstanding": 103882937.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BALA CYNWYD, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T06:09:12+09:00"
   }
  ]
 }
