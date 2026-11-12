@@ -1,7 +1,215 @@
 {
- "updated_at": "2026-11-12T20:09:23+09:00",
+ "updated_at": "2026-11-12T20:14:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001670592-26-000043",
+   "company": "YETI Holdings, Inc.",
+   "ticker": "YETI",
+   "cik": 1670592,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 67,
+   "summary": "Pursuant to our existing $500 million share repurchase authorization, in the third quarter of 2026, we repurchased approximately 0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000043/0001670592-26-000043-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1670592/000167059226000043/yeti-20261112xex992.htm",
+   "filed_at": "2026-11-12T06:12:23-05:00",
+   "filed_kst": "2026-11-12 20:12",
+   "price": 42.79,
+   "change": -4.42,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 42.79,
+     "change": -4.42
+    },
+    {
+     "date": "2026-11-10",
+     "close": 44.77,
+     "change": -2.31
+    },
+    {
+     "date": "2026-11-09",
+     "close": 45.83,
+     "change": 1.91
+    }
+   ],
+   "market_cap": 3123190581.0,
+   "shares_outstanding": 72988796.0,
+   "industry": "Sporting & Athletic Goods, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "AUSTIN, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T20:12:44+09:00"
+  },
+  {
+   "id": "0001178913-26-005140",
+   "company": "ELBIT SYSTEMS LTD",
+   "ticker": "ESLT",
+   "cik": 1027664,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "htm EXHIBIT 1 Exhibit 1 Elbit Systems Awarded $260 Million Contract to Supply PULS Rocket Artillery Systems to a European NATO Country Haifa, Israel, November 12, 2026 – Elbit Systems Ltd .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1027664/000117891326005140/0001178913-26-005140-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1027664/000117891326005140/exhibit_1.htm",
+   "filed_at": "2026-11-12T06:09:01-05:00",
+   "filed_kst": "2026-11-12 20:09",
+   "price": 725.44,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 725.44,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 725.44,
+     "change": -1.99
+    },
+    {
+     "date": "2026-11-10",
+     "close": 740.17,
+     "change": 2.53
+    }
+   ],
+   "market_cap": 33691139835.0,
+   "shares_outstanding": 46442352.0,
+   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
+   "state_of_incorporation": "Israel",
+   "hq": "HAIFA, ISRAEL, L3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T20:10:39+09:00"
+  },
+  {
+   "id": "0001628280-26-073047",
+   "company": "Pelagos Insurance Capital Ltd",
+   "ticker": "PLGO",
+   "cik": 1636639,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 70,
+   "summary": "47 per common share, respectively, pursuant to our share repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1636639/000162828026073047/0001628280-26-073047-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1636639/000162828026073047/ex-991earningspressrelease.htm",
+   "filed_at": "2026-11-12T06:09:58-05:00",
+   "filed_kst": "2026-11-12 20:09",
+   "price": 27.97,
+   "change": -1.27,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 27.97,
+     "change": -1.27
+    },
+    {
+     "date": "2026-11-10",
+     "close": 28.33,
+     "change": 0.11
+    },
+    {
+     "date": "2026-11-09",
+     "close": 28.3,
+     "change": 2.06
+    }
+   ],
+   "market_cap": 2703343406.0,
+   "shares_outstanding": 96651534.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": "Bermuda",
+   "hq": "PEMBROKE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T20:10:36+09:00"
+  },
+  {
+   "id": "0001522767-26-000220",
+   "company": "MARIMED INC.",
+   "ticker": "MRMD",
+   "cik": 1522767,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "For example, in Maine, Betty’s Eddies has become the number two edibles brand, demonstrating our ability to capture share quickly through brand licensing agreements in new markets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1522767/000152276726000220/0001522767-26-000220-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1522767/000152276726000220/ex9918-kearningsq32026.htm",
+   "filed_at": "2026-11-12T06:09:41-05:00",
+   "filed_kst": "2026-11-12 20:09",
+   "price": 0.07,
+   "change": 2.74,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 0.08,
+     "change": 2.74
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.07,
+     "change": -2.67
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.08,
+     "change": 11.94
+    }
+   ],
+   "market_cap": 28212847.0,
+   "shares_outstanding": 403040674.0,
+   "industry": "Medicinal Chemicals & Botanical Products",
+   "state_of_incorporation": "DE",
+   "hq": "NORWOOD, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T20:10:34+09:00"
+  },
   {
    "id": "0001213900-26-118277",
    "company": "GP-Act III Acquisition Corp.",
@@ -15667,221 +15875,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-09T20:46:00+09:00"
-  },
-  {
-   "id": "0001493152-26-050609",
-   "company": "ABEONA THERAPEUTICS INC.",
-   "ticker": "ABEO",
-   "cik": 318306,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 67,
-   "summary": "Ellodi is also eligible to receive payments of $30 million upon FDA approval of ABO-801 and up to an additional $30 million upon achievement of specified sales milestones.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/318306/000149315226050609/0001493152-26-050609-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/318306/000149315226050609/ex99-1.htm",
-   "filed_at": "2026-11-09T06:35:36-05:00",
-   "filed_kst": "2026-11-09 20:35",
-   "price": 4.17,
-   "change": 6.65,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 4.17,
-     "change": 6.65
-    },
-    {
-     "date": "2026-11-05",
-     "close": 3.91,
-     "change": -7.35
-    },
-    {
-     "date": "2026-11-04",
-     "close": 4.22,
-     "change": -0.71
-    }
-   ],
-   "market_cap": 238457351.0,
-   "shares_outstanding": 57184017.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CLEVELAND, OH",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-09T20:36:28+09:00"
-  },
-  {
-   "id": "0001326110-26-000091",
-   "company": "ImmunityBio, Inc.",
-   "ticker": "IBRX",
-   "cik": 1326110,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 68,
-   "summary": "The chemotherapy-free combination demonstrated a statistically significant improvement in efficacy compared with BCG alone in patients with carcinoma in situ (CIS), with or without papillary tumors.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000091/0001326110-26-000091-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326110/000132611026000091/ibrx-20261198xkexhibit991.htm",
-   "filed_at": "2026-11-09T06:33:23-05:00",
-   "filed_kst": "2026-11-09 20:33",
-   "price": 8.63,
-   "change": 7.8,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 8.64,
-     "change": 7.8
-    },
-    {
-     "date": "2026-11-05",
-     "close": 8.01,
-     "change": -10.3
-    },
-    {
-     "date": "2026-11-04",
-     "close": 8.93,
-     "change": 7.72
-    }
-   ],
-   "market_cap": 9146387036.0,
-   "shares_outstanding": 1059836273.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T20:34:15+09:00"
-  },
-  {
-   "id": "0001767042-26-000076",
-   "company": "Kodiak Gas Services, Inc.",
-   "ticker": "KGS",
-   "cik": 1767042,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "Share Repurchase Program Extension On November 4, 2026, the Company's Board of Directors extended the expiration date of the Company's share repurchase program to December 31, 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000076/0001767042-26-000076-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000076/kgsq32026earningsrelease.htm",
-   "filed_at": "2026-11-09T06:32:12-05:00",
-   "filed_kst": "2026-11-09 20:32",
-   "price": 41.67,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 41.67,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 41.67,
-     "change": 7.04
-    },
-    {
-     "date": "2026-11-05",
-     "close": 38.93,
-     "change": -5.65
-    }
-   ],
-   "market_cap": 4213004972.0,
-   "shares_outstanding": 101104031.0,
-   "industry": "Natural Gas Transmission",
-   "state_of_incorporation": "DE",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-09T20:32:42+09:00"
-  },
-  {
-   "id": "0001213900-26-117159",
-   "company": "Marti Technologies, Inc.",
-   "ticker": "MRT",
-   "cik": 1852767,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "Share Repurchase Program ● In April 2026, Marti announced a new $2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1852767/000121390026117159/0001213900-26-117159-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852767/000121390026117159/ea031134001ex99-1.htm",
-   "filed_at": "2026-11-09T06:11:34-05:00",
-   "filed_kst": "2026-11-09 20:11",
-   "price": 2.07,
-   "change": 6.15,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 2.07,
-     "change": 6.15
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.95,
-     "change": -3.94
-    },
-    {
-     "date": "2026-11-04",
-     "close": 2.03,
-     "change": -0.98
-    }
-   ],
-   "market_cap": 178108443.0,
-   "shares_outstanding": 86042726.0,
-   "industry": "Services-Auto Rental & Leasing (No Drivers)",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GRAND CAYMAN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-09T20:12:38+09:00"
   }
  ]
 }
