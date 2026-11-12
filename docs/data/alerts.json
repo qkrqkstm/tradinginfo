@@ -1,7 +1,216 @@
 {
- "updated_at": "2026-11-12T19:59:35+09:00",
+ "updated_at": "2026-11-12T20:04:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001564708-26-000259",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000259/0001564708-26-000259-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000259/appendix3cclassa20261110.htm",
+   "filed_at": "2026-11-10T19:12:16-05:00",
+   "filed_kst": "2026-11-11 09:12",
+   "price": 29.93,
+   "change": 0.4,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 29.93,
+     "change": 0.4
+    },
+    {
+     "date": "2026-11-10",
+     "close": 29.81,
+     "change": 1.64
+    },
+    {
+     "date": "2026-11-09",
+     "close": 29.33,
+     "change": 1.28
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-12T20:03:06+09:00"
+  },
+  {
+   "id": "0001213900-26-118187",
+   "company": "AIR INDUSTRIES GROUP",
+   "ticker": "AIRI",
+   "cik": 1009891,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "McGill; Charles Goodwin Re: Amended and Restated Agreement and Plan of Merger, dated as of July 2, 2026, as amended (the “Merger Agreement”), among Tenax Aerospace Acquisition, LLC (“Tenax”), Air Industries Group (“AIR”) and Transitory Air Sub LLC Dear Mr.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1009891/000121390026118187/0001213900-26-118187-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1009891/000121390026118187/ea031176301ex99-1.htm",
+   "filed_at": "2026-11-10T19:05:17-05:00",
+   "filed_kst": "2026-11-11 09:05",
+   "price": 2.76,
+   "change": -8.0,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 2.76,
+     "change": -8.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 3.0,
+     "change": 6.38
+    },
+    {
+     "date": "2026-11-09",
+     "close": 2.82,
+     "change": 0.71
+    }
+   ],
+   "market_cap": 13387816.0,
+   "shares_outstanding": 4850658.0,
+   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
+   "state_of_incorporation": "NV",
+   "hq": "BAY SHORE, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T20:02:31+09:00"
+  },
+  {
+   "id": "0001628280-26-072885",
+   "company": "DoubleDown Interactive Co., Ltd.",
+   "ticker": "DDI",
+   "cik": 1799567,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "(“DUG”), the Company’s controlling shareholder (the “Agreement”), pursuant to which DUG has commenced a tender offer to acquire all of the outstanding ADSs of the Company not owned by DUG and its affiliates at a price of US$16.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1799567/000162828026072885/0001628280-26-072885-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1799567/000162828026072885/ddi-20260930_d2.htm",
+   "filed_at": "2026-11-10T17:55:19-05:00",
+   "filed_kst": "2026-11-11 07:55",
+   "price": 15.72,
+   "change": 0.13,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 15.72,
+     "change": 0.13
+    },
+    {
+     "date": "2026-11-10",
+     "close": 15.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "close": 15.7,
+     "change": 15.61
+    }
+   ],
+   "market_cap": 38949004.0,
+   "shares_outstanding": 2477672.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Korea, Republic of",
+   "hq": "SEOUL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T20:01:59+09:00"
+  },
+  {
+   "id": "0001628280-26-072898",
+   "company": "Seapeak LLC",
+   "ticker": "SEAL-PA",
+   "cik": 1308106,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "6-K 1 seapeak6-kq3x26doc.htm 6-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 _____________________________________________________________ FORM 6-K _____________________________________________________________ Report of Foreign Private Issuer Pursuant to Rule 13a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1308106/000162828026072898/0001628280-26-072898-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1308106/000162828026072898/seapeak6-kq3x26doc.htm",
+   "filed_at": "2026-11-10T18:02:19-05:00",
+   "filed_kst": "2026-11-11 08:02",
+   "price": 25.01,
+   "change": 0.04,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 25.01,
+     "change": 0.04
+    },
+    {
+     "date": "2026-11-10",
+     "close": 25.0,
+     "change": -1.15
+    },
+    {
+     "date": "2026-11-09",
+     "close": 25.29,
+     "change": 0.36
+    }
+   ],
+   "market_cap": 1984811582.0,
+   "shares_outstanding": 79360719.0,
+   "industry": "Water Transportation",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "HAMILTON, D0",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-12T20:01:57+09:00"
+  },
   {
    "id": "0001104659-26-125362",
    "company": "Vireo Growth Inc.",
@@ -15671,197 +15880,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-07T06:33:00+09:00"
-  },
-  {
-   "id": "0001213900-26-116923",
-   "company": "Mkango Rare Earths Ltd",
-   "ticker": "MKAR",
-   "cik": 2052373,
-   "form": "425",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "☐ Explanatory Note As previously announced, on July 2, 2025, Crown PropTech Acquisitions, an exempted company limited by shares incorporated under the laws of the Cayman Islands (“ SPAC ”), entered into a business combination agreement (the “ Original Business Combination Agreement ”) with Mkango Ra",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2052373/000121390026116923/0001213900-26-116923-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2052373/000121390026116923/ea0311314-425_mkango.htm",
-   "filed_at": "2026-11-06T16:32:07-05:00",
-   "filed_kst": "2026-11-07 06:32",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "ROAD TOWN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-07T06:32:59+09:00"
-  },
-  {
-   "id": "0001628280-26-071735",
-   "company": "SILGAN HOLDINGS INC",
-   "ticker": "SLGN",
-   "cik": 849869,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-10.1 2 exhibit101consenttoarcredi.htm EX-10.1 Document Exhibit 10.1 CONSENT TO AMENDED AND RESTATED CREDIT AGREEMENT CONSENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this “ Consent ”), dated as of November 6, 2026, among SILGAN HOLDINGS INC., a Delaware corporation (“ Silgan ”), SILGAN CONTAINER",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/849869/000162828026071735/0001628280-26-071735-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/849869/000162828026071735/exhibit101consenttoarcredi.htm",
-   "filed_at": "2026-11-06T16:30:55-05:00",
-   "filed_kst": "2026-11-07 06:30",
-   "price": 41.09,
-   "change": -1.32,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 41.09,
-     "change": -1.32
-    },
-    {
-     "date": "2026-11-05",
-     "close": 41.64,
-     "change": -2.39
-    },
-    {
-     "date": "2026-11-04",
-     "close": 42.66,
-     "change": 2.77
-    }
-   ],
-   "market_cap": 4342474202.0,
-   "shares_outstanding": 105682020.0,
-   "industry": "Metal Cans",
-   "state_of_incorporation": "DE",
-   "hq": "NORWALK, CT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-07T06:31:52+09:00"
-  },
-  {
-   "id": "0001193125-26-451872",
-   "company": "ACRES Commercial Realty Corp.",
-   "ticker": "ACR",
-   "cik": 1332551,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Nothing herein contained shall be deemed or construed to create a partnership or joint venture between any of the parties hereto.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1332551/000119312526451872/0001193125-26-451872-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1332551/000119312526451872/acr-ex99_1.htm",
-   "filed_at": "2026-11-06T16:18:06-05:00",
-   "filed_kst": "2026-11-07 06:18",
-   "price": 12.05,
-   "change": -8.09,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 12.05,
-     "change": -8.09
-    },
-    {
-     "date": "2026-11-05",
-     "close": 13.11,
-     "change": -8.06
-    },
-    {
-     "date": "2026-11-04",
-     "close": 14.26,
-     "change": 2.59
-    }
-   ],
-   "market_cap": 85929767.0,
-   "shares_outstanding": 7131101.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "UNIONDALE, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-07T06:18:40+09:00"
-  },
-  {
-   "id": "0001213900-26-116892",
-   "company": "FG Imperii Acquisition Corp.",
-   "ticker": "FGII",
-   "cik": 2090452,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "On November 2, tZERO announced a definitive business combination agreement with FG Imperii Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026116892/0001213900-26-116892-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026116892/ea0311267-425_tzero.htm",
-   "filed_at": "2026-11-06T16:15:24-05:00",
-   "filed_kst": "2026-11-07 06:15",
-   "price": 10.07,
-   "change": 0.05,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 10.07,
-     "change": 0.05
-    },
-    {
-     "date": "2026-11-05",
-     "close": 10.07,
-     "change": -0.1
-    },
-    {
-     "date": "2026-11-04",
-     "close": 10.08,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 291425800.0,
-   "shares_outstanding": 28940000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "ITASCA, IL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-07T06:16:35+09:00"
   }
  ]
 }
