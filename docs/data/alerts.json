@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-12T23:14:13+09:00",
+ "updated_at": "2026-11-12T23:19:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-036407",
+   "company": "Neonode Inc.",
+   "ticker": "NEON",
+   "cik": 87050,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Revenue grew by more than 24% compared with the same period last year, supported by the ramp-up of an automotive license agreement and increased engineering project deliveries.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87050/000143774926036407/0001437749-26-036407-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/87050/000143774926036407/ex_1011195.htm",
+   "filed_at": "2026-11-12T09:18:09-05:00",
+   "filed_kst": "2026-11-12 23:18",
+   "price": 0.7,
+   "change": 0.14,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.7,
+     "change": 0.14
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.7,
+     "change": 1.45
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.69,
+     "change": 2.99
+    }
+   ],
+   "market_cap": 11748045.0,
+   "shares_outstanding": 16782922.0,
+   "industry": "Electronic Components, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "STOCKHOLM",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-12T23:18:37+09:00"
+  },
+  {
+   "id": "0001213900-26-118516",
+   "company": "Skyline Builders Group Holding Ltd",
+   "ticker": "KAZR",
+   "cik": 2031009,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "The parties expect to enter into a share exchange agreement (the “ Merger Agreement ”) pursuant to which Skyline would exchange a preferred share with SuperCritical shareholders for their shares (collectively the “ Parties ”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118516/0001213900-26-118516-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118516/ea031203501ex99-1.htm",
+   "filed_at": "2026-11-12T09:15:01-05:00",
+   "filed_kst": "2026-11-12 23:15",
+   "price": 1.16,
+   "change": -7.2,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 1.16,
+     "change": -7.2
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.25,
+     "change": -4.58
+    },
+    {
+     "date": "2026-11-09",
+     "close": 1.31,
+     "change": 1.55
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Construction - Special Trade Contractors",
+   "state_of_incorporation": null,
+   "hq": "KOWLOON BAY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T23:15:31+09:00"
+  },
   {
    "id": "0001829576-26-000100",
    "company": "Carter Bankshares, Inc.",
@@ -15764,118 +15870,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-10T06:08:01+09:00"
-  },
-  {
-   "id": "0001628280-26-072135",
-   "company": "KALTURA INC",
-   "ticker": "KLTR",
-   "cik": 1432133,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 67,
-   "summary": "During the quarter, we signed fifteen transactions that included our AI offerings, representing $3.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1432133/000162828026072135/0001628280-26-072135-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1432133/000162828026072135/kaltura-q3x2026earningsrel.htm",
-   "filed_at": "2026-11-09T16:05:59-05:00",
-   "filed_kst": "2026-11-10 06:05",
-   "price": 1.43,
-   "change": -5.92,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 1.43,
-     "change": -5.92
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.52,
-     "change": 2.7
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.48,
-     "change": -3.9
-    }
-   ],
-   "market_cap": 218148249.0,
-   "shares_outstanding": 152551223.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T06:07:23+09:00"
-  },
-  {
-   "id": "0001084991-26-000094",
-   "company": "NATURAL GAS SERVICES GROUP INC",
-   "ticker": "NGS",
-   "cik": 1084991,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 75,
-   "summary": "1 FOR IMMEDIATE RELEASE NEWS November 9, 2026 NYSE: NGS NGS Reports Third Quarter 2026 Financial and Operating Results; Increases Quarterly Dividend and Provides Updated Guidance SOUTHLAKE, Texas, November 9, 2026 (GLOBE NEWSWIRE) Natural Gas Services Group, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000094/0001084991-26-000094-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1084991/000108499126000094/a2026q3earningsreleaseex991.htm",
-   "filed_at": "2026-11-09T16:06:16-05:00",
-   "filed_kst": "2026-11-10 06:06",
-   "price": 29.08,
-   "change": 5.29,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 29.08,
-     "change": 5.29
-    },
-    {
-     "date": "2026-11-06",
-     "close": 27.62,
-     "change": 3.52
-    },
-    {
-     "date": "2026-11-05",
-     "close": 26.68,
-     "change": -7.84
-    }
-   ],
-   "market_cap": 375293336.0,
-   "shares_outstanding": 12905548.0,
-   "industry": "Oil & Gas Field Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "MIDLAND, TX",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:07:20+09:00"
   }
  ]
 }
