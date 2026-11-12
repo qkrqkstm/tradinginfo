@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-12T21:24:12+09:00",
+ "updated_at": "2026-11-12T21:29:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001279569-26-001064",
+   "company": "DEFSEC Technologies Inc.",
+   "ticker": "DFSC",
+   "cik": 1889823,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Any resulting fractional common shares will be cancelled and rounded down to the nearest whole number of common shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1889823/000127956926001064/0001279569-26-001064-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1889823/000127956926001064/ex991.htm",
+   "filed_at": "2026-11-12T07:24:38-05:00",
+   "filed_kst": "2026-11-12 21:24",
+   "price": 0.52,
+   "change": -2.62,
+   "price_history": [
+    {
+     "date": "2026-11-11",
+     "close": 0.52,
+     "change": -2.62
+    },
+    {
+     "date": "2026-11-10",
+     "close": 0.54,
+     "change": -4.12
+    },
+    {
+     "date": "2026-11-09",
+     "close": 0.56,
+     "change": 1.45
+    }
+   ],
+   "market_cap": 821170.0,
+   "shares_outstanding": 1579174.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "OTTAWA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-12T21:25:27+09:00"
+  },
   {
    "id": "0001193125-26-456940",
    "company": "Legence Corp.",
@@ -15792,54 +15843,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-09T22:30:45+09:00"
-  },
-  {
-   "id": "0001493152-26-050643",
-   "company": "Bradbury Capital Inc.",
-   "ticker": "BBCI",
-   "cik": 1986694,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-10.1 2 ex10-1.htm EX-10.1 Exhibit 10.1 BRADBURY CAPITAL INC. DIRECTOR RETAINER AGREEMENT THIS DIRECTOR RETAINER AGREEMENT (“Agreement”) is entered into by and between Bradbury Capital Inc., a Cayman Islands exempted company (“Corporation”), and Say Leong Lim (“Director”) on November 9, 2026. WHER",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1986694/000149315226050643/0001493152-26-050643-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1986694/000149315226050643/ex10-1.htm",
-   "filed_at": "2026-11-09T08:28:01-05:00",
-   "filed_kst": "2026-11-09 22:28",
-   "price": 1.47,
-   "change": 27.83,
-   "price_history": [
-    {
-     "date": "2026-11-06",
-     "close": 1.47,
-     "change": 27.83
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.15,
-     "change": -28.13
-    },
-    {
-     "date": "2026-11-04",
-     "close": 1.6,
-     "change": 3.23
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "KUALA LUMPUR",
-   "entity_category": null,
-   "detected_at": "2026-11-09T22:28:30+09:00"
   }
  ]
 }
