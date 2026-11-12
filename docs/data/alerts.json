@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-13T00:34:53+09:00",
+ "updated_at": "2026-11-13T00:39:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001419945-26-000070",
+   "company": "TEEKAY TANKERS LTD.",
+   "ticker": "TNK",
+   "cik": 1419945,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "6-K 1 tnkq3-26erdocument.htm 6-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 _________________________ FORM 6-K _________________________ Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 under the Securities Exchange Act of 1934 Date of Report: ",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1419945/000141994526000070/0001419945-26-000070-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1419945/000141994526000070/tnkq3-26erdocument.htm",
+   "filed_at": "2026-11-12T10:38:47-05:00",
+   "filed_kst": "2026-11-13 00:38",
+   "price": 86.64,
+   "change": -2.61,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 86.64,
+     "change": -2.61
+    },
+    {
+     "date": "2026-11-11",
+     "close": 88.96,
+     "change": 3.8
+    },
+    {
+     "date": "2026-11-10",
+     "close": 85.7,
+     "change": 0.68
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Water Transportation",
+   "state_of_incorporation": "Bermuda",
+   "hq": "HAMILTON, D0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T00:39:36+09:00"
+  },
   {
    "id": "0001317861-26-000055",
    "company": "EuroDry Ltd.",
@@ -15811,59 +15862,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T06:09:12+09:00"
-  },
-  {
-   "id": "0002105398-26-000007",
-   "company": "Csquare, Inc.",
-   "ticker": "CSQR",
-   "cik": 2105398,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "• Entered Q4 with approximately $114 million of contracted annualized revenue backlog , including approximately $104 million expected to commence over the next twelve months.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2105398/000210539826000007/0002105398-26-000007-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2105398/000210539826000007/csqr-ex99_1.htm",
-   "filed_at": "2026-11-09T16:07:50-05:00",
-   "filed_kst": "2026-11-10 06:07",
-   "price": 15.26,
-   "change": 6.38,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 15.26,
-     "change": 6.38
-    },
-    {
-     "date": "2026-11-06",
-     "close": 14.34,
-     "change": 4.52
-    },
-    {
-     "date": "2026-11-05",
-     "close": 13.72,
-     "change": -3.31
-    }
-   ],
-   "market_cap": 2542834596.0,
-   "shares_outstanding": 166633984.0,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "DE",
-   "hq": "COPPELL, TX",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-10T06:08:38+09:00"
   }
  ]
 }
