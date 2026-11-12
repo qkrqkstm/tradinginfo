@@ -1,7 +1,218 @@
 {
- "updated_at": "2026-11-13T06:24:22+09:00",
+ "updated_at": "2026-11-13T06:29:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-036591",
+   "company": "Planet 13 Holdings Inc.",
+   "ticker": "PLNH",
+   "cik": 1813452,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Planet 13 will hold a special meeting of stockholders on December 10, 2026 to vote on the adoption of the merger agreement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1813452/000143774926036591/0001437749-26-036591-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1813452/000143774926036591/ex_1009288.htm",
+   "filed_at": "2026-11-12T16:28:25-05:00",
+   "filed_kst": "2026-11-13 06:28",
+   "price": 0.09,
+   "change": -0.39,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 0.09,
+     "change": -0.39
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.09,
+     "change": 0.39
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.09,
+     "change": 7.14
+    }
+   ],
+   "market_cap": 30178751.0,
+   "shares_outstanding": 335319455.0,
+   "industry": "Agricultural Production-Crops",
+   "state_of_incorporation": "NV",
+   "hq": "LAS VEGAS, NV",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T06:29:28+09:00"
+  },
+  {
+   "id": "0000950103-26-017383",
+   "company": "newcleo plc",
+   "ticker": "NWCL",
+   "cik": 2131813,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through a vertically integrated supply chain and a growing network of strategic partnerships, new cleo is working to turn proven scientific and engineering solutions into deployable nuclear energy assets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326017383/0000950103-26-017383-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326017383/dp256703_ex9901.htm",
+   "filed_at": "2026-11-12T16:28:09-05:00",
+   "filed_kst": "2026-11-13 06:28",
+   "price": 4.5,
+   "change": -0.66,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 4.5,
+     "change": -0.66
+    },
+    {
+     "date": "2026-11-11",
+     "close": 4.53,
+     "change": -2.79
+    },
+    {
+     "date": "2026-11-10",
+     "close": 4.66,
+     "change": -6.05
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Fabricated Plate Work (Boiler Shops)",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": null,
+   "detected_at": "2026-11-13T06:28:53+09:00"
+  },
+  {
+   "id": "0001193125-26-458527",
+   "company": "Verrica Pharmaceuticals Inc.",
+   "ticker": "VRCA",
+   "cik": 1660334,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "파트너십",
+    "탑라인결과"
+   ],
+   "confidence": 70,
+   "summary": "9 million – – Enrollment completed in the first of two pivotal trials in the global Phase 3 common warts program, with topline data for each trial expected in Q1 2027 and mid-2027, respectively – – Company achieved pre-defined revenue, growth and operational milestones under credit facility to unloc",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660334/000119312526458527/0001193125-26-458527-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1660334/000119312526458527/d144356dex991.htm",
+   "filed_at": "2026-11-12T16:27:54-05:00",
+   "filed_kst": "2026-11-13 06:27",
+   "price": 3.72,
+   "change": -4.86,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 3.72,
+     "change": -4.86
+    },
+    {
+     "date": "2026-11-11",
+     "close": 3.91,
+     "change": 11.08
+    },
+    {
+     "date": "2026-11-10",
+     "close": 3.52,
+     "change": -1.95
+    }
+   ],
+   "market_cap": 63905084.0,
+   "shares_outstanding": 17178786.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WEST CHESTER, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:28:51+09:00"
+  },
+  {
+   "id": "0001104659-26-126274",
+   "company": "Armata Pharmaceuticals, Inc.",
+   "ticker": "ARMP",
+   "cik": 921114,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 71,
+   "summary": "” ​ “We believe the FDA’s recent Breakthrough Therapy designation further underscores AP-SA02’s clinical potential.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/921114/000110465926126274/0001104659-26-126274-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/921114/000110465926126274/armp-ex99d1.htm",
+   "filed_at": "2026-11-12T16:24:18-05:00",
+   "filed_kst": "2026-11-13 06:24",
+   "price": 3.72,
+   "change": -4.37,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 3.72,
+     "change": -4.37
+    },
+    {
+     "date": "2026-11-11",
+     "close": 3.89,
+     "change": 3.73
+    },
+    {
+     "date": "2026-11-10",
+     "close": 3.75,
+     "change": -1.32
+    }
+   ],
+   "market_cap": 138316962.0,
+   "shares_outstanding": 37181979.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "WA",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T06:25:31+09:00"
+  },
   {
    "id": "0001493152-26-051414",
    "company": "Ensysce Biosciences, Inc.",
@@ -15662,215 +15873,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-10T20:32:43+09:00"
-  },
-  {
-   "id": "0001701541-26-000030",
-   "company": "Black Diamond Therapeutics, Inc.",
-   "ticker": "BDTX",
-   "cik": 1701541,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "In addition to the ongoing Phase 2 trial of silevertinib in patients with non-classical EGFRm NSCLC, the Company is also conducting a randomized Phase 2 trial of silevertinib in patients with newly diagnosed EGFRvIII-positive GBM (NCT07326566).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1701541/000170154126000030/0001701541-26-000030-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701541/000170154126000030/bdtx-exhibit991_q32026.htm",
-   "filed_at": "2026-11-10T06:28:50-05:00",
-   "filed_kst": "2026-11-10 20:28",
-   "price": 1.86,
-   "change": 7.2,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 1.86,
-     "change": 7.2
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.74,
-     "change": 4.52
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.66,
-     "change": -12.63
-    }
-   ],
-   "market_cap": 106863969.0,
-   "shares_outstanding": 57453747.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": null,
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T20:29:29+09:00"
-  },
-  {
-   "id": "0001193125-26-454353",
-   "company": "AMPCO PITTSBURGH CORP",
-   "ticker": "AP",
-   "cik": 6176,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "It operates manufacturing facilities in the United States, Sweden, and Slovenia and participates in two operating joint ventures located in China.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/6176/000119312526454353/0001193125-26-454353-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/6176/000119312526454353/ap-ex99_1.htm",
-   "filed_at": "2026-11-10T06:20:51-05:00",
-   "filed_kst": "2026-11-10 20:20",
-   "price": 6.0,
-   "change": 1.87,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 6.0,
-     "change": 1.87
-    },
-    {
-     "date": "2026-11-06",
-     "close": 5.89,
-     "change": -1.01
-    },
-    {
-     "date": "2026-11-05",
-     "close": 5.95,
-     "change": -13.89
-    }
-   ],
-   "market_cap": 123951726.0,
-   "shares_outstanding": 20658621.0,
-   "industry": "Pumps & Pumping Equipment",
-   "state_of_incorporation": "PA",
-   "hq": "CARNEGIE, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T20:21:34+09:00"
-  },
-  {
-   "id": "0001193125-26-454342",
-   "company": "IMMUTEP Ltd",
-   "ticker": "IMMP",
-   "cik": 1506184,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.1 2 d84185dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 IMP761 Late-Breaking Abstract at ACR Convergence 2026 Highlights Statistically Significant & Exposure-Dependent Inhibition of T-Cell-Driven Immune Responses • Statistically significant and exposure-dependent inhibition of T-cell-driven immune r",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526454342/0001193125-26-454342-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526454342/d84185dex991.htm",
-   "filed_at": "2026-11-10T06:15:04-05:00",
-   "filed_kst": "2026-11-10 20:15",
-   "price": 3.8,
-   "change": 13.77,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 3.8,
-     "change": 13.77
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.34,
-     "change": 24.16
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.69,
-     "change": -8.81
-    }
-   ],
-   "market_cap": 5600140963.0,
-   "shares_outstanding": 1473721306.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Australia",
-   "hq": "SYDNEY,, C3",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-10T20:16:02+09:00"
-  },
-  {
-   "id": "0001654954-26-009638",
-   "company": "Wise Group plc",
-   "ticker": "WSE",
-   "cik": 2099039,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": "9600 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009638/0001654954-26-009638-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009638/a5228c.htm",
-   "filed_at": "2026-11-10T06:11:20-05:00",
-   "filed_kst": "2026-11-10 20:11",
-   "price": 11.31,
-   "change": 1.43,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 11.31,
-     "change": 1.43
-    },
-    {
-     "date": "2026-11-06",
-     "close": 11.15,
-     "change": 0.9
-    },
-    {
-     "date": "2026-11-05",
-     "close": 11.05,
-     "change": -4.58
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Jersey",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-10T20:12:04+09:00"
   }
  ]
 }
