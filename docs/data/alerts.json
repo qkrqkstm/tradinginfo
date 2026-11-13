@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-13T22:44:20+09:00",
+ "updated_at": "2026-11-13T22:49:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-126552",
+   "company": "Sony Group Corp",
+   "ticker": "SONY",
+   "cik": 313838,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(6) Handling in the event where reorganization or any other similar events occur If a proposal with respect to a merger agreement under which the Corporation will be dissolved, a share exchange agreement or a share transfer plan under which the Corporation will become a wholly-owned subsidiary, or a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926126552/0001104659-26-126552-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926126552/tm2629459d2_6k.htm",
+   "filed_at": "2026-11-13T08:44:28-05:00",
+   "filed_kst": "2026-11-13 22:44",
+   "price": 26.66,
+   "change": 0.64,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 26.66,
+     "change": 0.64
+    },
+    {
+     "date": "2026-11-11",
+     "close": 26.49,
+     "change": -0.82
+    },
+    {
+     "date": "2026-11-10",
+     "close": 26.71,
+     "change": -1.29
+    }
+   ],
+   "market_cap": 33344911474.0,
+   "shares_outstanding": 1250746867.0,
+   "industry": "Household Audio & Video Equipment",
+   "state_of_incorporation": "Japan",
+   "hq": "TOKYO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T22:45:34+09:00"
+  },
   {
    "id": "0001438133-26-000148",
    "company": "TANDEM DIABETES CARE INC",
@@ -15802,56 +15852,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T22:03:01+09:00"
-  },
-  {
-   "id": "0001213900-26-117775",
-   "company": "Immuron Ltd",
-   "ticker": "IMRN",
-   "cik": 1660046,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "ProIBS® Immuron has an exclusive distribution agreement with Calmino goup AB for the territories of Australia and New Zealand for ProIBS®.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026117775/0001213900-26-117775-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1660046/000121390026117775/ea031163901ex99-1.htm",
-   "filed_at": "2026-11-10T08:00:28-05:00",
-   "filed_kst": "2026-11-10 22:00",
-   "price": 0.88,
-   "change": 5.9,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 0.88,
-     "change": 5.9
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.83,
-     "change": -2.24
-    },
-    {
-     "date": "2026-11-05",
-     "close": 0.85,
-     "change": -0.35
-    }
-   ],
-   "market_cap": 284106311.0,
-   "shares_outstanding": 322848081.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Australia",
-   "hq": "CARLTON, VICTORIA, C3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-10T22:01:27+09:00"
   }
  ]
 }
