@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-13T23:24:32+09:00",
+ "updated_at": "2026-11-13T23:29:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178913-26-005208",
+   "company": "Lifeward Ltd.",
+   "ticker": "LFWD",
+   "cik": 1607962,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "The increase was primarily attributable to approximately $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1607962/000117891326005208/0001178913-26-005208-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1607962/000117891326005208/exhibit_99-1.htm",
+   "filed_at": "2026-11-13T09:25:51-05:00",
+   "filed_kst": "2026-11-13 23:25",
+   "price": 5.72,
+   "change": -0.69,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 5.72,
+     "change": -0.69
+    },
+    {
+     "date": "2026-11-11",
+     "close": 5.76,
+     "change": -1.45
+    },
+    {
+     "date": "2026-11-10",
+     "close": 5.84,
+     "change": -1.6
+    }
+   ],
+   "market_cap": 16237450.0,
+   "shares_outstanding": 2838715.0,
+   "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+   "state_of_incorporation": "Israel",
+   "hq": "HUDSON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T23:26:35+09:00"
+  },
   {
    "id": "0001683168-26-008655",
    "company": "ACCESS Newswire Inc.",
@@ -15787,56 +15841,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T22:31:11+09:00"
-  },
-  {
-   "id": "0001213900-26-117790",
-   "company": "LCI INDUSTRIES",
-   "ticker": "LCII",
-   "cik": 763744,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "425 1 ea0311616-425_lci.htm FORM 425 Filed by LCI Industries pursuant to Rule 425 under the Securities Act of 1933 and deemed filed pursuant to Rule 14a-6 under the Securities Exchange Act of 1934 Subject Company: LCI Industries Commission File No. 001-13646 Date: November 10, 2026 On November 10, 2",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000121390026117790/0001213900-26-117790-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000121390026117790/ea0311616-425_lci.htm",
-   "filed_at": "2026-11-10T08:23:06-05:00",
-   "filed_kst": "2026-11-10 22:23",
-   "price": 101.11,
-   "change": 3.37,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 101.11,
-     "change": 3.37
-    },
-    {
-     "date": "2026-11-06",
-     "close": 97.81,
-     "change": -4.58
-    },
-    {
-     "date": "2026-11-05",
-     "close": 102.51,
-     "change": -1.7
-    }
-   ],
-   "market_cap": 2458193903.0,
-   "shares_outstanding": 24312075.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "DE",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T22:23:37+09:00"
   }
  ]
 }
