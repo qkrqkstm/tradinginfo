@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-13T20:49:38+09:00",
+ "updated_at": "2026-11-13T20:54:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-459242",
+   "company": "SBC Medical Group Holdings Inc",
+   "ticker": "SBC",
+   "cik": 1930313,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "지수편입",
+   "primary_key": "index",
+   "emoji": "📈",
+   "types": [
+    "지수편입"
+   ],
+   "confidence": 57,
+   "summary": "In September 2024, the Company was listed on Nasdaq, and in June 2025, it was selected for inclusion in the Russell 3000® Index, a broad benchmark of the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1930313/000119312526459242/0001193125-26-459242-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1930313/000119312526459242/sbc-ex99_1.htm",
+   "filed_at": "2026-11-13T06:50:13-05:00",
+   "filed_kst": "2026-11-13 20:50",
+   "price": 5.34,
+   "change": 1.91,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 5.34,
+     "change": 1.91
+    },
+    {
+     "date": "2026-11-11",
+     "close": 5.24,
+     "change": -0.95
+    },
+    {
+     "date": "2026-11-10",
+     "close": 5.29,
+     "change": 0.57
+    }
+   ],
+   "market_cap": 549202676.0,
+   "shares_outstanding": 102846943.0,
+   "industry": "Services-Offices & Clinics of  Doctors of  Medicine",
+   "state_of_incorporation": "DE",
+   "hq": "IRVINE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T20:51:12+09:00"
+  },
   {
    "id": "0001493152-26-051535",
    "company": "Kolibri Global Energy Inc.",
@@ -15795,59 +15851,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T21:35:58+09:00"
-  },
-  {
-   "id": "0001213900-26-117758",
-   "company": "LCI INDUSTRIES",
-   "ticker": "LCII",
-   "cik": 763744,
-   "form": "425",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "LCI’s merger agreement with Patrick permits engagement only if LCI receives a competing proposal that is, or is reasonably likely to lead to, a superior one, and LCI’s Board has now twice concluded that Monomoy’s proposals, including its second proposal representing",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000121390026117758/0001213900-26-117758-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000121390026117758/ea031161301ex99-1.htm",
-   "filed_at": "2026-11-10T07:34:40-05:00",
-   "filed_kst": "2026-11-10 21:34",
-   "price": 101.11,
-   "change": 3.37,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 101.11,
-     "change": 3.37
-    },
-    {
-     "date": "2026-11-06",
-     "close": 97.81,
-     "change": -4.58
-    },
-    {
-     "date": "2026-11-05",
-     "close": 102.51,
-     "change": -1.7
-    }
-   ],
-   "market_cap": 2458193903.0,
-   "shares_outstanding": 24312075.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "DE",
-   "hq": "ELKHART, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T21:35:26+09:00"
   }
  ]
 }
