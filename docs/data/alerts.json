@@ -1,7 +1,219 @@
 {
- "updated_at": "2026-11-14T06:29:15+09:00",
+ "updated_at": "2026-11-14T06:34:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009781",
+   "company": "PEDEVCO CORP",
+   "ticker": "PED",
+   "cik": 1141197,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "7 million net gain on the sale of oil and gas properties, was more than offset by a $16.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426009781/0001654954-26-009781-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426009781/ped_ex991.htm",
+   "filed_at": "2026-11-13T16:31:11-05:00",
+   "filed_kst": "2026-11-14 06:31",
+   "price": 11.71,
+   "change": -10.27,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 11.71,
+     "change": -10.27
+    },
+    {
+     "date": "2026-11-12",
+     "close": 13.05,
+     "change": -4.19
+    },
+    {
+     "date": "2026-11-11",
+     "close": 13.62,
+     "change": 2.1
+    }
+   ],
+   "market_cap": 155543157.0,
+   "shares_outstanding": 13282934.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "TX",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-14T06:33:47+09:00"
+  },
+  {
+   "id": "0001193125-26-460798",
+   "company": "TKO Group Holdings, Inc.",
+   "ticker": "TKO",
+   "cik": 1973266,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A",
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 91,
+   "summary": "TKO Worldwide intends to use the net proceeds from the offering of the notes for general corporate purposes, which may include making distributions to its parent entities to fund share repurchases under TKO’s previously announced share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526460798/0001193125-26-460798-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526460798/d523722dex41.htm",
+   "filed_at": "2026-11-13T16:31:19-05:00",
+   "filed_kst": "2026-11-14 06:31",
+   "price": 195.42,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 195.42,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 195.42,
+     "change": 0.69
+    },
+    {
+     "date": "2026-11-12",
+     "close": 194.08,
+     "change": -2.72
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Amusement & Recreation Services",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-14T06:33:45+09:00"
+  },
+  {
+   "id": "0001104659-26-127106",
+   "company": "Vuzix Corp",
+   "ticker": "VUZI",
+   "cik": 1463972,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "EX-99.1 2 tm2629748d1_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Press Release Vuzix Reports Third Quarter 2026 Results - Vuzix Cause way optical interconnect platform: evaluation samples shipped, co-development letter of intent entered into and ongoing engagement with more than 10 companies across the AI",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1463972/000110465926127106/0001104659-26-127106-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1463972/000110465926127106/tm2629748d1_ex99-1.htm",
+   "filed_at": "2026-11-13T16:30:55-05:00",
+   "filed_kst": "2026-11-14 06:30",
+   "price": 1.34,
+   "change": -26.9,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 1.35,
+     "change": -26.9
+    },
+    {
+     "date": "2026-11-12",
+     "close": 1.84,
+     "change": -9.36
+    },
+    {
+     "date": "2026-11-11",
+     "close": 2.03,
+     "change": 4.1
+    }
+   ],
+   "market_cap": 114110214.0,
+   "shares_outstanding": 85156876.0,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "WEST HENRIETTA, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-14T06:33:05+09:00"
+  },
+  {
+   "id": "0002054696-26-000030",
+   "company": "NIQ Global Intelligence plc",
+   "ticker": "NIQ",
+   "cik": 2054696,
+   "form": "8-K/A",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "9x net leverage ratio milestone one quarter ahead of plan and announces $150 million share repurchase authorization • Delivered 6.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2054696/000205469626000030/0002054696-26-000030-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2054696/000205469626000030/niqreportsthirdquarter20.htm",
+   "filed_at": "2026-11-13T16:29:35-05:00",
+   "filed_kst": "2026-11-14 06:29",
+   "price": 19.36,
+   "change": 0.73,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 19.36,
+     "change": 0.73
+    },
+    {
+     "date": "2026-11-12",
+     "close": 19.22,
+     "change": -8.74
+    },
+    {
+     "date": "2026-11-11",
+     "close": 21.06,
+     "change": 0.19
+    }
+   ],
+   "market_cap": 5717618150.0,
+   "shares_outstanding": 295331516.0,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "Ireland",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-14T06:30:47+09:00"
+  },
   {
    "id": "0001317861-26-000056",
    "company": "SAFE BULKERS, INC.",
@@ -15604,225 +15816,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T06:05:32+09:00"
-  },
-  {
-   "id": "0001193125-26-455404",
-   "company": "ACHIEVE LIFE SCIENCES, INC.",
-   "ticker": "ACHV",
-   "cik": 949858,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "Resubmission of the New Drug Application (NDA) remains on track for the fourth quarter of 2026, and the Company anticipates potential FDA approval by the end of the second quarter of 2027, with U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/949858/000119312526455404/0001193125-26-455404-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/949858/000119312526455404/achv-ex99_1.htm",
-   "filed_at": "2026-11-10T16:04:12-05:00",
-   "filed_kst": "2026-11-11 06:04",
-   "price": 6.78,
-   "change": 0.89,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 6.78,
-     "change": 0.89
-    },
-    {
-     "date": "2026-11-06",
-     "close": 6.72,
-     "change": 5.33
-    },
-    {
-     "date": "2026-11-05",
-     "close": 6.38,
-     "change": -8.6
-    }
-   ],
-   "market_cap": 697678882.0,
-   "shares_outstanding": 102902490.0,
-   "industry": "In Vitro & In Vivo Diagnostic Substances",
-   "state_of_incorporation": "DE",
-   "hq": "SEATTLE, WA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T06:05:00+09:00"
-  },
-  {
-   "id": "0001437749-26-036149",
-   "company": "Usio, Inc.",
-   "ticker": "USIO",
-   "cik": 1088034,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Hoch continued, “Looking ahead, we are particularly encouraged by the opportunities presented by Usio Ion and our recently announced strategic partnership with Harris Computer.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1088034/000143774926036149/0001437749-26-036149-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1088034/000143774926036149/ex_1007219.htm",
-   "filed_at": "2026-11-10T16:01:51-05:00",
-   "filed_kst": "2026-11-11 06:01",
-   "price": 2.91,
-   "change": -5.21,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 2.91,
-     "change": -5.21
-    },
-    {
-     "date": "2026-11-09",
-     "close": 3.07,
-     "change": 3.72
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.96,
-     "change": 1.02
-    }
-   ],
-   "market_cap": 82985395.0,
-   "shares_outstanding": 28517318.0,
-   "industry": "Functions Related To Depository Banking, NEC",
-   "state_of_incorporation": "NV",
-   "hq": "SAN ANTONIO, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T06:03:00+09:00"
-  },
-  {
-   "id": "0001049521-26-000096",
-   "company": "MERCURY SYSTEMS INC",
-   "ticker": "MRCY",
-   "cik": 1049521,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "5.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 59,
-   "summary": "Based on this solid execution, we are raising our outlook for fiscal year 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1049521/000104952126000096/0001049521-26-000096-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1049521/000104952126000096/a2027q1earningsreleaseex.htm",
-   "filed_at": "2026-11-10T16:01:58-05:00",
-   "filed_kst": "2026-11-11 06:01",
-   "price": 83.58,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 83.58,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 83.58,
-     "change": 4.97
-    },
-    {
-     "date": "2026-11-09",
-     "close": 79.62,
-     "change": 8.25
-    }
-   ],
-   "market_cap": 5026177996.0,
-   "shares_outstanding": 60136133.0,
-   "industry": "Electronic Components & Accessories",
-   "state_of_incorporation": "MA",
-   "hq": "ANDOVER, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T06:02:56+09:00"
-  },
-  {
-   "id": "0001529628-26-000116",
-   "company": "Smart Sand, Inc.",
-   "ticker": "SND",
-   "cik": 1529628,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 66,
-   "summary": "Liquidity In the third quarter of 2026, the Company did not repurchase any shares of its common stock under its share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1529628/000152962826000116/0001529628-26-000116-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1529628/000152962826000116/a2026q3exhibit991.htm",
-   "filed_at": "2026-11-10T16:02:03-05:00",
-   "filed_kst": "2026-11-11 06:02",
-   "price": 4.07,
-   "change": 3.04,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 4.07,
-     "change": 3.04
-    },
-    {
-     "date": "2026-11-09",
-     "close": 3.95,
-     "change": 10.34
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.58,
-     "change": -8.44
-    }
-   ],
-   "market_cap": 172564178.0,
-   "shares_outstanding": 42399061.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "DE",
-   "hq": "YARDLEY, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T06:02:53+09:00"
   }
  ]
 }
