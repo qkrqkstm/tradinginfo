@@ -1,7 +1,108 @@
 {
- "updated_at": "2026-11-13T23:09:30+09:00",
+ "updated_at": "2026-11-13T23:14:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950142-26-003018",
+   "company": "Wise Group plc",
+   "ticker": "WSE",
+   "cik": 2099039,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "● In July 2026 we commenced a new share repurchase program, expected to be over $500 million, of which c.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000095014226003018/0000950142-26-003018-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000095014226003018/eh260855086_6k.htm",
+   "filed_at": "2026-11-13T09:11:12-05:00",
+   "filed_kst": "2026-11-13 23:11",
+   "price": 10.93,
+   "change": -1.97,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 10.93,
+     "change": -1.97
+    },
+    {
+     "date": "2026-11-11",
+     "close": 11.15,
+     "change": 0.9
+    },
+    {
+     "date": "2026-11-10",
+     "close": 11.05,
+     "change": -2.3
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Jersey",
+   "hq": "LONDON",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-13T23:11:56+09:00"
+  },
+  {
+   "id": "0001104659-26-126580",
+   "company": "Graf Global Corp.",
+   "ticker": "TONT",
+   "cik": 1897463,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ": 001-42142 Date: November 12, 2026 On November 12, 2026, Business Wire published the following press release by BIG3 HoldCo LLC, in connection with the previously disclosed Business Combination Agreement, dated as of June 12, 2026, by and among Graf Global Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926126580/0001104659-26-126580-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926126580/tm2618324d34_425.htm",
+   "filed_at": "2026-11-13T09:10:15-05:00",
+   "filed_kst": "2026-11-13 23:10",
+   "price": 10.96,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 10.97,
+     "change": -0.05
+    },
+    {
+     "date": "2026-11-11",
+     "close": 10.97,
+     "change": -0.09
+    },
+    {
+     "date": "2026-11-10",
+     "close": 10.98,
+     "change": 0.18
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Amusement & Recreation Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "THE WOODLANDS, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T23:11:23+09:00"
+  },
   {
    "id": "0001104659-26-126578",
    "company": "Graf Global Corp.",
@@ -15733,118 +15834,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T22:16:01+09:00"
-  },
-  {
-   "id": "0001193125-26-454476",
-   "company": "Corbus Pharmaceuticals Holdings, Inc.",
-   "ticker": "CRBP",
-   "cik": 1595097,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 97,
-   "summary": "Food and Drug Administration (FDA) has granted Fast Track designations to sutantatug envedotin for the treatment of both cancer types.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1595097/000119312526454476/0001193125-26-454476-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1595097/000119312526454476/crbp-ex99_1.htm",
-   "filed_at": "2026-11-10T08:08:12-05:00",
-   "filed_kst": "2026-11-10 22:08",
-   "price": 3.52,
-   "change": 14.66,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 3.52,
-     "change": 14.66
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.07,
-     "change": 7.34
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.86,
-     "change": -19.89
-    }
-   ],
-   "market_cap": 68081351.0,
-   "shares_outstanding": 19341293.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NORWOOD, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T22:08:50+09:00"
-  },
-  {
-   "id": "0001140361-26-042898",
-   "company": "PDS Biotechnology Corp",
-   "ticker": "PDSB",
-   "cik": 1472091,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The Company intends to pursue strategic partnerships or other externally funded opportunities for the Phase 3 development of PDS0101.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126042898/0001140361-26-042898-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1472091/000114036126042898/ef20085268_ex99-1.htm",
-   "filed_at": "2026-11-10T08:05:36-05:00",
-   "filed_kst": "2026-11-10 22:05",
-   "price": 1.08,
-   "change": -12.2,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 1.08,
-     "change": -12.2
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.23,
-     "change": 5.13
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.17,
-     "change": -10.0
-    }
-   ],
-   "market_cap": 60449045.0,
-   "shares_outstanding": 55971338.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "PRINCETON, NJ",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T22:06:09+09:00"
   }
  ]
 }
