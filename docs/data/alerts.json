@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-11-13T19:59:31+09:00",
+ "updated_at": "2026-11-13T20:04:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-051508",
+   "company": "Almonty Industries Inc.",
+   "ticker": "ALM",
+   "cik": 1670061,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "● The Company commenced a share repurchase program (the “ Share Repurchase Program ”) on August 24, 2026 which will permit the purchase of up to 14,400,000 common shares for an aggregate purchase price of up to US$300,000 over a 36-month period ending August 24, 2029.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1670061/000149315226051508/0001493152-26-051508-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1670061/000149315226051508/ex99-2.htm",
+   "filed_at": "2026-11-12T19:23:17-05:00",
+   "filed_kst": "2026-11-13 09:23",
+   "price": 7.63,
+   "change": -6.5,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 7.63,
+     "change": -6.5
+    },
+    {
+     "date": "2026-11-11",
+     "close": 8.16,
+     "change": 0.25
+    },
+    {
+     "date": "2026-11-10",
+     "close": 8.14,
+     "change": -7.24
+    }
+   ],
+   "market_cap": 2004982620.0,
+   "shares_outstanding": 262776228.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "Canada (Federal Level)",
+   "hq": "DILLON, MT",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T20:04:41+09:00"
+  },
+  {
+   "id": "0001493152-26-051512",
+   "company": "SKYX Platforms Corp.",
+   "ticker": "SKYX",
+   "cik": 1598981,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "SKYX has signed a licensing agreement with lighting company Eurofase and plans to pursue additional licensing opportunities.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226051512/0001493152-26-051512-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1598981/000149315226051512/ex99-1.htm",
+   "filed_at": "2026-11-12T19:41:21-05:00",
+   "filed_kst": "2026-11-13 09:41",
+   "price": 0.69,
+   "change": -0.03,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 0.69,
+     "change": -0.03
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.69,
+     "change": -2.8
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.71,
+     "change": 2.88
+    }
+   ],
+   "market_cap": 111582205.0,
+   "shares_outstanding": 161713341.0,
+   "industry": "Electric Lighting & Wiring Equipment",
+   "state_of_incorporation": "FL",
+   "hq": "POMPANO BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T20:04:39+09:00"
+  },
+  {
+   "id": "0001292814-26-005289",
+   "company": "ECOPETROL S.A.",
+   "ticker": "EC",
+   "cik": 1444406,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 A NEW ECOPETROL Financial discipline • Energy security • Value creation “ I assume the responsibility of leading Ecopetrol at a pivotal moment for the company. We are embarking on a new phase focused on strengthening business competitiveness, restoring market confidence ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1444406/000129281426005289/0001292814-26-005289-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1444406/000129281426005289/ex99-1.htm",
+   "filed_at": "2026-11-12T18:14:43-05:00",
+   "filed_kst": "2026-11-13 08:14",
+   "price": 15.32,
+   "change": 0.13,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 15.32,
+     "change": 0.13
+    },
+    {
+     "date": "2026-11-11",
+     "close": 15.3,
+     "change": 0.26
+    },
+    {
+     "date": "2026-11-10",
+     "close": 15.26,
+     "change": -2.24
+    }
+   ],
+   "market_cap": 629907762651.0,
+   "shares_outstanding": 41116694690.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Colombia",
+   "hq": "BOGOTA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T20:03:00+09:00"
+  },
   {
    "id": "0001628280-26-073508",
    "company": "HOST HOTELS & RESORTS, INC.",
@@ -15706,169 +15861,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T21:25:56+09:00"
-  },
-  {
-   "id": "0001193125-26-454440",
-   "company": "COMMERCIAL METALS Co",
-   "ticker": "CMC",
-   "cik": 22444,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "in various leadership roles, including Senior Vice President, Finance & Corporate Development, Senior Vice President, American Eagle, President, Cargo Division and Vice President, Strategic Alliances.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/22444/000119312526454440/0001193125-26-454440-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/22444/000119312526454440/d175568dex991.htm",
-   "filed_at": "2026-11-10T07:24:04-05:00",
-   "filed_kst": "2026-11-10 21:24",
-   "price": 64.37,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 64.37,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 64.37,
-     "change": 3.36
-    },
-    {
-     "date": "2026-11-06",
-     "close": 62.28,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 7079276972.0,
-   "shares_outstanding": 109977893.0,
-   "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
-   "state_of_incorporation": "DE",
-   "hq": "IRVING, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T21:24:41+09:00"
-  },
-  {
-   "id": "0001193125-26-454423",
-   "company": "Scholar Rock Holding Corp",
-   "ticker": "SRRK",
-   "cik": 1727196,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 79,
-   "summary": "launch of ISEMBYLD™ (apitegromab-mstn), the first and only muscle-targeted therapy for children and adults living with spinal muscular atrophy (SMA), underway following September 11, 2026 FDA approval • ISEMBYLD shipped to specialty network prior to quarter-end, reflecting Q3 2026 ISEMBYLD revenue o",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1727196/000119312526454423/0001193125-26-454423-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1727196/000119312526454423/srrk-ex99_1.htm",
-   "filed_at": "2026-11-10T07:10:18-05:00",
-   "filed_kst": "2026-11-10 21:10",
-   "price": 51.55,
-   "change": 9.82,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 51.55,
-     "change": 9.82
-    },
-    {
-     "date": "2026-11-06",
-     "close": 46.94,
-     "change": 3.16
-    },
-    {
-     "date": "2026-11-05",
-     "close": 45.5,
-     "change": -1.28
-    }
-   ],
-   "market_cap": 6278031287.0,
-   "shares_outstanding": 121785282.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-10T21:11:04+09:00"
-  },
-  {
-   "id": "0001193125-26-454414",
-   "company": "Hemab Therapeutics Holdings, Inc.",
-   "ticker": "COAG",
-   "cik": 2114044,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 69,
-   "summary": "Sutacimig has received Fast Track, Orphan Drug, and Breakthrough Therapy Designations from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2114044/000119312526454414/0001193125-26-454414-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2114044/000119312526454414/d22670dex991.htm",
-   "filed_at": "2026-11-10T07:08:10-05:00",
-   "filed_kst": "2026-11-10 21:08",
-   "price": 42.81,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 42.81,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 42.81,
-     "change": -12.67
-    },
-    {
-     "date": "2026-11-06",
-     "close": 49.02,
-     "change": 7.57
-    }
-   ],
-   "market_cap": 1999745729.0,
-   "shares_outstanding": 46712117.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T21:08:48+09:00"
   }
  ]
 }
