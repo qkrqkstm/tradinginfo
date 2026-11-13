@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-14T07:04:53+09:00",
+ "updated_at": "2026-11-14T07:09:04+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-119857",
+   "company": "Health In Tech, Inc.",
+   "ticker": "HIT",
+   "cik": 2019505,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 61,
+   "summary": "During 2026, the Company has invested in expanding its distribution network, strengthening carrier and strategic partnerships, and advancing new technology and products.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026119857/0001213900-26-119857-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026119857/ea031199101ex99-1.htm",
+   "filed_at": "2026-11-13T17:05:58-05:00",
+   "filed_kst": "2026-11-14 07:05",
+   "price": 0.4,
+   "change": -26.07,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 0.4,
+     "change": -26.07
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.54,
+     "change": -4.46
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.56,
+     "change": -5.72
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Insurance Agents, Brokers & Service",
+   "state_of_incorporation": null,
+   "hq": "STUART, FL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-14T07:06:41+09:00"
+  },
   {
    "id": "0001829126-26-012414",
    "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
@@ -15762,61 +15817,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-11T06:07:37+09:00"
-  },
-  {
-   "id": "0002017526-26-000019",
-   "company": "Freenome, Inc.",
-   "ticker": "FRNM",
-   "cik": 2017526,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 97,
-   "summary": "5 million driven by the FDA approval of SimpleScreen™ CRC – – Entered the public market and raised gross proceeds of $310 million – BRISBANE, Calif.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2017526/000201752626000019/0002017526-26-000019-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2017526/000201752626000019/frnm-20260930xexx991.htm",
-   "filed_at": "2026-11-10T16:06:09-05:00",
-   "filed_kst": "2026-11-11 06:06",
-   "price": 10.77,
-   "change": 1.89,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 10.77,
-     "change": 1.89
-    },
-    {
-     "date": "2026-11-09",
-     "close": 10.57,
-     "change": 3.83
-    },
-    {
-     "date": "2026-11-06",
-     "close": 10.18,
-     "change": -2.77
-    }
-   ],
-   "market_cap": 95974162.0,
-   "shares_outstanding": 8911250.0,
-   "industry": "Services-Medical Laboratories",
-   "state_of_incorporation": "DE",
-   "hq": "BRISBANE, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:07:35+09:00"
   }
  ]
 }
