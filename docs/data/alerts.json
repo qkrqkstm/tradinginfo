@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-14T06:39:15+09:00",
+ "updated_at": "2026-11-14T06:44:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002065708-26-000012",
+   "company": "Andersen Group Inc.",
+   "ticker": "ANDG",
+   "cik": 2065708,
+   "form": "8-K",
+   "items": [
+    "3.02"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", and (ii) immediately following such purchase, Noda Servizi agreed to acquire a 33% equity interest in Andersen Legal & Tax Italia S.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2065708/000206570826000012/0002065708-26-000012-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2065708/000206570826000012/andg-20261002.htm",
+   "filed_at": "2026-11-13T16:44:05-05:00",
+   "filed_kst": "2026-11-14 06:44",
+   "price": 60.06,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 60.06,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 60.06,
+     "change": -8.19
+    },
+    {
+     "date": "2026-11-12",
+     "close": 65.42,
+     "change": -0.64
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-14T06:44:41+09:00"
+  },
   {
    "id": "0000887343-26-000194",
    "company": "COLUMBIA BANKING SYSTEM, INC.",
@@ -15764,59 +15818,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-11T06:05:36+09:00"
-  },
-  {
-   "id": "0001877939-26-000100",
-   "company": "Castellum, Inc.",
-   "ticker": "CTM",
-   "cik": 1877939,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "0 Million share repurchase program (the \"Repurchase Plan\") pursuant to which the Company may repurchase up to $6.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1877939/000187793926000100/0001877939-26-000100-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1877939/000187793926000100/ctm-20261109.htm",
-   "filed_at": "2026-11-10T16:04:30-05:00",
-   "filed_kst": "2026-11-11 06:04",
-   "price": 0.46,
-   "change": 0.03,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 0.46,
-     "change": 0.03
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.46,
-     "change": 23.69
-    },
-    {
-     "date": "2026-11-09",
-     "close": 0.38,
-     "change": -1.06
-    }
-   ],
-   "market_cap": 43710948.0,
-   "shares_outstanding": 95023801.0,
-   "industry": "Services-Management Consulting Services",
-   "state_of_incorporation": "NV",
-   "hq": "VIENNA, VA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:05:34+09:00"
   }
  ]
 }
