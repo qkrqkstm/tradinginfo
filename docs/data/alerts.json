@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-13T23:14:24+09:00",
+ "updated_at": "2026-11-13T23:19:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-051561",
+   "company": "FG Communities Holdings Inc.",
+   "ticker": "FGC",
+   "cik": 1591890,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 Exhibit 99.1 FG Communities Holdings Announces Third Quarter 2026 Financial Results and Provides Update on Execution of Real Estate Strategy Company Invests $10 Million in FG Communities, Inc., Completes First Two Direct Manufactured Housing Acquisitions and Ends Third Q",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1591890/000149315226051561/0001493152-26-051561-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1591890/000149315226051561/ex99-1.htm",
+   "filed_at": "2026-11-13T09:18:18-05:00",
+   "filed_kst": "2026-11-13 23:18",
+   "price": 6.09,
+   "change": -1.46,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 6.09,
+     "change": -1.46
+    },
+    {
+     "date": "2026-11-11",
+     "close": 6.18,
+     "change": 19.08
+    },
+    {
+     "date": "2026-11-10",
+     "close": 5.19,
+     "change": -10.98
+    }
+   ],
+   "market_cap": 27863577.0,
+   "shares_outstanding": 4575300.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": null,
+   "hq": "CHARLOTTE, NC",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T23:18:56+09:00"
+  },
   {
    "id": "0000950142-26-003018",
    "company": "Wise Group plc",
@@ -15779,61 +15833,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T22:22:03+09:00"
-  },
-  {
-   "id": "0001193125-26-454486",
-   "company": "ATOSSA THERAPEUTICS, INC.",
-   "ticker": "ATOS",
-   "cik": 1488039,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "“Our recently announced contingent value rights agreement entitles holders to share in 25% of the net proceeds, up to $50 million, from the sale of the first priority review voucher awarded to Atossa from its rare disease development programs.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1488039/000119312526454486/0001193125-26-454486-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1488039/000119312526454486/atos-ex99_1.htm",
-   "filed_at": "2026-11-10T08:15:13-05:00",
-   "filed_kst": "2026-11-10 22:15",
-   "price": 2.13,
-   "change": 0.47,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 2.13,
-     "change": 0.47
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.12,
-     "change": 4.95
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.02,
-     "change": -4.72
-    }
-   ],
-   "market_cap": 21255905.0,
-   "shares_outstanding": 9979298.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SEATTLE, WA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-10T22:16:01+09:00"
   }
  ]
 }
