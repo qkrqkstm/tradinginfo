@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-13T22:34:31+09:00",
+ "updated_at": "2026-11-13T22:39:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001438133-26-000148",
+   "company": "TANDEM DIABETES CARE INC",
+   "ticker": "TNDM",
+   "cik": 1438133,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "(the “Company”) received 510(k) clearance from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000148/0001438133-26-000148-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000148/tndm-20261112.htm",
+   "filed_at": "2026-11-13T08:35:29-05:00",
+   "filed_kst": "2026-11-13 22:35",
+   "price": 17.51,
+   "change": -6.71,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 17.51,
+     "change": -6.71
+    },
+    {
+     "date": "2026-11-11",
+     "close": 18.77,
+     "change": 0.32
+    },
+    {
+     "date": "2026-11-10",
+     "close": 18.71,
+     "change": 2.97
+    }
+   ],
+   "market_cap": 1222090243.0,
+   "shares_outstanding": 69793846.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "San Diego, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T22:36:02+09:00"
+  },
   {
    "id": "0001493152-26-051546",
    "company": "Biofrontera Inc.",
@@ -15800,56 +15852,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-10T22:01:27+09:00"
-  },
-  {
-   "id": "0001104659-26-124813",
-   "company": "MINISO Group Holding Ltd",
-   "ticker": "MNSO",
-   "cik": 1815846,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "We also FF305 Remarks: Repurchase of 100,000 ordinary shares on November 4, 2026 pursuant to a Hong Kong automatic share repurchase plan entered by the Company.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926124813/0001104659-26-124813-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926124813/tm2629327d1_ex99-1.htm",
-   "filed_at": "2026-11-10T08:00:13-05:00",
-   "filed_kst": "2026-11-10 22:00",
-   "price": 10.92,
-   "change": -1.09,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 10.92,
-     "change": -1.09
-    },
-    {
-     "date": "2026-11-06",
-     "close": 11.04,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 11.04,
-     "change": 5.95
-    }
-   ],
-   "market_cap": 13514200813.0,
-   "shares_outstanding": 1237564177.0,
-   "industry": "Retail-Variety Stores",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GUANGDONG PROVINCE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T22:00:50+09:00"
   }
  ]
 }
