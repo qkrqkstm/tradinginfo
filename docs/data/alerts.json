@@ -1,7 +1,169 @@
 {
- "updated_at": "2026-11-13T21:59:32+09:00",
+ "updated_at": "2026-11-13T22:04:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-459339",
+   "company": "Benitec Biopharma Inc.",
+   "ticker": "BNTC",
+   "cik": 1808898,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.03",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 60,
+   "summary": "BB-301 has received Orphan Drug Designation from the EMA and Orphan Drug and Fast Track Designations from the FDA and is currently being evaluated in a Phase 1b/2a, first-in-human, open-label dose escalation study to evaluate the safety and clinical activity of intramuscular dose",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526459339/0001193125-26-459339-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526459339/bntc-ex99_1.htm",
+   "filed_at": "2026-11-13T08:02:24-05:00",
+   "filed_kst": "2026-11-13 22:02",
+   "price": 9.09,
+   "change": -4.01,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 9.09,
+     "change": -4.01
+    },
+    {
+     "date": "2026-11-11",
+     "close": 9.47,
+     "change": 2.05
+    },
+    {
+     "date": "2026-11-10",
+     "close": 9.28,
+     "change": -5.98
+    }
+   ],
+   "market_cap": 317083979.0,
+   "shares_outstanding": 34882726.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "HAYWARD, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T22:03:16+09:00"
+  },
+  {
+   "id": "0001437749-26-036660",
+   "company": "Smartbird, Inc.",
+   "ticker": "BIRD",
+   "cik": 1653909,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "2 November 12, 2026 Smartbird Secures Data Center Capacity to Accelerate Deployment of AI Infrastructure Multi-year colocation agreement with Expedient secures nearly 4 megawatts of data center capacity to support planned infrastructure deployments in the first half of 2027 PALO ALTO, Calif.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1653909/000143774926036660/0001437749-26-036660-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1653909/000143774926036660/bird20261109_8k.htm",
+   "filed_at": "2026-11-13T08:01:09-05:00",
+   "filed_kst": "2026-11-13 22:01",
+   "price": 1.11,
+   "change": -11.9,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 1.11,
+     "change": -11.9
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1.26,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.26,
+     "change": -6.67
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": null,
+   "hq": "PALO ALTO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T22:02:02+09:00"
+  },
+  {
+   "id": "0001193125-26-459325",
+   "company": "AUTOLIV INC",
+   "ticker": "ALV",
+   "cik": 1034670,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 78,
+   "summary": "“We remain focused on creating enduring long-term value for our shareholders through our share repurchase program, our competitive dividends, and by producing best in class automotive safety systems that save lives worldwide, every day.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526459325/0001193125-26-459325-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526459325/alv-ex99_2.htm",
+   "filed_at": "2026-11-13T08:00:15-05:00",
+   "filed_kst": "2026-11-13 22:00",
+   "price": 118.86,
+   "change": -2.07,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 118.86,
+     "change": -2.07
+    },
+    {
+     "date": "2026-11-11",
+     "close": 121.37,
+     "change": 0.36
+    },
+    {
+     "date": "2026-11-10",
+     "close": 120.93,
+     "change": -2.73
+    }
+   ],
+   "market_cap": 8558715768.0,
+   "shares_outstanding": 72006695.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "OGDEN, UT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-13T22:00:48+09:00"
+  },
   {
    "id": "0001104659-26-126519",
    "company": "Milestone Pharmaceuticals Inc.",
@@ -15688,164 +15850,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-10T22:00:47+09:00"
-  },
-  {
-   "id": "0001104659-26-124805",
-   "company": "Canaan Inc.",
-   "ticker": "CAN",
-   "cik": 1780652,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 76,
-   "summary": "4 million Announced new US$20 million share repurchase program under US$100 million board authorization Singapore, November 10, 2026 /PRNewswire/ -- Canaan Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1780652/000110465926124805/0001104659-26-124805-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1780652/000110465926124805/tm2629460d1_ex99-1.htm",
-   "filed_at": "2026-11-10T07:48:19-05:00",
-   "filed_kst": "2026-11-10 21:48",
-   "price": 0.2,
-   "change": 0.05,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 0.2,
-     "change": 0.05
-    },
-    {
-     "date": "2026-11-09",
-     "close": 0.2,
-     "change": 8.6
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.19,
-     "change": 2.76
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Finance Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SINGAPORE, U0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-10T21:49:08+09:00"
-  },
-  {
-   "id": "0001759425-26-000064",
-   "company": "Mirum Pharmaceuticals, Inc.",
-   "ticker": "MIRM",
-   "cik": 1759425,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 68,
-   "summary": "Phase 3 AZURE-4 Results: Brelovitug Met the Primary Endpoint at Week 24 The AZURE-4 study enrolled 113 treatment-naïve patients randomized 2:1:1 to receive brelovitug 300 mg self-administered once weekly (“QW”) by subcutaneous (“SC”) injection, brelovitug 90",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000064/0001759425-26-000064-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000064/mirm-20261110.htm",
-   "filed_at": "2026-11-10T07:41:28-05:00",
-   "filed_kst": "2026-11-10 21:41",
-   "price": 93.18,
-   "change": -0.58,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 93.18,
-     "change": -0.58
-    },
-    {
-     "date": "2026-11-06",
-     "close": 93.72,
-     "change": 0.19
-    },
-    {
-     "date": "2026-11-05",
-     "close": 93.54,
-     "change": -3.54
-    }
-   ],
-   "market_cap": 6082980860.0,
-   "shares_outstanding": 65282044.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "FOSTER CITY, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T21:42:03+09:00"
-  },
-  {
-   "id": "0001104659-26-124800",
-   "company": "Vireo Growth Inc.",
-   "ticker": "VREOF",
-   "cik": 1771706,
-   "form": "425",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 88,
-   "summary": "EX-99.1 2 vreof-ex99d1.htm EX-99.1 Exhibit 99.1 Vireo Growth Inc. Announces Third Quarter 2026 Results Q3 GAAP revenue of $253.7 million increased 177% year-over-year, driven by recently closed M&A transactions. Q3 proforma revenue of $277.0 million, gives effect to the acquisitions of C21 Investmen",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926124800/0001104659-26-124800-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926124800/vreof-ex99d1.htm",
-   "filed_at": "2026-11-10T07:35:51-05:00",
-   "filed_kst": "2026-11-10 21:35",
-   "price": 6.78,
-   "change": 3.83,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 6.78,
-     "change": 3.83
-    },
-    {
-     "date": "2026-11-06",
-     "close": 6.53,
-     "change": -2.25
-    },
-    {
-     "date": "2026-11-05",
-     "close": 6.68,
-     "change": -8.37
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "MINNEAPOLIS, MN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T21:36:34+09:00"
   }
  ]
 }
