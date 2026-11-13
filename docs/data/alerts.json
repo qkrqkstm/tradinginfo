@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-14T00:09:10+09:00",
+ "updated_at": "2026-11-14T00:14:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-073616",
+   "company": "Valneva SE",
+   "ticker": "VALN",
+   "cik": 1836564,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 88,
+   "summary": "Food and Drug Administration (FDA) granted Fast Track designation to S4V2 in 2024 2 , recognizing its potential to address a serious condition and fill an unmet medical need .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1836564/000162828026073616/0001628280-26-073616-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1836564/000162828026073616/a2026_11x10xixchiqx5yxpers.htm",
+   "filed_at": "2026-11-13T10:09:11-05:00",
+   "filed_kst": "2026-11-14 00:09",
+   "price": 5.84,
+   "change": 1.39,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 5.84,
+     "change": 1.39
+    },
+    {
+     "date": "2026-11-12",
+     "close": 5.76,
+     "change": -2.7
+    },
+    {
+     "date": "2026-11-11",
+     "close": 5.92,
+     "change": 0.85
+    }
+   ],
+   "market_cap": 1013472111.0,
+   "shares_outstanding": 173539745.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "France",
+   "hq": "SAINT-HERBLAIN, I0",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-14T00:10:38+09:00"
+  },
   {
    "id": "0001193125-26-459503",
    "company": "Utz Brands, Inc.",
@@ -15786,57 +15837,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T22:41:04+09:00"
-  },
-  {
-   "id": "0001213900-26-117794",
-   "company": "Turbo Energy, S.A.",
-   "ticker": "TURB",
-   "cik": 1963439,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The expansion builds on the approximately $53 million contract announced in September 2025 for 366 MWh of storage capacity across 10 factories.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1963439/000121390026117794/0001213900-26-117794-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1963439/000121390026117794/ea031164901ex99-1.htm",
-   "filed_at": "2026-11-10T08:33:26-05:00",
-   "filed_kst": "2026-11-10 22:33",
-   "price": 0.85,
-   "change": 0.02,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 0.85,
-     "change": 0.02
-    },
-    {
-     "date": "2026-11-09",
-     "close": 0.85,
-     "change": 4.93
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.81,
-     "change": 1.37
-    }
-   ],
-   "market_cap": 46822845.0,
-   "shares_outstanding": 55085700.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "Spain",
-   "hq": "VALENCIA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T22:34:18+09:00"
   }
  ]
 }
