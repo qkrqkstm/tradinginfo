@@ -1,7 +1,149 @@
 {
- "updated_at": "2026-11-14T06:24:10+09:00",
+ "updated_at": "2026-11-14T06:29:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001317861-26-000056",
+   "company": "SAFE BULKERS, INC.",
+   "ticker": "SB",
+   "cik": 1434754,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "com/sustainability2025 Common Stock Repurchase Program In December 2025, the Company authorized a program under which it might from time to time in the future purchase up to 10,000,000 shares of the Company’s common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1434754/000131786126000056/0001317861-26-000056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1434754/000131786126000056/f111326sb6k.htm",
+   "filed_at": "2026-11-13T16:28:17-05:00",
+   "filed_kst": "2026-11-14 06:28",
+   "price": 8.29,
+   "change": 2.22,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 8.29,
+     "change": 2.22
+    },
+    {
+     "date": "2026-11-12",
+     "close": 8.11,
+     "change": 3.44
+    },
+    {
+     "date": "2026-11-11",
+     "close": 7.84,
+     "change": 3.43
+    }
+   ],
+   "market_cap": 853917651.0,
+   "shares_outstanding": 103005748.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": null,
+   "hq": "MONACO, O9",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-14T06:28:41+09:00"
+  },
+  {
+   "id": "0001628280-26-073863",
+   "company": "Ares Real Estate Income Trust Inc.",
+   "ticker": "ZARE",
+   "cik": 1327978,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 are-20261031ex991.htm EX-99.1 Document Exhibit 99.1 CONSENT OF INDEPENDENT VALUATION ADVISOR We hereby consent to the references to our name and the description of our role in the valuation process described under the heading “October 31, 2026 NAV Per Share” in the Current Report on Form 8",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327978/000162828026073863/0001628280-26-073863-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1327978/000162828026073863/are-20261031ex991.htm",
+   "filed_at": "2026-11-13T16:25:53-05:00",
+   "filed_kst": "2026-11-14 06:25",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": 182786610.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "DENVER, CO",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-14T06:26:47+09:00"
+  },
+  {
+   "id": "0001628280-26-073860",
+   "company": "Bowhead Specialty Holdings Inc.",
+   "ticker": "BOW",
+   "cik": 2002473,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "5.07"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "The proposal to approve and adopt the Agreement and Plan of Merger, dated as of August 2, 2026 (as amended, supplemented or otherwise modified from time to time), by and among American Family Mutual Insurance Company, S.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2002473/000162828026073860/0001628280-26-073860-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2002473/000162828026073860/bow-20261113.htm",
+   "filed_at": "2026-11-13T16:24:03-05:00",
+   "filed_kst": "2026-11-14 06:24",
+   "price": 34.13,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 34.13,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 34.13,
+     "change": 0.29
+    },
+    {
+     "date": "2026-11-12",
+     "close": 34.03,
+     "change": -0.38
+    }
+   ],
+   "market_cap": 1124418243.0,
+   "shares_outstanding": 32945158.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-14T06:25:37+09:00"
+  },
   {
    "id": "0001628280-26-073844",
    "company": "Better Home & Finance Holding Co",
@@ -15681,159 +15823,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-11T06:02:53+09:00"
-  },
-  {
-   "id": "0001493152-26-050954",
-   "company": "Rail Vision Ltd.",
-   "ticker": "RVSN",
-   "cik": 1743905,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "1 Rail Vision Successfully Completes U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1743905/000149315226050954/0001493152-26-050954-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1743905/000149315226050954/ex99-1.htm",
-   "filed_at": "2026-11-10T16:01:02-05:00",
-   "filed_kst": "2026-11-11 06:01",
-   "price": 2.51,
-   "change": -11.68,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 2.51,
-     "change": -11.68
-    },
-    {
-     "date": "2026-11-09",
-     "close": 2.84,
-     "change": 2.23
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.78,
-     "change": 6.11
-    }
-   ],
-   "market_cap": 5502387.0,
-   "shares_outstanding": 2192186.0,
-   "industry": "Railroad Equipment",
-   "state_of_incorporation": "Israel",
-   "hq": "RA'ANANA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:02:11+09:00"
-  },
-  {
-   "id": "0001171843-26-007332",
-   "company": "Brainsway Ltd.",
-   "ticker": "BWAY",
-   "cik": 1505065,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "10 Investor Deck | November 2026 Strategic Partnership With Valor Equity Partners 11 Investor Deck | November 2026 Valor, a leading $20B equity firm behind market leaders, is now BrainsWay’s largest investor and an active partner in our scale strategy S T R A T E G I C I N V E S T M E N T S",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326007332/0001171843-26-007332-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1505065/000117184326007332/exh_991.htm",
-   "filed_at": "2026-11-10T16:01:09-05:00",
-   "filed_kst": "2026-11-11 06:01",
-   "price": 10.67,
-   "change": -8.33,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 10.67,
-     "change": -8.33
-    },
-    {
-     "date": "2026-11-09",
-     "close": 11.64,
-     "change": 4.39
-    },
-    {
-     "date": "2026-11-06",
-     "close": 11.15,
-     "change": 5.09
-    }
-   ],
-   "market_cap": 417899150.0,
-   "shares_outstanding": 39165806.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "Israel",
-   "hq": "Jerusalem, L3",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-11T06:02:06+09:00"
-  },
-  {
-   "id": "0001193125-26-455339",
-   "company": "EXICURE, INC.",
-   "ticker": "XCUR",
-   "cik": 1698530,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "(“GPCRT”), a company organized under the laws of the Republic of Korea, under which GPCRT has agreed to acquire the Company’s GPC-100 (burixafor) program assets for an aggregate cash purchase price of KRW 6.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1698530/000119312526455339/0001193125-26-455339-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1698530/000119312526455339/xcur-ex99_1.htm",
-   "filed_at": "2026-11-10T15:50:16-05:00",
-   "filed_kst": "2026-11-11 05:50",
-   "price": 1.14,
-   "change": 27.53,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 1.13,
-     "change": 27.53
-    },
-    {
-     "date": "2026-11-09",
-     "close": 0.89,
-     "change": -6.32
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.95,
-     "change": 6.74
-    }
-   ],
-   "market_cap": 7462434.0,
-   "shares_outstanding": 6545995.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T05:51:17+09:00"
   }
  ]
 }
