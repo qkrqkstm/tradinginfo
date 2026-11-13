@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-13T23:04:50+09:00",
+ "updated_at": "2026-11-13T23:09:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-126578",
+   "company": "Graf Global Corp.",
+   "ticker": "TONT",
+   "cik": 1897463,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ": 001-42142 Date: November 12, 2026 On November 12, 2026, Business Wire published the following press release by BIG3 HoldCo LLC, in connection with the previously disclosed Business Combination Agreement, dated as of June 12, 2026, by and among Graf Global Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926126578/0001104659-26-126578-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926126578/tm2618324d33_425.htm",
+   "filed_at": "2026-11-13T09:09:06-05:00",
+   "filed_kst": "2026-11-13 23:09",
+   "price": 10.96,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 10.97,
+     "change": -0.05
+    },
+    {
+     "date": "2026-11-11",
+     "close": 10.97,
+     "change": -0.09
+    },
+    {
+     "date": "2026-11-10",
+     "close": 10.98,
+     "change": 0.18
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Amusement & Recreation Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "THE WOODLANDS, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-13T23:09:30+09:00"
+  },
   {
    "id": "0001213900-26-119252",
    "company": "SS Innovations International, Inc.",
@@ -15795,59 +15845,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T22:06:09+09:00"
-  },
-  {
-   "id": "0001193125-26-454474",
-   "company": "Tyra Biosciences, Inc.",
-   "ticker": "TYRA",
-   "cik": 1863127,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The FDA has granted Orphan Drug Designation and Rare Pediatric Disease Designation to oral dabogratinib for the treatment of achondroplasia.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1863127/000119312526454474/0001193125-26-454474-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1863127/000119312526454474/tyra-ex99_1.htm",
-   "filed_at": "2026-11-10T08:03:06-05:00",
-   "filed_kst": "2026-11-10 22:03",
-   "price": 22.3,
-   "change": 5.44,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 22.3,
-     "change": 5.44
-    },
-    {
-     "date": "2026-11-06",
-     "close": 21.15,
-     "change": 1.24
-    },
-    {
-     "date": "2026-11-05",
-     "close": 20.89,
-     "change": -2.95
-    }
-   ],
-   "market_cap": 1330795740.0,
-   "shares_outstanding": 59676939.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CARLSBAD, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T22:03:34+09:00"
   }
  ]
 }
