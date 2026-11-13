@@ -1,7 +1,321 @@
 {
- "updated_at": "2026-11-14T06:04:49+09:00",
+ "updated_at": "2026-11-14T06:09:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-073824",
+   "company": "Vistagen Therapeutics, Inc.",
+   "ticker": "VTGN",
+   "cik": 1411685,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "• PALISADE-4 Phase 3 Study OLE: Announced preliminary positive data from the open-label extension (OLE) portion of PALISADE-4, the Company’s Phase 3 study of fasedienol for the acute treatment of social anxiety disorder.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026073824/0001628280-26-073824-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026073824/vtgn-20261112xex991.htm",
+   "filed_at": "2026-11-13T16:08:48-05:00",
+   "filed_kst": "2026-11-14 06:08",
+   "price": 0.18,
+   "change": 0.28,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 0.18,
+     "change": 0.28
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.18,
+     "change": -5.26
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.19,
+     "change": 5.56
+    }
+   ],
+   "market_cap": 7987844.0,
+   "shares_outstanding": 44376911.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "SOUTH SAN FRANCISCO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-14T06:09:34+09:00"
+  },
+  {
+   "id": "0001104659-26-127049",
+   "company": "BWX Technologies, Inc.",
+   "ticker": "BWXT",
+   "cik": 1486957,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "Notwithstanding the foregoing, Notes that are to be acquired by the Company, any Subsidiary of the Company or an Affiliate of the Company pursuant to an exchange offer, tender offer or other similar agreement shall not be deemed to be owned by the Company, a Subsidiary of the Company or an Affiliate",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1486957/000110465926127049/0001104659-26-127049-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1486957/000110465926127049/tm2629729d1_ex99-1.htm",
+   "filed_at": "2026-11-13T16:06:37-05:00",
+   "filed_kst": "2026-11-14 06:06",
+   "price": 122.95,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 122.95,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 122.95,
+     "change": -0.84
+    },
+    {
+     "date": "2026-11-12",
+     "close": 123.99,
+     "change": -1.34
+    }
+   ],
+   "market_cap": 11265317971.0,
+   "shares_outstanding": 91625197.0,
+   "industry": "Engines & Turbines",
+   "state_of_incorporation": "DE",
+   "hq": "LYNCHBURG, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-14T06:08:16+09:00"
+  },
+  {
+   "id": "0001213900-26-119686",
+   "company": "Bluejay Diagnostics, Inc.",
+   "ticker": "BJDX",
+   "cik": 1704287,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "The Symphony ™ IL-6 Test has not been cleared or approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1704287/000121390026119686/0001213900-26-119686-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1704287/000121390026119686/ea031216401ex99-1.htm",
+   "filed_at": "2026-11-13T16:05:51-05:00",
+   "filed_kst": "2026-11-14 06:05",
+   "price": 2.61,
+   "change": 0.19,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 2.61,
+     "change": 0.19
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.61,
+     "change": -6.96
+    },
+    {
+     "date": "2026-11-11",
+     "close": 2.8,
+     "change": -0.36
+    }
+   ],
+   "market_cap": 2915393.0,
+   "shares_outstanding": 1117009.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "ACTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-14T06:07:32+09:00"
+  },
+  {
+   "id": "0001185185-26-005385",
+   "company": "AGM GROUP HOLDINGS, INC.",
+   "ticker": "AGMH",
+   "cik": 1705402,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) completed the purchase and subsequent cancellation of 1,200,000 class B ordinary shares of the Company, par value US$0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1705402/000118518526005385/0001185185-26-005385-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1705402/000118518526005385/agmh6k111226.htm",
+   "filed_at": "2026-11-13T16:05:31-05:00",
+   "filed_kst": "2026-11-14 06:05",
+   "price": 0.45,
+   "change": 1.74,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 0.45,
+     "change": 1.74
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.44,
+     "change": -2.23
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.45,
+     "change": 14.87
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming Services",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "WANCHAI",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-14T06:06:42+09:00"
+  },
+  {
+   "id": "0001193125-26-460588",
+   "company": "TRex Bio, Inc.",
+   "ticker": "TRXB",
+   "cik": 2139097,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "” Recent Business and Corporate Highlights TRB-061: TNFR2 Agonist in Phase 1 Clinical Development for Atopic Dermatitis • Reported positive Phase 1a topline results supporting proof of mechanism: In August 2026, TRexBio announced positive topline results from the Phase 1a portion of its ongoing Phas",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2139097/000119312526460588/0001193125-26-460588-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2139097/000119312526460588/ck0002139097-ex99_1.htm",
+   "filed_at": "2026-11-13T16:04:30-05:00",
+   "filed_kst": "2026-11-14 06:04",
+   "price": 13.67,
+   "change": -3.05,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 13.67,
+     "change": -3.05
+    },
+    {
+     "date": "2026-11-12",
+     "close": 14.1,
+     "change": -1.05
+    },
+    {
+     "date": "2026-11-11",
+     "close": 14.25,
+     "change": 8.53
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "SOUTH SAN FRANCISCO, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-14T06:05:31+09:00"
+  },
+  {
+   "id": "0001193125-26-460589",
+   "company": "WORTHINGTON ENTERPRISES, INC.",
+   "ticker": "WOR",
+   "cik": 108516,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "On a trailing 12-month basis, our wholly owned businesses generated $892 million in sales while the segment generated $240 million of adjusted EBITDA, which includes contributions from our joint ventures.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526460589/0001193125-26-460589-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526460589/wor-ex99_1.htm",
+   "filed_at": "2026-11-13T16:04:33-05:00",
+   "filed_kst": "2026-11-14 06:04",
+   "price": 59.5,
+   "change": 2.23,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 59.5,
+     "change": 2.23
+    },
+    {
+     "date": "2026-11-12",
+     "close": 58.2,
+     "change": 0.21
+    },
+    {
+     "date": "2026-11-11",
+     "close": 58.08,
+     "change": -3.79
+    }
+   ],
+   "market_cap": 2930952745.0,
+   "shares_outstanding": 49259710.0,
+   "industry": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
+   "state_of_incorporation": "OH",
+   "hq": "COLUMBUS, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-14T06:05:29+09:00"
+  },
   {
    "id": "0001140361-26-043739",
    "company": "Maplebear Inc.",
@@ -15517,315 +15831,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-11T03:38:32+09:00"
-  },
-  {
-   "id": "0001104659-26-125039",
-   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
-   "ticker": "BBVA",
-   "cik": 842180,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 tm2628285d2_6k.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of November, 2026 Commission file number: 1-10110 BANCO BILBAO VIZCAYA",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926125039/0001104659-26-125039-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926125039/tm2628285d2_6k.htm",
-   "filed_at": "2026-11-10T13:23:47-05:00",
-   "filed_kst": "2026-11-11 03:23",
-   "price": 26.35,
-   "change": -0.34,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 26.35,
-     "change": -0.34
-    },
-    {
-     "date": "2026-11-09",
-     "close": 26.44,
-     "change": 5.55
-    },
-    {
-     "date": "2026-11-06",
-     "close": 25.05,
-     "change": -1.96
-    }
-   ],
-   "market_cap": 150431325245.0,
-   "shares_outstanding": 5708968700.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": null,
-   "hq": "MADRID, U3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T03:24:12+09:00"
-  },
-  {
-   "id": "0001654954-26-009651",
-   "company": "HSBC HOLDINGS PLC",
-   "ticker": "HSBC",
-   "cik": 1089113,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009651/0001654954-26-009651-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009651/a6200c.htm",
-   "filed_at": "2026-11-10T13:19:26-05:00",
-   "filed_kst": "2026-11-11 03:19",
-   "price": 89.73,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 89.73,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 89.73,
-     "change": -0.54
-    },
-    {
-     "date": "2026-11-09",
-     "close": 90.22,
-     "change": 3.63
-    }
-   ],
-   "market_cap": 1541134272817.0,
-   "shares_outstanding": 17175239862.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T03:20:35+09:00"
-  },
-  {
-   "id": "0001193125-26-454958",
-   "company": "EMERA INC",
-   "ticker": "EMA",
-   "cik": 1127248,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.2 3 d168416dex992.htm EX-99.2 EX-99.2 Exhibit 99.2 EMERA INCORPORATED Unaudited Condensed Consolidated Interim Financial Statements September 30, 2026 and 2025 1 Emera Incorporated Condensed Consolidated Statements of Income (Unaudited) Three months ended Nine months ended For the September 30",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1127248/000119312526454958/0001193125-26-454958-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1127248/000119312526454958/d168416dex992.htm",
-   "filed_at": "2026-11-10T12:36:43-05:00",
-   "filed_kst": "2026-11-11 02:36",
-   "price": 51.19,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 51.19,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 51.19,
-     "change": 1.16
-    },
-    {
-     "date": "2026-11-09",
-     "close": 50.6,
-     "change": -0.18
-    }
-   ],
-   "market_cap": 6293810500.0,
-   "shares_outstanding": 122950000.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": null,
-   "hq": "HALIFAX, A5",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-11T02:37:36+09:00"
-  },
-  {
-   "id": "0001493152-26-050909",
-   "company": "AMERICAN REBEL HOLDINGS INC",
-   "ticker": "AREB",
-   "cik": 1648087,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "3.02",
-    "5.03",
-    "8.01"
-   ],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "On the Issuance Date, the Preferred Shares will be cancelled and all obligations of Company under the Preferred Shares shall be deemed fulfilled.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226050909/0001493152-26-050909-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226050909/form8-k.htm",
-   "filed_at": "2026-11-10T11:43:58-05:00",
-   "filed_kst": "2026-11-11 01:43",
-   "price": 0.04,
-   "change": -1.13,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 0.04,
-     "change": -1.13
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.04,
-     "change": -13.66
-    },
-    {
-     "date": "2026-11-09",
-     "close": 0.04,
-     "change": 5.13
-    }
-   ],
-   "market_cap": 1139594.0,
-   "shares_outstanding": 28489850.0,
-   "industry": "Miscellaneous Fabricated Metal Products",
-   "state_of_incorporation": "NV",
-   "hq": "NASHVILLE, TN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T01:44:39+09:00"
-  },
-  {
-   "id": "0001243429-26-000105",
-   "company": "ArcelorMittal",
-   "ticker": "MT",
-   "cik": 1243429,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "It is the largest steel producer in Europe, among the largest in the Americas, and has a growing presence in Asia through its joint venture AM/NS India.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1243429/000124342926000105/0001243429-26-000105-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1243429/000124342926000105/exhibit991111026.htm",
-   "filed_at": "2026-11-10T11:36:41-05:00",
-   "filed_kst": "2026-11-11 01:36",
-   "price": 65.11,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 65.11,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 65.11,
-     "change": 1.38
-    },
-    {
-     "date": "2026-11-09",
-     "close": 64.22,
-     "change": 5.31
-    }
-   ],
-   "market_cap": 49556902075.0,
-   "shares_outstanding": 761125819.0,
-   "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
-   "state_of_incorporation": null,
-   "hq": "GRAND DUCHY OF LUXEMBOURG, N4",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T01:37:29+09:00"
-  },
-  {
-   "id": "0001654954-26-009641",
-   "company": "VODAFONE GROUP PUBLIC LTD CO",
-   "ticker": "VOD",
-   "cik": 839923,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "Africa On 30 June 2026, we announced that Vodacom Group Ltd (‘Vodacom’) had completed the acquisition of an effective 20% of the issued share capital in Safaricom PLC (‘Safaricom’), increasing its shareholding to 55%.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/839923/000165495426009641/0001654954-26-009641-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/839923/000165495426009641/a4345c.htm",
-   "filed_at": "2026-11-10T10:08:23-05:00",
-   "filed_kst": "2026-11-11 00:08",
-   "price": 15.63,
-   "change": -0.38,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 15.63,
-     "change": -0.38
-    },
-    {
-     "date": "2026-11-09",
-     "close": 15.69,
-     "change": 0.71
-    },
-    {
-     "date": "2026-11-06",
-     "close": 15.58,
-     "change": -2.32
-    }
-   ],
-   "market_cap": 450407143210.0,
-   "shares_outstanding": 28816835778.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": null,
-   "hq": "NEWBURY, BERKSHIRE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T00:09:14+09:00"
   }
  ]
 }
