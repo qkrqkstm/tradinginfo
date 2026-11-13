@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-14T01:54:35+09:00",
+ "updated_at": "2026-11-14T01:59:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-051601",
+   "company": "DYADIC INTERNATIONAL INC",
+   "ticker": "DYAI",
+   "cik": 1213809,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "1 DYADIC ANNOUNCES THIRD QUARTER 2026 FINANCIAL RESULTS AND RECENT DEVELOPMENTS Advances Commercialization, Expands Strategic Partnerships and Accelerates Biopharmaceutical Platform Validation Dyadic to host earnings call on November 12, 2026, at 5:00 p.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051601/0001493152-26-051601-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051601/ex99-1.htm",
+   "filed_at": "2026-11-13T11:57:16-05:00",
+   "filed_kst": "2026-11-14 01:57",
+   "price": 0.33,
+   "change": -5.26,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 0.33,
+     "change": -5.26
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.35,
+     "change": -10.26
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.39,
+     "change": 5.41
+    }
+   ],
+   "market_cap": 12024772.0,
+   "shares_outstanding": 36438703.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "JUPITER, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-14T01:57:44+09:00"
+  },
   {
    "id": "0001628280-26-073616",
    "company": "Valneva SE",
@@ -15784,59 +15838,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T22:44:41+09:00"
-  },
-  {
-   "id": "0001493152-26-050882",
-   "company": "Azitra, Inc.",
-   "ticker": "AZTR",
-   "cik": 1701478,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Azitra has received Fast Track designation from the FDA for cancer treatment-associated rash, which impacts up to 300,000 people in the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1701478/000149315226050882/0001493152-26-050882-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701478/000149315226050882/ex99-1.htm",
-   "filed_at": "2026-11-10T08:40:22-05:00",
-   "filed_kst": "2026-11-10 22:40",
-   "price": 0.64,
-   "change": -12.14,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 0.64,
-     "change": -12.14
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.73,
-     "change": 1.1
-    },
-    {
-     "date": "2026-11-05",
-     "close": 0.73,
-     "change": -11.15
-    }
-   ],
-   "market_cap": 38786395.0,
-   "shares_outstanding": 60603742.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BRANFORD, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T22:41:04+09:00"
   }
  ]
 }
