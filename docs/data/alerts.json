@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-13T22:04:51+09:00",
+ "updated_at": "2026-11-13T22:09:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-126525",
+   "company": "Fortress Biotech, Inc.",
+   "ticker": "FBIO",
+   "cik": 1429260,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "파트너십",
+    "탑라인결과"
+   ],
+   "confidence": 66,
+   "summary": "FB-607 is currently being studied in a randomized, placebo-controlled, Phase 2 trial for IBS-D and we expect to release top-line data in the second half of 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1429260/000110465926126525/0001104659-26-126525-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1429260/000110465926126525/fbio-ex99d1.htm",
+   "filed_at": "2026-11-13T08:05:17-05:00",
+   "filed_kst": "2026-11-13 22:05",
+   "price": 1.99,
+   "change": -1.0,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 1.99,
+     "change": -1.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 2.01,
+     "change": 5.24
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.91,
+     "change": -4.02
+    }
+   ],
+   "market_cap": 164123513.0,
+   "shares_outstanding": 82474127.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BAY HARBOR ISLANDS, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T22:06:08+09:00"
+  },
   {
    "id": "0001193125-26-459339",
    "company": "Benitec Biopharma Inc.",
@@ -15797,59 +15852,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-10T22:00:49+09:00"
-  },
-  {
-   "id": "0001493152-26-050865",
-   "company": "AST SpaceMobile, Inc.",
-   "ticker": "ASTS",
-   "cik": 1780312,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "1 Rakuten and AST SpaceMobile Establish “Rakuten AST” Joint Venture to Build D2D Satellite Communications Network in Japan - Approximately USD 1 billion in funding awarded from Japan’s MIC to support deployment of Japanese-flagged mid-band satellite constellation - Rakuten and AST SpaceMobile to bui",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226050865/0001493152-26-050865-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226050865/ex99-1.htm",
-   "filed_at": "2026-11-10T08:00:15-05:00",
-   "filed_kst": "2026-11-10 22:00",
-   "price": 36.89,
-   "change": 14.1,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 36.89,
-     "change": 14.1
-    },
-    {
-     "date": "2026-11-06",
-     "close": 32.33,
-     "change": 7.05
-    },
-    {
-     "date": "2026-11-05",
-     "close": 30.2,
-     "change": -15.22
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Communications Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "MIDLAND, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-10T22:00:47+09:00"
   }
  ]
 }
