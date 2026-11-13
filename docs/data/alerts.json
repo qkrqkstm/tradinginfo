@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-13T23:19:30+09:00",
+ "updated_at": "2026-11-13T23:24:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-008655",
+   "company": "ACCESS Newswire Inc.",
+   "ticker": "ACCS",
+   "cik": 843006,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "(NYSE American : ACCS), a leading business communications company, today announced that its Board of Directors has approved an additional share repurchase program up to $250,000 of its common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/843006/000168316826008655/0001683168-26-008655-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/843006/000168316826008655/access_ex9901.htm",
+   "filed_at": "2026-11-13T09:19:47-05:00",
+   "filed_kst": "2026-11-13 23:19",
+   "price": 3.49,
+   "change": 4.18,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 3.49,
+     "change": 4.18
+    },
+    {
+     "date": "2026-11-11",
+     "close": 3.35,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "close": 3.35,
+     "change": -0.59
+    }
+   ],
+   "market_cap": 13155482.0,
+   "shares_outstanding": 3769479.0,
+   "industry": "Services-Management Consulting Services",
+   "state_of_incorporation": null,
+   "hq": "RALEIGH, NC",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T23:20:36+09:00"
+  },
   {
    "id": "0001493152-26-051561",
    "company": "FG Communities Holdings Inc.",
@@ -15783,56 +15837,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-10T22:23:37+09:00"
-  },
-  {
-   "id": "0001104659-26-124829",
-   "company": "MAXCYTE, INC.",
-   "ticker": "MXCT",
-   "cik": 1287098,
-   "form": "8-K",
-   "items": [],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "0 million of SPL Program-related revenue · Raises Full Year 2026 Total Revenue Guidance to at least $34.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1287098/000110465926124829/0001104659-26-124829-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1287098/000110465926124829/tm2629420d1_ex99-1.htm",
-   "filed_at": "2026-11-10T08:21:10-05:00",
-   "filed_kst": "2026-11-10 22:21",
-   "price": 1.3,
-   "change": 3.17,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 1.3,
-     "change": 3.17
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.26,
-     "change": -3.82
-    },
-    {
-     "date": "2026-11-05",
-     "close": 1.31,
-     "change": -5.76
-    }
-   ],
-   "market_cap": 134168068.0,
-   "shares_outstanding": 103206206.0,
-   "industry": "Services-Commercial Physical & Biological Research",
-   "state_of_incorporation": "DE",
-   "hq": "ROCKVILLE, MD",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T22:22:03+09:00"
   }
  ]
 }
