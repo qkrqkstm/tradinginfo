@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-13T22:54:26+09:00",
+ "updated_at": "2026-11-13T22:59:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-119252",
+   "company": "SS Innovations International, Inc.",
+   "ticker": "SSII",
+   "cik": 1676163,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Executive shall partner with the CEO on corporate strategy, including potential mergers and acquisitions (M&A) and licensing transactions, and support the Company’s business objectives by evaluating potential financings, dispositions, strategic partnerships, commercial arrangements and other transac",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026119252/0001213900-26-119252-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1676163/000121390026119252/ea031189201ex99-1.htm",
+   "filed_at": "2026-11-13T08:56:06-05:00",
+   "filed_kst": "2026-11-13 22:56",
+   "price": 1.32,
+   "change": -12.58,
+   "price_history": [
+    {
+     "date": "2026-11-12",
+     "close": 1.32,
+     "change": -12.58
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1.51,
+     "change": -6.21
+    },
+    {
+     "date": "2026-11-10",
+     "close": 1.61,
+     "change": -13.9
+    }
+   ],
+   "market_cap": 264508774.0,
+   "shares_outstanding": 200385435.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "FL",
+   "hq": "GURUGRAM",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-13T22:56:39+09:00"
+  },
   {
    "id": "0001104659-26-126552",
    "company": "Sony Group Corp",
@@ -15797,61 +15848,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T22:03:34+09:00"
-  },
-  {
-   "id": "0001193125-26-454473",
-   "company": "Coya Therapeutics, Inc.",
-   "ticker": "COYA",
-   "cik": 1835022,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 87,
-   "summary": "3 million of License revenue upon receiving FDA acceptance of our IND for the Phase 2/3 ALSTARS Study and $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526454473/0001193125-26-454473-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835022/000119312526454473/coya-ex99_1.htm",
-   "filed_at": "2026-11-10T08:02:19-05:00",
-   "filed_kst": "2026-11-10 22:02",
-   "price": 3.33,
-   "change": 11.37,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 3.33,
-     "change": 11.37
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.99,
-     "change": 6.41
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.81,
-     "change": -8.77
-    }
-   ],
-   "market_cap": 78114637.0,
-   "shares_outstanding": 23457849.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T22:03:01+09:00"
   }
  ]
 }
