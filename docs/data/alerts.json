@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-14T06:34:23+09:00",
+ "updated_at": "2026-11-14T06:39:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000887343-26-000194",
+   "company": "COLUMBIA BANKING SYSTEM, INC.",
+   "ticker": "COLB",
+   "cik": 887343,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 67,
+   "summary": "2 billion share repurchase program, today’s announcement supports our commitment to long-term shareholder value through a disciplined and robust capital return platform.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000194/0000887343-26-000194-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000194/colbex991dividendannouncem.htm",
+   "filed_at": "2026-11-13T16:33:19-05:00",
+   "filed_kst": "2026-11-14 06:33",
+   "price": 30.6,
+   "change": 0.03,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 30.6,
+     "change": 0.03
+    },
+    {
+     "date": "2026-11-12",
+     "close": 30.59,
+     "change": -0.39
+    },
+    {
+     "date": "2026-11-11",
+     "close": 30.71,
+     "change": -0.45
+    }
+   ],
+   "market_cap": 8455313542.0,
+   "shares_outstanding": 276317436.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "WA",
+   "hq": "TACOMA, WA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-14T06:35:51+09:00"
+  },
   {
    "id": "0001654954-26-009781",
    "company": "PEDEVCO CORP",
@@ -15763,59 +15817,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T06:05:34+09:00"
-  },
-  {
-   "id": "0001628280-26-072699",
-   "company": "Factorial Energy Inc.",
-   "ticker": "FAC",
-   "cik": 2049662,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "com 2 Shareholder Letter | Q3 2026 | November 10, 2026 Third Quarter Milestones July 2026 Tulip Tech partnership Factorial and Tulip Tech seal strategic partnership.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2049662/000162828026072699/0001628280-26-072699-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2049662/000162828026072699/factorialq32026sharehold.htm",
-   "filed_at": "2026-11-10T16:04:47-05:00",
-   "filed_kst": "2026-11-11 06:04",
-   "price": 4.26,
-   "change": -4.7,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 4.26,
-     "change": -4.7
-    },
-    {
-     "date": "2026-11-09",
-     "close": 4.47,
-     "change": 5.18
-    },
-    {
-     "date": "2026-11-06",
-     "close": 4.25,
-     "change": 7.59
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "BILLERICA, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:05:32+09:00"
   }
  ]
 }
