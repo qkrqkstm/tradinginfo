@@ -1,7 +1,107 @@
 {
- "updated_at": "2026-11-14T03:14:22+09:00",
+ "updated_at": "2026-11-14T03:19:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009764",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009764/0001654954-26-009764-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009764/a1929d.htm",
+   "filed_at": "2026-11-13T13:18:43-05:00",
+   "filed_kst": "2026-11-14 03:18",
+   "price": 89.49,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 89.49,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 89.49,
+     "change": 0.46
+    },
+    {
+     "date": "2026-11-12",
+     "close": 89.08,
+     "change": -1.24
+    }
+   ],
+   "market_cap": 1537012215250.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-14T03:19:39+09:00"
+  },
+  {
+   "id": "0001171843-26-007423",
+   "company": "TOP SHIPS INC.",
+   "ticker": "TOPS",
+   "cik": 1296484,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company’s tanker operating fleet has a total capacity of 857,000 dwt and consists of one 50,000 dwt product/chemical tanker, one 157,000 dwt Suezmax tanker, two 300,000 dwt VLCCs and, through a joint venture, 50% interests in two 50,000 dwt product tankers.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326007423/0001171843-26-007423-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326007423/f6k_111326.htm",
+   "filed_at": "2026-11-13T13:17:28-05:00",
+   "filed_kst": "2026-11-14 03:17",
+   "price": 2.79,
+   "change": -0.89,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 2.79,
+     "change": -0.89
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.81,
+     "change": -6.64
+    },
+    {
+     "date": "2026-11-11",
+     "close": 3.01,
+     "change": -2.59
+    }
+   ],
+   "market_cap": 28722788.0,
+   "shares_outstanding": 10294906.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "MAROUSSI",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-14T03:18:32+09:00"
+  },
   {
    "id": "0001493152-26-051601",
    "company": "DYADIC INTERNATIONAL INC",
@@ -15730,114 +15830,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-10T22:55:27+09:00"
-  },
-  {
-   "id": "0001827635-26-000041",
-   "company": "Veradermics, Inc",
-   "ticker": "MANE",
-   "cik": 1827635,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 91,
-   "summary": "EX-99.1 2 ex991q326earnings.htm EX-99.1 Document Exhibit 99.1 Veradermics Reports Third Quarter 2026 Financial Results and Highlights Recent Corporate and Clinical Progress Positive topline results from Phase 3 Study ‘304’ and positive 12-month data from Phase 2/3 Study ‘302’ position VDPHL01 to pot",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1827635/000182763526000041/0001827635-26-000041-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827635/000182763526000041/ex991q326earnings.htm",
-   "filed_at": "2026-11-10T08:54:32-05:00",
-   "filed_kst": "2026-11-10 22:54",
-   "price": 143.95,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 143.95,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 143.95,
-     "change": 3.73
-    },
-    {
-     "date": "2026-11-06",
-     "close": 138.78,
-     "change": 7.92
-    }
-   ],
-   "market_cap": 6014250577.0,
-   "shares_outstanding": 41780136.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEW HAVEN, CT",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T22:55:25+09:00"
-  },
-  {
-   "id": "0002019804-26-000033",
-   "company": "Terrestrial Energy Inc. /DE/",
-   "ticker": "IMSR",
-   "cik": 2019804,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "● Authorized a share repurchase program of up to $25 million of the Company’s common stock, funded with existing cash on hand, subsequent to quarter end.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000033/0002019804-26-000033-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000033/tmb-ex99d1.htm",
-   "filed_at": "2026-11-10T08:43:52-05:00",
-   "filed_kst": "2026-11-10 22:43",
-   "price": 3.0,
-   "change": 5.63,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 3.0,
-     "change": 5.63
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.84,
-     "change": 10.72
-    },
-    {
-     "date": "2026-11-05",
-     "close": 2.57,
-     "change": -10.63
-    }
-   ],
-   "market_cap": 317805762.0,
-   "shares_outstanding": 105935254.0,
-   "industry": "Fabricated Plate Work (Boiler Shops)",
-   "state_of_incorporation": "DE",
-   "hq": "CHARLOTTE, NC",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-10T22:44:41+09:00"
   }
  ]
 }
