@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-14T06:14:22+09:00",
+ "updated_at": "2026-11-14T06:19:26+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-073844",
+   "company": "Better Home & Finance Holding Co",
+   "ticker": "BETR",
+   "cik": 1835856,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "The Program is part of the Companies approved $30 million stock buyback program and will begin with an initial aggregate net cash expenditure limit of $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026073844/0001628280-26-073844-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026073844/betr-20261113.htm",
+   "filed_at": "2026-11-13T16:15:10-05:00",
+   "filed_kst": "2026-11-14 06:15",
+   "price": 15.44,
+   "change": -1.53,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 15.44,
+     "change": -1.53
+    },
+    {
+     "date": "2026-11-12",
+     "close": 15.68,
+     "change": 1.85
+    },
+    {
+     "date": "2026-11-11",
+     "close": 15.4,
+     "change": -16.83
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Loan Brokers",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-14T06:17:02+09:00"
+  },
+  {
+   "id": "0001193125-26-460685",
+   "company": "AEVEX Corp.",
+   "ticker": "AVEX",
+   "cik": 2096300,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 68,
+   "summary": "8 million in Q3 2025 • Completed the acquisition of BlackSea Technologies on September 8, 2026, establishing Maritime Systems as AEVEX’s third reportable segment Raised Outlook for Full Year 2026 • Total revenue of $820.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2096300/000119312526460685/0001193125-26-460685-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2096300/000119312526460685/d733112dex991.htm",
+   "filed_at": "2026-11-13T16:15:19-05:00",
+   "filed_kst": "2026-11-14 06:15",
+   "price": 12.51,
+   "change": -9.08,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 12.51,
+     "change": -9.08
+    },
+    {
+     "date": "2026-11-12",
+     "close": 13.76,
+     "change": 13.44
+    },
+    {
+     "date": "2026-11-11",
+     "close": 12.13,
+     "change": 4.57
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Aircraft",
+   "state_of_incorporation": "DE",
+   "hq": "SOLANA BEACH, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-14T06:17:01+09:00"
+  },
   {
    "id": "0002105965-26-000046",
    "company": "West Coast Community Bancorp",
@@ -15730,109 +15834,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-11T05:51:17+09:00"
-  },
-  {
-   "id": "0001104659-26-125108",
-   "company": "FIRST FINANCIAL CORP /IN/",
-   "ticker": "THFF",
-   "cik": 714562,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The purpose of the Special Meeting shall be to vote on the merger agreement between First Illinois Corporation and First Financial Corporation dated August 26, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/714562/000110465926125108/0001104659-26-125108-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/714562/000110465926125108/tm2628629d13_425.htm",
-   "filed_at": "2026-11-10T15:23:17-05:00",
-   "filed_kst": "2026-11-11 05:23",
-   "price": 77.32,
-   "change": 0.43,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 77.32,
-     "change": 0.43
-    },
-    {
-     "date": "2026-11-09",
-     "close": 76.99,
-     "change": 0.98
-    },
-    {
-     "date": "2026-11-06",
-     "close": 76.24,
-     "change": -0.46
-    }
-   ],
-   "market_cap": 919481399.0,
-   "shares_outstanding": 11891896.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "IN",
-   "hq": "TERRE HAUTE, IN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-11T05:24:12+09:00"
-  },
-  {
-   "id": "0001104659-26-125064",
-   "company": "STEEL DYNAMICS INC",
-   "ticker": "STLD",
-   "cik": 1022671,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "0 Billion Share Repurchase Authorization and Fourth Quarter 2026 Cash Dividend FORT WAYNE, INDIANA, November 9, 2026 / PRNewswire / Steel Dynamics, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/0001104659-26-125064-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/tm2629447d1_ex99-1.htm",
-   "filed_at": "2026-11-10T14:12:26-05:00",
-   "filed_kst": "2026-11-11 04:12",
-   "price": 234.95,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 234.95,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 234.95,
-     "change": 3.25
-    },
-    {
-     "date": "2026-11-09",
-     "close": 227.56,
-     "change": 2.09
-    }
-   ],
-   "market_cap": 33413998571.0,
-   "shares_outstanding": 142217487.0,
-   "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
-   "state_of_incorporation": "IN",
-   "hq": "FORT WAYNE, IN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T04:13:08+09:00"
   }
  ]
 }
