@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-14T06:59:35+09:00",
+ "updated_at": "2026-11-14T07:04:53+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001829126-26-012414",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "ticker": "NTHI",
+   "cik": 1979414,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 84,
+   "summary": "Discussion topics will also include the adequacy of the existing nonclinical safety package, the scientific bridge from published perillyl alcohol data to intranasal NEO100, and the eligibility of NEO100 for Breakthrough Therapy designation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012414/0001829126-26-012414-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012414/neonctechnologies_ex99-2.htm",
+   "filed_at": "2026-11-13T17:00:22-05:00",
+   "filed_kst": "2026-11-14 07:00",
+   "price": 4.91,
+   "change": 1.24,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 4.91,
+     "change": 1.24
+    },
+    {
+     "date": "2026-11-12",
+     "close": 4.85,
+     "change": 7.3
+    },
+    {
+     "date": "2026-11-11",
+     "close": 4.52,
+     "change": 3.43
+    }
+   ],
+   "market_cap": 141656387.0,
+   "shares_outstanding": 28850588.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CALABASAS, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-14T07:01:27+09:00"
+  },
   {
    "id": "0001193125-26-460887",
    "company": "CERENOME, INC.",
@@ -15763,60 +15817,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T06:07:35+09:00"
-  },
-  {
-   "id": "0001104659-26-125150",
-   "company": "CAPRICOR THERAPEUTICS, INC.",
-   "ticker": "CAPR",
-   "cik": 1133869,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 60,
-   "summary": "1 Capricor Therapeutics Reports Third Quarter 2026 Financial Results and Provides Corporate Update ● Deramiocel Biologics License Application (BLA) for Duchenne muscular dystrophy (DMD) under FDA review; PDUFA target action date of November 22, 2026 ● Major BLA amendment added two-year open-label ex",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926125150/0001104659-26-125150-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926125150/capr-ex99d1.htm",
-   "filed_at": "2026-11-10T16:05:08-05:00",
-   "filed_kst": "2026-11-11 06:05",
-   "price": 8.87,
-   "change": -9.95,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 8.87,
-     "change": -9.95
-    },
-    {
-     "date": "2026-11-09",
-     "close": 9.85,
-     "change": 9.44
-    },
-    {
-     "date": "2026-11-06",
-     "close": 9.0,
-     "change": 4.65
-    }
-   ],
-   "market_cap": 515692832.0,
-   "shares_outstanding": 58138989.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T06:07:00+09:00"
   }
  ]
 }
