@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-11-14T10:29:44+09:00",
+ "updated_at": "2026-11-14T10:34:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001539497-23-001842",
+   "company": "LXP Industrial Trust",
+   "ticker": "LXP",
+   "cik": 910108,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-1.1 2 exh1-1_ua.htm UNDERWRITING AGREEMENT, DATED NOVEMBER 2, 2023 Exhibit 1.1 Execution Version LXP INDUSTRIAL TRUST (a Maryland real estate investment trust) $300,000,000 6.750% Senior Notes Due 2028 UNDERWRITING AGREEMENT Dated: November 2, 2023 LXP INDUSTRIAL TRUST (a Maryland real estate inv",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/910108/000153949723001842/0001539497-23-001842-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/910108/000153949723001842/exh1-1_ua.htm",
+   "filed_at": "2023-11-03T17:02:54-04:00",
+   "filed_kst": "2023-11-04 06:02",
+   "price": 61.18,
+   "change": 0.02,
+   "price_history": [],
+   "market_cap": 3607254108.0,
+   "shares_outstanding": 58961329.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-14T10:34:14+09:00"
+  },
   {
    "id": "0001193125-26-461054",
    "company": "BCP Investment Corp",
@@ -15758,60 +15792,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-11T06:08:30+09:00"
-  },
-  {
-   "id": "0001055726-26-000030",
-   "company": "INOVIO PHARMACEUTICALS, INC.",
-   "ticker": "INO",
-   "cik": 1055726,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.1 2 ino-93026x8kex991.htm EX-99.1 Document Exhibit 99.1 INOVIO Reports Third Quarter 2026 Financial Results and Recent Business Highlights • VOCERYQ™ (doruxapapogene ralaplasmid and lalikinogene sifuplasmid-gxfd) granted accelerated approval by U.S. Food and Drug Administration (FDA) to reduce",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1055726/000105572626000030/0001055726-26-000030-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1055726/000105572626000030/ino-93026x8kex991.htm",
-   "filed_at": "2026-11-10T16:06:47-05:00",
-   "filed_kst": "2026-11-11 06:06",
-   "price": 1.45,
-   "change": -3.97,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 1.45,
-     "change": -3.97
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.51,
-     "change": 23.77
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.22,
-     "change": -15.86
-    }
-   ],
-   "market_cap": 271594982.0,
-   "shares_outstanding": 187306884.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "PLYMOUTH MEETING, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T06:08:27+09:00"
   }
  ]
 }
