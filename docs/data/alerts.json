@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-15T17:24:15+09:00",
+ "updated_at": "2026-11-15T17:29:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-21-057077",
+   "company": "Ondas Inc.",
+   "ticker": "ONDS",
+   "cik": 1646188,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "EX-10.1 2 ea150036ex10-1_ondasholdings.htm ONDAS HOLDINGS INC. 2021 STOCK INCENTIVE PLAN. Exhibit 10.1 APPENDIX A ONDAS HOLDINGS INC. 2021 INCENTIVE STOCK PLAN 1. ESTABLISHMENT, EFFECTIVE DATE AND TERM Ondas Holdings Inc., a Nevada corporation (“Ondas”), hereby establishes the Ondas Holdings Inc. 20",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390021057077/0001213900-21-057077-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390021057077/ea150036ex10-1_ondasholdings.htm",
+   "filed_at": "2021-11-05T17:14:57-04:00",
+   "filed_kst": "2021-11-06 06:14",
+   "price": 5.16,
+   "change": -3.01,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 5.16,
+     "change": -3.01
+    },
+    {
+     "date": "2026-11-12",
+     "close": 5.32,
+     "change": -7.16
+    },
+    {
+     "date": "2026-11-11",
+     "close": 5.73,
+     "change": 2.87
+    }
+   ],
+   "market_cap": 2944050080.0,
+   "shares_outstanding": 570552341.0,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "NV",
+   "hq": "WEST PALM BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-15T17:28:25+09:00"
+  },
   {
    "id": "0001104659-23-114822",
    "company": "NRG ENERGY, INC.",
@@ -15682,60 +15733,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T06:14:35+09:00"
-  },
-  {
-   "id": "0001493152-26-050970",
-   "company": "KOPIN CORP",
-   "ticker": "KOPN",
-   "cik": 771266,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "5 Million Additional $18.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/771266/000149315226050970/0001493152-26-050970-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/771266/000149315226050970/ex99-1.htm",
-   "filed_at": "2026-11-10T16:11:53-05:00",
-   "filed_kst": "2026-11-11 06:11",
-   "price": 3.32,
-   "change": -1.78,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 3.32,
-     "change": -1.78
-    },
-    {
-     "date": "2026-11-09",
-     "close": 3.38,
-     "change": 11.18
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.04,
-     "change": 10.55
-    }
-   ],
-   "market_cap": 617097078.0,
-   "shares_outstanding": 185872614.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "DE",
-   "hq": "WESTBOROUGH, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T06:12:52+09:00"
   }
  ]
 }
