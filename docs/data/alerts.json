@@ -1,7 +1,213 @@
 {
- "updated_at": "2026-11-16T04:44:22+09:00",
+ "updated_at": "2026-11-16T04:49:50+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001615774-18-010812",
+   "company": "Oxford Square Capital Corp.",
+   "ticker": "OXSQ",
+   "cik": 1259429,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "1 have been satisfied with respect to each Substituted Collateral Loan to be acquired by the Borrower in connection with such substitution, and (4) the Borrowing Base Test shall be satisfied immediately after giving effect to such substitution.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1259429/000161577418010812/0001615774-18-010812-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1259429/000161577418010812/s113268_ex10-1.htm",
+   "filed_at": "2018-10-12T16:47:54-04:00",
+   "filed_kst": "2018-10-13 05:47",
+   "price": 0.76,
+   "change": -5.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 0.76,
+     "change": -5.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.8,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.8,
+     "change": -1.23
+    }
+   ],
+   "market_cap": 92163450.0,
+   "shares_outstanding": 121267697.0,
+   "industry": null,
+   "state_of_incorporation": "MD",
+   "hq": "GREENWICH, CT",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-16T04:47:24+09:00"
+  },
+  {
+   "id": "0001104659-18-061830",
+   "company": "ROCKWELL MEDICAL, INC.",
+   "ticker": "RMTI",
+   "cik": 1041024,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "I hereby agree that I shall not, directly, or indirectly (whether as an employee, agent, consultant, joint venture, partner, lender, investor, owner, shareholder, director, officer or in any other capacity): induce or solicit or attempt to induce or solicit, any customers or clients of the Company, ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041024/000110465918061830/0001104659-18-061830-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1041024/000110465918061830/a18-36667_1ex10d81.htm",
+   "filed_at": "2018-10-12T16:52:18-04:00",
+   "filed_kst": "2018-10-13 05:52",
+   "price": 7.03,
+   "change": -4.74,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 7.03,
+     "change": -4.74
+    },
+    {
+     "date": "2026-11-12",
+     "close": 7.38,
+     "change": 4.24
+    },
+    {
+     "date": "2026-11-11",
+     "close": 7.08,
+     "change": -3.15
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 0.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WIXOM, MI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T04:47:22+09:00"
+  },
+  {
+   "id": "0001140361-18-040548",
+   "company": "PHOTRONICS INC",
+   "ticker": "PLAB",
+   "cik": 810136,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "com Photronics Announces $25 Million Share Repurchase Program BROOKFIELD, Conn.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/810136/000114036118040548/0001140361-18-040548-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/810136/000114036118040548/ex99_1.htm",
+   "filed_at": "2018-10-12T17:06:59-04:00",
+   "filed_kst": "2018-10-13 06:06",
+   "price": 27.55,
+   "change": -1.18,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 27.55,
+     "change": -1.18
+    },
+    {
+     "date": "2026-11-12",
+     "close": 27.88,
+     "change": -3.63
+    },
+    {
+     "date": "2026-11-11",
+     "close": 28.93,
+     "change": 2.95
+    }
+   ],
+   "market_cap": 1625371951.0,
+   "shares_outstanding": 58997167.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "CT",
+   "hq": "BROOKFIELD, CT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T04:46:47+09:00"
+  },
+  {
+   "id": "0001104659-18-061838",
+   "company": "NABORS INDUSTRIES LTD",
+   "ticker": "NBR",
+   "cik": 1163739,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "For purposes of this definition, a person shall not be deemed to have beneficial ownership of Capital Stock subject to a stock purchase agreement, merger agreement or similar agreement until the consummation of the transactions contemplated by such agreement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1163739/000110465918061838/0001104659-18-061838-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1163739/000110465918061838/a18-36642_1ex99d1.htm",
+   "filed_at": "2018-10-12T17:25:06-04:00",
+   "filed_kst": "2018-10-13 06:25",
+   "price": 84.68,
+   "change": 1.68,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 84.68,
+     "change": 1.68
+    },
+    {
+     "date": "2026-11-12",
+     "close": 83.28,
+     "change": 3.47
+    },
+    {
+     "date": "2026-11-11",
+     "close": 80.49,
+     "change": 4.1
+    }
+   ],
+   "market_cap": 1384331535.0,
+   "shares_outstanding": 16347798.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": "Bermuda",
+   "hq": "HAMILTON, HM08, D0",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-16T04:46:29+09:00"
+  },
   {
    "id": "0001213900-21-057077",
    "company": "Ondas Inc.",
@@ -15518,221 +15724,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-11T06:22:20+09:00"
-  },
-  {
-   "id": "0001856525-26-000096",
-   "company": "Core & Main, Inc.",
-   "ticker": "CNM",
-   "cik": 1856525,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "In addition, Core & Main repurchased a record $171 million of shares in the open market during the third quarter of fiscal 2026, bringing year-to-date repurchases to approximately $428 million, with approximately $240 million remaining under its current share repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1856525/000185652526000096/0001856525-26-000096-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1856525/000185652526000096/q3resultspre-announcement.htm",
-   "filed_at": "2026-11-10T16:16:12-05:00",
-   "filed_kst": "2026-11-11 06:16",
-   "price": 47.44,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 47.44,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 47.44,
-     "change": -0.96
-    },
-    {
-     "date": "2026-11-09",
-     "close": 47.9,
-     "change": 4.2
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Wholesale-Durable Goods, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "ST. LOUIS, MO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T06:16:49+09:00"
-  },
-  {
-   "id": "0001628280-26-072744",
-   "company": "Spire Global, Inc.",
-   "ticker": "SPIR",
-   "cik": 1816017,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 59,
-   "summary": "Business: • In the third quarter of 2026, Spire was awarded a $33.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1816017/000162828026072744/0001628280-26-072744-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1816017/000162828026072744/spir-20260930xexx991.htm",
-   "filed_at": "2026-11-10T16:16:17-05:00",
-   "filed_kst": "2026-11-11 06:16",
-   "price": 9.35,
-   "change": -1.16,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 9.35,
-     "change": -1.16
-    },
-    {
-     "date": "2026-11-09",
-     "close": 9.46,
-     "change": 9.36
-    },
-    {
-     "date": "2026-11-06",
-     "close": 8.65,
-     "change": 12.19
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Communications Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "VIENNA, VA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T06:16:48+09:00"
-  },
-  {
-   "id": "0000909832-26-000134",
-   "company": "COSTCO WHOLESALE CORP /NEW",
-   "ticker": "COST",
-   "cik": 909832,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 67,
-   "summary": "1 Press Release COSTCO WHOLESALE CORPORATION DECLARES $30 SPECIAL CASH DIVIDEND AND REAUTHORIZES STOCK REPURCHASE PROGRAM ISSAQUAH, Wash.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/0000909832-26-000134-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/costex9918-k111026.htm",
-   "filed_at": "2026-11-10T16:16:20-05:00",
-   "filed_kst": "2026-11-11 06:16",
-   "price": 1066.14,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 1066.14,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1066.14,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1066.18,
-     "change": 1.2
-    }
-   ],
-   "market_cap": 472437924143.0,
-   "shares_outstanding": 443129349.0,
-   "industry": "Retail-Variety Stores",
-   "state_of_incorporation": "WA",
-   "hq": "ISSAQUAH, WA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T06:16:46+09:00"
-  },
-  {
-   "id": "0001437749-26-036168",
-   "company": "Satellogic Inc.",
-   "ticker": "SATL",
-   "cik": 1874315,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "“We completed the second satellite delivery under our $18 million agreement with Portugal’s CEiiA, demonstrating our ability to deliver working sovereign capabilities on accelerated timelines.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1874315/000143774926036168/0001437749-26-036168-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1874315/000143774926036168/ex_1042327.htm",
-   "filed_at": "2026-11-10T16:13:44-05:00",
-   "filed_kst": "2026-11-11 06:13",
-   "price": 3.9,
-   "change": -1.64,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 3.9,
-     "change": -1.64
-    },
-    {
-     "date": "2026-11-09",
-     "close": 3.96,
-     "change": 13.94
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.48,
-     "change": 20.42
-    }
-   ],
-   "market_cap": 106462079.0,
-   "shares_outstanding": 27297969.0,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "DAVIDSON, NC",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:14:35+09:00"
   }
  ]
 }
