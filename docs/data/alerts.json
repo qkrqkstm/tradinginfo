@@ -1,7 +1,164 @@
 {
- "updated_at": "2026-11-16T17:15:40+09:00",
+ "updated_at": "2026-11-16T17:30:46+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001571049-14-004557",
+   "company": "Intercontinental Exchange, Inc.",
+   "ticker": "ICE",
+   "cik": 1571949,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 57,
+   "summary": "Terms of the all-cash transaction include a purchase price of approximately $350 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157104914004557/0001571049-14-004557-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157104914004557/ex99-1.htm",
+   "filed_at": "2014-09-11T17:00:56-04:00",
+   "filed_kst": "2014-09-12 06:00",
+   "price": 178.51,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 178.51,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 178.51,
+     "change": 0.37
+    },
+    {
+     "date": "2026-11-12",
+     "close": 177.86,
+     "change": -1.51
+    }
+   ],
+   "market_cap": 99761815126.0,
+   "shares_outstanding": 558858412.0,
+   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+   "state_of_incorporation": "DE",
+   "hq": "ATLANTA, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T17:30:20+09:00"
+  },
+  {
+   "id": "0001157523-14-003680",
+   "company": "Lineage Cell Therapeutics, Inc.",
+   "ticker": "LCTX",
+   "cik": 876343,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "and in South Korea by CJ HealthCare Corporation, under exclusive licensing agreements.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/876343/000115752314003680/0001157523-14-003680-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/876343/000115752314003680/a50941166ex99_1.htm",
+   "filed_at": "2014-09-11T17:17:02-04:00",
+   "filed_kst": "2014-09-12 06:17",
+   "price": 0.91,
+   "change": 0.51,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 0.91,
+     "change": 0.51
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.91,
+     "change": -8.08
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.99,
+     "change": -10.81
+    }
+   ],
+   "market_cap": 230188835.0,
+   "shares_outstanding": 252954764.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "CA",
+   "hq": "CARLSBAD, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T17:27:17+09:00"
+  },
+  {
+   "id": "0001144204-14-055512",
+   "company": "EQUIFAX INC",
+   "ticker": "EFX",
+   "cik": 33185,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 71,
+   "summary": "Announces Additional $400 Million Share Repurchase Authorization ATLANTA, GA, September 11, 2014 — Equifax Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000114420414055512/0001144204-14-055512-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/33185/000114420414055512/v388778_ex99-1.htm",
+   "filed_at": "2014-09-11T17:30:51-04:00",
+   "filed_kst": "2014-09-12 06:30",
+   "price": 188.12,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 188.12,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 188.12,
+     "change": 0.72
+    },
+    {
+     "date": "2026-11-12",
+     "close": 186.78,
+     "change": -0.87
+    }
+   ],
+   "market_cap": 22013270773.0,
+   "shares_outstanding": 117017174.0,
+   "industry": "Services-Consumer Credit Reporting, Collection Agencies",
+   "state_of_incorporation": "GA",
+   "hq": "ATLANTA, GA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T17:25:22+09:00"
+  },
   {
    "id": "0001615774-18-010812",
    "company": "Oxford Square Capital Corp.",
@@ -15563,167 +15720,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-11T06:23:30+09:00"
-  },
-  {
-   "id": "0001140361-26-043039",
-   "company": "CENTERSPACE",
-   "ticker": "CSR",
-   "cik": 798359,
-   "form": "8-K",
-   "items": [
-    "5.07",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": "EX-99.1 2 ef20085203_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Independence Realty Trust Stockholders and Centerspace Shareholders Approve Merger PHILADELPHIA, PA and MINNEAPOLIS, MN – (BUSINESS WIRE) – November 10, 2026 – Independence Realty Trust, Inc. (NYSE: IRT) (“IRT”), a multifamily real estate inv",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/798359/000114036126043039/0001140361-26-043039-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/798359/000114036126043039/ef20085203_ex99-1.htm",
-   "filed_at": "2026-11-10T16:23:00-05:00",
-   "filed_kst": "2026-11-11 06:23",
-   "price": 57.17,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 57.17,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 57.17,
-     "change": -0.59
-    },
-    {
-     "date": "2026-11-09",
-     "close": 57.51,
-     "change": 0.51
-    }
-   ],
-   "market_cap": 961824670.0,
-   "shares_outstanding": 16823940.358,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "ND",
-   "hq": "MINOT, ND",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T06:23:28+09:00"
-  },
-  {
-   "id": "0001104659-26-125211",
-   "company": "Swarmer, Inc",
-   "ticker": "SWMR",
-   "cik": 2092574,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The estimated MSRP is $5 million to $6 million per system and these are not binding orders or recognized revenue.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/0001104659-26-125211-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/tm2629384d1_ex99-1.htm",
-   "filed_at": "2026-11-10T16:22:02-05:00",
-   "filed_kst": "2026-11-11 06:22",
-   "price": 8.77,
-   "change": -2.23,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 8.77,
-     "change": -2.23
-    },
-    {
-     "date": "2026-11-09",
-     "close": 8.97,
-     "change": 26.34
-    },
-    {
-     "date": "2026-11-06",
-     "close": 7.1,
-     "change": 3.8
-    }
-   ],
-   "market_cap": 104562518.0,
-   "shares_outstanding": 11922750.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "AUSTIN, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:22:54+09:00"
-  },
-  {
-   "id": "0001213900-26-118047",
-   "company": "AIR INDUSTRIES GROUP",
-   "ticker": "AIRI",
-   "cik": 1009891,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-10.1 2 ea031156401ex10-1.htm THIRTEENTH AMENDMENT TO LOAN AND SECURITY AGREEMENT WITH THE PRIMARY LENDER Exhibit 10.1 THIRTEENTH AMENDMENT TO LOAN AND SECURITY AGREEMENT THIS THIRTEENTH AMENDMENT TO LOAN AND SECURITY AGREEMENT (the “ Amendment ”), is dated November 9, 2026, and is made by and amo",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1009891/000121390026118047/0001213900-26-118047-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1009891/000121390026118047/ea031156401ex10-1.htm",
-   "filed_at": "2026-11-10T16:21:26-05:00",
-   "filed_kst": "2026-11-11 06:21",
-   "price": 3.0,
-   "change": 6.38,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 3.0,
-     "change": 6.38
-    },
-    {
-     "date": "2026-11-09",
-     "close": 2.82,
-     "change": 0.71
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.8,
-     "change": 5.26
-    }
-   ],
-   "market_cap": 14551974.0,
-   "shares_outstanding": 4850658.0,
-   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
-   "state_of_incorporation": "NV",
-   "hq": "BAY SHORE, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T06:22:20+09:00"
   }
  ]
 }
