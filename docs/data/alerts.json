@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-17T01:14:42+09:00",
+ "updated_at": "2026-11-17T01:19:59+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-007470",
+   "company": "NOVO NORDISK A S",
+   "ticker": "NVO",
+   "cik": 353278,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 f6k_111626.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ________________ FORM 6-K ________________ REPORT OF FOREIGN PRIVATE ISSUER Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 November 16, 2026 ________________ NOVO NORDISK A",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326007470/0001171843-26-007470-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326007470/f6k_111626.htm",
+   "filed_at": "2026-11-16T11:15:56-05:00",
+   "filed_kst": "2026-11-17 01:15",
+   "price": 41.94,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 41.94,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 41.94,
+     "change": 0.73
+    },
+    {
+     "date": "2026-11-13",
+     "close": 41.63,
+     "change": 2.41
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "BAGSVAERD DENMARK, G7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T01:17:34+09:00"
+  },
   {
    "id": "0001683168-26-008791",
    "company": "DAVION HEALTHCARE PLC",
@@ -15687,56 +15737,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-12T21:01:42+09:00"
-  },
-  {
-   "id": "0001171843-26-007372",
-   "company": "Osisko Gold Group Inc.",
-   "ticker": "OGG",
-   "cik": 1431852,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "If these arrangements are not completed on the terms contemplated, or if construction costs exceed the go-forward capital obligation of approximately $990 million including, as a result of inflation, contractor performance under the JDS Energy & Mining Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1431852/000117184326007372/0001171843-26-007372-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1431852/000117184326007372/exh_991.htm",
-   "filed_at": "2026-11-12T07:00:21-05:00",
-   "filed_kst": "2026-11-12 21:00",
-   "price": 2.38,
-   "change": -6.3,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 2.38,
-     "change": -6.3
-    },
-    {
-     "date": "2026-11-10",
-     "close": 2.54,
-     "change": -4.87
-    },
-    {
-     "date": "2026-11-09",
-     "close": 2.67,
-     "change": 4.71
-    }
-   ],
-   "market_cap": 607065448.0,
-   "shares_outstanding": 255069516.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T21:01:38+09:00"
   }
  ]
 }
