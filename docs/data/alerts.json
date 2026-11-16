@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-16T23:54:49+09:00",
+ "updated_at": "2026-11-17T00:04:25+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-007466",
+   "company": "Lakefront Biotherapeutics NV",
+   "ticker": "LKFT",
+   "cik": 1421876,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "1 Lakefront Initiates New €50 Million Share Repurchase Program Following Completion of Initial Share Repurchase Program Mechelen, Belgium; November 16, 2026; 7.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1421876/000117184326007466/0001171843-26-007466-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1421876/000117184326007466/exh_991.htm",
+   "filed_at": "2026-11-16T09:58:53-05:00",
+   "filed_kst": "2026-11-16 23:58",
+   "price": 34.74,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 34.74,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 34.74,
+     "change": 2.24
+    },
+    {
+     "date": "2026-11-13",
+     "close": 33.98,
+     "change": 0.15
+    }
+   ],
+   "market_cap": 2289264247.0,
+   "shares_outstanding": 65897071.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Belgium",
+   "hq": "2800 MECHELEN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T00:00:01+09:00"
+  },
   {
    "id": "0001650107-26-000147",
    "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
@@ -15687,60 +15737,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-12T21:01:29+09:00"
-  },
-  {
-   "id": "0001104659-26-125797",
-   "company": "Traws Pharma, Inc.",
-   "ticker": "TRAW",
-   "cik": 1130598,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Discussions will include a potential adaptive Phase 2b/pivotal program and Fast Track designation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926125797/0001104659-26-125797-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926125797/tm2629616d1_ex99-1.htm",
-   "filed_at": "2026-11-12T07:00:31-05:00",
-   "filed_kst": "2026-11-12 21:00",
-   "price": 0.25,
-   "change": 8.7,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 0.25,
-     "change": 8.7
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.23,
-     "change": -4.17
-    },
-    {
-     "date": "2026-11-09",
-     "close": 0.24,
-     "change": 9.09
-    }
-   ],
-   "market_cap": 3842069.0,
-   "shares_outstanding": 15368277.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEWTOWN, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-12T21:01:26+09:00"
   }
  ]
 }
