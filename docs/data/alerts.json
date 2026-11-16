@@ -1,7 +1,119 @@
 {
- "updated_at": "2026-11-16T22:09:07+09:00",
+ "updated_at": "2026-11-16T22:14:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-120168",
+   "company": "Corvex, Inc.",
+   "ticker": "MOVE",
+   "cik": 1734750,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Corvex Signs $103 Million Take-or-Pay Agreement for NVIDIA Blackwell Capacity; $21 Million of Annual Contract Revenue per Megawatt 3-Year Agreement Will More than Double Mid-Atlantic 1 Contracted Annual Recurring Revenue from $22 Million to Approximately $56 Million Cu",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026120168/0001213900-26-120168-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026120168/ea031185401ex99-1.htm",
+   "filed_at": "2026-11-16T08:08:36-05:00",
+   "filed_kst": "2026-11-16 22:08",
+   "price": 4.47,
+   "change": -5.1,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 4.47,
+     "change": -5.1
+    },
+    {
+     "date": "2026-11-12",
+     "close": 4.71,
+     "change": -17.37
+    },
+    {
+     "date": "2026-11-11",
+     "close": 5.7,
+     "change": 14.92
+    }
+   ],
+   "market_cap": 174952917.0,
+   "shares_outstanding": 39139355.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "DE",
+   "hq": "ARLINGTON, VA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T22:12:22+09:00"
+  },
+  {
+   "id": "0001193125-26-462188",
+   "company": "ALX ONCOLOGY HOLDINGS INC",
+   "ticker": "ALXO",
+   "cik": 1810182,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 90,
+   "summary": "Food and Drug Administration (FDA) has granted Fast Track designation to evorpacept for the second-line treatment of patients with HER2-positive gastric or GEJ carcinoma.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1810182/000119312526462188/0001193125-26-462188-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1810182/000119312526462188/alxo-ex99_1.htm",
+   "filed_at": "2026-11-16T08:10:13-05:00",
+   "filed_kst": "2026-11-16 22:10",
+   "price": 1.04,
+   "change": -3.7,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 1.04,
+     "change": -3.7
+    },
+    {
+     "date": "2026-11-12",
+     "close": 1.08,
+     "change": -3.57
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1.12,
+     "change": 0.9
+    }
+   ],
+   "market_cap": 143808077.0,
+   "shares_outstanding": 138276997.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SOUTH SAN FRANCISCO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T22:12:19+09:00"
+  },
   {
    "id": "0001178913-26-005233",
    "company": "Perion Network Ltd.",
@@ -15601,109 +15713,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-12T20:10:36+09:00"
-  },
-  {
-   "id": "0001522767-26-000220",
-   "company": "MARIMED INC.",
-   "ticker": "MRMD",
-   "cik": 1522767,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "For example, in Maine, Betty’s Eddies has become the number two edibles brand, demonstrating our ability to capture share quickly through brand licensing agreements in new markets.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1522767/000152276726000220/0001522767-26-000220-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1522767/000152276726000220/ex9918-kearningsq32026.htm",
-   "filed_at": "2026-11-12T06:09:41-05:00",
-   "filed_kst": "2026-11-12 20:09",
-   "price": 0.07,
-   "change": 2.74,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 0.08,
-     "change": 2.74
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.07,
-     "change": -2.67
-    },
-    {
-     "date": "2026-11-09",
-     "close": 0.08,
-     "change": 11.94
-    }
-   ],
-   "market_cap": 28212847.0,
-   "shares_outstanding": 403040674.0,
-   "industry": "Medicinal Chemicals & Botanical Products",
-   "state_of_incorporation": "DE",
-   "hq": "NORWOOD, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T20:10:34+09:00"
-  },
-  {
-   "id": "0001213900-26-118277",
-   "company": "GP-Act III Acquisition Corp.",
-   "ticker": "GPAT",
-   "cik": 1834526,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-10.1 2 ea031187901ex10-1.htm FORM OF NON-REDEMPTION AGREEMENT Exhibit 10.1 NON-REDEMPTION AGREEMENT This Non-Redemption Agreement (this “ Agreement ”) is entered as of [●], 2026 by and among GP-Act III Acquisition Corp., a Cayman Islands exempted company (the “ Company ”), GP-Act III Sponsor LLC,",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1834526/000121390026118277/0001213900-26-118277-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834526/000121390026118277/ea031187901ex10-1.htm",
-   "filed_at": "2026-11-12T06:08:02-05:00",
-   "filed_kst": "2026-11-12 20:08",
-   "price": 11.01,
-   "change": -0.54,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 11.01,
-     "change": -0.54
-    },
-    {
-     "date": "2026-11-10",
-     "close": 11.07,
-     "change": 0.09
-    },
-    {
-     "date": "2026-11-09",
-     "close": 11.06,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T20:09:22+09:00"
   }
  ]
 }
