@@ -1,7 +1,423 @@
 {
- "updated_at": "2026-11-16T21:59:43+09:00",
+ "updated_at": "2026-11-16T22:09:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178913-26-005233",
+   "company": "Perion Network Ltd.",
+   "ticker": "PERI",
+   "cik": 1338940,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 67,
+   "summary": "Share Repurchase Program ● During the third quarter of 2026, the Company repurchased a total of approximately 2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1338940/000117891326005233/0001178913-26-005233-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1338940/000117891326005233/exhibit_99-1.htm",
+   "filed_at": "2026-11-16T08:05:16-05:00",
+   "filed_kst": "2026-11-16 22:05",
+   "price": 11.37,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 11.37,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 11.37,
+     "change": -0.26
+    },
+    {
+     "date": "2026-11-11",
+     "close": 11.4,
+     "change": 0.09
+    }
+   ],
+   "market_cap": 443713841.0,
+   "shares_outstanding": 39024964.0,
+   "industry": "Services-Computer Programming Services",
+   "state_of_incorporation": "Israel",
+   "hq": "TEL AVIV, L3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-16T22:07:20+09:00"
+  },
+  {
+   "id": "0001213900-26-120148",
+   "company": "CEMENTOS PACASMAYO SAA",
+   "ticker": "CPAC",
+   "cik": 1221029,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "(the “ Offeror ”) has launched a tender offer (“ OPA ”) for the shares of Cementos Pacasmayo S.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1221029/000121390026120148/0001213900-26-120148-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1221029/000121390026120148/ea031213701ex99-1.htm",
+   "filed_at": "2026-11-16T08:00:09-05:00",
+   "filed_kst": "2026-11-16 22:00",
+   "price": 12.9,
+   "change": -0.23,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 12.9,
+     "change": -0.23
+    },
+    {
+     "date": "2026-11-12",
+     "close": 12.93,
+     "change": 0.31
+    },
+    {
+     "date": "2026-11-11",
+     "close": 12.89,
+     "change": 0.16
+    }
+   ],
+   "market_cap": 5467902992.0,
+   "shares_outstanding": 423868449.0,
+   "industry": "Cement, Hydraulic",
+   "state_of_incorporation": null,
+   "hq": "LIMA 33, R5",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-16T22:06:14+09:00"
+  },
+  {
+   "id": "0001213900-26-120142",
+   "company": "NewGenIvf Group Ltd",
+   "ticker": "NIVF",
+   "cik": 1981662,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "ai The Company has completed the acquisition of 2% of the equity interest in PredicXion Group Limited, which operates K25.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1981662/000121390026120142/0001213900-26-120142-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1981662/000121390026120142/ea031239101ex99-1.htm",
+   "filed_at": "2026-11-16T08:00:09-05:00",
+   "filed_kst": "2026-11-16 22:00",
+   "price": 0.23,
+   "change": 0.09,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 0.23,
+     "change": 0.09
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.23,
+     "change": -16.61
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.28,
+     "change": -7.67
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Misc Health & Allied Services, NEC",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "BANGKOK, W1",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T22:06:12+09:00"
+  },
+  {
+   "id": "0001213900-26-120153",
+   "company": "Radiopharm Theranostics Ltd",
+   "ticker": "RADX",
+   "cik": 1949257,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "RAD101 has received FDA Fast Track Designation to distinguish between recurrent disease and treatment effect of brain metastases originating from solid tumors of different origin including leptomeningeal disease.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1949257/000121390026120153/0001213900-26-120153-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1949257/000121390026120153/ea031238201ex99-1.htm",
+   "filed_at": "2026-11-16T08:00:18-05:00",
+   "filed_kst": "2026-11-16 22:00",
+   "price": 0.76,
+   "change": -3.8,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 0.76,
+     "change": -3.8
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.79,
+     "change": -3.66
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.82,
+     "change": -2.73
+    }
+   ],
+   "market_cap": 2693604282.0,
+   "shares_outstanding": 3544216160.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "CARLTON VIC",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T22:06:09+09:00"
+  },
+  {
+   "id": "0001171843-26-007459",
+   "company": "XORTX Therapeutics Inc.",
+   "ticker": "XRTX",
+   "cik": 1729214,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Once completed, a commercial drug supply is a pre-requisite for FDA approval for marketing of XORLO™.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1729214/000117184326007459/0001171843-26-007459-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1729214/000117184326007459/exh_991.htm",
+   "filed_at": "2026-11-16T08:05:05-05:00",
+   "filed_kst": "2026-11-16 22:05",
+   "price": 1.1,
+   "change": 19.57,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 1.1,
+     "change": 19.57
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.92,
+     "change": 3.37
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.89,
+     "change": 4.71
+    }
+   ],
+   "market_cap": 14288646.0,
+   "shares_outstanding": 12989678.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER, A1",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T22:06:06+09:00"
+  },
+  {
+   "id": "0001493152-26-052028",
+   "company": "Venu Holding Corp",
+   "ticker": "VENU",
+   "cik": 1770501,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through strategic partnerships with industry leaders such as AEG Presents, NFL Hall of Famer and Founder of EIGHT Elite Light Beer, Troy Aikman, Aramark Sports + Entertainment, Tixr, Niall Horan, and Dierks Bentley, VENU continues to shape the future of the entertainm",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1770501/000149315226052028/0001493152-26-052028-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1770501/000149315226052028/ex99-1.htm",
+   "filed_at": "2026-11-16T08:00:32-05:00",
+   "filed_kst": "2026-11-16 22:00",
+   "price": 1.13,
+   "change": -9.6,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 1.13,
+     "change": -9.6
+    },
+    {
+     "date": "2026-11-12",
+     "close": 1.25,
+     "change": -3.85
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1.3,
+     "change": 9.24
+    }
+   ],
+   "market_cap": 63595963.0,
+   "shares_outstanding": 56279613.0,
+   "industry": "Services-Amusement & Recreation Services",
+   "state_of_incorporation": "CO",
+   "hq": "COLORADO SPRINGS, CO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T22:05:56+09:00"
+  },
+  {
+   "id": "0001437749-26-037017",
+   "company": "Digimarc Corp",
+   "ticker": "DMRC",
+   "cik": 2119322,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "EX-10.1 2 ex_1046179.htm EXHIBIT 10.1 ex_1046179.htm Exhibit 10.1 EXECUTION VERSION COOPERATION AGREEMENT This Cooperation Agreement (this “ Agreement ”), effective as of November 15, 2026 (the “ Effective Date ”), is entered into by and between Digimarc Corporation, an Oregon corporation (the “ Com",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926037017/0001437749-26-037017-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926037017/ex_1046179.htm",
+   "filed_at": "2026-11-16T08:00:48-05:00",
+   "filed_kst": "2026-11-16 22:00",
+   "price": 7.12,
+   "change": -4.17,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 7.12,
+     "change": -4.17
+    },
+    {
+     "date": "2026-11-12",
+     "close": 7.43,
+     "change": -3.26
+    },
+    {
+     "date": "2026-11-11",
+     "close": 7.68,
+     "change": -3.88
+    }
+   ],
+   "market_cap": 197139849.0,
+   "shares_outstanding": 27688181.0,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "OR",
+   "hq": "BEAVERTON, OR",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T22:05:54+09:00"
+  },
+  {
+   "id": "0001193125-26-462171",
+   "company": "Apnimed, Inc.",
+   "ticker": "APMD",
+   "cik": 1745648,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "launch of Oxnimbi, subject to FDA approval.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1745648/000119312526462171/0001193125-26-462171-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1745648/000119312526462171/apmd-ex99_1.htm",
+   "filed_at": "2026-11-16T08:04:30-05:00",
+   "filed_kst": "2026-11-16 22:04",
+   "price": 16.92,
+   "change": 1.74,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 16.92,
+     "change": 1.74
+    },
+    {
+     "date": "2026-11-12",
+     "close": 16.63,
+     "change": -0.89
+    },
+    {
+     "date": "2026-11-11",
+     "close": 16.78,
+     "change": 5.8
+    }
+   ],
+   "market_cap": 704392781.0,
+   "shares_outstanding": 41630779.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CAMBRIDGE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T22:05:51+09:00"
+  },
   {
    "id": "0001140361-26-043989",
    "company": "GALECTIN THERAPEUTICS INC",
@@ -15288,430 +15704,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-12T20:09:22+09:00"
-  },
-  {
-   "id": "0001193125-26-456673",
-   "company": "MARINEMAX INC",
-   "ticker": "HZO",
-   "cik": 1057060,
-   "form": "8-K",
-   "items": [
-    "5.07",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 55,
-   "summary": ", a Florida corporation (the “ Company ”), held a special meeting of shareholders (the “ Special Meeting ”) to consider and vote on certain proposals related to the Agreement and Plan of Merger, dated as of August 9, 2026 (as it may be amended, supplemented or otherwise modified from time to time, t",
-   "deal_role": null,
-   "is_followup": true,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1057060/000119312526456673/0001193125-26-456673-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1057060/000119312526456673/d138095d8k.htm",
-   "filed_at": "2026-11-12T06:08:06-05:00",
-   "filed_kst": "2026-11-12 20:08",
-   "price": 52.79,
-   "change": 0.04,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 52.79,
-     "change": 0.04
-    },
-    {
-     "date": "2026-11-10",
-     "close": 52.77,
-     "change": 0.04
-    },
-    {
-     "date": "2026-11-09",
-     "close": 52.75,
-     "change": 0.09
-    }
-   ],
-   "market_cap": 1165959321.0,
-   "shares_outstanding": 22086746.0,
-   "industry": "Retail-Auto & Home Supply Stores",
-   "state_of_incorporation": "DE",
-   "hq": "CLEARWATER, FL",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:09:16+09:00"
-  },
-  {
-   "id": "0001104659-26-125600",
-   "company": "TETRA TECH INC",
-   "ticker": "TTEK",
-   "cik": 831641,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 77,
-   "summary": "” Quarterly Dividend and Share Repurchase Program On November 9, 2026, Tetra Tech’s Board of Directors approved a quarterly dividend in the amount of $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/831641/000110465926125600/0001104659-26-125600-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/831641/000110465926125600/tm2629545d1_ex99-1.htm",
-   "filed_at": "2026-11-12T06:08:21-05:00",
-   "filed_kst": "2026-11-12 20:08",
-   "price": 37.61,
-   "change": -7.48,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 37.61,
-     "change": -7.48
-    },
-    {
-     "date": "2026-11-10",
-     "close": 40.65,
-     "change": -1.07
-    },
-    {
-     "date": "2026-11-09",
-     "close": 41.09,
-     "change": 1.99
-    }
-   ],
-   "market_cap": 9629830937.0,
-   "shares_outstanding": 256044428.0,
-   "industry": "Services-Engineering Services",
-   "state_of_incorporation": "DE",
-   "hq": "PASADENA, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:09:15+09:00"
-  },
-  {
-   "id": "0001104659-26-125573",
-   "company": "BELITE BIO, INC",
-   "ticker": "BLTE",
-   "cik": 1889109,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 97,
-   "summary": "1 Belite Bio Reports Unaudited Third Quarter 2026 Financial Results and Provides a Corporate Update · New Drug Application (NDA) for tinlarebant in Stargardt disease type 1 (STGD1) granted priority review by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1889109/000110465926125573/0001104659-26-125573-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1889109/000110465926125573/tm2629321d1_ex99-1.htm",
-   "filed_at": "2026-11-12T06:05:21-05:00",
-   "filed_kst": "2026-11-12 20:05",
-   "price": 155.94,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 155.94,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 155.94,
-     "change": -0.37
-    },
-    {
-     "date": "2026-11-10",
-     "close": 156.52,
-     "change": -0.74
-    }
-   ],
-   "market_cap": 6134673362.0,
-   "shares_outstanding": 39339960.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:08:38+09:00"
-  },
-  {
-   "id": "0001104659-26-125574",
-   "company": "Aurora Mobile Ltd",
-   "ticker": "JG",
-   "cik": 1737339,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 68,
-   "summary": "2 Aurora Mobile Announces Up to US$10 Million Share Repurchase Program SHENZHEN, China, Nov.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1737339/000110465926125574/0001104659-26-125574-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1737339/000110465926125574/tm2629564d1_ex99-1.htm",
-   "filed_at": "2026-11-12T06:05:24-05:00",
-   "filed_kst": "2026-11-12 20:05",
-   "price": 5.88,
-   "change": 2.08,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 5.88,
-     "change": 2.08
-    },
-    {
-     "date": "2026-11-10",
-     "close": 5.76,
-     "change": 8.47
-    },
-    {
-     "date": "2026-11-09",
-     "close": 5.31,
-     "change": -0.19
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NANSHAN DISTRICT, SHENZHEN",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:08:36+09:00"
-  },
-  {
-   "id": "0001554855-26-002334",
-   "company": "ULTRAPAR HOLDINGS INC",
-   "ticker": "UGP",
-   "cik": 1094972,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Investments in subsidiaries, joint ventures and associates 29 12.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1094972/000155485526002334/0001554855-26-002334-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1094972/000155485526002334/0001554855-26-002334-index-headers.html",
-   "filed_at": "2026-11-12T06:05:41-05:00",
-   "filed_kst": "2026-11-12 20:05",
-   "price": 5.43,
-   "change": 0.74,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 5.43,
-     "change": 0.74
-    },
-    {
-     "date": "2026-11-10",
-     "close": 5.39,
-     "change": -1.82
-    },
-    {
-     "date": "2026-11-09",
-     "close": 5.49,
-     "change": 1.29
-    }
-   ],
-   "market_cap": 5803078043.0,
-   "shares_outstanding": 1068706822.0,
-   "industry": "Natural Gas Distribution",
-   "state_of_incorporation": null,
-   "hq": "SP BRAZIL 01350-900, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:08:34+09:00"
-  },
-  {
-   "id": "0001193125-26-456656",
-   "company": "Invitation Homes Inc.",
-   "ticker": "INVH",
-   "cik": 1687229,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "About Invitation Homes Invitation Homes, an S&P 500 company, is the nation’s premier single-family home leasing and management company, helping to expand housing through new development and strategic partnerships.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000119312526456656/0001193125-26-456656-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1687229/000119312526456656/d464876dex991.htm",
-   "filed_at": "2026-11-12T06:05:19-05:00",
-   "filed_kst": "2026-11-12 20:05",
-   "price": 26.88,
-   "change": -0.78,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 26.88,
-     "change": -0.78
-    },
-    {
-     "date": "2026-11-10",
-     "close": 27.09,
-     "change": -0.4
-    },
-    {
-     "date": "2026-11-09",
-     "close": 27.2,
-     "change": 0.37
-    }
-   ],
-   "market_cap": 15487034465.0,
-   "shares_outstanding": 576154556.0,
-   "industry": "Real Estate Operators (No Developers) & Lessors",
-   "state_of_incorporation": null,
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:08:31+09:00"
-  },
-  {
-   "id": "0001710155-26-000006",
-   "company": "National Vision Holdings, Inc.",
-   "ticker": "EYE",
-   "cik": 1710155,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "As of October 3, 2026, the share repurchase authorization had remaining capacity of $10.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1710155/000171015526000006/0001710155-26-000006-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1710155/000171015526000006/ex991-q32026earningsrelease.htm",
-   "filed_at": "2026-11-12T06:05:52-05:00",
-   "filed_kst": "2026-11-12 20:05",
-   "price": 18.09,
-   "change": -4.84,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 18.09,
-     "change": -4.84
-    },
-    {
-     "date": "2026-11-10",
-     "close": 19.01,
-     "change": 0.21
-    },
-    {
-     "date": "2026-11-09",
-     "close": 18.97,
-     "change": 5.98
-    }
-   ],
-   "market_cap": 1430363872.0,
-   "shares_outstanding": 79069313.0,
-   "industry": "Ophthalmic Goods",
-   "state_of_incorporation": "DE",
-   "hq": "ALPHARETTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:08:25+09:00"
-  },
-  {
-   "id": "0001040161-26-000046",
-   "company": "PIXELWORKS, INC",
-   "ticker": "PXLW",
-   "cik": 1040161,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "2 million of shares of common stock for less than book value under the Company’s stock repurchase program • Ended the third quarter with cash, cash equivalents and short-term marketable securities of approximately $50 million “During the third quarter, we continued to execute on our strategy of buil",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1040161/000104016126000046/0001040161-26-000046-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1040161/000104016126000046/pxlw_q3x26xearningsrelease.htm",
-   "filed_at": "2026-11-12T06:06:03-05:00",
-   "filed_kst": "2026-11-12 20:06",
-   "price": 6.41,
-   "change": -12.07,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 6.41,
-     "change": -12.07
-    },
-    {
-     "date": "2026-11-10",
-     "close": 7.29,
-     "change": 39.66
-    },
-    {
-     "date": "2026-11-09",
-     "close": 5.22,
-     "change": 3.16
-    }
-   ],
-   "market_cap": 38776609.0,
-   "shares_outstanding": 6049393.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "OR",
-   "hq": "PORTLAND, OR",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-12T20:08:23+09:00"
   }
  ]
 }
