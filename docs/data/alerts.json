@@ -1,7 +1,221 @@
 {
- "updated_at": "2026-11-16T22:39:26+09:00",
+ "updated_at": "2026-11-16T22:49:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-462286",
+   "company": "Baidu, Inc.",
+   "ticker": "BIDU",
+   "cik": 1329099,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 62,
+   "summary": "1 • Baidu has returned US$373 million to shareholders since the beginning of Q1 2026 through repurchases of its shares under the current share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1329099/000119312526462286/0001193125-26-462286-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1329099/000119312526462286/d767848dex991.htm",
+   "filed_at": "2026-11-16T08:48:16-05:00",
+   "filed_kst": "2026-11-16 22:48",
+   "price": 78.14,
+   "change": 0.66,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 78.14,
+     "change": 0.66
+    },
+    {
+     "date": "2026-11-12",
+     "close": 77.63,
+     "change": -2.67
+    },
+    {
+     "date": "2026-11-11",
+     "close": 79.76,
+     "change": 0.06
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BEIJING",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T22:49:31+09:00"
+  },
+  {
+   "id": "0001493152-26-052063",
+   "company": "BITMINE IMMERSION TECHNOLOGIES, INC.",
+   "ticker": "BMNR",
+   "cik": 1829311,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "지수편입",
+   "primary_key": "index",
+   "emoji": "📈",
+   "types": [
+    "지수편입"
+   ],
+   "confidence": 57,
+   "summary": "2 million Bitmine is 99% of the way to the ‘Alchemy of 5%’ in just 15 months Bitmine released Chairman’s Message on October 7 titled “Crypto Bull Underway — This Cycle Likely the Largest” Bitmine was added to the Russell 1000 Large-cap index on June 26, 2026 Bitmine’s Series A Preferred Stock is tra",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226052063/0001493152-26-052063-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829311/000149315226052063/ex99-1.htm",
+   "filed_at": "2026-11-16T08:45:36-05:00",
+   "filed_kst": "2026-11-16 22:45",
+   "price": 17.58,
+   "change": -4.72,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 17.58,
+     "change": -4.72
+    },
+    {
+     "date": "2026-11-12",
+     "close": 18.45,
+     "change": -4.11
+    },
+    {
+     "date": "2026-11-11",
+     "close": 19.24,
+     "change": 6.42
+    }
+   ],
+   "market_cap": 11013008949.0,
+   "shares_outstanding": 626451021.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "NORWALK, CT",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T22:47:25+09:00"
+  },
+  {
+   "id": "0001193125-26-462266",
+   "company": "EAGLE FINANCIAL SERVICES INC",
+   "ticker": "EFSI",
+   "cik": 880641,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "John Marshall and EFSI announced the signing of a definitive merger agreement on September 8, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/880641/000119312526462266/0001193125-26-462266-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/880641/000119312526462266/d134534dex991.htm",
+   "filed_at": "2026-11-16T08:40:16-05:00",
+   "filed_kst": "2026-11-16 22:40",
+   "price": 46.01,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 46.01,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 46.01,
+     "change": 0.02
+    },
+    {
+     "date": "2026-11-12",
+     "close": 46.0,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 249064185.0,
+   "shares_outstanding": 5413262.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "BERRYVILLE, VA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T22:45:18+09:00"
+  },
+  {
+   "id": "0001104659-26-127698",
+   "company": "John Marshall Bancorp, Inc.",
+   "ticker": "JMSB",
+   "cik": 1710482,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "​ John Marshall and EFSI announced the signing of a definitive merger agreement on September 8, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926127698/0001104659-26-127698-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926127698/jmsb-ex99d1.htm",
+   "filed_at": "2026-11-16T08:40:25-05:00",
+   "filed_kst": "2026-11-16 22:40",
+   "price": 23.18,
+   "change": 0.48,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 23.18,
+     "change": 0.48
+    },
+    {
+     "date": "2026-11-12",
+     "close": 23.07,
+     "change": -0.26
+    },
+    {
+     "date": "2026-11-11",
+     "close": 23.13,
+     "change": 0.39
+    }
+   ],
+   "market_cap": 327114630.0,
+   "shares_outstanding": 14111934.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "RESTON, VA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T22:45:16+09:00"
+  },
   {
    "id": "0001213900-26-120186",
    "company": "StableCoinX Inc.",
@@ -15525,216 +15739,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-12T20:51:09+09:00"
-  },
-  {
-   "id": "0001628280-26-073077",
-   "company": "Figure Technology Solutions, Inc.",
-   "ticker": "FIGR",
-   "cik": 2064124,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 73,
-   "summary": "• Board of Directors authorized a $200 million increase to the share repurchase program, bringing total authorization to $400 million.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2064124/000162828026073077/0001628280-26-073077-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2064124/000162828026073077/ex991-pressrelease3q26.htm",
-   "filed_at": "2026-11-12T06:47:27-05:00",
-   "filed_kst": "2026-11-12 20:47",
-   "price": 24.19,
-   "change": 3.64,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 24.19,
-     "change": 3.64
-    },
-    {
-     "date": "2026-11-10",
-     "close": 23.34,
-     "change": -4.81
-    },
-    {
-     "date": "2026-11-09",
-     "close": 24.52,
-     "change": 7.9
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Loan Brokers",
-   "state_of_incorporation": "DE",
-   "hq": "RENO, NV",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T20:48:07+09:00"
-  },
-  {
-   "id": "0001292814-26-005248",
-   "company": "PETROBRAS - PETROLEO BRASILEIRO SA",
-   "ticker": "PBR",
-   "cik": 1119639,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "6-K 1 pbrfs3q26usd_6k.htm 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 6-K Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 For the month of November, 2026 Commission File Number 1-15106 PETRÓLEO BRASILEIRO ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1119639/000129281426005248/0001292814-26-005248-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1119639/000129281426005248/pbrfs3q26usd_6k.htm",
-   "filed_at": "2026-11-12T06:43:28-05:00",
-   "filed_kst": "2026-11-12 20:43",
-   "price": 17.82,
-   "change": -2.52,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 17.82,
-     "change": -2.52
-    },
-    {
-     "date": "2026-11-10",
-     "close": 18.28,
-     "change": -0.38
-    },
-    {
-     "date": "2026-11-09",
-     "close": 18.35,
-     "change": -0.97
-    }
-   ],
-   "market_cap": 132620563227.0,
-   "shares_outstanding": 7442231382.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "Brazil",
-   "hq": "RIO DE JANERIO RJ BR",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:44:08+09:00"
-  },
-  {
-   "id": "0001628280-26-073072",
-   "company": "Flex LNG Ltd.",
-   "ticker": "FLNG",
-   "cik": 1772253,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 63,
-   "summary": "Including special dividends, we will have returned more than $900 million to shareholders since 2021.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1772253/000162828026073072/0001628280-26-073072-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1772253/000162828026073072/q32026flexpr1.htm",
-   "filed_at": "2026-11-12T06:41:18-05:00",
-   "filed_kst": "2026-11-12 20:41",
-   "price": 25.31,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 25.31,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 25.31,
-     "change": -2.8
-    },
-    {
-     "date": "2026-11-09",
-     "close": 26.04,
-     "change": -0.08
-    }
-   ],
-   "market_cap": 1369078037.0,
-   "shares_outstanding": 54092376.0,
-   "industry": "Water Transportation",
-   "state_of_incorporation": "Bermuda",
-   "hq": "HAMILTON, D0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:42:05+09:00"
-  },
-  {
-   "id": "0001845123-26-000004",
-   "company": "AleAnna, Inc.",
-   "ticker": "ANNA",
-   "cik": 1845123,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "5.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "• Development of permanent production facilities continued with the joint venture partner and operator, with the permanent infrastructure expected to further enhance operations and support the concession’s long-term development.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1845123/000184512326000004/0001845123-26-000004-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1845123/000184512326000004/anna-8xkq3earningsrelease_.htm",
-   "filed_at": "2026-11-12T06:32:36-05:00",
-   "filed_kst": "2026-11-12 20:32",
-   "price": 2.1,
-   "change": -2.33,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 2.1,
-     "change": -2.33
-    },
-    {
-     "date": "2026-11-10",
-     "close": 2.15,
-     "change": 5.39
-    },
-    {
-     "date": "2026-11-09",
-     "close": 2.04,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 9638817.0,
-   "shares_outstanding": 4589913.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T20:33:18+09:00"
   }
  ]
 }
