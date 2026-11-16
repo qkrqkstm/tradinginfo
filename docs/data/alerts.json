@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-17T01:45:11+09:00",
+ "updated_at": "2026-11-17T01:49:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001575872-26-000794",
+   "company": "DATZ WORLD HOLDINGS CORP.",
+   "ticker": "BOTX",
+   "cik": 1643721,
+   "form": "8-K/A",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", the \"Company\") completed its previously announced merger pursuant to that certain Agreement and Plan of Merger and Reorganization, dated November 10, 2025 (the \"Merger Agreement\"), by and among the Company, LB Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1643721/000157587226000794/0001575872-26-000794-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1643721/000157587226000794/botx001_ex99-2.htm",
+   "filed_at": "2026-11-16T11:47:24-05:00",
+   "filed_kst": "2026-11-17 01:47",
+   "price": 0.11,
+   "change": -67.71,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 0.11,
+     "change": -67.71
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.35,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.35,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 11007818.0,
+   "shares_outstanding": 100071075.0,
+   "industry": "Services-Management Consulting Services",
+   "state_of_incorporation": "NV",
+   "hq": "LEE, NH",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T01:49:32+09:00"
+  },
   {
    "id": "0001171843-26-007470",
    "company": "NOVO NORDISK A S",
@@ -15686,57 +15736,6 @@
    "hq": "TORONTO, A6",
    "entity_category": null,
    "detected_at": "2026-11-12T21:02:19+09:00"
-  },
-  {
-   "id": "0001171843-26-007368",
-   "company": "Codere Online Luxembourg, S.A.",
-   "ticker": "CDRO",
-   "cik": 1866782,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "” Recent Events Official Betting Partner of the NFL in Mexico · On September 10, 2026, Codere Online announced a multi-year agreement to become Official Betting Partner of the NFL in Mexico, strengthening its premium brand positioning in one of its largest and most strategically important markets.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866782/000117184326007368/0001171843-26-007368-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866782/000117184326007368/exh_991.htm",
-   "filed_at": "2026-11-12T07:00:08-05:00",
-   "filed_kst": "2026-11-12 21:00",
-   "price": 8.68,
-   "change": 1.34,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 8.68,
-     "change": 1.34
-    },
-    {
-     "date": "2026-11-10",
-     "close": 8.56,
-     "change": -2.06
-    },
-    {
-     "date": "2026-11-09",
-     "close": 8.74,
-     "change": 3.07
-    }
-   ],
-   "market_cap": 392768368.0,
-   "shares_outstanding": 45249812.0,
-   "industry": "Services-Miscellaneous Amusement & Recreation",
-   "state_of_incorporation": "Luxembourg",
-   "hq": "LUXEMBOURG, N4",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T21:01:42+09:00"
   }
  ]
 }
