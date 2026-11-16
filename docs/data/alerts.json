@@ -1,7 +1,596 @@
 {
- "updated_at": "2026-11-17T08:25:25+09:00",
+ "updated_at": "2026-11-17T08:35:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-128450",
+   "company": "Traws Pharma, Inc.",
+   "ticker": "TRAW",
+   "cik": 1130598,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "Food and Drug Administration (FDA) a registration strategy for adults at high risk of progression to severe COVID-19 who are ineligible for PAXLOVID ® , including a potential adaptive Phase 2b/Pivotal program and Fast Track designation.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926128450/0001104659-26-128450-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926128450/tm2629930d1_ex99-1.htm",
+   "filed_at": "2026-11-16T16:45:14-05:00",
+   "filed_kst": "2026-11-17 06:45",
+   "price": 0.26,
+   "change": 4.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 0.26,
+     "change": 4.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.25,
+     "change": -10.71
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.28,
+     "change": 12.0
+    }
+   ],
+   "market_cap": 3995752.0,
+   "shares_outstanding": 15368277.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEWTOWN, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T08:35:21+09:00"
+  },
+  {
+   "id": "0001493152-26-052471",
+   "company": "MDWerks, Inc.",
+   "ticker": "MDWK",
+   "cik": 1295514,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "We are concentrating our business on RF Specialties’ industrial design and manufacturing for the lumber industry, including our proposed joint venture with Rex Lumber Company, while continuing to manufacture and sell our Spirits Rapid Aging System.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1295514/000149315226052471/0001493152-26-052471-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1295514/000149315226052471/ex99-1.htm",
+   "filed_at": "2026-11-16T16:48:19-05:00",
+   "filed_kst": "2026-11-17 06:48",
+   "price": 0.07,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 0.07,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.07,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.07,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 16856147.0,
+   "shares_outstanding": 240802096.0,
+   "industry": "Beverages",
+   "state_of_incorporation": "DE",
+   "hq": "GREEN COVE SPRINGS, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T08:34:27+09:00"
+  },
+  {
+   "id": "0001193125-26-463733",
+   "company": "Aon plc",
+   "ticker": "AON",
+   "cik": 315293,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "2.03",
+    "5.02",
+    "7.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 71,
+   "summary": "EX-99.1 4 d181018dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Aon Completes Acquisition of USI to Establish the Premier U.S. Middle-Market Platform • Substantially enhances the firm’s presence in the large and growing U.S. middle-market segment • As an Aon company, USI will be integrated into Aon under t",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/0001193125-26-463733-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/d181018dex991.htm",
+   "filed_at": "2026-11-16T16:51:14-05:00",
+   "filed_kst": "2026-11-17 06:51",
+   "price": 343.12,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 343.12,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 343.12,
+     "change": 1.42
+    },
+    {
+     "date": "2026-11-13",
+     "close": 338.31,
+     "change": 1.47
+    }
+   ],
+   "market_cap": 72795370229.0,
+   "shares_outstanding": 212157176.0,
+   "industry": "Insurance Agents, Brokers & Service",
+   "state_of_incorporation": "Ireland",
+   "hq": "DUBLIN 2, L2",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T08:34:24+09:00"
+  },
+  {
+   "id": "0001193125-26-463741",
+   "company": "Cue Biopharma, Inc.",
+   "ticker": "CUE",
+   "cik": 1645460,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 93,
+   "summary": "” Business Highlights CUE-221: Phase 2 CSU Study Results We announced positive Phase 2 CSU topline results demonstrating highly statistically significant dose responsive clinical impact on the primary endpoint of complete hives resolution (HSS7=0) and statistically significant improvement on the key",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1645460/000119312526463741/0001193125-26-463741-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1645460/000119312526463741/cue-ex99_1.htm",
+   "filed_at": "2026-11-16T16:52:54-05:00",
+   "filed_kst": "2026-11-17 06:52",
+   "price": 14.1,
+   "change": -12.53,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 14.1,
+     "change": -12.53
+    },
+    {
+     "date": "2026-11-13",
+     "close": 16.12,
+     "change": -7.89
+    },
+    {
+     "date": "2026-11-12",
+     "close": 17.5,
+     "change": -6.22
+    }
+   ],
+   "market_cap": 117869274.0,
+   "shares_outstanding": 8359523.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "SOMERVILLE, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T08:34:21+09:00"
+  },
+  {
+   "id": "0001104659-26-128485",
+   "company": "Capstone Energy Plus, Inc.",
+   "ticker": "CEPL",
+   "cik": 1009759,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 Capstone Energy+ Secures $25 Million Refinancing and Reports Second Quarter Fiscal 2027 Financial Results ​ $25 million three-year Monarch agreement proceeds used to refinance December 2026 Exit Notes Second-quarter revenue of $22.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926128485/0001104659-26-128485-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926128485/cepl-ex99d1.htm",
+   "filed_at": "2026-11-16T16:54:15-05:00",
+   "filed_kst": "2026-11-17 06:54",
+   "price": 2.63,
+   "change": -1.13,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 2.63,
+     "change": -1.13
+    },
+    {
+     "date": "2026-11-13",
+     "close": 2.66,
+     "change": -6.99
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.86,
+     "change": -7.14
+    }
+   ],
+   "market_cap": 48777687.0,
+   "shares_outstanding": 18546649.0,
+   "industry": "Engines & Turbines",
+   "state_of_incorporation": "DE",
+   "hq": "VAN NUYS, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T08:34:20+09:00"
+  },
+  {
+   "id": "0001213900-26-120816",
+   "company": "ENDRA Life Sciences Inc.",
+   "ticker": "NDRA",
+   "cik": 1681682,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Pursuant to the merger agreement announced on June 25, 2026, Noble Africa will become a wholly owned subsidiary of ENDRA, and ENDRA will be renamed 4K Resources Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026120816/0001213900-26-120816-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026120816/ea031249401ex99-1.htm",
+   "filed_at": "2026-11-16T17:04:49-05:00",
+   "filed_kst": "2026-11-17 07:04",
+   "price": 4.42,
+   "change": 0.23,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 4.42,
+     "change": 0.23
+    },
+    {
+     "date": "2026-11-13",
+     "close": 4.41,
+     "change": -4.96
+    },
+    {
+     "date": "2026-11-12",
+     "close": 4.64,
+     "change": -2.7
+    }
+   ],
+   "market_cap": 6629284.0,
+   "shares_outstanding": 1499838.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "ANN ARBOR, MI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T08:34:15+09:00"
+  },
+  {
+   "id": "0001104659-26-128533",
+   "company": "Capstone Energy Plus, Inc.",
+   "ticker": "CEPL",
+   "cik": 1009759,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "“Joint Venture” means a [LEGAL-ENTITY-LIST], partnership or other similar arrangement, whether in corporate, partnership or other legal form; provided, in no event shall any Wholly- Owned Subsidiary of any Person be considered to be a “Joint Venture” to which s",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926128533/0001104659-26-128533-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926128533/tm2629920d1_ex4-1.htm",
+   "filed_at": "2026-11-16T17:09:20-05:00",
+   "filed_kst": "2026-11-17 07:09",
+   "price": 2.63,
+   "change": -1.13,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 2.63,
+     "change": -1.13
+    },
+    {
+     "date": "2026-11-13",
+     "close": 2.66,
+     "change": -6.99
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.86,
+     "change": -7.14
+    }
+   ],
+   "market_cap": 48777687.0,
+   "shares_outstanding": 18546649.0,
+   "industry": "Engines & Turbines",
+   "state_of_incorporation": "DE",
+   "hq": "VAN NUYS, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T08:34:13+09:00"
+  },
+  {
+   "id": "0001493152-26-052599",
+   "company": "NOMAD POWER SOLUTIONS, INC.",
+   "ticker": "NMAD",
+   "cik": 1335105,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "■ Canadian Strategic Partnership: As announced on September 25, 2026, NOMAD appointed Global Environmental Liquid Ltd.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1335105/000149315226052599/0001493152-26-052599-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1335105/000149315226052599/ex99-1.htm",
+   "filed_at": "2026-11-16T17:22:17-05:00",
+   "filed_kst": "2026-11-17 07:22",
+   "price": 2.8,
+   "change": 19.15,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 2.8,
+     "change": 19.15
+    },
+    {
+     "date": "2026-11-13",
+     "close": 2.35,
+     "change": -36.49
+    },
+    {
+     "date": "2026-11-12",
+     "close": 3.7,
+     "change": -1.33
+    }
+   ],
+   "market_cap": 51574970.0,
+   "shares_outstanding": 18419632.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOCA RATON, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T08:34:02+09:00"
+  },
+  {
+   "id": "0001213900-26-120820",
+   "company": "ENDRA Life Sciences Inc.",
+   "ticker": "NDRA",
+   "cik": 1681682,
+   "form": "425",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Pursuant to the merger agreement announced on June 25, 2026, Noble Africa will become a wholly owned subsidiary of ENDRA, and ENDRA will be renamed 4K Resources Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026120820/0001213900-26-120820-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026120820/ea031249401ex99-1.htm",
+   "filed_at": "2026-11-16T17:06:11-05:00",
+   "filed_kst": "2026-11-17 07:06",
+   "price": 4.42,
+   "change": 0.23,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 4.42,
+     "change": 0.23
+    },
+    {
+     "date": "2026-11-13",
+     "close": 4.41,
+     "change": -4.96
+    },
+    {
+     "date": "2026-11-12",
+     "close": 4.64,
+     "change": -2.7
+    }
+   ],
+   "market_cap": 6629284.0,
+   "shares_outstanding": 1499838.0,
+   "industry": "Electromedical & Electrotherapeutic Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "ANN ARBOR, MI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T08:33:01+09:00"
+  },
+  {
+   "id": "0001104659-26-128510",
+   "company": "X Financial",
+   "ticker": "XYF",
+   "cik": 1725033,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "With its proprietary big data-driven technology, the Company has established strategic partnerships with financial institutions across multiple areas of its business operations, enabling it to facilitate and provide loans to prime borrowers under a risk assessment and control system.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1725033/000110465926128510/0001104659-26-128510-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1725033/000110465926128510/tm2629880d1_ex99-1.htm",
+   "filed_at": "2026-11-16T17:00:40-05:00",
+   "filed_kst": "2026-11-17 07:00",
+   "price": 5.39,
+   "change": -2.36,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 5.39,
+     "change": -2.36
+    },
+    {
+     "date": "2026-11-13",
+     "close": 5.52,
+     "change": 0.36
+    },
+    {
+     "date": "2026-11-12",
+     "close": 5.5,
+     "change": -0.18
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHENZHEN, F4",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-17T08:32:56+09:00"
+  },
+  {
+   "id": "0001001085-26-000030",
+   "company": "BROOKFIELD Corp /ON/",
+   "ticker": "BN",
+   "cik": 1001085,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Looking ahead, we see significant opportunities to grow our flagship funds, scale complementary strategies, deepen strategic partnerships, and access new pools of capital, particularly from private wealth and retirement savings.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1001085/000100108526000030/0001001085-26-000030-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1001085/000100108526000030/a2026-q3bninterimreport.htm",
+   "filed_at": "2026-11-16T17:15:17-05:00",
+   "filed_kst": "2026-11-17 07:15",
+   "price": 40.39,
+   "change": -1.42,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 40.39,
+     "change": -1.42
+    },
+    {
+     "date": "2026-11-13",
+     "close": 40.97,
+     "change": -1.61
+    },
+    {
+     "date": "2026-11-12",
+     "close": 41.64,
+     "change": -1.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Opeators of  Nonresidential Buildings",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO, A6",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T08:32:50+09:00"
+  },
   {
    "id": "0001171843-26-007482",
    "company": "INTERMAP TECHNOLOGIES CORP",
@@ -15146,574 +15735,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-12T23:12:07+09:00"
-  },
-  {
-   "id": "0001628280-26-073175",
-   "company": "CENTRUS ENERGY CORP",
-   "ticker": "LEU",
-   "cik": 1065059,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Centrus has now secured $5.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026073175/0001628280-26-073175-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026073175/leu-20261112.htm",
-   "filed_at": "2026-11-12T09:09:08-05:00",
-   "filed_kst": "2026-11-12 23:09",
-   "price": 112.17,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 112.17,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 112.17,
-     "change": 2.09
-    },
-    {
-     "date": "2026-11-10",
-     "close": 109.87,
-     "change": -6.37
-    }
-   ],
-   "market_cap": 1533805065.0,
-   "shares_outstanding": 13673933.0,
-   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
-   "state_of_incorporation": "DE",
-   "hq": "BETHESDA, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T23:09:41+09:00"
-  },
-  {
-   "id": "0001174947-26-000972",
-   "company": "ENI SPA",
-   "ticker": "E",
-   "cik": 1002242,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "11 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000972/0001174947-26-000972-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000972/0001174947-26-000972-index-headers.html",
-   "filed_at": "2026-11-12T09:04:01-05:00",
-   "filed_kst": "2026-11-12 23:04",
-   "price": 55.89,
-   "change": 1.38,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 55.89,
-     "change": 1.38
-    },
-    {
-     "date": "2026-11-10",
-     "close": 55.13,
-     "change": -1.41
-    },
-    {
-     "date": "2026-11-09",
-     "close": 55.92,
-     "change": 0.85
-    }
-   ],
-   "market_cap": 175872702221.0,
-   "shares_outstanding": 3146765114.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "Italy",
-   "hq": "ROME ITALY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T23:04:51+09:00"
-  },
-  {
-   "id": "0001213900-26-118502",
-   "company": "FG Imperii Acquisition Corp.",
-   "ticker": "FGII",
-   "cik": 2090452,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Under the Agreement and Plan of Merger dated October 31, 2026 with FG Imperii Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026118502/0001213900-26-118502-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026118502/ea0311859-425_tzero.htm",
-   "filed_at": "2026-11-12T09:00:01-05:00",
-   "filed_kst": "2026-11-12 23:00",
-   "price": 10.1,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 10.1,
-     "change": -0.05
-    },
-    {
-     "date": "2026-11-11",
-     "close": 10.1,
-     "change": 0.1
-    },
-    {
-     "date": "2026-11-10",
-     "close": 10.09,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 292294000.0,
-   "shares_outstanding": 28940000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "ITASCA, IL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T23:00:57+09:00"
-  },
-  {
-   "id": "0001193125-26-457157",
-   "company": "Nano Dimension Ltd.",
-   "ticker": "NNDM",
-   "cik": 1643303,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“Stratasys”) in an all-cash transaction valued at $42.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1643303/000119312526457157/0001193125-26-457157-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1643303/000119312526457157/nndm-20261111.htm",
-   "filed_at": "2026-11-12T08:59:37-05:00",
-   "filed_kst": "2026-11-12 22:59",
-   "price": 1.33,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 1.33,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.33,
-     "change": -0.75
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.34,
-     "change": 1.52
-    }
-   ],
-   "market_cap": 263647989.0,
-   "shares_outstanding": 198231571.0,
-   "industry": "Printed Circuit Boards",
-   "state_of_incorporation": "Israel",
-   "hq": "WALTHAM, MA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-12T23:00:52+09:00"
-  },
-  {
-   "id": "0001628280-26-073164",
-   "company": "DoubleDown Interactive Co., Ltd.",
-   "ticker": "DDI",
-   "cik": 1799567,
-   "form": "6-K/A",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "(“DUG”), the Company’s controlling shareholder (the “Agreement”), pursuant to which DUG has commenced a tender offer to acquire all of the outstanding ADSs of the Company not owned by DUG and its affiliates at a price of US$16.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1799567/000162828026073164/0001628280-26-073164-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1799567/000162828026073164/ddi-20260930_d2.htm",
-   "filed_at": "2026-11-12T08:55:46-05:00",
-   "filed_kst": "2026-11-12 22:55",
-   "price": 15.72,
-   "change": 0.13,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 15.72,
-     "change": 0.13
-    },
-    {
-     "date": "2026-11-10",
-     "close": 15.7,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 15.7,
-     "change": 15.61
-    }
-   ],
-   "market_cap": 38949004.0,
-   "shares_outstanding": 2477672.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Korea, Republic of",
-   "hq": "SEOUL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T22:56:25+09:00"
-  },
-  {
-   "id": "0001213900-26-118491",
-   "company": "Skyline Builders Group Holding Ltd",
-   "ticker": "KAZR",
-   "cik": 2031009,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "On November 2, 2026, Skyline and Cove Kaz mutually agreed to terminate their previously announced business combination agreement with Cove Kaz now seeking a direct listing during 1H 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118491/0001213900-26-118491-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118491/ea031182001ex99-1.htm",
-   "filed_at": "2026-11-12T08:45:19-05:00",
-   "filed_kst": "2026-11-12 22:45",
-   "price": 1.16,
-   "change": -7.2,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 1.16,
-     "change": -7.2
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.25,
-     "change": -4.58
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.31,
-     "change": 1.55
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Construction - Special Trade Contractors",
-   "state_of_incorporation": null,
-   "hq": "KOWLOON BAY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T22:46:03+09:00"
-  },
-  {
-   "id": "0001104659-26-125964",
-   "company": "MetaVia Inc.",
-   "ticker": "MTVA",
-   "cik": 1638287,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "1 ​ ​ ​ ​ ​ MetaVia Announces Statistically Significant Reduction in Uric Acid Levels with DA-1726 in Phase 1 Part 3B Clinical Trial ​ Adding to Previously Reported 68.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926125964/0001104659-26-125964-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926125964/mtva-ex99d1.htm",
-   "filed_at": "2026-11-12T08:41:29-05:00",
-   "filed_kst": "2026-11-12 22:41",
-   "price": 1.44,
-   "change": -3.36,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 1.44,
-     "change": -3.36
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.49,
-     "change": -7.45
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.61,
-     "change": 12.59
-    }
-   ],
-   "market_cap": 9486865.0,
-   "shares_outstanding": 6588101.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-12T22:42:19+09:00"
-  },
-  {
-   "id": "0001213900-26-118486",
-   "company": "PolyPid Ltd.",
-   "ticker": "PYPD",
-   "cik": 1611842,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "1 PolyPid Provides Corporate Update and Reports Third Quarter 2026 Financial Results D-PLEX₁₀₀ NDA Under FDA Priority Review with PDUFA Goal Date of November 28, 2026; U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026118486/0001213900-26-118486-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026118486/ea031183401ex99-1.htm",
-   "filed_at": "2026-11-12T08:39:25-05:00",
-   "filed_kst": "2026-11-12 22:39",
-   "price": 6.6,
-   "change": 4.6,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 6.6,
-     "change": 4.6
-    },
-    {
-     "date": "2026-11-10",
-     "close": 6.31,
-     "change": 1.12
-    },
-    {
-     "date": "2026-11-09",
-     "close": 6.24,
-     "change": 1.63
-    }
-   ],
-   "market_cap": 120146413.0,
-   "shares_outstanding": 18204002.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "Israel",
-   "hq": "PETACH TIKVA, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-12T22:40:42+09:00"
-  },
-  {
-   "id": "0001731122-26-001429",
-   "company": "VisionWave Holdings, Inc.",
-   "ticker": "VWAV",
-   "cik": 2038439,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Through technology development and strategic partnerships, VisionWave aims to deliver integrated ground and aerial systems that enhance situational awareness, support operational missions, and reduce personnel exposure to risk across military and civilian environments.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001429/0001731122-26-001429-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001429/e8056_ex99-1.htm",
-   "filed_at": "2026-11-12T08:30:31-05:00",
-   "filed_kst": "2026-11-12 22:30",
-   "price": 1.04,
-   "change": -18.11,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 1.04,
-     "change": -18.11
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.27,
-     "change": -5.93
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.35,
-     "change": 0.75
-    }
-   ],
-   "market_cap": 29995752.0,
-   "shares_outstanding": 28842069.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "WEST HOLLYWOOD, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T22:31:20+09:00"
-  },
-  {
-   "id": "0001062993-26-005914",
-   "company": "FIRST MAJESTIC SILVER CORP",
-   "ticker": "AG",
-   "cik": 1308648,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "The Company also completed the acquisition of an adjacent property, totaling 2,971 Acres (1,202 Hectares).",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1308648/000106299326005914/0001062993-26-005914-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1308648/000106299326005914/exhibit99-1.htm",
-   "filed_at": "2026-11-12T08:29:28-05:00",
-   "filed_kst": "2026-11-12 22:29",
-   "price": 14.77,
-   "change": -1.14,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 14.77,
-     "change": -1.14
-    },
-    {
-     "date": "2026-11-10",
-     "close": 14.94,
-     "change": -5.86
-    },
-    {
-     "date": "2026-11-09",
-     "close": 15.87,
-     "change": 4.68
-    }
-   ],
-   "market_cap": 7256830430.0,
-   "shares_outstanding": 491322304.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-12T22:30:47+09:00"
-  },
-  {
-   "id": "0001178913-26-005177",
-   "company": "Sol-Gel Technologies Ltd.",
-   "ticker": "SLGL",
-   "cik": 1684693,
-   "form": "6-K",
-   "items": [],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과",
-    "가이던스상향"
-   ],
-   "confidence": 64,
-   "summary": "EX-99.1 2 exhibit_99-1.htm EXHIBIT 99.1 Exhibit 99.1 Sol-Gel Reports Third Quarter 2026 Financial Results and Provides Corporate Updates • Pivotal Phase 3 trial of SGT-610 (patidegib gel, 2%) for Gorlin syndrome reached last patient last visit in September 2026, with 102 of 113 enrolled patients com",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1684693/000117891326005177/0001178913-26-005177-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1684693/000117891326005177/exhibit_99-1.htm",
-   "filed_at": "2026-11-12T08:30:06-05:00",
-   "filed_kst": "2026-11-12 22:30",
-   "price": 63.4,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 63.4,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 63.4,
-     "change": 3.09
-    },
-    {
-     "date": "2026-11-10",
-     "close": 61.5,
-     "change": -0.39
-    }
-   ],
-   "market_cap": 176642417.0,
-   "shares_outstanding": 2786158.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "NESS ZIONA",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-12T22:30:44+09:00"
   }
  ]
 }
