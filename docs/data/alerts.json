@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-17T00:49:52+09:00",
+ "updated_at": "2026-11-17T00:54:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-008791",
+   "company": "DAVION HEALTHCARE PLC",
+   "ticker": "DAVI",
+   "cik": 2039072,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "The 14 businesses to be acquired by Davion include five in Pennsylvania and nine across other states: · Pennsylvania: Independence Care of Pennsylvania, Erie, Scranton, Pittsburgh and Philadelphia.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2039072/000168316826008791/0001683168-26-008791-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2039072/000168316826008791/davion_ex9901.htm",
+   "filed_at": "2026-11-16T10:49:41-05:00",
+   "filed_kst": "2026-11-17 00:49",
+   "price": 1.02,
+   "change": 0.02,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 1.02,
+     "change": 0.02
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1.02,
+     "change": 2.18
+    },
+    {
+     "date": "2026-11-13",
+     "close": 1.0,
+     "change": -15.97
+    }
+   ],
+   "market_cap": 25500000.0,
+   "shares_outstanding": 25000000.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Cyprus",
+   "hq": "CLONAKILTY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T00:52:20+09:00"
+  },
   {
    "id": "0001380106-26-000110",
    "company": "RAPID MICRO BIOSYSTEMS, INC.",
@@ -15685,59 +15737,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-12T21:01:38+09:00"
-  },
-  {
-   "id": "0001213900-26-118349",
-   "company": "Quantum Cyber N.V.",
-   "ticker": "QUCY",
-   "cik": 1874252,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "htm FIRST AMENDMENT TO IP LICENSE AGREEMENT, DATED AS OF NOVEMBER 6, 2026, BY AND BETWEEN PROJECT LIGHTSHIFT, INC.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1874252/000121390026118349/0001213900-26-118349-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1874252/000121390026118349/ea031191601ex10-1.htm",
-   "filed_at": "2026-11-12T07:00:18-05:00",
-   "filed_kst": "2026-11-12 21:00",
-   "price": 0.62,
-   "change": -0.08,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.62,
-     "change": -0.08
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.62,
-     "change": -9.42
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.69,
-     "change": 0.88
-    }
-   ],
-   "market_cap": 52122279.0,
-   "shares_outstanding": 84068192.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Netherlands",
-   "hq": "MAINZ",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T21:01:32+09:00"
   }
  ]
 }
