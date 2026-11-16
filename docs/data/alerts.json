@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-16T20:54:22+09:00",
+ "updated_at": "2026-11-16T20:59:06+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001833141-26-000102",
+   "company": "Helus Pharma Inc.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of MDD that has received Breakthrough Therapy Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000102/0001833141-26-000102-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000102/q22027financialresultspres.htm",
+   "filed_at": "2026-11-16T06:54:59-05:00",
+   "filed_kst": "2026-11-16 20:54",
+   "price": 8.87,
+   "change": 0.11,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 8.87,
+     "change": 0.11
+    },
+    {
+     "date": "2026-11-12",
+     "close": 8.86,
+     "change": -5.64
+    },
+    {
+     "date": "2026-11-11",
+     "close": 9.39,
+     "change": 3.53
+    }
+   ],
+   "market_cap": 191602715.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T20:55:30+09:00"
+  },
   {
    "id": "0001654954-26-009804",
    "company": "ASTRAZENECA PLC",
@@ -15638,59 +15689,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T07:28:36+09:00"
-  },
-  {
-   "id": "0001213900-26-118137",
-   "company": "Iron Horse Acquisition II Corp.",
-   "ticker": "IRHO",
-   "cik": 2051985,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Securities and Exchange Commission (the “SEC”) in connection with their previously announced proposed business combination (the “Business Combination”) pursuant to the Merger Agreement, dated as of April 21, 2026, as amended on May 14, 2026 (the “Merger Agreement”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026118137/0001213900-26-118137-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026118137/ea031174701ex99-1.htm",
-   "filed_at": "2026-11-10T17:25:34-05:00",
-   "filed_kst": "2026-11-11 07:25",
-   "price": 10.07,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 10.07,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 10.07,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 10.07,
-     "change": -0.1
-    }
-   ],
-   "market_cap": 295252400.0,
-   "shares_outstanding": 29320000.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "BOCA RATON, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T07:26:28+09:00"
   }
  ]
 }
