@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-16T20:29:08+09:00",
+ "updated_at": "2026-11-16T20:34:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-006039",
+   "company": "Helus Pharma Inc.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of MDD that has received Breakthrough Therapy Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326006039/0001062993-26-006039-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326006039/exhibit99-1.htm",
+   "filed_at": "2026-11-16T06:31:51-05:00",
+   "filed_kst": "2026-11-16 20:31",
+   "price": 8.87,
+   "change": 0.11,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 8.87,
+     "change": 0.11
+    },
+    {
+     "date": "2026-11-12",
+     "close": 8.86,
+     "change": -5.64
+    },
+    {
+     "date": "2026-11-11",
+     "close": 9.39,
+     "change": 3.53
+    }
+   ],
+   "market_cap": 191602715.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T20:32:17+09:00"
+  },
+  {
+   "id": "0001584509-26-000152",
+   "company": "Aramark",
+   "ticker": "ARMK",
+   "cik": 1584509,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 81,
+   "summary": "com Aramark Reports Earnings Results for Fiscal 2026 Company Delivers on 2026 Financial Outlook Board Authorizes New $1 Billion Share Repurchase Program and Raises Quarterly Dividend by 17% FISCAL 2026 YEAR-OVER-YEAR SUMMARY • Record Annualized Gross New Business of $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1584509/000158450926000152/0001584509-26-000152-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1584509/000158450926000152/ex991armkq4fy2026.htm",
+   "filed_at": "2026-11-16T06:31:44-05:00",
+   "filed_kst": "2026-11-16 20:31",
+   "price": 53.94,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 53.94,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 53.94,
+     "change": 0.11
+    },
+    {
+     "date": "2026-11-12",
+     "close": 53.88,
+     "change": 0.17
+    }
+   ],
+   "market_cap": 14219934873.0,
+   "shares_outstanding": 263625044.0,
+   "industry": "Retail-Eating  Places",
+   "state_of_incorporation": "DE",
+   "hq": "PHILADELPHIA, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T20:32:15+09:00"
+  },
   {
    "id": "0001193125-26-461909",
    "company": "SK hynix Inc.",
@@ -15594,111 +15700,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-11T07:02:25+09:00"
-  },
-  {
-   "id": "0001140361-26-043055",
-   "company": "Global Ship Lease, Inc.",
-   "ticker": "GSL",
-   "cik": 1430725,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "배당"
-   ],
-   "confidence": 58,
-   "summary": "8 billion of contracted revenue during the first nine months of this year, we are pleased to once again increase our quarterly dividend, starting with that to be paid for the third quarter of 2026, to $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1430725/000114036126043055/0001140361-26-043055-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1430725/000114036126043055/ef20085197_ex99-2.htm",
-   "filed_at": "2026-11-10T16:49:25-05:00",
-   "filed_kst": "2026-11-11 06:49",
-   "price": 42.29,
-   "change": 2.62,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 42.29,
-     "change": 2.62
-    },
-    {
-     "date": "2026-11-09",
-     "close": 41.21,
-     "change": 5.59
-    },
-    {
-     "date": "2026-11-06",
-     "close": 39.03,
-     "change": 0.93
-    }
-   ],
-   "market_cap": 1518787328.0,
-   "shares_outstanding": 35913628.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "KIFISIA, ATHENS",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T06:50:34+09:00"
-  },
-  {
-   "id": "0001628280-26-072809",
-   "company": "Azenta, Inc.",
-   "ticker": "AZTA",
-   "cik": 933974,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 72,
-   "summary": "Share Repurchase Program Update • On December 8, 2025, our Board of Directors approved a share repurchase program authorizing the repurchase of up to $250 million of our common stock through December 31, 2028, or the 2025 Repurchase Program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026072809/0001628280-26-072809-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/933974/000162828026072809/azta-2026q426erxexx991.htm",
-   "filed_at": "2026-11-10T16:46:21-05:00",
-   "filed_kst": "2026-11-11 06:46",
-   "price": 40.48,
-   "change": -1.15,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 40.48,
-     "change": -1.15
-    },
-    {
-     "date": "2026-11-09",
-     "close": 40.95,
-     "change": 4.57
-    },
-    {
-     "date": "2026-11-06",
-     "close": 39.16,
-     "change": 4.76
-    }
-   ],
-   "market_cap": 1773363749.0,
-   "shares_outstanding": 43808393.0,
-   "industry": "Special Industry Machinery, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "BURLINGTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T06:47:13+09:00"
   }
  ]
 }
