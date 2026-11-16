@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-16T20:04:48+09:00",
+ "updated_at": "2026-11-16T20:09:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-051881",
+   "company": "Nakamoto Inc.",
+   "ticker": "NAKA",
+   "cik": 1946573,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "- 12 - (B) The Company will not, directly or indirectly, use the Net Proceeds, or lend, contribute or otherwise make available such Net Proceeds to any Subsidiary, joint venture partner or other Person: (i) to fund or facilitate any activities or business of or with any Person that, at the time of s",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1946573/000149315226051881/0001493152-26-051881-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1946573/000149315226051881/ex1-1.htm",
+   "filed_at": "2026-11-13T18:46:43-05:00",
+   "filed_kst": "2026-11-14 08:46",
+   "price": 5.0,
+   "change": -13.64,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 5.0,
+     "change": -13.64
+    },
+    {
+     "date": "2026-11-12",
+     "close": 5.79,
+     "change": -7.36
+    },
+    {
+     "date": "2026-11-11",
+     "close": 6.25,
+     "change": 6.47
+    }
+   ],
+   "market_cap": 91732365.0,
+   "shares_outstanding": 18346473.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "NASHVILLE, TN",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T20:06:51+09:00"
+  },
   {
    "id": "0001628280-26-073948",
    "company": "Better Home & Finance Holding Co",
@@ -15663,61 +15715,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-11T06:25:27+09:00"
-  },
-  {
-   "id": "0001628280-26-072768",
-   "company": "Context Therapeutics Inc.",
-   "ticker": "CNTX",
-   "cik": 1842952,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "FDA has granted Fast Track designation to CTIM-76 for patients with PROC who have received all standard-of-care therapies.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026072768/0001628280-26-072768-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1842952/000162828026072768/a2026nov-contextxcorpdec.htm",
-   "filed_at": "2026-11-10T16:23:34-05:00",
-   "filed_kst": "2026-11-11 06:23",
-   "price": 0.19,
-   "change": -6.5,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 0.19,
-     "change": -6.5
-    },
-    {
-     "date": "2026-11-09",
-     "close": 0.2,
-     "change": 3.09
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.19,
-     "change": 3.19
-    }
-   ],
-   "market_cap": 17457044.0,
-   "shares_outstanding": 91879177.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "PHILADELPHIA, PA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:24:07+09:00"
   }
  ]
 }
