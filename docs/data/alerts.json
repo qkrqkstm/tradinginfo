@@ -1,7 +1,115 @@
 {
- "updated_at": "2026-11-17T06:44:19+09:00",
+ "updated_at": "2026-11-17T06:50:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-037204",
+   "company": "MAUI LAND & PINEAPPLE CO INC",
+   "ticker": "MLP",
+   "cik": 63330,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "2 million of recurring revenue year to date; over $20 million of land sales in escrow; agave joint venture formed with Ocean Vodka KAPALUA, Hawai ‘ i / November 16, 2026 (BusinessWire) – Maui Land & Pineapple Company, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/63330/000143774926037204/0001437749-26-037204-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/63330/000143774926037204/ex_1039883.htm",
+   "filed_at": "2026-11-16T16:36:40-05:00",
+   "filed_kst": "2026-11-17 06:36",
+   "price": 14.6,
+   "change": -0.68,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 14.6,
+     "change": -0.68
+    },
+    {
+     "date": "2026-11-13",
+     "close": 14.7,
+     "change": -2.33
+    },
+    {
+     "date": "2026-11-12",
+     "close": 15.05,
+     "change": -0.4
+    }
+   ],
+   "market_cap": 291529997.0,
+   "shares_outstanding": 19967808.0,
+   "industry": "Real Estate",
+   "state_of_incorporation": "HI",
+   "hq": "LAHAINA, HI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T06:46:38+09:00"
+  },
+  {
+   "id": "0002015845-26-000065",
+   "company": "Everus Construction Group, Inc.",
+   "ticker": "ECG",
+   "cik": 2015845,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "1 Everus Announces Authorization of New $100 Million Share Repurchase Program BISMARCK, N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2015845/000201584526000065/0002015845-26-000065-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2015845/000201584526000065/ex99-sharerepurchaseauthor.htm",
+   "filed_at": "2026-11-16T16:41:06-05:00",
+   "filed_kst": "2026-11-17 06:41",
+   "price": 82.92,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 82.92,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 82.92,
+     "change": -2.73
+    },
+    {
+     "date": "2026-11-13",
+     "close": 85.25,
+     "change": -2.2
+    }
+   ],
+   "market_cap": 4234240147.0,
+   "shares_outstanding": 51064160.0,
+   "industry": "Operative Builders",
+   "state_of_incorporation": "DE",
+   "hq": "BISMARCK, ND",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T06:46:13+09:00"
+  },
   {
    "id": "0001193125-26-463570",
    "company": "Navigator Holdings Ltd.",
@@ -15608,110 +15716,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-12T22:30:43+09:00"
-  },
-  {
-   "id": "0001193125-26-457088",
-   "company": "Ondas Inc.",
-   "ticker": "ONDS",
-   "cik": 1646188,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 64,
-   "summary": "5 million, up 100% sequentially and more than 16-fold year over year; pro forma organic revenue grew 64% year-over-year Captured $214 million in new orders during Q3; backlog increased 36% sequentially to $835 million Raises full-year 2026 revenue target to at least $550 million; targets more than $",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1646188/000119312526457088/0001193125-26-457088-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1646188/000119312526457088/onds-ex99_1.htm",
-   "filed_at": "2026-11-12T08:24:42-05:00",
-   "filed_kst": "2026-11-12 22:24",
-   "price": 5.73,
-   "change": 2.87,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 5.73,
-     "change": 2.87
-    },
-    {
-     "date": "2026-11-10",
-     "close": 5.57,
-     "change": -6.7
-    },
-    {
-     "date": "2026-11-09",
-     "close": 5.97,
-     "change": 11.9
-    }
-   ],
-   "market_cap": 3269264914.0,
-   "shares_outstanding": 570552341.0,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": "NV",
-   "hq": "WEST PALM BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-12T22:25:55+09:00"
-  },
-  {
-   "id": "0001628280-26-073143",
-   "company": "Aya Gold & Silver Inc.",
-   "ticker": "AYA",
-   "cik": 1826836,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "On October 16, 2026, Aya completed the acquisition of a copper-silver portfolio of exploration permits and a mining license covering approximately 139 km² in the Tizi area, about 35 km west of the Zgounder Silver Mine.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1826836/000162828026073143/0001628280-26-073143-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1826836/000162828026073143/q32026ayagoldsilverinc-fin.htm",
-   "filed_at": "2026-11-12T08:20:33-05:00",
-   "filed_kst": "2026-11-12 22:20",
-   "price": 24.49,
-   "change": -2.7,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 24.49,
-     "change": -2.7
-    },
-    {
-     "date": "2026-11-10",
-     "close": 25.17,
-     "change": -5.98
-    },
-    {
-     "date": "2026-11-09",
-     "close": 26.77,
-     "change": 5.52
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "MONT-ROYAL, QUEBEC, Z4",
-   "entity_category": null,
-   "detected_at": "2026-11-12T22:21:38+09:00"
   }
  ]
 }
