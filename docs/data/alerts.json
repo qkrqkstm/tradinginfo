@@ -1,7 +1,323 @@
 {
- "updated_at": "2026-11-16T20:44:51+09:00",
+ "updated_at": "2026-11-16T20:49:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-461954",
+   "company": "Blackstone Digital Infrastructure Trust Inc.",
+   "ticker": "BXDC",
+   "cik": 2100161,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "(the “Tenant Parent”), pursuant to which the Company Parties have agreed to acquire a 75.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2100161/000119312526461954/0001193125-26-461954-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2100161/000119312526461954/d115778dex991.htm",
+   "filed_at": "2026-11-16T06:45:09-05:00",
+   "filed_kst": "2026-11-16 20:45",
+   "price": 16.69,
+   "change": 0.85,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 16.69,
+     "change": 0.85
+    },
+    {
+     "date": "2026-11-12",
+     "close": 16.55,
+     "change": -1.61
+    },
+    {
+     "date": "2026-11-11",
+     "close": 16.82,
+     "change": 0.84
+    }
+   ],
+   "market_cap": 1680494420.0,
+   "shares_outstanding": 100688701.0,
+   "industry": "Real Estate",
+   "state_of_incorporation": "MD",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T20:48:45+09:00"
+  },
+  {
+   "id": "0000932696-26-000085",
+   "company": "INSIGHT ENTERPRISES INC",
+   "ticker": "NSIT",
+   "cik": 932696,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) approved the authorization of a stock repurchase program pursuant to which the Company may purchase up to $400.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/932696/000093269626000085/0000932696-26-000085-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/932696/000093269626000085/nsit-20261116.htm",
+   "filed_at": "2026-11-16T06:45:33-05:00",
+   "filed_kst": "2026-11-16 20:45",
+   "price": 168.76,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 168.76,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 168.76,
+     "change": -2.37
+    },
+    {
+     "date": "2026-11-12",
+     "close": 172.85,
+     "change": 2.01
+    }
+   ],
+   "market_cap": 4862053398.0,
+   "shares_outstanding": 28810461.0,
+   "industry": "Retail-Catalog & Mail-Order Houses",
+   "state_of_incorporation": "DE",
+   "hq": "CHANDLER, AZ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T20:48:44+09:00"
+  },
+  {
+   "id": "0001104659-26-127601",
+   "company": "BLACK HILLS CORP /SD/",
+   "ticker": "BKH",
+   "cik": 1130464,
+   "form": "8-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Shares of the capital stock of the Company shall be transferable on the books of the Company only by the holder of record thereof or by a duly authorized attorney upon surrender and cancellation of certificates for a like number of shares properly endorsed.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1130464/000110465926127601/0001104659-26-127601-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1130464/000110465926127601/tm2629827d1_ex99-1.htm",
+   "filed_at": "2026-11-16T06:45:40-05:00",
+   "filed_kst": "2026-11-16 20:45",
+   "price": 86.7,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 86.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 86.7,
+     "change": -0.95
+    },
+    {
+     "date": "2026-11-12",
+     "close": 87.53,
+     "change": 0.66
+    }
+   ],
+   "market_cap": 6634700507.0,
+   "shares_outstanding": 76524804.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "SD",
+   "hq": "RAPID CITY, SD",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T20:48:43+09:00"
+  },
+  {
+   "id": "0002100161-26-000015",
+   "company": "Blackstone Digital Infrastructure Trust Inc.",
+   "ticker": "BXDC",
+   "cik": 2100161,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "2 bxdc-transactionsummary Blackstone Digital Infrastructure Trust Transaction Summary NOVEMBER 2026 Blackstone |Blackstone Digital Infrastructure Trust TRANSACTION OVERVIEW BXDC has agreed to acquire a 75% controlling interest in two newly developed powered shell data center campuses (647 MW) in a s",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2100161/000210016126000015/0002100161-26-000015-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2100161/000210016126000015/exhibit991-20260930.htm",
+   "filed_at": "2026-11-16T06:46:27-05:00",
+   "filed_kst": "2026-11-16 20:46",
+   "price": 16.69,
+   "change": 0.85,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 16.69,
+     "change": 0.85
+    },
+    {
+     "date": "2026-11-12",
+     "close": 16.55,
+     "change": -1.61
+    },
+    {
+     "date": "2026-11-11",
+     "close": 16.82,
+     "change": 0.84
+    }
+   ],
+   "market_cap": 1680494420.0,
+   "shares_outstanding": 100688701.0,
+   "industry": "Real Estate",
+   "state_of_incorporation": "MD",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T20:48:41+09:00"
+  },
+  {
+   "id": "0001255294-13-000691",
+   "company": "American Heritage International Inc.",
+   "ticker": "AHII",
+   "cik": 1545236,
+   "form": "8-K",
+   "items": [
+    "1.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "As a result of the purchase of shares, along with their ownership of Series A Convertible Preferred Stock and the cancellation of Joseph Isaacs shares, Anthony Sarvucci, Vincent Bonifatto and Anderson Levine LLC are now in control of 75% of our issued and outstanding voting securities.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1545236/000125529413000691/0001255294-13-000691-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1545236/000125529413000691/mainbody.htm",
+   "filed_at": "2013-08-30T16:49:22-04:00",
+   "filed_kst": "2013-08-31 05:49",
+   "price": 0.0,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 0.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.0,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-11",
+     "close": 0.0,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 99866250.0,
+   "industry": "Sanitary Services",
+   "state_of_incorporation": "NV",
+   "hq": "BROWNSVILLE, TX",
+   "entity_category": [
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T20:47:19+09:00"
+  },
+  {
+   "id": "0001193125-13-354184",
+   "company": "OPKO HEALTH, INC.",
+   "ticker": "OPK",
+   "cik": 944809,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "M&A",
+    "임상통과"
+   ],
+   "confidence": 78,
+   "summary": "In addition to its long-acting version of human growth hormone, which successfully completed a Phase II clinical trial, PROLOR is developing long-acting versions of Factor VIIa and Factor IX for hemophilia and a GLP-1/Glucagon dual receptor agonist peptide for diabetes and obesity.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/944809/000119312513354184/0001193125-13-354184-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/944809/000119312513354184/d591876dex991.htm",
+   "filed_at": "2013-08-30T17:17:34-04:00",
+   "filed_kst": "2013-08-31 06:17",
+   "price": 1.68,
+   "change": 0.6,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 1.68,
+     "change": 0.6
+    },
+    {
+     "date": "2026-11-12",
+     "close": 1.67,
+     "change": -2.34
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1.71,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 1247410881.0,
+   "shares_outstanding": 742506477.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-16T20:46:16+09:00"
+  },
   {
    "id": "0001062993-26-006039",
    "company": "Helus Pharma Inc.",
@@ -15376,330 +15692,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T07:23:20+09:00"
-  },
-  {
-   "id": "0001213900-26-118129",
-   "company": "GP-Act III Acquisition Corp.",
-   "ticker": "GPAT",
-   "cik": 1834526,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "On 3 November 2026, Dronamics announced it has entered into a Business Combination Agreement with GP-Act III Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1834526/000121390026118129/0001213900-26-118129-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1834526/000121390026118129/ea0311765-425_gpact3.htm",
-   "filed_at": "2026-11-10T17:21:26-05:00",
-   "filed_kst": "2026-11-11 07:21",
-   "price": 11.07,
-   "change": 0.09,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 11.07,
-     "change": 0.09
-    },
-    {
-     "date": "2026-11-09",
-     "close": 11.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 11.06,
-     "change": -0.18
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T07:22:16+09:00"
-  },
-  {
-   "id": "0001213900-26-118109",
-   "company": "CorMedix Inc.",
-   "ticker": "CRMD",
-   "cik": 1410098,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 67,
-   "summary": "EX-99.1 2 ea031153201ex99-1.htm INVESTOR CALL TRANSCRIPT, DATED NOVEMBER 9, 2026 Exhibit 99.1 FINAL TRANSCRIPT CorMedix Inc (CRMD US Equity) 2026-11-09 Acquisition of Heron Therapeutics by CorMedix Therapeutics Company Participants ● Joseph Todisco “Joe”, Chairman/CEO Other Participants ● Brandon Fo",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026118109/0001213900-26-118109-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1410098/000121390026118109/ea031153201ex99-1.htm",
-   "filed_at": "2026-11-10T17:15:38-05:00",
-   "filed_kst": "2026-11-11 07:15",
-   "price": 5.37,
-   "change": -1.83,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 5.37,
-     "change": -1.83
-    },
-    {
-     "date": "2026-11-09",
-     "close": 5.47,
-     "change": 2.82
-    },
-    {
-     "date": "2026-11-06",
-     "close": 5.32,
-     "change": 1.72
-    }
-   ],
-   "market_cap": 418561020.0,
-   "shares_outstanding": 77944324.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "PARSIPPANY, NJ",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-11T07:16:35+09:00"
-  },
-  {
-   "id": "0001193125-26-455736",
-   "company": "GRACO INC",
-   "ticker": "GGG",
-   "cik": 42888,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 88,
-   "summary": "com Graco Announces $600 Million Accelerated Share Repurchase Agreement MINNEAPOLIS (November 10, 2026) – Graco Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/42888/000119312526455736/0001193125-26-455736-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/42888/000119312526455736/d125383dex991.htm",
-   "filed_at": "2026-11-10T17:13:39-05:00",
-   "filed_kst": "2026-11-11 07:13",
-   "price": 69.7,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 69.7,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 69.7,
-     "change": -0.17
-    },
-    {
-     "date": "2026-11-09",
-     "close": 69.82,
-     "change": 2.89
-    }
-   ],
-   "market_cap": 11178146700.0,
-   "shares_outstanding": 160375132.0,
-   "industry": "Pumps & Pumping Equipment",
-   "state_of_incorporation": "MN",
-   "hq": "MINNEAPOLIS, MN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T07:14:12+09:00"
-  },
-  {
-   "id": "0001437749-26-036229",
-   "company": "Perma-Pipe International Holdings, Inc.",
-   "ticker": "PPIH",
-   "cik": 914122,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "(Nasdaq: PPIH), a global leader in engineered piping and corrosion protection solutions, today announced that its subsidiary, Perma-Pipe Qatar, has agreed to acquire a 51% equity interest in Welspun Special Coating Private Limited (“WSCPL”), a newly formed company that will provide internal fusion-b",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/914122/000143774926036229/0001437749-26-036229-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/914122/000143774926036229/ex_1040376.htm",
-   "filed_at": "2026-11-10T17:12:53-05:00",
-   "filed_kst": "2026-11-11 07:12",
-   "price": 29.53,
-   "change": -0.4,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 29.53,
-     "change": -0.4
-    },
-    {
-     "date": "2026-11-09",
-     "close": 29.65,
-     "change": 4.33
-    },
-    {
-     "date": "2026-11-06",
-     "close": 28.42,
-     "change": 4.45
-    }
-   ],
-   "market_cap": 242003636.0,
-   "shares_outstanding": 8195179.0,
-   "industry": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
-   "state_of_incorporation": "DE",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T07:13:40+09:00"
-  },
-  {
-   "id": "0001087294-26-000076",
-   "company": "CUMBERLAND PHARMACEUTICALS INC",
-   "ticker": "CPIX",
-   "cik": 1087294,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 95,
-   "summary": "Ifetroban has received Orphan Drug, Rare Pediatric Disease and Fast Track designations, and the FDA has conditionally accepted DYSCORBAN ® as the proprietary name for the product.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1087294/000108729426000076/0001087294-26-000076-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1087294/000108729426000076/a2026q3-ex991er.htm",
-   "filed_at": "2026-11-10T17:06:04-05:00",
-   "filed_kst": "2026-11-11 07:06",
-   "price": 5.3,
-   "change": -1.3,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 5.3,
-     "change": -1.3
-    },
-    {
-     "date": "2026-11-09",
-     "close": 5.37,
-     "change": 2.87
-    },
-    {
-     "date": "2026-11-06",
-     "close": 5.22,
-     "change": 4.19
-    }
-   ],
-   "market_cap": 79410467.0,
-   "shares_outstanding": 14983107.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "TN",
-   "hq": "NASHVILLE,, TN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T07:07:01+09:00"
-  },
-  {
-   "id": "0002014596-26-000085",
-   "company": "Concentra Group Holdings Parent, Inc.",
-   "ticker": "CON",
-   "cik": 2014596,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "The transaction under the Stock Repurchase Agreement was made pursuant to the Company’s previously announced share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2014596/000201459626000085/0002014596-26-000085-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2014596/000201459626000085/con-stockrepurchaseagree.htm",
-   "filed_at": "2026-11-10T17:01:25-05:00",
-   "filed_kst": "2026-11-11 07:01",
-   "price": 42.67,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 42.67,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 42.67,
-     "change": 0.64
-    },
-    {
-     "date": "2026-11-09",
-     "close": 42.4,
-     "change": 0.43
-    }
-   ],
-   "market_cap": 5398511795.0,
-   "shares_outstanding": 126517736.0,
-   "industry": "Services-Specialty Outpatient Facilities, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "ADDISON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T07:02:25+09:00"
   }
  ]
 }
