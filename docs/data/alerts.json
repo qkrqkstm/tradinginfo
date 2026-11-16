@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-16T20:49:45+09:00",
+ "updated_at": "2026-11-16T20:54:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009804",
+   "company": "ASTRAZENECA PLC",
+   "ticker": "AZN",
+   "cik": 901832,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 64,
+   "summary": "Klygefa (gefurulimab) approved in the EU 16 November 2026 Klygefa (gefurulimab) approved in the EU for the treatment of adults with generalised myasthenia gravis (gMG) Approval based on PREVAIL Phase III trial demonstrating statistically significant and clinically meaningful improvement in Myastheni",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009804/0001654954-26-009804-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009804/a2029d.htm",
+   "filed_at": "2026-11-16T06:52:23-05:00",
+   "filed_kst": "2026-11-16 20:52",
+   "price": 184.45,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 184.45,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 184.45,
+     "change": 0.04
+    },
+    {
+     "date": "2026-11-12",
+     "close": 184.38,
+     "change": -0.59
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "CAMBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T20:52:57+09:00"
+  },
   {
    "id": "0001193125-26-461954",
    "company": "Blackstone Digital Infrastructure Trust Inc.",
@@ -15641,57 +15691,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T07:26:28+09:00"
-  },
-  {
-   "id": "0001062993-26-005886",
-   "company": "Elemental Royalty Corp",
-   "ticker": "ELE",
-   "cik": 2086771,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "Key developments included: • Acquisition of Vizsla Royalties: Completed the acquisition of Vizsla Royalties in September 2026, adding a life-of-mine 2.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2086771/000106299326005886/0001062993-26-005886-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2086771/000106299326005886/exhibit99-1.htm",
-   "filed_at": "2026-11-10T17:22:39-05:00",
-   "filed_kst": "2026-11-11 07:22",
-   "price": 16.09,
-   "change": -4.34,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 16.09,
-     "change": -4.34
-    },
-    {
-     "date": "2026-11-09",
-     "close": 16.82,
-     "change": 5.52
-    },
-    {
-     "date": "2026-11-06",
-     "close": 15.94,
-     "change": 2.84
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "LITTLETON, CO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T07:23:20+09:00"
   }
  ]
 }
