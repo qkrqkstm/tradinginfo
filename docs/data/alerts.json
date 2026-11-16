@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-17T02:44:20+09:00",
+ "updated_at": "2026-11-17T02:53:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001648416-26-000145",
+   "company": "Ferrari N.V.",
+   "ticker": "RACE",
+   "cik": 1648416,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), November 16, 2026 – Ferrari N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000145/0001648416-26-000145-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000145/fnvbb161126prex.htm",
+   "filed_at": "2026-11-16T12:47:44-05:00",
+   "filed_kst": "2026-11-17 02:47",
+   "price": 404.74,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 404.74,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 404.74,
+     "change": -1.55
+    },
+    {
+     "date": "2026-11-13",
+     "close": 411.13,
+     "change": 1.39
+    }
+   ],
+   "market_cap": 74774860999.0,
+   "shares_outstanding": 184747890.0,
+   "industry": "Motor Vehicles & Passenger Car Bodies",
+   "state_of_incorporation": "Netherlands",
+   "hq": "MARANELLO, L6",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T02:50:22+09:00"
+  },
   {
    "id": "0001575872-26-000794",
    "company": "DATZ WORLD HOLDINGS CORP.",
@@ -15688,54 +15738,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-12T21:02:51+09:00"
-  },
-  {
-   "id": "0001193125-26-456883",
-   "company": "THOMSON REUTERS CORP /CAN/",
-   "ticker": "TRI",
-   "cik": 1075124,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "1 NEWS RELEASE Thomson Reuters Announces $500 Million Share Repurchase Program and New Normal Course Issuer Bid TORONTO, November 11, 2026 – Thomson Reuters (TSX/Nasdaq: TRI), a global content and technology company, today announced that it plans to repurchase up to $500 million of its shares.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312526456883/0001193125-26-456883-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312526456883/d129320dex991.htm",
-   "filed_at": "2026-11-12T07:01:22-05:00",
-   "filed_kst": "2026-11-12 21:01",
-   "price": 108.83,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 108.83,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 108.83,
-     "change": 0.39
-    },
-    {
-     "date": "2026-11-10",
-     "close": 108.41,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 52901486389.0,
-   "shares_outstanding": 486092864.0,
-   "industry": "Miscellaneous Publishing",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO, A6",
-   "entity_category": null,
-   "detected_at": "2026-11-12T21:02:19+09:00"
   }
  ]
 }
