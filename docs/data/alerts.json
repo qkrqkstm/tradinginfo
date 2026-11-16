@@ -1,7 +1,116 @@
 {
- "updated_at": "2026-11-17T06:35:10+09:00",
+ "updated_at": "2026-11-17T06:40:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001687229-26-000059",
+   "company": "Invitation Homes Inc.",
+   "ticker": "INVH",
+   "cik": 1687229,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "78 avg/sh Stock repurchase authorizations $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000059/0001687229-26-000059-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000059/invh-20261116.htm",
+   "filed_at": "2026-11-16T16:30:10-05:00",
+   "filed_kst": "2026-11-17 06:30",
+   "price": 27.1,
+   "change": 0.93,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 27.1,
+     "change": 0.93
+    },
+    {
+     "date": "2026-11-13",
+     "close": 26.85,
+     "change": 0.75
+    },
+    {
+     "date": "2026-11-12",
+     "close": 26.65,
+     "change": -0.86
+    }
+   ],
+   "market_cap": 15613788468.0,
+   "shares_outstanding": 576154556.0,
+   "industry": "Real Estate Operators (No Developers) & Lessors",
+   "state_of_incorporation": null,
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T06:37:38+09:00"
+  },
+  {
+   "id": "0001683168-26-008860",
+   "company": "AETHLON MEDICAL INC",
+   "ticker": "AEMD",
+   "cik": 882291,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "M&A",
+    "파트너십",
+    "탑라인결과"
+   ],
+   "confidence": 89,
+   "summary": "5 - 1M 8 24 25 2028 2027 2026 • Q1: Ph 1b Topline Data • 2028: Ph 2b Topline Data • Q1: Ph 1a Start • H1: Ph 1b Start • 2027: Ph 2b Start • Midyear: Ph 1a PK/ Safety Data • Q4: Australia HREC and CTN Submission NOR - 101 IL - 13xIL - 18 • Ph 1a Start • DC Nomination NOR - 201 Undisclosed Key Anticip",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882291/000168316826008860/0001683168-26-008860-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/882291/000168316826008860/aethlon_ex9901.htm",
+   "filed_at": "2026-11-16T16:30:02-05:00",
+   "filed_kst": "2026-11-17 06:30",
+   "price": 5.01,
+   "change": -5.29,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 5.01,
+     "change": -5.29
+    },
+    {
+     "date": "2026-11-13",
+     "close": 5.29,
+     "change": -5.2
+    },
+    {
+     "date": "2026-11-12",
+     "close": 5.58,
+     "change": 0.9
+    }
+   ],
+   "market_cap": 8052909.0,
+   "shares_outstanding": 1607367.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "NV",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T06:36:05+09:00"
+  },
   {
    "id": "0001213900-26-120580",
    "company": "Critical Metals Corp.",
@@ -15616,113 +15725,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-12T22:11:08+09:00"
-  },
-  {
-   "id": "0001104659-26-125912",
-   "company": "Theriva Biologics, Inc.",
-   "ticker": "TOVX",
-   "cik": 894158,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "o VCN-01 has Orphan Drug Designation from the FDA, Orphan Medicinal Product Designation from the EMA and Rare Pediatric Disease Designation from the FDA for the treatment of retinoblastoma; if a Biologics License Application (BLA) for VCN-01 for the treatment of retinobl",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/894158/000110465926125912/0001104659-26-125912-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/894158/000110465926125912/tm2629526d1_ex99-1.htm",
-   "filed_at": "2026-11-12T08:10:34-05:00",
-   "filed_kst": "2026-11-12 22:10",
-   "price": 0.16,
-   "change": 0.56,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.16,
-     "change": 0.56
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.16,
-     "change": 6.67
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.15,
-     "change": -11.76
-    }
-   ],
-   "market_cap": 7342827.0,
-   "shares_outstanding": 45892668.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NV",
-   "hq": "ROCKVILLE, MD",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-12T22:11:07+09:00"
-  },
-  {
-   "id": "0001213900-26-118444",
-   "company": "Inflection Point Acquisition Corp. VII",
-   "ticker": "IPXG",
-   "cik": 2088805,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "htm SECOND AMENDMENT TO BUSINESS COMBINATION AGREEMENT, DATED AS OF NOVEMBER 11, 2026, BY AND AMONG INFLECTION POINT ACQUISITION CORP.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026118444/0001213900-26-118444-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026118444/ea031191201ex10-1.htm",
-   "filed_at": "2026-11-12T08:09:48-05:00",
-   "filed_kst": "2026-11-12 22:09",
-   "price": 10.21,
-   "change": -0.2,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 10.21,
-     "change": -0.2
-    },
-    {
-     "date": "2026-11-10",
-     "close": 10.23,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 10.23,
-     "change": 0.2
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T22:10:33+09:00"
   }
  ]
 }
