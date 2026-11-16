@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-16T22:58:15+09:00",
+ "updated_at": "2026-11-16T23:08:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-462318",
+   "company": "ONTO INNOVATION INC.",
+   "ticker": "ONTO",
+   "cik": 704532,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 71,
+   "summary": "1 Onto Innovation Announces $400 Million Share Repurchase Program Wilmington, Mass .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/704532/000119312526462318/0001193125-26-462318-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/704532/000119312526462318/onto-ex99_1.htm",
+   "filed_at": "2026-11-16T09:06:51-05:00",
+   "filed_kst": "2026-11-16 23:06",
+   "price": 203.62,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 203.62,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 203.62,
+     "change": -2.89
+    },
+    {
+     "date": "2026-11-12",
+     "close": 209.67,
+     "change": -2.51
+    }
+   ],
+   "market_cap": 9994550664.0,
+   "shares_outstanding": 49084327.0,
+   "industry": "Measuring & Controlling Devices, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "WILMINGTON, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T23:08:36+09:00"
+  },
+  {
+   "id": "0001683168-26-008776",
+   "company": "iPower Inc.",
+   "ticker": "IPW",
+   "cik": 1830072,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 77,
+   "summary": "EX-10.1 2 ipower_ex1001.htm FORM OF SERIES A SENIOR SECURED CONVERTIBLE NOTE Exhibit 10.1 NEITHER THE ISSUANCE AND SALE OF THE SECURITIES REPRESENTED BY THIS CERTIFICATE NOR THE SECURITIES INTO WHICH THESE SECURITIES ARE CONVERTIBLE HAVE BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, ",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826008776/0001683168-26-008776-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826008776/ipower_ex1001.htm",
+   "filed_at": "2026-11-16T09:00:15-05:00",
+   "filed_kst": "2026-11-16 23:00",
+   "price": 1.24,
+   "change": -3.88,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 1.24,
+     "change": -3.88
+    },
+    {
+     "date": "2026-11-12",
+     "close": 1.29,
+     "change": -7.19
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1.39,
+     "change": -6.71
+    }
+   ],
+   "market_cap": 1565604.0,
+   "shares_outstanding": 1262584.0,
+   "industry": "Retail-Building Materials, Hardware, Garden Supply",
+   "state_of_incorporation": "NV",
+   "hq": "RANCHO CUCAMONGA, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T23:04:36+09:00"
+  },
   {
    "id": "0001193125-26-462286",
    "company": "Baidu, Inc.",
@@ -15635,110 +15740,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-12T20:55:23+09:00"
-  },
-  {
-   "id": "0001193125-26-456847",
-   "company": "Pharvaris N.V.",
-   "ticker": "PHVS",
-   "cik": 1830487,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 94,
-   "summary": "1 Pharvaris Reports Third Quarter 2026 Financial Results and Provides Business Update • Deucrictibant IR NDA under review by the FDA with PDUFA date of April 23, 2027 • Topline data from part 1 of CREAATE, a pivotal Phase 3 study evaluating deucrictibant XR for the prophylaxis of AAE-C1INH attacks, ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1830487/000119312526456847/0001193125-26-456847-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1830487/000119312526456847/phvs-ex99_3.htm",
-   "filed_at": "2026-11-12T06:51:41-05:00",
-   "filed_kst": "2026-11-12 20:51",
-   "price": 34.18,
-   "change": 0.56,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 34.18,
-     "change": 0.56
-    },
-    {
-     "date": "2026-11-10",
-     "close": 33.99,
-     "change": -1.39
-    },
-    {
-     "date": "2026-11-09",
-     "close": 34.47,
-     "change": 0.23
-    }
-   ],
-   "market_cap": 2228897966.0,
-   "shares_outstanding": 65210590.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Netherlands",
-   "hq": "LEIDEN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:52:15+09:00"
-  },
-  {
-   "id": "0001760965-26-000084",
-   "company": "Kontoor Brands, Inc.",
-   "ticker": "KTB",
-   "cik": 1760965,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 67,
-   "summary": "(the “Company”) entered into accelerated share repurchase agreements (the “ASR Agreements”) with financial institutions (the “Dealers”) to repurchase $400 million of the Company’s common stock, consistent with the Company’s previously announced intention to undertake a $400 million accele",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000084/0001760965-26-000084-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1760965/000176096526000084/ktb-20261111.htm",
-   "filed_at": "2026-11-12T06:50:29-05:00",
-   "filed_kst": "2026-11-12 20:50",
-   "price": 79.34,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 79.34,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 79.34,
-     "change": -4.17
-    },
-    {
-     "date": "2026-11-10",
-     "close": 82.79,
-     "change": 0.99
-    }
-   ],
-   "market_cap": 4332915287.0,
-   "shares_outstanding": 54611990.0,
-   "industry": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
-   "state_of_incorporation": "NC",
-   "hq": "GREENSBORO, NC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:51:09+09:00"
   }
  ]
 }
