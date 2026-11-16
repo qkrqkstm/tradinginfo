@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-16T19:59:18+09:00",
+ "updated_at": "2026-11-16T20:04:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-073948",
+   "company": "Better Home & Finance Holding Co",
+   "ticker": "BETR",
+   "cik": 1835856,
+   "form": "8-K/A",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "The Program is part of the Companies approved $30 million stock buyback program and will begin with an initial aggregate net cash expenditure limit of $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026073948/0001628280-26-073948-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026073948/betr-20261111.htm",
+   "filed_at": "2026-11-13T17:49:18-05:00",
+   "filed_kst": "2026-11-14 07:49",
+   "price": 15.44,
+   "change": -1.53,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 15.44,
+     "change": -1.53
+    },
+    {
+     "date": "2026-11-12",
+     "close": 15.68,
+     "change": 1.85
+    },
+    {
+     "date": "2026-11-11",
+     "close": 15.4,
+     "change": -16.83
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Loan Brokers",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T20:04:10+09:00"
+  },
   {
    "id": "0001571049-14-004557",
    "company": "Intercontinental Exchange, Inc.",
@@ -15666,60 +15718,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T06:24:07+09:00"
-  },
-  {
-   "id": "0001357459-26-000025",
-   "company": "PALISADE BIO, INC.",
-   "ticker": "PALI",
-   "cik": 1357459,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "1 Palisade Bio Reports Third Quarter 2026 Financial Results and Advances PALI-2108 Phase 2 Clinical Development Programs First Patient Dosed in Global Phase 2b ASCENTRA-UC Trial; Topline Results Expected in Q4 2027 FDA Clearance Received for Phase 2a ASCENTRA-CD Trial; Initiation of Enrollment Targe",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1357459/000135745926000025/0001357459-26-000025-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1357459/000135745926000025/pali-ex99_1.htm",
-   "filed_at": "2026-11-10T16:22:49-05:00",
-   "filed_kst": "2026-11-11 06:22",
-   "price": 1.13,
-   "change": -5.04,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 1.13,
-     "change": -5.04
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.19,
-     "change": 5.31
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.13,
-     "change": -2.59
-    }
-   ],
-   "market_cap": 202583937.0,
-   "shares_outstanding": 179277820.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "CARLSBAD, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-11T06:23:30+09:00"
   }
  ]
 }
