@@ -1,7 +1,326 @@
 {
- "updated_at": "2026-11-16T20:14:32+09:00",
+ "updated_at": "2026-11-16T20:19:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-127552",
+   "company": "IHS Holding Ltd",
+   "ticker": "IHS",
+   "cik": 1876183,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Form 20-F x Form 40-F ¨ Extension of the End Date under the Merger Agreement As previously disclosed, on August 4, 2026, IHS Holding Limited (the “Company”) held an Extraordinary General Meeting of shareholders (the “EGM”) to consider certain proposals related to the Agreement and Plan of Merger (th",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1876183/000110465926127552/0001104659-26-127552-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1876183/000110465926127552/tm2629304d2_6k.htm",
+   "filed_at": "2026-11-16T06:17:55-05:00",
+   "filed_kst": "2026-11-16 20:17",
+   "price": 8.42,
+   "change": 0.12,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 8.42,
+     "change": 0.12
+    },
+    {
+     "date": "2026-11-12",
+     "close": 8.41,
+     "change": -0.59
+    },
+    {
+     "date": "2026-11-11",
+     "close": 8.46,
+     "change": -0.24
+    }
+   ],
+   "market_cap": 2825088689.0,
+   "shares_outstanding": 335521222.0,
+   "industry": "Radiotelephone Communications",
+   "state_of_incorporation": "Mauritius",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T20:18:56+09:00"
+  },
+  {
+   "id": "0001493152-26-051952",
+   "company": "Quality Industrial Corp.",
+   "ticker": "QIND",
+   "cik": 1393781,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "● Fourth quarter outlook: Management anticipates higher revenue in the fourth quarter of 2026 than in the third quarter, following the resolution of certain project pricing inefficiencies, with approximately $1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393781/000149315226051952/0001493152-26-051952-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1393781/000149315226051952/ex99-1.htm",
+   "filed_at": "2026-11-16T06:15:17-05:00",
+   "filed_kst": "2026-11-16 20:15",
+   "price": 0.0,
+   "change": 1.45,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 0.0,
+     "change": 1.45
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.0,
+     "change": -13.75
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.0,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 193266631.0,
+   "industry": "Misc Industrial & Commercial Machinery & Equipment",
+   "state_of_incorporation": "NV",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T20:17:10+09:00"
+  },
+  {
+   "id": "0001493152-26-051916",
+   "company": "Powerus Corp",
+   "ticker": "PUSA",
+   "cik": 2009312,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 69,
+   "summary": "On March 8, 2026, the Company entered into an Agreement and Plan of Merger, which was amended in July 2026, with Aureus Greenway Holding, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2009312/000149315226051916/0001493152-26-051916-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2009312/000149315226051916/ex99-1.htm",
+   "filed_at": "2026-11-13T21:55:59-05:00",
+   "filed_kst": "2026-11-14 11:55",
+   "price": 1.34,
+   "change": -3.6,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 1.34,
+     "change": -3.6
+    },
+    {
+     "date": "2026-11-12",
+     "close": 1.39,
+     "change": 4.51
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1.33,
+     "change": -1.48
+    }
+   ],
+   "market_cap": 228923833.0,
+   "shares_outstanding": 170838681.0,
+   "industry": "Services-Membership Sports & Recreation Clubs",
+   "state_of_incorporation": "NV",
+   "hq": "ROCK HILL, SC",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T20:16:04+09:00"
+  },
+  {
+   "id": "0001104659-26-127478",
+   "company": "Aclaris Therapeutics, Inc.",
+   "ticker": "ACRS",
+   "cik": 1557746,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "Food and Drug Administration has granted Fast Track Designation for modzatinib for moderate-to-severe LP.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926127478/0001104659-26-127478-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1557746/000110465926127478/acrs-ex99d2.htm",
+   "filed_at": "2026-11-16T06:03:59-05:00",
+   "filed_kst": "2026-11-16 20:03",
+   "price": 3.92,
+   "change": -2.0,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 3.92,
+     "change": -2.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 4.0,
+     "change": -7.83
+    },
+    {
+     "date": "2026-11-11",
+     "close": 4.34,
+     "change": 4.58
+    }
+   ],
+   "market_cap": 621759624.0,
+   "shares_outstanding": 158612149.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WAYNE, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T20:15:59+09:00"
+  },
+  {
+   "id": "0001193125-26-461851",
+   "company": "LITHIUM AMERICAS CORP.",
+   "ticker": "LAC",
+   "cik": 1966983,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 4 d109046dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 NEWS RELEASE TSX: LAC • NYSE: LAC www.lithiumamericas.com Lithium Americas Provides Thacker Pass Project Update (All amounts in US$ unless otherwise indicated) Thacker Pass Phase 1 mechanical completion remains on track for late 2027, with ram",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1966983/000119312526461851/0001193125-26-461851-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1966983/000119312526461851/d109046dex991.htm",
+   "filed_at": "2026-11-16T06:09:08-05:00",
+   "filed_kst": "2026-11-16 20:09",
+   "price": 1.49,
+   "change": -8.59,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 1.49,
+     "change": -8.59
+    },
+    {
+     "date": "2026-11-12",
+     "close": 1.63,
+     "change": -1.21
+    },
+    {
+     "date": "2026-11-11",
+     "close": 1.65,
+     "change": -12.7
+    }
+   ],
+   "market_cap": 562228776.0,
+   "shares_outstanding": 377334749.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T20:15:54+09:00"
+  },
+  {
+   "id": "0001937653-26-000070",
+   "company": "Zymeworks Inc.",
+   "ticker": "ZYME",
+   "cik": 1937653,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "(the “Company”) issued a press release announcing that its Board of Directors had authorized a second 2026 share repurchase program (the “Second 2026 Share Repurchase Program”) under which the Company may repurchase up to $200.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1937653/000193765326000070/0001937653-26-000070-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1937653/000193765326000070/zyme-20261116.htm",
+   "filed_at": "2026-11-16T06:09:30-05:00",
+   "filed_kst": "2026-11-16 20:09",
+   "price": 26.24,
+   "change": -0.87,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 26.24,
+     "change": -0.87
+    },
+    {
+     "date": "2026-11-12",
+     "close": 26.47,
+     "change": -8.94
+    },
+    {
+     "date": "2026-11-11",
+     "close": 29.07,
+     "change": -7.6
+    }
+   ],
+   "market_cap": 1811365332.0,
+   "shares_outstanding": 69030691.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "MIDDLETOWN, DE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T20:15:52+09:00"
+  },
   {
    "id": "0001648257-26-000078",
    "company": "HUTCHMED (China) Ltd",
@@ -15383,324 +15702,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T06:37:18+09:00"
-  },
-  {
-   "id": "0001104659-26-125256",
-   "company": "Versamet Royalties Corp",
-   "ticker": "VMET",
-   "cik": 2080073,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 79,
-   "summary": "Gold Stream Acquisition On April 10, 2026, Versamet completed the acquisition of a 3.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2080073/000110465926125256/0001104659-26-125256-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2080073/000110465926125256/tm2629241d1_ex99-1.htm",
-   "filed_at": "2026-11-10T16:35:18-05:00",
-   "filed_kst": "2026-11-11 06:35",
-   "price": 8.72,
-   "change": -7.04,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 8.72,
-     "change": -7.04
-    },
-    {
-     "date": "2026-11-09",
-     "close": 9.38,
-     "change": 2.74
-    },
-    {
-     "date": "2026-11-06",
-     "close": 9.13,
-     "change": 2.24
-    }
-   ],
-   "market_cap": 814550425.0,
-   "shares_outstanding": 93411746.0,
-   "industry": "Mineral Royalty Traders",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:36:01+09:00"
-  },
-  {
-   "id": "0001213900-26-118067",
-   "company": "Stran & Company, Inc.",
-   "ticker": "SWAG",
-   "cik": 1872525,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "We also continue to execute our share repurchase program as part of our disciplined approach to capital allocation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1872525/000121390026118067/0001213900-26-118067-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1872525/000121390026118067/ea031157401ex99-1.htm",
-   "filed_at": "2026-11-10T16:35:13-05:00",
-   "filed_kst": "2026-11-11 06:35",
-   "price": 1.28,
-   "change": -3.03,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 1.28,
-     "change": -3.03
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.32,
-     "change": 3.13
-    },
-    {
-     "date": "2026-11-06",
-     "close": 1.28,
-     "change": -2.29
-    }
-   ],
-   "market_cap": 23750113.0,
-   "shares_outstanding": 18554776.0,
-   "industry": "Services-Advertising Agencies",
-   "state_of_incorporation": "NV",
-   "hq": "QUINCY, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:35:59+09:00"
-  },
-  {
-   "id": "0001167379-26-000033",
-   "company": "ALCON INC",
-   "ticker": "ALC",
-   "cik": 1167379,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 86,
-   "summary": "Share repurchase authorization On May 5, 2026, the Alcon Board of Directors authorized the repurchase of up to $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1167379/000116737926000033/0001167379-26-000033-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1167379/000116737926000033/q32026interimfinancialrepo.htm",
-   "filed_at": "2026-11-10T16:31:56-05:00",
-   "filed_kst": "2026-11-11 06:31",
-   "price": 74.06,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 74.06,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 74.06,
-     "change": -1.44
-    },
-    {
-     "date": "2026-11-09",
-     "close": 75.14,
-     "change": 0.27
-    }
-   ],
-   "market_cap": 36098911755.0,
-   "shares_outstanding": 487427920.0,
-   "industry": "Ophthalmic Goods",
-   "state_of_incorporation": "Switzerland",
-   "hq": "FORT WORTH, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-11T06:32:51+09:00"
-  },
-  {
-   "id": "0001493152-26-050985",
-   "company": "CL Workshop Group Ltd",
-   "ticker": "NWGL",
-   "cik": 1948294,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-3.1 2 ex3-1.htm EX-3.1 Exhibit 3.1 BVI COMPANY NUMBER: 1672383 Territory of the Virgin Islands The BVI Business Companies Act, 2004 THIRD amended and restated memorandum and articles of association of CL Workshop Group Limited 刺 梨 工 坊 公 司 Incorporated as a BVI business company on 22nd of Septembe",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1948294/000149315226050985/0001493152-26-050985-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1948294/000149315226050985/ex3-1.htm",
-   "filed_at": "2026-11-10T16:30:19-05:00",
-   "filed_kst": "2026-11-11 06:30",
-   "price": 2.53,
-   "change": -10.92,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 2.53,
-     "change": -10.92
-    },
-    {
-     "date": "2026-11-09",
-     "close": 2.84,
-     "change": 12.25
-    },
-    {
-     "date": "2026-11-06",
-     "close": 2.53,
-     "change": -6.99
-    }
-   ],
-   "market_cap": 335036062.0,
-   "shares_outstanding": 132425321.0,
-   "industry": "Lumber & Wood Products (No Furniture)",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "MACAU S.A.R",
-   "entity_category": [
-    "Accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:31:30+09:00"
-  },
-  {
-   "id": "0001828536-26-000116",
-   "company": "Energy Vault Holdings, Inc.",
-   "ticker": "NRGV",
-   "cik": 1828536,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십",
-    "가이던스상향"
-   ],
-   "confidence": 79,
-   "summary": "EX-99.1 2 ex991_evpressreleasex2026q.htm EX-99.1 Document Exhibit 99.1 Energy Vault Reports Third Quarter 2026 Financial Results, Affirms Recently Raised Full-Year 2026 Revenue Guidance and Provides Preliminary 2027 Financial Guidance Contract backlog reached $2.3 billion, up 15% sequentially and 14",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000116/0001828536-26-000116-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000116/ex991_evpressreleasex2026q.htm",
-   "filed_at": "2026-11-10T16:30:15-05:00",
-   "filed_kst": "2026-11-11 06:30",
-   "price": 3.53,
-   "change": -2.49,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 3.53,
-     "change": -2.49
-    },
-    {
-     "date": "2026-11-09",
-     "close": 3.62,
-     "change": 11.73
-    },
-    {
-     "date": "2026-11-06",
-     "close": 3.24,
-     "change": 15.71
-    }
-   ],
-   "market_cap": 641893682.0,
-   "shares_outstanding": 181839570.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "WESTLAKE VILLIAGE, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:31:26+09:00"
-  },
-  {
-   "id": "0001899287-26-000069",
-   "company": "Amprius Technologies, Inc.",
-   "ticker": "AMPX",
-   "cik": 1899287,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 64,
-   "summary": "2) NM % Margin (3%) 1% Business Highlights • Secured a $75 million U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1899287/000189928726000069/0001899287-26-000069-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1899287/000189928726000069/ampx-2026x11x03x8kex991.htm",
-   "filed_at": "2026-11-10T16:28:59-05:00",
-   "filed_kst": "2026-11-11 06:28",
-   "price": 9.17,
-   "change": -3.68,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 9.17,
-     "change": -3.68
-    },
-    {
-     "date": "2026-11-09",
-     "close": 9.52,
-     "change": 9.17
-    },
-    {
-     "date": "2026-11-06",
-     "close": 8.72,
-     "change": 15.96
-    }
-   ],
-   "market_cap": 1339559267.0,
-   "shares_outstanding": 146080618.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "FREMONT, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T06:30:43+09:00"
   }
  ]
 }
