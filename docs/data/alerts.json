@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-16T21:14:18+09:00",
+ "updated_at": "2026-11-16T21:20:00+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-462054",
+   "company": "Larimar Therapeutics, Inc.",
+   "ticker": "LRMR",
+   "cik": 1374690,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Approval: Mid-2027 • Obtaining & Monetizing the Rare Pediatric Disease Priority Review Voucher: Mid-2027, if approved • U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526462054/0001193125-26-462054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526462054/lrmr-ex99_1.htm",
+   "filed_at": "2026-11-16T07:17:38-05:00",
+   "filed_kst": "2026-11-16 21:17",
+   "price": 3.02,
+   "change": 11.85,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 3.02,
+     "change": 11.85
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.7,
+     "change": -1.1
+    },
+    {
+     "date": "2026-11-11",
+     "close": 2.73,
+     "change": 1.49
+    }
+   ],
+   "market_cap": 313726470.0,
+   "shares_outstanding": 103882937.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BALA CYNWYD, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-16T21:18:30+09:00"
+  },
   {
    "id": "0001654954-26-009811",
    "company": "ASTRAZENECA PLC",
@@ -15648,58 +15702,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-12T20:02:31+09:00"
-  },
-  {
-   "id": "0001628280-26-072885",
-   "company": "DoubleDown Interactive Co., Ltd.",
-   "ticker": "DDI",
-   "cik": 1799567,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "(“DUG”), the Company’s controlling shareholder (the “Agreement”), pursuant to which DUG has commenced a tender offer to acquire all of the outstanding ADSs of the Company not owned by DUG and its affiliates at a price of US$16.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1799567/000162828026072885/0001628280-26-072885-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1799567/000162828026072885/ddi-20260930_d2.htm",
-   "filed_at": "2026-11-10T17:55:19-05:00",
-   "filed_kst": "2026-11-11 07:55",
-   "price": 15.72,
-   "change": 0.13,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 15.72,
-     "change": 0.13
-    },
-    {
-     "date": "2026-11-10",
-     "close": 15.7,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 15.7,
-     "change": 15.61
-    }
-   ],
-   "market_cap": 38949004.0,
-   "shares_outstanding": 2477672.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Korea, Republic of",
-   "hq": "SEOUL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T20:01:59+09:00"
   }
  ]
 }
