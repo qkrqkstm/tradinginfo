@@ -1,7 +1,161 @@
 {
- "updated_at": "2026-11-16T20:59:06+09:00",
+ "updated_at": "2026-11-16T21:04:42+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009808",
+   "company": "ASTRAZENECA PLC",
+   "ticker": "AZN",
+   "cik": 901832,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "The approval by the US Food and Drug Administration (FDA) was based on positive results from the pivotal PREVAIL Phase III trial.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009808/0001654954-26-009808-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009808/a2301d.htm",
+   "filed_at": "2026-11-16T07:01:44-05:00",
+   "filed_kst": "2026-11-16 21:01",
+   "price": 184.45,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 184.45,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 184.45,
+     "change": 0.04
+    },
+    {
+     "date": "2026-11-12",
+     "close": 184.38,
+     "change": -0.59
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "CAMBRIDGE",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T21:02:47+09:00"
+  },
+  {
+   "id": "0001193125-26-461999",
+   "company": "StandardAero, Inc.",
+   "ticker": "SARO",
+   "cik": 2025410,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 72,
+   "summary": "The proceeds of the 2026 Incremental Term B-1 Loans shall be used (i) to repay all or a portion of the outstanding principal amount of the Revolving Credit Loans and any interest or fees associated therewith, (ii) to fund one or more accelerated share repurchase transactions with respect to the Equi",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2025410/000119312526461999/0001193125-26-461999-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2025410/000119312526461999/d187540dex101.htm",
+   "filed_at": "2026-11-16T07:00:10-05:00",
+   "filed_kst": "2026-11-16 21:00",
+   "price": 27.73,
+   "change": 0.62,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 27.73,
+     "change": 0.62
+    },
+    {
+     "date": "2026-11-12",
+     "close": 27.56,
+     "change": -4.11
+    },
+    {
+     "date": "2026-11-11",
+     "close": 28.74,
+     "change": 0.88
+    }
+   ],
+   "market_cap": 9101857637.0,
+   "shares_outstanding": 328231433.0,
+   "industry": "Aircraft Engines & Engine Parts",
+   "state_of_incorporation": "DE",
+   "hq": "SCOTTSDALE, AZ",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T21:02:45+09:00"
+  },
+  {
+   "id": "0000950103-26-017524",
+   "company": "Helus Pharma Inc.",
+   "ticker": "HELP",
+   "cik": 1833141,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the potential adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000095010326017524/0000950103-26-017524-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000095010326017524/dp256929_ex9901.htm",
+   "filed_at": "2026-11-16T07:00:11-05:00",
+   "filed_kst": "2026-11-16 21:00",
+   "price": 8.87,
+   "change": 0.11,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 8.87,
+     "change": 0.11
+    },
+    {
+     "date": "2026-11-12",
+     "close": 8.86,
+     "change": -5.64
+    },
+    {
+     "date": "2026-11-11",
+     "close": 9.39,
+     "change": 3.53
+    }
+   ],
+   "market_cap": 191602715.0,
+   "shares_outstanding": 21601208.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T21:02:04+09:00"
+  },
   {
    "id": "0001833141-26-000102",
    "company": "Helus Pharma Inc.",
@@ -15536,159 +15690,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-11T07:31:47+09:00"
-  },
-  {
-   "id": "0001104659-26-125360",
-   "company": "Vireo Growth Inc.",
-   "ticker": "VREOF",
-   "cik": 1771706,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a British Columbia corporation (“Vireo”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Planet 13 Holdings Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926125360/0001104659-26-125360-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1771706/000110465926125360/tm2628083d2_425.htm",
-   "filed_at": "2026-11-10T17:28:48-05:00",
-   "filed_kst": "2026-11-11 07:28",
-   "price": 6.7,
-   "change": -1.18,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 6.7,
-     "change": -1.18
-    },
-    {
-     "date": "2026-11-09",
-     "close": 6.78,
-     "change": 3.83
-    },
-    {
-     "date": "2026-11-06",
-     "close": 6.53,
-     "change": -2.25
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "MINNEAPOLIS, MN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T07:30:43+09:00"
-  },
-  {
-   "id": "0001104659-26-125360",
-   "company": "Planet 13 Holdings Inc.",
-   "ticker": "PLNH",
-   "cik": 1813452,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", a British Columbia corporation (“Vireo”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Planet 13 Holdings Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1813452/000110465926125360/0001104659-26-125360-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1813452/000110465926125360/tm2628083d2_425.htm",
-   "filed_at": "2026-11-10T17:28:48-05:00",
-   "filed_kst": "2026-11-11 07:28",
-   "price": 0.08,
-   "change": 3.7,
-   "price_history": [
-    {
-     "date": "2026-11-10",
-     "close": 0.08,
-     "change": 3.7
-    },
-    {
-     "date": "2026-11-09",
-     "close": 0.08,
-     "change": -2.41
-    },
-    {
-     "date": "2026-11-06",
-     "close": 0.08,
-     "change": 2.47
-    }
-   ],
-   "market_cap": 26825556.0,
-   "shares_outstanding": 335319455.0,
-   "industry": "Agricultural Production-Crops",
-   "state_of_incorporation": "NV",
-   "hq": "LAS VEGAS, NV",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T07:30:42+09:00"
-  },
-  {
-   "id": "0001213900-26-118141",
-   "company": "Iron Horse Acquisition II Corp.",
-   "ticker": "IRHO",
-   "cik": 2051985,
-   "form": "425",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Securities and Exchange Commission (the “SEC”) in connection with their previously announced proposed business combination (the “Business Combination”) pursuant to the Merger Agreement, dated as of April 21, 2026, as amended on May 14, 2026 (the “Merger Agreement”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026118141/0001213900-26-118141-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026118141/ea031174701ex99-1.htm",
-   "filed_at": "2026-11-10T17:27:57-05:00",
-   "filed_kst": "2026-11-11 07:27",
-   "price": 10.07,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-09",
-     "close": 10.07,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-06",
-     "close": 10.07,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-05",
-     "close": 10.07,
-     "change": -0.1
-    }
-   ],
-   "market_cap": 295252400.0,
-   "shares_outstanding": 29320000.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": null,
-   "hq": "BOCA RATON, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-11T07:28:36+09:00"
   }
  ]
 }
