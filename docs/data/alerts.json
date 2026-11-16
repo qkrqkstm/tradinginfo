@@ -1,7 +1,114 @@
 {
- "updated_at": "2026-11-16T22:14:35+09:00",
+ "updated_at": "2026-11-16T22:25:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-052046",
+   "company": "Nasus Pharma Ltd",
+   "ticker": "NSRX",
+   "cik": 2029039,
+   "form": "6-K",
+   "items": [],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "“His record of financial and operational management for biopharmaceutical companies will provide us with important support as we progress NS002 toward a pivotal clinical Phase 3 study in the fourth quarter of 2026 and a topline data readout in the first quarter of 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2029039/000149315226052046/0001493152-26-052046-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2029039/000149315226052046/ex99-1.htm",
+   "filed_at": "2026-11-16T08:20:15-05:00",
+   "filed_kst": "2026-11-16 22:20",
+   "price": 2.87,
+   "change": 1.77,
+   "price_history": [
+    {
+     "date": "2026-11-13",
+     "close": 2.87,
+     "change": 1.77
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.82,
+     "change": -3.09
+    },
+    {
+     "date": "2026-11-11",
+     "close": 2.91,
+     "change": -2.51
+    }
+   ],
+   "market_cap": 25874149.0,
+   "shares_outstanding": 9015383.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "TEL AVIV - YAFO, L3",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-16T22:21:09+09:00"
+  },
+  {
+   "id": "0001193125-26-462199",
+   "company": "CG Oncology, Inc.",
+   "ticker": "CGON",
+   "cik": 1991792,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "FDA approved adjuvant treatment options in this population of approximately 50,000 patients.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1991792/000119312526462199/0001193125-26-462199-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1991792/000119312526462199/ck0001991792-ex99_2.htm",
+   "filed_at": "2026-11-16T08:15:21-05:00",
+   "filed_kst": "2026-11-16 22:15",
+   "price": 74.4,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 74.4,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 74.4,
+     "change": 6.06
+    },
+    {
+     "date": "2026-11-12",
+     "close": 70.15,
+     "change": -3.39
+    }
+   ],
+   "market_cap": 6645327350.0,
+   "shares_outstanding": 89318916.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-16T22:21:07+09:00"
+  },
   {
    "id": "0001213900-26-120168",
    "company": "Corvex, Inc.",
@@ -15612,107 +15719,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-12T20:12:44+09:00"
-  },
-  {
-   "id": "0001178913-26-005140",
-   "company": "ELBIT SYSTEMS LTD",
-   "ticker": "ESLT",
-   "cik": 1027664,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 59,
-   "summary": "htm EXHIBIT 1 Exhibit 1 Elbit Systems Awarded $260 Million Contract to Supply PULS Rocket Artillery Systems to a European NATO Country Haifa, Israel, November 12, 2026 – Elbit Systems Ltd .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1027664/000117891326005140/0001178913-26-005140-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1027664/000117891326005140/exhibit_1.htm",
-   "filed_at": "2026-11-12T06:09:01-05:00",
-   "filed_kst": "2026-11-12 20:09",
-   "price": 725.44,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 725.44,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 725.44,
-     "change": -1.99
-    },
-    {
-     "date": "2026-11-10",
-     "close": 740.17,
-     "change": 2.53
-    }
-   ],
-   "market_cap": 33691139835.0,
-   "shares_outstanding": 46442352.0,
-   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
-   "state_of_incorporation": "Israel",
-   "hq": "HAIFA, ISRAEL, L3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:10:39+09:00"
-  },
-  {
-   "id": "0001628280-26-073047",
-   "company": "Pelagos Insurance Capital Ltd",
-   "ticker": "PLGO",
-   "cik": 1636639,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 70,
-   "summary": "47 per common share, respectively, pursuant to our share repurchase authorization.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1636639/000162828026073047/0001628280-26-073047-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1636639/000162828026073047/ex-991earningspressrelease.htm",
-   "filed_at": "2026-11-12T06:09:58-05:00",
-   "filed_kst": "2026-11-12 20:09",
-   "price": 27.97,
-   "change": -1.27,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 27.97,
-     "change": -1.27
-    },
-    {
-     "date": "2026-11-10",
-     "close": 28.33,
-     "change": 0.11
-    },
-    {
-     "date": "2026-11-09",
-     "close": 28.3,
-     "change": 2.06
-    }
-   ],
-   "market_cap": 2703343406.0,
-   "shares_outstanding": 96651534.0,
-   "industry": "Fire, Marine & Casualty Insurance",
-   "state_of_incorporation": "Bermuda",
-   "hq": "PEMBROKE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T20:10:36+09:00"
   }
  ]
 }
