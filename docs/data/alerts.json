@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-17T00:04:25+09:00",
+ "updated_at": "2026-11-17T00:18:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001380106-26-000110",
+   "company": "RAPID MICRO BIOSYSTEMS, INC.",
+   "ticker": "RPID",
+   "cik": 1380106,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "EX-99.1 2 rpid-20260930xexx991.htm EX-99.1 Document Exhibit 99.1 Rapid Micro Biosystems Reports Third Quarter 2026 Financial Results • Reports third quarter 2026 total revenue of $9.5 million, representing 22% growth compared to the third quarter of 2025 ◦ Placed 7 Growth Direct systems and complete",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1380106/000138010626000110/0001380106-26-000110-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1380106/000138010626000110/rpid-20260930xexx991.htm",
+   "filed_at": "2026-11-16T10:17:10-05:00",
+   "filed_kst": "2026-11-17 00:17",
+   "price": 0.74,
+   "change": 0.01,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 0.74,
+     "change": 0.01
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.74,
+     "change": 13.2
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.65,
+     "change": -2.98
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Laboratory Analytical Instruments",
+   "state_of_incorporation": "DE",
+   "hq": "LEXINGTON, MA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T00:18:27+09:00"
+  },
   {
    "id": "0001171843-26-007466",
    "company": "Lakefront Biotherapeutics NV",
@@ -15683,60 +15738,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-12T21:01:32+09:00"
-  },
-  {
-   "id": "0001628280-26-073085",
-   "company": "Standard Nuclear, Inc.",
-   "ticker": "STDN",
-   "cik": 2086716,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "Framatome joint venture Following the NRC's July 2026 approval of a license amendment that authorizes TRISO fabrication at enrichments just under 10 weight percent U-235 at Framatome's Richland, Washington facility, the Company's joint venture with Framatome continued",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026073085/0001628280-26-073085-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026073085/q3_2026xearningsxprns.htm",
-   "filed_at": "2026-11-12T07:00:18-05:00",
-   "filed_kst": "2026-11-12 21:00",
-   "price": 12.48,
-   "change": -0.79,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 12.48,
-     "change": -0.79
-    },
-    {
-     "date": "2026-11-10",
-     "close": 12.58,
-     "change": -0.79
-    },
-    {
-     "date": "2026-11-09",
-     "close": 12.68,
-     "change": 4.28
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Industrial Inorganic Chemicals",
-   "state_of_incorporation": "DE",
-   "hq": "OAK RIDGE, TN",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T21:01:29+09:00"
   }
  ]
 }
