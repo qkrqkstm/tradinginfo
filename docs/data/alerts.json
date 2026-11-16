@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-17T07:55:41+09:00",
+ "updated_at": "2026-11-17T08:05:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-007482",
+   "company": "INTERMAP TECHNOLOGIES CORP",
+   "ticker": "ITMSF",
+   "cik": 1285170,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 64,
+   "summary": "Business Highlights Completed the acquisition of PCI Geomatics in October, adding distributed satellite and aerial image processing capabilities.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1285170/000117184326007482/0001171843-26-007482-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1285170/000117184326007482/exh_991.htm",
+   "filed_at": "2026-11-16T16:45:04-05:00",
+   "filed_kst": "2026-11-17 06:45",
+   "price": 0.53,
+   "change": -0.04,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 0.53,
+     "change": -0.04
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.53,
+     "change": -3.24
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.55,
+     "change": 1.85
+    }
+   ],
+   "market_cap": 38391962.0,
+   "shares_outstanding": 72437664.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Alberta, Canada",
+   "hq": "CALGARY, A0",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T08:04:09+09:00"
+  },
   {
    "id": "0001437749-26-037204",
    "company": "MAUI LAND & PINEAPPLE CO INC",
@@ -15663,59 +15714,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-12T22:30:44+09:00"
-  },
-  {
-   "id": "0001753926-26-002108",
-   "company": "Vivani Medical, Inc.",
-   "ticker": "VANI",
-   "cik": 1266806,
-   "form": "8-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "M&A",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 90,
-   "summary": "Vivani’s predecessor, Second Sight Medical Products, previously marketed Argus® II, the first and only medical device to obtain FDA approval to treat a rare form of blindness.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1266806/000175392626002108/0001753926-26-002108-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1266806/000175392626002108/ex991_1.htm",
-   "filed_at": "2026-11-12T08:29:49-05:00",
-   "filed_kst": "2026-11-12 22:29",
-   "price": 1.13,
-   "change": -1.74,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 1.13,
-     "change": -1.74
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.15,
-     "change": 2.22
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.12,
-     "change": 5.14
-    }
-   ],
-   "market_cap": 101929792.0,
-   "shares_outstanding": 90203356.0,
-   "industry": "Electromedical & Electrotherapeutic Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "ALAMEDA, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-12T22:30:43+09:00"
   }
  ]
 }
