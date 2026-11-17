@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-18T02:19:25+09:00",
+ "updated_at": "2026-11-18T02:26:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001125282-06-004404",
+   "company": "KIMCO REALTY CORP",
+   "ticker": "KIM",
+   "cik": 879101,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.1 4 b414221ex99_1.htm EXHIBIT 99.1 Prepared and filed by St Ives Financial Exhibit 99.1 Item 6. Selected Financial Data The following table sets forth selected historical consolidated financial data for the Company and should be read in conjunction with the Consolidated Financial Statements of",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879101/000112528206004404/0001125282-06-004404-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/879101/000112528206004404/b414221ex99_1.htm",
+   "filed_at": "2006-07-28T17:10:24-04:00",
+   "filed_kst": "2006-07-29 06:10",
+   "price": 25.73,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 25.73,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 25.73,
+     "change": 0.7
+    },
+    {
+     "date": "2026-11-13",
+     "close": 25.55,
+     "change": 0.35
+    }
+   ],
+   "market_cap": 17259410567.0,
+   "shares_outstanding": 670789373.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "JERICHO, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T02:25:43+09:00"
+  },
   {
    "id": "0001493152-26-052751",
    "company": "Alpha Star Acquisition Corp",
@@ -15649,57 +15700,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-13T06:15:38+09:00"
-  },
-  {
-   "id": "0001292814-26-005277",
-   "company": "Afya Ltd",
-   "ticker": "AFYA",
-   "cik": 1771007,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 68,
-   "summary": "The higher growth in Basic EPS compared to Net Income reflects the impact of the Company's share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1771007/000129281426005277/0001292814-26-005277-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1771007/000129281426005277/ex99-1.htm",
-   "filed_at": "2026-11-12T16:14:02-05:00",
-   "filed_kst": "2026-11-13 06:14",
-   "price": 10.33,
-   "change": -3.73,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 10.33,
-     "change": -3.73
-    },
-    {
-     "date": "2026-11-11",
-     "close": 10.73,
-     "change": 2.09
-    },
-    {
-     "date": "2026-11-10",
-     "close": 10.51,
-     "change": -1.5
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": 0.0,
-   "industry": "Services-Educational Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "BELO HORIZONTE, MINAS GERAIS",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T06:15:36+09:00"
   }
  ]
 }
