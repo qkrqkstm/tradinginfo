@@ -1,7 +1,166 @@
 {
- "updated_at": "2026-11-17T22:29:08+09:00",
+ "updated_at": "2026-11-17T22:34:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950103-26-017594",
+   "company": "AKZO NOBEL NV",
+   "ticker": "AKZOY",
+   "cik": 3124,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "(“Axalta” and, together with its subsidiaries, “Axalta Group”) pursuant to the merger agreement, originally dated as of November 18, 2025 and as amended on May 27, 2026 and July 23, 2026, by and between AkzoNobel and Axalta (the “Merger Agreement”), which was approved by shareholders of AkzoNobel an",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/3124/000095010326017594/0000950103-26-017594-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/3124/000095010326017594/dp256793_ex9901.htm",
+   "filed_at": "2026-11-17T08:32:07-05:00",
+   "filed_kst": "2026-11-17 22:32",
+   "price": 22.9,
+   "change": -1.34,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 22.9,
+     "change": -1.34
+    },
+    {
+     "date": "2026-11-13",
+     "close": 23.21,
+     "change": 0.09
+    },
+    {
+     "date": "2026-11-12",
+     "close": 23.19,
+     "change": -1.44
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Chemicals & Allied Products",
+   "state_of_incorporation": null,
+   "hq": "AMSTERDAM",
+   "entity_category": null,
+   "detected_at": "2026-11-17T22:33:21+09:00"
+  },
+  {
+   "id": "0001493152-26-052714",
+   "company": "Ainos, Inc.",
+   "ticker": "AIMD",
+   "cik": 1014763,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "1 Ainos Secures Largest Order in Company History: $9 Million ASE Agreement for 5,000 Additional AI Nose Systems Follow-on order marks progression from field validation and first-phase delivery to scaled commercial adoption of Chemical Intelligence in advanced packaging $4.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226052714/0001493152-26-052714-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226052714/ex99-1.htm",
+   "filed_at": "2026-11-17T08:30:24-05:00",
+   "filed_kst": "2026-11-17 22:30",
+   "price": 1.14,
+   "change": -7.32,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 1.14,
+     "change": -7.32
+    },
+    {
+     "date": "2026-11-13",
+     "close": 1.23,
+     "change": 16.04
+    },
+    {
+     "date": "2026-11-12",
+     "close": 1.06,
+     "change": 118.56
+    }
+   ],
+   "market_cap": 8624773.0,
+   "shares_outstanding": 7565590.0,
+   "industry": "Computer Peripheral Equipment, NEC",
+   "state_of_incorporation": "TX",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T22:31:46+09:00"
+  },
+  {
+   "id": "0001213900-26-121132",
+   "company": "Evolution Metals & Technologies Corp.",
+   "ticker": "EMAT",
+   "cik": 1866226,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026121132/0001213900-26-121132-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026121132/ea031258601ex99-1.htm",
+   "filed_at": "2026-11-17T08:30:13-05:00",
+   "filed_kst": "2026-11-17 22:30",
+   "price": 0.69,
+   "change": 0.06,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 0.69,
+     "change": 0.06
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.69,
+     "change": -25.8
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.93,
+     "change": -5.66
+    }
+   ],
+   "market_cap": 433878546.0,
+   "shares_outstanding": 628809487.0,
+   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T22:30:56+09:00"
+  },
   {
    "id": "0001213900-26-121109",
    "company": "Quanome Technologies, Inc.",
@@ -15580,165 +15739,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:10:48+09:00"
-  },
-  {
-   "id": "0001213900-26-118924",
-   "company": "Launch Two Acquisition Corp.",
-   "ticker": "LPBB",
-   "cik": 2023676,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 2 ea031178601ex99-1.htm INVESTOR PRESENTATION, DATED NOVEMBER 2026 Exhibit 99.1 Investor Presentation November 2026 Disclaimer 2 Disclaimer This presentation and any oral statements regarding the subject matter of this presentation (this \"Presentation\") is being furnished solely for the purp",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026118924/0001213900-26-118924-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026118924/ea031178601ex99-1.htm",
-   "filed_at": "2026-11-12T16:07:00-05:00",
-   "filed_kst": "2026-11-13 06:07",
-   "price": 10.82,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 10.82,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 10.82,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 10.82,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Fabricated Plate Work (Boiler Shops)",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "OAKLAND, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:10:45+09:00"
-  },
-  {
-   "id": "0001528287-26-000037",
-   "company": "NeuroPace Inc",
-   "ticker": "NPCE",
-   "cik": 1528287,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "3) million in the third quarter of 2025 Third Quarter 2026 Operational & Strategic Highlights • Completed a Submission Issue Request (SIR) meeting with the FDA in October regarding the Company’s premarket approval (PMA) supplement for idiopathic generalized epilepsy (IGE).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1528287/000152828726000037/0001528287-26-000037-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1528287/000152828726000037/exhibit991_q32026earningsr.htm",
-   "filed_at": "2026-11-12T16:07:12-05:00",
-   "filed_kst": "2026-11-13 06:07",
-   "price": 12.02,
-   "change": -3.99,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 12.02,
-     "change": -3.99
-    },
-    {
-     "date": "2026-11-11",
-     "close": 12.52,
-     "change": -1.34
-    },
-    {
-     "date": "2026-11-10",
-     "close": 12.69,
-     "change": -3.28
-    }
-   ],
-   "market_cap": 412577773.0,
-   "shares_outstanding": 34324274.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "MOUNTAIN VIEW, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:10:43+09:00"
-  },
-  {
-   "id": "0001193125-26-458344",
-   "company": "Shimmick Corp",
-   "ticker": "SHIM",
-   "cik": 1887944,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "Equity in earnings of unconsolidated joint ventures Equity in earnings of unconsolidated joint ventures increased by $1 million during the three months ended October 2, 2026 primarily as the result of an increase in activity on a dam project in the current year as compared to the three months e",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1887944/000119312526458344/0001193125-26-458344-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1887944/000119312526458344/shim-ex99_1.htm",
-   "filed_at": "2026-11-12T16:07:47-05:00",
-   "filed_kst": "2026-11-13 06:07",
-   "price": 2.34,
-   "change": 3.08,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 2.34,
-     "change": 3.08
-    },
-    {
-     "date": "2026-11-11",
-     "close": 2.27,
-     "change": -0.87
-    },
-    {
-     "date": "2026-11-10",
-     "close": 2.29,
-     "change": -1.72
-    }
-   ],
-   "market_cap": 100062525.0,
-   "shares_outstanding": 42761763.0,
-   "industry": "Heavy Construction Other Than Bldg Const - Contractors",
-   "state_of_incorporation": "DE",
-   "hq": "IRVINE, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:10:40+09:00"
   }
  ]
 }
