@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-18T07:24:46+09:00",
+ "updated_at": "2026-11-18T07:29:56+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-044548",
+   "company": "AES CORP",
+   "ticker": "AES",
+   "cik": 874761,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Final Regulatory Approval and Expected Closing Date As previously announced, on March 1, 2026, the Company entered into an Agreement and Plan of Merger (as it may be amended from time to time, the “ Merger Agreement ”), by and among the Company, Horizon Parent, L.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126044548/0001140361-26-044548-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126044548/ny20085743x1_ex99-1.htm",
+   "filed_at": "2026-11-17T17:24:22-05:00",
+   "filed_kst": "2026-11-18 07:24",
+   "price": 14.97,
+   "change": 0.2,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 14.97,
+     "change": 0.2
+    },
+    {
+     "date": "2026-11-16",
+     "close": 14.94,
+     "change": 0.2
+    },
+    {
+     "date": "2026-11-13",
+     "close": 14.91,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 10682062930.0,
+   "shares_outstanding": 713564658.0,
+   "industry": "Cogeneration Services & Small Power Producers",
+   "state_of_incorporation": "DE",
+   "hq": "ARLINGTON, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T07:25:45+09:00"
+  },
   {
    "id": "0001193125-26-465750",
    "company": "Crescent Capital BDC, Inc.",
@@ -15592,57 +15646,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T07:13:25+09:00"
-  },
-  {
-   "id": "0001140361-26-043465",
-   "company": "Globa Terra Acquisition Corp",
-   "ticker": "GTERA",
-   "cik": 2043766,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "1 BUSINESS COMBINATION AGREEMENT among GLOBA TERRA ACQUISITION CORPORATION (an exempted company incorporated under the laws of the Cayman Islands) - and - NATURE’S LEDGER INC.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2043766/000114036126043465/0001140361-26-043465-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2043766/000114036126043465/ef20085493_ex2-1.htm",
-   "filed_at": "2026-11-12T17:12:32-05:00",
-   "filed_kst": "2026-11-13 07:12",
-   "price": 10.5,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 10.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 10.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 10.5,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T07:13:21+09:00"
   }
  ]
 }
