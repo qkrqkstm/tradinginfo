@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-18T06:19:23+09:00",
+ "updated_at": "2026-11-18T06:25:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001045810-26-000088",
+   "company": "NVIDIA CORP",
+   "ticker": "NVDA",
+   "cik": 1045810,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 73,
+   "summary": "” In September 2026, NVIDIA’s Board of Directors approved an increase of $150 billion to the company’s share repurchase authorization, without expiration.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm",
+   "filed_at": "2026-11-17T16:20:51-05:00",
+   "filed_kst": "2026-11-18 06:20",
+   "price": 155.46,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 155.46,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 155.46,
+     "change": -0.44
+    },
+    {
+     "date": "2026-11-16",
+     "close": 156.14,
+     "change": -4.12
+    }
+   ],
+   "market_cap": 3746586000000.0,
+   "shares_outstanding": 24100000000.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": "DE",
+   "hq": "SANTA CLARA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T06:22:20+09:00"
+  },
   {
    "id": "0001104659-26-129066",
    "company": "AAR CORP",
@@ -15619,60 +15670,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-13T06:18:57+09:00"
-  },
-  {
-   "id": "0001193125-26-458470",
-   "company": "PROKIDNEY CORP.",
-   "ticker": "PROK",
-   "cik": 1850270,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 71,
-   "summary": "ProKidney’s lead product candidate, rilparencel (also known as REACT ® ), is a first-in-class, patented, proprietary autologous cell therapy with regenerative medicine advanced therapy designation that is being evaluated in the ongoing Phase 3 REGEN-006 (PROACT 1) study for its potential to preserve",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1850270/000119312526458470/0001193125-26-458470-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1850270/000119312526458470/prok-ex99_1.htm",
-   "filed_at": "2026-11-12T16:17:37-05:00",
-   "filed_kst": "2026-11-13 06:17",
-   "price": 1.15,
-   "change": 1.77,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 1.15,
-     "change": 1.77
-    },
-    {
-     "date": "2026-11-11",
-     "close": 1.13,
-     "change": 1.8
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.11,
-     "change": -3.48
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "WINSTON-SALEM, NC",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:18:54+09:00"
   }
  ]
 }
