@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-18T07:15:04+09:00",
+ "updated_at": "2026-11-18T07:20:00+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-037420",
+   "company": "Stablecoin Development Corp",
+   "ticker": "SDEV",
+   "cik": 1389545,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "333-290712) (the “Registration Statement”), relating to the offer and sale of up to $100.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1389545/000143774926037420/0001437749-26-037420-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1389545/000143774926037420/sdev20261116_8k.htm",
+   "filed_at": "2026-11-17T17:14:59-05:00",
+   "filed_kst": "2026-11-18 07:14",
+   "price": 0.7,
+   "change": -1.89,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 0.7,
+     "change": -1.89
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.71,
+     "change": -8.97
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.78,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 51181911.0,
+   "shares_outstanding": 73117016.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "WEST PALM BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-18T07:15:44+09:00"
+  },
   {
    "id": "0001213900-26-121461",
    "company": "reAlpha Tech Corp.",
@@ -15594,60 +15648,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T07:12:48+09:00"
-  },
-  {
-   "id": "0001104659-26-126338",
-   "company": "VISTA GOLD CORP",
-   "ticker": "VGZ",
-   "cik": 783324,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(TSXV:ARTG) (“Artemis”), pursuant to which Artemis agreed to acquire all of the issued and outstanding common shares of Vista by way of a court-approved plan of arrangement under the Business Corporations Act (British Columbia) (the “Arrangement”).",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/783324/000110465926126338/0001104659-26-126338-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/783324/000110465926126338/vgz-ex99d1.htm",
-   "filed_at": "2026-11-12T17:10:13-05:00",
-   "filed_kst": "2026-11-13 07:10",
-   "price": 2.64,
-   "change": -3.3,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 2.64,
-     "change": -3.3
-    },
-    {
-     "date": "2026-11-11",
-     "close": 2.73,
-     "change": -1.8
-    },
-    {
-     "date": "2026-11-10",
-     "close": 2.78,
-     "change": -1.42
-    }
-   ],
-   "market_cap": 385364353.0,
-   "shares_outstanding": 145971346.0,
-   "industry": "Gold and Silver Ores",
-   "state_of_incorporation": null,
-   "hq": "ENGLEWOOD, CO",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T07:11:12+09:00"
   }
  ]
 }
