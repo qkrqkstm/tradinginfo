@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-18T06:25:19+09:00",
+ "updated_at": "2026-11-18T06:34:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001175680-26-000042",
+   "company": "CytoDyn Inc.",
+   "ticker": "CYDY",
+   "cik": 1175680,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Wilcoxen helped lead a team that secured FDA approval of a novel checkpoint inhibitor for skin cancer while serving as Senior Vice President, Product Development and Regulatory Affairs of Checkpoint Therapeutics, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175680/000117568026000042/0001175680-26-000042-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1175680/000117568026000042/ck0001175680-ex99_1.htm",
+   "filed_at": "2026-11-17T16:33:07-05:00",
+   "filed_kst": "2026-11-18 06:33",
+   "price": 0.25,
+   "change": -0.2,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 0.25,
+     "change": -0.2
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.25,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.25,
+     "change": 4.17
+    }
+   ],
+   "market_cap": 367379500.0,
+   "shares_outstanding": 1469518000.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "VANCOUVER, WA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-18T06:34:19+09:00"
+  },
+  {
+   "id": "0001493152-26-052856",
+   "company": "Braiin Ltd",
+   "ticker": "BRAI",
+   "cik": 2076975,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "● PropTech / LivTech: Braiin built out its UK residential lif ecycle (“LivTech”) platform through a series of strategic partnerships: ○ an exclusive strategic partnership for 4.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2076975/000149315226052856/0001493152-26-052856-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2076975/000149315226052856/ex99-1.htm",
+   "filed_at": "2026-11-17T16:30:06-05:00",
+   "filed_kst": "2026-11-18 06:30",
+   "price": 1.59,
+   "change": -5.36,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 1.59,
+     "change": -5.36
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1.68,
+     "change": -4.55
+    },
+    {
+     "date": "2026-11-13",
+     "close": 1.76,
+     "change": -6.88
+    }
+   ],
+   "market_cap": 327680283.0,
+   "shares_outstanding": 206088228.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Australia",
+   "hq": "SUBIACO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-18T06:32:24+09:00"
+  },
   {
    "id": "0001045810-26-000088",
    "company": "NVIDIA CORP",
@@ -15566,110 +15672,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T06:23:12+09:00"
-  },
-  {
-   "id": "0001193125-26-458492",
-   "company": "CODEXIS, INC.",
-   "ticker": "CDXS",
-   "cik": 1200375,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "This was followed by a $60 million term loan agreement which we closed earlier this month, of which $42.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1200375/000119312526458492/0001193125-26-458492-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1200375/000119312526458492/d189706dex991.htm",
-   "filed_at": "2026-11-12T16:20:57-05:00",
-   "filed_kst": "2026-11-13 06:20",
-   "price": 0.96,
-   "change": -2.23,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.96,
-     "change": -2.23
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.98,
-     "change": -2.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.0,
-     "change": -9.91
-    }
-   ],
-   "market_cap": 105125534.0,
-   "shares_outstanding": 109505765.0,
-   "industry": "Industrial Organic Chemicals",
-   "state_of_incorporation": "DE",
-   "hq": "REDWOOD CITY, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:22:00+09:00"
-  },
-  {
-   "id": "0001104659-26-126259",
-   "company": "TELECOM ARGENTINA SA",
-   "ticker": "TEO",
-   "cik": 932470,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "The decline in other service revenues was mainly attributable to the loss of control of Micro Sistemas, which provided Fintech services in Argentina, during 1Q26; as of 9M26, it is recognized as a joint venture investment.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/932470/000110465926126259/0001104659-26-126259-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/932470/000110465926126259/tm2629648d1_6k.htm",
-   "filed_at": "2026-11-12T16:17:40-05:00",
-   "filed_kst": "2026-11-13 06:17",
-   "price": 10.53,
-   "change": -0.47,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 10.53,
-     "change": -0.47
-    },
-    {
-     "date": "2026-11-11",
-     "close": 10.58,
-     "change": 2.52
-    },
-    {
-     "date": "2026-11-10",
-     "close": 10.32,
-     "change": 0.58
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": null,
-   "hq": "BUENOS AIRES",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T06:18:57+09:00"
   }
  ]
 }
