@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-18T07:20:00+09:00",
+ "updated_at": "2026-11-18T07:24:46+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-465750",
+   "company": "Crescent Capital BDC, Inc.",
+   "ticker": "CCAP",
+   "cik": 1633336,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(the “Company”) and Remora Capital Corporation (“Remora”) entered into an amended and restated limited liability company agreement (the “LLC Agreement”) to co-manage CCAP Middle Market Loan Fund, LLC (“CCAP Middle Market Loan Fund”), a joint venture between the Company and Remora.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633336/000119312526465750/0001193125-26-465750-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1633336/000119312526465750/d193459dex101.htm",
+   "filed_at": "2026-11-17T17:23:10-05:00",
+   "filed_kst": "2026-11-18 07:23",
+   "price": 9.88,
+   "change": -1.98,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 9.88,
+     "change": -1.98
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.08,
+     "change": -0.49
+    },
+    {
+     "date": "2026-11-13",
+     "close": 10.13,
+     "change": 0.3
+    }
+   ],
+   "market_cap": 364038006.0,
+   "shares_outstanding": 36845952.0,
+   "industry": null,
+   "state_of_incorporation": "MD",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-18T07:23:57+09:00"
+  },
   {
    "id": "0001437749-26-037420",
    "company": "Stablecoin Development Corp",
@@ -15593,61 +15643,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T07:13:21+09:00"
-  },
-  {
-   "id": "0001213900-26-119052",
-   "company": "Longeveron Inc.",
-   "ticker": "LGVN",
-   "cik": 1721484,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 95,
-   "summary": "● The FDA has granted laromestrocel Orphan Drug designation, Fast Track designation, and Rare Pediatric Disease designation for the treatment of HLHS.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1721484/000121390026119052/0001213900-26-119052-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1721484/000121390026119052/ea031194401ex99-1.htm",
-   "filed_at": "2026-11-12T17:11:55-05:00",
-   "filed_kst": "2026-11-13 07:11",
-   "price": 2.97,
-   "change": -10.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 2.97,
-     "change": -10.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 3.3,
-     "change": 16.2
-    },
-    {
-     "date": "2026-11-10",
-     "close": 2.84,
-     "change": 41.29
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T07:12:48+09:00"
   }
  ]
 }
