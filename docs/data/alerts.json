@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-17T20:14:45+09:00",
+ "updated_at": "2026-11-17T20:19:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009887",
+   "company": "RENTOKIL INITIAL PLC /FI",
+   "ticker": "RTO",
+   "cik": 930157,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Following the cancellation of the repurchased shares, the Company has 2,519,597,049 ordinary shares in issue.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/930157/000165495426009887/0001654954-26-009887-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/930157/000165495426009887/a3920d.htm",
+   "filed_at": "2026-11-17T06:18:12-05:00",
+   "filed_kst": "2026-11-17 20:18",
+   "price": 24.19,
+   "change": 1.17,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 24.19,
+     "change": 1.17
+    },
+    {
+     "date": "2026-11-13",
+     "close": 23.91,
+     "change": 0.72
+    },
+    {
+     "date": "2026-11-12",
+     "close": 23.74,
+     "change": 0.64
+    }
+   ],
+   "market_cap": 61104904818.0,
+   "shares_outstanding": 2526039885.0,
+   "industry": "Services-Management Services",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "CRAWLEY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T20:19:19+09:00"
+  },
   {
    "id": "0001193125-26-464687",
    "company": "Yalla Group Ltd",
@@ -15696,56 +15746,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:06:59+09:00"
-  },
-  {
-   "id": "0001104659-26-126214",
-   "company": "China Automotive Systems, Inc.",
-   "ticker": "CAAS",
-   "cik": 2037400,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "1 China Automotive Systems Reports Record Third Quarter 2026 EPS Sales; Board Approves $5 Million Share Repurchase Program WUHAN, China, November 11 , 2026 /PRNewswire/ -- China Automotive Systems, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2037400/000110465926126214/0001104659-26-126214-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2037400/000110465926126214/tm2629675d1_ex99-1.htm",
-   "filed_at": "2026-11-12T16:05:18-05:00",
-   "filed_kst": "2026-11-13 06:05",
-   "price": 4.27,
-   "change": -3.17,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 4.27,
-     "change": -3.17
-    },
-    {
-     "date": "2026-11-11",
-     "close": 4.41,
-     "change": 7.3
-    },
-    {
-     "date": "2026-11-10",
-     "close": 4.11,
-     "change": -0.96
-    }
-   ],
-   "market_cap": 128828898.0,
-   "shares_outstanding": 30170702.0,
-   "industry": "Motor Vehicle Parts & Accessories",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "WUHAN CITY, HUBEI",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-13T06:06:15+09:00"
   }
  ]
 }
