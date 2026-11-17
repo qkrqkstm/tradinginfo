@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-18T06:45:14+09:00",
+ "updated_at": "2026-11-18T06:49:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001214659-26-014510",
+   "company": "Hyperscale Data, Inc.",
+   "ticker": "GPUS",
+   "cik": 896493,
+   "form": "8-K",
+   "items": [
+    "5.03",
+    "9.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "EX-3.1 2 ex3_1.htm EXHIBIT 3.1 Exhibit 3.1 HYPERSCALE DATA, INC. CERTIFICATE OF DESIGNATION, RIGHTS AND PREFERENCES OF 12.00% SERIES I CUMULATIVE REDEEMABLE PERPETUAL PREFERRED STOCK November 17, 2026 Pursuant to Section 151(g) of the General Corporation Law of the State of Delaware (the “ DGCL ”) a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014510/0001214659-26-014510-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014510/ex3_1.htm",
+   "filed_at": "2026-11-17T16:45:18-05:00",
+   "filed_kst": "2026-11-18 06:45",
+   "price": 0.15,
+   "change": -3.56,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 0.15,
+     "change": -3.56
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.16,
+     "change": -5.88
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.17,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 229499.0,
+   "shares_outstanding": 1529995.0,
+   "industry": "Oil & Gas Field Machinery & Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "LAS VEGAS, NV",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-18T06:46:51+09:00"
+  },
   {
    "id": "0001104659-26-129104",
    "company": "COMFORT SYSTEMS USA INC",
@@ -15602,62 +15656,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T06:45:38+09:00"
-  },
-  {
-   "id": "0001104659-26-126295",
-   "company": "BATTALION OIL CORP",
-   "ticker": "BATL",
-   "cik": 1282648,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 59,
-   "summary": "75 per share available to common stockholders , primarily reflecting a $44.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1282648/000110465926126295/0001104659-26-126295-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1282648/000110465926126295/batl-ex99d1.htm",
-   "filed_at": "2026-11-12T16:41:59-05:00",
-   "filed_kst": "2026-11-13 06:41",
-   "price": 0.75,
-   "change": 3.73,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.75,
-     "change": 3.73
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.72,
-     "change": 3.58
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.7,
-     "change": -6.93
-    }
-   ],
-   "market_cap": 42961616.0,
-   "shares_outstanding": 57282155.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:42:24+09:00"
   }
  ]
 }
