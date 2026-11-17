@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-18T01:59:21+09:00",
+ "updated_at": "2026-11-18T02:04:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-052751",
+   "company": "Alpha Star Acquisition Corp",
+   "ticker": "ALSAF",
+   "cik": 1865111,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.03",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "EX-10.1 2 ex10-1.htm EX-10.1 Exhibit 10.1 Loan Agreement This Loan Agreement (the “ Agreement ”), dated as of November 16, 2026, is entered into by and between Alpha Star Acquisition Corporation, a Cayman Islands exempted company (the “ Borrower ”), and A-Star Management Corporation, a British Virgi",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1865111/000149315226052751/0001493152-26-052751-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1865111/000149315226052751/ex10-1.htm",
+   "filed_at": "2026-11-17T11:59:11-05:00",
+   "filed_kst": "2026-11-18 01:59",
+   "price": 2.26,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 2.26,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 2.26,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.26,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 7292934.0,
+   "shares_outstanding": 3226962.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-18T02:01:13+09:00"
+  },
   {
    "id": "0001213900-26-121040",
    "company": "WEN Acquisition Corp",
@@ -15646,59 +15700,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-13T06:15:36+09:00"
-  },
-  {
-   "id": "0001628280-26-073408",
-   "company": "Merlin, Inc.",
-   "ticker": "MRLN",
-   "cik": 2028707,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "“The new $8.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2028707/000162828026073408/0001628280-26-073408-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2028707/000162828026073408/merlininc8-kxex991110626.htm",
-   "filed_at": "2026-11-12T16:14:58-05:00",
-   "filed_kst": "2026-11-13 06:14",
-   "price": 0.96,
-   "change": -0.04,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.96,
-     "change": -0.04
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.96,
-     "change": -4.51
-    },
-    {
-     "date": "2026-11-11",
-     "close": 1.01,
-     "change": 6.09
-    }
-   ],
-   "market_cap": 97025073.0,
-   "shares_outstanding": 101067784.0,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:15:33+09:00"
   }
  ]
 }
