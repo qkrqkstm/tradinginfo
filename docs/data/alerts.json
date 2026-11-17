@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-17T21:14:54+09:00",
+ "updated_at": "2026-11-17T21:19:53+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-128825",
+   "company": "SELLAS Life Sciences Group, Inc.",
+   "ticker": "SLS",
+   "cik": 1390478,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과"
+   ],
+   "confidence": 79,
+   "summary": "1 SELLAS Life Sciences Announces Positive Pivotal Phase 3 REGAL Trial Data Showing Immunotherapeutic Cancer Vaccine, Galinpepimut-S (GPS), Demonstrated a Statistically Significant and Clinically Meaningful Improvement in Overall Survival in Patients with Acute Myeloid Leukemia - REGAL trial met its ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1390478/000110465926128825/0001104659-26-128825-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1390478/000110465926128825/tm2629947d1_ex99-1.htm",
+   "filed_at": "2026-11-17T07:14:19-05:00",
+   "filed_kst": "2026-11-17 21:14",
+   "price": 7.47,
+   "change": -4.96,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 7.47,
+     "change": -4.96
+    },
+    {
+     "date": "2026-11-13",
+     "close": 7.86,
+     "change": -2.12
+    },
+    {
+     "date": "2026-11-12",
+     "close": 8.03,
+     "change": -4.63
+    }
+   ],
+   "market_cap": 1522827858.0,
+   "shares_outstanding": 203859151.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T21:15:44+09:00"
+  },
   {
    "id": "0001193125-26-464750",
    "company": "Midera Food Processing, Inc.",
@@ -15690,60 +15746,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:08:25+09:00"
-  },
-  {
-   "id": "0000858877-26-000170",
-   "company": "CISCO SYSTEMS, INC.",
-   "ticker": "CSCO",
-   "cik": 858877,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 62,
-   "summary": "7 billion, and repurchased approximately 18 million shares of common stock under our stock repurchase program at an average price of $112.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000170/0000858877-26-000170-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000170/exhibit991pressrelease-q1f.htm",
-   "filed_at": "2026-11-12T16:06:24-05:00",
-   "filed_kst": "2026-11-13 06:06",
-   "price": 102.01,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 102.01,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 102.01,
-     "change": 1.24
-    },
-    {
-     "date": "2026-11-11",
-     "close": 100.76,
-     "change": 2.66
-    }
-   ],
-   "market_cap": 402183286915.0,
-   "shares_outstanding": 3942586873.0,
-   "industry": "Computer Communications Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "SAN JOSE, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T06:08:18+09:00"
   }
  ]
 }
