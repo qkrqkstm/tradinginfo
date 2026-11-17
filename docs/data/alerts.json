@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-18T05:04:28+09:00",
+ "updated_at": "2026-11-18T05:09:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-121345",
+   "company": "Plum Acquisition Corp. IV",
+   "ticker": "PLMK",
+   "cik": 2030482,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Additional Information and Where to Find It In connection with the transactions contemplated by the Business Combination Agreement (“Proposed Transactions”), Plum IV and CTR intend to file with the SEC a registration statement on Form S-4 (as may be amended, the “Registration Statement”), which will",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026121345/0001213900-26-121345-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026121345/ea0312653-425_plum4.htm",
+   "filed_at": "2026-11-17T15:05:54-05:00",
+   "filed_kst": "2026-11-18 05:05",
+   "price": 10.65,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 10.65,
+     "change": -0.05
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.65,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 10.65,
+     "change": 0.05
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Electric Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-18T05:08:03+09:00"
+  },
   {
    "id": "0001654954-26-009927",
    "company": "HSBC HOLDINGS PLC",
@@ -15644,62 +15696,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:16:25+09:00"
-  },
-  {
-   "id": "0001193125-26-458447",
-   "company": "BlossomHill Therapeutics, Inc.",
-   "ticker": "BLSM",
-   "cik": 1839970,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 75,
-   "summary": "BH-30643 has received Fast Track designation and is being evaluated in SOLARA, a global Phase 1/2, first-in-human clinical trial with ongoing Phase 1 dose expansion cohorts enrolling in both TKI-pretreated and TKI-naive settings, including a C797S resistance cohort.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1839970/000119312526458447/0001193125-26-458447-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1839970/000119312526458447/d389211dex991.htm",
-   "filed_at": "2026-11-12T16:15:29-05:00",
-   "filed_kst": "2026-11-13 06:15",
-   "price": 14.84,
-   "change": -7.94,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 14.84,
-     "change": -7.94
-    },
-    {
-     "date": "2026-11-11",
-     "close": 16.12,
-     "change": 13.2
-    },
-    {
-     "date": "2026-11-10",
-     "close": 14.24,
-     "change": -1.52
-    }
-   ],
-   "market_cap": 471688050.0,
-   "shares_outstanding": 31784909.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:16:23+09:00"
   }
  ]
 }
