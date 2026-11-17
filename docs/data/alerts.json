@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-17T14:34:27+09:00",
+ "updated_at": "2026-11-17T14:39:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950123-10-056034",
+   "company": "DTE ENERGY CO",
+   "ticker": "DTE",
+   "cik": 936340,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "The rate order includes a $22 million impact of lower depreciation rates ordered in case U-15699 which adjusted MichCon’s as-filed revenue deficiency from $193 million to $171 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000095012310056034/0000950123-10-056034-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/936340/000095012310056034/c02071exv99w1.htm",
+   "filed_at": "2010-06-04T17:00:29-04:00",
+   "filed_kst": "2010-06-05 06:00",
+   "price": 139.91,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 139.91,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 139.91,
+     "change": 0.14
+    },
+    {
+     "date": "2026-11-13",
+     "close": 139.72,
+     "change": 0.37
+    }
+   ],
+   "market_cap": 29105241272.0,
+   "shares_outstanding": 208028313.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "MI",
+   "hq": "DETROIT, MI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T14:36:55+09:00"
+  },
   {
    "id": "0000885725-11-000026",
    "company": "BOSTON SCIENTIFIC CORP",
@@ -15688,58 +15741,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-12T23:18:37+09:00"
-  },
-  {
-   "id": "0001213900-26-118516",
-   "company": "Skyline Builders Group Holding Ltd",
-   "ticker": "KAZR",
-   "cik": 2031009,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "The parties expect to enter into a share exchange agreement (the “ Merger Agreement ”) pursuant to which Skyline would exchange a preferred share with SuperCritical shareholders for their shares (collectively the “ Parties ”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118516/0001213900-26-118516-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2031009/000121390026118516/ea031203501ex99-1.htm",
-   "filed_at": "2026-11-12T09:15:01-05:00",
-   "filed_kst": "2026-11-12 23:15",
-   "price": 1.16,
-   "change": -7.2,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 1.16,
-     "change": -7.2
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.25,
-     "change": -4.58
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.31,
-     "change": 1.55
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Construction - Special Trade Contractors",
-   "state_of_incorporation": null,
-   "hq": "KOWLOON BAY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-12T23:15:31+09:00"
   }
  ]
 }
