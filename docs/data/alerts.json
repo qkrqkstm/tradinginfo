@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-17T22:39:43+09:00",
+ "updated_at": "2026-11-17T22:44:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-464841",
+   "company": "Axalta Coating Systems Ltd.",
+   "ticker": "AXTA",
+   "cik": 1616862,
+   "form": "8-K",
+   "items": [
+    "7.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "(“Axalta” and, together with its subsidiaries, “Axalta Group”) pursuant to the merger agreement, originally dated as of November 18, 2025 and as amended on May 27, 2026 and July 23, 2026, by and between AkzoNobel and Axalta (the “Merger Agreement”), which was approved by shareholders of AkzoNobel an",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1616862/000119312526464841/0001193125-26-464841-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1616862/000119312526464841/d109017dex991.htm",
+   "filed_at": "2026-11-17T08:41:00-05:00",
+   "filed_kst": "2026-11-17 22:41",
+   "price": 36.1,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 36.1,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 36.1,
+     "change": -1.26
+    },
+    {
+     "date": "2026-11-13",
+     "close": 36.56,
+     "change": 0.41
+    }
+   ],
+   "market_cap": 7727028002.0,
+   "shares_outstanding": 214045097.0,
+   "industry": "Paints, Varnishes, Lacquers, Enamels & Allied Prods",
+   "state_of_incorporation": "Bermuda",
+   "hq": "PHILADELPHIA, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T22:41:44+09:00"
+  },
   {
    "id": "0000950103-26-017594",
    "company": "AKZO NOBEL NV",
@@ -15689,56 +15742,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:11:22+09:00"
-  },
-  {
-   "id": "0001213900-26-118928",
-   "company": "Launch Two Acquisition Corp.",
-   "ticker": "LPBB",
-   "cik": 2023676,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 2 ea031178601ex99-1.htm INVESTOR PRESENTATION, DATED NOVEMBER 2026 Exhibit 99.1 Investor Presentation November 2026 Disclaimer 2 Disclaimer This presentation and any oral statements regarding the subject matter of this presentation (this \"Presentation\") is being furnished solely for the purp",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026118928/0001213900-26-118928-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026118928/ea031178601ex99-1.htm",
-   "filed_at": "2026-11-12T16:09:15-05:00",
-   "filed_kst": "2026-11-13 06:09",
-   "price": 10.82,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 10.82,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 10.82,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 10.82,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Fabricated Plate Work (Boiler Shops)",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "OAKLAND, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:10:48+09:00"
   }
  ]
 }
