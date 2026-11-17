@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-18T06:14:51+09:00",
+ "updated_at": "2026-11-18T06:19:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-129066",
+   "company": "AAR CORP",
+   "ticker": "AIR",
+   "cik": 1750,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "Notwithstanding the preceding or any provision of Section 13d-3 of the Exchange Act, (i) a Person or group shall not be deemed to beneficially own Voting Stock subject to a stock or asset purchase agreement, merger agreement, option agreement, warrant agreement or similar agreement (or voting or opt",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1750/000110465926129066/0001104659-26-129066-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1750/000110465926129066/tm2629863d1_ex4-1.htm",
+   "filed_at": "2026-11-17T16:15:30-05:00",
+   "filed_kst": "2026-11-18 06:15",
+   "price": 103.93,
+   "change": -2.05,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 103.93,
+     "change": -2.05
+    },
+    {
+     "date": "2026-11-16",
+     "close": 106.1,
+     "change": -2.14
+    },
+    {
+     "date": "2026-11-13",
+     "close": 108.42,
+     "change": 0.16
+    }
+   ],
+   "market_cap": 4177384349.0,
+   "shares_outstanding": 40194211.0,
+   "industry": "Aircraft & Parts",
+   "state_of_incorporation": "DE",
+   "hq": "WOOD DALE, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T06:16:48+09:00"
+  },
   {
    "id": "0000775215-26-000103",
    "company": "HBT Financial, Inc.",
@@ -15622,60 +15673,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:18:54+09:00"
-  },
-  {
-   "id": "0001104659-26-126260",
-   "company": "ProMIS Neurosciences Inc.",
-   "ticker": "PMN",
-   "cik": 1374339,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 71,
-   "summary": "PMN310’s Fast Track Designation allows for more frequent engagement with the United States Food and Drug Administration (FDA), and we plan to request a meeting with the agency next year, after the full data set has been analyzed.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1374339/000110465926126260/0001104659-26-126260-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1374339/000110465926126260/pmn-ex99d1.htm",
-   "filed_at": "2026-11-12T16:17:59-05:00",
-   "filed_kst": "2026-11-13 06:17",
-   "price": 3.48,
-   "change": -7.45,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 3.48,
-     "change": -7.45
-    },
-    {
-     "date": "2026-11-11",
-     "close": 3.76,
-     "change": -5.53
-    },
-    {
-     "date": "2026-11-10",
-     "close": 3.98,
-     "change": -1.73
-    }
-   ],
-   "market_cap": 31207572.0,
-   "shares_outstanding": 8967693.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Canada (Federal Level)",
-   "hq": "TORONTO, A6",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:18:52+09:00"
   }
  ]
 }
