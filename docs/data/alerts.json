@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-18T07:04:55+09:00",
+ "updated_at": "2026-11-18T07:10:07+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-121461",
+   "company": "reAlpha Tech Corp.",
+   "ticker": "AIRE",
+   "cik": 1859199,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "” Business Highlights ● In Q3 2026, reAlpha completed the acquisition of InstaMortgage, adding multi-state direct lending, in-house underwriting and funding capabilities to reAlpha’s integrated mortgage platform and expanding its mortgage footprint across 38 states and Washington, D.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1859199/000121390026121461/0001213900-26-121461-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1859199/000121390026121461/ea031249101ex99-1.htm",
+   "filed_at": "2026-11-17T17:05:40-05:00",
+   "filed_kst": "2026-11-18 07:05",
+   "price": 0.39,
+   "change": 10.6,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 0.39,
+     "change": 10.6
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.35,
+     "change": -1.4
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.36,
+     "change": -1.92
+    }
+   ],
+   "market_cap": 2899269.0,
+   "shares_outstanding": 7434024.0,
+   "industry": "Real Estate",
+   "state_of_incorporation": "DE",
+   "hq": "DUBLIN, OH",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-18T07:06:56+09:00"
+  },
   {
    "id": "0001104659-26-129129",
    "company": "Vireo Growth Inc.",
@@ -15595,61 +15648,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T07:11:12+09:00"
-  },
-  {
-   "id": "0001079973-26-001473",
-   "company": "NOCOPI TECHNOLOGIES INC/MD/",
-   "ticker": "NNUP",
-   "cik": 888981,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The change primarily reflects an increase in long-term receivables, largely related to guaranteed minimum royalties under the renewed license agreement that will be collected over the license term.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/888981/000107997326001473/0001079973-26-001473-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/888981/000107997326001473/ex99x1.htm",
-   "filed_at": "2026-11-12T17:08:39-05:00",
-   "filed_kst": "2026-11-13 07:08",
-   "price": 1.5,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-11",
-     "close": 1.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.5,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-09",
-     "close": 1.5,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 17859996.0,
-   "shares_outstanding": 11906664.0,
-   "industry": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
-   "state_of_incorporation": "MD",
-   "hq": "KING OF PRUSSIA, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T07:10:37+09:00"
   }
  ]
 }
