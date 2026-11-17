@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-18T06:54:12+09:00",
+ "updated_at": "2026-11-18T06:59:56+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-465677",
+   "company": "Victory Capital Holdings, Inc.",
+   "ticker": "VCTR",
+   "cik": 1570827,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "(the “Company”) held a Special Meeting of Stockholders (the “Special Meeting”) on November 17, 2026 in connection with the transactions contemplated by that certain Agreement and Plan of Merger, dated as of August 25, 2026, by and among Fortify Holdings 1, Inc.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1570827/000119312526465677/0001193125-26-465677-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1570827/000119312526465677/vctr-ex99_1.htm",
+   "filed_at": "2026-11-17T16:54:25-05:00",
+   "filed_kst": "2026-11-18 06:54",
+   "price": 117.88,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 117.88,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 117.88,
+     "change": -1.76
+    },
+    {
+     "date": "2026-11-16",
+     "close": 119.99,
+     "change": -4.21
+    }
+   ],
+   "market_cap": 7285447151.0,
+   "shares_outstanding": 61803929.0,
+   "industry": "Investment Advice",
+   "state_of_incorporation": "DE",
+   "hq": "BROOKLYN, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T06:55:52+09:00"
+  },
   {
    "id": "0001140361-26-044536",
    "company": "Elevra Lithium Ltd",
@@ -15597,61 +15651,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:50:33+09:00"
-  },
-  {
-   "id": "0001493152-26-051453",
-   "company": "InspireMD, Inc.",
-   "ticker": "NSPR",
-   "cik": 1433607,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "1 InspireMD Announces FDA Approval of the CGuard ® Prime TransCarotid Stent System for Transcarotid Artery Revascularization (TCAR) Procedures - Approval doubles the CGuard Prime platform’s total addressable market in the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1433607/000149315226051453/0001493152-26-051453-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1433607/000149315226051453/ex99-1.htm",
-   "filed_at": "2026-11-12T16:45:54-05:00",
-   "filed_kst": "2026-11-13 06:45",
-   "price": 0.77,
-   "change": -3.25,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.77,
-     "change": -3.25
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.8,
-     "change": 2.56
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.78,
-     "change": 9.86
-    }
-   ],
-   "market_cap": 35796621.0,
-   "shares_outstanding": 46489118.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:46:59+09:00"
   }
  ]
 }
