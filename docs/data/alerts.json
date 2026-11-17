@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-17T23:14:27+09:00",
+ "updated_at": "2026-11-17T23:19:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-464871",
+   "company": "IQM Quantum Computers Oyj",
+   "ticker": "IQMX",
+   "cik": 2113060,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "The total number of registered shares in IQM will increase upon registration of the new shares subscribed for through option exercises and will subsequently decrease upon registration of the cancellation of the shares returned to IQM.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2113060/000119312526464871/0001193125-26-464871-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2113060/000119312526464871/d170487dex991.htm",
+   "filed_at": "2026-11-17T09:16:26-05:00",
+   "filed_kst": "2026-11-17 23:16",
+   "price": 6.42,
+   "change": -4.75,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 6.42,
+     "change": -4.75
+    },
+    {
+     "date": "2026-11-13",
+     "close": 6.74,
+     "change": -5.34
+    },
+    {
+     "date": "2026-11-12",
+     "close": 7.12,
+     "change": -4.94
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "Finland",
+   "hq": "02150 ESPOO",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T23:18:02+09:00"
+  },
   {
    "id": "0001213900-26-121140",
    "company": "Luda Technology Group Ltd",
@@ -15667,61 +15717,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:12:10+09:00"
-  },
-  {
-   "id": "0001193125-26-458394",
-   "company": "4D Molecular Therapeutics, Inc.",
-   "ticker": "FDMT",
-   "cik": 1650648,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "파트너십",
-    "탑라인결과"
-   ],
-   "confidence": 71,
-   "summary": "1 4DMT Reports Third Quarter 2026 Financial Results, Operational Highlights and Expected Upcoming Milestones • Completed enrollment and randomization of the 4FRONT-2 Global Phase 3 clinical trial, the second of two pivotal trials of 4D-150 in wet AMD; topline data for 4FRONT-1 and 4FRONT-2 expected ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1650648/000119312526458394/0001193125-26-458394-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650648/000119312526458394/fdmt-ex99_1.htm",
-   "filed_at": "2026-11-12T16:11:13-05:00",
-   "filed_kst": "2026-11-13 06:11",
-   "price": 12.12,
-   "change": -6.74,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 12.11,
-     "change": -6.74
-    },
-    {
-     "date": "2026-11-11",
-     "close": 12.99,
-     "change": 4.25
-    },
-    {
-     "date": "2026-11-10",
-     "close": 12.46,
-     "change": -0.16
-    }
-   ],
-   "market_cap": 603310899.0,
-   "shares_outstanding": 49778127.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "EMERYVILLE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:12:08+09:00"
   }
  ]
 }
