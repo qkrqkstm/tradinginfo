@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-18T00:34:35+09:00",
+ "updated_at": "2026-11-18T00:39:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-074391",
+   "company": "Prenetics Global Ltd",
+   "ticker": "PRE",
+   "cik": 1876431,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 65,
+   "summary": "1 Document Prenetics’ IM8 Announces Three-Time GRAMMY-Winning DJ and Producer Diplo as IM8 Global Ambassador and Shareholder in Multi-Year Partnership — Diplo is IM8’s first Global Ambassador from music and takes a roster built in elite sport onto the world’s biggest stages — Diplo brings a social f",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026074391/0001628280-26-074391-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026074391/preneticsim8diplo_finalrel.htm",
+   "filed_at": "2026-11-17T10:35:59-05:00",
+   "filed_kst": "2026-11-18 00:35",
+   "price": 16.09,
+   "change": 3.94,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 16.09,
+     "change": 3.94
+    },
+    {
+     "date": "2026-11-16",
+     "close": 15.48,
+     "change": -6.24
+    },
+    {
+     "date": "2026-11-13",
+     "close": 16.51,
+     "change": -1.26
+    }
+   ],
+   "market_cap": 271504092.0,
+   "shares_outstanding": 16874089.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "QUARRY BAY, K3",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-18T00:37:16+09:00"
+  },
   {
    "id": "0001104659-26-128871",
    "company": "PROCACCIANTI HOTEL REIT, INC.",
@@ -15652,61 +15704,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T06:14:08+09:00"
-  },
-  {
-   "id": "0001193125-26-458411",
-   "company": "SOUNDTHINKING, INC.",
-   "ticker": "SSTI",
-   "cik": 1351636,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "Transaction with Transom As previously announced on September 29, 2026, SoundThinking entered into a definitive merger agreement (the \"Merger Agreement\") under which certain affiliates of Transom Capital Group, LLC (\"Transom\") will acquire SoundThinking through a tender offer for $8.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1351636/000119312526458411/0001193125-26-458411-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1351636/000119312526458411/ssti-ex99_1.htm",
-   "filed_at": "2026-11-12T16:12:44-05:00",
-   "filed_kst": "2026-11-13 06:12",
-   "price": 8.25,
-   "change": 0.24,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 8.25,
-     "change": 0.24
-    },
-    {
-     "date": "2026-11-11",
-     "close": 8.23,
-     "change": -0.48
-    },
-    {
-     "date": "2026-11-10",
-     "close": 8.27,
-     "change": -0.6
-    }
-   ],
-   "market_cap": 108601268.0,
-   "shares_outstanding": 13163790.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "DE",
-   "hq": "FREMONT, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:13:34+09:00"
   }
  ]
 }
