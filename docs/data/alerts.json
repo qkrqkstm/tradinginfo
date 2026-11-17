@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-18T01:44:21+09:00",
+ "updated_at": "2026-11-18T01:49:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-121040",
+   "company": "WEN Acquisition Corp",
+   "ticker": "WENN",
+   "cik": 2057043,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The SPAC partner we’ve executed a business combination agreement with is Wen Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2057043/000121390026121040/0001213900-26-121040-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2057043/000121390026121040/ea031251401-425_ournext.htm",
+   "filed_at": "2026-11-17T11:47:31-05:00",
+   "filed_kst": "2026-11-18 01:47",
+   "price": 10.48,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 10.48,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.48,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "close": 10.48,
+     "change": 0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "OAKLAND, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-18T01:48:46+09:00"
+  },
   {
    "id": "0001628280-26-074391",
    "company": "Prenetics Global Ltd",
@@ -15649,61 +15699,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:15:33+09:00"
-  },
-  {
-   "id": "0001708599-26-000069",
-   "company": "Serina Therapeutics, Inc.",
-   "ticker": "SER",
-   "cik": 1708599,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "파트너십",
-    "탑라인결과"
-   ],
-   "confidence": 70,
-   "summary": "The trial continues to assess safety, tolerability, pharmacokinetics and exploratory clinical measures of motor function, with topline data from the single-ascending-dose portion expected in the first half of 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1708599/000170859926000069/0001708599-26-000069-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1708599/000170859926000069/ser-20261112xex991_earning.htm",
-   "filed_at": "2026-11-12T16:13:17-05:00",
-   "filed_kst": "2026-11-13 06:13",
-   "price": 1.42,
-   "change": -5.33,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 1.42,
-     "change": -5.33
-    },
-    {
-     "date": "2026-11-11",
-     "close": 1.5,
-     "change": 4.9
-    },
-    {
-     "date": "2026-11-10",
-     "close": 1.43,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 37728630.0,
-   "shares_outstanding": 26569458.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "AL",
-   "hq": "HUNTSVILLE, AL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:14:08+09:00"
   }
  ]
 }
