@@ -1,7 +1,168 @@
 {
- "updated_at": "2026-11-17T23:24:44+09:00",
+ "updated_at": "2026-11-17T23:29:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-121150",
+   "company": "Stellar V Capital Corp. (Cayman Islands)",
+   "ticker": "SVCC",
+   "cik": 2033593,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": ", a Leading Producer of Graphene, Enter into Business Combination Agreement ● Turquoise Group Pty Ltd.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2033593/000121390026121150/0001213900-26-121150-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2033593/000121390026121150/ea0312582-425_stellar5.htm",
+   "filed_at": "2026-11-17T09:28:15-05:00",
+   "filed_kst": "2026-11-17 23:28",
+   "price": 10.69,
+   "change": 0.28,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 10.69,
+     "change": 0.28
+    },
+    {
+     "date": "2026-11-13",
+     "close": 10.66,
+     "change": -4.74
+    },
+    {
+     "date": "2026-11-12",
+     "close": 11.19,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T23:29:36+09:00"
+  },
+  {
+   "id": "0000950157-26-001267",
+   "company": "OLIN Corp",
+   "ticker": "OLN",
+   "cik": 74303,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "As previously disclosed, on June 15, 2026, Olin Corporation, a Virginia corporation (“ Olin ” and, after the effectiveness of the Merger referred to below, “ OlinHuntsman ”) entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Huntsman Corporation, a Delaware corporation (“ H",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/74303/000095015726001267/0000950157-26-001267-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/74303/000095015726001267/ex99-1.htm",
+   "filed_at": "2026-11-17T09:25:04-05:00",
+   "filed_kst": "2026-11-17 23:25",
+   "price": 16.89,
+   "change": -3.26,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 16.89,
+     "change": -3.26
+    },
+    {
+     "date": "2026-11-13",
+     "close": 17.46,
+     "change": -1.13
+    },
+    {
+     "date": "2026-11-12",
+     "close": 17.66,
+     "change": -1.29
+    }
+   ],
+   "market_cap": 1925556712.0,
+   "shares_outstanding": 114005726.0,
+   "industry": "Chemicals & Allied Products",
+   "state_of_incorporation": "VA",
+   "hq": "CLAYTON, MO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T23:26:29+09:00"
+  },
+  {
+   "id": "0001171843-26-007511",
+   "company": "Edesa Biotech, Inc.",
+   "ticker": "EDSA",
+   "cik": 1540159,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "Orphan drug designation in the European Union provides important regulatory incentives, including reduced development fees, potential market exclusivity following approval, and enhanced development efficiency, which may help streamline clinical development and",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1540159/000117184326007511/0001171843-26-007511-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1540159/000117184326007511/f8k_111726.htm",
+   "filed_at": "2026-11-17T09:25:18-05:00",
+   "filed_kst": "2026-11-17 23:25",
+   "price": 1.89,
+   "change": -2.58,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 1.89,
+     "change": -2.58
+    },
+    {
+     "date": "2026-11-13",
+     "close": 1.94,
+     "change": -6.73
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.08,
+     "change": -6.31
+    }
+   ],
+   "market_cap": 18221549.0,
+   "shares_outstanding": 9641031.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T23:26:28+09:00"
+  },
   {
    "id": "0001193125-26-464871",
    "company": "IQM Quantum Computers Oyj",
@@ -15561,162 +15722,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:12:55+09:00"
-  },
-  {
-   "id": "0001193125-26-458409",
-   "company": "Invesco Galaxy Solana ETF",
-   "ticker": "QSOL",
-   "cik": 2074409,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "2025) BNY AND CUSTOMER CONFIDENTIAL (b) Notwithstanding the foregoing, BNY may (and Customer consents to): (i) use Customer’s Confidential Information in connection with certain functions performed on a centralized basis by BNY, its Affiliates and joint ventures and their service providers that are ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2074409/000119312526458409/0001193125-26-458409-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2074409/000119312526458409/d286791dex1013.htm",
-   "filed_at": "2026-11-12T16:12:18-05:00",
-   "filed_kst": "2026-11-13 06:12",
-   "price": 8.15,
-   "change": -4.34,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 8.15,
-     "change": -4.34
-    },
-    {
-     "date": "2026-11-11",
-     "close": 8.52,
-     "change": 1.79
-    },
-    {
-     "date": "2026-11-10",
-     "close": 8.37,
-     "change": -3.74
-    }
-   ],
-   "market_cap": 4686250.0,
-   "shares_outstanding": 575000.0,
-   "industry": "Commodity Contracts Brokers & Dealers",
-   "state_of_incorporation": "DE",
-   "hq": "DOWNERS GROVE, IL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:12:52+09:00"
-  },
-  {
-   "id": "0001140361-26-043431",
-   "company": "ON SEMICONDUCTOR CORP",
-   "ticker": "ON",
-   "cik": 1097864,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-10.1 2 ef20085485_ex10-1.htm EXHIBIT 10.1 Exhibit 10.1 Execution Version AMENDED AND RESTATED CREDIT AGREEMENT dated as of November 12, 2026, among ON SEMICONDUCTOR CORPORATION, as the Borrower, THE LENDERS PARTY HERETO, and JPMORGAN CHASE BANK, N.A., as Administrative Agent _____________________",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1097864/000114036126043431/0001140361-26-043431-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1097864/000114036126043431/ef20085485_ex10-1.htm",
-   "filed_at": "2026-11-12T16:10:55-05:00",
-   "filed_kst": "2026-11-13 06:10",
-   "price": 73.73,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 73.73,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 73.73,
-     "change": 0.15
-    },
-    {
-     "date": "2026-11-11",
-     "close": 73.62,
-     "change": 5.76
-    }
-   ],
-   "market_cap": 28701945374.0,
-   "shares_outstanding": 389284489.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "DE",
-   "hq": "SCOTTSDALE, AZ",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T06:12:13+09:00"
-  },
-  {
-   "id": "0001847367-26-000022",
-   "company": "ALUMIS INC.",
-   "ticker": "ALMS",
-   "cik": 1847367,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "파트너십",
-    "탑라인결과"
-   ],
-   "confidence": 75,
-   "summary": "EX-99.1 2 alms-ex99d1.htm EX-99.1 ​ Exhibit 99.1 ​ ​ Alumis Reports Third Quarter 2026 Financial Results and Highlights Recent Business Updates ​ – New Phase 3 data demonstrated rapid and durable improvements in plaque psoriasis burden, adding to envudeucitinib’s differentiated clinical profile, inc",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1847367/000184736726000022/0001847367-26-000022-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1847367/000184736726000022/alms-ex99d1.htm",
-   "filed_at": "2026-11-12T16:11:05-05:00",
-   "filed_kst": "2026-11-13 06:11",
-   "price": 6.13,
-   "change": -7.4,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 6.13,
-     "change": -7.4
-    },
-    {
-     "date": "2026-11-11",
-     "close": 6.62,
-     "change": 3.44
-    },
-    {
-     "date": "2026-11-10",
-     "close": 6.4,
-     "change": -2.29
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:12:10+09:00"
   }
  ]
 }
