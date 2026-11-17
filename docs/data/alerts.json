@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-17T22:49:47+09:00",
+ "updated_at": "2026-11-17T22:54:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-464853",
+   "company": "WORTHINGTON ENTERPRISES, INC.",
+   "ticker": "WOR",
+   "cik": 108516,
+   "form": "8-K",
+   "items": [
+    "7.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "If you go into some of their conference rooms or a lot of the suites, you'll see the grid ceiling, which is from WAVE, which is our 50/50 joint venture.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526464853/0001193125-26-464853-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526464853/wor-ex99_2.htm",
+   "filed_at": "2026-11-17T08:52:55-05:00",
+   "filed_kst": "2026-11-17 22:52",
+   "price": 58.63,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 58.63,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 58.63,
+     "change": -1.41
+    },
+    {
+     "date": "2026-11-13",
+     "close": 59.47,
+     "change": 2.18
+    }
+   ],
+   "market_cap": 2888096797.0,
+   "shares_outstanding": 49259710.0,
+   "industry": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
+   "state_of_incorporation": "OH",
+   "hq": "COLUMBUS, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T22:54:26+09:00"
+  },
   {
    "id": "0001193125-26-464850",
    "company": "Axalta Coating Systems Ltd.",
@@ -15673,60 +15725,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T06:11:25+09:00"
-  },
-  {
-   "id": "0001193125-26-458387",
-   "company": "Fulcrum Therapeutics, Inc.",
-   "ticker": "FULC",
-   "cik": 1680581,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "배당"
-   ],
-   "confidence": 67,
-   "summary": "The closing of the early-stage HbF assets sale is contingent upon consummation of the proposed merger pursuant to that certain Merger Agreement dated August 16, 2026, by and among Fulcrum, Fusion Merger Sub I, Fusion Merger Sub II and Slate, or the Merger Agreement (or in the event the Merger Agreem",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1680581/000119312526458387/0001193125-26-458387-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1680581/000119312526458387/d137296d8k.htm",
-   "filed_at": "2026-11-12T16:10:28-05:00",
-   "filed_kst": "2026-11-13 06:10",
-   "price": 3.68,
-   "change": -1.6,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 3.68,
-     "change": -1.6
-    },
-    {
-     "date": "2026-11-11",
-     "close": 3.74,
-     "change": 0.54
-    },
-    {
-     "date": "2026-11-10",
-     "close": 3.72,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 280773906.0,
-   "shares_outstanding": 76297257.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:11:23+09:00"
   }
  ]
 }
