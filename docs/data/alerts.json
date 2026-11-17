@@ -1,7 +1,269 @@
 {
- "updated_at": "2026-11-17T19:59:20+09:00",
+ "updated_at": "2026-11-17T20:04:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001062993-26-006123",
+   "company": "Largo Inc.",
+   "ticker": "LGO",
+   "cik": 1400438,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 56,
+   "summary": "Largo is also strategically invested in the clean energy storage sector through its investment in Storion Energy, a joint venture with Stryten Energy focused on scalable domestic electrolyte production for utility-scale vanadium flow battery long-duration energy storage solutions in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1400438/000106299326006123/0001062993-26-006123-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1400438/000106299326006123/exhibit99-1.htm",
+   "filed_at": "2026-11-16T20:17:18-05:00",
+   "filed_kst": "2026-11-17 10:17",
+   "price": 0.29,
+   "change": 1.38,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 0.29,
+     "change": 1.38
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.29,
+     "change": -6.45
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.31,
+     "change": -3.12
+    }
+   ],
+   "market_cap": 24265432.0,
+   "shares_outstanding": 83673905.0,
+   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "Toronto, Ontario",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T20:04:29+09:00"
+  },
+  {
+   "id": "0001829126-26-012532",
+   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "ticker": "NTHI",
+   "cik": 1979414,
+   "form": "8-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 82,
+   "summary": "• Increased FDA approvals for novel and combination therapies.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012532/0001829126-26-012532-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012532/neonctechnologies_ex99-1.htm",
+   "filed_at": "2026-11-16T19:47:35-05:00",
+   "filed_kst": "2026-11-17 09:47",
+   "price": 4.54,
+   "change": -7.54,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 4.54,
+     "change": -7.54
+    },
+    {
+     "date": "2026-11-13",
+     "close": 4.91,
+     "change": 1.24
+    },
+    {
+     "date": "2026-11-12",
+     "close": 4.85,
+     "change": 7.3
+    }
+   ],
+   "market_cap": 130981670.0,
+   "shares_outstanding": 28850588.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CALABASAS, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T20:04:28+09:00"
+  },
+  {
+   "id": "0001493152-26-052658",
+   "company": "Vivos Therapeutics, Inc.",
+   "ticker": "VVOS",
+   "cik": 1716166,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Vivos’ groundbreaking Complete Airway Repositioning and Expansion (CARE) devices were the first oral appliances to receive FDA 510(k) clearance for treating severe OSA in adults and the flagship DNA appliance is the first oral appliance to receive FDA clearance for treating moderate to severe OSA in",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226052658/0001493152-26-052658-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226052658/ex99-1.htm",
+   "filed_at": "2026-11-16T20:07:45-05:00",
+   "filed_kst": "2026-11-17 10:07",
+   "price": 0.08,
+   "change": -16.33,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 0.08,
+     "change": -16.33
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.1,
+     "change": 2.08
+    },
+    {
+     "date": "2026-11-12",
+     "close": 0.1,
+     "change": 5.49
+    }
+   ],
+   "market_cap": 2705661.0,
+   "shares_outstanding": 33820768.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "DE",
+   "hq": "LITTLETON, CO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T20:04:25+09:00"
+  },
+  {
+   "id": "0001564708-26-000263",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000263/0001564708-26-000263-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000263/appendix3cclassa20261116.htm",
+   "filed_at": "2026-11-16T20:07:56-05:00",
+   "filed_kst": "2026-11-17 10:07",
+   "price": 29.57,
+   "change": -1.07,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 29.57,
+     "change": -1.07
+    },
+    {
+     "date": "2026-11-13",
+     "close": 29.89,
+     "change": 2.47
+    },
+    {
+     "date": "2026-11-12",
+     "close": 29.17,
+     "change": -2.54
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T20:04:24+09:00"
+  },
+  {
+   "id": "0001988894-26-000094",
+   "company": "Amer Sports, Inc.",
+   "ticker": "AS",
+   "cik": 1988894,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각",
+    "가이던스상향"
+   ],
+   "confidence": 85,
+   "summary": "EX-99 2 pressreleaseq32026.htm EX-99.1 Document AMER SPORTS REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS, RAISES FULL YEAR REVENUE, MARGIN, AND EPS GUIDANCE • Strong 3Q26 results with revenues, adjust ed margins and EPS above guidance • Revenue increased 24% to $2,169 million, or +23% ex-currency, a",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1988894/000198889426000094/0001988894-26-000094-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1988894/000198889426000094/pressreleaseq32026.htm",
+   "filed_at": "2026-11-16T18:15:59-05:00",
+   "filed_kst": "2026-11-17 08:15",
+   "price": 29.1,
+   "change": -2.81,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 29.1,
+     "change": -2.81
+    },
+    {
+     "date": "2026-11-13",
+     "close": 29.94,
+     "change": -0.83
+    },
+    {
+     "date": "2026-11-12",
+     "close": 30.19,
+     "change": -2.86
+    }
+   ],
+   "market_cap": 16228120962.0,
+   "shares_outstanding": 557667387.0,
+   "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "GRAND CAYMAN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T20:02:52+09:00"
+  },
   {
    "id": "0000950123-10-056034",
    "company": "DTE ENERGY CO",
@@ -15484,263 +15746,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T03:15:34+09:00"
-  },
-  {
-   "id": "0000911971-26-000061",
-   "company": "TEEKAY CORP LTD",
-   "ticker": "TK",
-   "cik": 911971,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 tkq3-26pressrelease.htm 6-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 _________________________ FORM 6-K _________________________ Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 under the Securities Exchange Act of 1934 Date of Report:",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/911971/000091197126000061/0000911971-26-000061-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/911971/000091197126000061/tkq3-26pressrelease.htm",
-   "filed_at": "2026-11-12T12:15:06-05:00",
-   "filed_kst": "2026-11-13 02:15",
-   "price": 13.06,
-   "change": -1.91,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 13.06,
-     "change": -1.91
-    },
-    {
-     "date": "2026-11-11",
-     "close": 13.32,
-     "change": 3.18
-    },
-    {
-     "date": "2026-11-10",
-     "close": 12.91,
-     "change": 0.55
-    }
-   ],
-   "market_cap": 1123901860.0,
-   "shares_outstanding": 86056804.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Bermuda",
-   "hq": "HAMILTON, D0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-13T02:15:30+09:00"
-  },
-  {
-   "id": "0001419945-26-000070",
-   "company": "TEEKAY TANKERS LTD.",
-   "ticker": "TNK",
-   "cik": 1419945,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "6-K 1 tnkq3-26erdocument.htm 6-K Document UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 _________________________ FORM 6-K _________________________ Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 under the Securities Exchange Act of 1934 Date of Report: ",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1419945/000141994526000070/0001419945-26-000070-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1419945/000141994526000070/tnkq3-26erdocument.htm",
-   "filed_at": "2026-11-12T10:38:47-05:00",
-   "filed_kst": "2026-11-13 00:38",
-   "price": 86.64,
-   "change": -2.61,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 86.64,
-     "change": -2.61
-    },
-    {
-     "date": "2026-11-11",
-     "close": 88.96,
-     "change": 3.8
-    },
-    {
-     "date": "2026-11-10",
-     "close": 85.7,
-     "change": 0.68
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Water Transportation",
-   "state_of_incorporation": "Bermuda",
-   "hq": "HAMILTON, D0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T00:39:36+09:00"
-  },
-  {
-   "id": "0001317861-26-000055",
-   "company": "EuroDry Ltd.",
-   "ticker": "EDRY",
-   "cik": 1731388,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "8 million has been used to repurchase 358,130 shares of the Company, under our share repurchase plan of up to $10 million, announced in August 2022.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1731388/000131786126000055/0001317861-26-000055-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1731388/000131786126000055/f111226edry6k.htm",
-   "filed_at": "2026-11-12T09:27:37-05:00",
-   "filed_kst": "2026-11-12 23:27",
-   "price": 39.51,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 39.51,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 39.51,
-     "change": 1.83
-    },
-    {
-     "date": "2026-11-10",
-     "close": 38.8,
-     "change": 0.91
-    }
-   ],
-   "market_cap": 114205512.0,
-   "shares_outstanding": 2890547.0,
-   "industry": "Water Transportation",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "MAROUSSI, J3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-12T23:28:04+09:00"
-  },
-  {
-   "id": "0001104659-26-126008",
-   "company": "Nebius Group N.V.",
-   "ticker": "NBIS",
-   "cik": 1513845,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 65,
-   "summary": "Adoption: Expanding across segments and routes to market Leading enterprise data and AI platforms signed multi-year agreements for the first time: Q3 2026 Databricks selected Nebius AI Cloud following a rigorous evaluation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/0001104659-26-126008-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126008/tm2629571d1_ex99-1.htm",
-   "filed_at": "2026-11-12T09:22:11-05:00",
-   "filed_kst": "2026-11-12 23:22",
-   "price": 154.69,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 154.69,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 154.69,
-     "change": 15.44
-    },
-    {
-     "date": "2026-11-10",
-     "close": 134.0,
-     "change": -5.27
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "Netherlands",
-   "hq": "AMSTERDAM",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-12T23:22:42+09:00"
-  },
-  {
-   "id": "0001437749-26-036407",
-   "company": "Neonode Inc.",
-   "ticker": "NEON",
-   "cik": 87050,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Revenue grew by more than 24% compared with the same period last year, supported by the ramp-up of an automotive license agreement and increased engineering project deliveries.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/87050/000143774926036407/0001437749-26-036407-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/87050/000143774926036407/ex_1011195.htm",
-   "filed_at": "2026-11-12T09:18:09-05:00",
-   "filed_kst": "2026-11-12 23:18",
-   "price": 0.7,
-   "change": 0.14,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.7,
-     "change": 0.14
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.7,
-     "change": 1.45
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.69,
-     "change": 2.99
-    }
-   ],
-   "market_cap": 11748045.0,
-   "shares_outstanding": 16782922.0,
-   "industry": "Electronic Components, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "STOCKHOLM",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-12T23:18:37+09:00"
   }
  ]
 }
