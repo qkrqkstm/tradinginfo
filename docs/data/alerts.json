@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-17T23:29:37+09:00",
+ "updated_at": "2026-11-17T23:34:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-052740",
+   "company": "Algorhythm Holdings, Inc.",
+   "ticker": "RIME",
+   "cik": 923601,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "CEO Commentary “The third quarter was a pivotal period for Algorhythm as we completed the acquisition of Azure Energy and entered the renewable power infrastructure space,” said Greg Smith, Chief Executive Officer of Algorhythm Holdings.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/923601/000149315226052740/0001493152-26-052740-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/923601/000149315226052740/ex99-1.htm",
+   "filed_at": "2026-11-17T09:30:10-05:00",
+   "filed_kst": "2026-11-17 23:30",
+   "price": 0.09,
+   "change": -1.78,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 0.09,
+     "change": -1.78
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.09,
+     "change": -18.18
+    },
+    {
+     "date": "2026-11-13",
+     "close": 0.11,
+     "change": -26.67
+    }
+   ],
+   "market_cap": 3680908.0,
+   "shares_outstanding": 40898979.0,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "DE",
+   "hq": "FORT LAUDERDALE, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T23:30:59+09:00"
+  },
   {
    "id": "0001213900-26-121150",
    "company": "Stellar V Capital Corp. (Cayman Islands)",
@@ -15669,59 +15723,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T06:12:57+09:00"
-  },
-  {
-   "id": "0001193125-26-458403",
-   "company": "Bolt Biotherapeutics, Inc.",
-   "ticker": "BOLT",
-   "cik": 1641281,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Bolt will call and hold stockholders’ meetings as soon as practicable to approve the conversion of the Series D Preferred Stock into Common Stock, and other matters as specified in the Merger Agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1641281/000119312526458403/0001193125-26-458403-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1641281/000119312526458403/bolt-ex99_1.htm",
-   "filed_at": "2026-11-12T16:11:47-05:00",
-   "filed_kst": "2026-11-13 06:11",
-   "price": 5.91,
-   "change": -5.59,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 5.91,
-     "change": -5.59
-    },
-    {
-     "date": "2026-11-11",
-     "close": 6.26,
-     "change": -0.63
-    },
-    {
-     "date": "2026-11-10",
-     "close": 6.3,
-     "change": -2.02
-    }
-   ],
-   "market_cap": 11384699.0,
-   "shares_outstanding": 1926345.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "REDWOOD CITY, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:12:55+09:00"
   }
  ]
 }
