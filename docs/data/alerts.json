@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-18T06:09:38+09:00",
+ "updated_at": "2026-11-18T06:14:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000775215-26-000103",
+   "company": "HBT Financial, Inc.",
+   "ticker": "HBT",
+   "cik": 775215,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(“TYFG”) entered into an Agreement and Plan of Merger in connection with HBT's proposed acquisition of TYFG and its wholly owned bank subsidiary, First State Bank.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000103/0000775215-26-000103-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/775215/000077521526000103/hbt-20261116.htm",
+   "filed_at": "2026-11-17T16:09:56-05:00",
+   "filed_kst": "2026-11-18 06:09",
+   "price": 36.25,
+   "change": -1.71,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 36.25,
+     "change": -1.71
+    },
+    {
+     "date": "2026-11-16",
+     "close": 36.88,
+     "change": -0.19
+    },
+    {
+     "date": "2026-11-13",
+     "close": 36.95,
+     "change": -1.44
+    }
+   ],
+   "market_cap": 1318253435.0,
+   "shares_outstanding": 36365612.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "BLOOMINGTON, IL",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-18T06:10:50+09:00"
+  },
   {
    "id": "0001493152-26-052833",
    "company": "BranchOut Food Inc.",
@@ -15624,60 +15676,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:18:52+09:00"
-  },
-  {
-   "id": "0001818383-26-000274",
-   "company": "MediaAlpha, Inc.",
-   "ticker": "MAX",
-   "cik": 1818383,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "The repurchased shares will be canceled and retired.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000274/0001818383-26-000274-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000274/max-pressreleaseex99111122.htm",
-   "filed_at": "2026-11-12T16:18:03-05:00",
-   "filed_kst": "2026-11-13 06:18",
-   "price": 14.81,
-   "change": -1.07,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 14.81,
-     "change": -1.07
-    },
-    {
-     "date": "2026-11-11",
-     "close": 14.97,
-     "change": 4.18
-    },
-    {
-     "date": "2026-11-10",
-     "close": 14.37,
-     "change": 1.48
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "LOS ANGELES, CA",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-13T06:18:50+09:00"
   }
  ]
 }
