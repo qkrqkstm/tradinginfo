@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-17T20:24:49+09:00",
+ "updated_at": "2026-11-17T20:29:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009890",
+   "company": "Wise Group plc",
+   "ticker": "WSE",
+   "cik": 2099039,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "4700 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009890/0001654954-26-009890-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009890/a3925d.htm",
+   "filed_at": "2026-11-17T06:24:12-05:00",
+   "filed_kst": "2026-11-17 20:24",
+   "price": 11.66,
+   "change": 3.83,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 11.66,
+     "change": 3.83
+    },
+    {
+     "date": "2026-11-13",
+     "close": 11.23,
+     "change": 2.74
+    },
+    {
+     "date": "2026-11-12",
+     "close": 10.93,
+     "change": -1.97
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "Jersey",
+   "hq": "LONDON",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-17T20:25:46+09:00"
+  },
   {
    "id": "0001654954-26-009887",
    "company": "RENTOKIL INITIAL PLC /FI",
@@ -15691,61 +15742,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:07:01+09:00"
-  },
-  {
-   "id": "0001193125-26-458316",
-   "company": "Candel Therapeutics, Inc.",
-   "ticker": "CADL",
-   "cik": 1841387,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 97,
-   "summary": "Food and Drug Administration (FDA) previously granted Fast Track Designation and Regenerative Medicine Advanced Therapy Designation to aglatimagene for the treatment of localized prostate cancer.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526458316/0001193125-26-458316-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526458316/cadl-ex99_1.htm",
-   "filed_at": "2026-11-12T16:05:17-05:00",
-   "filed_kst": "2026-11-13 06:05",
-   "price": 8.39,
-   "change": -9.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 8.39,
-     "change": -9.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 9.22,
-     "change": -1.39
-    },
-    {
-     "date": "2026-11-10",
-     "close": 9.35,
-     "change": -1.48
-    }
-   ],
-   "market_cap": 641990760.0,
-   "shares_outstanding": 76518565.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "NEEDHAM, MA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:06:59+09:00"
   }
  ]
 }
