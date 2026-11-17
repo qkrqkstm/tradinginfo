@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-17T21:49:32+09:00",
+ "updated_at": "2026-11-17T21:54:46+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-074359",
+   "company": "GRIFFON CORP",
+   "ticker": "GFF",
+   "cik": 50725,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "배당"
+   ],
+   "confidence": 75,
+   "summary": "Reinforcing this strategy, earlier today we announced a $400 million increase in our share repurchase authorization, and a 14% increase in our regular quarterly dividend to $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/50725/000162828026074359/0001628280-26-074359-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/50725/000162828026074359/gffearningsreleaseq42026ex.htm",
+   "filed_at": "2026-11-17T07:50:52-05:00",
+   "filed_kst": "2026-11-17 21:50",
+   "price": 99.96,
+   "change": -4.94,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 99.96,
+     "change": -4.94
+    },
+    {
+     "date": "2026-11-13",
+     "close": 105.16,
+     "change": 0.31
+    },
+    {
+     "date": "2026-11-12",
+     "close": 104.84,
+     "change": -1.24
+    }
+   ],
+   "market_cap": 4527659811.0,
+   "shares_outstanding": 45294716.0,
+   "industry": "Metal Doors, Sash, Frames, Moldings & Trim",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T21:51:41+09:00"
+  },
   {
    "id": "0001104659-26-128825",
    "company": "SELLAS Life Sciences Group, Inc.",
@@ -15690,62 +15744,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T06:08:26+09:00"
-  },
-  {
-   "id": "0002026478-26-000070",
-   "company": "Newsmax Inc.",
-   "ticker": "NMAX",
-   "cik": 2026478,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "• Advanced previously signed international brand license agreements toward launch, with Newsmax Ukraine going live on November 1, 2026 and Newsmax en Español expanding its streaming distribution in the United States, while 2026 international licensing revenues remain on track to increase 344% year-o",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/0002026478-26-000070-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/nmax_q32026earningsrelease.htm",
-   "filed_at": "2026-11-12T16:05:48-05:00",
-   "filed_kst": "2026-11-13 06:05",
-   "price": 7.29,
-   "change": -5.81,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 7.29,
-     "change": -5.81
-    },
-    {
-     "date": "2026-11-11",
-     "close": 7.74,
-     "change": 2.52
-    },
-    {
-     "date": "2026-11-10",
-     "close": 7.55,
-     "change": -2.83
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Television Broadcasting Stations",
-   "state_of_incorporation": "FL",
-   "hq": "BOCA RATON, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:08:25+09:00"
   }
  ]
 }
