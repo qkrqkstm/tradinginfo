@@ -1,7 +1,487 @@
 {
- "updated_at": "2026-11-17T20:04:31+09:00",
+ "updated_at": "2026-11-17T20:09:26+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-464687",
+   "company": "Yalla Group Ltd",
+   "ticker": "YALA",
+   "cik": 1794350,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "3 Share Repurchase Program Under the Company’s share repurchase program launched in 2026 (the “2026 Program”), the Company may repurchase up to US$150 million worth of its outstanding ADSs and/or Class A ordinary shares over the 24 months starting from March 9",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1794350/000119312526464687/0001193125-26-464687-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1794350/000119312526464687/yala-ex99_1.htm",
+   "filed_at": "2026-11-17T06:03:32-05:00",
+   "filed_kst": "2026-11-17 20:03",
+   "price": 5.46,
+   "change": -0.91,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 5.46,
+     "change": -0.91
+    },
+    {
+     "date": "2026-11-13",
+     "close": 5.51,
+     "change": 0.73
+    },
+    {
+     "date": "2026-11-12",
+     "close": 5.47,
+     "change": -0.55
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "DUBAI",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-17T20:07:52+09:00"
+  },
+  {
+   "id": "0001213900-26-121046",
+   "company": "Proem Acquisition Corp. I",
+   "ticker": "PAAC",
+   "cik": 2087446,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "(“Astro Digital”), a Delaware corporation, and Proem Acquisition Corp I (Nasdaq: PAAC) (“Proem”), a Cayman Islands exempted company, pursuant to the Merger Agreement, dated as of September 26, 2026, by and among Proem, PAAC Merger Sub I, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2087446/000121390026121046/0001213900-26-121046-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2087446/000121390026121046/ea0312549-425_proem1.htm",
+   "filed_at": "2026-11-17T06:02:28-05:00",
+   "filed_kst": "2026-11-17 20:02",
+   "price": 10.03,
+   "change": -0.2,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 10.03,
+     "change": -0.2
+    },
+    {
+     "date": "2026-11-13",
+     "close": 10.05,
+     "change": -0.4
+    },
+    {
+     "date": "2026-11-12",
+     "close": 10.09,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 177765030.0,
+   "shares_outstanding": 17723333.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T20:07:04+09:00"
+  },
+  {
+   "id": "0000950103-26-017589",
+   "company": "Tencent Music Entertainment Group",
+   "ticker": "TME",
+   "cik": 1744676,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "Share Repurchase Program Under our previously announced share repurchase program, during the three months ended September 30, 2026, we repurchased a total of 34.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1744676/000095010326017589/0000950103-26-017589-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1744676/000095010326017589/dp256931_ex9901.htm",
+   "filed_at": "2026-11-17T06:02:39-05:00",
+   "filed_kst": "2026-11-17 20:02",
+   "price": 8.88,
+   "change": -1.88,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 8.88,
+     "change": -1.88
+    },
+    {
+     "date": "2026-11-13",
+     "close": 9.05,
+     "change": 0.33
+    },
+    {
+     "date": "2026-11-12",
+     "close": 9.02,
+     "change": -2.17
+    }
+   ],
+   "market_cap": 27952543920.0,
+   "shares_outstanding": 3147809000.0,
+   "industry": "Radio Broadcasting Stations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NANSHAN DISTRICT, SHENZHEN, F4",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T20:07:01+09:00"
+  },
+  {
+   "id": "0001104659-26-128747",
+   "company": "Duke Energy CORP",
+   "ticker": "DUK",
+   "cik": 1326160,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "· DEC expects to record a one-time pre-tax accounting charge of $10 million as a result of the Order.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926128747/0001104659-26-128747-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926128747/tm2629986d1_ex99-1.htm",
+   "filed_at": "2026-11-17T06:01:33-05:00",
+   "filed_kst": "2026-11-17 20:01",
+   "price": 130.59,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 130.59,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 130.59,
+     "change": 1.11
+    },
+    {
+     "date": "2026-11-13",
+     "close": 129.16,
+     "change": 0.44
+    }
+   ],
+   "market_cap": 101807469978.0,
+   "shares_outstanding": 779596217.0,
+   "industry": "Electric & Other Services Combined",
+   "state_of_incorporation": "DE",
+   "hq": "CHARLOTTE, NC",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T20:06:55+09:00"
+  },
+  {
+   "id": "0001213900-26-120978",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 80,
+   "summary": "In June 2026, the company announced that it had entered into a definitive business combination agreement (the “Business Combination Agreement”) with Inflection Point Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120978/0001213900-26-120978-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120978/ea0311880-425_inflection7.htm",
+   "filed_at": "2026-11-16T20:32:21-05:00",
+   "filed_kst": "2026-11-17 10:32",
+   "price": 10.21,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 10.21,
+     "change": -0.05
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.21,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-13",
+     "close": 10.22,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T20:05:58+09:00"
+  },
+  {
+   "id": "0001213900-26-120998",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "In June 2026, the company announced that it had entered into a definitive business combination agreement (the “Business Combination Agreement”) with Inflection Point Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120998/0001213900-26-120998-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120998/ea031254301ex99-1.htm",
+   "filed_at": "2026-11-16T21:01:34-05:00",
+   "filed_kst": "2026-11-17 11:01",
+   "price": 10.21,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 10.21,
+     "change": -0.05
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.21,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-13",
+     "close": 10.22,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T20:05:57+09:00"
+  },
+  {
+   "id": "0001213900-26-120975",
+   "company": "PicS N.V.",
+   "ticker": "PICS",
+   "cik": 1841644,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "In August, we completed the acquisition of Kev and began consolidating its results from that month onward.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841644/000121390026120975/0001213900-26-120975-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1841644/000121390026120975/ea031208601ex99-3.htm",
+   "filed_at": "2026-11-16T20:30:52-05:00",
+   "filed_kst": "2026-11-17 10:30",
+   "price": 6.84,
+   "change": -7.82,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 6.84,
+     "change": -7.82
+    },
+    {
+     "date": "2026-11-13",
+     "close": 7.42,
+     "change": 6.61
+    },
+    {
+     "date": "2026-11-12",
+     "close": 6.96,
+     "change": -3.06
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Personal Credit Institutions",
+   "state_of_incorporation": "Netherlands",
+   "hq": "AMSTELVEEN",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-17T20:05:54+09:00"
+  },
+  {
+   "id": "0001213900-26-120995",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "In June 2026, the company announced that it had entered into a definitive business combination agreement (the “Business Combination Agreement”) with Inflection Point Acquisition Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120995/0001213900-26-120995-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120995/ea031254301ex99-1.htm",
+   "filed_at": "2026-11-16T21:00:05-05:00",
+   "filed_kst": "2026-11-17 11:00",
+   "price": 10.21,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 10.21,
+     "change": -0.05
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.21,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-13",
+     "close": 10.22,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T20:05:49+09:00"
+  },
+  {
+   "id": "0001104659-26-128720",
+   "company": "UNITED STATES ANTIMONY CORP",
+   "ticker": "UAMY",
+   "cik": 101538,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 80,
+   "summary": "Separately, in August, our Board authorized a share repurchase program of up to $100 million, which Shawn previously outlined in his remarks.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101538/000110465926128720/0001104659-26-128720-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/101538/000110465926128720/tm2629969d1_ex99-1.htm",
+   "filed_at": "2026-11-16T21:31:12-05:00",
+   "filed_kst": "2026-11-17 11:31",
+   "price": 2.67,
+   "change": -13.59,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 2.67,
+     "change": -13.59
+    },
+    {
+     "date": "2026-11-13",
+     "close": 3.09,
+     "change": 6.19
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.91,
+     "change": -6.73
+    }
+   ],
+   "market_cap": 398709589.0,
+   "shares_outstanding": 149329434.0,
+   "industry": "Primary Smelting & Refining of  Nonferrous Metals",
+   "state_of_incorporation": "MT",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T20:05:45+09:00"
+  },
   {
    "id": "0001062993-26-006123",
    "company": "Largo Inc.",
@@ -15266,486 +15746,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-13T06:06:15+09:00"
-  },
-  {
-   "id": "0001193125-26-458301",
-   "company": "SANFILIPPO JOHN B & SON INC",
-   "ticker": "JBSS",
-   "cik": 880117,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 71,
-   "summary": "Announces Share Repurchase Program and Special Dividend Elgin, IL, November 12, 2026 -- John B.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/880117/000119312526458301/0001193125-26-458301-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/880117/000119312526458301/jbss-ex99_1.htm",
-   "filed_at": "2026-11-12T16:04:36-05:00",
-   "filed_kst": "2026-11-13 06:04",
-   "price": 56.22,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 56.22,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 56.22,
-     "change": -1.02
-    },
-    {
-     "date": "2026-11-11",
-     "close": 56.8,
-     "change": 1.23
-    }
-   ],
-   "market_cap": 456572740.0,
-   "shares_outstanding": 8121180.0,
-   "industry": "Sugar & Confectionery Products",
-   "state_of_incorporation": "DE",
-   "hq": "ELGIN, IL",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T06:05:37+09:00"
-  },
-  {
-   "id": "0001628280-26-073366",
-   "company": "Cerebras Systems Inc.",
-   "ticker": "CBRS",
-   "cik": 2021728,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "가이던스상향",
-   "primary_key": "guidance",
-   "emoji": "⬆️",
-   "types": [
-    "가이던스상향"
-   ],
-   "confidence": 58,
-   "summary": "1 Document Cerebras Systems Delivers Record Revenue in Third Quarter 2026, Raises Full-Year Outlook Surging demand for high-speed inference fuels growth from new and existing customers • Record GAAP revenue of $210.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/0001628280-26-073366-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/cbrsannouncesfinancialresu.htm",
-   "filed_at": "2026-11-12T16:03:59-05:00",
-   "filed_kst": "2026-11-13 06:03",
-   "price": 97.75,
-   "change": -3.29,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 97.75,
-     "change": -3.29
-    },
-    {
-     "date": "2026-11-11",
-     "close": 101.08,
-     "change": 7.92
-    },
-    {
-     "date": "2026-11-10",
-     "close": 93.66,
-     "change": -3.14
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "DE",
-   "hq": "SUNNYVALE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:04:58+09:00"
-  },
-  {
-   "id": "0001750704-26-000032",
-   "company": "HawkEye 360, Inc.",
-   "ticker": "HAWK",
-   "cik": 1750704,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 64,
-   "summary": "Third Quarter 2026 and Recent Business Highlights: • Signed $54 million in new multi-year contract awards with 11 allied partners and nations, reflecting the growing demand for HawkEye 360’s signals intelligence data and analytics.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1750704/000175070426000032/0001750704-26-000032-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1750704/000175070426000032/exhibit991-earningsrelease.htm",
-   "filed_at": "2026-11-12T16:04:16-05:00",
-   "filed_kst": "2026-11-13 06:04",
-   "price": 14.67,
-   "change": -3.87,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 14.67,
-     "change": -3.87
-    },
-    {
-     "date": "2026-11-11",
-     "close": 15.26,
-     "change": 1.94
-    },
-    {
-     "date": "2026-11-10",
-     "close": 14.97,
-     "change": -0.6
-    }
-   ],
-   "market_cap": 1437154648.0,
-   "shares_outstanding": 97965552.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "DE",
-   "hq": "HERNDON, VA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:04:57+09:00"
-  },
-  {
-   "id": "0001140361-26-043424",
-   "company": "Nuwellis, Inc.",
-   "ticker": "NUWE",
-   "cik": 1506492,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "2 million in the third quarter of 2026, essentially unchanged versus the prior-year quarter, as the prior-year period benefited from fulfilling $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1506492/000114036126043424/0001140361-26-043424-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506492/000114036126043424/ef20085247_ex99-1.htm",
-   "filed_at": "2026-11-12T16:03:03-05:00",
-   "filed_kst": "2026-11-13 06:03",
-   "price": 5.03,
-   "change": -9.04,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 5.03,
-     "change": -9.04
-    },
-    {
-     "date": "2026-11-11",
-     "close": 5.53,
-     "change": 5.53
-    },
-    {
-     "date": "2026-11-10",
-     "close": 5.24,
-     "change": 6.07
-    }
-   ],
-   "market_cap": 18345738.0,
-   "shares_outstanding": 3647264.0,
-   "industry": "Electromedical & Electrotherapeutic Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "EDEN PRAIRIE, MN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:04:21+09:00"
-  },
-  {
-   "id": "0000879407-26-000077",
-   "company": "ARROWHEAD PHARMACEUTICALS, INC.",
-   "ticker": "ARWR",
-   "cik": 879407,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA",
-    "대형계약",
-    "가이던스상향"
-   ],
-   "confidence": 97,
-   "summary": "◦ Once accepted into the STAR program, a supplemental application qualifies for a 6-month Priority Review compared to a 10-month standard review.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000077/0000879407-26-000077-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000077/arwr-202611128kex991.htm",
-   "filed_at": "2026-11-12T16:01:16-05:00",
-   "filed_kst": "2026-11-13 06:01",
-   "price": 47.15,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 47.15,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 47.15,
-     "change": -4.48
-    },
-    {
-     "date": "2026-11-11",
-     "close": 49.36,
-     "change": 0.73
-    }
-   ],
-   "market_cap": 6660148119.0,
-   "shares_outstanding": 141254467.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "PASADENA, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T06:02:15+09:00"
-  },
-  {
-   "id": "0001213900-26-118891",
-   "company": "Australian Oilseeds Holdings Ltd",
-   "ticker": "COOT",
-   "cik": 1959994,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "000001 each; and (iii) immediately thereafter, such number of authorised but unissued shares will be cancelled as will result in the Company having authorised share capital of US$6.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1959994/000121390026118891/0001213900-26-118891-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1959994/000121390026118891/ea031182601ex3-1.htm",
-   "filed_at": "2026-11-12T16:00:07-05:00",
-   "filed_kst": "2026-11-13 06:00",
-   "price": 0.29,
-   "change": 0.03,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.29,
-     "change": 0.03
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.29,
-     "change": 1.72
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.28,
-     "change": -0.7
-    }
-   ],
-   "market_cap": 14171895.0,
-   "shares_outstanding": 48868604.0,
-   "industry": "Fats & Oils",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "COOTAMUNDRA, C3",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:00:58+09:00"
-  },
-  {
-   "id": "0001193125-26-458248",
-   "company": "Kodiak Sciences Inc.",
-   "ticker": "KOD",
-   "cik": 1468748,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과",
-    "탑라인결과"
-   ],
-   "confidence": 74,
-   "summary": "” “Looking ahead, we expect to announce the first Phase 3 KSI-101 results in December and, if successful, plan to file a BLA for KSI-101 in the second quarter of 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1468748/000119312526458248/0001193125-26-458248-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468748/000119312526458248/kod-ex99_1.htm",
-   "filed_at": "2026-11-12T16:00:14-05:00",
-   "filed_kst": "2026-11-13 06:00",
-   "price": 108.25,
-   "change": -1.0,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 108.25,
-     "change": -1.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 109.34,
-     "change": 1.18
-    },
-    {
-     "date": "2026-11-10",
-     "close": 108.06,
-     "change": 0.9
-    }
-   ],
-   "market_cap": 6803453720.0,
-   "shares_outstanding": 62849457.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "PALO ALTO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:00:54+09:00"
-  },
-  {
-   "id": "0001654954-26-009725",
-   "company": "HSBC HOLDINGS PLC",
-   "ticker": "HSBC",
-   "cik": 1089113,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009725/0001654954-26-009725-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009725/a0129d.htm",
-   "filed_at": "2026-11-12T13:15:49-05:00",
-   "filed_kst": "2026-11-13 03:15",
-   "price": 89.48,
-   "change": -0.79,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 89.49,
-     "change": -0.79
-    },
-    {
-     "date": "2026-11-11",
-     "close": 90.2,
-     "change": 0.36
-    },
-    {
-     "date": "2026-11-10",
-     "close": 89.88,
-     "change": -0.38
-    }
-   ],
-   "market_cap": 1536840462852.0,
-   "shares_outstanding": 17175239862.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T03:16:38+09:00"
-  },
-  {
-   "id": "0001213900-26-118773",
-   "company": "OS Therapies Inc",
-   "ticker": "OSTX",
-   "cik": 1795091,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Food and Drug Administration (the “FDA”) announced the suspension of its Commissioner’s National Priority Voucher (“CNPV”) program, under which priority review vouchers are non-transferable.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026118773/0001213900-26-118773-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026118773/ea0312085-8k_ostherapies.htm",
-   "filed_at": "2026-11-12T13:14:24-05:00",
-   "filed_kst": "2026-11-13 03:14",
-   "price": 0.79,
-   "change": -9.86,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.79,
-     "change": -9.86
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.87,
-     "change": -2.02
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.89,
-     "change": -3.26
-    }
-   ],
-   "market_cap": 36439402.0,
-   "shares_outstanding": 46125825.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "ROCKVILLE, MD",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T03:15:34+09:00"
   }
  ]
 }
