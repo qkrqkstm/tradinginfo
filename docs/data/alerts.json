@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-17T21:59:47+09:00",
+ "updated_at": "2026-11-17T22:04:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-074363",
+   "company": "Nutex Health Inc.",
+   "ticker": "NUTX",
+   "cik": 1479681,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "배당",
+   "primary_key": "dividend",
+   "emoji": "💵",
+   "types": [
+    "배당"
+   ],
+   "confidence": 57,
+   "summary": "(the \"Company\"), acting by the unanimous vote of its four independent directors, with the Company's three non-independent directors recused, declared a special cash dividend of $2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1479681/000162828026074363/0001628280-26-074363-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1479681/000162828026074363/nutx-20261116.htm",
+   "filed_at": "2026-11-17T08:00:25-05:00",
+   "filed_kst": "2026-11-17 22:00",
+   "price": 169.7,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 169.7,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 169.7,
+     "change": -2.29
+    },
+    {
+     "date": "2026-11-13",
+     "close": 173.67,
+     "change": 1.32
+    }
+   ],
+   "market_cap": 1164276742.0,
+   "shares_outstanding": 6860794.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-17T22:02:01+09:00"
+  },
+  {
+   "id": "0001104659-26-128842",
+   "company": "Adagene Inc.",
+   "ticker": "ADAG",
+   "cik": 1818838,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "The FDA has granted Fast Track designation to muzastotug in combination with pembrolizumab for adult patients with MSS metastatic CRC without current or active liver metastases.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1818838/000110465926128842/0001104659-26-128842-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1818838/000110465926128842/tm2629877d1_ex99-1.htm",
+   "filed_at": "2026-11-17T08:00:17-05:00",
+   "filed_kst": "2026-11-17 22:00",
+   "price": 1.6,
+   "change": -6.43,
+   "price_history": [
+    {
+     "date": "2026-11-16",
+     "close": 1.6,
+     "change": -6.43
+    },
+    {
+     "date": "2026-11-13",
+     "close": 1.71,
+     "change": -14.5
+    },
+    {
+     "date": "2026-11-12",
+     "close": 2.0,
+     "change": -6.1
+    }
+   ],
+   "market_cap": 94771189.0,
+   "shares_outstanding": 59231993.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "JIANGSU, F4",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-17T22:01:12+09:00"
+  },
   {
    "id": "0001628280-26-074359",
    "company": "GRIFFON CORP",
@@ -15636,114 +15741,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T06:09:09+09:00"
-  },
-  {
-   "id": "0001104659-26-126228",
-   "company": "Knightscope, Inc.",
-   "ticker": "KSCP",
-   "cik": 1600983,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "Our priorities are clear: convert the approximately $27 million in renewals, bookings, and client awards secured since May 2026 into revenue, expand with the clients we already serve, and drive margins higher.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1600983/000110465926126228/0001104659-26-126228-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1600983/000110465926126228/kscp-ex99d1.htm",
-   "filed_at": "2026-11-12T16:06:58-05:00",
-   "filed_kst": "2026-11-13 06:06",
-   "price": 0.44,
-   "change": 11.22,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.44,
-     "change": 11.22
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.4,
-     "change": 2.56
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.39,
-     "change": -7.14
-    }
-   ],
-   "market_cap": 33166095.0,
-   "shares_outstanding": 75377489.0,
-   "industry": "Communications Equipment, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SUNNYVALE, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:09:05+09:00"
-  },
-  {
-   "id": "0001193125-26-458321",
-   "company": "ADARx Pharmaceuticals, Inc.",
-   "ticker": "ADRX",
-   "cik": 1802369,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "5 million; cash position expected to fund operations into 2030 – – Advanced three Phase 2 clinical trials for agazisiran for the treatment of complement-mediated diseases – – Received Fast Track designation for onvuzosiran for HAE – SAN DIEGO, Calif.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526458321/0001193125-26-458321-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526458321/adrx-ex99_1.htm",
-   "filed_at": "2026-11-12T16:05:48-05:00",
-   "filed_kst": "2026-11-13 06:05",
-   "price": 14.91,
-   "change": 12.11,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 14.91,
-     "change": 12.11
-    },
-    {
-     "date": "2026-11-11",
-     "close": 13.3,
-     "change": -1.99
-    },
-    {
-     "date": "2026-11-10",
-     "close": 13.57,
-     "change": -1.67
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T06:08:26+09:00"
   }
  ]
 }
