@@ -1,7 +1,99 @@
 {
- "updated_at": "2026-11-17T23:44:45+09:00",
+ "updated_at": "2026-11-17T23:49:47+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-128871",
+   "company": "PROCACCIANTI HOTEL REIT, INC.",
+   "ticker": "PRXA",
+   "cik": 1692345,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Prorated Share Repurchases for 2026 Third Quarter Repurchase Date Pursuant to its Amended and Restated Share Repurchase Program (the “SRP”), Procaccianti Hotel REIT, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692345/000110465926128871/0001104659-26-128871-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1692345/000110465926128871/tm2629940d1_8k.htm",
+   "filed_at": "2026-11-17T09:44:19-05:00",
+   "filed_kst": "2026-11-17 23:44",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "CRANSTON, RI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-17T23:46:01+09:00"
+  },
+  {
+   "id": "0001140361-26-044356",
+   "company": "Viatris Inc",
+   "ticker": "VTRS",
+   "cik": 1792044,
+   "form": "8-K",
+   "items": [
+    "2.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "M&A"
+   ],
+   "confidence": 81,
+   "summary": "EX-99.1 2 ef20085674_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Viatris Completes Acquisition of Pacira BioSciences PITTSBURGH – Nov. 17, 2026 – Viatris Inc. (“Viatris”) (Nasdaq: VTRS), a global healthcare company, today announced that it has completed its acquisition of Pacira BioSciences, Inc. (“Pacira”",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/0001140361-26-044356-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/ef20085674_ex99-1.htm",
+   "filed_at": "2026-11-17T09:44:56-05:00",
+   "filed_kst": "2026-11-17 23:44",
+   "price": 20.62,
+   "change": -0.58,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 20.62,
+     "change": -0.58
+    },
+    {
+     "date": "2026-11-16",
+     "close": 20.74,
+     "change": -0.38
+    },
+    {
+     "date": "2026-11-13",
+     "close": 20.82,
+     "change": 0.73
+    }
+   ],
+   "market_cap": 23639896512.0,
+   "shares_outstanding": 1146454729.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CANONSBURG, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-17T23:45:59+09:00"
+  },
   {
    "id": "0001493152-26-052740",
    "company": "Algorhythm Holdings, Inc.",
@@ -15615,114 +15707,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T06:13:34+09:00"
-  },
-  {
-   "id": "0001193125-26-458402",
-   "company": "Fulcrum Therapeutics, Inc.",
-   "ticker": "FULC",
-   "cik": 1680581,
-   "form": "425",
-   "items": [
-    "8.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "배당"
-   ],
-   "confidence": 67,
-   "summary": "The closing of the early-stage HbF assets sale is contingent upon consummation of the proposed merger pursuant to that certain Merger Agreement dated August 16, 2026, by and among Fulcrum, Fusion Merger Sub I, Fusion Merger Sub II and Slate, or the Merger Agreement (or in the event the Merger Agreem",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1680581/000119312526458402/0001193125-26-458402-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1680581/000119312526458402/d137296d425.htm",
-   "filed_at": "2026-11-12T16:11:30-05:00",
-   "filed_kst": "2026-11-13 06:11",
-   "price": 3.68,
-   "change": -1.6,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 3.68,
-     "change": -1.6
-    },
-    {
-     "date": "2026-11-11",
-     "close": 3.74,
-     "change": 0.54
-    },
-    {
-     "date": "2026-11-10",
-     "close": 3.72,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 280773906.0,
-   "shares_outstanding": 76297257.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:13:00+09:00"
-  },
-  {
-   "id": "0001437749-26-036574",
-   "company": "BioCardia, Inc.",
-   "ticker": "BCDA",
-   "cik": 925741,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "“In addition, in the coming months, we aim to be able to submit our Helix transendocardial delivery platform for FDA approval, which would be the first delivery system of its type approved in the United States.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926036574/0001437749-26-036574-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/925741/000143774926036574/ex_1044180.htm",
-   "filed_at": "2026-11-12T16:11:45-05:00",
-   "filed_kst": "2026-11-13 06:11",
-   "price": 0.82,
-   "change": -11.18,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 0.82,
-     "change": -11.18
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.92,
-     "change": -1.08
-    },
-    {
-     "date": "2026-11-10",
-     "close": 0.93,
-     "change": 3.33
-    }
-   ],
-   "market_cap": 12413801.0,
-   "shares_outstanding": 15138782.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SUNNYVALE, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T06:12:57+09:00"
   }
  ]
 }
