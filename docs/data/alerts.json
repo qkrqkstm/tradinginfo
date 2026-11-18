@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-19T06:55:00+09:00",
+ "updated_at": "2026-11-19T06:59:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053092",
+   "company": "Einride AB",
+   "ticker": "ENRD",
+   "cik": 2095096,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "● Advanced autonomous freight commercialization through a strategic collaboration with NVIDIA and launched what the Company believes is the first cab-less SAE Level 4 truck in daily operations on a public road in Germany with Lidl.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2095096/000149315226053092/0001493152-26-053092-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2095096/000149315226053092/ex99-1.htm",
+   "filed_at": "2026-11-18T16:57:15-05:00",
+   "filed_kst": "2026-11-19 06:57",
+   "price": 1.96,
+   "change": -7.11,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 1.96,
+     "change": -7.11
+    },
+    {
+     "date": "2026-11-17",
+     "close": 2.11,
+     "change": 8.21
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1.95,
+     "change": -2.01
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T06:58:47+09:00"
+  },
   {
    "id": "0001193125-26-467226",
    "company": "Voyager Therapeutics, Inc.",
@@ -15565,57 +15615,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-14T07:28:24+09:00"
-  },
-  {
-   "id": "0001193125-26-461047",
-   "company": "BCP Investment Corp",
-   "ticker": "BCIC",
-   "cik": 1372807,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 69,
-   "summary": "1 BCP Investment Corporation Announces Third Quarter 2026 Financial Results Subsequent to Quarter End, Entered into a Merger Agreement to Acquire Investcorp Credit Management BDC, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312526461047/0001193125-26-461047-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312526461047/d520705dex991.htm",
-   "filed_at": "2026-11-13T17:26:31-05:00",
-   "filed_kst": "2026-11-14 07:26",
-   "price": 5.13,
-   "change": -7.57,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 5.13,
-     "change": -7.57
-    },
-    {
-     "date": "2026-11-12",
-     "close": 5.55,
-     "change": -15.53
-    },
-    {
-     "date": "2026-11-11",
-     "close": 6.57,
-     "change": -4.64
-    }
-   ],
-   "market_cap": 63559684.0,
-   "shares_outstanding": 12389802.0,
-   "industry": null,
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-14T07:27:13+09:00"
   }
  ]
 }
