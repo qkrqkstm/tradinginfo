@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-19T04:39:22+09:00",
+ "updated_at": "2026-11-19T04:44:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053052",
+   "company": "FingerMotion, Inc.",
+   "ticker": "FNGR",
+   "cik": 1602409,
+   "form": "425",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "If definitive agreements are reached, the arrangement is expected to generate more than $100 million in contracted revenue over an initial five-year term.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226053052/0001493152-26-053052-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226053052/ex99-1.htm",
+   "filed_at": "2026-11-18T14:40:10-05:00",
+   "filed_kst": "2026-11-19 04:40",
+   "price": 0.04,
+   "change": 0.8,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 0.04,
+     "change": 0.8
+    },
+    {
+     "date": "2026-11-18",
+     "close": 0.04,
+     "change": -36.1
+    },
+    {
+     "date": "2026-11-17",
+     "close": 0.06,
+     "change": -6.35
+    }
+   ],
+   "market_cap": 3674852.0,
+   "shares_outstanding": 91871297.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "WEST PALM BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-19T04:42:27+09:00"
+  },
   {
    "id": "0001654954-26-009969",
    "company": "HSBC HOLDINGS PLC",
@@ -15564,60 +15615,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T06:17:01+09:00"
-  },
-  {
-   "id": "0002105965-26-000046",
-   "company": "West Coast Community Bancorp",
-   "ticker": "WCCB",
-   "cik": 2105965,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "01 Other Events On November 13, 2026, the Board of Directors of West Coast Community Bancorp (the “Company”), the parent company of West Coast Community Bank, authorized a new share repurchase program to repurchase up to $25 million of the Company’s common stock in the open market or through private",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2105965/000210596526000046/0002105965-26-000046-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2105965/000210596526000046/wccb-20261113.htm",
-   "filed_at": "2026-11-13T16:13:06-05:00",
-   "filed_kst": "2026-11-14 06:13",
-   "price": 63.5,
-   "change": 0.22,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 63.5,
-     "change": 0.22
-    },
-    {
-     "date": "2026-11-12",
-     "close": 63.36,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 63.36,
-     "change": -0.08
-    }
-   ],
-   "market_cap": 668556956.0,
-   "shares_outstanding": 10528456.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "CA",
-   "hq": "SANTA CRUZ, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-14T06:13:42+09:00"
   }
  ]
 }
