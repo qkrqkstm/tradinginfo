@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-19T04:49:23+09:00",
+ "updated_at": "2026-11-19T04:54:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001471055-26-000003",
+   "company": "Banco Santander (Brasil) S.A.",
+   "ticker": "BSBR",
+   "cik": 1471055,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Investments in associates and joint ventures 25 6.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1471055/000147105526000003/0001471055-26-000003-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1471055/000147105526000003/6k_3t26_v5.htm",
+   "filed_at": "2026-11-18T14:53:39-05:00",
+   "filed_kst": "2026-11-19 04:53",
+   "price": 4.82,
+   "change": -2.13,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 4.82,
+     "change": -2.13
+    },
+    {
+     "date": "2026-11-17",
+     "close": 4.92,
+     "change": -1.01
+    },
+    {
+     "date": "2026-11-16",
+     "close": 4.97,
+     "change": -1.58
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Brazil",
+   "hq": "SAO PAULO, SP, D5",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T04:54:27+09:00"
+  },
   {
    "id": "0001493152-26-053052",
    "company": "FingerMotion, Inc.",
@@ -15563,58 +15613,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T06:17:02+09:00"
-  },
-  {
-   "id": "0001193125-26-460685",
-   "company": "AEVEX Corp.",
-   "ticker": "AVEX",
-   "cik": 2096300,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "가이던스상향"
-   ],
-   "confidence": 68,
-   "summary": "8 million in Q3 2025 • Completed the acquisition of BlackSea Technologies on September 8, 2026, establishing Maritime Systems as AEVEX’s third reportable segment Raised Outlook for Full Year 2026 • Total revenue of $820.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2096300/000119312526460685/0001193125-26-460685-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2096300/000119312526460685/d733112dex991.htm",
-   "filed_at": "2026-11-13T16:15:19-05:00",
-   "filed_kst": "2026-11-14 06:15",
-   "price": 12.51,
-   "change": -9.08,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 12.51,
-     "change": -9.08
-    },
-    {
-     "date": "2026-11-12",
-     "close": 13.76,
-     "change": 13.44
-    },
-    {
-     "date": "2026-11-11",
-     "close": 12.13,
-     "change": 4.57
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Aircraft",
-   "state_of_incorporation": "DE",
-   "hq": "SOLANA BEACH, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-14T06:17:01+09:00"
   }
  ]
 }
