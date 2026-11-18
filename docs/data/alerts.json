@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-19T03:24:15+09:00",
+ "updated_at": "2026-11-19T03:29:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-009969",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009969/0001654954-26-009969-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009969/a7649d.htm",
+   "filed_at": "2026-11-18T13:26:46-05:00",
+   "filed_kst": "2026-11-19 03:26",
+   "price": 85.11,
+   "change": -2.49,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 85.11,
+     "change": -2.49
+    },
+    {
+     "date": "2026-11-17",
+     "close": 87.28,
+     "change": -0.99
+    },
+    {
+     "date": "2026-11-16",
+     "close": 88.15,
+     "change": -1.64
+    }
+   ],
+   "market_cap": 1461784664655.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T03:27:49+09:00"
+  },
   {
    "id": "0000909037-26-000042",
    "company": "CHEMICAL & MINING CO OF CHILE INC",
@@ -15568,61 +15618,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T06:13:42+09:00"
-  },
-  {
-   "id": "0001493152-26-051725",
-   "company": "FF EAI Robotics Ecosystem Inc.",
-   "ticker": "FFR",
-   "cik": 1460702,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "“Built in USA” and Recent Strategic Partnerships The Company has completed Phase One of its “Built in USA” Acceleration Program and is advancing Phase Two as it continues to build its U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226051725/0001493152-26-051725-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226051725/ex99-1.htm",
-   "filed_at": "2026-11-13T16:10:37-05:00",
-   "filed_kst": "2026-11-14 06:10",
-   "price": 0.76,
-   "change": -2.83,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 0.76,
-     "change": -2.83
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.78,
-     "change": -6.9
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.84,
-     "change": -5.72
-    }
-   ],
-   "market_cap": 15378595.0,
-   "shares_outstanding": 20234993.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "EL SEGUNDO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-14T06:11:56+09:00"
   }
  ]
 }
