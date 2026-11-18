@@ -1,7 +1,161 @@
 {
- "updated_at": "2026-11-19T06:14:41+09:00",
+ "updated_at": "2026-11-19T06:19:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-467135",
+   "company": "Kensington Capital Acquisition Corp. VI",
+   "ticker": "KCA-UN",
+   "cik": 2102713,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "“Their expertise will be invaluable as we execute our strategic partnerships, scale operations and advance our mission to onshore the critical mineral supply chains that power the global economy and safeguard national security.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2102713/000119312526467135/0001193125-26-467135-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2102713/000119312526467135/d167406d425.htm",
+   "filed_at": "2026-11-18T16:17:28-05:00",
+   "filed_kst": "2026-11-19 06:17",
+   "price": 10.2,
+   "change": 0.25,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 10.19,
+     "change": 0.25
+    },
+    {
+     "date": "2026-11-17",
+     "close": 10.17,
+     "change": -0.29
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.2,
+     "change": 0.2
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Industrial Inorganic Chemicals",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "WESTBURY, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T06:19:12+09:00"
+  },
+  {
+   "id": "0001104659-26-129714",
+   "company": "Nyxoah SA",
+   "ticker": "NYXH",
+   "cik": 1857190,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "Following the positive outcomes of the BETTER SLEEP study, Nyxoah received CE mark approval for the expansion of its therapeutic indications to Complete Concentric Collapse (CCC) patients, currently contraindicated in competitors’ therapy.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926129714/0001104659-26-129714-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1857190/000110465926129714/tm2630094d1_ex99-1.htm",
+   "filed_at": "2026-11-18T16:15:28-05:00",
+   "filed_kst": "2026-11-19 06:15",
+   "price": 0.86,
+   "change": -4.11,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 0.86,
+     "change": -4.11
+    },
+    {
+     "date": "2026-11-17",
+     "close": 0.9,
+     "change": 0.67
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.89,
+     "change": -0.67
+    }
+   ],
+   "market_cap": 37002756.0,
+   "shares_outstanding": 43026460.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Belgium",
+   "hq": "MONT-SAINT-GUIBERT",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T06:17:35+09:00"
+  },
+  {
+   "id": "0001345126-26-000074",
+   "company": "Compass Diversified Holdings",
+   "ticker": "CODI",
+   "cik": 1345126,
+   "form": "8-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "EX-4.1 2 exhibit41-thirdsupplementa.htm EX-4.1 Document Exhibit 4.1 THIRD SUPPLEMENTAL INDENTURE Between COMPASS GROUP DIVERSIFIED HOLDINGS LLC, and U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION (as successor to U.S. Bank National Association), as Trustee Relating to: 5.250% Senior Notes due 2029 Da",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1345126/000134512626000074/0001345126-26-000074-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1345126/000134512626000074/exhibit41-thirdsupplementa.htm",
+   "filed_at": "2026-11-18T16:15:44-05:00",
+   "filed_kst": "2026-11-19 06:15",
+   "price": 12.62,
+   "change": 5.96,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 12.62,
+     "change": 5.96
+    },
+    {
+     "date": "2026-11-17",
+     "close": 11.91,
+     "change": 3.03
+    },
+    {
+     "date": "2026-11-16",
+     "close": 11.56,
+     "change": -0.69
+    }
+   ],
+   "market_cap": 949477891.0,
+   "shares_outstanding": 75235966.0,
+   "industry": "Household Furniture",
+   "state_of_incorporation": "DE",
+   "hq": "WESTPORT, CT",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-19T06:17:29+09:00"
+  },
   {
    "id": "0001193125-26-467096",
    "company": "Utz Brands, Inc.",
@@ -15464,165 +15618,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-14T06:49:05+09:00"
-  },
-  {
-   "id": "0001104659-26-127163",
-   "company": "QUALCOMM INC/DE",
-   "ticker": "QCOM",
-   "cik": 804328,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "EX-1.1 2 tm2629667d1_ex1-1.htm EXHIBIT 1.1 Exhibit 1.1 QUALCOMM INCORPORATED $750,000,000 5.000% NOTES DUE 2028 $750,000,000 5.150% NOTES DUE 2029 $1,000,000,000 5.350% NOTES DUE 2031 $750,000,000 5.600% NOTES DUE 2033 $750,000,000 5.800% NOTES DUE 2036 Underwriting Agreement November 9, 2026 BNP Pa",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/tm2629667d1_ex1-1.htm",
-   "filed_at": "2026-11-13T16:48:24-05:00",
-   "filed_kst": "2026-11-14 06:48",
-   "price": 172.47,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 172.47,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 172.47,
-     "change": -2.64
-    },
-    {
-     "date": "2026-11-12",
-     "close": 177.14,
-     "change": 0.32
-    }
-   ],
-   "market_cap": 184542900000.0,
-   "shares_outstanding": 1070000000.0,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-14T06:49:03+09:00"
-  },
-  {
-   "id": "0001437749-26-036924",
-   "company": "NextPlat Corp",
-   "ticker": "NXPL",
-   "cik": 1058307,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "Through acquisitions, joint ventures and collaborations, the Company seeks to assist businesses in selling their goods online, domestically, and internationally, allowing customers and partners to optimize their e-Commerce presence and revenue.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1058307/000143774926036924/0001437749-26-036924-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1058307/000143774926036924/ex_1010263.htm",
-   "filed_at": "2026-11-13T16:47:36-05:00",
-   "filed_kst": "2026-11-14 06:47",
-   "price": 7.02,
-   "change": 4.93,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 7.02,
-     "change": 4.93
-    },
-    {
-     "date": "2026-11-12",
-     "close": 6.69,
-     "change": -19.3
-    },
-    {
-     "date": "2026-11-11",
-     "close": 8.29,
-     "change": -0.72
-    }
-   ],
-   "market_cap": 19046818.0,
-   "shares_outstanding": 2713222.0,
-   "industry": "Telephone Communications (No Radiotelephone)",
-   "state_of_incorporation": "NV",
-   "hq": "HALLANDALE BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-14T06:48:30+09:00"
-  },
-  {
-   "id": "0002065708-26-000012",
-   "company": "Andersen Group Inc.",
-   "ticker": "ANDG",
-   "cik": 2065708,
-   "form": "8-K",
-   "items": [
-    "3.02"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", and (ii) immediately following such purchase, Noda Servizi agreed to acquire a 33% equity interest in Andersen Legal & Tax Italia S.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2065708/000206570826000012/0002065708-26-000012-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2065708/000206570826000012/andg-20261002.htm",
-   "filed_at": "2026-11-13T16:44:05-05:00",
-   "filed_kst": "2026-11-14 06:44",
-   "price": 60.06,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 60.06,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 60.06,
-     "change": -8.19
-    },
-    {
-     "date": "2026-11-12",
-     "close": 65.42,
-     "change": -0.64
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-14T06:44:41+09:00"
   }
  ]
 }
