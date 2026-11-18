@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-19T01:24:13+09:00",
+ "updated_at": "2026-11-19T01:29:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001174947-26-000995",
+   "company": "ENI SPA",
+   "ticker": "E",
+   "cik": 1002242,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "67 From the start on 8 May 2026 of the buyback program, Eni acquired no.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000995/0001174947-26-000995-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000117494726000995/0001174947-26-000995-index-headers.html",
+   "filed_at": "2026-11-18T11:27:32-05:00",
+   "filed_kst": "2026-11-19 01:27",
+   "price": 54.97,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 54.97,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-18",
+     "close": 54.97,
+     "change": -2.48
+    },
+    {
+     "date": "2026-11-17",
+     "close": 56.37,
+     "change": -0.34
+    }
+   ],
+   "market_cap": 172977678317.0,
+   "shares_outstanding": 3146765114.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Italy",
+   "hq": "ROME ITALY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T01:29:12+09:00"
+  },
   {
    "id": "0001477932-26-007137",
    "company": "Drugs Made In America Acquisition II Corp.",
@@ -15579,56 +15629,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T06:07:32+09:00"
-  },
-  {
-   "id": "0001185185-26-005385",
-   "company": "AGM GROUP HOLDINGS, INC.",
-   "ticker": "AGMH",
-   "cik": 1705402,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "(the “Company”) completed the purchase and subsequent cancellation of 1,200,000 class B ordinary shares of the Company, par value US$0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1705402/000118518526005385/0001185185-26-005385-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1705402/000118518526005385/agmh6k111226.htm",
-   "filed_at": "2026-11-13T16:05:31-05:00",
-   "filed_kst": "2026-11-14 06:05",
-   "price": 0.45,
-   "change": 1.74,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 0.45,
-     "change": 1.74
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.44,
-     "change": -2.23
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.45,
-     "change": 14.87
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Programming Services",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "WANCHAI",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-14T06:06:42+09:00"
   }
  ]
 }
