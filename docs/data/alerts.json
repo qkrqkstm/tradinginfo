@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-19T01:09:26+09:00",
+ "updated_at": "2026-11-19T01:14:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001477932-26-007137",
+   "company": "Drugs Made In America Acquisition II Corp.",
+   "ticker": "DMII",
+   "cik": 2040475,
+   "form": "8-K",
+   "items": [
+    "2.03",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "No Assurance No definitive business combination agreement has been executed.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2040475/000147793226007137/0001477932-26-007137-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2040475/000147793226007137/dmiiu_8k.htm",
+   "filed_at": "2026-11-18T11:08:56-05:00",
+   "filed_kst": "2026-11-19 01:08",
+   "price": 10.24,
+   "change": -0.05,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 10.24,
+     "change": -0.05
+    },
+    {
+     "date": "2026-11-17",
+     "close": 10.24,
+     "change": 0.05
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.24,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 652288000.0,
+   "shares_outstanding": 63700000.0,
+   "industry": "Blank Checks",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T01:10:45+09:00"
+  },
   {
    "id": "0001140361-26-044628",
    "company": "SOUNDTHINKING, INC.",
@@ -15573,59 +15629,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-14T06:06:42+09:00"
-  },
-  {
-   "id": "0001193125-26-460588",
-   "company": "TRex Bio, Inc.",
-   "ticker": "TRXB",
-   "cik": 2139097,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "” Recent Business and Corporate Highlights TRB-061: TNFR2 Agonist in Phase 1 Clinical Development for Atopic Dermatitis • Reported positive Phase 1a topline results supporting proof of mechanism: In August 2026, TRexBio announced positive topline results from the Phase 1a portion of its ongoing Phas",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2139097/000119312526460588/0001193125-26-460588-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2139097/000119312526460588/ck0002139097-ex99_1.htm",
-   "filed_at": "2026-11-13T16:04:30-05:00",
-   "filed_kst": "2026-11-14 06:04",
-   "price": 13.67,
-   "change": -3.05,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 13.67,
-     "change": -3.05
-    },
-    {
-     "date": "2026-11-12",
-     "close": 14.1,
-     "change": -1.05
-    },
-    {
-     "date": "2026-11-11",
-     "close": 14.25,
-     "change": 8.53
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-14T06:05:31+09:00"
   }
  ]
 }
