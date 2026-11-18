@@ -1,7 +1,163 @@
 {
- "updated_at": "2026-11-19T06:09:43+09:00",
+ "updated_at": "2026-11-19T06:14:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-467096",
+   "company": "Utz Brands, Inc.",
+   "ticker": "UTZ",
+   "cik": 1739566,
+   "form": "8-K",
+   "items": [
+    "5.07"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "Transaction Proposal As previously announced, on July 20, 2026, the Company entered into an Agreement and Plan of Merger (as may be amended, supplemented, or modified from time to time, the “Merger Agreement”) with Idaho USA, Inc.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1739566/000119312526467096/0001193125-26-467096-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1739566/000119312526467096/d196051d8k.htm",
+   "filed_at": "2026-11-18T16:10:15-05:00",
+   "filed_kst": "2026-11-19 06:10",
+   "price": 14.27,
+   "change": -0.07,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 14.27,
+     "change": -0.07
+    },
+    {
+     "date": "2026-11-17",
+     "close": 14.28,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 14.28,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Miscellaneous Food Preparations & Kindred Products",
+   "state_of_incorporation": "DE",
+   "hq": "HANOVER, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T06:11:51+09:00"
+  },
+  {
+   "id": "0001493152-26-053065",
+   "company": "INNO HOLDINGS INC.",
+   "ticker": "INHD",
+   "cik": 1961847,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "1 AGREEMENT AND PLAN OF MERGER THIS AGREEMENT AND PLAN OF MERGER (hereinafter called this “ Agreement ”), dated as of November 13, 2026 is entered into between Inno Holdings Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1961847/000149315226053065/0001493152-26-053065-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1961847/000149315226053065/ex10-1.htm",
+   "filed_at": "2026-11-18T16:10:36-05:00",
+   "filed_kst": "2026-11-19 06:10",
+   "price": 2.3,
+   "change": -2.13,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 2.3,
+     "change": -2.13
+    },
+    {
+     "date": "2026-11-17",
+     "close": 2.35,
+     "change": -2.08
+    },
+    {
+     "date": "2026-11-16",
+     "close": 2.4,
+     "change": -9.43
+    }
+   ],
+   "market_cap": 5797336.0,
+   "shares_outstanding": 2520581.0,
+   "industry": "Retail-Retail Stores, NEC",
+   "state_of_incorporation": "TX",
+   "hq": "TSIM SHA TSUI",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T06:11:47+09:00"
+  },
+  {
+   "id": "0001178913-26-005279",
+   "company": "IM Cannabis Corp.",
+   "ticker": "IMCC",
+   "cik": 1792030,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Instead, all fractional Common Shares equal to or greater than one-half resulting from the Consolidation will be rounded to the next whole number, otherwise, the fractional Common Share will be cancelled.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792030/000117891326005279/0001178913-26-005279-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792030/000117891326005279/exhibit_99-1.htm",
+   "filed_at": "2026-11-18T16:10:21-05:00",
+   "filed_kst": "2026-11-19 06:10",
+   "price": 0.54,
+   "change": 8.42,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 0.54,
+     "change": 8.42
+    },
+    {
+     "date": "2026-11-17",
+     "close": 0.49,
+     "change": -0.2
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.5,
+     "change": -12.85
+    }
+   ],
+   "market_cap": 3183198.0,
+   "shares_outstanding": 5894812.0,
+   "industry": "Medicinal Chemicals & Botanical Products",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "CENTRAL DISTRICT, L3",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T06:10:49+09:00"
+  },
   {
    "id": "0001709164-26-000189",
    "company": "Hamilton Beach Brands Holding Co",
@@ -15467,167 +15623,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T06:44:41+09:00"
-  },
-  {
-   "id": "0000887343-26-000194",
-   "company": "COLUMBIA BANKING SYSTEM, INC.",
-   "ticker": "COLB",
-   "cik": 887343,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "배당"
-   ],
-   "confidence": 67,
-   "summary": "2 billion share repurchase program, today’s announcement supports our commitment to long-term shareholder value through a disciplined and robust capital return platform.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000194/0000887343-26-000194-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000194/colbex991dividendannouncem.htm",
-   "filed_at": "2026-11-13T16:33:19-05:00",
-   "filed_kst": "2026-11-14 06:33",
-   "price": 30.6,
-   "change": 0.03,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 30.6,
-     "change": 0.03
-    },
-    {
-     "date": "2026-11-12",
-     "close": 30.59,
-     "change": -0.39
-    },
-    {
-     "date": "2026-11-11",
-     "close": 30.71,
-     "change": -0.45
-    }
-   ],
-   "market_cap": 8455313542.0,
-   "shares_outstanding": 276317436.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "WA",
-   "hq": "TACOMA, WA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-14T06:35:51+09:00"
-  },
-  {
-   "id": "0001654954-26-009781",
-   "company": "PEDEVCO CORP",
-   "ticker": "PED",
-   "cik": 1141197,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "7 million net gain on the sale of oil and gas properties, was more than offset by a $16.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426009781/0001654954-26-009781-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1141197/000165495426009781/ped_ex991.htm",
-   "filed_at": "2026-11-13T16:31:11-05:00",
-   "filed_kst": "2026-11-14 06:31",
-   "price": 11.71,
-   "change": -10.27,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 11.71,
-     "change": -10.27
-    },
-    {
-     "date": "2026-11-12",
-     "close": 13.05,
-     "change": -4.19
-    },
-    {
-     "date": "2026-11-11",
-     "close": 13.62,
-     "change": 2.1
-    }
-   ],
-   "market_cap": 155543157.0,
-   "shares_outstanding": 13282934.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "TX",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-14T06:33:47+09:00"
-  },
-  {
-   "id": "0001193125-26-460798",
-   "company": "TKO Group Holdings, Inc.",
-   "ticker": "TKO",
-   "cik": 1973266,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A",
-    "파트너십",
-    "배당"
-   ],
-   "confidence": 91,
-   "summary": "TKO Worldwide intends to use the net proceeds from the offering of the notes for general corporate purposes, which may include making distributions to its parent entities to fund share repurchases under TKO’s previously announced share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526460798/0001193125-26-460798-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526460798/d523722dex41.htm",
-   "filed_at": "2026-11-13T16:31:19-05:00",
-   "filed_kst": "2026-11-14 06:31",
-   "price": 195.42,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 195.42,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 195.42,
-     "change": 0.69
-    },
-    {
-     "date": "2026-11-12",
-     "close": 194.08,
-     "change": -2.72
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Amusement & Recreation Services",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-14T06:33:45+09:00"
   }
  ]
 }
