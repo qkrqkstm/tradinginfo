@@ -1,7 +1,115 @@
 {
- "updated_at": "2026-11-18T21:44:26+09:00",
+ "updated_at": "2026-11-18T21:49:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-129346",
+   "company": "Surgery Partners, Inc.",
+   "ticker": "SGRY",
+   "cik": 1638833,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "The Consent Solicitation is being conducted in connection with the Company’s previously announced entry into an Agreement and Plan of Merger, dated October 23, 2026 (as amended by Amendment No.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926129346/0001104659-26-129346-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926129346/tm2628254d8_ex99-1.htm",
+   "filed_at": "2026-11-18T07:47:20-05:00",
+   "filed_kst": "2026-11-18 21:47",
+   "price": 26.85,
+   "change": 0.22,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 26.85,
+     "change": 0.22
+    },
+    {
+     "date": "2026-11-16",
+     "close": 26.79,
+     "change": -0.59
+    },
+    {
+     "date": "2026-11-13",
+     "close": 26.95,
+     "change": 1.39
+    }
+   ],
+   "market_cap": 3514160838.0,
+   "shares_outstanding": 130881223.0,
+   "industry": "Services-General Medical & Surgical Hospitals, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BRENTWOOD, TN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T21:48:26+09:00"
+  },
+  {
+   "id": "0001104659-26-129345",
+   "company": "TEXTRON INC",
+   "ticker": "TXT",
+   "cik": 217346,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.06",
+    "7.01",
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 57,
+   "summary": "November 18, 2026 Share Repurchase Plan Textron’s Board of Directors has also authorized the repurchase of up to 35 million shares of the company’s common stock which is sufficient for share repurchases related to the Industrial divestiture as well as to continue the company’",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/217346/000110465926129345/0001104659-26-129345-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/217346/000110465926129345/tm2629751d1_ex99-1.htm",
+   "filed_at": "2026-11-18T07:44:40-05:00",
+   "filed_kst": "2026-11-18 21:44",
+   "price": 81.63,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 81.63,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 81.63,
+     "change": -1.29
+    },
+    {
+     "date": "2026-11-16",
+     "close": 82.7,
+     "change": -1.14
+    }
+   ],
+   "market_cap": 13828120286.0,
+   "shares_outstanding": 169399979.0,
+   "industry": "Aircraft & Parts",
+   "state_of_incorporation": "DE",
+   "hq": "PROVIDENCE, RI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T21:45:37+09:00"
+  },
   {
    "id": "0001171843-26-007543",
    "company": "Optimi Health Corp.",
@@ -15516,107 +15624,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T23:18:56+09:00"
-  },
-  {
-   "id": "0000950142-26-003018",
-   "company": "Wise Group plc",
-   "ticker": "WSE",
-   "cik": 2099039,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": "● In July 2026 we commenced a new share repurchase program, expected to be over $500 million, of which c.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000095014226003018/0000950142-26-003018-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000095014226003018/eh260855086_6k.htm",
-   "filed_at": "2026-11-13T09:11:12-05:00",
-   "filed_kst": "2026-11-13 23:11",
-   "price": 10.93,
-   "change": -1.97,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 10.93,
-     "change": -1.97
-    },
-    {
-     "date": "2026-11-11",
-     "close": 11.15,
-     "change": 0.9
-    },
-    {
-     "date": "2026-11-10",
-     "close": 11.05,
-     "change": -2.3
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Jersey",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-13T23:11:56+09:00"
-  },
-  {
-   "id": "0001104659-26-126580",
-   "company": "Graf Global Corp.",
-   "ticker": "TONT",
-   "cik": 1897463,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ": 001-42142 Date: November 12, 2026 On November 12, 2026, Business Wire published the following press release by BIG3 HoldCo LLC, in connection with the previously disclosed Business Combination Agreement, dated as of June 12, 2026, by and among Graf Global Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926126580/0001104659-26-126580-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1897463/000110465926126580/tm2618324d34_425.htm",
-   "filed_at": "2026-11-13T09:10:15-05:00",
-   "filed_kst": "2026-11-13 23:10",
-   "price": 10.96,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 10.97,
-     "change": -0.05
-    },
-    {
-     "date": "2026-11-11",
-     "close": 10.97,
-     "change": -0.09
-    },
-    {
-     "date": "2026-11-10",
-     "close": 10.98,
-     "change": 0.18
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Amusement & Recreation Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "THE WOODLANDS, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T23:11:23+09:00"
   }
  ]
 }
