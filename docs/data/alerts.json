@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-19T05:49:13+09:00",
+ "updated_at": "2026-11-19T05:54:23+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-044721",
+   "company": "Tronox Holdings plc",
+   "ticker": "TROX",
+   "cik": 1530804,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "EX-99.1 2 ef20085949_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Tronox Issues Company Update STAMFORD, Conn., November 18, 2026/PRNewswire/ — Tronox Holdings plc (NYSE:TROX) (“Tronox” or the “Company”), the world’s leading integrated manufacturer of titanium dioxide (\"TiO 2 \") pigment, today issued a Comp",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1530804/000114036126044721/0001140361-26-044721-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1530804/000114036126044721/ef20085949_ex99-1.htm",
+   "filed_at": "2026-11-18T15:49:51-05:00",
+   "filed_kst": "2026-11-19 05:49",
+   "price": 1.48,
+   "change": -22.92,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 1.48,
+     "change": -22.92
+    },
+    {
+     "date": "2026-11-17",
+     "close": 1.92,
+     "change": -20.66
+    },
+    {
+     "date": "2026-11-16",
+     "close": 2.42,
+     "change": -7.63
+    }
+   ],
+   "market_cap": 236362900.0,
+   "shares_outstanding": 159704662.0,
+   "industry": "Industrial Inorganic Chemicals",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "STAMFORD, CT",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T05:50:51+09:00"
+  },
   {
    "id": "0001471055-26-000003",
    "company": "Banco Santander (Brasil) S.A.",
@@ -15561,58 +15614,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T06:25:37+09:00"
-  },
-  {
-   "id": "0001628280-26-073844",
-   "company": "Better Home & Finance Holding Co",
-   "ticker": "BETR",
-   "cik": 1835856,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "The Program is part of the Companies approved $30 million stock buyback program and will begin with an initial aggregate net cash expenditure limit of $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026073844/0001628280-26-073844-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026073844/betr-20261113.htm",
-   "filed_at": "2026-11-13T16:15:10-05:00",
-   "filed_kst": "2026-11-14 06:15",
-   "price": 15.44,
-   "change": -1.53,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 15.44,
-     "change": -1.53
-    },
-    {
-     "date": "2026-11-12",
-     "close": 15.68,
-     "change": 1.85
-    },
-    {
-     "date": "2026-11-11",
-     "close": 15.4,
-     "change": -16.83
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Loan Brokers",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-14T06:17:02+09:00"
   }
  ]
 }
