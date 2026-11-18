@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-18T20:59:18+09:00",
+ "updated_at": "2026-11-18T21:04:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-121590",
+   "company": "Can-Fite BioPharma Ltd.",
+   "ticker": "CANF",
+   "cik": 1536196,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "Namodenoson has been granted Orphan Drug Designation in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026121590/0001213900-26-121590-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026121590/ea031275301ex99-1.htm",
+   "filed_at": "2026-11-18T07:03:29-05:00",
+   "filed_kst": "2026-11-18 21:03",
+   "price": 1.53,
+   "change": -1.92,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 1.53,
+     "change": -1.92
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1.56,
+     "change": 9.86
+    },
+    {
+     "date": "2026-11-13",
+     "close": 1.42,
+     "change": -4.7
+    }
+   ],
+   "market_cap": 4006190.0,
+   "shares_outstanding": 2618425.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "RAMAT GAN, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-18T21:04:06+09:00"
+  },
   {
    "id": "0001193125-26-466163",
    "company": "Melco Resorts & Entertainment LTD",
@@ -15572,61 +15622,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T22:06:08+09:00"
-  },
-  {
-   "id": "0001193125-26-459339",
-   "company": "Benitec Biopharma Inc.",
-   "ticker": "BNTC",
-   "cik": 1808898,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "5.03",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 60,
-   "summary": "BB-301 has received Orphan Drug Designation from the EMA and Orphan Drug and Fast Track Designations from the FDA and is currently being evaluated in a Phase 1b/2a, first-in-human, open-label dose escalation study to evaluate the safety and clinical activity of intramuscular dose",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526459339/0001193125-26-459339-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526459339/bntc-ex99_1.htm",
-   "filed_at": "2026-11-13T08:02:24-05:00",
-   "filed_kst": "2026-11-13 22:02",
-   "price": 9.09,
-   "change": -4.01,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 9.09,
-     "change": -4.01
-    },
-    {
-     "date": "2026-11-11",
-     "close": 9.47,
-     "change": 2.05
-    },
-    {
-     "date": "2026-11-10",
-     "close": 9.28,
-     "change": -5.98
-    }
-   ],
-   "market_cap": 317083979.0,
-   "shares_outstanding": 34882726.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "HAYWARD, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T22:03:16+09:00"
   }
  ]
 }
