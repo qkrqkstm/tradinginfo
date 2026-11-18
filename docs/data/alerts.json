@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-18T17:24:28+09:00",
+ "updated_at": "2026-11-18T17:29:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000077360-94-000038",
+   "company": "PENTAIR plc",
+   "ticker": "PNR",
+   "cik": 77360,
+   "form": "8-K/A",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "5 Subject to the approval of licensor, if required, rights to use industrial property granted under license agreements listed in Exhibit 2.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/77360/0000077360-94-000038-index.html",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/77360/000007736094000038/0000077360-94-000038-index.html",
+   "filed_at": "1994-01-10T00:00:00-05:00",
+   "filed_kst": "1994-01-10 14:00",
+   "price": 66.88,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 66.88,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 66.88,
+     "change": -2.28
+    },
+    {
+     "date": "2026-11-16",
+     "close": 68.44,
+     "change": 0.2
+    }
+   ],
+   "market_cap": 10677705132.0,
+   "shares_outstanding": 159654682.0,
+   "industry": "Special Industry Machinery (No Metalworking Machinery)",
+   "state_of_incorporation": "Ireland",
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T17:28:39+09:00"
+  },
   {
    "id": "0000896058-94-000003",
    "company": "SILGAN HOLDINGS INC",
@@ -15592,57 +15642,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-13T20:03:00+09:00"
-  },
-  {
-   "id": "0001628280-26-073508",
-   "company": "HOST HOTELS & RESORTS, INC.",
-   "ticker": "HST",
-   "cik": 1070750,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 66,
-   "summary": "The Company will not, directly or indirectly, use the proceeds of the sale of the Shares, or lend, contribute or otherwise make available such proceeds to any consolidated subsidiaries, joint venture partners or other Person, to fund any activities of or business with any Person that, at the time of",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1070750/000162828026073508/0001628280-26-073508-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1070750/000162828026073508/exhibit11-form8xknov2026.htm",
-   "filed_at": "2026-11-12T17:27:59-05:00",
-   "filed_kst": "2026-11-13 07:27",
-   "price": 25.52,
-   "change": -1.01,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 25.52,
-     "change": -1.01
-    },
-    {
-     "date": "2026-11-11",
-     "close": 25.78,
-     "change": -0.58
-    },
-    {
-     "date": "2026-11-10",
-     "close": 25.93,
-     "change": 2.57
-    }
-   ],
-   "market_cap": 17485182728.0,
-   "shares_outstanding": 685156063.0,
-   "industry": "Real Estate Investment Trusts",
-   "state_of_incorporation": "MD",
-   "hq": "BETHESDA, MD",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T07:28:48+09:00"
   }
  ]
 }
