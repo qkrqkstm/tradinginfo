@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-18T22:44:38+09:00",
+ "updated_at": "2026-11-18T22:49:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-121630",
+   "company": "IceCure Medical Ltd.",
+   "ticker": "ICCM",
+   "cik": 1584371,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "● International Commercial and Regulatory Progress: Received regulatory approval from China’s National Medical Products Administration to market ProSense ® as a Class III medical device and signed an exclusive distribution agreement for ProSense ® cryoablation systems in the Netherlands.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1584371/000121390026121630/0001213900-26-121630-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1584371/000121390026121630/ea031266801ex99-1.htm",
+   "filed_at": "2026-11-18T08:45:01-05:00",
+   "filed_kst": "2026-11-18 22:45",
+   "price": 0.83,
+   "change": 0.01,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 0.83,
+     "change": 0.01
+    },
+    {
+     "date": "2026-11-17",
+     "close": 0.83,
+     "change": 9.21
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.76,
+     "change": 4.11
+    }
+   ],
+   "market_cap": 60691503.0,
+   "shares_outstanding": 73122293.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Israel",
+   "hq": "CAESAREA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-18T22:45:46+09:00"
+  },
   {
    "id": "0001193125-26-466240",
    "company": "Tempus AI, Inc.",
@@ -15570,56 +15621,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-14T06:01:38+09:00"
-  },
-  {
-   "id": "0001140361-26-043739",
-   "company": "DoorDash, Inc.",
-   "ticker": "DASH",
-   "cik": 1792789,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126043739/0001140361-26-043739-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126043739/ef20085648_425.htm",
-   "filed_at": "2026-11-13T16:00:20-05:00",
-   "filed_kst": "2026-11-14 06:00",
-   "price": 171.51,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 171.51,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 171.51,
-     "change": -0.62
-    },
-    {
-     "date": "2026-11-12",
-     "close": 172.58,
-     "change": -3.19
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "NV",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-14T06:01:36+09:00"
   }
  ]
 }
