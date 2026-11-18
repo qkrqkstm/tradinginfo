@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-19T06:39:52+09:00",
+ "updated_at": "2026-11-19T06:45:01+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001096343-26-000088",
+   "company": "MARKEL GROUP INC.",
+   "ticker": "MKL",
+   "cik": 1096343,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "0 billion share repurchase authorization (the \"Existing Authorization\").",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1096343/000109634326000088/0001096343-26-000088-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1096343/000109634326000088/mkl-20261118.htm",
+   "filed_at": "2026-11-18T16:41:21-05:00",
+   "filed_kst": "2026-11-19 06:41",
+   "price": 1940.17,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 1940.17,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1940.17,
+     "change": -0.89
+    },
+    {
+     "date": "2026-11-17",
+     "close": 1957.5,
+     "change": -1.7
+    }
+   ],
+   "market_cap": 23727047092.0,
+   "shares_outstanding": 12229365.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": "VA",
+   "hq": "GLEN ALLEN, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T06:42:42+09:00"
+  },
   {
    "id": "0001327567-26-000030",
    "company": "Palo Alto Networks Inc",
@@ -15564,60 +15616,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T07:06:41+09:00"
-  },
-  {
-   "id": "0001829126-26-012414",
-   "company": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-   "ticker": "NTHI",
-   "cik": 1979414,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 84,
-   "summary": "Discussion topics will also include the adequacy of the existing nonclinical safety package, the scientific bridge from published perillyl alcohol data to intranasal NEO100, and the eligibility of NEO100 for Breakthrough Therapy designation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012414/0001829126-26-012414-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626012414/neonctechnologies_ex99-2.htm",
-   "filed_at": "2026-11-13T17:00:22-05:00",
-   "filed_kst": "2026-11-14 07:00",
-   "price": 4.91,
-   "change": 1.24,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 4.91,
-     "change": 1.24
-    },
-    {
-     "date": "2026-11-12",
-     "close": 4.85,
-     "change": 7.3
-    },
-    {
-     "date": "2026-11-11",
-     "close": 4.52,
-     "change": 3.43
-    }
-   ],
-   "market_cap": 141656387.0,
-   "shares_outstanding": 28850588.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CALABASAS, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-14T07:01:27+09:00"
   }
  ]
 }
