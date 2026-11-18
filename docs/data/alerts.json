@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-18T18:24:13+09:00",
+ "updated_at": "2026-11-18T18:29:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000025445-94-000002",
+   "company": "Crane NXT, Co.",
+   "ticker": "CXT",
+   "cik": 25445,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "09 lists all material patents, trademarks, service marks, trade names and copyrights and all registrations and applications for registration for any of the foregoing owned or used (pursuant to license agreements or otherwise) in the conduct of the business of the B.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/25445/0000025445-94-000002-index.html",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/25445/000002544594000002/0000025445-94-000002-index.html",
+   "filed_at": "1994-01-12T00:00:00-05:00",
+   "filed_kst": "1994-01-12 14:00",
+   "price": 53.87,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 53.87,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 53.87,
+     "change": -3.49
+    },
+    {
+     "date": "2026-11-16",
+     "close": 55.82,
+     "change": -1.93
+    }
+   ],
+   "market_cap": 3101180187.0,
+   "shares_outstanding": 57567852.0,
+   "industry": "Miscellaneous Fabricated Metal Products",
+   "state_of_incorporation": "DE",
+   "hq": "WALTHAM, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T18:27:04+09:00"
+  },
   {
    "id": "0000077360-94-000038",
    "company": "PENTAIR plc",
@@ -15592,56 +15642,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T20:04:39+09:00"
-  },
-  {
-   "id": "0001292814-26-005289",
-   "company": "ECOPETROL S.A.",
-   "ticker": "EC",
-   "cik": 1444406,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 A NEW ECOPETROL Financial discipline • Energy security • Value creation “ I assume the responsibility of leading Ecopetrol at a pivotal moment for the company. We are embarking on a new phase focused on strengthening business competitiveness, restoring market confidence ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1444406/000129281426005289/0001292814-26-005289-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1444406/000129281426005289/ex99-1.htm",
-   "filed_at": "2026-11-12T18:14:43-05:00",
-   "filed_kst": "2026-11-13 08:14",
-   "price": 15.32,
-   "change": 0.13,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 15.32,
-     "change": 0.13
-    },
-    {
-     "date": "2026-11-11",
-     "close": 15.3,
-     "change": 0.26
-    },
-    {
-     "date": "2026-11-10",
-     "close": 15.26,
-     "change": -2.24
-    }
-   ],
-   "market_cap": 629907762651.0,
-   "shares_outstanding": 41116694690.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "Colombia",
-   "hq": "BOGOTA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T20:03:00+09:00"
   }
  ]
 }
