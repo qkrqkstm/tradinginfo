@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-18T22:04:50+09:00",
+ "updated_at": "2026-11-18T22:09:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002029118-26-000134",
+   "company": "INFINITY NATURAL RESOURCES, INC.",
+   "ticker": "INR",
+   "cik": 2029118,
+   "form": "8-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "M&A"
+   ],
+   "confidence": 77,
+   "summary": "EX-2.1 2 aex21inrxmasterreorganizat.htm EX-2.1 Document Exhibit 2.1 MASTER REORGANIZATION AGREEMENT AMONG INFINITY NATURAL RESOURCES, INC., INR NEWCO, INC., INR NEWCO II, INC., AND INFINITY NATURAL RESOURCES, LLC Dated as of November 18, 2026 TABLE OF CONTENTS Page Article I THE MERGER 3 Section 1.1",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2029118/000202911826000134/0002029118-26-000134-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2029118/000202911826000134/aex21inrxmasterreorganizat.htm",
+   "filed_at": "2026-11-18T08:05:52-05:00",
+   "filed_kst": "2026-11-18 22:05",
+   "price": 12.55,
+   "change": -1.88,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 12.55,
+     "change": -1.88
+    },
+    {
+     "date": "2026-11-16",
+     "close": 12.79,
+     "change": -1.16
+    },
+    {
+     "date": "2026-11-13",
+     "close": 12.94,
+     "change": -1.9
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "MORGANTOWN, WV",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-18T22:07:05+09:00"
+  },
   {
    "id": "0001104659-26-129353",
    "company": "American Drive Acquisition Co",
@@ -15565,57 +15617,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-14T01:57:44+09:00"
-  },
-  {
-   "id": "0001628280-26-073616",
-   "company": "Valneva SE",
-   "ticker": "VALN",
-   "cik": 1836564,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 88,
-   "summary": "Food and Drug Administration (FDA) granted Fast Track designation to S4V2 in 2024 2 , recognizing its potential to address a serious condition and fill an unmet medical need .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1836564/000162828026073616/0001628280-26-073616-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1836564/000162828026073616/a2026_11x10xixchiqx5yxpers.htm",
-   "filed_at": "2026-11-13T10:09:11-05:00",
-   "filed_kst": "2026-11-14 00:09",
-   "price": 5.84,
-   "change": 1.39,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 5.84,
-     "change": 1.39
-    },
-    {
-     "date": "2026-11-12",
-     "close": 5.76,
-     "change": -2.7
-    },
-    {
-     "date": "2026-11-11",
-     "close": 5.92,
-     "change": 0.85
-    }
-   ],
-   "market_cap": 1013472111.0,
-   "shares_outstanding": 173539745.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "France",
-   "hq": "SAINT-HERBLAIN, I0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-14T00:10:38+09:00"
   }
  ]
 }
