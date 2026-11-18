@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-11-18T21:14:52+09:00",
+ "updated_at": "2026-11-18T21:20:08+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000950103-26-017728",
+   "company": "newcleo plc",
+   "ticker": "NWCL",
+   "cik": 2131813,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Through a vertically integrated supply chain and a growing network of strategic partnerships, new cleo is working to turn proven scientific and engineering solutions into deployable nuclear energy assets.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326017728/0000950103-26-017728-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2131813/000095010326017728/dp257033_ex9901.htm",
+   "filed_at": "2026-11-18T07:16:47-05:00",
+   "filed_kst": "2026-11-18 21:16",
+   "price": 4.01,
+   "change": 2.95,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 4.01,
+     "change": 2.95
+    },
+    {
+     "date": "2026-11-16",
+     "close": 3.89,
+     "change": -7.7
+    },
+    {
+     "date": "2026-11-13",
+     "close": 4.22,
+     "change": -6.22
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Fabricated Plate Work (Boiler Shops)",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": null,
+   "detected_at": "2026-11-18T21:17:55+09:00"
+  },
   {
    "id": "0001178913-26-005268",
    "company": "ZIM Integrated Shipping Services Ltd.",
@@ -15570,56 +15618,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-13T22:56:39+09:00"
-  },
-  {
-   "id": "0001104659-26-126552",
-   "company": "Sony Group Corp",
-   "ticker": "SONY",
-   "cik": 313838,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(6) Handling in the event where reorganization or any other similar events occur If a proposal with respect to a merger agreement under which the Corporation will be dissolved, a share exchange agreement or a share transfer plan under which the Corporation will become a wholly-owned subsidiary, or a",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926126552/0001104659-26-126552-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/313838/000110465926126552/tm2629459d2_6k.htm",
-   "filed_at": "2026-11-13T08:44:28-05:00",
-   "filed_kst": "2026-11-13 22:44",
-   "price": 26.66,
-   "change": 0.64,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 26.66,
-     "change": 0.64
-    },
-    {
-     "date": "2026-11-11",
-     "close": 26.49,
-     "change": -0.82
-    },
-    {
-     "date": "2026-11-10",
-     "close": 26.71,
-     "change": -1.29
-    }
-   ],
-   "market_cap": 33344911474.0,
-   "shares_outstanding": 1250746867.0,
-   "industry": "Household Audio & Video Equipment",
-   "state_of_incorporation": "Japan",
-   "hq": "TOKYO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-13T22:45:34+09:00"
   }
  ]
 }
