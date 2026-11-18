@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-18T23:25:00+09:00",
+ "updated_at": "2026-11-18T23:29:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-044628",
+   "company": "SOUNDTHINKING, INC.",
+   "ticker": "SSTI",
+   "cik": 1351636,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 67,
+   "summary": "Capitalized terms used but not defined herein shall have the meaning ascribed to such terms in the Merger Agreement (as defined below).",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1351636/000114036126044628/0001140361-26-044628-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1351636/000114036126044628/ef20085875_ex99-1.htm",
+   "filed_at": "2026-11-18T09:28:20-05:00",
+   "filed_kst": "2026-11-18 23:28",
+   "price": 8.24,
+   "change": -0.36,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 8.24,
+     "change": -0.36
+    },
+    {
+     "date": "2026-11-16",
+     "close": 8.27,
+     "change": 0.12
+    },
+    {
+     "date": "2026-11-13",
+     "close": 8.26,
+     "change": 0.12
+    }
+   ],
+   "market_cap": 109101819.0,
+   "shares_outstanding": 13240512.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "FREMONT, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-18T23:29:11+09:00"
+  },
   {
    "id": "0001104659-26-129392",
    "company": "MODINE MANUFACTURING CO",
@@ -15575,56 +15626,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T06:05:31+09:00"
-  },
-  {
-   "id": "0001193125-26-460589",
-   "company": "WORTHINGTON ENTERPRISES, INC.",
-   "ticker": "WOR",
-   "cik": 108516,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "On a trailing 12-month basis, our wholly owned businesses generated $892 million in sales while the segment generated $240 million of adjusted EBITDA, which includes contributions from our joint ventures.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526460589/0001193125-26-460589-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526460589/wor-ex99_1.htm",
-   "filed_at": "2026-11-13T16:04:33-05:00",
-   "filed_kst": "2026-11-14 06:04",
-   "price": 59.5,
-   "change": 2.23,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 59.5,
-     "change": 2.23
-    },
-    {
-     "date": "2026-11-12",
-     "close": 58.2,
-     "change": 0.21
-    },
-    {
-     "date": "2026-11-11",
-     "close": 58.08,
-     "change": -3.79
-    }
-   ],
-   "market_cap": 2930952745.0,
-   "shares_outstanding": 49259710.0,
-   "industry": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
-   "state_of_incorporation": "OH",
-   "hq": "COLUMBUS, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-14T06:05:29+09:00"
   }
  ]
 }
