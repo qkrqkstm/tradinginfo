@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-18T10:59:27+09:00",
+ "updated_at": "2026-11-18T11:08:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-03-029185",
+   "company": "BEST BUY CO INC",
+   "ticker": "BBY",
+   "cik": 764478,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "21, 2003, the Company announced its intention to buy back shares under its existing share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/764478/000110465903029185/0001104659-03-029185-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/764478/000110465903029185/a03-6485_1ex99d1.htm",
+   "filed_at": "2003-12-23T17:25:43-05:00",
+   "filed_kst": "2003-12-24 07:25",
+   "price": 98.4,
+   "change": -4.79,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 98.4,
+     "change": -4.79
+    },
+    {
+     "date": "2026-11-16",
+     "close": 103.35,
+     "change": -0.69
+    },
+    {
+     "date": "2026-11-13",
+     "close": 104.07,
+     "change": 0.64
+    }
+   ],
+   "market_cap": 20637205483.0,
+   "shares_outstanding": 209727698.0,
+   "industry": "Retail-Radio, Tv & Consumer Electronics Stores",
+   "state_of_incorporation": "MN",
+   "hq": "RICHFIELD, MN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T11:04:42+09:00"
+  },
   {
    "id": "0001140361-26-044548",
    "company": "AES CORP",
@@ -15596,56 +15647,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-13T07:16:05+09:00"
-  },
-  {
-   "id": "0001213900-26-119055",
-   "company": "FG Imperii Acquisition Corp.",
-   "ticker": "FGII",
-   "cik": 2090452,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Under the Agreement and Plan of Merger dated October 31, 2026 with tZERO, the first earn-out milestone is satisfied upon CFTC approval of tZERO’s pending DCM and DCO designations.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026119055/0001213900-26-119055-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2090452/000121390026119055/ea0312108-425_tzero.htm",
-   "filed_at": "2026-11-12T17:12:46-05:00",
-   "filed_kst": "2026-11-13 07:12",
-   "price": 10.1,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-11-12",
-     "close": 10.1,
-     "change": -0.05
-    },
-    {
-     "date": "2026-11-11",
-     "close": 10.1,
-     "change": 0.1
-    },
-    {
-     "date": "2026-11-10",
-     "close": 10.09,
-     "change": 0.1
-    }
-   ],
-   "market_cap": 292294000.0,
-   "shares_outstanding": 28940000.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "ITASCA, IL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-13T07:13:25+09:00"
   }
  ]
 }
