@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-18T22:09:13+09:00",
+ "updated_at": "2026-11-18T22:14:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-129354",
+   "company": "Retension Pharmaceuticals, Inc.",
+   "ticker": "RTSN",
+   "cik": 2002988,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "75 million in gross proceeds ● Topline data for Phase 2b clinical trial expected in first half of 2027 FALLS CHURCH, Va.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2002988/000110465926129354/0001104659-26-129354-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2002988/000110465926129354/rtsn-ex99d1.htm",
+   "filed_at": "2026-11-18T08:10:17-05:00",
+   "filed_kst": "2026-11-18 22:10",
+   "price": 11.41,
+   "change": -0.44,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 11.41,
+     "change": -0.44
+    },
+    {
+     "date": "2026-11-16",
+     "close": 11.46,
+     "change": -6.6
+    },
+    {
+     "date": "2026-11-13",
+     "close": 12.27,
+     "change": 0.16
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "MCLEAN, VA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-18T22:11:24+09:00"
+  },
   {
    "id": "0002029118-26-000134",
    "company": "INFINITY NATURAL RESOURCES, INC.",
@@ -15563,60 +15616,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-14T03:18:32+09:00"
-  },
-  {
-   "id": "0001493152-26-051601",
-   "company": "DYADIC INTERNATIONAL INC",
-   "ticker": "DYAI",
-   "cik": 1213809,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 DYADIC ANNOUNCES THIRD QUARTER 2026 FINANCIAL RESULTS AND RECENT DEVELOPMENTS Advances Commercialization, Expands Strategic Partnerships and Accelerates Biopharmaceutical Platform Validation Dyadic to host earnings call on November 12, 2026, at 5:00 p.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051601/0001493152-26-051601-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051601/ex99-1.htm",
-   "filed_at": "2026-11-13T11:57:16-05:00",
-   "filed_kst": "2026-11-14 01:57",
-   "price": 0.33,
-   "change": -5.26,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 0.33,
-     "change": -5.26
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.35,
-     "change": -10.26
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.39,
-     "change": 5.41
-    }
-   ],
-   "market_cap": 12024772.0,
-   "shares_outstanding": 36438703.0,
-   "industry": "Biological Products, (No Diagnostic Substances)",
-   "state_of_incorporation": "DE",
-   "hq": "JUPITER, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-14T01:57:44+09:00"
   }
  ]
 }
