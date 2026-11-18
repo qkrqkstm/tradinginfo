@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-18T22:59:27+09:00",
+ "updated_at": "2026-11-18T23:04:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-129392",
+   "company": "MODINE MANUFACTURING CO",
+   "ticker": "MOD",
+   "cik": 67347,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "2 Modexus Solutions Announces $500 Million Share Repurchase Program New authorization demonstrates confidence in the future Racine, WI – November 18, 2026 – Modexus Solutions (NYSE: MOD), a diversified global leader in thermal management technology and solutions, today announced that its Board of D",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/67347/000110465926129392/0001104659-26-129392-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/67347/000110465926129392/mod-ex99d1.htm",
+   "filed_at": "2026-11-18T09:00:38-05:00",
+   "filed_kst": "2026-11-18 23:00",
+   "price": 129.73,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 129.73,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 129.73,
+     "change": -0.63
+    },
+    {
+     "date": "2026-11-16",
+     "close": 130.55,
+     "change": -3.77
+    }
+   ],
+   "market_cap": 6901236172.0,
+   "shares_outstanding": 53196918.0,
+   "industry": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+   "state_of_incorporation": "WI",
+   "hq": "RACINE, WI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T23:02:12+09:00"
+  },
   {
    "id": "0001213900-26-121630",
    "company": "IceCure Medical Ltd.",
@@ -15571,56 +15625,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-14T06:05:29+09:00"
-  },
-  {
-   "id": "0001140361-26-043739",
-   "company": "Maplebear Inc.",
-   "ticker": "CART",
-   "cik": 1579091,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1579091/000114036126043739/0001140361-26-043739-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579091/000114036126043739/ef20085648_425.htm",
-   "filed_at": "2026-11-13T16:00:20-05:00",
-   "filed_kst": "2026-11-14 06:00",
-   "price": 58.87,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 58.87,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 58.87,
-     "change": 0.67
-    },
-    {
-     "date": "2026-11-12",
-     "close": 58.48,
-     "change": -0.66
-    }
-   ],
-   "market_cap": 13930413398.0,
-   "shares_outstanding": 236630090.0,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-14T06:01:38+09:00"
   }
  ]
 }
