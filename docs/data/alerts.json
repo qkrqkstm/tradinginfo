@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-19T07:09:24+09:00",
+ "updated_at": "2026-11-19T07:14:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000763744-26-000131",
+   "company": "LCI INDUSTRIES",
+   "ticker": "LCII",
+   "cik": 763744,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "As previously disclosed, on June 30, 2026, LCI Industries (the “Company”), a Delaware corporation, entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Patrick Industries, Inc.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000131/0000763744-26-000131-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000131/lcii-20261118.htm",
+   "filed_at": "2026-11-18T17:12:09-05:00",
+   "filed_kst": "2026-11-19 07:12",
+   "price": 99.39,
+   "change": 2.62,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 99.39,
+     "change": 2.62
+    },
+    {
+     "date": "2026-11-17",
+     "close": 96.85,
+     "change": -2.21
+    },
+    {
+     "date": "2026-11-16",
+     "close": 99.04,
+     "change": 0.92
+    }
+   ],
+   "market_cap": 2416377134.0,
+   "shares_outstanding": 24312075.0,
+   "industry": "Motor Vehicle Parts & Accessories",
+   "state_of_incorporation": "DE",
+   "hq": "ELKHART, IN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T07:13:12+09:00"
+  },
   {
    "id": "0001104659-26-129799",
    "company": "Vireo Growth Inc.",
@@ -15571,60 +15625,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T12:09:42+09:00"
-  },
-  {
-   "id": "0001493152-23-039322",
-   "company": "NEXTNRG, INC.",
-   "ticker": "NXXT",
-   "cik": 1817004,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "3.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "false 0001817004 0001817004 2023-11-01 2023-11-01 0001817004 dei:FormerAddressMember 2023-11-01 2023-11-01 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C., 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securit",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1817004/000149315223039322/0001493152-23-039322-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1817004/000149315223039322/form8-k.htm",
-   "filed_at": "2023-11-03T16:35:21-04:00",
-   "filed_kst": "2023-11-04 05:35",
-   "price": 1.7,
-   "change": 46.55,
-   "price_history": [
-    {
-     "date": "2026-11-14",
-     "close": 1.7,
-     "change": 46.55
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.16,
-     "change": -25.16
-    },
-    {
-     "date": "2026-11-12",
-     "close": 1.55,
-     "change": -8.82
-    }
-   ],
-   "market_cap": 285976956.0,
-   "shares_outstanding": 168221739.0,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "NV",
-   "hq": "MIAMI BEACH, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-14T12:07:58+09:00"
   }
  ]
 }
