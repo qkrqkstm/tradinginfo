@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-19T06:45:01+09:00",
+ "updated_at": "2026-11-19T06:49:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-467226",
+   "company": "Voyager Therapeutics, Inc.",
+   "ticker": "VYGR",
+   "cik": 1640266,
+   "form": "8-K/A",
+   "items": [
+    "2.01",
+    "2.02",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The decrease was primarily attributable to lower revenue recognized under the Neurocrine collaboration agreement as activities transition beyond the research phase.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1640266/000119312526467226/0001193125-26-467226-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1640266/000119312526467226/d184454dex991.htm",
+   "filed_at": "2026-11-18T16:47:16-05:00",
+   "filed_kst": "2026-11-19 06:47",
+   "price": 1.67,
+   "change": 9.87,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 1.67,
+     "change": 9.87
+    },
+    {
+     "date": "2026-11-17",
+     "close": 1.52,
+     "change": -6.75
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1.63,
+     "change": -5.78
+    }
+   ],
+   "market_cap": 103922734.0,
+   "shares_outstanding": 62229182.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "LEXINGTON, MA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-19T06:48:11+09:00"
+  },
   {
    "id": "0001096343-26-000088",
    "company": "MARKEL GROUP INC.",
@@ -15561,61 +15616,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-14T07:27:13+09:00"
-  },
-  {
-   "id": "0001213900-26-119857",
-   "company": "Health In Tech, Inc.",
-   "ticker": "HIT",
-   "cik": 2019505,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 61,
-   "summary": "During 2026, the Company has invested in expanding its distribution network, strengthening carrier and strategic partnerships, and advancing new technology and products.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026119857/0001213900-26-119857-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026119857/ea031199101ex99-1.htm",
-   "filed_at": "2026-11-13T17:05:58-05:00",
-   "filed_kst": "2026-11-14 07:05",
-   "price": 0.4,
-   "change": -26.07,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 0.4,
-     "change": -26.07
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.54,
-     "change": -4.46
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.56,
-     "change": -5.72
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Insurance Agents, Brokers & Service",
-   "state_of_incorporation": null,
-   "hq": "STUART, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-14T07:06:41+09:00"
   }
  ]
 }
