@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-18T22:29:16+09:00",
+ "updated_at": "2026-11-18T22:34:57+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-466240",
+   "company": "Tempus AI, Inc.",
+   "ticker": "TEM",
+   "cik": 1717115,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 2 d138111dex101.htm EX-10.1 EX-10.1 Exhibit 10.1 CERTAIN PORTIONS OF THIS EXHIBIT (INDICATED BY ASTERISKS) HAVE BEEN OMITTED AS THE REGISTRANT HAS DETERMINED THAT THE INFORMATION IS BOTH NOT MATERIAL AND ARE THE TYPE THAT THE REGISTRANT TREATS AS PRIVATE OR CONFIDENTIAL Fifth Amendment to Ma",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526466240/0001193125-26-466240-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1717115/000119312526466240/d138111dex101.htm",
+   "filed_at": "2026-11-18T08:30:07-05:00",
+   "filed_kst": "2026-11-18 22:30",
+   "price": 63.43,
+   "change": -2.05,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 63.43,
+     "change": -2.05
+    },
+    {
+     "date": "2026-11-16",
+     "close": 64.76,
+     "change": -9.55
+    },
+    {
+     "date": "2026-11-13",
+     "close": 71.6,
+     "change": -5.65
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "NV",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-18T22:31:10+09:00"
+  },
   {
    "id": "0001599298-26-000094",
    "company": "Summit Therapeutics Inc.",
@@ -15567,59 +15620,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-14T06:01:36+09:00"
-  },
-  {
-   "id": "0001493152-26-051693",
-   "company": "Tonix Pharmaceuticals Holding Corp.",
-   "ticker": "TNXP",
-   "cik": 1430306,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The Complaint alleges that by filing the ANDA, DRL has infringed certain of the Company’s Orange Book-listed patents, and seeks an order that the effective date of FDA approval of the ANDA shall be a date no earlier than the expiration of the last to expire of the asserted patents.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1430306/000149315226051693/0001493152-26-051693-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1430306/000149315226051693/form8-k.htm",
-   "filed_at": "2026-11-13T16:00:39-05:00",
-   "filed_kst": "2026-11-14 06:00",
-   "price": 3.01,
-   "change": -7.1,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 3.01,
-     "change": -7.1
-    },
-    {
-     "date": "2026-11-12",
-     "close": 3.24,
-     "change": -16.28
-    },
-    {
-     "date": "2026-11-11",
-     "close": 3.87,
-     "change": -5.61
-    }
-   ],
-   "market_cap": 58488863.0,
-   "shares_outstanding": 19431516.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NV",
-   "hq": "BERKELEY HEIGHTS, NJ",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-14T06:01:30+09:00"
   }
  ]
 }
