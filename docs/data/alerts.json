@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-19T06:19:13+09:00",
+ "updated_at": "2026-11-19T06:24:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-074820",
+   "company": "Bunge Global SA",
+   "ticker": "BG",
+   "cik": 1996862,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-10.1 2 a101creditagreementdatedno.htm EX-10.1 Document Exhibit 10.1 CREDIT AGREEMENT This Credit Agreement (as amended, restated, supplemented or otherwise modified from time to time, this “ Agreement ”), dated as of November 16, 2026, is among Bunge Limited Finance Corp., a Delaware corporation ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996862/000162828026074820/0001628280-26-074820-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1996862/000162828026074820/a101creditagreementdatedno.htm",
+   "filed_at": "2026-11-18T16:21:27-05:00",
+   "filed_kst": "2026-11-19 06:21",
+   "price": 93.19,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 93.19,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-18",
+     "close": 93.19,
+     "change": -2.52
+    },
+    {
+     "date": "2026-11-17",
+     "close": 95.6,
+     "change": -3.45
+    }
+   ],
+   "market_cap": 17905879231.0,
+   "shares_outstanding": 192143784.0,
+   "industry": "Fats & Oils",
+   "state_of_incorporation": "Switzerland",
+   "hq": "GENEVA, V8",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T06:22:29+09:00"
+  },
   {
    "id": "0001193125-26-467135",
    "company": "Kensington Capital Acquisition Corp. VI",
@@ -15566,58 +15616,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-14T06:49:51+09:00"
-  },
-  {
-   "id": "0001524472-26-000152",
-   "company": "Xylem Inc.",
-   "ticker": "XYL",
-   "cik": 1524472,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "(the “Company”) approved the adoption of a new share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1524472/000152447226000152/0001524472-26-000152-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1524472/000152447226000152/xyl-20261113.htm",
-   "filed_at": "2026-11-13T16:48:08-05:00",
-   "filed_kst": "2026-11-14 06:48",
-   "price": 94.18,
-   "change": 0.16,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 94.18,
-     "change": 0.16
-    },
-    {
-     "date": "2026-11-12",
-     "close": 94.03,
-     "change": -1.14
-    },
-    {
-     "date": "2026-11-11",
-     "close": 95.11,
-     "change": -1.79
-    }
-   ],
-   "market_cap": 21598731875.0,
-   "shares_outstanding": 229334592.0,
-   "industry": "Pumps & Pumping Equipment",
-   "state_of_incorporation": "IN",
-   "hq": "WASHINGTON, DC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-14T06:49:05+09:00"
   }
  ]
 }
