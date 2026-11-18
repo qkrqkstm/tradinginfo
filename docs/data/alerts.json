@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-19T02:09:21+09:00",
+ "updated_at": "2026-11-19T02:14:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000909037-26-000042",
+   "company": "CHEMICAL & MINING CO OF CHILE INC",
+   "ticker": "SQM",
+   "cik": 909037,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(2) Adjusted EBITDA = EBITDA – Other income – Other gains (losses) - Share of Profit of associates and joint ventures accounted for using the equity method + Other expenses by function + Net impairment gains on reversal (losses) of financial assets – Finance income – Currency differences.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909037/000090903726000042/0000909037-26-000042-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/909037/000090903726000042/a6-ksqmx3q2026earningsrele.htm",
+   "filed_at": "2026-11-18T12:09:29-05:00",
+   "filed_kst": "2026-11-19 02:09",
+   "price": 48.55,
+   "change": -5.89,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 48.55,
+     "change": -5.89
+    },
+    {
+     "date": "2026-11-17",
+     "close": 51.59,
+     "change": 0.9
+    },
+    {
+     "date": "2026-11-16",
+     "close": 51.13,
+     "change": -4.63
+    }
+   ],
+   "market_cap": 12778191240.0,
+   "shares_outstanding": 263196524.0,
+   "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+   "state_of_incorporation": "Chile",
+   "hq": "SANTIAGO CHILE, F3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T02:10:55+09:00"
+  },
   {
    "id": "0001437749-26-037497",
    "company": "FIRST COMMUNITY BANKSHARES INC /VA/",
@@ -15573,60 +15623,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-14T06:11:56+09:00"
-  },
-  {
-   "id": "0001628280-26-073824",
-   "company": "Vistagen Therapeutics, Inc.",
-   "ticker": "VTGN",
-   "cik": 1411685,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "• PALISADE-4 Phase 3 Study OLE: Announced preliminary positive data from the open-label extension (OLE) portion of PALISADE-4, the Company’s Phase 3 study of fasedienol for the acute treatment of social anxiety disorder.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026073824/0001628280-26-073824-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026073824/vtgn-20261112xex991.htm",
-   "filed_at": "2026-11-13T16:08:48-05:00",
-   "filed_kst": "2026-11-14 06:08",
-   "price": 0.18,
-   "change": 0.28,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 0.18,
-     "change": 0.28
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.18,
-     "change": -5.26
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.19,
-     "change": 5.56
-    }
-   ],
-   "market_cap": 7987844.0,
-   "shares_outstanding": 44376911.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NV",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-14T06:09:34+09:00"
   }
  ]
 }
