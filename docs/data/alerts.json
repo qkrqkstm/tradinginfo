@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-18T20:44:14+09:00",
+ "updated_at": "2026-11-18T20:49:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-007537",
+   "company": "Costamare Inc.",
+   "ticker": "CMRE",
+   "cik": 1503584,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "(h) Financing by NML: NML agreed to acquire eight newbuilding platform supply vessels ordered by a joint venture in which the Company’s Chairman and Chief Executive Officer, Konstantinos Konstantakopoulos, and a member of his family each hold an equity interest of approximately 17%.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1503584/000117184326007537/0001171843-26-007537-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1503584/000117184326007537/exh_991.htm",
+   "filed_at": "2026-11-18T06:44:23-05:00",
+   "filed_kst": "2026-11-18 20:44",
+   "price": 12.95,
+   "change": -2.48,
+   "price_history": [
+    {
+     "date": "2026-11-17",
+     "close": 12.95,
+     "change": -2.48
+    },
+    {
+     "date": "2026-11-16",
+     "close": 13.28,
+     "change": -0.82
+    },
+    {
+     "date": "2026-11-13",
+     "close": 13.39,
+     "change": 1.13
+    }
+   ],
+   "market_cap": 1581980262.0,
+   "shares_outstanding": 122160638.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "MONACO",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-18T20:45:41+09:00"
+  },
   {
    "id": "0001140361-26-044586",
    "company": "Hafnia Ltd",
@@ -15583,61 +15634,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-13T22:00:48+09:00"
-  },
-  {
-   "id": "0001104659-26-126519",
-   "company": "Milestone Pharmaceuticals Inc.",
-   "ticker": "MIST",
-   "cik": 1408443,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 66,
-   "summary": "About CARDAMYST CARDAMYST ® (etripamil) nasal spray is approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1408443/000110465926126519/0001104659-26-126519-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1408443/000110465926126519/tm2629645d1_ex99-1.htm",
-   "filed_at": "2026-11-13T07:36:16-05:00",
-   "filed_kst": "2026-11-13 21:36",
-   "price": 0.66,
-   "change": 0.03,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 0.66,
-     "change": 0.03
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.65,
-     "change": -1.06
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.66,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 82169137.0,
-   "shares_outstanding": 124498693.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Quebec, Canada",
-   "hq": "MONTREAL, A8",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-13T21:36:56+09:00"
   }
  ]
 }
