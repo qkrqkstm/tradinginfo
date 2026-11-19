@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-19T23:19:30+09:00",
+ "updated_at": "2026-11-19T23:24:14+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-007591",
+   "company": "AETHERION TECHNOLOGIES INC.",
+   "ticker": "AETR",
+   "cik": 1370416,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "The objective of the project is to demonstrate that HPDI TM fuel systems, provided by Cespira, the joint venture between Aetherion and Volvo Group, combined with Aetherion’s CNG storage solution, which is designed specifically to integrate with the high pressure HPDI system, provides a scalable way ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1370416/000117184326007591/0001171843-26-007591-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1370416/000117184326007591/exh_991.htm",
+   "filed_at": "2026-11-19T09:19:41-05:00",
+   "filed_kst": "2026-11-19 23:19",
+   "price": 1.66,
+   "change": -0.6,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 1.66,
+     "change": -0.6
+    },
+    {
+     "date": "2026-11-17",
+     "close": 1.67,
+     "change": -1.18
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1.69,
+     "change": 1.2
+    }
+   ],
+   "market_cap": 28842854.0,
+   "shares_outstanding": 17375213.0,
+   "industry": "Engines & Turbines",
+   "state_of_incorporation": "Alberta, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-19T23:20:45+09:00"
+  },
   {
    "id": "0001140361-26-044822",
    "company": "ioneer Ltd",
@@ -15623,59 +15673,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-16T20:48:41+09:00"
-  },
-  {
-   "id": "0001255294-13-000691",
-   "company": "American Heritage International Inc.",
-   "ticker": "AHII",
-   "cik": 1545236,
-   "form": "8-K",
-   "items": [
-    "1.01"
-   ],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "As a result of the purchase of shares, along with their ownership of Series A Convertible Preferred Stock and the cancellation of Joseph Isaacs shares, Anthony Sarvucci, Vincent Bonifatto and Anderson Levine LLC are now in control of 75% of our issued and outstanding voting securities.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1545236/000125529413000691/0001255294-13-000691-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1545236/000125529413000691/mainbody.htm",
-   "filed_at": "2013-08-30T16:49:22-04:00",
-   "filed_kst": "2013-08-31 05:49",
-   "price": 0.0,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 0.0,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.0,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": 99866250.0,
-   "industry": "Sanitary Services",
-   "state_of_incorporation": "NV",
-   "hq": "BROWNSVILLE, TX",
-   "entity_category": [
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T20:47:19+09:00"
   }
  ]
 }
