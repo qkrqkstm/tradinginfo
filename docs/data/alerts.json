@@ -1,7 +1,216 @@
 {
- "updated_at": "2026-11-20T06:14:28+09:00",
+ "updated_at": "2026-11-20T06:19:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-075088",
+   "company": "GAP INC",
+   "ticker": "GAP",
+   "cik": 39911,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 71,
+   "summary": "• Share Repurchases : ◦ Year-to-date, the Company has repurchased $601 million shares through a combination of purchases in the open market and an accelerated share repurchase program completed during the second quarter.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/39911/000162828026075088/0001628280-26-075088-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/39911/000162828026075088/q32026eprexhibit991.htm",
+   "filed_at": "2026-11-19T16:17:14-05:00",
+   "filed_kst": "2026-11-20 06:17",
+   "price": 18.89,
+   "change": -4.81,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 18.89,
+     "change": -4.81
+    },
+    {
+     "date": "2026-11-18",
+     "close": 19.84,
+     "change": 2.53
+    },
+    {
+     "date": "2026-11-17",
+     "close": 19.35,
+     "change": -2.07
+    }
+   ],
+   "market_cap": 6635492888.0,
+   "shares_outstanding": 351270137.0,
+   "industry": "Retail-Family Clothing Stores",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T06:18:02+09:00"
+  },
+  {
+   "id": "0001104659-26-130152",
+   "company": "ESCO TECHNOLOGIES INC",
+   "ticker": "ESE",
+   "cik": 866706,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "7 million (36 percent) to $193.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866706/000110465926130152/0001104659-26-130152-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/866706/000110465926130152/tm2629609d1_ex99-1.htm",
+   "filed_at": "2026-11-19T16:15:39-05:00",
+   "filed_kst": "2026-11-20 06:15",
+   "price": 223.02,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 223.02,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-19",
+     "close": 223.02,
+     "change": -2.42
+    },
+    {
+     "date": "2026-11-18",
+     "close": 228.54,
+     "change": -0.39
+    }
+   ],
+   "market_cap": 5777905592.0,
+   "shares_outstanding": 25907567.0,
+   "industry": "Communications Equipment, NEC",
+   "state_of_incorporation": "MO",
+   "hq": "ST. LOUIS, MO",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T06:16:50+09:00"
+  },
+  {
+   "id": "0002004711-26-000026",
+   "company": "Bending Spoons S.p.A.",
+   "ticker": "BSP",
+   "cik": 2004711,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 74,
+   "summary": "In connection with the all-cash transaction, Intuit will invest $368 million of its proceeds into newly issued Bending Spoons equity.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000026/0002004711-26-000026-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000026/bsp_ex99-1.htm",
+   "filed_at": "2026-11-19T16:15:15-05:00",
+   "filed_kst": "2026-11-20 06:15",
+   "price": 41.7,
+   "change": -2.55,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 41.7,
+     "change": -2.55
+    },
+    {
+     "date": "2026-11-18",
+     "close": 42.79,
+     "change": 1.09
+    },
+    {
+     "date": "2026-11-17",
+     "close": 42.33,
+     "change": 3.29
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Programming, Data Processing, Etc.",
+   "state_of_incorporation": "Italy",
+   "hq": "MILAN",
+   "entity_category": null,
+   "detected_at": "2026-11-20T06:16:12+09:00"
+  },
+  {
+   "id": "0001193125-26-468605",
+   "company": "GEO GROUP INC",
+   "ticker": "GEO",
+   "cik": 923796,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "대형계약"
+   ],
+   "confidence": 77,
+   "summary": "com CR-26-19 THE GEO GROUP SELLS NORTHWEST ICE PROCESSING CENTER FOR $453 MILLION AND ANNOUNCES PLANS TO ENTER INTO $500 MILLION ACCELERATED SHARE REPURCHASE AGREEMENT Boca Raton, Fla.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/923796/000119312526468605/0001193125-26-468605-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/923796/000119312526468605/d167150dex991.htm",
+   "filed_at": "2026-11-19T16:15:16-05:00",
+   "filed_kst": "2026-11-20 06:15",
+   "price": 31.49,
+   "change": -1.16,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 31.49,
+     "change": -1.16
+    },
+    {
+     "date": "2026-11-18",
+     "close": 31.86,
+     "change": -2.87
+    },
+    {
+     "date": "2026-11-17",
+     "close": 32.8,
+     "change": 0.43
+    }
+   ],
+   "market_cap": 4168319586.0,
+   "shares_outstanding": 132369628.0,
+   "industry": "General Bldg Contractors - Residential Bldgs",
+   "state_of_incorporation": "FL",
+   "hq": "BOCA RATON, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T06:16:10+09:00"
+  },
   {
    "id": "0001437749-26-037728",
    "company": "AMES NATIONAL CORP",
@@ -15457,211 +15666,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-16T21:53:04+09:00"
-  },
-  {
-   "id": "0001193125-26-462116",
-   "company": "CERENOME, INC.",
-   "ticker": "CNSY",
-   "cik": 1095981,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "REYOBIQ is investigational and has not been approved by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1095981/000119312526462116/0001193125-26-462116-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1095981/000119312526462116/cnsy-ex99_1.htm",
-   "filed_at": "2026-11-16T07:45:13-05:00",
-   "filed_kst": "2026-11-16 21:45",
-   "price": 0.95,
-   "change": 0.02,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.95,
-     "change": 0.02
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.95,
-     "change": 23.38
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.77,
-     "change": -3.75
-    }
-   ],
-   "market_cap": 9288088.0,
-   "shares_outstanding": 9776935.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T21:46:23+09:00"
-  },
-  {
-   "id": "0001104659-26-127650",
-   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
-   "ticker": "BBVA",
-   "cik": 842180,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 tm2628285d5_6k.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of November, 2026 Commission file number: 1-10110 BANCO BILBAO VIZCAYA",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926127650/0001104659-26-127650-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926127650/tm2628285d5_6k.htm",
-   "filed_at": "2026-11-16T07:43:57-05:00",
-   "filed_kst": "2026-11-16 21:43",
-   "price": 25.92,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 25.92,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 25.92,
-     "change": -1.11
-    },
-    {
-     "date": "2026-11-11",
-     "close": 26.21,
-     "change": -1.06
-    }
-   ],
-   "market_cap": 147976468704.0,
-   "shares_outstanding": 5708968700.0,
-   "industry": "Commercial Banks, NEC",
-   "state_of_incorporation": null,
-   "hq": "MADRID, U3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T21:45:39+09:00"
-  },
-  {
-   "id": "0001493152-26-052018",
-   "company": "Fusion Fuel Green PLC",
-   "ticker": "HTOO",
-   "cik": 1819794,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "0 Million of Expected Revenue from Its $5.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1819794/000149315226052018/0001493152-26-052018-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1819794/000149315226052018/ex99-1.htm",
-   "filed_at": "2026-11-16T07:45:01-05:00",
-   "filed_kst": "2026-11-16 21:45",
-   "price": 1.2,
-   "change": 4.71,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 1.2,
-     "change": 4.71
-    },
-    {
-     "date": "2026-11-12",
-     "close": 1.15,
-     "change": -4.5
-    },
-    {
-     "date": "2026-11-11",
-     "close": 1.2,
-     "change": -2.44
-    }
-   ],
-   "market_cap": 2745949.0,
-   "shares_outstanding": 2288291.0,
-   "industry": "Misc Industrial & Commercial Machinery & Equipment",
-   "state_of_incorporation": "Ireland",
-   "hq": "DUBLIN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T21:45:38+09:00"
-  },
-  {
-   "id": "0001654954-26-009815",
-   "company": "ASTRAZENECA PLC",
-   "ticker": "AZN",
-   "cik": 901832,
-   "form": "6-K",
-   "items": [],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 64,
-   "summary": "The Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) based its positive opinion on results from two pivotal Phase III trials in which Baxfendy demonstrated statistically significant and clinically meaningful reductions in seated systolic blood pressure (SB",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009815/0001654954-26-009815-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426009815/a2430d.htm",
-   "filed_at": "2026-11-16T07:21:03-05:00",
-   "filed_kst": "2026-11-16 21:21",
-   "price": 184.45,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 184.45,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 184.45,
-     "change": 0.04
-    },
-    {
-     "date": "2026-11-12",
-     "close": 184.38,
-     "change": -0.59
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "CAMBRIDGE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T21:22:15+09:00"
   }
  ]
 }
