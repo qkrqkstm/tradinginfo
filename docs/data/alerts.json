@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-19T22:49:18+09:00",
+ "updated_at": "2026-11-19T22:54:25+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-122031",
+   "company": "Allarity Therapeutics, Inc.",
+   "ticker": "ALLR",
+   "cik": 1860657,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "“A protection period extending into 2045 strengthens the foundation for continued investment in stenoparib and fuels future partnering discussions as we generate the clinical data needed to support FDA approval”.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1860657/000121390026122031/0001213900-26-122031-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1860657/000121390026122031/ea031278201ex99-1.htm",
+   "filed_at": "2026-11-19T08:39:40-05:00",
+   "filed_kst": "2026-11-19 22:39",
+   "price": 0.87,
+   "change": 3.69,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 0.87,
+     "change": 3.69
+    },
+    {
+     "date": "2026-11-17",
+     "close": 0.84,
+     "change": -3.89
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.88,
+     "change": -8.28
+    }
+   ],
+   "market_cap": 13917484.0,
+   "shares_outstanding": 15997108.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T22:50:57+09:00"
+  },
   {
    "id": "0001493152-26-053158",
    "company": "Fusion Fuel Green PLC",
@@ -15628,57 +15681,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-16T20:46:16+09:00"
-  },
-  {
-   "id": "0001062993-26-006039",
-   "company": "Helus Pharma Inc.",
-   "ticker": "HELP",
-   "cik": 1833141,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of MDD that has received Breakthrough Therapy Designation from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326006039/0001062993-26-006039-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000106299326006039/exhibit99-1.htm",
-   "filed_at": "2026-11-16T06:31:51-05:00",
-   "filed_kst": "2026-11-16 20:31",
-   "price": 8.87,
-   "change": 0.11,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 8.87,
-     "change": 0.11
-    },
-    {
-     "date": "2026-11-12",
-     "close": 8.86,
-     "change": -5.64
-    },
-    {
-     "date": "2026-11-11",
-     "close": 9.39,
-     "change": 3.53
-    }
-   ],
-   "market_cap": 191602715.0,
-   "shares_outstanding": 21601208.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T20:32:17+09:00"
   }
  ]
 }
