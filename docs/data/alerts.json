@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-19T23:24:14+09:00",
+ "updated_at": "2026-11-19T23:29:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-122053",
+   "company": "Sizzle Acquisition Corp. II",
+   "ticker": "SZZL",
+   "cik": 2030663,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Cayman Islands exempted company (“ Sizzle II ”), entered into a Business Combination Agreement, as amended (the “ BCA ”) with and among (i) Trasteel Holding S.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026122053/0001213900-26-122053-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030663/000121390026122053/ea031286801ex99-1.htm",
+   "filed_at": "2026-11-19T09:27:08-05:00",
+   "filed_kst": "2026-11-19 23:27",
+   "price": 10.56,
+   "change": 0.09,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 10.56,
+     "change": 0.09
+    },
+    {
+     "date": "2026-11-17",
+     "close": 10.55,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.55,
+     "change": 0.09
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "WASHINGTON, DC",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T23:28:10+09:00"
+  },
   {
    "id": "0001171843-26-007591",
    "company": "AETHERION TECHNOLOGIES INC.",
@@ -15619,60 +15671,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-16T20:48:43+09:00"
-  },
-  {
-   "id": "0002100161-26-000015",
-   "company": "Blackstone Digital Infrastructure Trust Inc.",
-   "ticker": "BXDC",
-   "cik": 2100161,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "2 bxdc-transactionsummary Blackstone Digital Infrastructure Trust Transaction Summary NOVEMBER 2026 Blackstone |Blackstone Digital Infrastructure Trust TRANSACTION OVERVIEW BXDC has agreed to acquire a 75% controlling interest in two newly developed powered shell data center campuses (647 MW) in a s",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2100161/000210016126000015/0002100161-26-000015-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2100161/000210016126000015/exhibit991-20260930.htm",
-   "filed_at": "2026-11-16T06:46:27-05:00",
-   "filed_kst": "2026-11-16 20:46",
-   "price": 16.69,
-   "change": 0.85,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 16.69,
-     "change": 0.85
-    },
-    {
-     "date": "2026-11-12",
-     "close": 16.55,
-     "change": -1.61
-    },
-    {
-     "date": "2026-11-11",
-     "close": 16.82,
-     "change": 0.84
-    }
-   ],
-   "market_cap": 1680494420.0,
-   "shares_outstanding": 100688701.0,
-   "industry": "Real Estate",
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T20:48:41+09:00"
   }
  ]
 }
