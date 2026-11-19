@@ -1,7 +1,371 @@
 {
- "updated_at": "2026-11-19T19:59:32+09:00",
+ "updated_at": "2026-11-19T20:04:47+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053135",
+   "company": "SBC Medical Group Holdings Inc",
+   "ticker": "SBC",
+   "cik": 1930313,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "지수편입",
+   "primary_key": "index",
+   "emoji": "📈",
+   "types": [
+    "지수편입"
+   ],
+   "confidence": 57,
+   "summary": "The Company was listed on Nasdaq in September 2024 and was selected for inclusion in the Russell 3000® Index in June 2025.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1930313/000149315226053135/0001493152-26-053135-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1930313/000149315226053135/ex99-1.htm",
+   "filed_at": "2026-11-18T21:53:32-05:00",
+   "filed_kst": "2026-11-19 11:53",
+   "price": 6.27,
+   "change": 2.45,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 6.27,
+     "change": 2.45
+    },
+    {
+     "date": "2026-11-17",
+     "close": 6.12,
+     "change": -0.97
+    },
+    {
+     "date": "2026-11-16",
+     "close": 6.18,
+     "change": -15.92
+    }
+   ],
+   "market_cap": 644850333.0,
+   "shares_outstanding": 102846943.0,
+   "industry": "Services-Offices & Clinics of  Doctors of  Medicine",
+   "state_of_incorporation": "DE",
+   "hq": "IRVINE, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T20:04:40+09:00"
+  },
+  {
+   "id": "0001213900-26-121967",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "You mentioned Barq, and you’ve proposed a $200 million joint venture for a manufacturing and service facility in Abu Dhabi.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026121967/0001213900-26-121967-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026121967/ea0312883-425_inflection7.htm",
+   "filed_at": "2026-11-18T21:41:35-05:00",
+   "filed_kst": "2026-11-19 11:41",
+   "price": 10.2,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 10.2,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 10.2,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.21,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T20:04:03+09:00"
+  },
+  {
+   "id": "0001564708-26-000265",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000265/0001564708-26-000265-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000265/appendix3cclassa20261118.htm",
+   "filed_at": "2026-11-18T21:14:25-05:00",
+   "filed_kst": "2026-11-19 11:14",
+   "price": 29.17,
+   "change": 0.17,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 29.17,
+     "change": 0.17
+    },
+    {
+     "date": "2026-11-17",
+     "close": 29.12,
+     "change": -1.52
+    },
+    {
+     "date": "2026-11-16",
+     "close": 29.57,
+     "change": -1.07
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T20:04:01+09:00"
+  },
+  {
+   "id": "0001213900-26-121952",
+   "company": "WEN Acquisition Corp",
+   "ticker": "WENN",
+   "cik": 2057043,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "(ONE) and Wen Acquisition Corp (Wen) announced a definitive business combination agreement that will make ONE a public company.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2057043/000121390026121952/0001213900-26-121952-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2057043/000121390026121952/ea0312869-425_ournext.htm",
+   "filed_at": "2026-11-18T20:19:30-05:00",
+   "filed_kst": "2026-11-19 10:19",
+   "price": 10.48,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 10.48,
+     "change": 0.1
+    },
+    {
+     "date": "2026-11-17",
+     "close": 10.47,
+     "change": -0.1
+    },
+    {
+     "date": "2026-11-16",
+     "close": 10.48,
+     "change": 0.0
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "OAKLAND, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T20:03:24+09:00"
+  },
+  {
+   "id": "0001213900-26-121951",
+   "company": "Emmaus Life Sciences, Inc.",
+   "ticker": "EMMA",
+   "cik": 822370,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "FDA"
+   ],
+   "confidence": 72,
+   "summary": "About Endari ® (prescription grade L-glutamine oral powder) Endari ® , Emmaus’ prescription grade L-glutamine oral powder, was approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/0001213900-26-121951-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/ea031195301ex99-1.htm",
+   "filed_at": "2026-11-18T20:13:58-05:00",
+   "filed_kst": "2026-11-19 10:13",
+   "price": 0.02,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 0.02,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 0.02,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-16",
+     "close": 0.02,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 1403765.0,
+   "shares_outstanding": 70188263.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "TORRANCE, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-19T20:03:20+09:00"
+  },
+  {
+   "id": "0001213900-26-121916",
+   "company": "Tactical Resources Corp.",
+   "ticker": "TREO",
+   "cik": 2041208,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "(2) Payment shall take the form of (check applicable box): ¨ in lawful money of the United States; or ¨ if permitted the cancellation of such number of Warrant Shares as is necessary, in accordance with the formula set forth in subsection 2(c), to exercise this Warrant with respect to the maximum nu",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2041208/000121390026121916/0001213900-26-121916-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2041208/000121390026121916/ea031283001ex10-2.htm",
+   "filed_at": "2026-11-18T17:55:34-05:00",
+   "filed_kst": "2026-11-19 07:55",
+   "price": 2.23,
+   "change": -20.64,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 2.23,
+     "change": -20.64
+    },
+    {
+     "date": "2026-11-17",
+     "close": 2.81,
+     "change": -8.17
+    },
+    {
+     "date": "2026-11-16",
+     "close": 3.06,
+     "change": -22.14
+    }
+   ],
+   "market_cap": 30160041.0,
+   "shares_outstanding": 13524682.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VANCOUVER",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T20:01:31+09:00"
+  },
+  {
+   "id": "0001193125-26-467305",
+   "company": "PORTLAND GENERAL ELECTRIC CO /OR/",
+   "ticker": "POR",
+   "cik": 784977,
+   "form": "8-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "On November 16, 2026, the Company borrowed $200 million of the additional amount, resulting in aggregate borrowings of $550 million outstanding under the Term Loan Agreement and leaving $150 million available for borrowing through December 31, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/784977/000119312526467305/0001193125-26-467305-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/784977/000119312526467305/por-ex10_1.htm",
+   "filed_at": "2026-11-18T17:39:20-05:00",
+   "filed_kst": "2026-11-19 07:39",
+   "price": 45.74,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 45.74,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-18",
+     "close": 45.74,
+     "change": 0.51
+    },
+    {
+     "date": "2026-11-17",
+     "close": 45.51,
+     "change": -1.81
+    }
+   ],
+   "market_cap": 5447729871.0,
+   "shares_outstanding": 119102096.0,
+   "industry": "Electric Services",
+   "state_of_incorporation": "OR",
+   "hq": "PORTLAND, OR",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T20:00:53+09:00"
+  },
   {
    "id": "0001829126-26-012634",
    "company": "Hall Chadwick Acquisition Corp",
@@ -15316,338 +15680,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-16T17:25:22+09:00"
-  },
-  {
-   "id": "0001615774-18-010812",
-   "company": "Oxford Square Capital Corp.",
-   "ticker": "OXSQ",
-   "cik": 1259429,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "1 have been satisfied with respect to each Substituted Collateral Loan to be acquired by the Borrower in connection with such substitution, and (4) the Borrowing Base Test shall be satisfied immediately after giving effect to such substitution.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1259429/000161577418010812/0001615774-18-010812-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1259429/000161577418010812/s113268_ex10-1.htm",
-   "filed_at": "2018-10-12T16:47:54-04:00",
-   "filed_kst": "2018-10-13 05:47",
-   "price": 0.76,
-   "change": -5.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 0.76,
-     "change": -5.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.8,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.8,
-     "change": -1.23
-    }
-   ],
-   "market_cap": 92163450.0,
-   "shares_outstanding": 121267697.0,
-   "industry": null,
-   "state_of_incorporation": "MD",
-   "hq": "GREENWICH, CT",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-16T04:47:24+09:00"
-  },
-  {
-   "id": "0001104659-18-061830",
-   "company": "ROCKWELL MEDICAL, INC.",
-   "ticker": "RMTI",
-   "cik": 1041024,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "I hereby agree that I shall not, directly, or indirectly (whether as an employee, agent, consultant, joint venture, partner, lender, investor, owner, shareholder, director, officer or in any other capacity): induce or solicit or attempt to induce or solicit, any customers or clients of the Company, ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1041024/000110465918061830/0001104659-18-061830-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1041024/000110465918061830/a18-36667_1ex10d81.htm",
-   "filed_at": "2018-10-12T16:52:18-04:00",
-   "filed_kst": "2018-10-13 05:52",
-   "price": 7.03,
-   "change": -4.74,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 7.03,
-     "change": -4.74
-    },
-    {
-     "date": "2026-11-12",
-     "close": 7.38,
-     "change": 4.24
-    },
-    {
-     "date": "2026-11-11",
-     "close": 7.08,
-     "change": -3.15
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": 0.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "WIXOM, MI",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T04:47:22+09:00"
-  },
-  {
-   "id": "0001140361-18-040548",
-   "company": "PHOTRONICS INC",
-   "ticker": "PLAB",
-   "cik": 810136,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "com Photronics Announces $25 Million Share Repurchase Program BROOKFIELD, Conn.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/810136/000114036118040548/0001140361-18-040548-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/810136/000114036118040548/ex99_1.htm",
-   "filed_at": "2018-10-12T17:06:59-04:00",
-   "filed_kst": "2018-10-13 06:06",
-   "price": 27.55,
-   "change": -1.18,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 27.55,
-     "change": -1.18
-    },
-    {
-     "date": "2026-11-12",
-     "close": 27.88,
-     "change": -3.63
-    },
-    {
-     "date": "2026-11-11",
-     "close": 28.93,
-     "change": 2.95
-    }
-   ],
-   "market_cap": 1625371951.0,
-   "shares_outstanding": 58997167.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "CT",
-   "hq": "BROOKFIELD, CT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T04:46:47+09:00"
-  },
-  {
-   "id": "0001104659-18-061838",
-   "company": "NABORS INDUSTRIES LTD",
-   "ticker": "NBR",
-   "cik": 1163739,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "For purposes of this definition, a person shall not be deemed to have beneficial ownership of Capital Stock subject to a stock purchase agreement, merger agreement or similar agreement until the consummation of the transactions contemplated by such agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1163739/000110465918061838/0001104659-18-061838-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1163739/000110465918061838/a18-36642_1ex99d1.htm",
-   "filed_at": "2018-10-12T17:25:06-04:00",
-   "filed_kst": "2018-10-13 06:25",
-   "price": 84.68,
-   "change": 1.68,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 84.68,
-     "change": 1.68
-    },
-    {
-     "date": "2026-11-12",
-     "close": 83.28,
-     "change": 3.47
-    },
-    {
-     "date": "2026-11-11",
-     "close": 80.49,
-     "change": 4.1
-    }
-   ],
-   "market_cap": 1384331535.0,
-   "shares_outstanding": 16347798.0,
-   "industry": "Drilling Oil & Gas Wells",
-   "state_of_incorporation": "Bermuda",
-   "hq": "HAMILTON, HM08, D0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-16T04:46:29+09:00"
-  },
-  {
-   "id": "0001213900-21-057077",
-   "company": "Ondas Inc.",
-   "ticker": "ONDS",
-   "cik": 1646188,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "EX-10.1 2 ea150036ex10-1_ondasholdings.htm ONDAS HOLDINGS INC. 2021 STOCK INCENTIVE PLAN. Exhibit 10.1 APPENDIX A ONDAS HOLDINGS INC. 2021 INCENTIVE STOCK PLAN 1. ESTABLISHMENT, EFFECTIVE DATE AND TERM Ondas Holdings Inc., a Nevada corporation (“Ondas”), hereby establishes the Ondas Holdings Inc. 20",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390021057077/0001213900-21-057077-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390021057077/ea150036ex10-1_ondasholdings.htm",
-   "filed_at": "2021-11-05T17:14:57-04:00",
-   "filed_kst": "2021-11-06 06:14",
-   "price": 5.16,
-   "change": -3.01,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 5.16,
-     "change": -3.01
-    },
-    {
-     "date": "2026-11-12",
-     "close": 5.32,
-     "change": -7.16
-    },
-    {
-     "date": "2026-11-11",
-     "close": 5.73,
-     "change": 2.87
-    }
-   ],
-   "market_cap": 2944050080.0,
-   "shares_outstanding": 570552341.0,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": "NV",
-   "hq": "WEST PALM BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-15T17:28:25+09:00"
-  },
-  {
-   "id": "0001104659-23-114822",
-   "company": "NRG ENERGY, INC.",
-   "ticker": "NRG",
-   "cik": 1013871,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Announces $950 Million Accelerated Share Repurchase HOUSTON—Nov.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465923114822/0001104659-23-114822-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465923114822/tm2330014d1_ex99-2.htm",
-   "filed_at": "2023-11-06T17:09:56-05:00",
-   "filed_kst": "2023-11-07 07:09",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": 210021280.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "DE",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-15T12:06:26+09:00"
-  },
-  {
-   "id": "0001437749-23-030420",
-   "company": "RUSH ENTERPRISES INC TX",
-   "ticker": "RUSHA",
-   "cik": 1012019,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "2.03",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "By this Agreement, PLC does not confer any agency powers on RTL, its employees or agents, and this Agreement does not create any agency, partnership or joint venture relationship between RTL and PLC.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1012019/000143774923030420/0001437749-23-030420-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1012019/000143774923030420/ex_591845.htm",
-   "filed_at": "2023-11-06T17:10:58-05:00",
-   "filed_kst": "2023-11-07 07:10",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "TX",
-   "hq": "NEW BRAUNFELS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-15T12:06:25+09:00"
   }
  ]
 }
