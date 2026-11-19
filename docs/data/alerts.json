@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-20T06:09:43+09:00",
+ "updated_at": "2026-11-20T06:14:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-037728",
+   "company": "AMES NATIONAL CORP",
+   "ticker": "ATLO",
+   "cik": 1132651,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "01 Other Events On November 18, 2026, the Company announced a stock repurchase program commencing November 19, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1132651/000143774926037728/0001437749-26-037728-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1132651/000143774926037728/atlo20261118_8k.htm",
+   "filed_at": "2026-11-19T16:11:50-05:00",
+   "filed_kst": "2026-11-20 06:11",
+   "price": 32.72,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 32.72,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-19",
+     "close": 32.72,
+     "change": -1.27
+    },
+    {
+     "date": "2026-11-18",
+     "close": 33.14,
+     "change": -0.51
+    }
+   ],
+   "market_cap": 289808238.0,
+   "shares_outstanding": 8857220.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "United States",
+   "hq": "AMES, IA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-20T06:12:36+09:00"
+  },
+  {
+   "id": "0001213900-26-122245",
+   "company": "MACH NATURAL RESOURCES LP",
+   "ticker": "MNR",
+   "cik": 1980088,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 55,
+   "summary": "EX-10.1 2 ea031289701ex10-1.htm SECOND LIEN CREDIT AGREEMENT, DATED NOVEMBER 19, 2026, AMONG MACH NATURAL RESOURCES LP, THE LENDERS PARTY THERETO FROM TIME TO TIME AND SIXTH STREET LENDING PARTNERS, AS ADMINISTRATIVE AGENT AND COLLATERAL AGENT Exhibit 10.1 Execution Version CREDIT AGREEMENT Dated as",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1980088/000121390026122245/0001213900-26-122245-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1980088/000121390026122245/ea031289701ex10-1.htm",
+   "filed_at": "2026-11-19T16:10:15-05:00",
+   "filed_kst": "2026-11-20 06:10",
+   "price": 8.1,
+   "change": 1.25,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 8.1,
+     "change": 1.25
+    },
+    {
+     "date": "2026-11-18",
+     "close": 8.0,
+     "change": -2.56
+    },
+    {
+     "date": "2026-11-17",
+     "close": 8.21,
+     "change": -4.09
+    }
+   ],
+   "market_cap": 1380205875.0,
+   "shares_outstanding": 170395787.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "OKLAHOMA CITY, OK",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T06:11:20+09:00"
+  },
   {
    "id": "0001707753-26-000067",
    "company": "Elastic N.V.",
@@ -15556,119 +15662,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-16T21:22:15+09:00"
-  },
-  {
-   "id": "0001193125-26-462061",
-   "company": "MapLight Therapeutics, Inc.",
-   "ticker": "MPLT",
-   "cik": 1770069,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 97,
-   "summary": "EX-99.1 2 mplt-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 MapLight Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update Planning underway for ZEPHYR-2, the confirmatory Phase 3 trial of ML-007C-MA in schizophrenia, with topline results expected in the second half 2027 ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1770069/000119312526462061/0001193125-26-462061-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1770069/000119312526462061/mplt-ex99_1.htm",
-   "filed_at": "2026-11-16T07:20:48-05:00",
-   "filed_kst": "2026-11-16 21:20",
-   "price": 7.25,
-   "change": 2.55,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 7.25,
-     "change": 2.55
-    },
-    {
-     "date": "2026-11-12",
-     "close": 7.07,
-     "change": -5.48
-    },
-    {
-     "date": "2026-11-11",
-     "close": 7.48,
-     "change": 0.54
-    }
-   ],
-   "market_cap": 307663364.0,
-   "shares_outstanding": 42436326.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "REDWOOD CITY, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T21:22:13+09:00"
-  },
-  {
-   "id": "0001193125-26-462054",
-   "company": "Larimar Therapeutics, Inc.",
-   "ticker": "LRMR",
-   "cik": 1374690,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Approval: Mid-2027 • Obtaining & Monetizing the Rare Pediatric Disease Priority Review Voucher: Mid-2027, if approved • U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526462054/0001193125-26-462054-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526462054/lrmr-ex99_1.htm",
-   "filed_at": "2026-11-16T07:17:38-05:00",
-   "filed_kst": "2026-11-16 21:17",
-   "price": 3.02,
-   "change": 11.85,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 3.02,
-     "change": 11.85
-    },
-    {
-     "date": "2026-11-12",
-     "close": 2.7,
-     "change": -1.1
-    },
-    {
-     "date": "2026-11-11",
-     "close": 2.73,
-     "change": 1.49
-    }
-   ],
-   "market_cap": 313726470.0,
-   "shares_outstanding": 103882937.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BALA CYNWYD, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T21:18:30+09:00"
   }
  ]
 }
