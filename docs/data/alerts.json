@@ -1,7 +1,56 @@
 {
- "updated_at": "2026-11-20T04:59:11+09:00",
+ "updated_at": "2026-11-20T05:04:50+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053222",
+   "company": "Nuran Wireless Inc.",
+   "ticker": "NUR",
+   "cik": 1680637,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "배당"
+   ],
+   "confidence": 67,
+   "summary": "3 of the Articles, (ii) record the conversion and the cancellation of the converted shares in the central securities register in accordance with Article 29.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1680637/000149315226053222/0001493152-26-053222-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1680637/000149315226053222/ex99-1.htm",
+   "filed_at": "2026-11-19T15:03:57-05:00",
+   "filed_kst": "2026-11-20 05:03",
+   "price": 0.46,
+   "change": -0.04,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 0.46,
+     "change": -0.04
+    },
+    {
+     "date": "2026-11-19",
+     "close": 0.46,
+     "change": -7.16
+    },
+    {
+     "date": "2026-11-18",
+     "close": 0.5,
+     "change": 35.14
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Computer Communications Equipment",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "QUEBEC",
+   "entity_category": null,
+   "detected_at": "2026-11-20T05:04:50+09:00"
+  },
   {
    "id": "0001654954-26-009998",
    "company": "HSBC HOLDINGS PLC",
@@ -15620,57 +15669,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-16T20:52:57+09:00"
-  },
-  {
-   "id": "0001193125-26-461954",
-   "company": "Blackstone Digital Infrastructure Trust Inc.",
-   "ticker": "BXDC",
-   "cik": 2100161,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "(the “Tenant Parent”), pursuant to which the Company Parties have agreed to acquire a 75.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2100161/000119312526461954/0001193125-26-461954-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2100161/000119312526461954/d115778dex991.htm",
-   "filed_at": "2026-11-16T06:45:09-05:00",
-   "filed_kst": "2026-11-16 20:45",
-   "price": 16.69,
-   "change": 0.85,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 16.69,
-     "change": 0.85
-    },
-    {
-     "date": "2026-11-12",
-     "close": 16.55,
-     "change": -1.61
-    },
-    {
-     "date": "2026-11-11",
-     "close": 16.82,
-     "change": 0.84
-    }
-   ],
-   "market_cap": 1680494420.0,
-   "shares_outstanding": 100688701.0,
-   "industry": "Real Estate",
-   "state_of_incorporation": "MD",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T20:48:45+09:00"
   }
  ]
 }
