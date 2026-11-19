@@ -1,7 +1,110 @@
 {
- "updated_at": "2026-11-20T05:59:37+09:00",
+ "updated_at": "2026-11-20T06:04:55+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-130121",
+   "company": "Ardent Health, Inc.",
+   "ticker": "ARDT",
+   "cik": 1756655,
+   "form": "8-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "The Concurrent Share Repurchase was not made pursuant to the Company’s previously disclosed stock repurchase program and does not reduce the approximately $48.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1756655/000110465926130121/0001104659-26-130121-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1756655/000110465926130121/tm2630257d1_ex1-1.htm",
+   "filed_at": "2026-11-19T16:02:43-05:00",
+   "filed_kst": "2026-11-20 06:02",
+   "price": 14.48,
+   "change": 0.56,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 14.48,
+     "change": 0.56
+    },
+    {
+     "date": "2026-11-18",
+     "close": 14.4,
+     "change": -18.87
+    },
+    {
+     "date": "2026-11-17",
+     "close": 17.75,
+     "change": -1.93
+    }
+   ],
+   "market_cap": 2040758971.0,
+   "shares_outstanding": 140936393.0,
+   "industry": "Services-General Medical & Surgical Hospitals, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BRENTWOOD, TN",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-20T06:03:17+09:00"
+  },
+  {
+   "id": "0001213900-26-122234",
+   "company": "Alpha Tau Medical Ltd.",
+   "ticker": "DRTS",
+   "cik": 1871321,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "9 months median follow-up, with 100% feasibility and no unanticipated serious adverse events - - FDA approval to expand the REGAIN trial from 10 to up to 20 patients, which the Company believes could generate data that may support market submission requirements for Alpha DaRT ® in recurrent glioblas",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1871321/000121390026122234/0001213900-26-122234-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1871321/000121390026122234/ea031235801ex99-1.htm",
+   "filed_at": "2026-11-19T16:01:33-05:00",
+   "filed_kst": "2026-11-20 06:01",
+   "price": 11.31,
+   "change": -5.83,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 11.31,
+     "change": -5.83
+    },
+    {
+     "date": "2026-11-18",
+     "close": 12.01,
+     "change": -0.66
+    },
+    {
+     "date": "2026-11-17",
+     "close": 12.09,
+     "change": 1.0
+    }
+   ],
+   "market_cap": 995390125.0,
+   "shares_outstanding": 88009737.0,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Israel",
+   "hq": "JERUSALEM, L3",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T06:02:07+09:00"
+  },
   {
    "id": "0001104659-26-130093",
    "company": "UNITED BANCORP INC /OH/",
@@ -15570,109 +15673,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-16T21:02:45+09:00"
-  },
-  {
-   "id": "0000950103-26-017524",
-   "company": "Helus Pharma Inc.",
-   "ticker": "HELP",
-   "cik": 1833141,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 91,
-   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the potential adjunctive treatment of major depressive disorder that has received Breakthrough Therapy Designation from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000095010326017524/0000950103-26-017524-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000095010326017524/dp256929_ex9901.htm",
-   "filed_at": "2026-11-16T07:00:11-05:00",
-   "filed_kst": "2026-11-16 21:00",
-   "price": 8.87,
-   "change": 0.11,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 8.87,
-     "change": 0.11
-    },
-    {
-     "date": "2026-11-12",
-     "close": 8.86,
-     "change": -5.64
-    },
-    {
-     "date": "2026-11-11",
-     "close": 9.39,
-     "change": 3.53
-    }
-   ],
-   "market_cap": 191602715.0,
-   "shares_outstanding": 21601208.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T21:02:04+09:00"
-  },
-  {
-   "id": "0001833141-26-000102",
-   "company": "Helus Pharma Inc.",
-   "ticker": "HELP",
-   "cik": 1833141,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "Helus Pharma is currently developing HLP003, a proprietary NSA, in Phase 3 clinical development for the adjunctive treatment of MDD that has received Breakthrough Therapy Designation from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000102/0001833141-26-000102-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000102/q22027financialresultspres.htm",
-   "filed_at": "2026-11-16T06:54:59-05:00",
-   "filed_kst": "2026-11-16 20:54",
-   "price": 8.87,
-   "change": 0.11,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 8.87,
-     "change": 0.11
-    },
-    {
-     "date": "2026-11-12",
-     "close": 8.86,
-     "change": -5.64
-    },
-    {
-     "date": "2026-11-11",
-     "close": 9.39,
-     "change": 3.53
-    }
-   ],
-   "market_cap": 191602715.0,
-   "shares_outstanding": 21601208.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T20:55:30+09:00"
   }
  ]
 }
