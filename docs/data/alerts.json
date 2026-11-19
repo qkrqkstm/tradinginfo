@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-20T07:24:45+09:00",
+ "updated_at": "2026-11-20T07:29:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-468834",
+   "company": "INTUIT INC.",
+   "ticker": "INTU",
+   "cik": 896878,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "15 Interpretation; Certain Definitions 99 EXHIBITS Exhibit A Form of Bills of Sale Exhibit B Form of Intellectual Property Assignment Agreement Exhibit C Form of Transition Services Agreement Exhibit D Form of Intellectual Property License Agreement Exhibit E Atlanta Sublease Term Sheet SCHEDULES Di",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/d182669dex201.htm",
+   "filed_at": "2026-11-19T17:26:43-05:00",
+   "filed_kst": "2026-11-20 07:26",
+   "price": 310.02,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 310.02,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-19",
+     "close": 310.02,
+     "change": -1.03
+    },
+    {
+     "date": "2026-11-18",
+     "close": 313.24,
+     "change": -2.35
+    }
+   ],
+   "market_cap": 81849930300.0,
+   "shares_outstanding": 264015000.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "MOUNTAIN VIEW, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T07:27:37+09:00"
+  },
   {
    "id": "0001213900-26-122304",
    "company": "Inflection Point Acquisition Corp. VI",
@@ -15640,57 +15690,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-16T22:06:14+09:00"
-  },
-  {
-   "id": "0001213900-26-120142",
-   "company": "NewGenIvf Group Ltd",
-   "ticker": "NIVF",
-   "cik": 1981662,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "ai The Company has completed the acquisition of 2% of the equity interest in PredicXion Group Limited, which operates K25.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1981662/000121390026120142/0001213900-26-120142-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1981662/000121390026120142/ea031239101ex99-1.htm",
-   "filed_at": "2026-11-16T08:00:09-05:00",
-   "filed_kst": "2026-11-16 22:00",
-   "price": 0.23,
-   "change": 0.09,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.23,
-     "change": 0.09
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.23,
-     "change": -16.61
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.28,
-     "change": -7.67
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Misc Health & Allied Services, NEC",
-   "state_of_incorporation": "Virgin Islands, British",
-   "hq": "BANGKOK, W1",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T22:06:12+09:00"
   }
  ]
 }
