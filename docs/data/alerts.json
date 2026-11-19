@@ -1,7 +1,65 @@
 {
- "updated_at": "2026-11-20T06:39:20+09:00",
+ "updated_at": "2026-11-20T06:45:00+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-130183",
+   "company": "ODNB Financial Corp",
+   "ticker": "NACB",
+   "cik": 1947463,
+   "form": "8-K",
+   "items": [
+    "5.02",
+    "5.05",
+    "5.07",
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 66,
+   "summary": "(“NACB”) entered into an Agreement and Plan of Merger and accompanying Plan of Merger (as may be amended from time to time, the “Merger Agreement”), dated as of June 15, 2026, pursuant to which, upon the terms and subject to the conditions set forth therein, NACB will merge with and i",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1947463/000110465926130183/0001104659-26-130183-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1947463/000110465926130183/tm2630111d1_ex99-1.htm",
+   "filed_at": "2026-11-19T16:39:13-05:00",
+   "filed_kst": "2026-11-20 06:39",
+   "price": 86.0,
+   "change": -0.12,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 86.0,
+     "change": -0.12
+    },
+    {
+     "date": "2026-11-18",
+     "close": 86.1,
+     "change": -0.06
+    },
+    {
+     "date": "2026-11-17",
+     "close": 86.15,
+     "change": -0.29
+    }
+   ],
+   "market_cap": 985737590.0,
+   "shares_outstanding": 11462065.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "TYSONS CORNER, VA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T06:40:45+09:00"
+  },
   {
    "id": "0001504008-26-000094",
    "company": "BankUnited, Inc.",
@@ -15626,60 +15684,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-16T22:05:51+09:00"
-  },
-  {
-   "id": "0001140361-26-043989",
-   "company": "GALECTIN THERAPEUTICS INC",
-   "ticker": "GALT",
-   "cik": 1133416,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Galectin’s lead drug belapectin is a carbohydrate-based drug that inhibits the galectin-3 protein, which is directly involved in multiple inflammatory, fibrotic, and malignant diseases, for which it has Fast Track designation by the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126043989/0001140361-26-043989-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126043989/ef20085500_ex99-1.htm",
-   "filed_at": "2026-11-16T07:55:31-05:00",
-   "filed_kst": "2026-11-16 21:55",
-   "price": 3.05,
-   "change": -2.87,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 3.05,
-     "change": -2.87
-    },
-    {
-     "date": "2026-11-12",
-     "close": 3.14,
-     "change": -4.56
-    },
-    {
-     "date": "2026-11-11",
-     "close": 3.29,
-     "change": -2.66
-    }
-   ],
-   "market_cap": 307669073.0,
-   "shares_outstanding": 100875106.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "NV",
-   "hq": "NORCROSS, GA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T21:56:43+09:00"
   }
  ]
 }
