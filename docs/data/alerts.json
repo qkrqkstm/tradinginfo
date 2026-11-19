@@ -1,7 +1,330 @@
 {
- "updated_at": "2026-11-20T06:29:33+09:00",
+ "updated_at": "2026-11-20T06:34:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001504008-26-000094",
+   "company": "BankUnited, Inc.",
+   "ticker": "BKU",
+   "cik": 1504008,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 67,
+   "summary": "approved an increase of $150 million in the amount authorized for repurchases of the Company’s common stock under its existing share repurchase program.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1504008/000150400826000094/0001504008-26-000094-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1504008/000150400826000094/bku-20261118.htm",
+   "filed_at": "2026-11-19T16:33:27-05:00",
+   "filed_kst": "2026-11-20 06:33",
+   "price": 41.64,
+   "change": -1.72,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 41.64,
+     "change": -1.72
+    },
+    {
+     "date": "2026-11-18",
+     "close": 42.37,
+     "change": -0.91
+    },
+    {
+     "date": "2026-11-17",
+     "close": 42.76,
+     "change": -1.95
+    }
+   ],
+   "market_cap": 2886935678.0,
+   "shares_outstanding": 69330828.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI LAKES, FL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T06:34:00+09:00"
+  },
+  {
+   "id": "0001104659-26-130181",
+   "company": "John Marshall Bancorp, Inc.",
+   "ticker": "JMSB",
+   "cik": 1710482,
+   "form": "425",
+   "items": [
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "​ John Marshall and EFSI announced the signing of a definitive merger agreement on September 8, 2026.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926130181/0001104659-26-130181-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926130181/jmsb-ex99d1.htm",
+   "filed_at": "2026-11-19T16:30:51-05:00",
+   "filed_kst": "2026-11-20 06:30",
+   "price": 22.29,
+   "change": -0.85,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 22.29,
+     "change": -0.85
+    },
+    {
+     "date": "2026-11-18",
+     "close": 22.48,
+     "change": -1.23
+    },
+    {
+     "date": "2026-11-17",
+     "close": 22.76,
+     "change": -0.96
+    }
+   ],
+   "market_cap": 314555009.0,
+   "shares_outstanding": 14111934.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "RESTON, VA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T06:33:21+09:00"
+  },
+  {
+   "id": "0001193125-26-468675",
+   "company": "EAGLE FINANCIAL SERVICES INC",
+   "ticker": "EFSI",
+   "cik": 880641,
+   "form": "425",
+   "items": [
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "a proposal (the “ EFSI Merger Proposal ”) to approve the Agreement and Plan of Merger, dated as of September 7, 2026 (as it may be amended from time to time, the “ Merger Agreement ”), by and among John Marshall Bancorp, Inc.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/880641/000119312526468675/0001193125-26-468675-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/880641/000119312526468675/d172187d425.htm",
+   "filed_at": "2026-11-19T16:31:40-05:00",
+   "filed_kst": "2026-11-20 06:31",
+   "price": 44.4,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 44.4,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-19",
+     "close": 44.4,
+     "change": -1.29
+    },
+    {
+     "date": "2026-11-18",
+     "close": 44.98,
+     "change": -0.99
+    }
+   ],
+   "market_cap": 240348833.0,
+   "shares_outstanding": 5413262.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "BERRYVILLE, VA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-20T06:33:19+09:00"
+  },
+  {
+   "id": "0001213900-26-122261",
+   "company": "Webull Corp",
+   "ticker": "BULL",
+   "cik": 1866364,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 68,
+   "summary": "● Share Repurchase Program – During the quarter, the Company did not repurchase any Class A ordinary shares.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1866364/000121390026122261/0001213900-26-122261-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866364/000121390026122261/ea031291401ex99-1.htm",
+   "filed_at": "2026-11-19T16:30:37-05:00",
+   "filed_kst": "2026-11-20 06:30",
+   "price": 4.57,
+   "change": -2.14,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 4.57,
+     "change": -2.14
+    },
+    {
+     "date": "2026-11-18",
+     "close": 4.67,
+     "change": -1.27
+    },
+    {
+     "date": "2026-11-17",
+     "close": 4.73,
+     "change": -3.47
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Security Brokers, Dealers & Flotation Companies",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "ST. PETERSBURG, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T06:33:16+09:00"
+  },
+  {
+   "id": "0001193125-26-468653",
+   "company": "EAGLE FINANCIAL SERVICES INC",
+   "ticker": "EFSI",
+   "cik": 880641,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "John Marshall and EFSI announced the signing of a definitive merger agreement on September 8, 2026.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/880641/000119312526468653/0001193125-26-468653-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/880641/000119312526468653/d172187dex991.htm",
+   "filed_at": "2026-11-19T16:30:01-05:00",
+   "filed_kst": "2026-11-20 06:30",
+   "price": 44.4,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 44.4,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-19",
+     "close": 44.4,
+     "change": -1.29
+    },
+    {
+     "date": "2026-11-18",
+     "close": 44.98,
+     "change": -0.99
+    }
+   ],
+   "market_cap": 240348833.0,
+   "shares_outstanding": 5413262.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "BERRYVILLE, VA",
+   "entity_category": [
+    "Accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-20T06:31:48+09:00"
+  },
+  {
+   "id": "0001104659-26-130177",
+   "company": "John Marshall Bancorp, Inc.",
+   "ticker": "JMSB",
+   "cik": 1710482,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "​ John Marshall and EFSI announced the signing of a definitive merger agreement on September 8, 2026.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926130177/0001104659-26-130177-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926130177/jmsb-ex99d1.htm",
+   "filed_at": "2026-11-19T16:30:09-05:00",
+   "filed_kst": "2026-11-20 06:30",
+   "price": 22.29,
+   "change": -0.85,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 22.29,
+     "change": -0.85
+    },
+    {
+     "date": "2026-11-18",
+     "close": 22.48,
+     "change": -1.23
+    },
+    {
+     "date": "2026-11-17",
+     "close": 22.76,
+     "change": -0.96
+    }
+   ],
+   "market_cap": 314555009.0,
+   "shares_outstanding": 14111934.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "VA",
+   "hq": "RESTON, VA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T06:31:02+09:00"
+  },
   {
    "id": "0001628280-26-075088",
    "company": "GAP INC",
@@ -15357,315 +15680,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-16T21:56:43+09:00"
-  },
-  {
-   "id": "0000351569-26-000167",
-   "company": "Ameris Bancorp",
-   "ticker": "ABCB",
-   "cik": 351569,
-   "form": "425",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "EX-99.2 3 ex992november16ip.htm EX-99.2 ex992november16ip Acquisition of Bank of Central Florida Holding Company (“BOCF”) November 16, 2026 EX-99.1 2 ex991november162026pressre.htm EX-99.1 Document News Release AMERIS BANCORP ENHANCES CENTRAL FLORIDA PRESENCE THROUGH AGREEMENT TO ACQUIRE BANK OF CEN",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/351569/000035156926000167/0000351569-26-000167-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/351569/000035156926000167/ex992november16ip.htm",
-   "filed_at": "2026-11-16T07:53:15-05:00",
-   "filed_kst": "2026-11-16 21:53",
-   "price": 82.85,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 82.85,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 82.85,
-     "change": 0.42
-    },
-    {
-     "date": "2026-11-12",
-     "close": 82.5,
-     "change": -0.55
-    }
-   ],
-   "market_cap": 5551910149.0,
-   "shares_outstanding": 67011589.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "GA",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T21:55:41+09:00"
-  },
-  {
-   "id": "0001104659-26-127658",
-   "company": "IX Acquisition Corp.",
-   "ticker": "IXAQF",
-   "cik": 1852019,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "5 TO MERGER AGREEMENT THIS AMENDMENT NO.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1852019/000110465926127658/0001104659-26-127658-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852019/000110465926127658/tm2629736d1_ex2-6.htm",
-   "filed_at": "2026-11-16T07:54:34-05:00",
-   "filed_kst": "2026-11-16 21:54",
-   "price": 12.99,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 12.99,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 12.99,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 12.99,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Communications Services, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "LONDON",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T21:55:39+09:00"
-  },
-  {
-   "id": "0000351569-26-000166",
-   "company": "Ameris Bancorp",
-   "ticker": "ABCB",
-   "cik": 351569,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "EX-99.2 3 ex992november16ip.htm EX-99.2 ex992november16ip Acquisition of Bank of Central Florida Holding Company (“BOCF”) November 16, 2026 EX-99.1 2 ex991november162026pressre.htm EX-99.1 Document News Release AMERIS BANCORP ENHANCES CENTRAL FLORIDA PRESENCE THROUGH AGREEMENT TO ACQUIRE BANK OF CEN",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/351569/000035156926000166/0000351569-26-000166-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/351569/000035156926000166/ex992november16ip.htm",
-   "filed_at": "2026-11-16T07:52:42-05:00",
-   "filed_kst": "2026-11-16 21:52",
-   "price": 82.85,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 82.85,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 82.85,
-     "change": 0.42
-    },
-    {
-     "date": "2026-11-12",
-     "close": 82.5,
-     "change": -0.55
-    }
-   ],
-   "market_cap": 5551910149.0,
-   "shares_outstanding": 67011589.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "GA",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T21:54:43+09:00"
-  },
-  {
-   "id": "0001104659-26-127656",
-   "company": "IX Acquisition Corp.",
-   "ticker": "IXAQF",
-   "cik": 1852019,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "5 TO MERGER AGREEMENT THIS AMENDMENT NO.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1852019/000110465926127656/0001104659-26-127656-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1852019/000110465926127656/tm2629736d1_8k.htm",
-   "filed_at": "2026-11-16T07:53:53-05:00",
-   "filed_kst": "2026-11-16 21:53",
-   "price": 12.99,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 12.99,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 12.99,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 12.99,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Communications Services, NEC",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "LONDON",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T21:54:41+09:00"
-  },
-  {
-   "id": "0001104659-26-127655",
-   "company": "Surgery Partners, Inc.",
-   "ticker": "SGRY",
-   "cik": 1638833,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously announced, on October 23, 2026, Surgery Partners entered into an Agreement and Plan of Merger (as amended by Amendment No.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926127655/0001104659-26-127655-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926127655/tm2629312d4_ex99-1.htm",
-   "filed_at": "2026-11-16T07:52:37-05:00",
-   "filed_kst": "2026-11-16 21:52",
-   "price": 26.95,
-   "change": 1.39,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 26.95,
-     "change": 1.39
-    },
-    {
-     "date": "2026-11-12",
-     "close": 26.58,
-     "change": -0.3
-    },
-    {
-     "date": "2026-11-11",
-     "close": 26.66,
-     "change": -0.26
-    }
-   ],
-   "market_cap": 3527248960.0,
-   "shares_outstanding": 130881223.0,
-   "industry": "Services-General Medical & Surgical Hospitals, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "BRENTWOOD, TN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T21:53:54+09:00"
-  },
-  {
-   "id": "0000950103-26-017525",
-   "company": "MILLICOM INTERNATIONAL CELLULAR SA",
-   "ticker": "TIGO",
-   "cik": 912958,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "As of September 30, 2026, Millicom, including its Honduras Joint Venture and Chile associate, employed approximately 19,000 people and provided mobile and fiber-cable services through its digital highways to more than 65 million customers, with a fiber-cable footprint over 28 million homes passed.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/912958/000095010326017525/0000950103-26-017525-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/912958/000095010326017525/dp256915_6k.htm",
-   "filed_at": "2026-11-16T07:52:41-05:00",
-   "filed_kst": "2026-11-16 21:52",
-   "price": 79.33,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 79.33,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 79.33,
-     "change": -1.86
-    },
-    {
-     "date": "2026-11-12",
-     "close": 80.83,
-     "change": -9.62
-    }
-   ],
-   "market_cap": 13406770000.0,
-   "shares_outstanding": 169000000.0,
-   "industry": "Radiotelephone Communications",
-   "state_of_incorporation": null,
-   "hq": "LUXEMBOURG, N4",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T21:53:04+09:00"
   }
  ]
 }
