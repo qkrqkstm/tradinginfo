@@ -1,7 +1,273 @@
 {
- "updated_at": "2026-11-19T21:20:23+09:00",
+ "updated_at": "2026-11-19T21:29:49+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-467737",
+   "company": "COHERENT CORP.",
+   "ticker": "COHR",
+   "cik": 820318,
+   "form": "8-K",
+   "items": [
+    "7.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Share Repurchase Program On November 18, 2026, the Board of Directors of Coherent Corp.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526467737/0001193125-26-467737-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526467737/d867801d8k.htm",
+   "filed_at": "2026-11-19T06:30:06-05:00",
+   "filed_kst": "2026-11-19 20:30",
+   "price": 212.84,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 212.84,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-18",
+     "close": 212.84,
+     "change": 0.94
+    },
+    {
+     "date": "2026-11-17",
+     "close": 210.86,
+     "change": 3.65
+    }
+   ],
+   "market_cap": 41920683110.0,
+   "shares_outstanding": 196958669.0,
+   "industry": "Optical Instruments & Lenses",
+   "state_of_incorporation": "PA",
+   "hq": "SAXONBURG, PA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T21:29:17+09:00"
+  },
+  {
+   "id": "0001140361-26-044808",
+   "company": "Vivid Seats Inc.",
+   "ticker": "SEAT",
+   "cik": 1856031,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 3 ef20085996_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 FOR IMMEDIATE RELEASE Vivid Seats Enters Into Transaction Support Agreement for Comprehensive Recapitalization Transaction Reduces Net Debt by $232 Million, Provides $66 Million of New First Lien, First Out Term Loans 1 , and Extends Term Loa",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1856031/000114036126044808/0001140361-26-044808-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1856031/000114036126044808/ef20085996_ex99-1.htm",
+   "filed_at": "2026-11-19T06:50:32-05:00",
+   "filed_kst": "2026-11-19 20:50",
+   "price": 1.28,
+   "change": 2.4,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 1.28,
+     "change": 2.4
+    },
+    {
+     "date": "2026-11-17",
+     "close": 1.25,
+     "change": -8.09
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1.36,
+     "change": -2.16
+    }
+   ],
+   "market_cap": 14666849.0,
+   "shares_outstanding": 11458476.0,
+   "industry": "Services-Miscellaneous Amusement & Recreation",
+   "state_of_incorporation": "DE",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T21:29:14+09:00"
+  },
+  {
+   "id": "0001193125-26-467780",
+   "company": "Pyxis Oncology, Inc.",
+   "ticker": "PYXS",
+   "cik": 1782223,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "MICVO received Fast Track Designation from the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1782223/000119312526467780/0001193125-26-467780-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782223/000119312526467780/pyxs-ex99_1.htm",
+   "filed_at": "2026-11-19T07:01:48-05:00",
+   "filed_kst": "2026-11-19 21:01",
+   "price": 1.41,
+   "change": -2.08,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 1.41,
+     "change": -2.08
+    },
+    {
+     "date": "2026-11-17",
+     "close": 1.44,
+     "change": 2.13
+    },
+    {
+     "date": "2026-11-16",
+     "close": 1.41,
+     "change": -10.76
+    }
+   ],
+   "market_cap": 168647076.0,
+   "shares_outstanding": 119607855.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BOSTON, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-19T21:29:09+09:00"
+  },
+  {
+   "id": "0000701985-26-000031",
+   "company": "Bath & Body Works, Inc.",
+   "ticker": "BBWI",
+   "cik": 701985,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 79,
+   "summary": "26 • Executing Consumer First Formula with continued progress in digital, customer engagement and expanded distribution • Announces new $500 million share repurchase program • Raises full-year 2026 net sales guidance to a decline of 3.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/701985/000070198526000031/0000701985-26-000031-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/701985/000070198526000031/ex991bbwi-20263qearningsre.htm",
+   "filed_at": "2026-11-19T07:12:06-05:00",
+   "filed_kst": "2026-11-19 21:12",
+   "price": 18.66,
+   "change": 1.41,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 18.66,
+     "change": 1.41
+    },
+    {
+     "date": "2026-11-17",
+     "close": 18.4,
+     "change": -4.51
+    },
+    {
+     "date": "2026-11-16",
+     "close": 19.27,
+     "change": -9.91
+    }
+   ],
+   "market_cap": 3762701541.0,
+   "shares_outstanding": 201645313.0,
+   "industry": "Retail-Retail Stores, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "COLUMBUS, OH",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-19T21:29:07+09:00"
+  },
+  {
+   "id": "0001140361-26-044811",
+   "company": "Passage BIO, Inc.",
+   "ticker": "PASG",
+   "cik": 1787297,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "Food and Drug Administration granted REM-422 Orphan Drug Designation for ACC and AML and Fast Track designation for ACC.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1787297/000114036126044811/0001140361-26-044811-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787297/000114036126044811/ef20085895_ex99-1.htm",
+   "filed_at": "2026-11-19T07:15:58-05:00",
+   "filed_kst": "2026-11-19 21:15",
+   "price": 4.13,
+   "change": -2.01,
+   "price_history": [
+    {
+     "date": "2026-11-18",
+     "close": 4.14,
+     "change": -2.01
+    },
+    {
+     "date": "2026-11-17",
+     "close": 4.22,
+     "change": 2.18
+    },
+    {
+     "date": "2026-11-16",
+     "close": 4.13,
+     "change": -2.82
+    }
+   ],
+   "market_cap": 13289555.0,
+   "shares_outstanding": 3217810.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "PHILADELPHIA, PA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-19T21:29:04+09:00"
+  },
   {
    "id": "0001648257-26-000080",
    "company": "HUTCHMED (China) Ltd",
@@ -15425,260 +15691,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-16T20:14:04+09:00"
-  },
-  {
-   "id": "0001554855-26-002368",
-   "company": "Cosan S.A.",
-   "ticker": "CSANY",
-   "cik": 1430162,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "1 17,047,356 16,573,858 1,799,115 1,721,308 Investment in joint ventures 11,937 11,509 58,824 60,356 Property, plant and equipment 7.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1430162/000155485526002368/0001554855-26-002368-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1430162/000155485526002368/0001554855-26-002368-index-headers.html",
-   "filed_at": "2026-11-13T19:50:50-05:00",
-   "filed_kst": "2026-11-14 09:50",
-   "price": 2.16,
-   "change": 3.85,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 2.16,
-     "change": 3.85
-    },
-    {
-     "date": "2026-11-12",
-     "close": 2.08,
-     "change": -3.26
-    },
-    {
-     "date": "2026-11-11",
-     "close": 2.15,
-     "change": 13.16
-    }
-   ],
-   "market_cap": 8567793213.0,
-   "shares_outstanding": 3966570932.0,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "Brazil",
-   "hq": "SAO PAULO, SP, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T20:12:12+09:00"
-  },
-  {
-   "id": "0001554855-26-002373",
-   "company": "Cosan S.A.",
-   "ticker": "CSANY",
-   "cik": 1430162,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Cosan Corporate Results The results of Cosan Corporate, presented under an accounting basis, unless otherwise indicated, comprise: (i) equity pickup from direct and indirect ownership interests in subsidiaries and joint ventures – see the chart on page 17; (ii) general and administrative expenses of",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1430162/000155485526002373/0001554855-26-002373-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1430162/000155485526002373/MainDocument.htm",
-   "filed_at": "2026-11-13T20:53:41-05:00",
-   "filed_kst": "2026-11-14 10:53",
-   "price": 2.16,
-   "change": 3.85,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 2.16,
-     "change": 3.85
-    },
-    {
-     "date": "2026-11-12",
-     "close": 2.08,
-     "change": -3.26
-    },
-    {
-     "date": "2026-11-11",
-     "close": 2.15,
-     "change": 13.16
-    }
-   ],
-   "market_cap": 8567793213.0,
-   "shares_outstanding": 3966570932.0,
-   "industry": "Retail-Auto Dealers & Gasoline Stations",
-   "state_of_incorporation": "Brazil",
-   "hq": "SAO PAULO, SP, D5",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T20:12:08+09:00"
-  },
-  {
-   "id": "0001493152-26-051881",
-   "company": "Nakamoto Inc.",
-   "ticker": "NAKA",
-   "cik": 1946573,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "- 12 - (B) The Company will not, directly or indirectly, use the Net Proceeds, or lend, contribute or otherwise make available such Net Proceeds to any Subsidiary, joint venture partner or other Person: (i) to fund or facilitate any activities or business of or with any Person that, at the time of s",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1946573/000149315226051881/0001493152-26-051881-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1946573/000149315226051881/ex1-1.htm",
-   "filed_at": "2026-11-13T18:46:43-05:00",
-   "filed_kst": "2026-11-14 08:46",
-   "price": 5.0,
-   "change": -13.64,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 5.0,
-     "change": -13.64
-    },
-    {
-     "date": "2026-11-12",
-     "close": 5.79,
-     "change": -7.36
-    },
-    {
-     "date": "2026-11-11",
-     "close": 6.25,
-     "change": 6.47
-    }
-   ],
-   "market_cap": 91732365.0,
-   "shares_outstanding": 18346473.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "NASHVILLE, TN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T20:06:51+09:00"
-  },
-  {
-   "id": "0001628280-26-073948",
-   "company": "Better Home & Finance Holding Co",
-   "ticker": "BETR",
-   "cik": 1835856,
-   "form": "8-K/A",
-   "items": [
-    "8.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "The Program is part of the Companies approved $30 million stock buyback program and will begin with an initial aggregate net cash expenditure limit of $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026073948/0001628280-26-073948-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026073948/betr-20261111.htm",
-   "filed_at": "2026-11-13T17:49:18-05:00",
-   "filed_kst": "2026-11-14 07:49",
-   "price": 15.44,
-   "change": -1.53,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 15.44,
-     "change": -1.53
-    },
-    {
-     "date": "2026-11-12",
-     "close": 15.68,
-     "change": 1.85
-    },
-    {
-     "date": "2026-11-11",
-     "close": 15.4,
-     "change": -16.83
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Loan Brokers",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T20:04:10+09:00"
-  },
-  {
-   "id": "0001571049-14-004557",
-   "company": "Intercontinental Exchange, Inc.",
-   "ticker": "ICE",
-   "cik": 1571949,
-   "form": "8-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 57,
-   "summary": "Terms of the all-cash transaction include a purchase price of approximately $350 million.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157104914004557/0001571049-14-004557-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157104914004557/ex99-1.htm",
-   "filed_at": "2014-09-11T17:00:56-04:00",
-   "filed_kst": "2014-09-12 06:00",
-   "price": 178.51,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 178.51,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 178.51,
-     "change": 0.37
-    },
-    {
-     "date": "2026-11-12",
-     "close": 177.86,
-     "change": -1.51
-    }
-   ],
-   "market_cap": 99761815126.0,
-   "shares_outstanding": 558858412.0,
-   "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
-   "state_of_incorporation": "DE",
-   "hq": "ATLANTA, GA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T17:30:20+09:00"
   }
  ]
 }
