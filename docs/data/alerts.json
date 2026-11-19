@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-20T06:49:42+09:00",
+ "updated_at": "2026-11-20T06:54:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-122280",
+   "company": "JBS N.V.",
+   "ticker": "JBS",
+   "cik": 1791942,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "1 JBS Completes Transaction for Multiprotein Hub in the Middle East Joint Venture with Oman Food Capital will operate facilities to produce beef, poultry, and lamb locally, creating an export hub Amstelveen, Netherlands, November 19, 2026 — JBS N.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1791942/000121390026122280/0001213900-26-122280-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1791942/000121390026122280/ea031297601ex99-1.htm",
+   "filed_at": "2026-11-19T16:50:27-05:00",
+   "filed_kst": "2026-11-20 06:50",
+   "price": 11.86,
+   "change": -1.33,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 11.86,
+     "change": -1.33
+    },
+    {
+     "date": "2026-11-18",
+     "close": 12.02,
+     "change": -0.66
+    },
+    {
+     "date": "2026-11-17",
+     "close": 12.1,
+     "change": -1.47
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Meat Packing Plants",
+   "state_of_incorporation": "Netherlands",
+   "hq": "AMSTELVEEN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T06:51:25+09:00"
+  },
   {
    "id": "0001104659-26-130183",
    "company": "ODNB Financial Corp",
@@ -15629,61 +15683,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-16T22:05:54+09:00"
-  },
-  {
-   "id": "0001193125-26-462171",
-   "company": "Apnimed, Inc.",
-   "ticker": "APMD",
-   "cik": 1745648,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "launch of Oxnimbi, subject to FDA approval.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1745648/000119312526462171/0001193125-26-462171-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1745648/000119312526462171/apmd-ex99_1.htm",
-   "filed_at": "2026-11-16T08:04:30-05:00",
-   "filed_kst": "2026-11-16 22:04",
-   "price": 16.92,
-   "change": 1.74,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 16.92,
-     "change": 1.74
-    },
-    {
-     "date": "2026-11-12",
-     "close": 16.63,
-     "change": -0.89
-    },
-    {
-     "date": "2026-11-11",
-     "close": 16.78,
-     "change": 5.8
-    }
-   ],
-   "market_cap": 704392781.0,
-   "shares_outstanding": 41630779.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T22:05:51+09:00"
   }
  ]
 }
