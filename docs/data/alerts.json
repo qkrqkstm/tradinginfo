@@ -1,7 +1,45 @@
 {
- "updated_at": "2026-11-20T22:44:23+09:00",
+ "updated_at": "2026-11-20T22:49:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-122427",
+   "company": "Crown PropTech Acquisitions",
+   "ticker": "CPTKW",
+   "cik": 1827899,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Explanatory Note As previously announced, on July 2, 2025, Crown PropTech Acquisitions, an exempted company limited by shares incorporated under the laws of the Cayman Islands (“ SPAC ”), entered into a business combination agreement (the “ Original Business Combination Agreement ”) with Mkango Rare",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026122427/0001213900-26-122427-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026122427/ea0313076-8k425_crown.htm",
+   "filed_at": "2026-11-20T08:44:44-05:00",
+   "filed_kst": "2026-11-20 22:44",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Wholesale-Hardware",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T22:45:32+09:00"
+  },
   {
    "id": "0001213900-26-122424",
    "company": "SAGTEC GLOBAL Ltd",
@@ -15616,59 +15654,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-16T23:11:24+09:00"
-  },
-  {
-   "id": "0001193125-26-462318",
-   "company": "ONTO INNOVATION INC.",
-   "ticker": "ONTO",
-   "cik": 704532,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 71,
-   "summary": "1 Onto Innovation Announces $400 Million Share Repurchase Program Wilmington, Mass .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/704532/000119312526462318/0001193125-26-462318-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/704532/000119312526462318/onto-ex99_1.htm",
-   "filed_at": "2026-11-16T09:06:51-05:00",
-   "filed_kst": "2026-11-16 23:06",
-   "price": 203.62,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 203.62,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 203.62,
-     "change": -2.89
-    },
-    {
-     "date": "2026-11-12",
-     "close": 209.67,
-     "change": -2.51
-    }
-   ],
-   "market_cap": 9994550664.0,
-   "shares_outstanding": 49084327.0,
-   "industry": "Measuring & Controlling Devices, NEC",
-   "state_of_incorporation": "DE",
-   "hq": "WILMINGTON, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T23:08:36+09:00"
   }
  ]
 }
