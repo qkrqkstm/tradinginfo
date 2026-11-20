@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-21T06:24:22+09:00",
+ "updated_at": "2026-11-21T06:29:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-130629",
+   "company": "NextCure, Inc.",
+   "ticker": "NXTC",
+   "cik": 1661059,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", a Delaware corporation (the “Company”), entered into an Agreement and Plan of Merger and Reorganization (the “Merger Agreement”) by and among the Company, Avere Therapeutics, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926130629/0001104659-26-130629-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926130629/tm2630341d1_8k.htm",
+   "filed_at": "2026-11-20T16:26:34-05:00",
+   "filed_kst": "2026-11-21 06:26",
+   "price": 6.45,
+   "change": -4.87,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 6.45,
+     "change": -4.87
+    },
+    {
+     "date": "2026-11-19",
+     "close": 6.78,
+     "change": -1.53
+    },
+    {
+     "date": "2026-11-18",
+     "close": 6.89,
+     "change": 2.76
+    }
+   ],
+   "market_cap": 29534698.0,
+   "shares_outstanding": 4579023.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "BALTIMORE, MD",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-21T06:27:38+09:00"
+  },
   {
    "id": "0001104659-26-130620",
    "company": "NextCure, Inc.",
@@ -15533,59 +15587,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T06:28:43+09:00"
-  },
-  {
-   "id": "0001087294-26-000086",
-   "company": "CUMBERLAND PHARMACEUTICALS INC",
-   "ticker": "CPIX",
-   "cik": 1087294,
-   "form": "8-K/A",
-   "items": [
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 64,
-   "summary": "Securities and Exchange Commission on October 23, 2026 (the “Original Report”), which reported the top-line results from the Company’s Phase 2a ASSIST-SSc trial evaluating oral ifetroban for patients with systemic sclerosis.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1087294/000108729426000086/0001087294-26-000086-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1087294/000108729426000086/cpix-20261023.htm",
-   "filed_at": "2026-11-16T16:15:04-05:00",
-   "filed_kst": "2026-11-17 06:15",
-   "price": 5.21,
-   "change": -11.39,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 5.21,
-     "change": -11.39
-    },
-    {
-     "date": "2026-11-13",
-     "close": 5.88,
-     "change": -11.31
-    },
-    {
-     "date": "2026-11-12",
-     "close": 6.63,
-     "change": 8.33
-    }
-   ],
-   "market_cap": 78126800.0,
-   "shares_outstanding": 14995547.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "TN",
-   "hq": "NASHVILLE,, TN",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T06:28:40+09:00"
   }
  ]
 }
