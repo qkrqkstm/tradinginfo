@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-21T07:24:35+09:00",
+ "updated_at": "2026-11-21T07:29:49+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-122796",
+   "company": "WEN Acquisition Corp",
+   "ticker": "WENN",
+   "cik": 2057043,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "대형계약"
+   ],
+   "confidence": 69,
+   "summary": "ONE founder and CEO Mujeeb Ijaz told Crain’s that the company needs public capital to meet its growing demand: It has more than $200 million in binding contracts that exceed its current capacity.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2057043/000121390026122796/0001213900-26-122796-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2057043/000121390026122796/ea0313170-425_ournext.htm",
+   "filed_at": "2026-11-20T17:27:14-05:00",
+   "filed_kst": "2026-11-21 07:27",
+   "price": 10.48,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 10.48,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-19",
+     "close": 10.48,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-18",
+     "close": 10.48,
+     "change": 0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "OAKLAND, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-21T07:27:57+09:00"
+  },
   {
    "id": "0001493152-26-053525",
    "company": "Abits Group Inc",
@@ -15521,61 +15572,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T06:28:56+09:00"
-  },
-  {
-   "id": "0001437749-26-037166",
-   "company": "OMEROS CORP",
-   "ticker": "OMER",
-   "cik": 1285819,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "파트너십",
-    "임상통과"
-   ],
-   "confidence": 71,
-   "summary": "OMS1029, Omeros’ long-acting MASP-2 inhibitor, has successfully completed Phase 1 clinical trials.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1285819/000143774926037166/0001437749-26-037166-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1285819/000143774926037166/ex_1011405.htm",
-   "filed_at": "2026-11-16T16:10:03-05:00",
-   "filed_kst": "2026-11-17 06:10",
-   "price": 16.68,
-   "change": -4.63,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 16.68,
-     "change": -4.63
-    },
-    {
-     "date": "2026-11-13",
-     "close": 17.49,
-     "change": -2.78
-    },
-    {
-     "date": "2026-11-12",
-     "close": 17.99,
-     "change": -0.88
-    }
-   ],
-   "market_cap": 1242052364.0,
-   "shares_outstanding": 74463571.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "WA",
-   "hq": "SEATTLE, WA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T06:28:55+09:00"
   }
  ]
 }
