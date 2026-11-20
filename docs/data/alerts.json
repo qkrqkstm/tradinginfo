@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-20T21:49:37+09:00",
+ "updated_at": "2026-11-20T21:54:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001048268-26-000176",
+   "company": "IES Holdings, Inc.",
+   "ticker": "IESC",
+   "cik": 1048268,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "5.02"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 71,
+   "summary": "1 IES Holdings Reports Fiscal 2026 Fourth Quarter and Full Year Results; Board Authorizes Additional $350 Million for Share Repurchase Program HOUSTON — November 20, 2026 — IES Holdings, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/0001048268-26-000176-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/q42026pressrelease-septemb.htm",
+   "filed_at": "2026-11-20T07:49:37-05:00",
+   "filed_kst": "2026-11-20 21:49",
+   "price": 166.9,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 166.9,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-19",
+     "close": 166.9,
+     "change": 0.51
+    },
+    {
+     "date": "2026-11-18",
+     "close": 166.05,
+     "change": -1.36
+    }
+   ],
+   "market_cap": 6661301284.0,
+   "shares_outstanding": 39911931.0,
+   "industry": "Electrical Work",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T21:50:38+09:00"
+  },
   {
    "id": "0001031296-26-000148",
    "company": "FIRSTENERGY CORP",
@@ -15614,61 +15668,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-16T22:45:18+09:00"
-  },
-  {
-   "id": "0001104659-26-127698",
-   "company": "John Marshall Bancorp, Inc.",
-   "ticker": "JMSB",
-   "cik": 1710482,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "​ John Marshall and EFSI announced the signing of a definitive merger agreement on September 8, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926127698/0001104659-26-127698-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1710482/000110465926127698/jmsb-ex99d1.htm",
-   "filed_at": "2026-11-16T08:40:25-05:00",
-   "filed_kst": "2026-11-16 22:40",
-   "price": 23.18,
-   "change": 0.48,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 23.18,
-     "change": 0.48
-    },
-    {
-     "date": "2026-11-12",
-     "close": 23.07,
-     "change": -0.26
-    },
-    {
-     "date": "2026-11-11",
-     "close": 23.13,
-     "change": 0.39
-    }
-   ],
-   "market_cap": 327114630.0,
-   "shares_outstanding": 14111934.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "VA",
-   "hq": "RESTON, VA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T22:45:16+09:00"
   }
  ]
 }
