@@ -1,7 +1,285 @@
 {
- "updated_at": "2026-11-21T06:04:32+09:00",
+ "updated_at": "2026-11-21T06:09:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-122698",
+   "company": "XTL BIOPHARMACEUTICALS LTD",
+   "ticker": "XTLB",
+   "cik": 1023549,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "On June 30, 2026, the Company completed the acquisition of a controlling interest in Psyga Bio Ltd.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1023549/000121390026122698/0001213900-26-122698-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1023549/000121390026122698/ea031311001ex99-1.htm",
+   "filed_at": "2026-11-20T16:06:08-05:00",
+   "filed_kst": "2026-11-21 06:06",
+   "price": 1.33,
+   "change": -10.14,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 1.33,
+     "change": -10.14
+    },
+    {
+     "date": "2026-11-19",
+     "close": 1.48,
+     "change": -3.9
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1.54,
+     "change": -4.94
+    }
+   ],
+   "market_cap": 1258503663.0,
+   "shares_outstanding": 946243356.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-21T06:07:22+09:00"
+  },
+  {
+   "id": "0001174947-26-001012",
+   "company": "NI Holdings, Inc.",
+   "ticker": "NODK",
+   "cik": 1681206,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "The Board’s previous repurchase authorization announced on August 25, 2025, has been fully utilized as of November 20, 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1681206/000117494726001012/0001174947-26-001012-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681206/000117494726001012/ex99-1.htm",
+   "filed_at": "2026-11-20T16:05:49-05:00",
+   "filed_kst": "2026-11-21 06:05",
+   "price": 14.83,
+   "change": 0.61,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 14.83,
+     "change": 0.61
+    },
+    {
+     "date": "2026-11-19",
+     "close": 14.74,
+     "change": -1.07
+    },
+    {
+     "date": "2026-11-18",
+     "close": 14.9,
+     "change": 0.88
+    }
+   ],
+   "market_cap": 301187987.0,
+   "shares_outstanding": 20309372.0,
+   "industry": "Fire, Marine & Casualty Insurance",
+   "state_of_incorporation": null,
+   "hq": "FARGO, ND",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-21T06:07:10+09:00"
+  },
+  {
+   "id": "0001213900-26-122690",
+   "company": "Crown PropTech Acquisitions",
+   "ticker": "CPTKW",
+   "cik": 1827899,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "MKAR has signed a Business Combination Agreement with CPTK, pursuant to which MKAR, which will hold the Songwe Hill and Pulawy projects, is expected to become listed on Nasdaq, subject to the satisfaction or waiver of closing conditions.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026122690/0001213900-26-122690-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026122690/ea0313102-425_mkango.htm",
+   "filed_at": "2026-11-20T16:05:06-05:00",
+   "filed_kst": "2026-11-21 06:05",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Wholesale-Hardware",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-21T06:06:32+09:00"
+  },
+  {
+   "id": "0001213900-26-122690",
+   "company": "Mkango Rare Earths Ltd",
+   "ticker": "MKAR",
+   "cik": 2052373,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "MKAR has signed a Business Combination Agreement with CPTK, pursuant to which MKAR, which will hold the Songwe Hill and Pulawy projects, is expected to become listed on Nasdaq, subject to the satisfaction or waiver of closing conditions.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2052373/000121390026122690/0001213900-26-122690-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2052373/000121390026122690/ea0313102-425_mkango.htm",
+   "filed_at": "2026-11-20T16:05:06-05:00",
+   "filed_kst": "2026-11-21 06:05",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "ROAD TOWN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-21T06:06:30+09:00"
+  },
+  {
+   "id": "0001493152-26-053481",
+   "company": "ZOOZ Strategy Ltd.",
+   "ticker": "ZOOZ",
+   "cik": 1992818,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "1 ZOOZ Strategy Announces Extension of its Existing Share Repurchase Program for an Additional 12-Month Period TEL AVIV, Israel, November 20, 2026 - ZOOZ Strategy Ltd.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1992818/000149315226053481/0001493152-26-053481-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1992818/000149315226053481/ex99-1.htm",
+   "filed_at": "2026-11-20T16:05:03-05:00",
+   "filed_kst": "2026-11-21 06:05",
+   "price": 4.16,
+   "change": -11.49,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 4.16,
+     "change": -11.49
+    },
+    {
+     "date": "2026-11-19",
+     "close": 4.7,
+     "change": -0.21
+    },
+    {
+     "date": "2026-11-18",
+     "close": 4.71,
+     "change": -10.29
+    }
+   ],
+   "market_cap": 673900373.0,
+   "shares_outstanding": 161995282.0,
+   "industry": "Misc Industrial & Commercial Machinery & Equipment",
+   "state_of_incorporation": "Israel",
+   "hq": "LOD",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-21T06:06:28+09:00"
+  },
+  {
+   "id": "0001193125-26-470247",
+   "company": "PMV Pharmaceuticals, Inc.",
+   "ticker": "PMVP",
+   "cik": 1699382,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "Food and Drug Administration granted Fast Track designation to rezatapopt for the treatment of patients with locally advanced or metastatic solid tumors with a p53 Y220C mutation and Orphan Drug Designation for the treatment of TP53 Y220C positive ovarian cancer, fallopian tube cancer, and prima",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1699382/000119312526470247/0001193125-26-470247-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1699382/000119312526470247/d169492dex991.htm",
+   "filed_at": "2026-11-20T16:05:13-05:00",
+   "filed_kst": "2026-11-21 06:05",
+   "price": 0.88,
+   "change": -33.13,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 0.88,
+     "change": -33.13
+    },
+    {
+     "date": "2026-11-19",
+     "close": 1.31,
+     "change": 7.38
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1.22,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 66470573.0,
+   "shares_outstanding": 75534742.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "PRINCETON, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-21T06:06:20+09:00"
+  },
   {
    "id": "0001193125-26-470211",
    "company": "RANGE RESOURCES CORP",
@@ -15318,313 +15596,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T06:27:28+09:00"
-  },
-  {
-   "id": "0001193125-26-463421",
-   "company": "TRUSTMARK CORP",
-   "ticker": "TRMK",
-   "cik": 36146,
-   "form": "425",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "On November 11, 2026, Hancock Whitney Corporation, a Mississippi corporation (“Hancock Whitney”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Trustmark Corporation, a Mississippi corporation (“Trustmark”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/36146/000119312526463421/0001193125-26-463421-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/36146/000119312526463421/d38169d425.htm",
-   "filed_at": "2026-11-16T16:03:05-05:00",
-   "filed_kst": "2026-11-17 06:03",
-   "price": 47.63,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 47.63,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 47.63,
-     "change": -0.52
-    },
-    {
-     "date": "2026-11-13",
-     "close": 47.88,
-     "change": 0.08
-    }
-   ],
-   "market_cap": 2749920050.0,
-   "shares_outstanding": 57735042.0,
-   "industry": "National Commercial Banks",
-   "state_of_incorporation": "MS",
-   "hq": "JACKSON, MS",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:22:40+09:00"
-  },
-  {
-   "id": "0001193125-26-463421",
-   "company": "HANCOCK WHITNEY CORP",
-   "ticker": "HWC",
-   "cik": 750577,
-   "form": "425",
-   "items": [
-    "1.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "On November 11, 2026, Hancock Whitney Corporation, a Mississippi corporation (“Hancock Whitney”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Trustmark Corporation, a Mississippi corporation (“Trustmark”).",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/750577/000119312526463421/0001193125-26-463421-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/750577/000119312526463421/d38169d425.htm",
-   "filed_at": "2026-11-16T16:03:05-05:00",
-   "filed_kst": "2026-11-17 06:03",
-   "price": 64.69,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 64.69,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 64.69,
-     "change": -0.9
-    },
-    {
-     "date": "2026-11-13",
-     "close": 65.28,
-     "change": 0.43
-    }
-   ],
-   "market_cap": 5143080315.0,
-   "shares_outstanding": 79503483.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "MS",
-   "hq": "GULFPORT, MS",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:22:37+09:00"
-  },
-  {
-   "id": "0001193125-26-463441",
-   "company": "Personalis, Inc.",
-   "ticker": "PSNL",
-   "cik": 1527753,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Your Board of Directors unanimously recommends that you vote “FOR” the Merger Agreement proposal and related proposals, as described in the proxy materials previously sent to you.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526463441/0001193125-26-463441-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526463441/d171473d425.htm",
-   "filed_at": "2026-11-16T16:05:02-05:00",
-   "filed_kst": "2026-11-17 06:05",
-   "price": 14.8,
-   "change": -5.79,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 14.8,
-     "change": -5.79
-    },
-    {
-     "date": "2026-11-13",
-     "close": 15.71,
-     "change": -0.95
-    },
-    {
-     "date": "2026-11-12",
-     "close": 15.86,
-     "change": -0.63
-    }
-   ],
-   "market_cap": 1604376447.0,
-   "shares_outstanding": 108403814.0,
-   "industry": "Services-Medical Laboratories",
-   "state_of_incorporation": "DE",
-   "hq": "FREMONT, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T06:22:35+09:00"
-  },
-  {
-   "id": "0001654954-26-009830",
-   "company": "HSBC HOLDINGS PLC",
-   "ticker": "HSBC",
-   "cik": 1089113,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above (i) which were awaiting cancellation having been repurchased previously on the Hong Kong Stock Exchange and (ii) which were repurchased today on the UK ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009830/0001654954-26-009830-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009830/a3860d.htm",
-   "filed_at": "2026-11-16T13:27:51-05:00",
-   "filed_kst": "2026-11-17 03:27",
-   "price": 88.31,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 88.31,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 88.31,
-     "change": -1.46
-    },
-    {
-     "date": "2026-11-13",
-     "close": 89.62,
-     "change": 0.61
-    }
-   ],
-   "market_cap": 1516745432213.0,
-   "shares_outstanding": 17175239862.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T04:01:26+09:00"
-  },
-  {
-   "id": "0001628280-26-074078",
-   "company": "ERICSSON LM TELEPHONE CO",
-   "ticker": "ERIC",
-   "cik": 717826,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "00 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026 and which runs between April 23, 2026 and March 31, 2027, at the latest.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026074078/0001628280-26-074078-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026074078/sharebuybacksinericssondur.htm",
-   "filed_at": "2026-11-16T13:41:00-05:00",
-   "filed_kst": "2026-11-17 03:41",
-   "price": 10.58,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 10.58,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 10.58,
-     "change": 0.18
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.56,
-     "change": -0.47
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Radio & Tv Broadcasting & Communications Equipment",
-   "state_of_incorporation": "Sweden",
-   "hq": "STOCKHOLM SWEDEN, V7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T04:01:24+09:00"
-  },
-  {
-   "id": "0001648416-26-000145",
-   "company": "Ferrari N.V.",
-   "ticker": "RACE",
-   "cik": 1648416,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": ": PERIODIC REPORT ON THE BUYBACK PROGRAM Maranello (Italy), November 16, 2026 – Ferrari N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000145/0001648416-26-000145-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1648416/000164841626000145/fnvbb161126prex.htm",
-   "filed_at": "2026-11-16T12:47:44-05:00",
-   "filed_kst": "2026-11-17 02:47",
-   "price": 404.74,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 404.74,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 404.74,
-     "change": -1.55
-    },
-    {
-     "date": "2026-11-13",
-     "close": 411.13,
-     "change": 1.39
-    }
-   ],
-   "market_cap": 74774860999.0,
-   "shares_outstanding": 184747890.0,
-   "industry": "Motor Vehicles & Passenger Car Bodies",
-   "state_of_incorporation": "Netherlands",
-   "hq": "MARANELLO, L6",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T02:50:22+09:00"
   }
  ]
 }
