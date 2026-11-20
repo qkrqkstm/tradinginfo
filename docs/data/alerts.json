@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-20T20:59:06+09:00",
+ "updated_at": "2026-11-20T21:04:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001531152-26-000083",
+   "company": "BJ's Wholesale Club Holdings, Inc.",
+   "ticker": "BJ",
+   "cik": 1531152,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "가이던스상향"
+   ],
+   "confidence": 63,
+   "summary": "• Under its existing share repurchase program, the Company repurchased 376,942 shares of common stock, totaling $35.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/0001531152-26-000083-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/bj-2026103126x8kex991.htm",
+   "filed_at": "2026-11-20T07:01:48-05:00",
+   "filed_kst": "2026-11-20 21:01",
+   "price": 110.75,
+   "change": -0.12,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 110.75,
+     "change": -0.12
+    },
+    {
+     "date": "2026-11-18",
+     "close": 110.88,
+     "change": -0.49
+    },
+    {
+     "date": "2026-11-17",
+     "close": 111.43,
+     "change": -0.4
+    }
+   ],
+   "market_cap": 13989352139.0,
+   "shares_outstanding": 126314692.0,
+   "industry": "Retail-Variety Stores",
+   "state_of_incorporation": "DE",
+   "hq": "MARLBOROUGH, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T21:02:46+09:00"
+  },
+  {
+   "id": "0001731122-26-001470",
+   "company": "VisionWave Holdings, Inc.",
+   "ticker": "VWAV",
+   "cik": 2038439,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 83,
+   "summary": "Acquisition Terms and Strategic Commercial Support Under the acquisition agreement, VisionWave has agreed to acquire CMIP from Litial Ltd for $11 million in deferred consideration , to be evidenced by an unsecured, subordinated, non-interest-bearing promissory note to be delivered at closing.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001470/0001731122-26-001470-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001470/e8076_ex99-1.htm",
+   "filed_at": "2026-11-20T07:00:29-05:00",
+   "filed_kst": "2026-11-20 21:00",
+   "price": 0.66,
+   "change": -0.06,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 0.66,
+     "change": -0.06
+    },
+    {
+     "date": "2026-11-19",
+     "close": 0.66,
+     "change": -15.24
+    },
+    {
+     "date": "2026-11-18",
+     "close": 0.78,
+     "change": 57.14
+    }
+   ],
+   "market_cap": 19035766.0,
+   "shares_outstanding": 28842069.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "WEST HOLLYWOOD, CA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T21:01:30+09:00"
+  },
   {
    "id": "0001140361-26-044994",
    "company": "Borr Drilling Ltd",
@@ -15568,116 +15674,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-16T22:32:12+09:00"
-  },
-  {
-   "id": "0001683168-26-008765",
-   "company": "Empery Digital Inc.",
-   "ticker": "EMPD",
-   "cik": 1829794,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "1 Empery Digital Announces Update on Share Repurchase Program Empery Digital Has Repurchased Incremental 194,625 Shares Empery Digital Has Repurchased Approximately 26.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826008765/0001683168-26-008765-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826008765/empery_ex9901.htm",
-   "filed_at": "2026-11-16T08:30:42-05:00",
-   "filed_kst": "2026-11-16 22:30",
-   "price": 1.93,
-   "change": -4.93,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 1.93,
-     "change": -4.93
-    },
-    {
-     "date": "2026-11-12",
-     "close": 2.03,
-     "change": -7.73
-    },
-    {
-     "date": "2026-11-11",
-     "close": 2.2,
-     "change": 9.45
-    }
-   ],
-   "market_cap": 53556520.0,
-   "shares_outstanding": 27749492.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "PFLUGERVILLE, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T22:32:10+09:00"
-  },
-  {
-   "id": "0001193805-26-001485",
-   "company": "Arcturus Therapeutics Holdings Inc.",
-   "ticker": "ARCT",
-   "cik": 1768224,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "3.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 72,
-   "summary": "Concurrent with the execution of the securities purchase agreement, Arcturus and Meiji entered into an exclusive license agreement relating to the application of ARCT-154 technology for an undisclosed therapeutic area, and a Memorandum of Understanding (MOU) establishing the principal terms for a po",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1768224/000119380526001485/0001193805-26-001485-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1768224/000119380526001485/e665891_ex99-1.htm",
-   "filed_at": "2026-11-16T08:30:51-05:00",
-   "filed_kst": "2026-11-16 22:30",
-   "price": 8.36,
-   "change": -0.95,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 8.36,
-     "change": -0.95
-    },
-    {
-     "date": "2026-11-12",
-     "close": 8.44,
-     "change": -9.34
-    },
-    {
-     "date": "2026-11-11",
-     "close": 9.31,
-     "change": -0.85
-    }
-   ],
-   "market_cap": 240956217.0,
-   "shares_outstanding": 28822514.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T22:32:08+09:00"
   }
  ]
 }
