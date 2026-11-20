@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-21T03:14:24+09:00",
+ "updated_at": "2026-11-21T03:19:40+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-010032",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426010032/0001654954-26-010032-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426010032/a1415e.htm",
+   "filed_at": "2026-11-20T13:16:41-05:00",
+   "filed_kst": "2026-11-21 03:16",
+   "price": 80.75,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 80.75,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-20",
+     "close": 80.75,
+     "change": -3.11
+    },
+    {
+     "date": "2026-11-19",
+     "close": 83.35,
+     "change": -1.55
+    }
+   ],
+   "market_cap": 1386900618856.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-21T03:17:20+09:00"
+  },
   {
    "id": "0001104659-26-130449",
    "company": "Lanvin Group Holdings Ltd",
@@ -15571,58 +15621,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T01:17:34+09:00"
-  },
-  {
-   "id": "0001683168-26-008791",
-   "company": "DAVION HEALTHCARE PLC",
-   "ticker": "DAVI",
-   "cik": 2039072,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 70,
-   "summary": "The 14 businesses to be acquired by Davion include five in Pennsylvania and nine across other states: · Pennsylvania: Independence Care of Pennsylvania, Erie, Scranton, Pittsburgh and Philadelphia.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2039072/000168316826008791/0001683168-26-008791-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2039072/000168316826008791/davion_ex9901.htm",
-   "filed_at": "2026-11-16T10:49:41-05:00",
-   "filed_kst": "2026-11-17 00:49",
-   "price": 1.02,
-   "change": 0.02,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 1.02,
-     "change": 0.02
-    },
-    {
-     "date": "2026-11-16",
-     "close": 1.02,
-     "change": 2.18
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.0,
-     "change": -15.97
-    }
-   ],
-   "market_cap": 25500000.0,
-   "shares_outstanding": 25000000.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "Cyprus",
-   "hq": "CLONAKILTY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T00:52:20+09:00"
   }
  ]
 }
