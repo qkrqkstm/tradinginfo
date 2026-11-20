@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-21T05:59:30+09:00",
+ "updated_at": "2026-11-21T06:04:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-470211",
+   "company": "RANGE RESOURCES CORP",
+   "ticker": "RRC",
+   "cik": 315852,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "RRC – EQT Transaction Employee FAQ – Updated November 19, 2026 On October 26, 2026, Range announced that it had entered into an agreement to be acquired by EQT in an all-stock transaction.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315852/000119312526470211/0001193125-26-470211-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/315852/000119312526470211/d148317d425.htm",
+   "filed_at": "2026-11-20T16:00:10-05:00",
+   "filed_kst": "2026-11-21 06:00",
+   "price": 48.08,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 48.08,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-20",
+     "close": 48.08,
+     "change": -0.76
+    },
+    {
+     "date": "2026-11-19",
+     "close": 48.45,
+     "change": -3.22
+    }
+   ],
+   "market_cap": 11235854097.0,
+   "shares_outstanding": 233690809.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "DE",
+   "hq": "FT WORTH, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-21T06:00:50+09:00"
+  },
   {
    "id": "0001493152-26-053411",
    "company": "Chaince Digital Holdings Inc.",
@@ -15575,56 +15625,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T02:50:22+09:00"
-  },
-  {
-   "id": "0001575872-26-000794",
-   "company": "DATZ WORLD HOLDINGS CORP.",
-   "ticker": "BOTX",
-   "cik": 1643721,
-   "form": "8-K/A",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": ", the \"Company\") completed its previously announced merger pursuant to that certain Agreement and Plan of Merger and Reorganization, dated November 10, 2025 (the \"Merger Agreement\"), by and among the Company, LB Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1643721/000157587226000794/0001575872-26-000794-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1643721/000157587226000794/botx001_ex99-2.htm",
-   "filed_at": "2026-11-16T11:47:24-05:00",
-   "filed_kst": "2026-11-17 01:47",
-   "price": 0.11,
-   "change": -67.71,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.11,
-     "change": -67.71
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.35,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.35,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 11007818.0,
-   "shares_outstanding": 100071075.0,
-   "industry": "Services-Management Consulting Services",
-   "state_of_incorporation": "NV",
-   "hq": "LEE, NH",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T01:49:32+09:00"
   }
  ]
 }
