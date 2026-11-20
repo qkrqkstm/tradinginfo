@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-20T21:09:11+09:00",
+ "updated_at": "2026-11-20T21:14:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-122402",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 70,
+   "summary": "7 The more exciting part of our work with the Barq Group, I would say, is that we previously announced we had signed a framework agreement with them toward a $200 million joint venture.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026122402/0001213900-26-122402-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026122402/ea0313011-425_inflection7.htm",
+   "filed_at": "2026-11-20T07:09:52-05:00",
+   "filed_kst": "2026-11-20 21:09",
+   "price": 10.22,
+   "change": 0.2,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 10.22,
+     "change": 0.2
+    },
+    {
+     "date": "2026-11-18",
+     "close": 10.2,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 10.2,
+     "change": -0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T21:10:42+09:00"
+  },
   {
    "id": "0001628280-26-075166",
    "company": "Vanda Pharmaceuticals Inc.",
@@ -15617,61 +15668,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-16T22:37:31+09:00"
-  },
-  {
-   "id": "0001193125-26-462254",
-   "company": "Aptevo Therapeutics Inc.",
-   "ticker": "APVO",
-   "cik": 1671584,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 72,
-   "summary": "Mipletamig has received orphan drug designation for AML under the Orphan Drug Act.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526462254/0001193125-26-462254-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526462254/apvo-ex99_1.htm",
-   "filed_at": "2026-11-16T08:35:14-05:00",
-   "filed_kst": "2026-11-16 22:35",
-   "price": 0.59,
-   "change": 0.02,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.59,
-     "change": 0.02
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.59,
-     "change": -10.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.66,
-     "change": -13.16
-    }
-   ],
-   "market_cap": 1063162.0,
-   "shares_outstanding": 1801970.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SEATTLE, WA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T22:36:13+09:00"
   }
  ]
 }
