@@ -1,7 +1,162 @@
 {
- "updated_at": "2026-11-20T19:59:27+09:00",
+ "updated_at": "2026-11-20T20:04:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-037790",
+   "company": "ALTERITY THERAPEUTICS LTD",
+   "ticker": "ATHE",
+   "cik": 1131343,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "파트너십",
+    "임상통과"
+   ],
+   "confidence": 71,
+   "summary": "Looking forward, we have a clear objective: to secure the resources required to commence our pivotal Phase 3 trial and position the Company to execute it successfully.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926037790/0001437749-26-037790-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131343/000143774926037790/ex_1049224.htm",
+   "filed_at": "2026-11-20T06:01:45-05:00",
+   "filed_kst": "2026-11-20 20:01",
+   "price": 1.66,
+   "change": -0.3,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 1.66,
+     "change": -0.3
+    },
+    {
+     "date": "2026-11-19",
+     "close": 1.66,
+     "change": -2.35
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1.7,
+     "change": -9.09
+    }
+   ],
+   "market_cap": 361064711.0,
+   "shares_outstanding": 217508862.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "MELBOURNE",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-20T20:03:44+09:00"
+  },
+  {
+   "id": "0001564708-26-000266",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000266/0001564708-26-000266-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000266/appendix3cclassa20261119.htm",
+   "filed_at": "2026-11-19T20:06:23-05:00",
+   "filed_kst": "2026-11-20 10:06",
+   "price": 28.09,
+   "change": -3.7,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 28.09,
+     "change": -3.7
+    },
+    {
+     "date": "2026-11-18",
+     "close": 29.17,
+     "change": 0.17
+    },
+    {
+     "date": "2026-11-17",
+     "close": 29.12,
+     "change": -1.52
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T20:03:41+09:00"
+  },
+  {
+   "id": "0001193125-26-468885",
+   "company": "IMMUTEP Ltd",
+   "ticker": "IMMP",
+   "cik": 1506184,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 80,
+   "summary": "These survival and exploratory findings build on previously reported EFTISARC-NEO results in which the trial met its primary endpoint with a median tumour hyalinisation/fibrosis of 51.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526468885/0001193125-26-468885-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1506184/000119312526468885/d24364dex991.htm",
+   "filed_at": "2026-11-19T18:10:03-05:00",
+   "filed_kst": "2026-11-20 08:10",
+   "price": 3.42,
+   "change": 5.23,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 3.42,
+     "change": 5.23
+    },
+    {
+     "date": "2026-11-18",
+     "close": 3.25,
+     "change": -0.31
+    },
+    {
+     "date": "2026-11-17",
+     "close": 3.26,
+     "change": -4.12
+    }
+   ],
+   "market_cap": 5040126867.0,
+   "shares_outstanding": 1473721306.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Australia",
+   "hq": "SYDNEY,, C3",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-20T20:01:34+09:00"
+  },
   {
    "id": "0001193125-26-468834",
    "company": "INTUIT INC.",
@@ -15533,163 +15688,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-16T22:12:22+09:00"
-  },
-  {
-   "id": "0001193125-26-462188",
-   "company": "ALX ONCOLOGY HOLDINGS INC",
-   "ticker": "ALXO",
-   "cik": 1810182,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 90,
-   "summary": "Food and Drug Administration (FDA) has granted Fast Track designation to evorpacept for the second-line treatment of patients with HER2-positive gastric or GEJ carcinoma.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1810182/000119312526462188/0001193125-26-462188-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1810182/000119312526462188/alxo-ex99_1.htm",
-   "filed_at": "2026-11-16T08:10:13-05:00",
-   "filed_kst": "2026-11-16 22:10",
-   "price": 1.04,
-   "change": -3.7,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 1.04,
-     "change": -3.7
-    },
-    {
-     "date": "2026-11-12",
-     "close": 1.08,
-     "change": -3.57
-    },
-    {
-     "date": "2026-11-11",
-     "close": 1.12,
-     "change": 0.9
-    }
-   ],
-   "market_cap": 143808077.0,
-   "shares_outstanding": 138276997.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SOUTH SAN FRANCISCO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T22:12:19+09:00"
-  },
-  {
-   "id": "0001178913-26-005233",
-   "company": "Perion Network Ltd.",
-   "ticker": "PERI",
-   "cik": 1338940,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "M&A"
-   ],
-   "confidence": 67,
-   "summary": "Share Repurchase Program ● During the third quarter of 2026, the Company repurchased a total of approximately 2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1338940/000117891326005233/0001178913-26-005233-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1338940/000117891326005233/exhibit_99-1.htm",
-   "filed_at": "2026-11-16T08:05:16-05:00",
-   "filed_kst": "2026-11-16 22:05",
-   "price": 11.37,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 11.37,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 11.37,
-     "change": -0.26
-    },
-    {
-     "date": "2026-11-11",
-     "close": 11.4,
-     "change": 0.09
-    }
-   ],
-   "market_cap": 443713841.0,
-   "shares_outstanding": 39024964.0,
-   "industry": "Services-Computer Programming Services",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV, L3",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-16T22:07:20+09:00"
-  },
-  {
-   "id": "0001213900-26-120148",
-   "company": "CEMENTOS PACASMAYO SAA",
-   "ticker": "CPAC",
-   "cik": 1221029,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "(the “ Offeror ”) has launched a tender offer (“ OPA ”) for the shares of Cementos Pacasmayo S.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1221029/000121390026120148/0001213900-26-120148-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1221029/000121390026120148/ea031213701ex99-1.htm",
-   "filed_at": "2026-11-16T08:00:09-05:00",
-   "filed_kst": "2026-11-16 22:00",
-   "price": 12.9,
-   "change": -0.23,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 12.9,
-     "change": -0.23
-    },
-    {
-     "date": "2026-11-12",
-     "close": 12.93,
-     "change": 0.31
-    },
-    {
-     "date": "2026-11-11",
-     "close": 12.89,
-     "change": 0.16
-    }
-   ],
-   "market_cap": 5467902992.0,
-   "shares_outstanding": 423868449.0,
-   "industry": "Cement, Hydraulic",
-   "state_of_incorporation": null,
-   "hq": "LIMA 33, R5",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-16T22:06:14+09:00"
   }
  ]
 }
