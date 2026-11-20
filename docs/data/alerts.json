@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-21T06:14:45+09:00",
+ "updated_at": "2026-11-21T06:19:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001701605-26-000038",
+   "company": "Baker Hughes Co",
+   "ticker": "BKR",
+   "cik": 1701605,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 66,
+   "summary": "Merger with Baker Hughes Company: On July 28, 2025, the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Baker Hughes Company (“Baker Hughes”) and Tango Merger Sub, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000038/0001701605-26-000038-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000038/exhibit991chart20260630fs.htm",
+   "filed_at": "2026-11-20T16:15:00-05:00",
+   "filed_kst": "2026-11-21 06:15",
+   "price": 44.81,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 44.81,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-20",
+     "close": 44.81,
+     "change": -3.99
+    },
+    {
+     "date": "2026-11-19",
+     "close": 46.67,
+     "change": -1.33
+    }
+   ],
+   "market_cap": 44499846375.0,
+   "shares_outstanding": 993078473.0,
+   "industry": "Oil & Gas Field Machinery & Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-21T06:16:09+09:00"
+  },
   {
    "id": "0001193125-26-470261",
    "company": "Utz Brands, Inc.",
@@ -15539,59 +15592,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-17T06:28:36+09:00"
-  },
-  {
-   "id": "0001140361-26-044210",
-   "company": "NEIGHBORHOOD INTELLIGENCE, INC.",
-   "ticker": "NXH",
-   "cik": 1130713,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "Announces $25 Million Share Repurchase Program NASHVILLE, Tennessee, November 16, 2026 -- Neighborhood Intelligence, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126044210/0001140361-26-044210-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126044210/ef20085773_ex99-1.htm",
-   "filed_at": "2026-11-16T16:18:08-05:00",
-   "filed_kst": "2026-11-17 06:18",
-   "price": 1.16,
-   "change": -7.94,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 1.16,
-     "change": -7.94
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.26,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 1.26,
-     "change": -7.35
-    }
-   ],
-   "market_cap": 127619961.0,
-   "shares_outstanding": 110017208.0,
-   "industry": "Retail-Catalog & Mail-Order Houses",
-   "state_of_incorporation": "DE",
-   "hq": "BRENTWOOD, TN",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:28:26+09:00"
   }
  ]
 }
