@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-20T21:04:36+09:00",
+ "updated_at": "2026-11-20T21:09:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-075166",
+   "company": "Vanda Pharmaceuticals Inc.",
+   "ticker": "VNDA",
+   "cik": 1347178,
+   "form": "8-K",
+   "items": [
+    "1.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(“Vanda”) entered into a Confidential Settlement and License Agreement (the “Settlement Agreement”) with MSN Pharmaceuticals Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026075166/0001628280-26-075166-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026075166/vnda-20261116.htm",
+   "filed_at": "2026-11-20T07:05:49-05:00",
+   "filed_kst": "2026-11-20 21:05",
+   "price": 3.67,
+   "change": -2.13,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 3.67,
+     "change": -2.13
+    },
+    {
+     "date": "2026-11-18",
+     "close": 3.75,
+     "change": -1.57
+    },
+    {
+     "date": "2026-11-17",
+     "close": 3.81,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 221923751.0,
+   "shares_outstanding": 60469687.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "WASHINGTON, DC",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-20T21:06:37+09:00"
+  },
   {
    "id": "0001531152-26-000083",
    "company": "BJ's Wholesale Club Holdings, Inc.",
@@ -15620,60 +15672,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-16T22:36:13+09:00"
-  },
-  {
-   "id": "0001493152-26-052054",
-   "company": "Microbot Medical Inc.",
-   "ticker": "MBOT",
-   "cik": 883975,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "● Following regulatory approval from the Israeli Ministry of Health’s AMAR Division, the Company entered into a three-year exclusive distribution agreement with Medtechnica Ltd.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/883975/000149315226052054/0001493152-26-052054-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/883975/000149315226052054/ex99-1.htm",
-   "filed_at": "2026-11-16T08:30:32-05:00",
-   "filed_kst": "2026-11-16 22:30",
-   "price": 0.98,
-   "change": -0.1,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.98,
-     "change": -0.1
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.98,
-     "change": -4.85
-    },
-    {
-     "date": "2026-11-12",
-     "close": 1.03,
-     "change": -7.21
-    }
-   ],
-   "market_cap": 65821505.0,
-   "shares_outstanding": 67164801.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "HINGHAM, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T22:32:12+09:00"
   }
  ]
 }
