@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-20T20:24:37+09:00",
+ "updated_at": "2026-11-20T20:29:31+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-044994",
+   "company": "Borr Drilling Ltd",
+   "ticker": "BORR",
+   "cik": 1715497,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "대형계약"
+   ],
+   "confidence": 66,
+   "summary": "EX-99.3 4 ef20085971_ex99-3.htm EXHIBIT 99.3 Exhibit 99.3 1 1 Borr Drilling Fleet Status Report - 18 November 2026 New Contracts / Extensions / Amendments Ran • Contract extension: October 2026 to December 2027, Eni (Mexico) Vali • Contract extension: October 2026 to September 2027, Mellitah Oil and",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1715497/000114036126044994/0001140361-26-044994-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1715497/000114036126044994/ef20085971_ex99-3.htm",
+   "filed_at": "2026-11-20T06:25:42-05:00",
+   "filed_kst": "2026-11-20 20:25",
+   "price": 3.27,
+   "change": 0.93,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 3.27,
+     "change": 0.93
+    },
+    {
+     "date": "2026-11-18",
+     "close": 3.24,
+     "change": 1.89
+    },
+    {
+     "date": "2026-11-17",
+     "close": 3.18,
+     "change": -0.31
+    }
+   ],
+   "market_cap": 1004594420.0,
+   "shares_outstanding": 307215419.0,
+   "industry": "Drilling Oil & Gas Wells",
+   "state_of_incorporation": "Bermuda",
+   "hq": "HAMILTON, D0",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-20T20:26:27+09:00"
+  },
   {
    "id": "0001213900-26-122374",
    "company": "Hotel101 Global Holdings Corp.",
@@ -15627,57 +15678,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-16T22:32:08+09:00"
-  },
-  {
-   "id": "0001493152-26-052046",
-   "company": "Nasus Pharma Ltd",
-   "ticker": "NSRX",
-   "cik": 2029039,
-   "form": "6-K",
-   "items": [],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "“His record of financial and operational management for biopharmaceutical companies will provide us with important support as we progress NS002 toward a pivotal clinical Phase 3 study in the fourth quarter of 2026 and a topline data readout in the first quarter of 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2029039/000149315226052046/0001493152-26-052046-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2029039/000149315226052046/ex99-1.htm",
-   "filed_at": "2026-11-16T08:20:15-05:00",
-   "filed_kst": "2026-11-16 22:20",
-   "price": 2.87,
-   "change": 1.77,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 2.87,
-     "change": 1.77
-    },
-    {
-     "date": "2026-11-12",
-     "close": 2.82,
-     "change": -3.09
-    },
-    {
-     "date": "2026-11-11",
-     "close": 2.91,
-     "change": -2.51
-    }
-   ],
-   "market_cap": 25874149.0,
-   "shares_outstanding": 9015383.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "TEL AVIV - YAFO, L3",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-16T22:21:09+09:00"
   }
  ]
 }
