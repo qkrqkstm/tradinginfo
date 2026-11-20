@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-20T22:59:26+09:00",
+ "updated_at": "2026-11-20T23:04:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-130445",
+   "company": "NB Bancorp, Inc.",
+   "ticker": "NBBK",
+   "cik": 1979330,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "Announces Commencement of Additional Share Repurchase Plan Investor Contact JP Lapointe, SEVP and CFO IR@NeedhamBank.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1979330/000110465926130445/0001104659-26-130445-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1979330/000110465926130445/nbbk-ex99d1.htm",
+   "filed_at": "2026-11-20T09:00:21-05:00",
+   "filed_kst": "2026-11-20 23:00",
+   "price": 21.14,
+   "change": -0.98,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 21.14,
+     "change": -0.98
+    },
+    {
+     "date": "2026-11-18",
+     "close": 21.35,
+     "change": -0.23
+    },
+    {
+     "date": "2026-11-17",
+     "close": 21.4,
+     "change": -2.01
+    }
+   ],
+   "market_cap": 926322879.0,
+   "shares_outstanding": 43818490.0,
+   "industry": "Savings Institutions, Not Federally Chartered",
+   "state_of_incorporation": "MD",
+   "hq": "NEEDHAM, MA",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T23:01:34+09:00"
+  },
+  {
+   "id": "0001213900-26-122437",
+   "company": "GreenTree Hospitality Group Ltd.",
+   "ticker": "GHG",
+   "cik": 1724755,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 72,
+   "summary": "This acquisition is a selective investment in a flagship asset intended to support the growth of its upscale franchise business, and it does not affect the share repurchase program described below.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1724755/000121390026122437/0001213900-26-122437-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1724755/000121390026122437/ea031299201ex99-1.htm",
+   "filed_at": "2026-11-20T08:59:55-05:00",
+   "filed_kst": "2026-11-20 22:59",
+   "price": 0.97,
+   "change": -5.63,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 0.97,
+     "change": -5.63
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1.03,
+     "change": 3.0
+    },
+    {
+     "date": "2026-11-17",
+     "close": 1.0,
+     "change": -1.96
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Hotels & Motels",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-20T23:00:51+09:00"
+  },
   {
    "id": "0001213900-26-122429",
    "company": "Crown PropTech Acquisitions",
@@ -15522,106 +15626,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-17T00:18:27+09:00"
-  },
-  {
-   "id": "0001171843-26-007466",
-   "company": "Lakefront Biotherapeutics NV",
-   "ticker": "LKFT",
-   "cik": 1421876,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "1 Lakefront Initiates New €50 Million Share Repurchase Program Following Completion of Initial Share Repurchase Program Mechelen, Belgium; November 16, 2026; 7.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1421876/000117184326007466/0001171843-26-007466-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1421876/000117184326007466/exh_991.htm",
-   "filed_at": "2026-11-16T09:58:53-05:00",
-   "filed_kst": "2026-11-16 23:58",
-   "price": 34.74,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 34.74,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 34.74,
-     "change": 2.24
-    },
-    {
-     "date": "2026-11-13",
-     "close": 33.98,
-     "change": 0.15
-    }
-   ],
-   "market_cap": 2289264247.0,
-   "shares_outstanding": 65897071.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Belgium",
-   "hq": "2800 MECHELEN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T00:00:01+09:00"
-  },
-  {
-   "id": "0001650107-26-000147",
-   "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
-   "ticker": "CCEP",
-   "cik": 1650107,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "The repurchased ordinary shares will be cancelled.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000147/0001650107-26-000147-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000147/a20261116ccepform6-kweekly.htm",
-   "filed_at": "2026-11-16T09:46:00-05:00",
-   "filed_kst": "2026-11-16 23:46",
-   "price": 119.33,
-   "change": 0.65,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 119.33,
-     "change": 0.65
-    },
-    {
-     "date": "2026-11-13",
-     "close": 118.57,
-     "change": 1.4
-    },
-    {
-     "date": "2026-11-12",
-     "close": 116.93,
-     "change": -0.8
-    }
-   ],
-   "market_cap": 53589498131.0,
-   "shares_outstanding": 449086551.0,
-   "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "UXBRIDGE",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-16T23:49:43+09:00"
   }
  ]
 }
