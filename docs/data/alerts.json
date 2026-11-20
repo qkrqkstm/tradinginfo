@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-21T06:44:34+09:00",
+ "updated_at": "2026-11-21T06:49:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053525",
+   "company": "Abits Group Inc",
+   "ticker": "ABTS",
+   "cik": 1864055,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "5 million of unaudited revenue through Q3 2026, with an additional $16.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1864055/000149315226053525/0001493152-26-053525-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1864055/000149315226053525/ex99-1.htm",
+   "filed_at": "2026-11-20T16:45:28-05:00",
+   "filed_kst": "2026-11-21 06:45",
+   "price": 0.17,
+   "change": 0.23,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 0.17,
+     "change": 0.23
+    },
+    {
+     "date": "2026-11-20",
+     "close": 0.17,
+     "change": -31.92
+    },
+    {
+     "date": "2026-11-19",
+     "close": 0.25,
+     "change": -16.39
+    }
+   ],
+   "market_cap": 402899.0,
+   "shares_outstanding": 2369995.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "HONG KONG SAR",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-21T06:46:31+09:00"
+  },
+  {
+   "id": "0001213900-26-122744",
+   "company": "Greenland Mines Ltd",
+   "ticker": "GRML",
+   "cik": 1907223,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "9.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "Upon completion of the repurchases, the repurchased shares will be canceled and retired.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026122744/0001213900-26-122744-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026122744/ea0313126-8k_greenland.htm",
+   "filed_at": "2026-11-20T16:45:28-05:00",
+   "filed_kst": "2026-11-21 06:45",
+   "price": 2.99,
+   "change": 2.75,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 2.99,
+     "change": 2.75
+    },
+    {
+     "date": "2026-11-19",
+     "close": 2.91,
+     "change": -6.13
+    },
+    {
+     "date": "2026-11-18",
+     "close": 3.1,
+     "change": -9.36
+    }
+   ],
+   "market_cap": 44309435.0,
+   "shares_outstanding": 14819209.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": null,
+   "hq": "OMAHA, NE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-21T06:46:27+09:00"
+  },
   {
    "id": "0001193125-26-470357",
    "company": "TSAKOS ENERGY NAVIGATION LTD",
@@ -15471,117 +15576,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T06:28:55+09:00"
-  },
-  {
-   "id": "0001193125-26-463508",
-   "company": "ENANTA PHARMACEUTICALS INC",
-   "ticker": "ENTA",
-   "cik": 1177648,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "탑라인결과",
-    "FDA"
-   ],
-   "confidence": 66,
-   "summary": "Virology Enanta’s virology pipeline includes the leading portfolio of RSV treatments in clinical development, consisting of zelicapavir, a once-daily N-protein inhibitor, and EDP-323, a once-daily L-protein inhibitor, both of which received Fast Track designation from the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1177648/000119312526463508/0001193125-26-463508-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1177648/000119312526463508/enta-ex99_1.htm",
-   "filed_at": "2026-11-16T16:10:15-05:00",
-   "filed_kst": "2026-11-17 06:10",
-   "price": 10.67,
-   "change": -2.91,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 10.67,
-     "change": -2.91
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.99,
-     "change": -1.88
-    },
-    {
-     "date": "2026-11-12",
-     "close": 11.2,
-     "change": -3.45
-    }
-   ],
-   "market_cap": 310768039.0,
-   "shares_outstanding": 29125402.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "WATERTOWN, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T06:28:54+09:00"
-  },
-  {
-   "id": "0001104659-26-128300",
-   "company": "AECOM",
-   "ticker": "ACM",
-   "cik": 868857,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 68,
-   "summary": "8 Backlog represents the total value of work for which AECOM has been selected that is expected to be completed by consolidated subsidiaries and includes the proportionate share of work expected to be performed by unconsolidated joint ventures.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/868857/000110465926128300/0001104659-26-128300-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/868857/000110465926128300/tm2629784d1_ex99-1.htm",
-   "filed_at": "2026-11-16T16:11:03-05:00",
-   "filed_kst": "2026-11-17 06:11",
-   "price": 72.5,
-   "change": 2.84,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 72.5,
-     "change": 2.84
-    },
-    {
-     "date": "2026-11-13",
-     "close": 70.5,
-     "change": 0.56
-    },
-    {
-     "date": "2026-11-12",
-     "close": 70.11,
-     "change": -0.2
-    }
-   ],
-   "market_cap": 9330490812.0,
-   "shares_outstanding": 128696425.0,
-   "industry": "Services-Engineering Services",
-   "state_of_incorporation": "DE",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:28:49+09:00"
   }
  ]
 }
