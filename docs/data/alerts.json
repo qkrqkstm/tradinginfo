@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-21T03:19:40+09:00",
+ "updated_at": "2026-11-21T03:24:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053411",
+   "company": "Chaince Digital Holdings Inc.",
+   "ticker": "CD",
+   "cik": 1527762,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "It intends to pursue development of such sites in collaboration with site owners and holders of power capacity, through joint ventures or other structures, and to lead negotiations with prospective tenants.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226053411/0001493152-26-053411-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226053411/ex99-1.htm",
+   "filed_at": "2026-11-20T13:20:16-05:00",
+   "filed_kst": "2026-11-21 03:20",
+   "price": 3.83,
+   "change": 0.13,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 3.84,
+     "change": 0.13
+    },
+    {
+     "date": "2026-11-19",
+     "close": 3.83,
+     "change": -4.73
+    },
+    {
+     "date": "2026-11-18",
+     "close": 4.02,
+     "change": 9.84
+    }
+   ],
+   "market_cap": 421314554.0,
+   "shares_outstanding": 110003800.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-21T03:21:17+09:00"
+  },
   {
    "id": "0001654954-26-010032",
    "company": "HSBC HOLDINGS PLC",
@@ -15571,56 +15625,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-17T01:49:32+09:00"
-  },
-  {
-   "id": "0001171843-26-007470",
-   "company": "NOVO NORDISK A S",
-   "ticker": "NVO",
-   "cik": 353278,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "6-K 1 f6k_111626.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ________________ FORM 6-K ________________ REPORT OF FOREIGN PRIVATE ISSUER Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 November 16, 2026 ________________ NOVO NORDISK A",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326007470/0001171843-26-007470-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326007470/f6k_111626.htm",
-   "filed_at": "2026-11-16T11:15:56-05:00",
-   "filed_kst": "2026-11-17 01:15",
-   "price": 41.94,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 41.94,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 41.94,
-     "change": 0.73
-    },
-    {
-     "date": "2026-11-13",
-     "close": 41.63,
-     "change": 2.41
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "BAGSVAERD DENMARK, G7",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T01:17:34+09:00"
   }
  ]
 }
