@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-20T22:04:30+09:00",
+ "updated_at": "2026-11-20T22:09:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-130425",
+   "company": "BELITE BIO, INC",
+   "ticker": "BLTE",
+   "cik": 1889109,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 84,
+   "summary": "Tinlarebant has been granted Breakthrough Therapy Designation, Fast Track Designation, and Rare Pediatric Disease Designation in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1889109/000110465926130425/0001104659-26-130425-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1889109/000110465926130425/tm2630348d1_ex99-1.htm",
+   "filed_at": "2026-11-20T08:05:16-05:00",
+   "filed_kst": "2026-11-20 22:05",
+   "price": 151.02,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 151.02,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-19",
+     "close": 151.02,
+     "change": -3.33
+    },
+    {
+     "date": "2026-11-18",
+     "close": 156.23,
+     "change": -0.94
+    }
+   ],
+   "market_cap": 5941120759.0,
+   "shares_outstanding": 39339960.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SAN DIEGO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-20T22:06:14+09:00"
+  },
   {
    "id": "0001048268-26-000176",
    "company": "IES Holdings, Inc.",
@@ -15614,60 +15665,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-16T22:47:25+09:00"
-  },
-  {
-   "id": "0001193125-26-462266",
-   "company": "EAGLE FINANCIAL SERVICES INC",
-   "ticker": "EFSI",
-   "cik": 880641,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "John Marshall and EFSI announced the signing of a definitive merger agreement on September 8, 2026.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/880641/000119312526462266/0001193125-26-462266-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/880641/000119312526462266/d134534dex991.htm",
-   "filed_at": "2026-11-16T08:40:16-05:00",
-   "filed_kst": "2026-11-16 22:40",
-   "price": 46.01,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 46.01,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 46.01,
-     "change": 0.02
-    },
-    {
-     "date": "2026-11-12",
-     "close": 46.0,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 249064185.0,
-   "shares_outstanding": 5413262.0,
-   "industry": "State Commercial Banks",
-   "state_of_incorporation": "VA",
-   "hq": "BERRYVILLE, VA",
-   "entity_category": [
-    "Accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-16T22:45:18+09:00"
   }
  ]
 }
