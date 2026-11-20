@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-20T23:04:28+09:00",
+ "updated_at": "2026-11-20T23:09:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-130449",
+   "company": "Lanvin Group Holdings Ltd",
+   "ticker": "LANV",
+   "cik": 1922097,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "“ Business Combination Closing ” means the closing of the business combination pursuant to the Business Combination Agreement, dated March 23, 2022, by and among the Company and certain other parties thereto, as may be amended, supplemented or otherwise modified from time to time.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1922097/000110465926130449/0001104659-26-130449-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1922097/000110465926130449/tm2630137d2_ex99-2.htm",
+   "filed_at": "2026-11-20T09:05:46-05:00",
+   "filed_kst": "2026-11-20 23:05",
+   "price": 0.54,
+   "change": -7.8,
+   "price_history": [
+    {
+     "date": "2026-11-19",
+     "close": 0.54,
+     "change": -7.8
+    },
+    {
+     "date": "2026-11-18",
+     "close": 0.59,
+     "change": 1.37
+    },
+    {
+     "date": "2026-11-17",
+     "close": 0.58,
+     "change": -8.35
+    }
+   ],
+   "market_cap": 67821794.0,
+   "shares_outstanding": 125595914.0,
+   "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-20T23:06:14+09:00"
+  },
   {
    "id": "0001104659-26-130445",
    "company": "NB Bancorp, Inc.",
@@ -15571,61 +15623,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-17T00:52:20+09:00"
-  },
-  {
-   "id": "0001380106-26-000110",
-   "company": "RAPID MICRO BIOSYSTEMS, INC.",
-   "ticker": "RPID",
-   "cik": 1380106,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "EX-99.1 2 rpid-20260930xexx991.htm EX-99.1 Document Exhibit 99.1 Rapid Micro Biosystems Reports Third Quarter 2026 Financial Results • Reports third quarter 2026 total revenue of $9.5 million, representing 22% growth compared to the third quarter of 2025 ◦ Placed 7 Growth Direct systems and complete",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1380106/000138010626000110/0001380106-26-000110-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1380106/000138010626000110/rpid-20260930xexx991.htm",
-   "filed_at": "2026-11-16T10:17:10-05:00",
-   "filed_kst": "2026-11-17 00:17",
-   "price": 0.74,
-   "change": 0.01,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.74,
-     "change": 0.01
-    },
-    {
-     "date": "2026-11-16",
-     "close": 0.74,
-     "change": 13.2
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.65,
-     "change": -2.98
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Laboratory Analytical Instruments",
-   "state_of_incorporation": "DE",
-   "hq": "LEXINGTON, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T00:18:27+09:00"
   }
  ]
 }
