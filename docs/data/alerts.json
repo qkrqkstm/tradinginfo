@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-23T22:14:12+09:00",
+ "updated_at": "2026-11-23T22:19:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053652",
+   "company": "Sharplink, Inc.",
+   "ticker": "SBET",
+   "cik": 1981535,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "1 Sharplink Repurchases $10 Million of Common Stock Under Share Repurchase Program Buyback reinforces Company’s disciplined capital allocation strategy and commitment to increasing ETH per share MIAMI, FL – November 23, 2026 – Sharplink, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1981535/000149315226053652/0001493152-26-053652-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1981535/000149315226053652/ex99-1.htm",
+   "filed_at": "2026-11-23T08:15:14-05:00",
+   "filed_kst": "2026-11-23 22:15",
+   "price": 4.48,
+   "change": -9.13,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 4.48,
+     "change": -9.13
+    },
+    {
+     "date": "2026-11-19",
+     "close": 4.93,
+     "change": 1.23
+    },
+    {
+     "date": "2026-11-18",
+     "close": 4.87,
+     "change": -4.88
+    }
+   ],
+   "market_cap": 973710976.0,
+   "shares_outstanding": 217346200.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-23T22:16:04+09:00"
+  },
   {
    "id": "0001104659-26-130870",
    "company": "Research Solutions, Inc.",
@@ -15462,59 +15517,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T06:41:16+09:00"
-  },
-  {
-   "id": "0001687229-26-000059",
-   "company": "Invitation Homes Inc.",
-   "ticker": "INVH",
-   "cik": 1687229,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "78 avg/sh Stock repurchase authorizations $1.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000059/0001687229-26-000059-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000059/invh-20261116.htm",
-   "filed_at": "2026-11-16T16:30:10-05:00",
-   "filed_kst": "2026-11-17 06:30",
-   "price": 27.1,
-   "change": 0.93,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 27.1,
-     "change": 0.93
-    },
-    {
-     "date": "2026-11-13",
-     "close": 26.85,
-     "change": 0.75
-    },
-    {
-     "date": "2026-11-12",
-     "close": 26.65,
-     "change": -0.86
-    }
-   ],
-   "market_cap": 15613788468.0,
-   "shares_outstanding": 576154556.0,
-   "industry": "Real Estate Operators (No Developers) & Lessors",
-   "state_of_incorporation": null,
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:37:38+09:00"
   }
  ]
 }
