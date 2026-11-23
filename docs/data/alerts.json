@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-24T03:24:23+09:00",
+ "updated_at": "2026-11-24T03:29:24+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-010056",
+   "company": "HSBC HOLDINGS PLC",
+   "ticker": "HSBC",
+   "cik": 1089113,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426010056/0001654954-26-010056-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426010056/a3339e.htm",
+   "filed_at": "2026-11-23T13:24:28-05:00",
+   "filed_kst": "2026-11-24 03:24",
+   "price": 83.37,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 83.37,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-23",
+     "close": 83.37,
+     "change": 4.19
+    },
+    {
+     "date": "2026-11-20",
+     "close": 80.02,
+     "change": -4.0
+    }
+   ],
+   "market_cap": 1431899747295.0,
+   "shares_outstanding": 17175239862.0,
+   "industry": "Savings Institution, Federally Chartered",
+   "state_of_incorporation": null,
+   "hq": "LONDON, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-24T03:25:42+09:00"
+  },
   {
    "id": "0001648416-26-000147",
    "company": "Ferrari N.V.",
@@ -15455,60 +15505,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T14:36:55+09:00"
-  },
-  {
-   "id": "0000885725-11-000026",
-   "company": "BOSTON SCIENTIFIC CORP",
-   "ticker": "BSX",
-   "cik": 885725,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "5.07",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 60,
-   "summary": "EX-10.1 2 exhibit1012011ltip.htm 2011 LTIP WebFilings | EDGAR view Exhibit 10.1 BOSTON SCIENTIFIC CORPORATION 2011 LONG-TERM INCENTIVE PLAN 1. ADMINISTRATION Subject to the express provisions of the Plan and except to the extent prohibited by applicable law, the Administrator has the authority to in",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572511000026/0000885725-11-000026-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572511000026/exhibit1012011ltip.htm",
-   "filed_at": "2011-05-13T17:08:56-04:00",
-   "filed_kst": "2011-05-14 06:08",
-   "price": 43.69,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 43.69,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 43.69,
-     "change": -1.47
-    },
-    {
-     "date": "2026-11-13",
-     "close": 44.34,
-     "change": 0.32
-    }
-   ],
-   "market_cap": 63327485069.0,
-   "shares_outstanding": 1449473222.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "MARLBOROUGH, MA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T11:58:08+09:00"
   }
  ]
 }
