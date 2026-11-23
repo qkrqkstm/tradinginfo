@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-23T22:59:39+09:00",
+ "updated_at": "2026-11-23T23:04:59+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001683168-26-009032",
+   "company": "NOCERA, INC.",
+   "ticker": "NCRA",
+   "cik": 1756180,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "On July 8, Nocera announced a binding agreement to acquire an equity interest in INERGX, an integrated energy storage and power platform built to serve AI data centers and other mission-critical users, and followed in August with a 50/50 joint venture, Nocera-INERGX Energy Ventures.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1756180/000168316826009032/0001683168-26-009032-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1756180/000168316826009032/nocera_ex9901.htm",
+   "filed_at": "2026-11-23T09:00:14-05:00",
+   "filed_kst": "2026-11-23 23:00",
+   "price": 1.28,
+   "change": 0.03,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 1.28,
+     "change": 0.03
+    },
+    {
+     "date": "2026-11-20",
+     "close": 1.28,
+     "change": -9.29
+    },
+    {
+     "date": "2026-11-19",
+     "close": 1.41,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 3330063.0,
+   "shares_outstanding": 2601612.0,
+   "industry": "Agricultural Prod-Livestock & Animal Specialties",
+   "state_of_incorporation": "NV",
+   "hq": "MONTGOMERY, AL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-23T23:00:53+09:00"
+  },
   {
    "id": "0001213900-26-122950",
    "company": "Ondas Inc.",
@@ -15482,56 +15538,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T08:33:01+09:00"
-  },
-  {
-   "id": "0001104659-26-128510",
-   "company": "X Financial",
-   "ticker": "XYF",
-   "cik": 1725033,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "With its proprietary big data-driven technology, the Company has established strategic partnerships with financial institutions across multiple areas of its business operations, enabling it to facilitate and provide loans to prime borrowers under a risk assessment and control system.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1725033/000110465926128510/0001104659-26-128510-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1725033/000110465926128510/tm2629880d1_ex99-1.htm",
-   "filed_at": "2026-11-16T17:00:40-05:00",
-   "filed_kst": "2026-11-17 07:00",
-   "price": 5.39,
-   "change": -2.36,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 5.39,
-     "change": -2.36
-    },
-    {
-     "date": "2026-11-13",
-     "close": 5.52,
-     "change": 0.36
-    },
-    {
-     "date": "2026-11-12",
-     "close": 5.5,
-     "change": -0.18
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Finance Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SHENZHEN, F4",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-17T08:32:56+09:00"
   }
  ]
 }
