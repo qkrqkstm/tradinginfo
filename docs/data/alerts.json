@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-24T02:59:18+09:00",
+ "updated_at": "2026-11-24T03:04:41+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-038014",
+   "company": "LCNB CORP",
+   "ticker": "LCNB",
+   "cik": 1074902,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "01 Other Events LCNB issued a press release on November 23, 2026, announcing that its Board of Directors authorized a share repurchase program (the “Program”).",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1074902/000143774926038014/0001437749-26-038014-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1074902/000143774926038014/lcnb20261118_8k.htm",
+   "filed_at": "2026-11-23T13:00:51-05:00",
+   "filed_kst": "2026-11-24 03:00",
+   "price": 19.32,
+   "change": 0.89,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 19.32,
+     "change": 0.89
+    },
+    {
+     "date": "2026-11-20",
+     "close": 19.15,
+     "change": 0.16
+    },
+    {
+     "date": "2026-11-19",
+     "close": 19.12,
+     "change": -1.09
+    }
+   ],
+   "market_cap": 275406368.0,
+   "shares_outstanding": 14254988.0,
+   "industry": "National Commercial Banks",
+   "state_of_incorporation": "OH",
+   "hq": "LEBANON, OH",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-24T03:01:58+09:00"
+  },
   {
    "id": "0001171843-26-007637",
    "company": "NOVO NORDISK A S",
@@ -15468,60 +15521,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T08:35:21+09:00"
-  },
-  {
-   "id": "0001493152-26-052471",
-   "company": "MDWerks, Inc.",
-   "ticker": "MDWK",
-   "cik": 1295514,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "We are concentrating our business on RF Specialties’ industrial design and manufacturing for the lumber industry, including our proposed joint venture with Rex Lumber Company, while continuing to manufacture and sell our Spirits Rapid Aging System.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1295514/000149315226052471/0001493152-26-052471-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1295514/000149315226052471/ex99-1.htm",
-   "filed_at": "2026-11-16T16:48:19-05:00",
-   "filed_kst": "2026-11-17 06:48",
-   "price": 0.07,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-13",
-     "close": 0.07,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.07,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-11",
-     "close": 0.07,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 16856147.0,
-   "shares_outstanding": 240802096.0,
-   "industry": "Beverages",
-   "state_of_incorporation": "DE",
-   "hq": "GREEN COVE SPRINGS, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T08:34:27+09:00"
   }
  ]
 }
