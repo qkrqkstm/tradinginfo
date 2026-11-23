@@ -1,7 +1,116 @@
 {
- "updated_at": "2026-11-23T21:04:33+09:00",
+ "updated_at": "2026-11-23T21:09:09+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-470926",
+   "company": "Kymera Therapeutics, Inc.",
+   "ticker": "KYMR",
+   "cik": 1815442,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "가이던스상향"
+   ],
+   "confidence": 92,
+   "summary": "1 Kymera Therapeutics Announces Positive Results from BROADEN2 Phase 2b Clinical Trial of KT-621, a First-in-Class, Oral STAT6 Degrader, in Patients with Moderate to Severe Atopic Dermatitis BROADEN2 met primary and secondary endpoints with statistically significant improvements versus pla",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526470926/0001193125-26-470926-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526470926/d188151dex991.htm",
+   "filed_at": "2026-11-23T07:06:49-05:00",
+   "filed_kst": "2026-11-23 21:06",
+   "price": 115.31,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 115.31,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-20",
+     "close": 115.31,
+     "change": -3.42
+    },
+    {
+     "date": "2026-11-19",
+     "close": 119.39,
+     "change": -1.44
+    }
+   ],
+   "market_cap": 9844175788.0,
+   "shares_outstanding": 85371397.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "WATERTOWN, MA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-23T21:07:19+09:00"
+  },
+  {
+   "id": "0001493152-26-053633",
+   "company": "SOAR AI, Inc.",
+   "ticker": "SOAR",
+   "cik": 1853070,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 SOAR AI Reports Third Quarter 2026 Results with $41.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/0001493152-26-053633-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/ex99-1.htm",
+   "filed_at": "2026-11-23T07:05:18-05:00",
+   "filed_kst": "2026-11-23 21:05",
+   "price": 0.17,
+   "change": -12.23,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 0.17,
+     "change": -12.23
+    },
+    {
+     "date": "2026-11-19",
+     "close": 0.19,
+     "change": 13.94
+    },
+    {
+     "date": "2026-11-18",
+     "close": 0.17,
+     "change": -7.3
+    }
+   ],
+   "market_cap": 9763103.0,
+   "shares_outstanding": 57430018.0,
+   "industry": "Air Transportation, Nonscheduled",
+   "state_of_incorporation": "DE",
+   "hq": "NORTH CANTON, OH",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-23T21:06:00+09:00"
+  },
   {
    "id": "0001171843-26-007629",
    "company": "STANTEC INC",
@@ -15405,109 +15514,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T06:33:34+09:00"
-  },
-  {
-   "id": "0001140361-26-044204",
-   "company": "United Maritime Corp",
-   "ticker": "USEA",
-   "cik": 1912847,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "3 ◾ Continued Capital Reallocation Through Further Capesize Expansion o Agreed to acquire the 2009-built Capesize vessel M/V Friendship, with delivery expected in early Q1 2027.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1912847/000114036126044204/0001140361-26-044204-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1912847/000114036126044204/ef20085539_ex99-1.htm",
-   "filed_at": "2026-11-16T16:15:20-05:00",
-   "filed_kst": "2026-11-17 06:15",
-   "price": 3.01,
-   "change": 1.69,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 3.01,
-     "change": 1.69
-    },
-    {
-     "date": "2026-11-13",
-     "close": 2.96,
-     "change": -1.99
-    },
-    {
-     "date": "2026-11-12",
-     "close": 3.02,
-     "change": 22.76
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Water Transportation",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "GLYFADA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T06:33:32+09:00"
-  },
-  {
-   "id": "0001140361-26-044205",
-   "company": "Seanergy Maritime Holdings Corp.",
-   "ticker": "SHIP",
-   "cik": 1448397,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 64,
-   "summary": "Fleet Update Acquisition of Four Vessels for Delivery Between 2027 and 2029 Since its previous quarterly update, the Company has agreed to acquire four vessels from unaffiliated third parties for an aggregate consideration of approximately $264 million, comprising: - a 180,000 dwt Capesize built in ",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1448397/000114036126044205/0001140361-26-044205-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1448397/000114036126044205/ef20085588_ex99-1.htm",
-   "filed_at": "2026-11-16T16:15:43-05:00",
-   "filed_kst": "2026-11-17 06:15",
-   "price": 15.66,
-   "change": -1.57,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 15.66,
-     "change": -1.57
-    },
-    {
-     "date": "2026-11-13",
-     "close": 15.91,
-     "change": 2.12
-    },
-    {
-     "date": "2026-11-12",
-     "close": 15.58,
-     "change": 1.04
-    }
-   ],
-   "market_cap": 1069812665.0,
-   "shares_outstanding": 68314985.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "ATHENS",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:33:20+09:00"
   }
  ]
 }
