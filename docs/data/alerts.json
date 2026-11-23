@@ -1,7 +1,110 @@
 {
- "updated_at": "2026-11-23T23:04:59+09:00",
+ "updated_at": "2026-11-23T23:09:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-130892",
+   "company": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+   "ticker": "BBVA",
+   "cik": 842180,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 tm2628285d6_6k.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 6-K REPORT OF FOREIGN ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of November, 2026 Commission file number: 1-10110 BANCO BILBAO VIZCAYA",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926130892/0001104659-26-130892-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/842180/000110465926130892/tm2628285d6_6k.htm",
+   "filed_at": "2026-11-23T09:06:07-05:00",
+   "filed_kst": "2026-11-23 23:06",
+   "price": 23.49,
+   "change": -3.85,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 23.49,
+     "change": -3.85
+    },
+    {
+     "date": "2026-11-19",
+     "close": 24.43,
+     "change": -2.2
+    },
+    {
+     "date": "2026-11-18",
+     "close": 24.98,
+     "change": -2.15
+    }
+   ],
+   "market_cap": 134103674763.0,
+   "shares_outstanding": 5708968700.0,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": null,
+   "hq": "MADRID, U3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-23T23:06:39+09:00"
+  },
+  {
+   "id": "0001628280-26-075381",
+   "company": "Standard Nuclear, Inc.",
+   "ticker": "STDN",
+   "cik": 2086716,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "The Company already conducts DOE-authorized HALEU TRISO fuel production at its SN-0 facility in Oak Ridge, Tennessee, and has secured Nuclear Regulatory Commission (\"NRC\") approval for TRISO fuel production in Richland, Washington, through its joint venture with Framatome.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026075381/0001628280-26-075381-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2086716/000162828026075381/stdn-20261112.htm",
+   "filed_at": "2026-11-23T09:05:27-05:00",
+   "filed_kst": "2026-11-23 23:05",
+   "price": 8.14,
+   "change": -9.66,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 8.14,
+     "change": -9.66
+    },
+    {
+     "date": "2026-11-19",
+     "close": 9.01,
+     "change": -5.36
+    },
+    {
+     "date": "2026-11-18",
+     "close": 9.52,
+     "change": 2.04
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Industrial Inorganic Chemicals",
+   "state_of_incorporation": "DE",
+   "hq": "OAK RIDGE, TN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-23T23:06:05+09:00"
+  },
   {
    "id": "0001683168-26-009032",
    "company": "NOCERA, INC.",
@@ -15429,115 +15532,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T08:34:13+09:00"
-  },
-  {
-   "id": "0001493152-26-052599",
-   "company": "NOMAD POWER SOLUTIONS, INC.",
-   "ticker": "NMAD",
-   "cik": 1335105,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 66,
-   "summary": "■ Canadian Strategic Partnership: As announced on September 25, 2026, NOMAD appointed Global Environmental Liquid Ltd.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1335105/000149315226052599/0001493152-26-052599-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1335105/000149315226052599/ex99-1.htm",
-   "filed_at": "2026-11-16T17:22:17-05:00",
-   "filed_kst": "2026-11-17 07:22",
-   "price": 2.8,
-   "change": 19.15,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 2.8,
-     "change": 19.15
-    },
-    {
-     "date": "2026-11-13",
-     "close": 2.35,
-     "change": -36.49
-    },
-    {
-     "date": "2026-11-12",
-     "close": 3.7,
-     "change": -1.33
-    }
-   ],
-   "market_cap": 51574970.0,
-   "shares_outstanding": 18419632.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "BOCA RATON, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T08:34:02+09:00"
-  },
-  {
-   "id": "0001213900-26-120820",
-   "company": "ENDRA Life Sciences Inc.",
-   "ticker": "NDRA",
-   "cik": 1681682,
-   "form": "425",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Pursuant to the merger agreement announced on June 25, 2026, Noble Africa will become a wholly owned subsidiary of ENDRA, and ENDRA will be renamed 4K Resources Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026120820/0001213900-26-120820-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026120820/ea031249401ex99-1.htm",
-   "filed_at": "2026-11-16T17:06:11-05:00",
-   "filed_kst": "2026-11-17 07:06",
-   "price": 4.42,
-   "change": 0.23,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 4.42,
-     "change": 0.23
-    },
-    {
-     "date": "2026-11-13",
-     "close": 4.41,
-     "change": -4.96
-    },
-    {
-     "date": "2026-11-12",
-     "close": 4.64,
-     "change": -2.7
-    }
-   ],
-   "market_cap": 6629284.0,
-   "shares_outstanding": 1499838.0,
-   "industry": "Electromedical & Electrotherapeutic Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "ANN ARBOR, MI",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T08:33:01+09:00"
   }
  ]
 }
