@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-24T03:04:41+09:00",
+ "updated_at": "2026-11-24T03:09:16+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-075429",
+   "company": "ERICSSON LM TELEPHONE CO",
+   "ticker": "ERIC",
+   "cik": 717826,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "00 The share repurchases are a part of the share buyback program of up to SEK 15,000,000,000 which Ericsson announced on April 16, 2026, and which runs between April 23, 2026, and March 31, 2027, at the latest.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026075429/0001628280-26-075429-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/717826/000162828026075429/sharebuybacksinericssondur.htm",
+   "filed_at": "2026-11-23T13:07:16-05:00",
+   "filed_kst": "2026-11-24 03:07",
+   "price": 10.19,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 10.19,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-23",
+     "close": 10.19,
+     "change": 4.3
+    },
+    {
+     "date": "2026-11-20",
+     "close": 9.77,
+     "change": -3.93
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "Sweden",
+   "hq": "STOCKHOLM SWEDEN, V7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-24T03:08:14+09:00"
+  },
   {
    "id": "0001437749-26-038014",
    "company": "LCNB CORP",
@@ -15465,62 +15515,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T11:56:55+09:00"
-  },
-  {
-   "id": "0001104659-26-128450",
-   "company": "Traws Pharma, Inc.",
-   "ticker": "TRAW",
-   "cik": 1130598,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA",
-    "대형계약"
-   ],
-   "confidence": 66,
-   "summary": "Food and Drug Administration (FDA) a registration strategy for adults at high risk of progression to severe COVID-19 who are ineligible for PAXLOVID ® , including a potential adaptive Phase 2b/Pivotal program and Fast Track designation.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926128450/0001104659-26-128450-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926128450/tm2629930d1_ex99-1.htm",
-   "filed_at": "2026-11-16T16:45:14-05:00",
-   "filed_kst": "2026-11-17 06:45",
-   "price": 0.26,
-   "change": 4.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.26,
-     "change": 4.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.25,
-     "change": -10.71
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.28,
-     "change": 12.0
-    }
-   ],
-   "market_cap": 3995752.0,
-   "shares_outstanding": 15368277.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "NEWTOWN, PA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T08:35:21+09:00"
   }
  ]
 }
