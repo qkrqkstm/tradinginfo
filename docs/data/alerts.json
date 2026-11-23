@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-23T22:34:33+09:00",
+ "updated_at": "2026-11-23T22:39:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-037982",
+   "company": "Moleculin Biotech, Inc.",
+   "ticker": "MBRX",
+   "cik": 1659617,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "Annamycin, also known by its non-proprietary name of naxtarubicin, currently has Fast Track Status and Orphan Drug Designation from the FDA for the treatment of relapsed or refractory acute myeloid leukemia, in addition to Orphan Drug Designation for the treatment of soft tissue sarcoma.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926037982/0001437749-26-037982-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926037982/ex_1049953.htm",
+   "filed_at": "2026-11-23T08:36:14-05:00",
+   "filed_kst": "2026-11-23 22:36",
+   "price": 7.74,
+   "change": -2.4,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 7.74,
+     "change": -2.4
+    },
+    {
+     "date": "2026-11-19",
+     "close": 7.93,
+     "change": 17.48
+    },
+    {
+     "date": "2026-11-18",
+     "close": 6.75,
+     "change": -1.17
+    }
+   ],
+   "market_cap": 8216265.0,
+   "shares_outstanding": 1061533.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "HOUSTON, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-23T22:37:34+09:00"
+  },
+  {
+   "id": "0001178913-26-005319",
+   "company": "RedHill Biopharma Ltd.",
+   "ticker": "RDHL",
+   "cik": 1553846,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "M&A",
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 97,
+   "summary": "REBYOTA generated approximately $17 million in 2025 net sales and has received FDA Breakthrough Therapy and Orphan Drug designations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326005319/0001178913-26-005319-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1553846/000117891326005319/exhibit_99-1.htm",
+   "filed_at": "2026-11-23T08:35:47-05:00",
+   "filed_kst": "2026-11-23 22:35",
+   "price": 0.28,
+   "change": -13.0,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 0.28,
+     "change": -13.0
+    },
+    {
+     "date": "2026-11-19",
+     "close": 0.32,
+     "change": -7.71
+    },
+    {
+     "date": "2026-11-18",
+     "close": 0.35,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 14258513080.0,
+   "shares_outstanding": 50923261000.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "TEL AVIV, L3",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-23T22:36:53+09:00"
+  },
   {
    "id": "0001193125-26-471002",
    "company": "Invivyd, Inc.",
@@ -15423,110 +15529,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T06:46:38+09:00"
-  },
-  {
-   "id": "0002015845-26-000065",
-   "company": "Everus Construction Group, Inc.",
-   "ticker": "ECG",
-   "cik": 2015845,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 63,
-   "summary": "1 Everus Announces Authorization of New $100 Million Share Repurchase Program BISMARCK, N.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2015845/000201584526000065/0002015845-26-000065-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2015845/000201584526000065/ex99-sharerepurchaseauthor.htm",
-   "filed_at": "2026-11-16T16:41:06-05:00",
-   "filed_kst": "2026-11-17 06:41",
-   "price": 82.92,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 82.92,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 82.92,
-     "change": -2.73
-    },
-    {
-     "date": "2026-11-13",
-     "close": 85.25,
-     "change": -2.2
-    }
-   ],
-   "market_cap": 4234240147.0,
-   "shares_outstanding": 51064160.0,
-   "industry": "Operative Builders",
-   "state_of_incorporation": "DE",
-   "hq": "BISMARCK, ND",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:46:13+09:00"
-  },
-  {
-   "id": "0001193125-26-463570",
-   "company": "Navigator Holdings Ltd.",
-   "ticker": "NVGS",
-   "cik": 1581804,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "(described herein as “Navigator Gas” or the “Company”) (NYSE: NVGS) announces that at a special meeting of the Company’s shareholders held on November 16, 2026, the Company’s shareholders approved the proposal to approve and adopt the previously announced agreement and plan of merger (the “Merger Ag",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526463570/0001193125-26-463570-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526463570/d155031d425.htm",
-   "filed_at": "2026-11-16T16:18:32-05:00",
-   "filed_kst": "2026-11-17 06:18",
-   "price": 20.98,
-   "change": -1.59,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 20.98,
-     "change": -1.59
-    },
-    {
-     "date": "2026-11-13",
-     "close": 21.32,
-     "change": -0.42
-    },
-    {
-     "date": "2026-11-12",
-     "close": 21.41,
-     "change": 1.66
-    }
-   ],
-   "market_cap": 1368954315.0,
-   "shares_outstanding": 65250444.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:43:03+09:00"
   }
  ]
 }
