@@ -1,7 +1,153 @@
 {
- "updated_at": "2026-11-23T21:29:32+09:00",
+ "updated_at": "2026-11-23T21:34:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-130838",
+   "company": "Dogwood Therapeutics, Inc.",
+   "ticker": "DWTX",
+   "cik": 1818844,
+   "form": "8-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 91,
+   "summary": "Halneuron ® has been granted Fast Track Designation from the FDA for the treatment of CINP.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1818844/000110465926130838/0001104659-26-130838-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1818844/000110465926130838/dwtx-ex99d1.htm",
+   "filed_at": "2026-11-23T07:33:24-05:00",
+   "filed_kst": "2026-11-23 21:33",
+   "price": 1.03,
+   "change": -2.36,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 1.03,
+     "change": -2.36
+    },
+    {
+     "date": "2026-11-19",
+     "close": 1.06,
+     "change": -1.85
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1.08,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 39374750.0,
+   "shares_outstanding": 38227913.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "ALPHARETTA, GA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-23T21:34:20+09:00"
+  },
+  {
+   "id": "0001437749-26-037971",
+   "company": "Loop Industries, Inc.",
+   "ticker": "LOOP",
+   "cik": 1504678,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "In connection with that resignation, Daniel agrees that the Company’s Series A Preferred Share will be cancelled, in accordance with the Company’s constating documents.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1504678/000143774926037971/0001437749-26-037971-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1504678/000143774926037971/ex_1049980.htm",
+   "filed_at": "2026-11-23T07:30:18-05:00",
+   "filed_kst": "2026-11-23 21:30",
+   "price": 0.24,
+   "change": -0.83,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 0.24,
+     "change": -0.83
+    },
+    {
+     "date": "2026-11-19",
+     "close": 0.24,
+     "change": 14.69
+    },
+    {
+     "date": "2026-11-18",
+     "close": 0.21,
+     "change": -1.4
+    }
+   ],
+   "market_cap": 11715018.0,
+   "shares_outstanding": 48812574.0,
+   "industry": "Chemicals & Allied Products",
+   "state_of_incorporation": "NV",
+   "hq": "TERREBONNE, A8",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-23T21:31:15+09:00"
+  },
+  {
+   "id": "0001104659-26-130837",
+   "company": "BEACON TOPCO, INC.",
+   "ticker": "CLYD",
+   "cik": 2094256,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "M&A",
+    "탑라인결과"
+   ],
+   "confidence": 69,
+   "summary": "Topline data from the multiple-ascending-dose portion, which includes a controlled gluten challenge after three doses, are expected in the fourth quarter of 2026.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2094256/000110465926130837/0001104659-26-130837-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2094256/000110465926130837/tm2628797d6_ex99-1.htm",
+   "filed_at": "2026-11-23T07:30:31-05:00",
+   "filed_kst": "2026-11-23 21:30",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": 3618160.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "DOVER, DE",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-23T21:31:12+09:00"
+  },
   {
    "id": "0001564708-26-000267",
    "company": "NEWS CORP",
@@ -15366,157 +15512,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-17T06:33:48+09:00"
-  },
-  {
-   "id": "0000950103-26-017560",
-   "company": "XP Inc.",
-   "ticker": "XP",
-   "cik": 1787425,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "주식소각"
-   ],
-   "confidence": 81,
-   "summary": "Announces Cash Dividend, Treasury Shares Retirement and New Share Repurchase Program São Paulo, Brazil, November 16, 2026 – XP Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1787425/000095010326017560/0000950103-26-017560-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1787425/000095010326017560/dp256942_ex9901.htm",
-   "filed_at": "2026-11-16T16:11:11-05:00",
-   "filed_kst": "2026-11-17 06:11",
-   "price": 14.83,
-   "change": -4.26,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 14.83,
-     "change": -4.26
-    },
-    {
-     "date": "2026-11-13",
-     "close": 15.49,
-     "change": 2.99
-    },
-    {
-     "date": "2026-11-12",
-     "close": 15.04,
-     "change": -2.24
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Security Brokers, Dealers & Flotation Companies",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GRAND CAYMAN, GEORGE TOWN, E9",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:33:41+09:00"
-  },
-  {
-   "id": "0001554855-26-002394",
-   "company": "PagSeguro Digital Ltd.",
-   "ticker": "PAGS",
-   "cik": 1712807,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 62,
-   "summary": "In September, our board of directors authorized a new share repurchase program of up to US$150 million, and we paid a dividend of US$0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1712807/000155485526002394/0001554855-26-002394-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1712807/000155485526002394/MainDocument.htm",
-   "filed_at": "2026-11-16T16:11:43-05:00",
-   "filed_kst": "2026-11-17 06:11",
-   "price": 7.99,
-   "change": 0.13,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 7.99,
-     "change": 0.13
-    },
-    {
-     "date": "2026-11-13",
-     "close": 7.98,
-     "change": 2.05
-    },
-    {
-     "date": "2026-11-12",
-     "close": 7.82,
-     "change": -1.51
-    }
-   ],
-   "market_cap": 2095685970.0,
-   "shares_outstanding": 262288607.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GRAND CAYMAN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:33:40+09:00"
-  },
-  {
-   "id": "0001104659-26-128319",
-   "company": "GLOBUS MARITIME LTD",
-   "ticker": "GLBS",
-   "cik": 1499780,
-   "form": "6-K",
-   "items": [],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "On October 21, 2026, the Company drew down $22.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1499780/000110465926128319/0001104659-26-128319-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1499780/000110465926128319/tm2629730d1_ex99-2.htm",
-   "filed_at": "2026-11-16T16:12:37-05:00",
-   "filed_kst": "2026-11-17 06:12",
-   "price": 2.73,
-   "change": -6.19,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 2.73,
-     "change": -6.19
-    },
-    {
-     "date": "2026-11-13",
-     "close": 2.91,
-     "change": 1.39
-    },
-    {
-     "date": "2026-11-12",
-     "close": 2.87,
-     "change": -4.01
-    }
-   ],
-   "market_cap": 58919682.0,
-   "shares_outstanding": 21582301.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "ATHENS GREECE, J3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:33:38+09:00"
   }
  ]
 }
