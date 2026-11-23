@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-23T23:24:30+09:00",
+ "updated_at": "2026-11-23T23:29:35+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053680",
+   "company": "Imunon, Inc.",
+   "ticker": "IMNN",
+   "cik": 749647,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "IMUNON previously reported positive results from the completed Phase 2 OVATION 2 Study, which assessed IMNN-001 (100 mg/m 2 administered intraperitoneally weekly) plus neoadjuvant and adjuvant chemotherapy (N/ACT) of paclitaxel and carboplatin compared to standard-of-care N/ACT alone in",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/749647/000149315226053680/0001493152-26-053680-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/749647/000149315226053680/ex99-1.htm",
+   "filed_at": "2026-11-23T09:27:33-05:00",
+   "filed_kst": "2026-11-23 23:27",
+   "price": 0.54,
+   "change": -0.93,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 0.54,
+     "change": -0.93
+    },
+    {
+     "date": "2026-11-20",
+     "close": 0.54,
+     "change": -5.26
+    },
+    {
+     "date": "2026-11-19",
+     "close": 0.57,
+     "change": -1.72
+    }
+   ],
+   "market_cap": 3503134.0,
+   "shares_outstanding": 6487286.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "LAWRENCEVILLE, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-23T23:28:22+09:00"
+  },
   {
    "id": "0001193125-26-471087",
    "company": "GRAHAM CORP",
@@ -15478,60 +15533,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T08:34:21+09:00"
-  },
-  {
-   "id": "0001104659-26-128485",
-   "company": "Capstone Energy Plus, Inc.",
-   "ticker": "CEPL",
-   "cik": 1009759,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "1 Capstone Energy+ Secures $25 Million Refinancing and Reports Second Quarter Fiscal 2027 Financial Results ​ $25 million three-year Monarch agreement proceeds used to refinance December 2026 Exit Notes Second-quarter revenue of $22.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926128485/0001104659-26-128485-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926128485/cepl-ex99d1.htm",
-   "filed_at": "2026-11-16T16:54:15-05:00",
-   "filed_kst": "2026-11-17 06:54",
-   "price": 2.63,
-   "change": -1.13,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 2.63,
-     "change": -1.13
-    },
-    {
-     "date": "2026-11-13",
-     "close": 2.66,
-     "change": -6.99
-    },
-    {
-     "date": "2026-11-12",
-     "close": 2.86,
-     "change": -7.14
-    }
-   ],
-   "market_cap": 48777687.0,
-   "shares_outstanding": 18546649.0,
-   "industry": "Engines & Turbines",
-   "state_of_incorporation": "DE",
-   "hq": "VAN NUYS, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T08:34:20+09:00"
   }
  ]
 }
