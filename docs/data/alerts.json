@@ -1,7 +1,171 @@
 {
- "updated_at": "2026-11-23T22:29:17+09:00",
+ "updated_at": "2026-11-23T22:34:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-471002",
+   "company": "Invivyd, Inc.",
+   "ticker": "IVVD",
+   "cik": 1832038,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "탑라인결과",
+    "FDA"
+   ],
+   "confidence": 76,
+   "summary": "VYD2311 leverages the same antibody backbone as pemivibart, Invivyd’s investigational mAb granted emergency use authorization in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526471002/0001193125-26-471002-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526471002/ivvd-ex99_1.htm",
+   "filed_at": "2026-11-23T08:32:45-05:00",
+   "filed_kst": "2026-11-23 22:32",
+   "price": 0.41,
+   "change": -0.07,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 0.41,
+     "change": -0.07
+    },
+    {
+     "date": "2026-11-20",
+     "close": 0.41,
+     "change": -7.4
+    },
+    {
+     "date": "2026-11-19",
+     "close": 0.45,
+     "change": -5.31
+    }
+   ],
+   "market_cap": 121209180.0,
+   "shares_outstanding": 295632147.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "NEW HAVEN, CT",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-23T22:34:32+09:00"
+  },
+  {
+   "id": "0001193125-26-471000",
+   "company": "Personalis, Inc.",
+   "ticker": "PSNL",
+   "cik": 1527753,
+   "form": "425",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": ", each recommended that Personalis stockholders vote in favor of the Company’s proposal to adopt the Agreement and Plan of Merger dated as of July 20, 2026 by and among the Company, Tempus AI, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526471000/0001193125-26-471000-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526471000/d126024d425.htm",
+   "filed_at": "2026-11-23T08:31:59-05:00",
+   "filed_kst": "2026-11-23 22:31",
+   "price": 14.27,
+   "change": -3.06,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 14.27,
+     "change": -3.06
+    },
+    {
+     "date": "2026-11-19",
+     "close": 14.72,
+     "change": -1.74
+    },
+    {
+     "date": "2026-11-18",
+     "close": 14.98,
+     "change": 1.22
+    }
+   ],
+   "market_cap": 1546922426.0,
+   "shares_outstanding": 108403814.0,
+   "industry": "Services-Medical Laboratories",
+   "state_of_incorporation": "DE",
+   "hq": "FREMONT, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-23T22:32:53+09:00"
+  },
+  {
+   "id": "0001683168-26-009031",
+   "company": "Empery Digital Inc.",
+   "ticker": "EMPD",
+   "cik": 1829794,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "1 Empery Digital Announces Update on Share Repurchase Program Empery Digital Has Repurchased Incremental 1,196,193 Shares Empery Digital Has Repurchased Approximately 28.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826009031/0001683168-26-009031-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1829794/000168316826009031/empery_ex9901.htm",
+   "filed_at": "2026-11-23T08:30:31-05:00",
+   "filed_kst": "2026-11-23 22:30",
+   "price": 1.75,
+   "change": -10.91,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 1.75,
+     "change": -10.91
+    },
+    {
+     "date": "2026-11-19",
+     "close": 1.97,
+     "change": -1.01
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1.99,
+     "change": 1.02
+    }
+   ],
+   "market_cap": 48561611.0,
+   "shares_outstanding": 27749492.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "PFLUGERVILLE, TX",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-23T22:31:33+09:00"
+  },
   {
    "id": "0001213900-26-122933",
    "company": "Niki BioSolutions, Inc.",
@@ -15363,163 +15527,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-17T06:43:03+09:00"
-  },
-  {
-   "id": "0001193125-26-463585",
-   "company": "Navigator Holdings Ltd.",
-   "ticker": "NVGS",
-   "cik": 1581804,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "(described herein as “Navigator Gas” or the “Company”) (NYSE: NVGS) announces that at a special meeting of the Company’s shareholders held on November 16, 2026, the Company’s shareholders approved the proposal to approve and adopt the previously announced agreement and plan of merger (the “Merger Ag",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526463585/0001193125-26-463585-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526463585/d50322d425.htm",
-   "filed_at": "2026-11-16T16:21:23-05:00",
-   "filed_kst": "2026-11-17 06:21",
-   "price": 20.98,
-   "change": -1.59,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 20.98,
-     "change": -1.59
-    },
-    {
-     "date": "2026-11-13",
-     "close": 21.32,
-     "change": -0.42
-    },
-    {
-     "date": "2026-11-12",
-     "close": 21.41,
-     "change": 1.66
-    }
-   ],
-   "market_cap": 1368954315.0,
-   "shares_outstanding": 65250444.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:42:42+09:00"
-  },
-  {
-   "id": "0001999371-26-025521",
-   "company": "CPI AEROSTRUCTURES INC",
-   "ticker": "CVU",
-   "cik": 889348,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "” “With backlog at approximately $634 million up from $505 million at year end 2025, which includes awards received this year of $70 million supporting next-generation defense platforms, we enter the final months of 2026 with strong visibility and confidence.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/889348/000199937126025521/0001999371-26-025521-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/889348/000199937126025521/ex99-1.htm",
-   "filed_at": "2026-11-16T16:34:49-05:00",
-   "filed_kst": "2026-11-17 06:34",
-   "price": 4.24,
-   "change": -7.42,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 4.24,
-     "change": -7.42
-    },
-    {
-     "date": "2026-11-13",
-     "close": 4.58,
-     "change": -0.65
-    },
-    {
-     "date": "2026-11-12",
-     "close": 4.61,
-     "change": -0.43
-    }
-   ],
-   "market_cap": 56184308.0,
-   "shares_outstanding": 13251016.0,
-   "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
-   "state_of_incorporation": "NY",
-   "hq": "EDGEWOOD, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T06:42:38+09:00"
-  },
-  {
-   "id": "0001193125-26-463602",
-   "company": "Navigator Holdings Ltd.",
-   "ticker": "NVGS",
-   "cik": 1581804,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 74,
-   "summary": "(described herein as “Navigator Gas” or the “Company”) (NYSE: NVGS) announces that at a special meeting of the Company’s shareholders held on November 16, 2026, the Company’s shareholders approved the proposal to approve and adopt the previously announced agreement and plan of merger (the “Merger Ag",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526463602/0001193125-26-463602-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1581804/000119312526463602/d158546dex991.htm",
-   "filed_at": "2026-11-16T16:26:38-05:00",
-   "filed_kst": "2026-11-17 06:26",
-   "price": 20.98,
-   "change": -1.59,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 20.98,
-     "change": -1.59
-    },
-    {
-     "date": "2026-11-13",
-     "close": 21.32,
-     "change": -0.42
-    },
-    {
-     "date": "2026-11-12",
-     "close": 21.41,
-     "change": 1.66
-    }
-   ],
-   "market_cap": 1368954315.0,
-   "shares_outstanding": 65250444.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Marshall Islands",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-17T06:41:22+09:00"
   }
  ]
 }
