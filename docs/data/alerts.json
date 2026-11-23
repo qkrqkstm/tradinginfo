@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-23T20:09:15+09:00",
+ "updated_at": "2026-11-23T20:14:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053617",
+   "company": "Lion Copper Corp.",
+   "ticker": "LCU",
+   "cik": 1339688,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "5.05",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Confidential information acquired from third parties pursuant to a confidentiality agreement (such as joint venture partners, landowners, or potential acquisition targets) must be used for authorized purposes only.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1339688/000149315226053617/0001493152-26-053617-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1339688/000149315226053617/ex14-1.htm",
+   "filed_at": "2026-11-23T06:12:11-05:00",
+   "filed_kst": "2026-11-23 20:12",
+   "price": 3.21,
+   "change": -21.71,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 3.21,
+     "change": -21.71
+    },
+    {
+     "date": "2026-11-19",
+     "close": 4.1,
+     "change": -1.2
+    },
+    {
+     "date": "2026-11-18",
+     "close": 4.15,
+     "change": 0.48
+    }
+   ],
+   "market_cap": 51329913.0,
+   "shares_outstanding": 15990627.0,
+   "industry": "Metal Mining",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "YERINGTON",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-23T20:13:15+09:00"
+  },
   {
    "id": "0001535527-26-000035",
    "company": "CrowdStrike Holdings, Inc.",
@@ -15463,61 +15518,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T06:30:24+09:00"
-  },
-  {
-   "id": "0001193125-26-463444",
-   "company": "Acrivon Therapeutics, Inc.",
-   "ticker": "ACRV",
-   "cik": 1781174,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "The company has received Fast Track designation from the Food and Drug Administration, or FDA, for the investigation of ACR-368 as a monotherapy based on OncoSignature-predicted sensitivity in patients with EC.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463444/0001193125-26-463444-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463444/acrv-ex99_1.htm",
-   "filed_at": "2026-11-16T16:05:15-05:00",
-   "filed_kst": "2026-11-17 06:05",
-   "price": 1.46,
-   "change": 0.69,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 1.46,
-     "change": 0.69
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.45,
-     "change": -0.68
-    },
-    {
-     "date": "2026-11-12",
-     "close": 1.46,
-     "change": -7.01
-    }
-   ],
-   "market_cap": 62651053.0,
-   "shares_outstanding": 42911680.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "WATERTOWN, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T06:30:21+09:00"
   }
  ]
 }
