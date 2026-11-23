@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-23T20:29:05+09:00",
+ "updated_at": "2026-11-23T20:34:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-470893",
+   "company": "American Bitcoin Corp.",
+   "ticker": "ABTC",
+   "cik": 1755953,
+   "form": "8-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "LIMITATION OF LIABILITY; THE PARTIES EXPRESSLY UNDERSTANDS AND AGREES THAT NEITHER PARTY, THEIR AFFILIATES AND SERVICE PROVIDERS, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, AGENTS, JOINT VENTURERS, EMPLOYEES, AND REPRESENTATIVES WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1755953/000119312526470893/0001193125-26-470893-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1755953/000119312526470893/abtc-ex10_1.htm",
+   "filed_at": "2026-11-23T06:30:14-05:00",
+   "filed_kst": "2026-11-23 20:30",
+   "price": 3.5,
+   "change": -8.85,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 3.5,
+     "change": -8.85
+    },
+    {
+     "date": "2026-11-19",
+     "close": 3.84,
+     "change": -5.88
+    },
+    {
+     "date": "2026-11-18",
+     "close": 4.08,
+     "change": -4.23
+    }
+   ],
+   "market_cap": 289808421.0,
+   "shares_outstanding": 82802406.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "DE",
+   "hq": "MIAMI, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-23T20:31:17+09:00"
+  },
   {
    "id": "0001345099-26-000104",
    "company": "MESOBLAST LTD",
@@ -15450,61 +15501,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-17T06:31:33+09:00"
-  },
-  {
-   "id": "0001493152-26-052332",
-   "company": "Soluna Holdings, Inc",
-   "ticker": "SLNH",
-   "cik": 64463,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "On October 20, Soluna signed a subscription agreement to form a joint venture, 51% Applied Digital and 49% Soluna, for a planned 50 MW critical IT Phase 1 AI/HPC facility at Dorothy 3.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226052332/0001493152-26-052332-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226052332/ex99-1.htm",
-   "filed_at": "2026-11-16T16:01:38-05:00",
-   "filed_kst": "2026-11-17 06:01",
-   "price": 0.46,
-   "change": -8.58,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.46,
-     "change": -8.58
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.5,
-     "change": -5.66
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.53,
-     "change": -8.62
-    }
-   ],
-   "market_cap": 119060714.0,
-   "shares_outstanding": 258827640.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "NV",
-   "hq": "ALBANY, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T06:31:31+09:00"
   }
  ]
 }
