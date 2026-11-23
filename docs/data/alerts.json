@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-23T20:24:13+09:00",
+ "updated_at": "2026-11-23T20:29:05+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001345099-26-000104",
+   "company": "MESOBLAST LTD",
+   "ticker": "MESO",
+   "cik": 1345099,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 61,
+   "summary": "launch of Ryoncil® (remestemcel-L-rknd), the first mesenchymal stromal cell therapy approved by the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000104/0001345099-26-000104-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1345099/000134509926000104/form6-kxpressreleasecoverf.htm",
+   "filed_at": "2026-11-23T06:24:07-05:00",
+   "filed_kst": "2026-11-23 20:24",
+   "price": 10.89,
+   "change": -2.59,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 10.89,
+     "change": -2.59
+    },
+    {
+     "date": "2026-11-19",
+     "close": 11.18,
+     "change": -3.95
+    },
+    {
+     "date": "2026-11-18",
+     "close": 11.64,
+     "change": -2.27
+    }
+   ],
+   "market_cap": 14122835631.0,
+   "shares_outstanding": 1296862776.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "Australia",
+   "hq": "MELBOURNE, VICTORIA, C3",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-23T20:25:25+09:00"
+  },
   {
    "id": "0002063345-26-000016",
    "company": "Cadeler plc",
@@ -15455,62 +15505,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T06:31:31+09:00"
-  },
-  {
-   "id": "0001493152-26-052334",
-   "company": "Dare Bioscience, Inc.",
-   "ticker": "DARE",
-   "cik": 1401914,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "파트너십",
-    "탑라인결과",
-    "대형계약"
-   ],
-   "confidence": 76,
-   "summary": "The Company continues to anticipate reporting topline data from the study in 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1401914/000149315226052334/0001493152-26-052334-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1401914/000149315226052334/ex99-1.htm",
-   "filed_at": "2026-11-16T16:02:40-05:00",
-   "filed_kst": "2026-11-17 06:02",
-   "price": 0.58,
-   "change": -11.08,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.58,
-     "change": -11.08
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.66,
-     "change": 2.02
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.64,
-     "change": -7.2
-    }
-   ],
-   "market_cap": 11408068.0,
-   "shares_outstanding": 19669083.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "SAN DIEGO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T06:31:28+09:00"
   }
  ]
 }
