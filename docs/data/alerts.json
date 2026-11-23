@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-11-23T20:19:35+09:00",
+ "updated_at": "2026-11-23T20:24:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0002063345-26-000016",
+   "company": "Cadeler plc",
+   "ticker": "CDLR",
+   "cik": 2063345,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "\" Acquisition of Menck Cadeler completed the acquisition of Menck in August 2026 for an enterprise value of EUR 501 million.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2063345/000206334526000016/0002063345-26-000016-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2063345/000206334526000016/a6-kxq32026earningsrelease.htm",
+   "filed_at": "2026-11-23T06:22:12-05:00",
+   "filed_kst": "2026-11-23 20:22",
+   "price": 6.37,
+   "change": 0.47,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 6.37,
+     "change": 0.47
+    },
+    {
+     "date": "2026-11-19",
+     "close": 6.34,
+     "change": 0.96
+    },
+    {
+     "date": "2026-11-18",
+     "close": 6.28,
+     "change": 0.48
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "NORWICH, NORFOLK",
+   "entity_category": null,
+   "detected_at": "2026-11-23T20:22:54+09:00"
+  },
   {
    "id": "0001493152-26-053617",
    "company": "Lion Copper Corp.",
@@ -15463,61 +15511,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T06:31:28+09:00"
-  },
-  {
-   "id": "0001664710-26-000072",
-   "company": "Keros Therapeutics, Inc.",
-   "ticker": "KROS",
-   "cik": 1664710,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 78,
-   "summary": "Share Repurchase Program On November 16, 2026, Keros Therapeutics, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000072/0001664710-26-000072-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1664710/000166471026000072/kros-20261116.htm",
-   "filed_at": "2026-11-16T16:04:41-05:00",
-   "filed_kst": "2026-11-17 06:04",
-   "price": 10.03,
-   "change": -2.62,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 10.03,
-     "change": -2.62
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.3,
-     "change": 2.18
-    },
-    {
-     "date": "2026-11-12",
-     "close": 10.08,
-     "change": 5.66
-    }
-   ],
-   "market_cap": 196832471.0,
-   "shares_outstanding": 19624374.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": null,
-   "hq": "LEXINGTON, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T06:30:24+09:00"
   }
  ]
 }
