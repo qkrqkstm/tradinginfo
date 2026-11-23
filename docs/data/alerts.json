@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-23T22:24:20+09:00",
+ "updated_at": "2026-11-23T22:29:17+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-122933",
+   "company": "Niki BioSolutions, Inc.",
+   "ticker": "NIKI",
+   "cik": 1734005,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "We anticipate beginning clinical validation in the first half of 2027 and are targeting top-line results in the fourth quarter of 2027.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/0001213900-26-122933-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/ea031301501ex99-1.htm",
+   "filed_at": "2026-11-23T08:24:30-05:00",
+   "filed_kst": "2026-11-23 22:24",
+   "price": 1.57,
+   "change": -6.55,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 1.57,
+     "change": -6.55
+    },
+    {
+     "date": "2026-11-19",
+     "close": 1.68,
+     "change": 5.0
+    },
+    {
+     "date": "2026-11-18",
+     "close": 1.6,
+     "change": 6.67
+    }
+   ],
+   "market_cap": 4645041.0,
+   "shares_outstanding": 2958625.0,
+   "industry": "Measuring & Controlling Devices, NEC",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "PRINCETON, NJ",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-23T22:25:33+09:00"
+  },
   {
    "id": "0001493152-26-053652",
    "company": "Sharplink, Inc.",
@@ -15466,57 +15520,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-17T06:41:22+09:00"
-  },
-  {
-   "id": "0001753926-26-002153",
-   "company": "Vivani Medical, Inc.",
-   "ticker": "VANI",
-   "cik": 1266806,
-   "form": "8-K",
-   "items": [],
-   "primary": "탑라인결과",
-   "primary_key": "topline",
-   "emoji": "📊",
-   "types": [
-    "탑라인결과"
-   ],
-   "confidence": 60,
-   "summary": "The financing follows the Company’s November 12, 2026 announcement of positive top-line results from SLIM-1, its first-in-human Phase 1 clinical trial of NPM-139, which support advancing NPM-139 toward a Phase 2 dose-ranging weight maintenance trial anticipated to begin in 2027.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1266806/000175392626002153/0001753926-26-002153-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1266806/000175392626002153/ex992_3.htm",
-   "filed_at": "2026-11-16T16:30:32-05:00",
-   "filed_kst": "2026-11-17 06:30",
-   "price": 1.02,
-   "change": 0.99,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 1.02,
-     "change": 0.99
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.01,
-     "change": 2.75
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.98,
-     "change": -13.01
-    }
-   ],
-   "market_cap": 92007423.0,
-   "shares_outstanding": 90203356.0,
-   "industry": "Electromedical & Electrotherapeutic Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "ALAMEDA, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T06:41:16+09:00"
   }
  ]
 }
