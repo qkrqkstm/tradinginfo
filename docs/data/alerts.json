@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-24T00:39:30+09:00",
+ "updated_at": "2026-11-24T00:44:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001171843-26-007637",
+   "company": "NOVO NORDISK A S",
+   "ticker": "NVO",
+   "cik": 353278,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 f6k_112326.htm FORM 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 ________________ FORM 6-K ________________ REPORT OF FOREIGN PRIVATE ISSUER Pursuant to Rule 13a-16 or 15d-16 of the Securities Exchange Act of 1934 November 23, 2026 ________________ NOVO NORDISK A",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326007637/0001171843-26-007637-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326007637/f6k_112326.htm",
+   "filed_at": "2026-11-23T10:43:54-05:00",
+   "filed_kst": "2026-11-24 00:43",
+   "price": 38.84,
+   "change": 2.7,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 38.84,
+     "change": 2.7
+    },
+    {
+     "date": "2026-11-20",
+     "close": 37.82,
+     "change": -2.7
+    },
+    {
+     "date": "2026-11-19",
+     "close": 38.87,
+     "change": -1.42
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": null,
+   "hq": "BAGSVAERD DENMARK, G7",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-24T00:44:21+09:00"
+  },
   {
    "id": "0001650107-26-000151",
    "company": "COCA-COLA EUROPACIFIC PARTNERS plc",
@@ -15472,61 +15522,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T08:34:27+09:00"
-  },
-  {
-   "id": "0001193125-26-463733",
-   "company": "Aon plc",
-   "ticker": "AON",
-   "cik": 315293,
-   "form": "8-K",
-   "items": [
-    "2.01",
-    "2.03",
-    "5.02",
-    "7.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 71,
-   "summary": "EX-99.1 4 d181018dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Aon Completes Acquisition of USI to Establish the Premier U.S. Middle-Market Platform • Substantially enhances the firm’s presence in the large and growing U.S. middle-market segment • As an Aon company, USI will be integrated into Aon under t",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/0001193125-26-463733-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/d181018dex991.htm",
-   "filed_at": "2026-11-16T16:51:14-05:00",
-   "filed_kst": "2026-11-17 06:51",
-   "price": 343.12,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 343.12,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 343.12,
-     "change": 1.42
-    },
-    {
-     "date": "2026-11-13",
-     "close": 338.31,
-     "change": 1.47
-    }
-   ],
-   "market_cap": 72795370229.0,
-   "shares_outstanding": 212157176.0,
-   "industry": "Insurance Agents, Brokers & Service",
-   "state_of_incorporation": "Ireland",
-   "hq": "DUBLIN 2, L2",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T08:34:24+09:00"
   }
  ]
 }
