@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-23T20:44:29+09:00",
+ "updated_at": "2026-11-23T20:49:21+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-470904",
+   "company": "EagleRock Land, LLC",
+   "ticker": "EROK",
+   "cik": 2104882,
+   "form": "425",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "On November 22, 2026, EagleRock Land LLC, a Texas limited liability company (the “Company”), and EagleRock Land Operating, LLC, a Texas limited liability company and a subsidiary of the Company (“Company Opco”), entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Texas Pacific",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2104882/000119312526470904/0001193125-26-470904-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2104882/000119312526470904/d179845d425.htm",
+   "filed_at": "2026-11-23T06:44:27-05:00",
+   "filed_kst": "2026-11-23 20:44",
+   "price": 19.7,
+   "change": -2.91,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 19.7,
+     "change": -2.91
+    },
+    {
+     "date": "2026-11-19",
+     "close": 20.29,
+     "change": -0.34
+    },
+    {
+     "date": "2026-11-18",
+     "close": 20.36,
+     "change": 0.59
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Oil Royalty Traders",
+   "state_of_incorporation": "TX",
+   "hq": "MIDLAND, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-23T20:45:31+09:00"
+  },
   {
    "id": "0001193125-26-470902",
    "company": "EagleRock Land, LLC",
@@ -15453,56 +15508,6 @@
    "hq": "LONDON",
    "entity_category": null,
    "detected_at": "2026-11-17T06:33:17+09:00"
-  },
-  {
-   "id": "0001493152-26-052416",
-   "company": "Draganfly Inc.",
-   "ticker": "DPRO",
-   "cik": 1786286,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "The exclusive agreement sets out a framework for a joint venture to establish a manufacturing and technology capability in the Philippines, with Canadian design and engineering supporting systems tailored to local operating requirements.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1786286/000149315226052416/0001493152-26-052416-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1786286/000149315226052416/ex99-1.htm",
-   "filed_at": "2026-11-16T16:22:27-05:00",
-   "filed_kst": "2026-11-17 06:22",
-   "price": 2.69,
-   "change": -4.95,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 2.69,
-     "change": -4.95
-    },
-    {
-     "date": "2026-11-13",
-     "close": 2.83,
-     "change": -1.74
-    },
-    {
-     "date": "2026-11-12",
-     "close": 2.88,
-     "change": -4.0
-    }
-   ],
-   "market_cap": 78937445.0,
-   "shares_outstanding": 29344775.0,
-   "industry": "Aircraft",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "SASKATOON, A9",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T06:33:15+09:00"
   }
  ]
 }
