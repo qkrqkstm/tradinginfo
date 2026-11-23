@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-23T22:49:31+09:00",
+ "updated_at": "2026-11-23T22:54:46+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-122950",
+   "company": "Ondas Inc.",
+   "ticker": "ONDS",
+   "cik": 1646188,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "1 We secured approximately $214 million in new orders during the third quarter and ended September with $835 million in backlog.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026122950/0001213900-26-122950-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026122950/ea031321601ex99-1.htm",
+   "filed_at": "2026-11-23T08:52:13-05:00",
+   "filed_kst": "2026-11-23 22:52",
+   "price": 3.76,
+   "change": -11.11,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 3.76,
+     "change": -11.11
+    },
+    {
+     "date": "2026-11-19",
+     "close": 4.23,
+     "change": -4.3
+    },
+    {
+     "date": "2026-11-18",
+     "close": 4.42,
+     "change": 0.68
+    }
+   ],
+   "market_cap": 2145276802.0,
+   "shares_outstanding": 570552341.0,
+   "industry": "Radio & Tv Broadcasting & Communications Equipment",
+   "state_of_incorporation": "NV",
+   "hq": "WEST PALM BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-23T22:53:22+09:00"
+  },
   {
    "id": "0001493152-26-053669",
    "company": "REGENTIS BIOMATERIALS LTD.",
@@ -15478,56 +15532,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-17T08:32:56+09:00"
-  },
-  {
-   "id": "0001001085-26-000030",
-   "company": "BROOKFIELD Corp /ON/",
-   "ticker": "BN",
-   "cik": 1001085,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "Looking ahead, we see significant opportunities to grow our flagship funds, scale complementary strategies, deepen strategic partnerships, and access new pools of capital, particularly from private wealth and retirement savings.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1001085/000100108526000030/0001001085-26-000030-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1001085/000100108526000030/a2026-q3bninterimreport.htm",
-   "filed_at": "2026-11-16T17:15:17-05:00",
-   "filed_kst": "2026-11-17 07:15",
-   "price": 40.39,
-   "change": -1.42,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 40.39,
-     "change": -1.42
-    },
-    {
-     "date": "2026-11-13",
-     "close": 40.97,
-     "change": -1.61
-    },
-    {
-     "date": "2026-11-12",
-     "close": 41.64,
-     "change": -1.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Opeators of  Nonresidential Buildings",
-   "state_of_incorporation": "Ontario, Canada",
-   "hq": "TORONTO, A6",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T08:32:50+09:00"
   }
  ]
 }
