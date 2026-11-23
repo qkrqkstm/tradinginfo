@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-23T23:14:49+09:00",
+ "updated_at": "2026-11-23T23:19:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-471087",
+   "company": "GRAHAM CORP",
+   "ticker": "GHM",
+   "cik": 716314,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The all-cash transaction structure aligns with Graham’s disciplined long-term financial objectives and capital structure while preserving balance sheet strength and liquidity.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/716314/000119312526471087/0001193125-26-471087-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/716314/000119312526471087/d105877dex991.htm",
+   "filed_at": "2026-11-23T09:16:06-05:00",
+   "filed_kst": "2026-11-23 23:16",
+   "price": 69.94,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 69.94,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-20",
+     "close": 69.94,
+     "change": -9.56
+    },
+    {
+     "date": "2026-11-19",
+     "close": 77.33,
+     "change": -1.95
+    }
+   ],
+   "market_cap": 820953552.0,
+   "shares_outstanding": 11737969.0,
+   "industry": "General Industrial Machinery & Equipment",
+   "state_of_incorporation": "DE",
+   "hq": "BATAVIA, NY",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-23T23:16:47+09:00"
+  },
   {
    "id": "0001493152-26-053678",
    "company": "Pulmatrix, Inc.",
@@ -15479,60 +15532,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T08:34:20+09:00"
-  },
-  {
-   "id": "0001213900-26-120816",
-   "company": "ENDRA Life Sciences Inc.",
-   "ticker": "NDRA",
-   "cik": 1681682,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Pursuant to the merger agreement announced on June 25, 2026, Noble Africa will become a wholly owned subsidiary of ENDRA, and ENDRA will be renamed 4K Resources Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026120816/0001213900-26-120816-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1681682/000121390026120816/ea031249401ex99-1.htm",
-   "filed_at": "2026-11-16T17:04:49-05:00",
-   "filed_kst": "2026-11-17 07:04",
-   "price": 4.42,
-   "change": 0.23,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 4.42,
-     "change": 0.23
-    },
-    {
-     "date": "2026-11-13",
-     "close": 4.41,
-     "change": -4.96
-    },
-    {
-     "date": "2026-11-12",
-     "close": 4.64,
-     "change": -2.7
-    }
-   ],
-   "market_cap": 6629284.0,
-   "shares_outstanding": 1499838.0,
-   "industry": "Electromedical & Electrotherapeutic Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "ANN ARBOR, MI",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T08:34:15+09:00"
   }
  ]
 }
