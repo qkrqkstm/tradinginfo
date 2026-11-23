@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-24T03:29:24+09:00",
+ "updated_at": "2026-11-24T03:34:48+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-053713",
+   "company": "Draganfly Inc.",
+   "ticker": "DPRO",
+   "cik": 1786286,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 60,
+   "summary": "2 Draganfly and TAF Industries Announce Strategic Collaboration to Advance Canada–Ukraine Defence Manufacturing Capabilities Collaboration to explore Canadian manufacturing, technology integration and joint development of advanced Ukrainian unmanned systems KYIV, Ukraine – November 23, 2026 – Dr",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1786286/000149315226053713/0001493152-26-053713-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1786286/000149315226053713/ex99-2.htm",
+   "filed_at": "2026-11-23T13:33:41-05:00",
+   "filed_kst": "2026-11-24 03:33",
+   "price": 2.08,
+   "change": 10.96,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 2.08,
+     "change": 10.96
+    },
+    {
+     "date": "2026-11-20",
+     "close": 1.87,
+     "change": -6.5
+    },
+    {
+     "date": "2026-11-19",
+     "close": 2.0,
+     "change": -17.01
+    }
+   ],
+   "market_cap": 61037132.0,
+   "shares_outstanding": 29344775.0,
+   "industry": "Aircraft",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "SASKATOON, A9",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-24T03:34:48+09:00"
+  },
   {
    "id": "0001654954-26-010056",
    "company": "HSBC HOLDINGS PLC",
@@ -15452,59 +15502,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T20:02:52+09:00"
-  },
-  {
-   "id": "0000950123-10-056034",
-   "company": "DTE ENERGY CO",
-   "ticker": "DTE",
-   "cik": 936340,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "The rate order includes a $22 million impact of lower depreciation rates ordered in case U-15699 which adjusted MichCon’s as-filed revenue deficiency from $193 million to $171 million.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000095012310056034/0000950123-10-056034-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/936340/000095012310056034/c02071exv99w1.htm",
-   "filed_at": "2010-06-04T17:00:29-04:00",
-   "filed_kst": "2010-06-05 06:00",
-   "price": 139.91,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 139.91,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 139.91,
-     "change": 0.14
-    },
-    {
-     "date": "2026-11-13",
-     "close": 139.72,
-     "change": 0.37
-    }
-   ],
-   "market_cap": 29105241272.0,
-   "shares_outstanding": 208028313.0,
-   "industry": "Electric Services",
-   "state_of_incorporation": "MI",
-   "hq": "DETROIT, MI",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T14:36:55+09:00"
   }
  ]
 }
