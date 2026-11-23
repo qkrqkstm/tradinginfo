@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-23T20:04:52+09:00",
+ "updated_at": "2026-11-23T20:09:15+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001535527-26-000035",
+   "company": "CrowdStrike Holdings, Inc.",
+   "ticker": "CRWD",
+   "cik": 1535527,
+   "form": "8-K",
+   "items": [
+    "2.02",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 78,
+   "summary": "• Agreed to acquire Fiddler, a leader in AI observability and explainability, and acquired Dreadnode, a leader in automated AI security testing.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+   "filed_at": "2026-11-23T06:04:51-05:00",
+   "filed_kst": "2026-11-23 20:04",
+   "price": 229.44,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-23",
+     "close": 229.44,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-20",
+     "close": 229.44,
+     "change": -5.76
+    },
+    {
+     "date": "2026-11-19",
+     "close": 243.46,
+     "change": 2.71
+    }
+   ],
+   "market_cap": 234931610148.0,
+   "shares_outstanding": 1023934842.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "AUSTIN, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-23T20:05:30+09:00"
+  },
   {
    "id": "0001104659-26-130763",
    "company": "Net Power Inc.",
@@ -15463,59 +15518,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-17T06:30:21+09:00"
-  },
-  {
-   "id": "0001493152-26-052352",
-   "company": "NextBoat Inc.",
-   "ticker": "NXB",
-   "cik": 2067767,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "under the strategic partnership agreement and a $0.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226052352/0001493152-26-052352-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226052352/ex99-1.htm",
-   "filed_at": "2026-11-16T16:05:53-05:00",
-   "filed_kst": "2026-11-17 06:05",
-   "price": 1.37,
-   "change": 0.03,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 1.37,
-     "change": 0.03
-    },
-    {
-     "date": "2026-11-16",
-     "close": 1.37,
-     "change": -2.03
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.4,
-     "change": 19.66
-    }
-   ],
-   "market_cap": 34445766.0,
-   "shares_outstanding": 25142895.0,
-   "industry": "Ship & Boat Building & Repairing",
-   "state_of_incorporation": "NV",
-   "hq": "WILMINGTON, NC",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T06:30:15+09:00"
   }
  ]
 }
