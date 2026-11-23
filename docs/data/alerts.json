@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-23T20:39:27+09:00",
+ "updated_at": "2026-11-23T20:44:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-470902",
+   "company": "EagleRock Land, LLC",
+   "ticker": "EROK",
+   "cik": 2104882,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "M&A"
+   ],
+   "confidence": 80,
+   "summary": "In connection with the transaction, TPL’s Board of Directors approved an increase in the company’s share repurchase authorization to $500 million.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2104882/000119312526470902/0001193125-26-470902-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2104882/000119312526470902/d179845dex991.htm",
+   "filed_at": "2026-11-23T06:41:15-05:00",
+   "filed_kst": "2026-11-23 20:41",
+   "price": 19.7,
+   "change": -2.91,
+   "price_history": [
+    {
+     "date": "2026-11-20",
+     "close": 19.7,
+     "change": -2.91
+    },
+    {
+     "date": "2026-11-19",
+     "close": 20.29,
+     "change": -0.34
+    },
+    {
+     "date": "2026-11-18",
+     "close": 20.36,
+     "change": 0.59
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Oil Royalty Traders",
+   "state_of_incorporation": "TX",
+   "hq": "MIDLAND, TX",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-23T20:41:53+09:00"
+  },
   {
    "id": "0001193125-26-470893",
    "company": "American Bitcoin Corp.",
@@ -15447,60 +15503,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-17T06:33:15+09:00"
-  },
-  {
-   "id": "0001493152-26-052331",
-   "company": "MIRA PHARMACEUTICALS, INC.",
-   "ticker": "MIRA",
-   "cik": 1904286,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "파트너십",
-    "임상통과"
-   ],
-   "confidence": 71,
-   "summary": "Ketamir-2 has successfully completed Phase 1 clinical testing and is advancing toward Phase 2a under an active IND.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1904286/000149315226052331/0001493152-26-052331-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1904286/000149315226052331/ex99-1.htm",
-   "filed_at": "2026-11-16T16:01:37-05:00",
-   "filed_kst": "2026-11-17 06:01",
-   "price": 0.63,
-   "change": -4.39,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.63,
-     "change": -4.39
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.66,
-     "change": 1.85
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.65,
-     "change": 4.18
-    }
-   ],
-   "market_cap": 26473915.0,
-   "shares_outstanding": 42022087.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "FL",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T06:31:33+09:00"
   }
  ]
 }
