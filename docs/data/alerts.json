@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-25T00:24:15+09:00",
+ "updated_at": "2026-11-25T00:29:11+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001114700-26-000087",
+   "company": "GRUPO FINANCIERO GALICIA SA",
+   "ticker": "GGAL",
+   "cik": 1114700,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.1 2 pressreleasegrupogalicia.htm EX-99.1 pressreleasegrupogalicia Financial Report Grupo Financiero Galicia S.A. 20263rd. quarter Grupo Galicia Galicia Naranja X Galicia Seguros GlosaryRelevant information ESG Regulatory changesGalicia Asset Management This report is a non-audited summary anal",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1114700/000111470026000087/0001114700-26-000087-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1114700/000111470026000087/pressreleasegrupogalicia.htm",
+   "filed_at": "2026-11-24T10:27:04-05:00",
+   "filed_kst": "2026-11-25 00:27",
+   "price": 26.01,
+   "change": -2.29,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 26.01,
+     "change": -2.29
+    },
+    {
+     "date": "2026-11-23",
+     "close": 26.62,
+     "change": 5.26
+    },
+    {
+     "date": "2026-11-20",
+     "close": 25.29,
+     "change": -2.99
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "Argentina",
+   "hq": "BUENOS AIRES, C1",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T00:28:07+09:00"
+  },
   {
    "id": "0001493152-26-053713",
    "company": "Draganfly Inc.",
@@ -15450,58 +15500,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T20:04:24+09:00"
-  },
-  {
-   "id": "0001988894-26-000094",
-   "company": "Amer Sports, Inc.",
-   "ticker": "AS",
-   "cik": 1988894,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "주식소각",
-    "가이던스상향"
-   ],
-   "confidence": 85,
-   "summary": "EX-99 2 pressreleaseq32026.htm EX-99.1 Document AMER SPORTS REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS, RAISES FULL YEAR REVENUE, MARGIN, AND EPS GUIDANCE • Strong 3Q26 results with revenues, adjust ed margins and EPS above guidance • Revenue increased 24% to $2,169 million, or +23% ex-currency, a",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1988894/000198889426000094/0001988894-26-000094-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1988894/000198889426000094/pressreleaseq32026.htm",
-   "filed_at": "2026-11-16T18:15:59-05:00",
-   "filed_kst": "2026-11-17 08:15",
-   "price": 29.1,
-   "change": -2.81,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 29.1,
-     "change": -2.81
-    },
-    {
-     "date": "2026-11-13",
-     "close": 29.94,
-     "change": -0.83
-    },
-    {
-     "date": "2026-11-12",
-     "close": 30.19,
-     "change": -2.86
-    }
-   ],
-   "market_cap": 16228120962.0,
-   "shares_outstanding": 557667387.0,
-   "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "GRAND CAYMAN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T20:02:52+09:00"
   }
  ]
 }
