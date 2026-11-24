@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-25T06:14:13+09:00",
+ "updated_at": "2026-11-25T06:19:38+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-054002",
+   "company": "Applied Digital Corp.",
+   "ticker": "APLD",
+   "cik": 1144879,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "3.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "The lease provides for approximately $5.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315226054002/0001493152-26-054002-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315226054002/ex99-1.htm",
+   "filed_at": "2026-11-24T16:15:18-05:00",
+   "filed_kst": "2026-11-25 06:15",
+   "price": 12.22,
+   "change": -11.58,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 12.22,
+     "change": -11.58
+    },
+    {
+     "date": "2026-11-23",
+     "close": 13.82,
+     "change": 20.28
+    },
+    {
+     "date": "2026-11-20",
+     "close": 11.49,
+     "change": -17.81
+    }
+   ],
+   "market_cap": 3695170851.0,
+   "shares_outstanding": 302387140.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "NV",
+   "hq": "DALLAS, TX",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T06:16:10+09:00"
+  },
   {
    "id": "0000919574-26-008238",
    "company": "CMB.TECH NV",
@@ -15425,57 +15480,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T20:19:19+09:00"
-  },
-  {
-   "id": "0001193125-26-464687",
-   "company": "Yalla Group Ltd",
-   "ticker": "YALA",
-   "cik": 1794350,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "3 Share Repurchase Program Under the Company’s share repurchase program launched in 2026 (the “2026 Program”), the Company may repurchase up to US$150 million worth of its outstanding ADSs and/or Class A ordinary shares over the 24 months starting from March 9",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1794350/000119312526464687/0001193125-26-464687-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1794350/000119312526464687/yala-ex99_1.htm",
-   "filed_at": "2026-11-17T06:03:32-05:00",
-   "filed_kst": "2026-11-17 20:03",
-   "price": 5.46,
-   "change": -0.91,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 5.46,
-     "change": -0.91
-    },
-    {
-     "date": "2026-11-13",
-     "close": 5.51,
-     "change": 0.73
-    },
-    {
-     "date": "2026-11-12",
-     "close": 5.47,
-     "change": -0.55
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Programming, Data Processing, Etc.",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "DUBAI",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-17T20:07:52+09:00"
   }
  ]
 }
