@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-25T06:09:22+09:00",
+ "updated_at": "2026-11-25T06:14:13+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000919574-26-008238",
+   "company": "CMB.TECH NV",
+   "ticker": "CMBT",
+   "cik": 1604481,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십",
+    "가이던스상향"
+   ],
+   "confidence": 65,
+   "summary": "The backlog covers charters of (i) vessels owned by the group, (ii) vessels to be delivered after the measurement date for which a firm charter has been concluded, and (iii) vessels owned by the Group’s joint ventures.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1604481/000091957426008238/0000919574-26-008238-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1604481/000091957426008238/p15165084_exh99-1.htm",
+   "filed_at": "2026-11-24T16:09:57-05:00",
+   "filed_kst": "2026-11-25 06:09",
+   "price": 17.54,
+   "change": 4.22,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 17.54,
+     "change": 4.22
+    },
+    {
+     "date": "2026-11-23",
+     "close": 16.83,
+     "change": 4.47
+    },
+    {
+     "date": "2026-11-20",
+     "close": 16.11,
+     "change": -1.1
+    }
+   ],
+   "market_cap": 5542247928.0,
+   "shares_outstanding": 315977647.0,
+   "industry": "Deep Sea Foreign Transportation of  Freight",
+   "state_of_incorporation": "Belgium",
+   "hq": "ANTWERP, C9",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-25T06:11:11+09:00"
+  },
   {
    "id": "0001104659-26-131579",
    "company": "Medalist Diversified, Inc.",
@@ -15425,56 +15476,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-17T20:07:52+09:00"
-  },
-  {
-   "id": "0001213900-26-121046",
-   "company": "Proem Acquisition Corp. I",
-   "ticker": "PAAC",
-   "cik": 2087446,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“Astro Digital”), a Delaware corporation, and Proem Acquisition Corp I (Nasdaq: PAAC) (“Proem”), a Cayman Islands exempted company, pursuant to the Merger Agreement, dated as of September 26, 2026, by and among Proem, PAAC Merger Sub I, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2087446/000121390026121046/0001213900-26-121046-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2087446/000121390026121046/ea0312549-425_proem1.htm",
-   "filed_at": "2026-11-17T06:02:28-05:00",
-   "filed_kst": "2026-11-17 20:02",
-   "price": 10.03,
-   "change": -0.2,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 10.03,
-     "change": -0.2
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.05,
-     "change": -0.4
-    },
-    {
-     "date": "2026-11-12",
-     "close": 10.09,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 177765030.0,
-   "shares_outstanding": 17723333.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "DALLAS, TX",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T20:07:04+09:00"
   }
  ]
 }
