@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-25T07:19:17+09:00",
+ "updated_at": "2026-11-25T07:24:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-054054",
+   "company": "FingerMotion, Inc.",
+   "ticker": "FNGR",
+   "cik": 1602409,
+   "form": "425",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "If definitive agreements are reached, the arrangement is expected to generate more than $100 million in contracted revenue over an initial five-year term, consistent with the Company’s prior disclosure.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226054054/0001493152-26-054054-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226054054/ex99-3.htm",
+   "filed_at": "2026-11-24T17:20:00-05:00",
+   "filed_kst": "2026-11-25 07:20",
+   "price": 0.02,
+   "change": -29.03,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 0.02,
+     "change": -29.03
+    },
+    {
+     "date": "2026-11-23",
+     "close": 0.03,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-20",
+     "close": 0.03,
+     "change": -18.42
+    }
+   ],
+   "market_cap": 1837426.0,
+   "shares_outstanding": 91871297.0,
+   "industry": "Services-Prepackaged Software",
+   "state_of_incorporation": "DE",
+   "hq": "WEST PALM BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-25T07:20:46+09:00"
+  },
   {
    "id": "0001104659-26-131666",
    "company": "Braemar Hotels & Resorts Inc.",
@@ -15360,43 +15411,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T22:54:26+09:00"
-  },
-  {
-   "id": "0001193125-26-464850",
-   "company": "Axalta Coating Systems Ltd.",
-   "ticker": "AXTA",
-   "cik": 1616862,
-   "form": "425",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "(“Axalta” or the “Company”) entered into a Merger Agreement (as amended by Amendment No.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1616862/000119312526464850/0001193125-26-464850-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1616862/000119312526464850/d109017d425.htm",
-   "filed_at": "2026-11-17T08:46:57-05:00",
-   "filed_kst": "2026-11-17 22:46",
-   "price": null,
-   "change": null,
-   "price_history": [],
-   "market_cap": null,
-   "shares_outstanding": 214045097.0,
-   "industry": "Paints, Varnishes, Lacquers, Enamels & Allied Prods",
-   "state_of_incorporation": "Bermuda",
-   "hq": "PHILADELPHIA, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T22:47:44+09:00"
   }
  ]
 }
