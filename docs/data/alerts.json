@@ -1,7 +1,164 @@
 {
- "updated_at": "2026-11-25T06:04:40+09:00",
+ "updated_at": "2026-11-25T06:09:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-131579",
+   "company": "Medalist Diversified, Inc.",
+   "ticker": "MDRR",
+   "cik": 1654595,
+   "form": "8-K",
+   "items": [
+    "5.03",
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "​ On November 20, 2026, the Board of Directors of the Company authorized a stock repurchase program (the “Repurchase Program”), pursuant to which the Company is authorized to repurchase up to 100,000 shares of its common stock, $0.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1654595/000110465926131579/0001104659-26-131579-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1654595/000110465926131579/mdrr-ex3d1.htm",
+   "filed_at": "2026-11-24T16:05:38-05:00",
+   "filed_kst": "2026-11-25 06:05",
+   "price": 9.63,
+   "change": -3.02,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 9.63,
+     "change": -3.02
+    },
+    {
+     "date": "2026-11-23",
+     "close": 9.93,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-20",
+     "close": 9.93,
+     "change": 0.43
+    }
+   ],
+   "market_cap": 15682455.0,
+   "shares_outstanding": 1628500.0,
+   "industry": "Real Estate Investment Trusts",
+   "state_of_incorporation": "MD",
+   "hq": "RICHMOND, VA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-25T06:07:02+09:00"
+  },
+  {
+   "id": "0001193125-26-475641",
+   "company": "Personalis, Inc.",
+   "ticker": "PSNL",
+   "cik": 1527753,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "001-38943) Date: November 24, 2026 Employee Equity FAQ This FAQ summarizes the treatment of employee equity awards under the merger agreement and is intended for current Personalis employees.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526475641/0001193125-26-475641-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1527753/000119312526475641/d352007d425.htm",
+   "filed_at": "2026-11-24T16:05:15-05:00",
+   "filed_kst": "2026-11-25 06:05",
+   "price": 14.53,
+   "change": -1.49,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 14.53,
+     "change": -1.49
+    },
+    {
+     "date": "2026-11-23",
+     "close": 14.75,
+     "change": 3.36
+    },
+    {
+     "date": "2026-11-20",
+     "close": 14.27,
+     "change": -3.06
+    }
+   ],
+   "market_cap": 1575107417.0,
+   "shares_outstanding": 108403814.0,
+   "industry": "Services-Medical Laboratories",
+   "state_of_incorporation": "DE",
+   "hq": "FREMONT, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-25T06:06:27+09:00"
+  },
+  {
+   "id": "0001193125-26-475639",
+   "company": "Maplebear Inc.",
+   "ticker": "CART",
+   "cik": 1579091,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526475639/0001193125-26-475639-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526475639/d363307d425.htm",
+   "filed_at": "2026-11-24T16:05:09-05:00",
+   "filed_kst": "2026-11-25 06:05",
+   "price": 57.35,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 57.35,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-24",
+     "close": 57.35,
+     "change": 0.72
+    },
+    {
+     "date": "2026-11-23",
+     "close": 56.94,
+     "change": -0.65
+    }
+   ],
+   "market_cap": 13570735662.0,
+   "shares_outstanding": 236630090.0,
+   "industry": "Services-Business Services, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "SAN FRANCISCO, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T06:05:49+09:00"
+  },
   {
    "id": "0001104659-26-131562",
    "company": "Vireo Growth Inc.",
@@ -15318,164 +15475,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-17T20:07:04+09:00"
-  },
-  {
-   "id": "0000950103-26-017589",
-   "company": "Tencent Music Entertainment Group",
-   "ticker": "TME",
-   "cik": 1744676,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "Share Repurchase Program Under our previously announced share repurchase program, during the three months ended September 30, 2026, we repurchased a total of 34.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1744676/000095010326017589/0000950103-26-017589-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1744676/000095010326017589/dp256931_ex9901.htm",
-   "filed_at": "2026-11-17T06:02:39-05:00",
-   "filed_kst": "2026-11-17 20:02",
-   "price": 8.88,
-   "change": -1.88,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 8.88,
-     "change": -1.88
-    },
-    {
-     "date": "2026-11-13",
-     "close": 9.05,
-     "change": 0.33
-    },
-    {
-     "date": "2026-11-12",
-     "close": 9.02,
-     "change": -2.17
-    }
-   ],
-   "market_cap": 27952543920.0,
-   "shares_outstanding": 3147809000.0,
-   "industry": "Radio Broadcasting Stations",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NANSHAN DISTRICT, SHENZHEN, F4",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T20:07:01+09:00"
-  },
-  {
-   "id": "0001104659-26-128747",
-   "company": "Duke Energy CORP",
-   "ticker": "DUK",
-   "cik": 1326160,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "· DEC expects to record a one-time pre-tax accounting charge of $10 million as a result of the Order.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926128747/0001104659-26-128747-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926128747/tm2629986d1_ex99-1.htm",
-   "filed_at": "2026-11-17T06:01:33-05:00",
-   "filed_kst": "2026-11-17 20:01",
-   "price": 130.59,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 130.59,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 130.59,
-     "change": 1.11
-    },
-    {
-     "date": "2026-11-13",
-     "close": 129.16,
-     "change": 0.44
-    }
-   ],
-   "market_cap": 101807469978.0,
-   "shares_outstanding": 779596217.0,
-   "industry": "Electric & Other Services Combined",
-   "state_of_incorporation": "DE",
-   "hq": "CHARLOTTE, NC",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T20:06:55+09:00"
-  },
-  {
-   "id": "0001213900-26-120978",
-   "company": "Inflection Point Acquisition Corp. VII",
-   "ticker": "IPXG",
-   "cik": 2088805,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십",
-    "대형계약"
-   ],
-   "confidence": 80,
-   "summary": "In June 2026, the company announced that it had entered into a definitive business combination agreement (the “Business Combination Agreement”) with Inflection Point Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120978/0001213900-26-120978-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120978/ea0311880-425_inflection7.htm",
-   "filed_at": "2026-11-16T20:32:21-05:00",
-   "filed_kst": "2026-11-17 10:32",
-   "price": 10.21,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 10.21,
-     "change": -0.05
-    },
-    {
-     "date": "2026-11-16",
-     "close": 10.21,
-     "change": -0.1
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.22,
-     "change": -0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T20:05:58+09:00"
   }
  ]
 }
