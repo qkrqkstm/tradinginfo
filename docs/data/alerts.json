@@ -1,7 +1,161 @@
 {
- "updated_at": "2026-11-25T06:24:18+09:00",
+ "updated_at": "2026-11-25T06:29:29+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-475833",
+   "company": "AMGEN INC",
+   "ticker": "AMGN",
+   "cik": 318154,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "FDA"
+   ],
+   "confidence": 65,
+   "summary": "Launch of Biosimilar to Opdivo ® Following Settlement Agreement Subject to FDA Approval, Amgen Will Launch ABP 206 in the U.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/318154/000119312526475833/0001193125-26-475833-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/318154/000119312526475833/amgn-ex99_1.htm",
+   "filed_at": "2026-11-24T16:25:29-05:00",
+   "filed_kst": "2026-11-25 06:25",
+   "price": 473.94,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 473.94,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-24",
+     "close": 473.93,
+     "change": 5.54
+    },
+    {
+     "date": "2026-11-23",
+     "close": 449.04,
+     "change": 3.08
+    }
+   ],
+   "market_cap": 256359591571.0,
+   "shares_outstanding": 540911490.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "DE",
+   "hq": "THOUSAND OAKS, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T06:27:13+09:00"
+  },
+  {
+   "id": "0001713683-26-000230",
+   "company": "Zscaler, Inc.",
+   "ticker": "ZS",
+   "cik": 1713683,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "Template: To All Customers Subject: Exciting news regarding Zscaler and your partnership with us Hi [Client First Name], I am writing to share exciting news that we announced publicly earlier today: Zscaler has entered into a definitive agreement to be acquired by CrowdStrike.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000230/0001713683-26-000230-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000230/customerpartnerenablementg.htm",
+   "filed_at": "2026-11-24T16:24:54-05:00",
+   "filed_kst": "2026-11-25 06:24",
+   "price": 231.62,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 231.62,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-24",
+     "close": 231.62,
+     "change": 1.04
+    },
+    {
+     "date": "2026-11-23",
+     "close": 229.24,
+     "change": 17.67
+    }
+   ],
+   "market_cap": 37766729151.0,
+   "shares_outstanding": 163054698.0,
+   "industry": "Services-Computer Programming Services",
+   "state_of_incorporation": "DE",
+   "hq": "SANTA CLARA, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T06:26:08+09:00"
+  },
+  {
+   "id": "0001193125-26-475827",
+   "company": "MindWalk Holdings Corp.",
+   "ticker": "HYFT",
+   "cik": 1715925,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "In November 2026, Teva Pharmaceuticals Australia signed a multi-year agreement for ReefIQ with specified LensAI capabilities.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1715925/000119312526475827/0001193125-26-475827-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1715925/000119312526475827/hyft-ex99_1.htm",
+   "filed_at": "2026-11-24T16:23:52-05:00",
+   "filed_kst": "2026-11-25 06:23",
+   "price": 0.66,
+   "change": 1.38,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 0.66,
+     "change": 1.38
+    },
+    {
+     "date": "2026-11-23",
+     "close": 0.65,
+     "change": -4.97
+    },
+    {
+     "date": "2026-11-20",
+     "close": 0.68,
+     "change": -14.29
+    }
+   ],
+   "market_cap": 30829832.0,
+   "shares_outstanding": 46711866.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "British Columbia, Canada",
+   "hq": "VICTORIA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-25T06:25:31+09:00"
+  },
   {
    "id": "0001493152-26-054002",
    "company": "Applied Digital Corp.",
@@ -15328,158 +15482,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T21:04:59+09:00"
-  },
-  {
-   "id": "0001737450-26-000025",
-   "company": "Opera Ltd",
-   "ticker": "OPRA",
-   "cik": 1737450,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 71,
-   "summary": "Share repurchases: Since the start of our $300 million share repurchase program in March 2026, we have repurchased 3,795,231 shares for $65.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1737450/000173745026000025/0001737450-26-000025-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1737450/000173745026000025/opra-ex99_1.htm",
-   "filed_at": "2026-11-17T07:01:31-05:00",
-   "filed_kst": "2026-11-17 21:01",
-   "price": 15.4,
-   "change": -2.53,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 15.4,
-     "change": -2.53
-    },
-    {
-     "date": "2026-11-13",
-     "close": 15.8,
-     "change": 1.09
-    },
-    {
-     "date": "2026-11-12",
-     "close": 15.63,
-     "change": -1.88
-    }
-   ],
-   "market_cap": 1380580062.0,
-   "shares_outstanding": 89648056.0,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "OSLO, Q8",
-   "entity_category": [
-    "Accelerated filer"
-   ],
-   "detected_at": "2026-11-17T21:02:26+09:00"
-  },
-  {
-   "id": "0001654954-26-009890",
-   "company": "Wise Group plc",
-   "ticker": "WSE",
-   "cik": 2099039,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": "4700 NASDAQ The repurchases form part of the Company's share buyback program announced on July 21, 2026 (the \"Buyback\").",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009890/0001654954-26-009890-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2099039/000165495426009890/a3925d.htm",
-   "filed_at": "2026-11-17T06:24:12-05:00",
-   "filed_kst": "2026-11-17 20:24",
-   "price": 11.66,
-   "change": 3.83,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 11.66,
-     "change": 3.83
-    },
-    {
-     "date": "2026-11-13",
-     "close": 11.23,
-     "change": 2.74
-    },
-    {
-     "date": "2026-11-12",
-     "close": 10.93,
-     "change": -1.97
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "Jersey",
-   "hq": "LONDON",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-17T20:25:46+09:00"
-  },
-  {
-   "id": "0001654954-26-009887",
-   "company": "RENTOKIL INITIAL PLC /FI",
-   "ticker": "RTO",
-   "cik": 930157,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "Following the cancellation of the repurchased shares, the Company has 2,519,597,049 ordinary shares in issue.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/930157/000165495426009887/0001654954-26-009887-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/930157/000165495426009887/a3920d.htm",
-   "filed_at": "2026-11-17T06:18:12-05:00",
-   "filed_kst": "2026-11-17 20:18",
-   "price": 24.19,
-   "change": 1.17,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 24.19,
-     "change": 1.17
-    },
-    {
-     "date": "2026-11-13",
-     "close": 23.91,
-     "change": 0.72
-    },
-    {
-     "date": "2026-11-12",
-     "close": 23.74,
-     "change": 0.64
-    }
-   ],
-   "market_cap": 61104904818.0,
-   "shares_outstanding": 2526039885.0,
-   "industry": "Services-Management Services",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "CRAWLEY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T20:19:19+09:00"
   }
  ]
 }
