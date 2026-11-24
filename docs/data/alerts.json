@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-25T05:19:35+09:00",
+ "updated_at": "2026-11-25T05:24:46+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001243429-26-000109",
+   "company": "ArcelorMittal",
+   "ticker": "MT",
+   "cik": 1243429,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "It is the largest steel producer in Europe, among the largest in the Americas, and has a growing presence in Asia through its joint venture AM/NS India.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1243429/000124342926000109/0001243429-26-000109-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1243429/000124342926000109/arcelormittalform6-knovemb.htm",
+   "filed_at": "2026-11-24T15:24:12-05:00",
+   "filed_kst": "2026-11-25 05:24",
+   "price": 55.8,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 55.8,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-24",
+     "close": 55.79,
+     "change": -5.46
+    },
+    {
+     "date": "2026-11-23",
+     "close": 59.02,
+     "change": 6.3
+    }
+   ],
+   "market_cap": 42470820700.0,
+   "shares_outstanding": 761125819.0,
+   "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+   "state_of_incorporation": null,
+   "hq": "GRAND DUCHY OF LUXEMBOURG, N4",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T05:24:45+09:00"
+  },
   {
    "id": "0001493152-26-053983",
    "company": "MANHATTAN BRIDGE CAPITAL, INC",
@@ -15434,63 +15484,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-17T20:05:54+09:00"
-  },
-  {
-   "id": "0001213900-26-120995",
-   "company": "Inflection Point Acquisition Corp. VII",
-   "ticker": "IPXG",
-   "cik": 2088805,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십"
-   ],
-   "confidence": 65,
-   "summary": "In June 2026, the company announced that it had entered into a definitive business combination agreement (the “Business Combination Agreement”) with Inflection Point Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120995/0001213900-26-120995-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026120995/ea031254301ex99-1.htm",
-   "filed_at": "2026-11-16T21:00:05-05:00",
-   "filed_kst": "2026-11-17 11:00",
-   "price": 10.21,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 10.21,
-     "change": -0.05
-    },
-    {
-     "date": "2026-11-16",
-     "close": 10.21,
-     "change": -0.1
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.22,
-     "change": -0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T20:05:49+09:00"
   }
  ]
 }
