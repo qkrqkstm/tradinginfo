@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-25T02:04:57+09:00",
+ "updated_at": "2026-11-25T02:09:10+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001468522-26-000088",
+   "company": "Ferrovial N.V.",
+   "ticker": "FER",
+   "cik": 1468522,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "(the “Company”) is submitting this current report on Form 6-K to report the transactions carried out by the Company from October 26, 2026 to November 20, 2026 under the share repurchase program started on December 15, 2025.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468522/000146852226000088/0001468522-26-000088-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1468522/000146852226000088/a6krepurchaseprogramnovemb.htm",
+   "filed_at": "2026-11-24T12:04:59-05:00",
+   "filed_kst": "2026-11-25 02:04",
+   "price": 58.95,
+   "change": -1.11,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 58.95,
+     "change": -1.11
+    },
+    {
+     "date": "2026-11-23",
+     "close": 59.61,
+     "change": 3.96
+    },
+    {
+     "date": "2026-11-20",
+     "close": 57.34,
+     "change": -2.86
+    }
+   ],
+   "market_cap": 42480913370.0,
+   "shares_outstanding": 720626181.0,
+   "industry": "Heavy Construction Other Than Bldg Const - Contractors",
+   "state_of_incorporation": "Netherlands",
+   "hq": "AMSTERDAM",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T02:05:33+09:00"
+  },
   {
    "id": "0001627282-26-000092",
    "company": "CaliberCos Inc.",
@@ -15446,60 +15496,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-17T20:04:28+09:00"
-  },
-  {
-   "id": "0001493152-26-052658",
-   "company": "Vivos Therapeutics, Inc.",
-   "ticker": "VVOS",
-   "cik": 1716166,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Vivos’ groundbreaking Complete Airway Repositioning and Expansion (CARE) devices were the first oral appliances to receive FDA 510(k) clearance for treating severe OSA in adults and the flagship DNA appliance is the first oral appliance to receive FDA clearance for treating moderate to severe OSA in",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226052658/0001493152-26-052658-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226052658/ex99-1.htm",
-   "filed_at": "2026-11-16T20:07:45-05:00",
-   "filed_kst": "2026-11-17 10:07",
-   "price": 0.08,
-   "change": -16.33,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 0.08,
-     "change": -16.33
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.1,
-     "change": 2.08
-    },
-    {
-     "date": "2026-11-12",
-     "close": 0.1,
-     "change": 5.49
-    }
-   ],
-   "market_cap": 2705661.0,
-   "shares_outstanding": 33820768.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": "DE",
-   "hq": "LITTLETON, CO",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T20:04:25+09:00"
   }
  ]
 }
