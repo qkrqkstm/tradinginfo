@@ -1,7 +1,113 @@
 {
- "updated_at": "2026-11-25T06:49:16+09:00",
+ "updated_at": "2026-11-25T06:54:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001140361-26-045518",
+   "company": "Mistras Group, Inc.",
+   "ticker": "MG",
+   "cik": 1436126,
+   "form": "8-K",
+   "items": [
+    "5.07",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 55,
+   "summary": "(NYSE: MG) (“MISTRAS” or the “Company”) announced that, at its special meeting of stockholders held today, the Company’s stockholders voted to adopt the previously announced Agreement and Plan of Merger, dated September 17, 2026 (the “Merger Agreement ”), pursuant to which affiliates of H.",
+   "deal_role": null,
+   "is_followup": true,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1436126/000114036126045518/0001140361-26-045518-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1436126/000114036126045518/ef20086431_ex99-1.htm",
+   "filed_at": "2026-11-24T16:51:11-05:00",
+   "filed_kst": "2026-11-25 06:51",
+   "price": 20.26,
+   "change": 0.1,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 20.26,
+     "change": 0.1
+    },
+    {
+     "date": "2026-11-23",
+     "close": 20.24,
+     "change": 0.25
+    },
+    {
+     "date": "2026-11-20",
+     "close": 20.19,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 645626919.0,
+   "shares_outstanding": 31867074.0,
+   "industry": "Services-Engineering Services",
+   "state_of_incorporation": "DE",
+   "hq": "PRINCETON JUNCTION, NJ",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-25T06:51:57+09:00"
+  },
+  {
+   "id": "0001482981-26-000193",
+   "company": "Vita Coco Company, Inc.",
+   "ticker": "COCO",
+   "cik": 1482981,
+   "form": "8-K",
+   "items": [
+    "8.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 67,
+   "summary": "01 per share (the “Common Stock”), increasing the total available authorization to $150 million, which includes $105 million of remaining availability under the Company’s previously announced share repurchase authorizations.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1482981/000148298126000193/0001482981-26-000193-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1482981/000148298126000193/coco-20261123.htm",
+   "filed_at": "2026-11-24T16:49:03-05:00",
+   "filed_kst": "2026-11-25 06:49",
+   "price": 59.29,
+   "change": -6.35,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 59.29,
+     "change": -6.35
+    },
+    {
+     "date": "2026-11-23",
+     "close": 63.31,
+     "change": -1.65
+    },
+    {
+     "date": "2026-11-20",
+     "close": 64.37,
+     "change": -1.24
+    }
+   ],
+   "market_cap": 3383316319.0,
+   "shares_outstanding": 57063861.0,
+   "industry": "Beverages",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T06:50:49+09:00"
+  },
   {
    "id": "0001213900-26-123721",
    "company": "Crown PropTech Acquisitions",
@@ -15285,116 +15391,6 @@
    "hq": "AMSTERDAM",
    "entity_category": null,
    "detected_at": "2026-11-17T22:33:21+09:00"
-  },
-  {
-   "id": "0001493152-26-052714",
-   "company": "Ainos, Inc.",
-   "ticker": "AIMD",
-   "cik": 1014763,
-   "form": "8-K",
-   "items": [
-    "1.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 59,
-   "summary": "1 Ainos Secures Largest Order in Company History: $9 Million ASE Agreement for 5,000 Additional AI Nose Systems Follow-on order marks progression from field validation and first-phase delivery to scaled commercial adoption of Chemical Intelligence in advanced packaging $4.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226052714/0001493152-26-052714-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1014763/000149315226052714/ex99-1.htm",
-   "filed_at": "2026-11-17T08:30:24-05:00",
-   "filed_kst": "2026-11-17 22:30",
-   "price": 1.14,
-   "change": -7.32,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 1.14,
-     "change": -7.32
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.23,
-     "change": 16.04
-    },
-    {
-     "date": "2026-11-12",
-     "close": 1.06,
-     "change": 118.56
-    }
-   ],
-   "market_cap": 8624773.0,
-   "shares_outstanding": 7565590.0,
-   "industry": "Computer Peripheral Equipment, NEC",
-   "state_of_incorporation": "TX",
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T22:31:46+09:00"
-  },
-  {
-   "id": "0001213900-26-121132",
-   "company": "Evolution Metals & Technologies Corp.",
-   "ticker": "EMAT",
-   "cik": 1866226,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "By leveraging proven commercial-scale operations, advanced processing technologies, and strategic partnerships, EM&T operates what it believes is the only vertically integrated critical materials supply chain spanning end-of-life electronics and batteries, high-grade concentrates, and the manufactur",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026121132/0001213900-26-121132-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026121132/ea031258601ex99-1.htm",
-   "filed_at": "2026-11-17T08:30:13-05:00",
-   "filed_kst": "2026-11-17 22:30",
-   "price": 0.69,
-   "change": 0.06,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 0.69,
-     "change": 0.06
-    },
-    {
-     "date": "2026-11-16",
-     "close": 0.69,
-     "change": -25.8
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.93,
-     "change": -5.66
-    }
-   ],
-   "market_cap": 433878546.0,
-   "shares_outstanding": 628809487.0,
-   "industry": "Miscellaneous Electrical Machinery, Equipment & Supplies",
-   "state_of_incorporation": "DE",
-   "hq": "MIAMI, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T22:30:56+09:00"
   }
  ]
 }
