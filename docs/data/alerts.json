@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-25T01:19:37+09:00",
+ "updated_at": "2026-11-25T01:24:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001627282-26-000092",
+   "company": "CaliberCos Inc.",
+   "ticker": "CWD",
+   "cik": 1627282,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "A Caliber-sponsored investment fund, in a joint venture with Trillium Residential, acquired Canyon Village in September 2024: two former Class A office buildings totaling approximately 311,706 square feet on 17.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1627282/000162728226000092/0001627282-26-000092-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1627282/000162728226000092/cwd-20261124.htm",
+   "filed_at": "2026-11-24T11:19:09-05:00",
+   "filed_kst": "2026-11-25 01:19",
+   "price": 0.33,
+   "change": -0.12,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 0.33,
+     "change": -0.12
+    },
+    {
+     "date": "2026-11-24",
+     "close": 0.33,
+     "change": -4.47
+    },
+    {
+     "date": "2026-11-23",
+     "close": 0.35,
+     "change": 3.25
+    }
+   ],
+   "market_cap": 3626177.0,
+   "shares_outstanding": 10988415.0,
+   "industry": "Real Estate",
+   "state_of_incorporation": "DE",
+   "hq": "SCOTTSDALE, AZ",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-25T01:20:32+09:00"
+  },
   {
    "id": "0001114700-26-000087",
    "company": "GRUPO FINANCIERO GALICIA SA",
@@ -15447,59 +15500,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T20:04:25+09:00"
-  },
-  {
-   "id": "0001564708-26-000263",
-   "company": "NEWS CORP",
-   "ticker": "NWS",
-   "cik": 1564708,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000263/0001564708-26-000263-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000263/appendix3cclassa20261116.htm",
-   "filed_at": "2026-11-16T20:07:56-05:00",
-   "filed_kst": "2026-11-17 10:07",
-   "price": 29.57,
-   "change": -1.07,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 29.57,
-     "change": -1.07
-    },
-    {
-     "date": "2026-11-13",
-     "close": 29.89,
-     "change": 2.47
-    },
-    {
-     "date": "2026-11-12",
-     "close": 29.17,
-     "change": -2.54
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Newspapers: Publishing or  Publishing & Printing",
-   "state_of_incorporation": "DE",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T20:04:24+09:00"
   }
  ]
 }
