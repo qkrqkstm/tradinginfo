@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-11-26T06:59:48+09:00",
+ "updated_at": "2026-11-26T07:04:55+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-124223",
+   "company": "Cantor Equity Partners I, Inc.",
+   "ticker": "CEPO",
+   "cik": 2027708,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-2.1 2 ea031322301ex2-1.htm SPONSOR SUPPORT AND FEE AGREEMENT, DATED AS OF NOVEMBER 24, 2026, BY AND BETWEEN CANTOR EQUITY PARTNERS I, INC. AND CANTOR EP HOLDINGS I, LLC Exhibit 2.1 SPONSOR SUPPORT AND FEE AGREEMENT THIS SPONSOR SUPPORT AND FEE AGREEMENT, dated as of November 24, 2026 (this “ Agre",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2027708/000121390026124223/0001213900-26-124223-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2027708/000121390026124223/ea031322301ex2-1.htm",
+   "filed_at": "2026-11-25T17:00:14-05:00",
+   "filed_kst": "2026-11-26 07:00",
+   "price": 10.84,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 10.84,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-24",
+     "close": 10.84,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-23",
+     "close": 10.84,
+     "change": 0.09
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Blank Checks",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-26T07:01:36+09:00"
+  },
   {
    "id": "0001292814-26-005404",
    "company": "Afya Ltd",
@@ -15339,60 +15395,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T06:45:13+09:00"
-  },
-  {
-   "id": "0001388658-26-000101",
-   "company": "iRhythm Holdings, Inc.",
-   "ticker": "IRTC",
-   "cik": 1388658,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 67,
-   "summary": ", a Delaware corporation (the “Company”), issued a press release announcing its entry into the accelerated share repurchase agreement described under Item 8.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1388658/000138865826000101/0001388658-26-000101-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1388658/000138865826000101/irtc-20261117.htm",
-   "filed_at": "2026-11-17T16:42:45-05:00",
-   "filed_kst": "2026-11-18 06:42",
-   "price": 89.67,
-   "change": -1.28,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 89.67,
-     "change": -1.28
-    },
-    {
-     "date": "2026-11-16",
-     "close": 90.83,
-     "change": -1.18
-    },
-    {
-     "date": "2026-11-13",
-     "close": 91.91,
-     "change": -1.76
-    }
-   ],
-   "market_cap": 3014539152.0,
-   "shares_outstanding": 33618146.0,
-   "industry": "Surgical & Medical Instruments & Apparatus",
-   "state_of_incorporation": null,
-   "hq": "San Francisco, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T06:43:34+09:00"
   }
  ]
 }
