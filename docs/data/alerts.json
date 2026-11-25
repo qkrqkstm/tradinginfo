@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-26T00:09:37+09:00",
+ "updated_at": "2026-11-26T00:14:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-010115",
+   "company": "NatWest Group plc",
+   "ticker": "NWG",
+   "cik": 844150,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "On 30 th June 2026 NWG completed the acquisition of Evelyn Partners, becoming the UK’s leading private bank and wealth manager.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/844150/000165495426010115/0001654954-26-010115-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/844150/000165495426010115/a6895e.htm",
+   "filed_at": "2026-11-25T10:13:13-05:00",
+   "filed_kst": "2026-11-26 00:13",
+   "price": 14.96,
+   "change": -2.64,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 14.97,
+     "change": -2.64
+    },
+    {
+     "date": "2026-11-24",
+     "close": 15.37,
+     "change": 0.2
+    },
+    {
+     "date": "2026-11-23",
+     "close": 15.34,
+     "change": 3.51
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Commercial Banks, NEC",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "EDINBURGH, SCOTLAND, X0",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-26T00:14:03+09:00"
+  },
   {
    "id": "0001493152-26-054134",
    "company": "REGENTIS BIOMATERIALS LTD.",
@@ -15359,56 +15409,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-18T05:08:03+09:00"
-  },
-  {
-   "id": "0001654954-26-009927",
-   "company": "HSBC HOLDINGS PLC",
-   "ticker": "HSBC",
-   "cik": 1089113,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "pdf *This represents the Company's issued ordinary share capital and total voting rights following the cancellation of the shares referred to above which have been repurchased today on the UK Venues.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009927/0001654954-26-009927-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426009927/a5720d.htm",
-   "filed_at": "2026-11-17T13:25:01-05:00",
-   "filed_kst": "2026-11-18 03:25",
-   "price": 87.37,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 87.37,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-17",
-     "close": 87.37,
-     "change": -0.88
-    },
-    {
-     "date": "2026-11-16",
-     "close": 88.15,
-     "change": -1.64
-    }
-   ],
-   "market_cap": 1500600706743.0,
-   "shares_outstanding": 17175239862.0,
-   "industry": "Savings Institution, Federally Chartered",
-   "state_of_incorporation": null,
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T03:25:45+09:00"
   }
  ]
 }
