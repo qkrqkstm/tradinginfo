@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-25T21:04:51+09:00",
+ "updated_at": "2026-11-25T21:09:34+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-054112",
+   "company": "POWERBANK Corp",
+   "ticker": "PBK",
+   "cik": 2011053,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 59,
+   "summary": "On September 3, 2026, it was awarded a contract through a competitive solicitation administered by the New York Power Authority to develop, build, own and operate a 1.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011053/000149315226054112/0001493152-26-054112-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2011053/000149315226054112/ex99-1.htm",
+   "filed_at": "2026-11-25T07:05:21-05:00",
+   "filed_kst": "2026-11-25 21:05",
+   "price": 0.1,
+   "change": -0.39,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 0.1,
+     "change": -0.39
+    },
+    {
+     "date": "2026-11-24",
+     "close": 0.1,
+     "change": 8.51
+    },
+    {
+     "date": "2026-11-23",
+     "close": 0.09,
+     "change": -2.08
+    }
+   ],
+   "market_cap": 4769728.0,
+   "shares_outstanding": 47697277.0,
+   "industry": "Construction - Special Trade Contractors",
+   "state_of_incorporation": "Ontario, Canada",
+   "hq": "TORONTO",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-25T21:06:04+09:00"
+  },
   {
    "id": "0001654954-26-010109",
    "company": "GSK plc",
@@ -15344,61 +15395,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T23:46:01+09:00"
-  },
-  {
-   "id": "0001140361-26-044356",
-   "company": "Viatris Inc",
-   "ticker": "VTRS",
-   "cik": 1792044,
-   "form": "8-K",
-   "items": [
-    "2.01",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A"
-   ],
-   "confidence": 81,
-   "summary": "EX-99.1 2 ef20085674_ex99-1.htm EXHIBIT 99.1 Exhibit 99.1 Viatris Completes Acquisition of Pacira BioSciences PITTSBURGH – Nov. 17, 2026 – Viatris Inc. (“Viatris”) (Nasdaq: VTRS), a global healthcare company, today announced that it has completed its acquisition of Pacira BioSciences, Inc. (“Pacira”",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/0001140361-26-044356-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/ef20085674_ex99-1.htm",
-   "filed_at": "2026-11-17T09:44:56-05:00",
-   "filed_kst": "2026-11-17 23:44",
-   "price": 20.62,
-   "change": -0.58,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 20.62,
-     "change": -0.58
-    },
-    {
-     "date": "2026-11-16",
-     "close": 20.74,
-     "change": -0.38
-    },
-    {
-     "date": "2026-11-13",
-     "close": 20.82,
-     "change": 0.73
-    }
-   ],
-   "market_cap": 23639896512.0,
-   "shares_outstanding": 1146454729.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CANONSBURG, PA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T23:45:59+09:00"
   }
  ]
 }
