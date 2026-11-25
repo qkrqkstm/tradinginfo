@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-26T00:24:18+09:00",
+ "updated_at": "2026-11-26T00:29:20+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001104659-26-131953",
+   "company": "ENI SPA",
+   "ticker": "E",
+   "cik": 1002242,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "From the start on 8 May 2026 of the buyback program, Eni acquired no.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002242/000110465926131953/0001104659-26-131953-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1002242/000110465926131953/tm2630665d1_6k.htm",
+   "filed_at": "2026-11-25T10:25:25-05:00",
+   "filed_kst": "2026-11-26 00:25",
+   "price": 52.25,
+   "change": -0.02,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 52.25,
+     "change": -0.02
+    },
+    {
+     "date": "2026-11-24",
+     "close": 52.26,
+     "change": 0.21
+    },
+    {
+     "date": "2026-11-23",
+     "close": 52.15,
+     "change": -0.93
+    }
+   ],
+   "market_cap": 164418477206.0,
+   "shares_outstanding": 3146765114.0,
+   "industry": "Crude Petroleum & Natural Gas",
+   "state_of_incorporation": "Italy",
+   "hq": "ROME ITALY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-26T00:26:32+09:00"
+  },
   {
    "id": "0001654954-26-010115",
    "company": "NatWest Group plc",
@@ -15357,58 +15407,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T06:01:59+09:00"
-  },
-  {
-   "id": "0001213900-26-121345",
-   "company": "Plum Acquisition Corp. IV",
-   "ticker": "PLMK",
-   "cik": 2030482,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "Additional Information and Where to Find It In connection with the transactions contemplated by the Business Combination Agreement (“Proposed Transactions”), Plum IV and CTR intend to file with the SEC a registration statement on Form S-4 (as may be amended, the “Registration Statement”), which will",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026121345/0001213900-26-121345-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026121345/ea0312653-425_plum4.htm",
-   "filed_at": "2026-11-17T15:05:54-05:00",
-   "filed_kst": "2026-11-18 05:05",
-   "price": 10.65,
-   "change": -0.05,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 10.65,
-     "change": -0.05
-    },
-    {
-     "date": "2026-11-16",
-     "close": 10.65,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.65,
-     "change": 0.05
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Electric Services",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-18T05:08:03+09:00"
   }
  ]
 }
