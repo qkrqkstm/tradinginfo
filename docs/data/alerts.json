@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-26T07:04:55+09:00",
+ "updated_at": "2026-11-26T07:09:22+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001437749-26-038312",
+   "company": "CATHAY GENERAL BANCORP",
+   "ticker": "CATY",
+   "cik": 861842,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "On November 25, 2026, Cathay General Bancorp (the “Company”, Nasdaq: CATY) issued a press release announcing that the Company has received regulatory approval for an increase to its existing share repurchase program by $50 million, which increase was previously approved by the Board of Directors, au",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926038312/0001437749-26-038312-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/861842/000143774926038312/caty20261125_8k.htm",
+   "filed_at": "2026-11-25T17:05:29-05:00",
+   "filed_kst": "2026-11-26 07:05",
+   "price": 62.78,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 62.78,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-25",
+     "close": 62.78,
+     "change": -0.24
+    },
+    {
+     "date": "2026-11-24",
+     "close": 62.93,
+     "change": 0.32
+    }
+   ],
+   "market_cap": 4137218511.0,
+   "shares_outstanding": 65900263.0,
+   "industry": "State Commercial Banks",
+   "state_of_incorporation": "DE",
+   "hq": "LOS ANGELES, CA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-26T07:06:59+09:00"
+  },
   {
    "id": "0001213900-26-124223",
    "company": "Cantor Equity Partners I, Inc.",
@@ -15342,59 +15395,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-18T06:46:51+09:00"
-  },
-  {
-   "id": "0001104659-26-129104",
-   "company": "COMFORT SYSTEMS USA INC",
-   "ticker": "FIX",
-   "cik": 1035983,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 71,
-   "summary": "com; 713-830-9687 Houston, Texas 77024 713-830-9600 FOR IMMEDIATE RELEASE COMFORT SYSTEMS USA INCREASES STOCK REPURCHASE PROGRAM Houston, TX — November 17, 2026 — Comfort Systems USA, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1035983/000110465926129104/0001104659-26-129104-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1035983/000110465926129104/tm2630100d1_ex99-1.htm",
-   "filed_at": "2026-11-17T16:43:54-05:00",
-   "filed_kst": "2026-11-18 06:43",
-   "price": 1099.02,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 1099.02,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-17",
-     "close": 1099.02,
-     "change": 3.91
-    },
-    {
-     "date": "2026-11-16",
-     "close": 1057.68,
-     "change": -4.93
-    }
-   ],
-   "market_cap": 38450208214.0,
-   "shares_outstanding": 34985904.0,
-   "industry": "Electrical Work",
-   "state_of_incorporation": null,
-   "hq": "HOUSTON, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T06:45:13+09:00"
   }
  ]
 }
