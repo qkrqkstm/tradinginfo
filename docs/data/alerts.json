@@ -1,7 +1,130 @@
 {
- "updated_at": "2026-11-26T06:24:16+09:00",
+ "updated_at": "2026-11-26T06:29:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-124186",
+   "company": "Crown PropTech Acquisitions",
+   "ticker": "CPTKW",
+   "cik": 1827899,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "Securities and Exchange Commission (the “SEC”) in connection with the proposed business combination (the “Proposed Business Combination”) contemplated by the business combination agreement dated 2 July 2025 (as amended and restated, the “Business Combination Agreement”) among MKAR, certain other who",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026124186/0001213900-26-124186-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1827899/000121390026124186/ea0313626-425_mkango.htm",
+   "filed_at": "2026-11-25T16:27:21-05:00",
+   "filed_kst": "2026-11-26 06:27",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Wholesale-Hardware",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-26T06:27:58+09:00"
+  },
+  {
+   "id": "0001213900-26-124186",
+   "company": "Mkango Rare Earths Ltd",
+   "ticker": "MKAR",
+   "cik": 2052373,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "Securities and Exchange Commission (the “SEC”) in connection with the proposed business combination (the “Proposed Business Combination”) contemplated by the business combination agreement dated 2 July 2025 (as amended and restated, the “Business Combination Agreement”) among MKAR, certain other who",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2052373/000121390026124186/0001213900-26-124186-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2052373/000121390026124186/ea0313626-425_mkango.htm",
+   "filed_at": "2026-11-25T16:27:21-05:00",
+   "filed_kst": "2026-11-26 06:27",
+   "price": null,
+   "change": null,
+   "price_history": [],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Gold and Silver Ores",
+   "state_of_incorporation": "Virgin Islands, British",
+   "hq": "ROAD TOWN",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-26T06:27:57+09:00"
+  },
+  {
+   "id": "0001289419-26-000058",
+   "company": "Morningstar, Inc.",
+   "ticker": "MORN",
+   "cik": 1289419,
+   "form": "8-K",
+   "items": [
+    "7.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "Morningstar has almost exhausted its current share repurchase authorization.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000058/0001289419-26-000058-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000058/morn-20261125.htm",
+   "filed_at": "2026-11-25T16:23:42-05:00",
+   "filed_kst": "2026-11-26 06:23",
+   "price": 239.24,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 239.24,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-25",
+     "close": 239.24,
+     "change": 1.01
+    },
+    {
+     "date": "2026-11-24",
+     "close": 236.85,
+     "change": 1.2
+    }
+   ],
+   "market_cap": 8876835364.0,
+   "shares_outstanding": 37104311.0,
+   "industry": "Investment Advice",
+   "state_of_incorporation": "IL",
+   "hq": "CHICAGO, IL",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-26T06:25:25+09:00"
+  },
   {
    "id": "0001376139-26-000049",
    "company": "CVR ENERGY INC",
@@ -15256,163 +15379,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-18T06:35:47+09:00"
-  },
-  {
-   "id": "0001175680-26-000042",
-   "company": "CytoDyn Inc.",
-   "ticker": "CYDY",
-   "cik": 1175680,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "Wilcoxen helped lead a team that secured FDA approval of a novel checkpoint inhibitor for skin cancer while serving as Senior Vice President, Product Development and Regulatory Affairs of Checkpoint Therapeutics, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1175680/000117568026000042/0001175680-26-000042-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1175680/000117568026000042/ck0001175680-ex99_1.htm",
-   "filed_at": "2026-11-17T16:33:07-05:00",
-   "filed_kst": "2026-11-18 06:33",
-   "price": 0.25,
-   "change": -0.2,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 0.25,
-     "change": -0.2
-    },
-    {
-     "date": "2026-11-16",
-     "close": 0.25,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.25,
-     "change": 4.17
-    }
-   ],
-   "market_cap": 367379500.0,
-   "shares_outstanding": 1469518000.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "VANCOUVER, WA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-18T06:34:19+09:00"
-  },
-  {
-   "id": "0001493152-26-052856",
-   "company": "Braiin Ltd",
-   "ticker": "BRAI",
-   "cik": 2076975,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "● PropTech / LivTech: Braiin built out its UK residential lif ecycle (“LivTech”) platform through a series of strategic partnerships: ○ an exclusive strategic partnership for 4.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2076975/000149315226052856/0001493152-26-052856-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2076975/000149315226052856/ex99-1.htm",
-   "filed_at": "2026-11-17T16:30:06-05:00",
-   "filed_kst": "2026-11-18 06:30",
-   "price": 1.59,
-   "change": -5.36,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 1.59,
-     "change": -5.36
-    },
-    {
-     "date": "2026-11-16",
-     "close": 1.68,
-     "change": -4.55
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.76,
-     "change": -6.88
-    }
-   ],
-   "market_cap": 327680283.0,
-   "shares_outstanding": 206088228.0,
-   "industry": "Services-Computer Processing & Data Preparation",
-   "state_of_incorporation": "Australia",
-   "hq": "SUBIACO",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-18T06:32:24+09:00"
-  },
-  {
-   "id": "0001045810-26-000088",
-   "company": "NVIDIA CORP",
-   "ticker": "NVDA",
-   "cik": 1045810,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "파트너십"
-   ],
-   "confidence": 73,
-   "summary": "” In September 2026, NVIDIA’s Board of Directors approved an increase of $150 billion to the company’s share repurchase authorization, without expiration.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm",
-   "filed_at": "2026-11-17T16:20:51-05:00",
-   "filed_kst": "2026-11-18 06:20",
-   "price": 155.46,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 155.46,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-17",
-     "close": 155.46,
-     "change": -0.44
-    },
-    {
-     "date": "2026-11-16",
-     "close": 156.14,
-     "change": -4.12
-    }
-   ],
-   "market_cap": 3746586000000.0,
-   "shares_outstanding": 24100000000.0,
-   "industry": "Semiconductors & Related Devices",
-   "state_of_incorporation": "DE",
-   "hq": "SANTA CLARA, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T06:22:20+09:00"
   }
  ]
 }
