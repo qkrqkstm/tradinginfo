@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-25T19:59:17+09:00",
+ "updated_at": "2026-11-25T20:04:32+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0000939057-26-000316",
+   "company": "FS Bancorp, Inc.",
+   "ticker": "FSBW",
+   "cik": 1530249,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "(“Company”), the holding company for 1st Security Bank of Washington (“Bank”), announced that the Company’s Board of Directors authorized a share repurchase program of up to $15.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000316/0000939057-26-000316-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1530249/000093905726000316/fsbw-20261124.htm",
+   "filed_at": "2026-11-24T17:52:13-05:00",
+   "filed_kst": "2026-11-25 07:52",
+   "price": 41.26,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 41.26,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-24",
+     "close": 41.26,
+     "change": 1.43
+    },
+    {
+     "date": "2026-11-23",
+     "close": 40.68,
+     "change": -0.46
+    }
+   ],
+   "market_cap": 324952785.0,
+   "shares_outstanding": 7875734.0,
+   "industry": "Savings Institutions, Not Federally Chartered",
+   "state_of_incorporation": "WA",
+   "hq": "MOUNTLAKE TERRACE, WA",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-25T20:03:45+09:00"
+  },
   {
    "id": "0001493152-26-054054",
    "company": "FingerMotion, Inc.",
@@ -15359,58 +15412,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T23:02:17+09:00"
-  },
-  {
-   "id": "0001193125-26-464853",
-   "company": "WORTHINGTON ENTERPRISES, INC.",
-   "ticker": "WOR",
-   "cik": 108516,
-   "form": "8-K",
-   "items": [
-    "7.01"
-   ],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "If you go into some of their conference rooms or a lot of the suites, you'll see the grid ceiling, which is from WAVE, which is our 50/50 joint venture.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526464853/0001193125-26-464853-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/108516/000119312526464853/wor-ex99_2.htm",
-   "filed_at": "2026-11-17T08:52:55-05:00",
-   "filed_kst": "2026-11-17 22:52",
-   "price": 58.63,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 58.63,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 58.63,
-     "change": -1.41
-    },
-    {
-     "date": "2026-11-13",
-     "close": 59.47,
-     "change": 2.18
-    }
-   ],
-   "market_cap": 2888096797.0,
-   "shares_outstanding": 49259710.0,
-   "industry": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
-   "state_of_incorporation": "OH",
-   "hq": "COLUMBUS, OH",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T22:54:26+09:00"
   }
  ]
 }
