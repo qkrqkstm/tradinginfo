@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-26T06:49:37+09:00",
+ "updated_at": "2026-11-26T06:54:39+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001292814-26-005404",
+   "company": "Afya Ltd",
+   "ticker": "AFYA",
+   "cik": 1771007,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "EX-99.1 2 ex99-1.htm EX-99.1 AFYA LIMITED ANNOUNCES RESULTS OF EXTRAORDINARY GENERAL MEETING HELD ON NOVEMBER 25, 2026 Belo Horizonte, Minas Gerais, Brazil, November 25, 2026 – Afya Limited, or “Afya” (Nasdaq: AFYA; B3: A2FY34) announced today that the following resolutions set out in its Notice of ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1771007/000129281426005404/0001292814-26-005404-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1771007/000129281426005404/ex99-1.htm",
+   "filed_at": "2026-11-25T16:52:04-05:00",
+   "filed_kst": "2026-11-26 06:52",
+   "price": 10.16,
+   "change": 4.31,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 10.16,
+     "change": 4.31
+    },
+    {
+     "date": "2026-11-24",
+     "close": 9.74,
+     "change": 0.41
+    },
+    {
+     "date": "2026-11-23",
+     "close": 9.7,
+     "change": 1.78
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": 0.0,
+   "industry": "Services-Educational Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "BELO HORIZONTE, MINAS GERAIS",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-26T06:52:59+09:00"
+  },
   {
    "id": "0001193125-26-478570",
    "company": "Tempus AI, Inc.",
@@ -15343,57 +15393,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T06:43:34+09:00"
-  },
-  {
-   "id": "0001213900-26-121434",
-   "company": "Zhibao Technology Inc.",
-   "ticker": "ZBAO",
-   "cik": 1966750,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 2 ea030987101ex99-1.htm NOTICE AND PROXY STATEMENT OF THE MEETING, DATED NOVEMBER 17, 2026, TO BE MAILED TO SHAREHOLDERS OF THE COMPANY IN CONNECTION WITH THE MEETING Exhibit 99.1 ZHIBAO TECHNOLOGY INC. (incorporated as an exempted company in the Cayman Islands with limited liability) NOTICE",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1966750/000121390026121434/0001213900-26-121434-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1966750/000121390026121434/ea030987101ex99-1.htm",
-   "filed_at": "2026-11-17T16:36:22-05:00",
-   "filed_kst": "2026-11-18 06:36",
-   "price": 0.18,
-   "change": -9.95,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 0.18,
-     "change": -9.95
-    },
-    {
-     "date": "2026-11-16",
-     "close": 0.2,
-     "change": -27.24
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.28,
-     "change": 32.23
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Insurance Agents, Brokers & Service",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "SHANGHAI, F4",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-18T06:37:19+09:00"
   }
  ]
 }
