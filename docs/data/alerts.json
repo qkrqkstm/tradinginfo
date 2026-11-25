@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-25T22:29:27+09:00",
+ "updated_at": "2026-11-25T22:34:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-123933",
+   "company": "Onconetix, Inc.",
+   "ticker": "ONCO",
+   "cik": 1782107,
+   "form": "425",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십"
+   ],
+   "confidence": 70,
+   "summary": "This communication includes information regarding Realbotix, a company that Onconetix has agreed to acquire, and is being provided for informational purposes only.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026123933/0001213900-26-123933-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026123933/ea0313497-425_onconetix.htm",
+   "filed_at": "2026-11-25T08:32:20-05:00",
+   "filed_kst": "2026-11-25 22:32",
+   "price": 3.01,
+   "change": -2.27,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 3.01,
+     "change": -2.27
+    },
+    {
+     "date": "2026-11-23",
+     "close": 3.08,
+     "change": 6.57
+    },
+    {
+     "date": "2026-11-20",
+     "close": 2.89,
+     "change": -8.54
+    }
+   ],
+   "market_cap": 2470039.0,
+   "shares_outstanding": 820611.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "DE",
+   "hq": "CINCINNATI, OH",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-25T22:32:57+09:00"
+  },
   {
    "id": "0001104659-26-131890",
    "company": "Swvl Holdings Corp",
@@ -15356,56 +15409,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-18T02:01:13+09:00"
-  },
-  {
-   "id": "0001213900-26-121040",
-   "company": "WEN Acquisition Corp",
-   "ticker": "WENN",
-   "cik": 2057043,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The SPAC partner we’ve executed a business combination agreement with is Wen Acquisition Corp.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2057043/000121390026121040/0001213900-26-121040-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2057043/000121390026121040/ea031251401-425_ournext.htm",
-   "filed_at": "2026-11-17T11:47:31-05:00",
-   "filed_kst": "2026-11-18 01:47",
-   "price": 10.48,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 10.48,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-16",
-     "close": 10.48,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.48,
-     "change": 0.1
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "OAKLAND, CA",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-18T01:48:46+09:00"
   }
  ]
 }
