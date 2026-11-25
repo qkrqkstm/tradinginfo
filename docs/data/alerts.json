@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-26T06:04:32+09:00",
+ "updated_at": "2026-11-26T06:09:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-054219",
+   "company": "GrowHub Ltd",
+   "ticker": "TGHL",
+   "cik": 2024114,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "The closing (the “Closing”) of the purchase and sale of the Class A Ordinary Shares to be acquired by such Purchasers from the Company under this Agreement shall take place remotely at such time as the parties hereto have executed this Agreement and all of the conditions set forth in Section 1.",
+   "deal_role": "target",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2024114/000149315226054219/0001493152-26-054219-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2024114/000149315226054219/ex10-1.htm",
+   "filed_at": "2026-11-25T16:05:26-05:00",
+   "filed_kst": "2026-11-26 06:05",
+   "price": 0.22,
+   "change": -10.0,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 0.22,
+     "change": -10.0
+    },
+    {
+     "date": "2026-11-24",
+     "close": 0.24,
+     "change": -16.96
+    },
+    {
+     "date": "2026-11-23",
+     "close": 0.29,
+     "change": -1.7
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": null,
+   "hq": "SINGAPORE",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-26T06:06:18+09:00"
+  },
   {
    "id": "0001493152-26-054185",
    "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
@@ -15362,56 +15413,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T06:06:28+09:00"
-  },
-  {
-   "id": "0001213900-26-121393",
-   "company": "RANGE RESOURCES CORP",
-   "ticker": "RRC",
-   "cik": 315852,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "425 1 ea0312255-425_eqtcorp.htm FORM 425 Filed by EQT Corporation (Commission File No. 001-3551) Pursuant to Rule 425 under the Securities Act of 1933 and deemed filed pursuant to Rule 14a-12 of the Securities Exchange Act of 1934 Subject Company: Range Resources Corporation (Commission File No. 001",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026121393/0001213900-26-121393-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/315852/000121390026121393/ea0312255-425_eqtcorp.htm",
-   "filed_at": "2026-11-17T16:05:02-05:00",
-   "filed_kst": "2026-11-18 06:05",
-   "price": 49.54,
-   "change": -1.8,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 49.54,
-     "change": -1.8
-    },
-    {
-     "date": "2026-11-16",
-     "close": 50.45,
-     "change": -2.66
-    },
-    {
-     "date": "2026-11-13",
-     "close": 51.83,
-     "change": 0.72
-    }
-   ],
-   "market_cap": 11577042678.0,
-   "shares_outstanding": 233690809.0,
-   "industry": "Crude Petroleum & Natural Gas",
-   "state_of_incorporation": "DE",
-   "hq": "FT WORTH, TX",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T06:06:24+09:00"
   }
  ]
 }
