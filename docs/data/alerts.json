@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-25T20:29:18+09:00",
+ "updated_at": "2026-11-25T20:34:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-010109",
+   "company": "GSK plc",
+   "ticker": "GSK",
+   "cik": 1131399,
+   "form": "6-K",
+   "items": [],
+   "primary": "임상통과",
+   "primary_key": "clinical",
+   "emoji": "🧪",
+   "types": [
+    "임상통과"
+   ],
+   "confidence": 60,
+   "summary": "[*] The trial met its primary endpoint, showing depemokimab was non-inferior to mepolizumab in terms of achieving disease remission [†] , a key treatment goal in EGPA.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426010109/0001654954-26-010109-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426010109/a6084e.htm",
+   "filed_at": "2026-11-25T06:33:37-05:00",
+   "filed_kst": "2026-11-25 20:33",
+   "price": 50.07,
+   "change": 3.09,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 50.07,
+     "change": 3.09
+    },
+    {
+     "date": "2026-11-23",
+     "close": 48.57,
+     "change": 1.7
+    },
+    {
+     "date": "2026-11-20",
+     "close": 47.76,
+     "change": -0.13
+    }
+   ],
+   "market_cap": 216074332452.0,
+   "shares_outstanding": 4315445026.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T20:34:27+09:00"
+  },
   {
    "id": "0001193125-26-476698",
    "company": "Bilibili Inc.",
@@ -15349,60 +15399,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-17T23:45:59+09:00"
-  },
-  {
-   "id": "0001493152-26-052740",
-   "company": "Algorhythm Holdings, Inc.",
-   "ticker": "RIME",
-   "cik": 923601,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "CEO Commentary “The third quarter was a pivotal period for Algorhythm as we completed the acquisition of Azure Energy and entered the renewable power infrastructure space,” said Greg Smith, Chief Executive Officer of Algorhythm Holdings.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/923601/000149315226052740/0001493152-26-052740-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/923601/000149315226052740/ex99-1.htm",
-   "filed_at": "2026-11-17T09:30:10-05:00",
-   "filed_kst": "2026-11-17 23:30",
-   "price": 0.09,
-   "change": -1.78,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 0.09,
-     "change": -1.78
-    },
-    {
-     "date": "2026-11-16",
-     "close": 0.09,
-     "change": -18.18
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.11,
-     "change": -26.67
-    }
-   ],
-   "market_cap": 3680908.0,
-   "shares_outstanding": 40898979.0,
-   "industry": "Services-Computer Integrated Systems Design",
-   "state_of_incorporation": "DE",
-   "hq": "FORT LAUDERDALE, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T23:30:59+09:00"
   }
  ]
 }
