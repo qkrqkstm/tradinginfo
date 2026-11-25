@@ -1,7 +1,369 @@
 {
- "updated_at": "2026-11-25T20:04:32+09:00",
+ "updated_at": "2026-11-25T20:09:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-476698",
+   "company": "Bilibili Inc.",
+   "ticker": "BILI",
+   "cik": 1723690,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입",
+    "주식소각"
+   ],
+   "confidence": 68,
+   "summary": "The Concurrent Repurchase and the Concurrent Tencent Repurchase were made pursuant to the Company’s special share repurchase program (the “Special Share Repurchase Program”), which is separate from the Company’s two-year US$300 million share repurchase program approved by the Board of Directors in J",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1723690/000119312526476698/0001193125-26-476698-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1723690/000119312526476698/d115891dex991.htm",
+   "filed_at": "2026-11-25T06:01:32-05:00",
+   "filed_kst": "2026-11-25 20:01",
+   "price": 11.1,
+   "change": 1.93,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 11.1,
+     "change": 1.93
+    },
+    {
+     "date": "2026-11-23",
+     "close": 10.89,
+     "change": 2.74
+    },
+    {
+     "date": "2026-11-20",
+     "close": 10.6,
+     "change": -4.16
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T20:08:22+09:00"
+  },
+  {
+   "id": "0001046179-26-000805",
+   "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "ticker": "TSM",
+   "cik": 1046179,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 tsm-monthend6kx20261125.htm 6-K Document 1934 Act Registration No. 1-14700 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 _____________________________ FORM 6-K _____________________________ REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE S",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000805/0001046179-26-000805-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000805/tsm-monthend6kx20261125.htm",
+   "filed_at": "2026-11-25T06:02:34-05:00",
+   "filed_kst": "2026-11-25 20:02",
+   "price": 349.2,
+   "change": -0.0,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 349.2,
+     "change": -0.0
+    },
+    {
+     "date": "2026-11-24",
+     "close": 349.2,
+     "change": -3.96
+    },
+    {
+     "date": "2026-11-23",
+     "close": 363.6,
+     "change": 14.08
+    }
+   ],
+   "market_cap": 9055637562733.0,
+   "shares_outstanding": 25932524521.0,
+   "industry": "Semiconductors & Related Devices",
+   "state_of_incorporation": null,
+   "hq": "HSINCHU",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T20:08:20+09:00"
+  },
+  {
+   "id": "0001140361-26-045560",
+   "company": "IPERIONX Ltd",
+   "ticker": "IPX",
+   "cik": 1898601,
+   "form": "6-K",
+   "items": [],
+   "primary": "대형계약",
+   "primary_key": "contract",
+   "emoji": "📝",
+   "types": [
+    "대형계약"
+   ],
+   "confidence": 55,
+   "summary": "IperionX has secured US$59.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1898601/000114036126045560/0001140361-26-045560-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1898601/000114036126045560/ef20086496_ex99-1.htm",
+   "filed_at": "2026-11-25T06:03:20-05:00",
+   "filed_kst": "2026-11-25 20:03",
+   "price": 10.35,
+   "change": -4.43,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 10.35,
+     "change": -4.43
+    },
+    {
+     "date": "2026-11-23",
+     "close": 10.83,
+     "change": 8.73
+    },
+    {
+     "date": "2026-11-20",
+     "close": 9.96,
+     "change": -12.17
+    }
+   ],
+   "market_cap": 3512625083.0,
+   "shares_outstanding": 339384066.0,
+   "industry": "Miscellaneous Metal Ores",
+   "state_of_incorporation": "Australia",
+   "hq": "SOUTH BOSTON, VA",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T20:08:17+09:00"
+  },
+  {
+   "id": "0001213900-26-123862",
+   "company": "Inflection Point Acquisition Corp. VII",
+   "ticker": "IPXG",
+   "cik": 2088805,
+   "form": "425",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "We announced a joint venture plan with them earlier this year and just announced a purchase order for systems.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026123862/0001213900-26-123862-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026123862/ea0313505-425_inflection7.htm",
+   "filed_at": "2026-11-24T21:29:15-05:00",
+   "filed_kst": "2026-11-25 11:29",
+   "price": 10.39,
+   "change": 6.67,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 10.39,
+     "change": 6.67
+    },
+    {
+     "date": "2026-11-23",
+     "close": 9.74,
+     "change": -4.79
+    },
+    {
+     "date": "2026-11-20",
+     "close": 10.23,
+     "change": 0.1
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-25T20:07:27+09:00"
+  },
+  {
+   "id": "0001104659-26-131732",
+   "company": "Surgery Partners, Inc.",
+   "ticker": "SGRY",
+   "cik": 1638833,
+   "form": "8-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A",
+    "파트너십",
+    "배당"
+   ],
+   "confidence": 76,
+   "summary": "EX-10.1 3 tm2628254d11_ex10-1.htm EXHIBIT 10.1 Exhibit 10.1 Execution Version CONFIDENTIAL Certain confidential information contained in this document, marked by [**], has been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K because it is both (i) not material and (ii) the type of informat",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926131732/0001104659-26-131732-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926131732/tm2628254d11_ex10-1.htm",
+   "filed_at": "2026-11-24T21:01:27-05:00",
+   "filed_kst": "2026-11-25 11:01",
+   "price": 26.83,
+   "change": 1.02,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 26.83,
+     "change": 1.02
+    },
+    {
+     "date": "2026-11-23",
+     "close": 26.56,
+     "change": -0.82
+    },
+    {
+     "date": "2026-11-20",
+     "close": 26.78,
+     "change": 0.34
+    }
+   ],
+   "market_cap": 3511543213.0,
+   "shares_outstanding": 130881223.0,
+   "industry": "Services-General Medical & Surgical Hospitals, NEC",
+   "state_of_incorporation": "DE",
+   "hq": "BRENTWOOD, TN",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T20:07:15+09:00"
+  },
+  {
+   "id": "0001213900-26-123863",
+   "company": "Planet Green Holdings Corp.",
+   "ticker": "PLAG",
+   "cik": 1117057,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "3.02",
+    "7.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "agreed to acquire a registered lactoferrin immunity chewable tablet, including its formulation, production process and Chinese health food registration certificate.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1117057/000121390026123863/0001213900-26-123863-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1117057/000121390026123863/ea031336501ex99-1.htm",
+   "filed_at": "2026-11-24T21:30:54-05:00",
+   "filed_kst": "2026-11-25 11:30",
+   "price": 0.48,
+   "change": 0.92,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 0.48,
+     "change": 0.92
+    },
+    {
+     "date": "2026-11-24",
+     "close": 0.48,
+     "change": 41.18
+    },
+    {
+     "date": "2026-11-23",
+     "close": 0.34,
+     "change": 3.03
+    }
+   ],
+   "market_cap": 6848027.0,
+   "shares_outstanding": 14266722.0,
+   "industry": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+   "state_of_incorporation": "NV",
+   "hq": "FLUSHING, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-25T20:07:08+09:00"
+  },
+  {
+   "id": "0001564708-26-000269",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000269/0001564708-26-000269-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000269/appendix3cclassa20261124.htm",
+   "filed_at": "2026-11-24T18:47:50-05:00",
+   "filed_kst": "2026-11-25 08:47",
+   "price": 28.73,
+   "change": -0.02,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 28.73,
+     "change": -0.02
+    },
+    {
+     "date": "2026-11-24",
+     "close": 28.74,
+     "change": 1.59
+    },
+    {
+     "date": "2026-11-23",
+     "close": 28.29,
+     "change": 1.51
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-25T20:05:36+09:00"
+  },
   {
    "id": "0000939057-26-000316",
    "company": "FS Bancorp, Inc.",
@@ -15041,377 +15403,6 @@
     "Smaller reporting company"
    ],
    "detected_at": "2026-11-17T23:30:59+09:00"
-  },
-  {
-   "id": "0001213900-26-121150",
-   "company": "Stellar V Capital Corp. (Cayman Islands)",
-   "ticker": "SVCC",
-   "cik": 2033593,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 69,
-   "summary": ", a Leading Producer of Graphene, Enter into Business Combination Agreement ● Turquoise Group Pty Ltd.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2033593/000121390026121150/0001213900-26-121150-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2033593/000121390026121150/ea0312582-425_stellar5.htm",
-   "filed_at": "2026-11-17T09:28:15-05:00",
-   "filed_kst": "2026-11-17 23:28",
-   "price": 10.69,
-   "change": 0.28,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 10.69,
-     "change": 0.28
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.66,
-     "change": -4.74
-    },
-    {
-     "date": "2026-11-12",
-     "close": 11.19,
-     "change": 0.0
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T23:29:36+09:00"
-  },
-  {
-   "id": "0000950157-26-001267",
-   "company": "OLIN Corp",
-   "ticker": "OLN",
-   "cik": 74303,
-   "form": "8-K",
-   "items": [
-    "5.02",
-    "7.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "As previously disclosed, on June 15, 2026, Olin Corporation, a Virginia corporation (“ Olin ” and, after the effectiveness of the Merger referred to below, “ OlinHuntsman ”) entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Huntsman Corporation, a Delaware corporation (“ H",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/74303/000095015726001267/0000950157-26-001267-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/74303/000095015726001267/ex99-1.htm",
-   "filed_at": "2026-11-17T09:25:04-05:00",
-   "filed_kst": "2026-11-17 23:25",
-   "price": 16.89,
-   "change": -3.26,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 16.89,
-     "change": -3.26
-    },
-    {
-     "date": "2026-11-13",
-     "close": 17.46,
-     "change": -1.13
-    },
-    {
-     "date": "2026-11-12",
-     "close": 17.66,
-     "change": -1.29
-    }
-   ],
-   "market_cap": 1925556712.0,
-   "shares_outstanding": 114005726.0,
-   "industry": "Chemicals & Allied Products",
-   "state_of_incorporation": "VA",
-   "hq": "CLAYTON, MO",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-17T23:26:29+09:00"
-  },
-  {
-   "id": "0001171843-26-007511",
-   "company": "Edesa Biotech, Inc.",
-   "ticker": "EDSA",
-   "cik": 1540159,
-   "form": "8-K",
-   "items": [
-    "8.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "임상통과",
-    "FDA"
-   ],
-   "confidence": 80,
-   "summary": "Orphan drug designation in the European Union provides important regulatory incentives, including reduced development fees, potential market exclusivity following approval, and enhanced development efficiency, which may help streamline clinical development and",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1540159/000117184326007511/0001171843-26-007511-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1540159/000117184326007511/f8k_111726.htm",
-   "filed_at": "2026-11-17T09:25:18-05:00",
-   "filed_kst": "2026-11-17 23:25",
-   "price": 1.89,
-   "change": -2.58,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 1.89,
-     "change": -2.58
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.94,
-     "change": -6.73
-    },
-    {
-     "date": "2026-11-12",
-     "close": 2.08,
-     "change": -6.31
-    }
-   ],
-   "market_cap": 18221549.0,
-   "shares_outstanding": 9641031.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "TORONTO",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T23:26:28+09:00"
-  },
-  {
-   "id": "0001193125-26-464871",
-   "company": "IQM Quantum Computers Oyj",
-   "ticker": "IQMX",
-   "cik": 2113060,
-   "form": "6-K",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각"
-   ],
-   "confidence": 59,
-   "summary": "The total number of registered shares in IQM will increase upon registration of the new shares subscribed for through option exercises and will subsequently decrease upon registration of the cancellation of the shares returned to IQM.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2113060/000119312526464871/0001193125-26-464871-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2113060/000119312526464871/d170487dex991.htm",
-   "filed_at": "2026-11-17T09:16:26-05:00",
-   "filed_kst": "2026-11-17 23:16",
-   "price": 6.42,
-   "change": -4.75,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 6.42,
-     "change": -4.75
-    },
-    {
-     "date": "2026-11-13",
-     "close": 6.74,
-     "change": -5.34
-    },
-    {
-     "date": "2026-11-12",
-     "close": 7.12,
-     "change": -4.94
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Prepackaged Software",
-   "state_of_incorporation": "Finland",
-   "hq": "02150 ESPOO",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T23:18:02+09:00"
-  },
-  {
-   "id": "0001213900-26-121140",
-   "company": "Luda Technology Group Ltd",
-   "ticker": "LUD",
-   "cik": 1984124,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 ea031257801ex99-1.htm FROM OF STRATEGIC COOPERATION FRAMEWORK AGREEMENT Exhibit 99.1 SHENZHEN ZHICHENG COMPUTING NETWORK TECHNOLOGY CO., LTD. and SHANGHAI TURING QUANTUM COMPUTING TECHNOLOGY Co., Ltd. ASIA AI DATA CENTRE & QUANTUM TECHNOLOGY Co., Ltd. STRATEGIC COOPERATION FRAMEWORK AGREEM",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1984124/000121390026121140/0001213900-26-121140-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1984124/000121390026121140/ea031257801ex99-1.htm",
-   "filed_at": "2026-11-17T09:01:01-05:00",
-   "filed_kst": "2026-11-17 23:01",
-   "price": 3.75,
-   "change": -2.34,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 3.75,
-     "change": -2.34
-    },
-    {
-     "date": "2026-11-13",
-     "close": 3.84,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 3.84,
-     "change": -0.52
-    }
-   ],
-   "market_cap": 85087500.0,
-   "shares_outstanding": 22690000.0,
-   "industry": "Steel Pipe & Tubes",
-   "state_of_incorporation": null,
-   "hq": "WANCHAI",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T23:02:22+09:00"
-  },
-  {
-   "id": "0001493152-26-052720",
-   "company": "MAIA Biotechnology, Inc.",
-   "ticker": "MAIA",
-   "cik": 1878313,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 61,
-   "summary": "1 MAIA Biotechnology Reports Consistent Strong Efficacy in Expanded Phase 2 THIO-101 Study in Non-Small Cell Lung Cancer MAIA advances novel telomere-targeting agent under FDA’s Fast Track designation Further data from THIO-101 Part C may support accelerated approval filing with FDA CHICAGO – Novemb",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1878313/000149315226052720/0001493152-26-052720-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1878313/000149315226052720/ex99-1.htm",
-   "filed_at": "2026-11-17T09:00:26-05:00",
-   "filed_kst": "2026-11-17 23:00",
-   "price": 1.01,
-   "change": 1.0,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 1.01,
-     "change": 1.0
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.0,
-     "change": -0.99
-    },
-    {
-     "date": "2026-11-12",
-     "close": 1.01,
-     "change": -1.94
-    }
-   ],
-   "market_cap": 62367811.0,
-   "shares_outstanding": 61750308.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CHICAGO, IL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-17T23:02:20+09:00"
-  },
-  {
-   "id": "0001104659-26-128856",
-   "company": "MetaVia Inc.",
-   "ticker": "MTVA",
-   "cik": 1638287,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "9.01"
-   ],
-   "primary": "임상통과",
-   "primary_key": "clinical",
-   "emoji": "🧪",
-   "types": [
-    "임상통과"
-   ],
-   "confidence": 60,
-   "summary": "EX-99.1 2 mtva-ex99d1.htm EX-99.1 Exhibit 99.1 ​ ​ ​ ​ ​ MetaVia Announces Completion of Last Patient Visit in Extended 24-Week Phase 1 Part 3A Study of DA-1726 ​ Encouraging Preliminary Safety and Tolerability Observations in Part 3A Supported Decision to Extend Treatment from 16 to 24 Weeks ​ Posi",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926128856/0001104659-26-128856-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926128856/mtva-ex99d1.htm",
-   "filed_at": "2026-11-17T09:01:23-05:00",
-   "filed_kst": "2026-11-17 23:01",
-   "price": 1.21,
-   "change": -7.31,
-   "price_history": [
-    {
-     "date": "2026-11-16",
-     "close": 1.21,
-     "change": -7.31
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.3,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-12",
-     "close": 1.3,
-     "change": -9.72
-    }
-   ],
-   "market_cap": 8158896.0,
-   "shares_outstanding": 6742889.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "DE",
-   "hq": "CAMBRIDGE, MA",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-17T23:02:17+09:00"
   }
  ]
 }
