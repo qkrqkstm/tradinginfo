@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-26T02:09:34+09:00",
+ "updated_at": "2026-11-26T02:14:27+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-075913",
+   "company": "Valneva SE",
+   "ticker": "VALN",
+   "cik": 1836564,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "파트너십",
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 89,
+   "summary": "FDA granted Fast Track designation to S4V2, recognizing its potential to address a serious condition and fill an unmet medical need 19 .",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1836564/000162828026075913/0001628280-26-075913-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1836564/000162828026075913/val-20260930.htm",
+   "filed_at": "2026-11-25T12:10:45-05:00",
+   "filed_kst": "2026-11-26 02:10",
+   "price": 4.92,
+   "change": -1.6,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 4.92,
+     "change": -1.6
+    },
+    {
+     "date": "2026-11-24",
+     "close": 5.0,
+     "change": -5.3
+    },
+    {
+     "date": "2026-11-23",
+     "close": 5.28,
+     "change": 2.33
+    }
+   ],
+   "market_cap": 853815545.0,
+   "shares_outstanding": 173539745.0,
+   "industry": "Biological Products, (No Diagnostic Substances)",
+   "state_of_incorporation": "France",
+   "hq": "SAINT-HERBLAIN, I0",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-26T02:11:40+09:00"
+  },
   {
    "id": "0001104659-26-131953",
    "company": "ENI SPA",
@@ -15357,56 +15409,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T06:02:01+09:00"
-  },
-  {
-   "id": "0001140361-26-044489",
-   "company": "DoorDash, Inc.",
-   "ticker": "DASH",
-   "cik": 1792789,
-   "form": "425",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": ", a Delaware corporation (“Instacart”), pursuant to the terms of that certain Agreement and Plan of Merger, dated as of October 28, 2026, among DoorDash, Ibiza Merger Sub, Inc.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126044489/0001140361-26-044489-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126044489/ef20085820_425.htm",
-   "filed_at": "2026-11-17T16:00:11-05:00",
-   "filed_kst": "2026-11-18 06:00",
-   "price": 164.91,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 164.91,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-17",
-     "close": 164.91,
-     "change": -2.87
-    },
-    {
-     "date": "2026-11-16",
-     "close": 169.78,
-     "change": -1.01
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Services-Business Services, NEC",
-   "state_of_incorporation": "NV",
-   "hq": "SAN FRANCISCO, CA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T06:01:59+09:00"
   }
  ]
 }
