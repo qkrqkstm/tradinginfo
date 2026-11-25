@@ -1,7 +1,62 @@
 {
- "updated_at": "2026-11-26T04:44:27+09:00",
+ "updated_at": "2026-11-26T04:49:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-054185",
+   "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
+   "ticker": "NIMU",
+   "cik": 720762,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "2.03",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 63,
+   "summary": "Amendment to Merger Agreement As previously reported, on March 6, 2026, Non-Invasive Monitoring Systems, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226054185/0001493152-26-054185-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/720762/000149315226054185/form8-k.htm",
+   "filed_at": "2026-11-25T14:45:43-05:00",
+   "filed_kst": "2026-11-26 04:45",
+   "price": 8.26,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-24",
+     "close": 8.26,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-23",
+     "close": 8.26,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-20",
+     "close": 8.26,
+     "change": 0.0
+    }
+   ],
+   "market_cap": 8529606.0,
+   "shares_outstanding": 1032640.0,
+   "industry": "Guided Missiles & Space Vehicles & Parts",
+   "state_of_incorporation": "FL",
+   "hq": "MIAMI BEACH, FL",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-26T04:46:39+09:00"
+  },
   {
    "id": "0001654954-26-010117",
    "company": "HSBC HOLDINGS PLC",
@@ -15357,58 +15412,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T06:06:24+09:00"
-  },
-  {
-   "id": "0001493152-26-052818",
-   "company": "Aimei Health Technology Co., Ltd.",
-   "ticker": "AFJK",
-   "cik": 1979005,
-   "form": "8-K",
-   "items": [
-    "7.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "The Company expects to announce additional details regarding the Proposed Transaction upon the execution of a definitive business combination agreement.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1979005/000149315226052818/0001493152-26-052818-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1979005/000149315226052818/form8-k.htm",
-   "filed_at": "2026-11-17T16:01:37-05:00",
-   "filed_kst": "2026-11-18 06:01",
-   "price": 11.84,
-   "change": -2.23,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 11.84,
-     "change": -2.23
-    },
-    {
-     "date": "2026-11-16",
-     "close": 12.11,
-     "change": -2.26
-    },
-    {
-     "date": "2026-11-13",
-     "close": 12.39,
-     "change": -0.16
-    }
-   ],
-   "market_cap": 37489371.0,
-   "shares_outstanding": 3166332.0,
-   "industry": "Blank Checks",
-   "state_of_incorporation": null,
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-18T06:02:46+09:00"
   }
  ]
 }
