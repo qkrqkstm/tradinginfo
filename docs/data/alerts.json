@@ -1,7 +1,111 @@
 {
- "updated_at": "2026-11-28T06:44:40+09:00",
+ "updated_at": "2026-11-28T06:49:30+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-054508",
+   "company": "GULF RESOURCES, INC.",
+   "ticker": "GURE",
+   "cik": 885462,
+   "form": "8-K",
+   "items": [
+    "1.01",
+    "3.02",
+    "8.01",
+    "9.01"
+   ],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "Under the Agreement, SCHC agreed to acquire specified bromine and crude salt production assets in Shouguang City, China.",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885462/000149315226054508/0001493152-26-054508-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/885462/000149315226054508/ex99-1.htm",
+   "filed_at": "2026-11-27T16:45:12-05:00",
+   "filed_kst": "2026-11-28 06:45",
+   "price": 2.7,
+   "change": 5.88,
+   "price_history": [
+    {
+     "date": "2026-11-27",
+     "close": 2.7,
+     "change": 5.88
+    },
+    {
+     "date": "2026-11-25",
+     "close": 2.55,
+     "change": -8.93
+    },
+    {
+     "date": "2026-11-24",
+     "close": 2.8,
+     "change": -1.75
+    }
+   ],
+   "market_cap": 4896534.0,
+   "shares_outstanding": 1813531.0,
+   "industry": "Chemicals & Allied Products",
+   "state_of_incorporation": "NV",
+   "hq": "SHOUGUANG CITY, SHANDONG, F4",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-28T06:46:27+09:00"
+  },
+  {
+   "id": "0000950103-26-018410",
+   "company": "vVARDIS Holding AG",
+   "ticker": "VVVV",
+   "cik": 1907709,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Henry Schein One, LLC, is a joint venture between Henry Schein, Inc.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1907709/000095010326018410/0000950103-26-018410-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1907709/000095010326018410/dp247738_ex9901.htm",
+   "filed_at": "2026-11-27T16:44:34-05:00",
+   "filed_kst": "2026-11-28 06:44",
+   "price": 15.38,
+   "change": 9.86,
+   "price_history": [
+    {
+     "date": "2026-11-27",
+     "close": 15.38,
+     "change": 9.86
+    },
+    {
+     "date": "2026-11-25",
+     "close": 14.0,
+     "change": 0.57
+    },
+    {
+     "date": "2026-11-24",
+     "close": 13.92,
+     "change": 0.51
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Surgical & Medical Instruments & Apparatus",
+   "state_of_incorporation": "Switzerland",
+   "hq": "ZUG",
+   "entity_category": null,
+   "detected_at": "2026-11-28T06:45:30+09:00"
+  },
   {
    "id": "0001213900-26-124585",
    "company": "OneConstruction Group Ltd",
@@ -15253,110 +15357,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T21:07:24+09:00"
-  },
-  {
-   "id": "0001140361-26-044617",
-   "company": "AES CORP",
-   "ticker": "AES",
-   "cik": 874761,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Stub Period Dividend As previously disclosed, on March 1, 2026, the Company entered into that certain Agreement and Plan of Merger ( as it may be amended from time to time, the “Merger Agreement”), by and among the Company, Horizon Parent, L.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126044617/0001140361-26-044617-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126044617/ny20085743x2_ex99-1.htm",
-   "filed_at": "2026-11-18T07:06:09-05:00",
-   "filed_kst": "2026-11-18 21:06",
-   "price": 14.97,
-   "change": 0.2,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 14.97,
-     "change": 0.2
-    },
-    {
-     "date": "2026-11-16",
-     "close": 14.94,
-     "change": 0.2
-    },
-    {
-     "date": "2026-11-13",
-     "close": 14.91,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 10682062930.0,
-   "shares_outstanding": 713564658.0,
-   "industry": "Cogeneration Services & Small Power Producers",
-   "state_of_incorporation": "DE",
-   "hq": "ARLINGTON, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T21:07:22+09:00"
-  },
-  {
-   "id": "0001213900-26-121590",
-   "company": "Can-Fite BioPharma Ltd.",
-   "ticker": "CANF",
-   "cik": 1536196,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "FDA"
-   ],
-   "confidence": 65,
-   "summary": "Namodenoson has been granted Orphan Drug Designation in the U.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026121590/0001213900-26-121590-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1536196/000121390026121590/ea031275301ex99-1.htm",
-   "filed_at": "2026-11-18T07:03:29-05:00",
-   "filed_kst": "2026-11-18 21:03",
-   "price": 1.53,
-   "change": -1.92,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 1.53,
-     "change": -1.92
-    },
-    {
-     "date": "2026-11-16",
-     "close": 1.56,
-     "change": 9.86
-    },
-    {
-     "date": "2026-11-13",
-     "close": 1.42,
-     "change": -4.7
-    }
-   ],
-   "market_cap": 4006190.0,
-   "shares_outstanding": 2618425.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "Israel",
-   "hq": "RAMAT GAN, L3",
-   "entity_category": [
-    "Non-accelerated filer"
-   ],
-   "detected_at": "2026-11-18T21:04:06+09:00"
   }
  ]
 }
