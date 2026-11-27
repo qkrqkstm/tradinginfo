@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-27T20:34:45+09:00",
+ "updated_at": "2026-11-27T20:39:45+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-124314",
+   "company": "OneConstruction Group Ltd",
+   "ticker": "ONEG",
+   "cik": 2030834,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "EX-99.3 4 ea031335901ex99-3.htm INDEMNIFICATION AGREEMENT BY AND BETWEEN ONECONSTRUCTION GROUP LIMITED AND TAIPENG MAO, DATED NOVEMBER 23, 2026 Exhibit 99.3 OneConstruction Group Limited Indemnification Agreement Dated as of 23 November 2026 This Indemnification Agreement (the “Agreement”) dated as ",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2030834/000121390026124314/0001213900-26-124314-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030834/000121390026124314/ea031335901ex99-3.htm",
+   "filed_at": "2026-11-27T06:35:11-05:00",
+   "filed_kst": "2026-11-27 20:35",
+   "price": 1.12,
+   "change": -8.94,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 1.12,
+     "change": -8.94
+    },
+    {
+     "date": "2026-11-24",
+     "close": 1.23,
+     "change": 5.13
+    },
+    {
+     "date": "2026-11-23",
+     "close": 1.17,
+     "change": 9.35
+    }
+   ],
+   "market_cap": 17920000.0,
+   "shares_outstanding": 16000000.0,
+   "industry": "General Bldg Contractors - Residential Bldgs",
+   "state_of_incorporation": null,
+   "hq": "WANCHAI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-27T20:36:03+09:00"
+  },
   {
    "id": "0001628280-26-076031",
    "company": "ECARX Holdings Inc.",
@@ -15322,57 +15373,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T16:29:45+09:00"
-  },
-  {
-   "id": "0001104659-03-029185",
-   "company": "BEST BUY CO INC",
-   "ticker": "BBY",
-   "cik": 764478,
-   "form": "8-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입",
-    "가이던스상향"
-   ],
-   "confidence": 63,
-   "summary": "21, 2003, the Company announced its intention to buy back shares under its existing share repurchase program.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/764478/000110465903029185/0001104659-03-029185-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/764478/000110465903029185/a03-6485_1ex99d1.htm",
-   "filed_at": "2003-12-23T17:25:43-05:00",
-   "filed_kst": "2003-12-24 07:25",
-   "price": 98.4,
-   "change": -4.79,
-   "price_history": [
-    {
-     "date": "2026-11-18",
-     "close": 98.4,
-     "change": -4.79
-    },
-    {
-     "date": "2026-11-16",
-     "close": 103.35,
-     "change": -0.69
-    },
-    {
-     "date": "2026-11-13",
-     "close": 104.07,
-     "change": 0.64
-    }
-   ],
-   "market_cap": 20637205483.0,
-   "shares_outstanding": 209727698.0,
-   "industry": "Retail-Radio, Tv & Consumer Electronics Stores",
-   "state_of_incorporation": "MN",
-   "hq": "RICHFIELD, MN",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T11:04:42+09:00"
   }
  ]
 }
