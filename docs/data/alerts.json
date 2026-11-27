@@ -1,7 +1,58 @@
 {
- "updated_at": "2026-11-27T20:24:17+09:00",
+ "updated_at": "2026-11-27T20:29:37+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001628280-26-076031",
+   "company": "ECARX Holdings Inc.",
+   "ticker": "ECX",
+   "cik": 1861974,
+   "form": "6-K",
+   "items": [],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 63,
+   "summary": "1 ECARX Announces US$20 million Share Repurchase Program SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1861974/000162828026076031/0001628280-26-076031-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1861974/000162828026076031/a4920-4519x0724_v347xecxxf.htm",
+   "filed_at": "2026-11-27T06:24:46-05:00",
+   "filed_kst": "2026-11-27 20:24",
+   "price": 0.58,
+   "change": -0.02,
+   "price_history": [
+    {
+     "date": "2026-11-27",
+     "close": 0.58,
+     "change": -0.02
+    },
+    {
+     "date": "2026-11-25",
+     "close": 0.58,
+     "change": 0.34
+    },
+    {
+     "date": "2026-11-24",
+     "close": 0.58,
+     "change": -5.36
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Services-Computer Integrated Systems Design",
+   "state_of_incorporation": null,
+   "hq": "SHANGHAI, F4",
+   "entity_category": [
+    "Accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-27T20:25:39+09:00"
+  },
   {
    "id": "0001193125-26-479101",
    "company": "Sanofi",
@@ -15322,60 +15373,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T11:04:42+09:00"
-  },
-  {
-   "id": "0001140361-26-044548",
-   "company": "AES CORP",
-   "ticker": "AES",
-   "cik": 874761,
-   "form": "8-K",
-   "items": [
-    "7.01",
-    "8.01",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 63,
-   "summary": "Final Regulatory Approval and Expected Closing Date As previously announced, on March 1, 2026, the Company entered into an Agreement and Plan of Merger (as it may be amended from time to time, the “ Merger Agreement ”), by and among the Company, Horizon Parent, L.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126044548/0001140361-26-044548-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/874761/000114036126044548/ny20085743x1_ex99-1.htm",
-   "filed_at": "2026-11-17T17:24:22-05:00",
-   "filed_kst": "2026-11-18 07:24",
-   "price": 14.97,
-   "change": 0.2,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 14.97,
-     "change": 0.2
-    },
-    {
-     "date": "2026-11-16",
-     "close": 14.94,
-     "change": 0.2
-    },
-    {
-     "date": "2026-11-13",
-     "close": 14.91,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 10682062930.0,
-   "shares_outstanding": 713564658.0,
-   "industry": "Cogeneration Services & Small Power Producers",
-   "state_of_incorporation": "DE",
-   "hq": "ARLINGTON, VA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T07:25:45+09:00"
   }
  ]
 }
