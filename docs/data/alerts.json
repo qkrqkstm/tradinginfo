@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-11-28T06:19:16+09:00",
+ "updated_at": "2026-11-28T06:24:36+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001213900-26-124585",
+   "company": "OneConstruction Group Ltd",
+   "ticker": "ONEG",
+   "cik": 2030834,
+   "form": "6-K",
+   "items": [],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각",
+    "파트너십"
+   ],
+   "confidence": 65,
+   "summary": "No Ordinary Shares will be cancelled, consolidated or issued as a result of the Migration, and each shareholder will hold the same number of shares, representing the same percentage of the Company’s issued shares and voting rights, immediately after the Migration as immed",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2030834/000121390026124585/0001213900-26-124585-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2030834/000121390026124585/ea031370201ex99-1.htm",
+   "filed_at": "2026-11-27T16:20:11-05:00",
+   "filed_kst": "2026-11-28 06:20",
+   "price": 1.16,
+   "change": 3.57,
+   "price_history": [
+    {
+     "date": "2026-11-27",
+     "close": 1.16,
+     "change": 3.57
+    },
+    {
+     "date": "2026-11-25",
+     "close": 1.12,
+     "change": -8.94
+    },
+    {
+     "date": "2026-11-24",
+     "close": 1.23,
+     "change": 5.13
+    }
+   ],
+   "market_cap": 18560000.0,
+   "shares_outstanding": 16000000.0,
+   "industry": "General Bldg Contractors - Residential Bldgs",
+   "state_of_incorporation": null,
+   "hq": "WANCHAI",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Emerging growth company"
+   ],
+   "detected_at": "2026-11-28T06:21:12+09:00"
+  },
   {
    "id": "0001376474-26-000740",
    "company": "ZenaTech, Inc.",
@@ -15305,56 +15357,6 @@
     "Non-accelerated filer"
    ],
    "detected_at": "2026-11-18T21:04:06+09:00"
-  },
-  {
-   "id": "0001193125-26-466163",
-   "company": "Melco Resorts & Entertainment LTD",
-   "ticker": "MLCO",
-   "cik": 1381640,
-   "form": "6-K",
-   "items": [],
-   "primary": "자사주매입",
-   "primary_key": "buyback",
-   "emoji": "💰",
-   "types": [
-    "자사주매입"
-   ],
-   "confidence": 59,
-   "summary": "EX-99.1 2 d117423dex991.htm MELCO INTERNATIONAL DEVELOPMENT LIMITED ANNOUNCEMENT Melco International Development Limited Announcement Exhibit 99.1 Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this announcement, make n",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1381640/000119312526466163/0001193125-26-466163-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1381640/000119312526466163/d117423dex991.htm",
-   "filed_at": "2026-11-18T06:52:53-05:00",
-   "filed_kst": "2026-11-18 20:52",
-   "price": 4.22,
-   "change": -0.71,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 4.22,
-     "change": -0.71
-    },
-    {
-     "date": "2026-11-16",
-     "close": 4.25,
-     "change": -0.7
-    },
-    {
-     "date": "2026-11-13",
-     "close": 4.28,
-     "change": 2.39
-    }
-   ],
-   "market_cap": 5149986779.0,
-   "shares_outstanding": 1220376014.0,
-   "industry": "Hotels & Motels",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "HONG KONG., K3",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T20:53:42+09:00"
   }
  ]
 }
