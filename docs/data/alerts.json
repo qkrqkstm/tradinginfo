@@ -1,7 +1,60 @@
 {
- "updated_at": "2026-11-28T00:19:29+09:00",
+ "updated_at": "2026-11-28T00:24:12+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001564708-26-000270",
+   "company": "NEWS CORP",
+   "ticker": "NWS",
+   "cik": 1564708,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "자사주매입",
+   "primary_key": "buyback",
+   "emoji": "💰",
+   "types": [
+    "자사주매입"
+   ],
+   "confidence": 59,
+   "summary": "As previously reported, under News Corporation's (the \"Company's\") stock repurchase program (the \"Repurchase Program\"), the Company is authorized to acquire from time to time up to $1 billion in the aggregate of the Company's outstanding shares of Class A common stock and Class B common stock.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000270/0001564708-26-000270-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000270/appendix3cclassa20261125.htm",
+   "filed_at": "2026-11-27T10:20:40-05:00",
+   "filed_kst": "2026-11-28 00:20",
+   "price": 28.95,
+   "change": 0.05,
+   "price_history": [
+    {
+     "date": "2026-11-27",
+     "close": 28.95,
+     "change": 0.05
+    },
+    {
+     "date": "2026-11-25",
+     "close": 28.94,
+     "change": 0.7
+    },
+    {
+     "date": "2026-11-24",
+     "close": 28.74,
+     "change": 1.59
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Newspapers: Publishing or  Publishing & Printing",
+   "state_of_incorporation": "DE",
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-28T00:21:49+09:00"
+  },
   {
    "id": "0001171843-26-007737",
    "company": "TOP SHIPS INC.",
@@ -15325,58 +15378,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-18T20:03:35+09:00"
-  },
-  {
-   "id": "0001213900-26-121505",
-   "company": "Stellar V Capital Corp. (Cayman Islands)",
-   "ticker": "SVCC",
-   "cik": 2033593,
-   "form": "425",
-   "items": [],
-   "primary": "주식소각",
-   "primary_key": "retirement",
-   "emoji": "🔥",
-   "types": [
-    "주식소각",
-    "M&A",
-    "대형계약"
-   ],
-   "confidence": 83,
-   "summary": "22 (d) Cancellation of Acquiror Ordinary Shares Owned by Acquiror .",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/2033593/000121390026121505/0001213900-26-121505-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/2033593/000121390026121505/ea031252701ex99-1.htm",
-   "filed_at": "2026-11-17T18:05:51-05:00",
-   "filed_kst": "2026-11-18 08:05",
-   "price": 10.57,
-   "change": -1.08,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 10.57,
-     "change": -1.08
-    },
-    {
-     "date": "2026-11-16",
-     "close": 10.69,
-     "change": 0.28
-    },
-    {
-     "date": "2026-11-13",
-     "close": 10.66,
-     "change": -4.74
-    }
-   ],
-   "market_cap": null,
-   "shares_outstanding": null,
-   "industry": "Blank Checks",
-   "state_of_incorporation": "Cayman Islands",
-   "hq": "NEW YORK, NY",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-18T20:02:12+09:00"
   }
  ]
 }
