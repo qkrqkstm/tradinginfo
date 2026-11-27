@@ -1,7 +1,61 @@
 {
- "updated_at": "2026-11-28T07:09:07+09:00",
+ "updated_at": "2026-11-28T07:14:58+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001096906-26-001913",
+   "company": "Sentinel Holdings Ltd.",
+   "ticker": "SNTL",
+   "cik": 889353,
+   "form": "8-K",
+   "items": [
+    "1.02",
+    "9.01"
+   ],
+   "primary": "주식소각",
+   "primary_key": "retirement",
+   "emoji": "🔥",
+   "types": [
+    "주식소각"
+   ],
+   "confidence": 59,
+   "summary": "A related agreement was reached between the Company and Fabianna Carballido de Reitz (“FCR”) resulting in the cancellation of 6,667 Common shares issued to FCR in connection with the Stock Exchange Agreement.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/889353/000109690626001913/0001096906-26-001913-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/889353/000109690626001913/sntl-20261123_8k.htm",
+   "filed_at": "2026-11-27T17:10:27-05:00",
+   "filed_kst": "2026-11-28 07:10",
+   "price": 1.45,
+   "change": -9.37,
+   "price_history": [
+    {
+     "date": "2026-11-27",
+     "close": 1.45,
+     "change": -9.37
+    },
+    {
+     "date": "2026-11-25",
+     "close": 1.6,
+     "change": 1.91
+    },
+    {
+     "date": "2026-11-24",
+     "close": 1.57,
+     "change": -0.63
+    }
+   ],
+   "market_cap": 14631122.0,
+   "shares_outstanding": 10090429.0,
+   "industry": "Services-Personal Services",
+   "state_of_incorporation": "NV",
+   "hq": "LANCASTER, CA",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-28T07:11:25+09:00"
+  },
   {
    "id": "0001317861-26-000060",
    "company": "Dynagas LNG Partners LP",
@@ -15303,59 +15357,6 @@
    "hq": "LONDON",
    "entity_category": null,
    "detected_at": "2026-11-18T21:17:55+09:00"
-  },
-  {
-   "id": "0001178913-26-005268",
-   "company": "ZIM Integrated Shipping Services Ltd.",
-   "ticker": "ZIM",
-   "cik": 1654126,
-   "form": "6-K",
-   "items": [],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A",
-    "파트너십",
-    "가이던스상향",
-    "배당"
-   ],
-   "confidence": 90,
-   "summary": "Entry Into Agreement and Plan of Merger On February 16, 2026, the Company entered into an Agreement and Plan of Merger, by and among the Company, Hapag-Lloyd AG, a shipping company incorporated under the laws of Germany (“Parent”), and Norazia (Israel) Ltd.",
-   "deal_role": "target",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1654126/000117891326005268/0001178913-26-005268-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1654126/000117891326005268/exhibit_99-2.htm",
-   "filed_at": "2026-11-18T07:10:44-05:00",
-   "filed_kst": "2026-11-18 21:10",
-   "price": 29.69,
-   "change": 1.99,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 29.69,
-     "change": 1.99
-    },
-    {
-     "date": "2026-11-16",
-     "close": 29.11,
-     "change": -0.78
-    },
-    {
-     "date": "2026-11-13",
-     "close": 29.34,
-     "change": 0.34
-    }
-   ],
-   "market_cap": 3576632809.0,
-   "shares_outstanding": 120465908.0,
-   "industry": "Deep Sea Foreign Transportation of  Freight",
-   "state_of_incorporation": "Israel",
-   "hq": "HAIFA",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T21:12:00+09:00"
   }
  ]
 }
