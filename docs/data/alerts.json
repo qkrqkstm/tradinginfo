@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-28T03:29:18+09:00",
+ "updated_at": "2026-11-28T03:34:28+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001178913-26-005400",
+   "company": "Sol-Gel Technologies Ltd.",
+   "ticker": "SLGL",
+   "cik": 1684693,
+   "form": "6-K",
+   "items": [],
+   "primary": "탑라인결과",
+   "primary_key": "topline",
+   "emoji": "📊",
+   "types": [
+    "탑라인결과"
+   ],
+   "confidence": 60,
+   "summary": "1 Sol-Gel Technologies to Host Conference Call to Discuss Top-Line Results from Pivotal Phase 3 Clinical Trial of SGT-610 in Gorlin Syndrome • Conference call to take place Monday, November 30, 2026, at 8:00am Eastern Time NESS ZIONA, Israel, November 27, 2026 (GLOBE NEWSWIRE) - Sol-Gel Technologies",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1684693/000117891326005400/0001178913-26-005400-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1684693/000117891326005400/exhibit_99-1.htm",
+   "filed_at": "2026-11-27T13:30:21-05:00",
+   "filed_kst": "2026-11-28 03:30",
+   "price": 54.78,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-27",
+     "close": 54.78,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "close": 54.78,
+     "change": -4.4
+    },
+    {
+     "date": "2026-11-25",
+     "close": 57.3,
+     "change": 2.32
+    }
+   ],
+   "market_cap": 152625735.0,
+   "shares_outstanding": 2786158.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "Israel",
+   "hq": "NESS ZIONA",
+   "entity_category": [
+    "Non-accelerated filer"
+   ],
+   "detected_at": "2026-11-28T03:31:20+09:00"
+  },
   {
    "id": "0001654954-26-010161",
    "company": "HSBC HOLDINGS PLC",
@@ -15327,57 +15377,6 @@
     "Emerging growth company"
    ],
    "detected_at": "2026-11-18T20:04:27+09:00"
-  },
-  {
-   "id": "0001171843-26-007528",
-   "company": "Foremost Clean Energy Ltd.",
-   "ticker": "FMST",
-   "cik": 1935418,
-   "form": "6-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "EX-99.1 2 exh_991.htm PRESS RELEASE EdgarFiling EXHIBIT 99.1 Foremost Clean Energy Discovers Uranium Mineralization During Inaugural Drill Program at Turkey Lake TL-26-02 intersected 0.13% eU₃O₈ over 3.0 metres, including 0.29% eU₃O₈ over 0.5 metres VANCOUVER, British Columbia, Nov. 17, 2026 (GLOBE ",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1935418/000117184326007528/0001171843-26-007528-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1935418/000117184326007528/exh_991.htm",
-   "filed_at": "2026-11-18T06:00:15-05:00",
-   "filed_kst": "2026-11-18 20:00",
-   "price": 0.63,
-   "change": 8.97,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 0.63,
-     "change": 8.97
-    },
-    {
-     "date": "2026-11-16",
-     "close": 0.58,
-     "change": -13.95
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.67,
-     "change": -1.32
-    }
-   ],
-   "market_cap": 10256765.0,
-   "shares_outstanding": 16280580.0,
-   "industry": "Miscellaneous Metal Ores",
-   "state_of_incorporation": "British Columbia, Canada",
-   "hq": "VANCOUVER",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-18T20:04:20+09:00"
   }
  ]
 }
