@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-27T20:54:38+09:00",
+ "updated_at": "2026-11-27T20:59:19+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001193125-26-479145",
+   "company": "Lufax Holding Ltd",
+   "ticker": "LU",
+   "cik": 1816007,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "Approve, ratify and confirm the renewal of the transactions contemplated under the 2026 Ping An Consumer Finance Collaboration Agreement for the years ending December 31, 2027 and December 31, 2028, including the proposed annual caps; and authorize any one executive Director to execute documents, af",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1816007/000119312526479145/0001193125-26-479145-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1816007/000119312526479145/d93514dex993.htm",
+   "filed_at": "2026-11-27T06:58:42-05:00",
+   "filed_kst": "2026-11-27 20:58",
+   "price": 6.4,
+   "change": 2.73,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 6.4,
+     "change": 2.73
+    },
+    {
+     "date": "2026-11-24",
+     "close": 6.23,
+     "change": -3.86
+    },
+    {
+     "date": "2026-11-23",
+     "close": 6.48,
+     "change": 8.91
+    }
+   ],
+   "market_cap": 11093608538.0,
+   "shares_outstanding": 1733376334.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "SHANGHAI",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-27T20:59:19+09:00"
+  },
   {
    "id": "0001654954-26-010148",
    "company": "HSBC HOLDINGS PLC",
@@ -15322,56 +15372,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T17:28:39+09:00"
-  },
-  {
-   "id": "0000896058-94-000003",
-   "company": "SILGAN HOLDINGS INC",
-   "ticker": "SLGN",
-   "cik": 849869,
-   "form": "8-K",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "9, and the supply and joint venture agreements and equipment leases identified on Schedule 4.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/849869/0000896058-94-000003-index.html",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/849869/000089605894000003/0000896058-94-000003-index.html",
-   "filed_at": "1994-01-05T00:00:00-05:00",
-   "filed_kst": "1994-01-05 14:00",
-   "price": 40.25,
-   "change": -1.13,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 40.25,
-     "change": -1.13
-    },
-    {
-     "date": "2026-11-16",
-     "close": 40.71,
-     "change": -0.46
-    },
-    {
-     "date": "2026-11-13",
-     "close": 40.9,
-     "change": 0.47
-    }
-   ],
-   "market_cap": 4253701305.0,
-   "shares_outstanding": 105682020.0,
-   "industry": "Metal Cans",
-   "state_of_incorporation": "DE",
-   "hq": "NORWALK, CT",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T16:30:11+09:00"
   }
  ]
 }
