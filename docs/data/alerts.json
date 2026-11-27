@@ -1,7 +1,112 @@
 {
- "updated_at": "2026-11-27T20:09:40+09:00",
+ "updated_at": "2026-11-27T20:14:44+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001654954-26-010144",
+   "company": "GSK plc",
+   "ticker": "GSK",
+   "cik": 1131399,
+   "form": "6-K",
+   "items": [],
+   "primary": "FDA",
+   "primary_key": "fda",
+   "emoji": "🏛️",
+   "types": [
+    "임상통과",
+    "FDA"
+   ],
+   "confidence": 84,
+   "summary": "1 The approval was granted under Breakthrough Therapy and Priority Review designations, recognising the high unmet need in China and potential for substantial clinical improvement over existing therapies.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426010144/0001654954-26-010144-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426010144/a7209e.htm",
+   "filed_at": "2026-11-27T06:12:10-05:00",
+   "filed_kst": "2026-11-27 20:12",
+   "price": 50.76,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-27",
+     "close": 50.76,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-25",
+     "close": 50.76,
+     "change": 1.38
+    },
+    {
+     "date": "2026-11-24",
+     "close": 50.07,
+     "change": 3.09
+    }
+   ],
+   "market_cap": 219051989520.0,
+   "shares_outstanding": 4315445026.0,
+   "industry": "Pharmaceutical Preparations",
+   "state_of_incorporation": "United Kingdom",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-27T20:13:02+09:00"
+  },
+  {
+   "id": "0001493152-26-054333",
+   "company": "Chaince Digital Holdings Inc.",
+   "ticker": "CD",
+   "cik": 1527762,
+   "form": "8-K",
+   "items": [
+    "8.01",
+    "9.01"
+   ],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "1 Chaince Digital Subsidiary Signs Joint Venture Framework Agreement to Develop an AI Data Center with Potential for Up to 25 MW of Power Capacity in Big Lake, Texas Nov 23, 2026 Chaince Compute expected to hold 60% of the proposed joint venture; Big Lake would be its first announced projec",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226054333/0001493152-26-054333-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226054333/ex99-1.htm",
+   "filed_at": "2026-11-27T06:10:06-05:00",
+   "filed_kst": "2026-11-27 20:10",
+   "price": 5.67,
+   "change": -3.57,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 5.67,
+     "change": -3.57
+    },
+    {
+     "date": "2026-11-24",
+     "close": 5.88,
+     "change": 30.38
+    },
+    {
+     "date": "2026-11-23",
+     "close": 4.51,
+     "change": 18.68
+    }
+   ],
+   "market_cap": 623721546.0,
+   "shares_outstanding": 110003800.0,
+   "industry": "Finance Services",
+   "state_of_incorporation": null,
+   "hq": "NEW YORK, NY",
+   "entity_category": [
+    "Non-accelerated filer",
+    "Smaller reporting company"
+   ],
+   "detected_at": "2026-11-27T20:11:22+09:00"
+  },
   {
    "id": "0001213900-26-124284",
    "company": "EQT Corp",
@@ -15270,113 +15375,6 @@
     "Accelerated filer"
    ],
    "detected_at": "2026-11-18T07:23:57+09:00"
-  },
-  {
-   "id": "0001437749-26-037420",
-   "company": "Stablecoin Development Corp",
-   "ticker": "SDEV",
-   "cik": 1389545,
-   "form": "8-K",
-   "items": [
-    "8.01",
-    "9.01"
-   ],
-   "primary": "대형계약",
-   "primary_key": "contract",
-   "emoji": "📝",
-   "types": [
-    "대형계약"
-   ],
-   "confidence": 55,
-   "summary": "333-290712) (the “Registration Statement”), relating to the offer and sale of up to $100.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1389545/000143774926037420/0001437749-26-037420-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1389545/000143774926037420/sdev20261116_8k.htm",
-   "filed_at": "2026-11-17T17:14:59-05:00",
-   "filed_kst": "2026-11-18 07:14",
-   "price": 0.7,
-   "change": -1.89,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 0.7,
-     "change": -1.89
-    },
-    {
-     "date": "2026-11-16",
-     "close": 0.71,
-     "change": -8.97
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.78,
-     "change": 0.0
-    }
-   ],
-   "market_cap": 51181911.0,
-   "shares_outstanding": 73117016.0,
-   "industry": "Finance Services",
-   "state_of_incorporation": "DE",
-   "hq": "WEST PALM BEACH, FL",
-   "entity_category": [
-    "Non-accelerated filer",
-    "Smaller reporting company"
-   ],
-   "detected_at": "2026-11-18T07:15:44+09:00"
-  },
-  {
-   "id": "0001213900-26-121461",
-   "company": "reAlpha Tech Corp.",
-   "ticker": "AIRE",
-   "cik": 1859199,
-   "form": "8-K",
-   "items": [
-    "2.02",
-    "9.01"
-   ],
-   "primary": "M&A",
-   "primary_key": "ma",
-   "emoji": "🤝",
-   "types": [
-    "M&A"
-   ],
-   "confidence": 59,
-   "summary": "” Business Highlights ● In Q3 2026, reAlpha completed the acquisition of InstaMortgage, adding multi-state direct lending, in-house underwriting and funding capabilities to reAlpha’s integrated mortgage platform and expanding its mortgage footprint across 38 states and Washington, D.",
-   "deal_role": "acquirer",
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1859199/000121390026121461/0001213900-26-121461-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1859199/000121390026121461/ea031249101ex99-1.htm",
-   "filed_at": "2026-11-17T17:05:40-05:00",
-   "filed_kst": "2026-11-18 07:05",
-   "price": 0.39,
-   "change": 10.6,
-   "price_history": [
-    {
-     "date": "2026-11-17",
-     "close": 0.39,
-     "change": 10.6
-    },
-    {
-     "date": "2026-11-16",
-     "close": 0.35,
-     "change": -1.4
-    },
-    {
-     "date": "2026-11-13",
-     "close": 0.36,
-     "change": -1.92
-    }
-   ],
-   "market_cap": 2899269.0,
-   "shares_outstanding": 7434024.0,
-   "industry": "Real Estate",
-   "state_of_incorporation": "DE",
-   "hq": "DUBLIN, OH",
-   "entity_category": [
-    "Emerging growth company"
-   ],
-   "detected_at": "2026-11-18T07:06:56+09:00"
   }
  ]
 }
