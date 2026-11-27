@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-27T20:59:19+09:00",
+ "updated_at": "2026-11-27T21:04:33+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001493152-26-054406",
+   "company": "Diginex Ltd",
+   "ticker": "DGNX",
+   "cik": 2010499,
+   "form": "6-K",
+   "items": [],
+   "primary": "M&A",
+   "primary_key": "ma",
+   "emoji": "🤝",
+   "types": [
+    "M&A"
+   ],
+   "confidence": 59,
+   "summary": "6-K 1 form6-k.htm 6-K UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 6-K REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934 For the month of November 2026 Commission File Number: 001-42459 DIGINEX LIMITED (Exact ",
+   "deal_role": "acquirer",
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2010499/000149315226054406/0001493152-26-054406-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/2010499/000149315226054406/form6-k.htm",
+   "filed_at": "2026-11-27T06:59:54-05:00",
+   "filed_kst": "2026-11-27 20:59",
+   "price": 1.03,
+   "change": 0.0,
+   "price_history": [
+    {
+     "date": "2026-11-25",
+     "close": 1.03,
+     "change": 0.0
+    },
+    {
+     "date": "2026-11-24",
+     "close": 1.03,
+     "change": -3.74
+    },
+    {
+     "date": "2026-11-23",
+     "close": 1.07,
+     "change": 10.31
+    }
+   ],
+   "market_cap": 30004034.0,
+   "shares_outstanding": 29130130.0,
+   "industry": "Services-Computer Processing & Data Preparation",
+   "state_of_incorporation": "Cayman Islands",
+   "hq": "LONDON",
+   "entity_category": [
+    "Large accelerated filer"
+   ],
+   "detected_at": "2026-11-27T21:01:03+09:00"
+  },
   {
    "id": "0001193125-26-479145",
    "company": "Lufax Holding Ltd",
@@ -15322,56 +15372,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T18:27:04+09:00"
-  },
-  {
-   "id": "0000077360-94-000038",
-   "company": "PENTAIR plc",
-   "ticker": "PNR",
-   "cik": 77360,
-   "form": "8-K/A",
-   "items": [],
-   "primary": "파트너십",
-   "primary_key": "partnership",
-   "emoji": "🔗",
-   "types": [
-    "파트너십"
-   ],
-   "confidence": 56,
-   "summary": "5 Subject to the approval of licensor, if required, rights to use industrial property granted under license agreements listed in Exhibit 2.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/77360/0000077360-94-000038-index.html",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/77360/000007736094000038/0000077360-94-000038-index.html",
-   "filed_at": "1994-01-10T00:00:00-05:00",
-   "filed_kst": "1994-01-10 14:00",
-   "price": 66.88,
-   "change": 0.0,
-   "price_history": [
-    {
-     "date": "2026-11-18",
-     "close": 66.88,
-     "change": 0.0
-    },
-    {
-     "date": "2026-11-17",
-     "close": 66.88,
-     "change": -2.28
-    },
-    {
-     "date": "2026-11-16",
-     "close": 68.44,
-     "change": 0.2
-    }
-   ],
-   "market_cap": 10677705132.0,
-   "shares_outstanding": 159654682.0,
-   "industry": "Special Industry Machinery (No Metalworking Machinery)",
-   "state_of_incorporation": "Ireland",
-   "hq": "LONDON, X0",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T17:28:39+09:00"
   }
  ]
 }
