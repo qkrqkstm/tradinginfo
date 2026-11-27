@@ -1,7 +1,57 @@
 {
- "updated_at": "2026-11-28T06:59:11+09:00",
+ "updated_at": "2026-11-28T07:04:51+09:00",
  "count": 300,
  "alerts": [
+  {
+   "id": "0001317861-26-000060",
+   "company": "Dynagas LNG Partners LP",
+   "ticker": "DLNG",
+   "cik": 1578453,
+   "form": "6-K",
+   "items": [],
+   "primary": "파트너십",
+   "primary_key": "partnership",
+   "emoji": "🔗",
+   "types": [
+    "파트너십"
+   ],
+   "confidence": 56,
+   "summary": "(NYSE: DLNG) is a master limited partnership which owns liquefied natural gas (LNG) carriers employed on multi-year charters.",
+   "deal_role": null,
+   "is_followup": false,
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000060/0001317861-26-000060-index.htm",
+   "doc_url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000060/f112726dlng6k.htm",
+   "filed_at": "2026-11-27T17:02:57-05:00",
+   "filed_kst": "2026-11-28 07:02",
+   "price": 3.08,
+   "change": 0.65,
+   "price_history": [
+    {
+     "date": "2026-11-27",
+     "close": 3.08,
+     "change": 0.65
+    },
+    {
+     "date": "2026-11-25",
+     "close": 3.06,
+     "change": -1.92
+    },
+    {
+     "date": "2026-11-24",
+     "close": 3.12,
+     "change": 0.65
+    }
+   ],
+   "market_cap": null,
+   "shares_outstanding": null,
+   "industry": "Water Transportation",
+   "state_of_incorporation": "Marshall Islands",
+   "hq": "ATHENS",
+   "entity_category": [
+    "Accelerated filer"
+   ],
+   "detected_at": "2026-11-28T07:03:46+09:00"
+  },
   {
    "id": "0001493152-26-054508",
    "company": "GULF RESOURCES, INC.",
@@ -15306,57 +15356,6 @@
     "Large accelerated filer"
    ],
    "detected_at": "2026-11-18T21:12:00+09:00"
-  },
-  {
-   "id": "0001654954-26-009959",
-   "company": "GSK plc",
-   "ticker": "GSK",
-   "cik": 1131399,
-   "form": "6-K",
-   "items": [],
-   "primary": "FDA",
-   "primary_key": "fda",
-   "emoji": "🏛️",
-   "types": [
-    "파트너십",
-    "FDA"
-   ],
-   "confidence": 76,
-   "summary": "htm FDA APPROVES NELKARMI FOR PRETREATED ALK+ NSCLC a5780d UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.",
-   "deal_role": null,
-   "is_followup": false,
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009959/0001654954-26-009959-index.htm",
-   "doc_url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009959/a5780d.htm",
-   "filed_at": "2026-11-18T07:06:13-05:00",
-   "filed_kst": "2026-11-18 21:06",
-   "price": 49.24,
-   "change": -0.0,
-   "price_history": [
-    {
-     "date": "2026-11-18",
-     "close": 49.24,
-     "change": -0.0
-    },
-    {
-     "date": "2026-11-17",
-     "close": 49.24,
-     "change": -2.32
-    },
-    {
-     "date": "2026-11-16",
-     "close": 50.41,
-     "change": -0.08
-    }
-   ],
-   "market_cap": 212492513080.0,
-   "shares_outstanding": 4315445026.0,
-   "industry": "Pharmaceutical Preparations",
-   "state_of_incorporation": "United Kingdom",
-   "hq": "LONDON",
-   "entity_category": [
-    "Large accelerated filer"
-   ],
-   "detected_at": "2026-11-18T21:07:24+09:00"
   }
  ]
 }
